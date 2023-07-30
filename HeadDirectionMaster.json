@@ -1,0 +1,30 @@
+[
+  [
+    1,
+    "head/normal"
+  ],
+  [
+    2,
+    "head/leftward"
+  ],
+  [
+    3,
+    "head/rightward"
+  ],
+  [
+    4,
+    "head/downward"
+  ],
+  [
+    5,
+    "head/upward"
+  ],
+  [
+    6,
+    "head/tilt_left"
+  ],
+  [
+    7,
+    "head/tilt_right"
+  ]
+]
