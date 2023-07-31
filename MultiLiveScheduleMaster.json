@@ -1,89 +1,23 @@
 [
-  [
-    1,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          97,
-          207,
-          153,
-          128
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          100,
-          197,
-          69,
-          144
-        ]
-      },
-      "type": 255
-    },
-    11,
-    12
-  ],
-  [
-    2,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          100,
-          197,
-          69,
-          144
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          100,
-          210,
-          186,
-          224
-        ]
-      },
-      "type": 255
-    },
-    11,
-    14
-  ],
-  [
-    3,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          100,
-          210,
-          186,
-          224
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    },
-    11,
-    12
-  ]
+  {
+    "Id": 1,
+    "StartDate": "2022-01-01T00:00:00.000Z",
+    "EndDate": "2023-07-29T17:00:00.000Z",
+    "LiveSettingMasterId1": 11,
+    "LiveSettingMasterId2": 12
+  },
+  {
+    "Id": 2,
+    "StartDate": "2023-07-29T17:00:00.000Z",
+    "EndDate": "2023-08-08T22:00:00.000Z",
+    "LiveSettingMasterId1": 11,
+    "LiveSettingMasterId2": 14
+  },
+  {
+    "Id": 3,
+    "StartDate": "2023-08-08T22:00:00.000Z",
+    "EndDate": "2100-01-01T00:00:00.000Z",
+    "LiveSettingMasterId1": 11,
+    "LiveSettingMasterId2": 12
+  }
 ]

@@ -1,826 +1,826 @@
 [
-  [
-    100001,
-    0,
-    0,
-    0,
-    0,
-    1
-  ],
-  [
-    100002,
-    0,
-    0,
-    0,
-    0,
-    2
-  ],
-  [
-    100003,
-    0,
-    0,
-    0,
-    0,
-    3
-  ],
-  [
-    100004,
-    0,
-    0,
-    0,
-    0,
-    4
-  ],
-  [
-    100005,
-    0,
-    0,
-    0,
-    0,
-    5
-  ],
-  [
-    100010,
-    0,
-    0,
-    0,
-    1,
-    0
-  ],
-  [
-    100012,
-    0,
-    0,
-    0,
-    1,
-    2
-  ],
-  [
-    100014,
-    0,
-    0,
-    0,
-    1,
-    4
-  ],
-  [
-    100020,
-    0,
-    0,
-    0,
-    2,
-    0
-  ],
-  [
-    100021,
-    0,
-    0,
-    0,
-    2,
-    1
-  ],
-  [
-    100023,
-    0,
-    0,
-    0,
-    2,
-    3
-  ],
-  [
-    100030,
-    0,
-    0,
-    0,
-    3,
-    0
-  ],
-  [
-    100032,
-    0,
-    0,
-    0,
-    3,
-    2
-  ],
-  [
-    100040,
-    0,
-    0,
-    0,
-    4,
-    0
-  ],
-  [
-    100041,
-    0,
-    0,
-    0,
-    4,
-    1
-  ],
-  [
-    100050,
-    0,
-    0,
-    0,
-    5,
-    0
-  ],
-  [
-    100100,
-    0,
-    0,
-    1,
-    0,
-    0
-  ],
-  [
-    100102,
-    0,
-    0,
-    1,
-    0,
-    2
-  ],
-  [
-    100104,
-    0,
-    0,
-    1,
-    0,
-    4
-  ],
-  [
-    100111,
-    0,
-    0,
-    1,
-    1,
-    1
-  ],
-  [
-    100112,
-    0,
-    0,
-    1,
-    1,
-    2
-  ],
-  [
-    100113,
-    0,
-    0,
-    1,
-    1,
-    3
-  ],
-  [
-    100114,
-    0,
-    0,
-    1,
-    1,
-    4
-  ],
-  [
-    100120,
-    0,
-    0,
-    1,
-    2,
-    0
-  ],
-  [
-    100122,
-    0,
-    0,
-    1,
-    2,
-    2
-  ],
-  [
-    100131,
-    0,
-    0,
-    1,
-    3,
-    1
-  ],
-  [
-    100140,
-    0,
-    0,
-    1,
-    4,
-    0
-  ],
-  [
-    100200,
-    0,
-    0,
-    2,
-    0,
-    0
-  ],
-  [
-    100201,
-    0,
-    0,
-    2,
-    0,
-    1
-  ],
-  [
-    100203,
-    0,
-    0,
-    2,
-    0,
-    3
-  ],
-  [
-    100210,
-    0,
-    0,
-    2,
-    1,
-    0
-  ],
-  [
-    100212,
-    0,
-    0,
-    2,
-    1,
-    2
-  ],
-  [
-    100221,
-    0,
-    0,
-    2,
-    2,
-    1
-  ],
-  [
-    100223,
-    0,
-    0,
-    2,
-    2,
-    3
-  ],
-  [
-    100230,
-    0,
-    0,
-    2,
-    3,
-    0
-  ],
-  [
-    100300,
-    0,
-    0,
-    3,
-    0,
-    0
-  ],
-  [
-    100302,
-    0,
-    0,
-    3,
-    0,
-    2
-  ],
-  [
-    100311,
-    0,
-    0,
-    3,
-    1,
-    1
-  ],
-  [
-    100320,
-    0,
-    0,
-    3,
-    2,
-    0
-  ],
-  [
-    100400,
-    0,
-    0,
-    4,
-    0,
-    0
-  ],
-  [
-    100401,
-    0,
-    0,
-    4,
-    0,
-    1
-  ],
-  [
-    100410,
-    0,
-    0,
-    4,
-    1,
-    0
-  ],
-  [
-    100411,
-    0,
-    0,
-    4,
-    1,
-    1
-  ],
-  [
-    100500,
-    0,
-    0,
-    5,
-    0,
-    0
-  ],
-  [
-    101000,
-    0,
-    1,
-    0,
-    0,
-    0
-  ],
-  [
-    101002,
-    0,
-    1,
-    0,
-    0,
-    2
-  ],
-  [
-    101004,
-    0,
-    1,
-    0,
-    0,
-    4
-  ],
-  [
-    101011,
-    0,
-    1,
-    0,
-    1,
-    1
-  ],
-  [
-    101013,
-    0,
-    1,
-    0,
-    1,
-    3
-  ],
-  [
-    101020,
-    0,
-    1,
-    0,
-    2,
-    0
-  ],
-  [
-    101022,
-    0,
-    1,
-    0,
-    2,
-    2
-  ],
-  [
-    101031,
-    0,
-    1,
-    0,
-    3,
-    1
-  ],
-  [
-    101040,
-    0,
-    1,
-    0,
-    4,
-    0
-  ],
-  [
-    101041,
-    0,
-    1,
-    0,
-    4,
-    1
-  ],
-  [
-    101101,
-    0,
-    1,
-    1,
-    0,
-    1
-  ],
-  [
-    101103,
-    0,
-    1,
-    1,
-    0,
-    3
-  ],
-  [
-    101104,
-    0,
-    1,
-    1,
-    0,
-    4
-  ],
-  [
-    101110,
-    0,
-    1,
-    1,
-    1,
-    0
-  ],
-  [
-    101111,
-    0,
-    1,
-    1,
-    1,
-    1
-  ],
-  [
-    101112,
-    0,
-    1,
-    1,
-    1,
-    2
-  ],
-  [
-    101114,
-    0,
-    1,
-    1,
-    1,
-    4
-  ],
-  [
-    101115,
-    0,
-    1,
-    1,
-    1,
-    5
-  ],
-  [
-    101121,
-    0,
-    1,
-    1,
-    2,
-    1
-  ],
-  [
-    101130,
-    0,
-    1,
-    1,
-    3,
-    0
-  ],
-  [
-    101141,
-    0,
-    1,
-    1,
-    4,
-    1
-  ],
-  [
-    101151,
-    0,
-    1,
-    1,
-    5,
-    1
-  ],
-  [
-    101200,
-    0,
-    1,
-    2,
-    0,
-    0
-  ],
-  [
-    101211,
-    0,
-    1,
-    2,
-    1,
-    1
-  ],
-  [
-    101301,
-    0,
-    1,
-    3,
-    0,
-    1
-  ],
-  [
-    101310,
-    0,
-    1,
-    3,
-    1,
-    0
-  ],
-  [
-    101400,
-    0,
-    1,
-    4,
-    0,
-    0
-  ],
-  [
-    101411,
-    0,
-    1,
-    4,
-    1,
-    1
-  ],
-  [
-    101511,
-    0,
-    1,
-    5,
-    1,
-    1
-  ],
-  [
-    102000,
-    0,
-    2,
-    0,
-    0,
-    0
-  ],
-  [
-    102001,
-    0,
-    2,
-    0,
-    0,
-    1
-  ],
-  [
-    102003,
-    0,
-    2,
-    0,
-    0,
-    3
-  ],
-  [
-    102010,
-    0,
-    2,
-    0,
-    1,
-    0
-  ],
-  [
-    102012,
-    0,
-    2,
-    0,
-    1,
-    2
-  ],
-  [
-    102021,
-    0,
-    2,
-    0,
-    2,
-    1
-  ],
-  [
-    102030,
-    0,
-    2,
-    0,
-    3,
-    0
-  ],
-  [
-    102100,
-    0,
-    2,
-    1,
-    0,
-    0
-  ],
-  [
-    102102,
-    0,
-    2,
-    1,
-    0,
-    2
-  ],
-  [
-    102111,
-    0,
-    2,
-    1,
-    1,
-    1
-  ],
-  [
-    102120,
-    0,
-    2,
-    1,
-    2,
-    0
-  ],
-  [
-    102201,
-    0,
-    2,
-    2,
-    0,
-    1
-  ],
-  [
-    102210,
-    0,
-    2,
-    2,
-    1,
-    0
-  ],
-  [
-    102300,
-    0,
-    2,
-    3,
-    0,
-    0
-  ],
-  [
-    103000,
-    0,
-    3,
-    0,
-    0,
-    0
-  ],
-  [
-    103002,
-    0,
-    3,
-    0,
-    0,
-    2
-  ],
-  [
-    103011,
-    0,
-    3,
-    0,
-    1,
-    1
-  ],
-  [
-    103020,
-    0,
-    3,
-    0,
-    2,
-    0
-  ],
-  [
-    103101,
-    0,
-    3,
-    1,
-    0,
-    1
-  ],
-  [
-    103110,
-    0,
-    3,
-    1,
-    1,
-    0
-  ],
-  [
-    103200,
-    0,
-    3,
-    2,
-    0,
-    0
-  ],
-  [
-    103211,
-    0,
-    3,
-    2,
-    1,
-    1
-  ],
-  [
-    104000,
-    0,
-    4,
-    0,
-    0,
-    0
-  ],
-  [
-    104001,
-    0,
-    4,
-    0,
-    0,
-    1
-  ],
-  [
-    104010,
-    0,
-    4,
-    0,
-    1,
-    0
-  ],
-  [
-    104100,
-    0,
-    4,
-    1,
-    0,
-    0
-  ],
-  [
-    104110,
-    0,
-    4,
-    1,
-    1,
-    0
-  ],
-  [
-    104111,
-    0,
-    4,
-    1,
-    1,
-    1
-  ],
-  [
-    105000,
-    0,
-    5,
-    0,
-    0,
-    0
-  ],
-  [
-    105111,
-    0,
-    5,
-    1,
-    1,
-    1
-  ]
+  {
+    "Id": 100001,
+    "FreeLight": 0,
+    "SupportLight": 0,
+    "ControlLight": 0,
+    "AmplificationLight": 0,
+    "SpecialLight": 1
+  },
+  {
+    "Id": 100002,
+    "FreeLight": 0,
+    "SupportLight": 0,
+    "ControlLight": 0,
+    "AmplificationLight": 0,
+    "SpecialLight": 2
+  },
+  {
+    "Id": 100003,
+    "FreeLight": 0,
+    "SupportLight": 0,
+    "ControlLight": 0,
+    "AmplificationLight": 0,
+    "SpecialLight": 3
+  },
+  {
+    "Id": 100004,
+    "FreeLight": 0,
+    "SupportLight": 0,
+    "ControlLight": 0,
+    "AmplificationLight": 0,
+    "SpecialLight": 4
+  },
+  {
+    "Id": 100005,
+    "FreeLight": 0,
+    "SupportLight": 0,
+    "ControlLight": 0,
+    "AmplificationLight": 0,
+    "SpecialLight": 5
+  },
+  {
+    "Id": 100010,
+    "FreeLight": 0,
+    "SupportLight": 0,
+    "ControlLight": 0,
+    "AmplificationLight": 1,
+    "SpecialLight": 0
+  },
+  {
+    "Id": 100012,
+    "FreeLight": 0,
+    "SupportLight": 0,
+    "ControlLight": 0,
+    "AmplificationLight": 1,
+    "SpecialLight": 2
+  },
+  {
+    "Id": 100014,
+    "FreeLight": 0,
+    "SupportLight": 0,
+    "ControlLight": 0,
+    "AmplificationLight": 1,
+    "SpecialLight": 4
+  },
+  {
+    "Id": 100020,
+    "FreeLight": 0,
+    "SupportLight": 0,
+    "ControlLight": 0,
+    "AmplificationLight": 2,
+    "SpecialLight": 0
+  },
+  {
+    "Id": 100021,
+    "FreeLight": 0,
+    "SupportLight": 0,
+    "ControlLight": 0,
+    "AmplificationLight": 2,
+    "SpecialLight": 1
+  },
+  {
+    "Id": 100023,
+    "FreeLight": 0,
+    "SupportLight": 0,
+    "ControlLight": 0,
+    "AmplificationLight": 2,
+    "SpecialLight": 3
+  },
+  {
+    "Id": 100030,
+    "FreeLight": 0,
+    "SupportLight": 0,
+    "ControlLight": 0,
+    "AmplificationLight": 3,
+    "SpecialLight": 0
+  },
+  {
+    "Id": 100032,
+    "FreeLight": 0,
+    "SupportLight": 0,
+    "ControlLight": 0,
+    "AmplificationLight": 3,
+    "SpecialLight": 2
+  },
+  {
+    "Id": 100040,
+    "FreeLight": 0,
+    "SupportLight": 0,
+    "ControlLight": 0,
+    "AmplificationLight": 4,
+    "SpecialLight": 0
+  },
+  {
+    "Id": 100041,
+    "FreeLight": 0,
+    "SupportLight": 0,
+    "ControlLight": 0,
+    "AmplificationLight": 4,
+    "SpecialLight": 1
+  },
+  {
+    "Id": 100050,
+    "FreeLight": 0,
+    "SupportLight": 0,
+    "ControlLight": 0,
+    "AmplificationLight": 5,
+    "SpecialLight": 0
+  },
+  {
+    "Id": 100100,
+    "FreeLight": 0,
+    "SupportLight": 0,
+    "ControlLight": 1,
+    "AmplificationLight": 0,
+    "SpecialLight": 0
+  },
+  {
+    "Id": 100102,
+    "FreeLight": 0,
+    "SupportLight": 0,
+    "ControlLight": 1,
+    "AmplificationLight": 0,
+    "SpecialLight": 2
+  },
+  {
+    "Id": 100104,
+    "FreeLight": 0,
+    "SupportLight": 0,
+    "ControlLight": 1,
+    "AmplificationLight": 0,
+    "SpecialLight": 4
+  },
+  {
+    "Id": 100111,
+    "FreeLight": 0,
+    "SupportLight": 0,
+    "ControlLight": 1,
+    "AmplificationLight": 1,
+    "SpecialLight": 1
+  },
+  {
+    "Id": 100112,
+    "FreeLight": 0,
+    "SupportLight": 0,
+    "ControlLight": 1,
+    "AmplificationLight": 1,
+    "SpecialLight": 2
+  },
+  {
+    "Id": 100113,
+    "FreeLight": 0,
+    "SupportLight": 0,
+    "ControlLight": 1,
+    "AmplificationLight": 1,
+    "SpecialLight": 3
+  },
+  {
+    "Id": 100114,
+    "FreeLight": 0,
+    "SupportLight": 0,
+    "ControlLight": 1,
+    "AmplificationLight": 1,
+    "SpecialLight": 4
+  },
+  {
+    "Id": 100120,
+    "FreeLight": 0,
+    "SupportLight": 0,
+    "ControlLight": 1,
+    "AmplificationLight": 2,
+    "SpecialLight": 0
+  },
+  {
+    "Id": 100122,
+    "FreeLight": 0,
+    "SupportLight": 0,
+    "ControlLight": 1,
+    "AmplificationLight": 2,
+    "SpecialLight": 2
+  },
+  {
+    "Id": 100131,
+    "FreeLight": 0,
+    "SupportLight": 0,
+    "ControlLight": 1,
+    "AmplificationLight": 3,
+    "SpecialLight": 1
+  },
+  {
+    "Id": 100140,
+    "FreeLight": 0,
+    "SupportLight": 0,
+    "ControlLight": 1,
+    "AmplificationLight": 4,
+    "SpecialLight": 0
+  },
+  {
+    "Id": 100200,
+    "FreeLight": 0,
+    "SupportLight": 0,
+    "ControlLight": 2,
+    "AmplificationLight": 0,
+    "SpecialLight": 0
+  },
+  {
+    "Id": 100201,
+    "FreeLight": 0,
+    "SupportLight": 0,
+    "ControlLight": 2,
+    "AmplificationLight": 0,
+    "SpecialLight": 1
+  },
+  {
+    "Id": 100203,
+    "FreeLight": 0,
+    "SupportLight": 0,
+    "ControlLight": 2,
+    "AmplificationLight": 0,
+    "SpecialLight": 3
+  },
+  {
+    "Id": 100210,
+    "FreeLight": 0,
+    "SupportLight": 0,
+    "ControlLight": 2,
+    "AmplificationLight": 1,
+    "SpecialLight": 0
+  },
+  {
+    "Id": 100212,
+    "FreeLight": 0,
+    "SupportLight": 0,
+    "ControlLight": 2,
+    "AmplificationLight": 1,
+    "SpecialLight": 2
+  },
+  {
+    "Id": 100221,
+    "FreeLight": 0,
+    "SupportLight": 0,
+    "ControlLight": 2,
+    "AmplificationLight": 2,
+    "SpecialLight": 1
+  },
+  {
+    "Id": 100223,
+    "FreeLight": 0,
+    "SupportLight": 0,
+    "ControlLight": 2,
+    "AmplificationLight": 2,
+    "SpecialLight": 3
+  },
+  {
+    "Id": 100230,
+    "FreeLight": 0,
+    "SupportLight": 0,
+    "ControlLight": 2,
+    "AmplificationLight": 3,
+    "SpecialLight": 0
+  },
+  {
+    "Id": 100300,
+    "FreeLight": 0,
+    "SupportLight": 0,
+    "ControlLight": 3,
+    "AmplificationLight": 0,
+    "SpecialLight": 0
+  },
+  {
+    "Id": 100302,
+    "FreeLight": 0,
+    "SupportLight": 0,
+    "ControlLight": 3,
+    "AmplificationLight": 0,
+    "SpecialLight": 2
+  },
+  {
+    "Id": 100311,
+    "FreeLight": 0,
+    "SupportLight": 0,
+    "ControlLight": 3,
+    "AmplificationLight": 1,
+    "SpecialLight": 1
+  },
+  {
+    "Id": 100320,
+    "FreeLight": 0,
+    "SupportLight": 0,
+    "ControlLight": 3,
+    "AmplificationLight": 2,
+    "SpecialLight": 0
+  },
+  {
+    "Id": 100400,
+    "FreeLight": 0,
+    "SupportLight": 0,
+    "ControlLight": 4,
+    "AmplificationLight": 0,
+    "SpecialLight": 0
+  },
+  {
+    "Id": 100401,
+    "FreeLight": 0,
+    "SupportLight": 0,
+    "ControlLight": 4,
+    "AmplificationLight": 0,
+    "SpecialLight": 1
+  },
+  {
+    "Id": 100410,
+    "FreeLight": 0,
+    "SupportLight": 0,
+    "ControlLight": 4,
+    "AmplificationLight": 1,
+    "SpecialLight": 0
+  },
+  {
+    "Id": 100411,
+    "FreeLight": 0,
+    "SupportLight": 0,
+    "ControlLight": 4,
+    "AmplificationLight": 1,
+    "SpecialLight": 1
+  },
+  {
+    "Id": 100500,
+    "FreeLight": 0,
+    "SupportLight": 0,
+    "ControlLight": 5,
+    "AmplificationLight": 0,
+    "SpecialLight": 0
+  },
+  {
+    "Id": 101000,
+    "FreeLight": 0,
+    "SupportLight": 1,
+    "ControlLight": 0,
+    "AmplificationLight": 0,
+    "SpecialLight": 0
+  },
+  {
+    "Id": 101002,
+    "FreeLight": 0,
+    "SupportLight": 1,
+    "ControlLight": 0,
+    "AmplificationLight": 0,
+    "SpecialLight": 2
+  },
+  {
+    "Id": 101004,
+    "FreeLight": 0,
+    "SupportLight": 1,
+    "ControlLight": 0,
+    "AmplificationLight": 0,
+    "SpecialLight": 4
+  },
+  {
+    "Id": 101011,
+    "FreeLight": 0,
+    "SupportLight": 1,
+    "ControlLight": 0,
+    "AmplificationLight": 1,
+    "SpecialLight": 1
+  },
+  {
+    "Id": 101013,
+    "FreeLight": 0,
+    "SupportLight": 1,
+    "ControlLight": 0,
+    "AmplificationLight": 1,
+    "SpecialLight": 3
+  },
+  {
+    "Id": 101020,
+    "FreeLight": 0,
+    "SupportLight": 1,
+    "ControlLight": 0,
+    "AmplificationLight": 2,
+    "SpecialLight": 0
+  },
+  {
+    "Id": 101022,
+    "FreeLight": 0,
+    "SupportLight": 1,
+    "ControlLight": 0,
+    "AmplificationLight": 2,
+    "SpecialLight": 2
+  },
+  {
+    "Id": 101031,
+    "FreeLight": 0,
+    "SupportLight": 1,
+    "ControlLight": 0,
+    "AmplificationLight": 3,
+    "SpecialLight": 1
+  },
+  {
+    "Id": 101040,
+    "FreeLight": 0,
+    "SupportLight": 1,
+    "ControlLight": 0,
+    "AmplificationLight": 4,
+    "SpecialLight": 0
+  },
+  {
+    "Id": 101041,
+    "FreeLight": 0,
+    "SupportLight": 1,
+    "ControlLight": 0,
+    "AmplificationLight": 4,
+    "SpecialLight": 1
+  },
+  {
+    "Id": 101101,
+    "FreeLight": 0,
+    "SupportLight": 1,
+    "ControlLight": 1,
+    "AmplificationLight": 0,
+    "SpecialLight": 1
+  },
+  {
+    "Id": 101103,
+    "FreeLight": 0,
+    "SupportLight": 1,
+    "ControlLight": 1,
+    "AmplificationLight": 0,
+    "SpecialLight": 3
+  },
+  {
+    "Id": 101104,
+    "FreeLight": 0,
+    "SupportLight": 1,
+    "ControlLight": 1,
+    "AmplificationLight": 0,
+    "SpecialLight": 4
+  },
+  {
+    "Id": 101110,
+    "FreeLight": 0,
+    "SupportLight": 1,
+    "ControlLight": 1,
+    "AmplificationLight": 1,
+    "SpecialLight": 0
+  },
+  {
+    "Id": 101111,
+    "FreeLight": 0,
+    "SupportLight": 1,
+    "ControlLight": 1,
+    "AmplificationLight": 1,
+    "SpecialLight": 1
+  },
+  {
+    "Id": 101112,
+    "FreeLight": 0,
+    "SupportLight": 1,
+    "ControlLight": 1,
+    "AmplificationLight": 1,
+    "SpecialLight": 2
+  },
+  {
+    "Id": 101114,
+    "FreeLight": 0,
+    "SupportLight": 1,
+    "ControlLight": 1,
+    "AmplificationLight": 1,
+    "SpecialLight": 4
+  },
+  {
+    "Id": 101115,
+    "FreeLight": 0,
+    "SupportLight": 1,
+    "ControlLight": 1,
+    "AmplificationLight": 1,
+    "SpecialLight": 5
+  },
+  {
+    "Id": 101121,
+    "FreeLight": 0,
+    "SupportLight": 1,
+    "ControlLight": 1,
+    "AmplificationLight": 2,
+    "SpecialLight": 1
+  },
+  {
+    "Id": 101130,
+    "FreeLight": 0,
+    "SupportLight": 1,
+    "ControlLight": 1,
+    "AmplificationLight": 3,
+    "SpecialLight": 0
+  },
+  {
+    "Id": 101141,
+    "FreeLight": 0,
+    "SupportLight": 1,
+    "ControlLight": 1,
+    "AmplificationLight": 4,
+    "SpecialLight": 1
+  },
+  {
+    "Id": 101151,
+    "FreeLight": 0,
+    "SupportLight": 1,
+    "ControlLight": 1,
+    "AmplificationLight": 5,
+    "SpecialLight": 1
+  },
+  {
+    "Id": 101200,
+    "FreeLight": 0,
+    "SupportLight": 1,
+    "ControlLight": 2,
+    "AmplificationLight": 0,
+    "SpecialLight": 0
+  },
+  {
+    "Id": 101211,
+    "FreeLight": 0,
+    "SupportLight": 1,
+    "ControlLight": 2,
+    "AmplificationLight": 1,
+    "SpecialLight": 1
+  },
+  {
+    "Id": 101301,
+    "FreeLight": 0,
+    "SupportLight": 1,
+    "ControlLight": 3,
+    "AmplificationLight": 0,
+    "SpecialLight": 1
+  },
+  {
+    "Id": 101310,
+    "FreeLight": 0,
+    "SupportLight": 1,
+    "ControlLight": 3,
+    "AmplificationLight": 1,
+    "SpecialLight": 0
+  },
+  {
+    "Id": 101400,
+    "FreeLight": 0,
+    "SupportLight": 1,
+    "ControlLight": 4,
+    "AmplificationLight": 0,
+    "SpecialLight": 0
+  },
+  {
+    "Id": 101411,
+    "FreeLight": 0,
+    "SupportLight": 1,
+    "ControlLight": 4,
+    "AmplificationLight": 1,
+    "SpecialLight": 1
+  },
+  {
+    "Id": 101511,
+    "FreeLight": 0,
+    "SupportLight": 1,
+    "ControlLight": 5,
+    "AmplificationLight": 1,
+    "SpecialLight": 1
+  },
+  {
+    "Id": 102000,
+    "FreeLight": 0,
+    "SupportLight": 2,
+    "ControlLight": 0,
+    "AmplificationLight": 0,
+    "SpecialLight": 0
+  },
+  {
+    "Id": 102001,
+    "FreeLight": 0,
+    "SupportLight": 2,
+    "ControlLight": 0,
+    "AmplificationLight": 0,
+    "SpecialLight": 1
+  },
+  {
+    "Id": 102003,
+    "FreeLight": 0,
+    "SupportLight": 2,
+    "ControlLight": 0,
+    "AmplificationLight": 0,
+    "SpecialLight": 3
+  },
+  {
+    "Id": 102010,
+    "FreeLight": 0,
+    "SupportLight": 2,
+    "ControlLight": 0,
+    "AmplificationLight": 1,
+    "SpecialLight": 0
+  },
+  {
+    "Id": 102012,
+    "FreeLight": 0,
+    "SupportLight": 2,
+    "ControlLight": 0,
+    "AmplificationLight": 1,
+    "SpecialLight": 2
+  },
+  {
+    "Id": 102021,
+    "FreeLight": 0,
+    "SupportLight": 2,
+    "ControlLight": 0,
+    "AmplificationLight": 2,
+    "SpecialLight": 1
+  },
+  {
+    "Id": 102030,
+    "FreeLight": 0,
+    "SupportLight": 2,
+    "ControlLight": 0,
+    "AmplificationLight": 3,
+    "SpecialLight": 0
+  },
+  {
+    "Id": 102100,
+    "FreeLight": 0,
+    "SupportLight": 2,
+    "ControlLight": 1,
+    "AmplificationLight": 0,
+    "SpecialLight": 0
+  },
+  {
+    "Id": 102102,
+    "FreeLight": 0,
+    "SupportLight": 2,
+    "ControlLight": 1,
+    "AmplificationLight": 0,
+    "SpecialLight": 2
+  },
+  {
+    "Id": 102111,
+    "FreeLight": 0,
+    "SupportLight": 2,
+    "ControlLight": 1,
+    "AmplificationLight": 1,
+    "SpecialLight": 1
+  },
+  {
+    "Id": 102120,
+    "FreeLight": 0,
+    "SupportLight": 2,
+    "ControlLight": 1,
+    "AmplificationLight": 2,
+    "SpecialLight": 0
+  },
+  {
+    "Id": 102201,
+    "FreeLight": 0,
+    "SupportLight": 2,
+    "ControlLight": 2,
+    "AmplificationLight": 0,
+    "SpecialLight": 1
+  },
+  {
+    "Id": 102210,
+    "FreeLight": 0,
+    "SupportLight": 2,
+    "ControlLight": 2,
+    "AmplificationLight": 1,
+    "SpecialLight": 0
+  },
+  {
+    "Id": 102300,
+    "FreeLight": 0,
+    "SupportLight": 2,
+    "ControlLight": 3,
+    "AmplificationLight": 0,
+    "SpecialLight": 0
+  },
+  {
+    "Id": 103000,
+    "FreeLight": 0,
+    "SupportLight": 3,
+    "ControlLight": 0,
+    "AmplificationLight": 0,
+    "SpecialLight": 0
+  },
+  {
+    "Id": 103002,
+    "FreeLight": 0,
+    "SupportLight": 3,
+    "ControlLight": 0,
+    "AmplificationLight": 0,
+    "SpecialLight": 2
+  },
+  {
+    "Id": 103011,
+    "FreeLight": 0,
+    "SupportLight": 3,
+    "ControlLight": 0,
+    "AmplificationLight": 1,
+    "SpecialLight": 1
+  },
+  {
+    "Id": 103020,
+    "FreeLight": 0,
+    "SupportLight": 3,
+    "ControlLight": 0,
+    "AmplificationLight": 2,
+    "SpecialLight": 0
+  },
+  {
+    "Id": 103101,
+    "FreeLight": 0,
+    "SupportLight": 3,
+    "ControlLight": 1,
+    "AmplificationLight": 0,
+    "SpecialLight": 1
+  },
+  {
+    "Id": 103110,
+    "FreeLight": 0,
+    "SupportLight": 3,
+    "ControlLight": 1,
+    "AmplificationLight": 1,
+    "SpecialLight": 0
+  },
+  {
+    "Id": 103200,
+    "FreeLight": 0,
+    "SupportLight": 3,
+    "ControlLight": 2,
+    "AmplificationLight": 0,
+    "SpecialLight": 0
+  },
+  {
+    "Id": 103211,
+    "FreeLight": 0,
+    "SupportLight": 3,
+    "ControlLight": 2,
+    "AmplificationLight": 1,
+    "SpecialLight": 1
+  },
+  {
+    "Id": 104000,
+    "FreeLight": 0,
+    "SupportLight": 4,
+    "ControlLight": 0,
+    "AmplificationLight": 0,
+    "SpecialLight": 0
+  },
+  {
+    "Id": 104001,
+    "FreeLight": 0,
+    "SupportLight": 4,
+    "ControlLight": 0,
+    "AmplificationLight": 0,
+    "SpecialLight": 1
+  },
+  {
+    "Id": 104010,
+    "FreeLight": 0,
+    "SupportLight": 4,
+    "ControlLight": 0,
+    "AmplificationLight": 1,
+    "SpecialLight": 0
+  },
+  {
+    "Id": 104100,
+    "FreeLight": 0,
+    "SupportLight": 4,
+    "ControlLight": 1,
+    "AmplificationLight": 0,
+    "SpecialLight": 0
+  },
+  {
+    "Id": 104110,
+    "FreeLight": 0,
+    "SupportLight": 4,
+    "ControlLight": 1,
+    "AmplificationLight": 1,
+    "SpecialLight": 0
+  },
+  {
+    "Id": 104111,
+    "FreeLight": 0,
+    "SupportLight": 4,
+    "ControlLight": 1,
+    "AmplificationLight": 1,
+    "SpecialLight": 1
+  },
+  {
+    "Id": 105000,
+    "FreeLight": 0,
+    "SupportLight": 5,
+    "ControlLight": 0,
+    "AmplificationLight": 0,
+    "SpecialLight": 0
+  },
+  {
+    "Id": 105111,
+    "FreeLight": 0,
+    "SupportLight": 5,
+    "ControlLight": 1,
+    "AmplificationLight": 1,
+    "SpecialLight": 1
+  }
 ]

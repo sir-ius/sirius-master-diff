@@ -1,20 +1,20 @@
 [
-  [
-    120001,
-    120001,
-    10,
-    0.009999999776482582
-  ],
-  [
-    120002,
-    120002,
-    100,
-    0.10000000149011612
-  ],
-  [
-    120003,
-    120003,
-    1000,
-    1
-  ]
+  {
+    "Id": 120001,
+    "ItemMasterId": 120001,
+    "AcquirableExperience": 10,
+    "AcquirableExperienceBonus": 0.009999999776482582
+  },
+  {
+    "Id": 120002,
+    "ItemMasterId": 120002,
+    "AcquirableExperience": 100,
+    "AcquirableExperienceBonus": 0.10000000149011612
+  },
+  {
+    "Id": 120003,
+    "ItemMasterId": 120003,
+    "AcquirableExperience": 1000,
+    "AcquirableExperienceBonus": 1
+  }
 ]

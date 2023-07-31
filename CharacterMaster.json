@@ -1,3842 +1,2002 @@
 [
-  [
-    110010,
-    101,
-    "シリウス",
-    "",
-    null,
-    1,
-    3,
-    [
+  {
+    "Id": 110010,
+    "CharacterBaseMasterId": 101,
+    "Name": "シリウス",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 1,
+    "Attribute": 3,
+    "MinLevelStatus": [
       53,
       66,
       61
     ],
-    null,
-    110011,
-    null,
-    110010,
-    false,
-    10100,
-    1,
-    131,
-    132,
-    null,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    110020,
-    102,
-    "シリウス",
-    "",
-    null,
-    1,
-    2,
-    [
+    "StarActMasterId": 110011,
+    "AwakenStarActMasterId": null,
+    "SenseMasterId": 110010,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 10100,
+    "SenseEnhanceItemGroupMasterId": 1,
+    "FirstEpisodeReleaseItemGroupId": 131,
+    "SecondEpisodeReleaseItemGroupId": 132,
+    "CharacterAwakeningItemGroupMasterId": null,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 110020,
+    "CharacterBaseMasterId": 102,
+    "Name": "シリウス",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 1,
+    "Attribute": 2,
+    "MinLevelStatus": [
       69,
       60,
       51
     ],
-    null,
-    110021,
-    null,
-    110020,
-    false,
-    10800,
-    1,
-    121,
-    122,
-    null,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    110030,
-    103,
-    "シリウス",
-    "",
-    null,
-    1,
-    4,
-    [
+    "StarActMasterId": 110021,
+    "AwakenStarActMasterId": null,
+    "SenseMasterId": 110020,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 10800,
+    "SenseEnhanceItemGroupMasterId": 1,
+    "FirstEpisodeReleaseItemGroupId": 121,
+    "SecondEpisodeReleaseItemGroupId": 122,
+    "CharacterAwakeningItemGroupMasterId": null,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 110030,
+    "CharacterBaseMasterId": 103,
+    "Name": "シリウス",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 1,
+    "Attribute": 4,
+    "MinLevelStatus": [
       64,
       60,
       56
     ],
-    null,
-    110031,
-    null,
-    110030,
-    false,
-    10100,
-    1,
-    141,
-    142,
-    null,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    110040,
-    104,
-    "シリウス",
-    "",
-    null,
-    1,
-    3,
-    [
+    "StarActMasterId": 110031,
+    "AwakenStarActMasterId": null,
+    "SenseMasterId": 110030,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 10100,
+    "SenseEnhanceItemGroupMasterId": 1,
+    "FirstEpisodeReleaseItemGroupId": 141,
+    "SecondEpisodeReleaseItemGroupId": 142,
+    "CharacterAwakeningItemGroupMasterId": null,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 110040,
+    "CharacterBaseMasterId": 104,
+    "Name": "シリウス",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 1,
+    "Attribute": 3,
+    "MinLevelStatus": [
       57,
       61,
       62
     ],
-    null,
-    110041,
-    null,
-    110040,
-    false,
-    10100,
-    1,
-    131,
-    132,
-    null,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    110050,
-    105,
-    "シリウス",
-    "",
-    null,
-    1,
-    4,
-    [
+    "StarActMasterId": 110041,
+    "AwakenStarActMasterId": null,
+    "SenseMasterId": 110040,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 10100,
+    "SenseEnhanceItemGroupMasterId": 1,
+    "FirstEpisodeReleaseItemGroupId": 131,
+    "SecondEpisodeReleaseItemGroupId": 132,
+    "CharacterAwakeningItemGroupMasterId": null,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 110050,
+    "CharacterBaseMasterId": 105,
+    "Name": "シリウス",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 1,
+    "Attribute": 4,
+    "MinLevelStatus": [
       58,
       61,
       61
     ],
-    null,
-    110051,
-    null,
-    110050,
-    false,
-    10100,
-    1,
-    141,
-    142,
-    null,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    110060,
-    106,
-    "シリウス",
-    "",
-    null,
-    1,
-    1,
-    [
+    "StarActMasterId": 110051,
+    "AwakenStarActMasterId": null,
+    "SenseMasterId": 110050,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 10100,
+    "SenseEnhanceItemGroupMasterId": 1,
+    "FirstEpisodeReleaseItemGroupId": 141,
+    "SecondEpisodeReleaseItemGroupId": 142,
+    "CharacterAwakeningItemGroupMasterId": null,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 110060,
+    "CharacterBaseMasterId": 106,
+    "Name": "シリウス",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 1,
+    "Attribute": 1,
+    "MinLevelStatus": [
       61,
       57,
       62
     ],
-    null,
-    110061,
-    null,
-    110060,
-    false,
-    10100,
-    1,
-    111,
-    112,
-    null,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    110070,
-    201,
-    "Eden",
-    "",
-    null,
-    1,
-    2,
-    [
+    "StarActMasterId": 110061,
+    "AwakenStarActMasterId": null,
+    "SenseMasterId": 110060,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 10100,
+    "SenseEnhanceItemGroupMasterId": 1,
+    "FirstEpisodeReleaseItemGroupId": 111,
+    "SecondEpisodeReleaseItemGroupId": 112,
+    "CharacterAwakeningItemGroupMasterId": null,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 110070,
+    "CharacterBaseMasterId": 201,
+    "Name": "Eden",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 1,
+    "Attribute": 2,
+    "MinLevelStatus": [
       56,
       54,
       70
     ],
-    null,
-    110071,
-    null,
-    110070,
-    false,
-    10100,
-    1,
-    121,
-    122,
-    null,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    110080,
-    202,
-    "Eden",
-    "",
-    null,
-    1,
-    3,
-    [
+    "StarActMasterId": 110071,
+    "AwakenStarActMasterId": null,
+    "SenseMasterId": 110070,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 10100,
+    "SenseEnhanceItemGroupMasterId": 1,
+    "FirstEpisodeReleaseItemGroupId": 121,
+    "SecondEpisodeReleaseItemGroupId": 122,
+    "CharacterAwakeningItemGroupMasterId": null,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 110080,
+    "CharacterBaseMasterId": 202,
+    "Name": "Eden",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 1,
+    "Attribute": 3,
+    "MinLevelStatus": [
       59,
       76,
       45
     ],
-    null,
-    110081,
-    null,
-    110080,
-    false,
-    10100,
-    1,
-    131,
-    132,
-    null,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    110090,
-    203,
-    "Eden",
-    "",
-    null,
-    1,
-    4,
-    [
+    "StarActMasterId": 110081,
+    "AwakenStarActMasterId": null,
+    "SenseMasterId": 110080,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 10100,
+    "SenseEnhanceItemGroupMasterId": 1,
+    "FirstEpisodeReleaseItemGroupId": 131,
+    "SecondEpisodeReleaseItemGroupId": 132,
+    "CharacterAwakeningItemGroupMasterId": null,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 110090,
+    "CharacterBaseMasterId": 203,
+    "Name": "Eden",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 1,
+    "Attribute": 4,
+    "MinLevelStatus": [
       49,
       63,
       68
     ],
-    null,
-    110091,
-    null,
-    110090,
-    false,
-    10100,
-    1,
-    141,
-    142,
-    null,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    110100,
-    204,
-    "Eden",
-    "",
-    null,
-    1,
-    4,
-    [
+    "StarActMasterId": 110091,
+    "AwakenStarActMasterId": null,
+    "SenseMasterId": 110090,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 10100,
+    "SenseEnhanceItemGroupMasterId": 1,
+    "FirstEpisodeReleaseItemGroupId": 141,
+    "SecondEpisodeReleaseItemGroupId": 142,
+    "CharacterAwakeningItemGroupMasterId": null,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 110100,
+    "CharacterBaseMasterId": 204,
+    "Name": "Eden",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 1,
+    "Attribute": 4,
+    "MinLevelStatus": [
       62,
       62,
       56
     ],
-    null,
-    110101,
-    null,
-    110100,
-    false,
-    10100,
-    1,
-    141,
-    142,
-    null,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    110110,
-    205,
-    "Eden",
-    "",
-    null,
-    1,
-    1,
-    [
+    "StarActMasterId": 110101,
+    "AwakenStarActMasterId": null,
+    "SenseMasterId": 110100,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 10100,
+    "SenseEnhanceItemGroupMasterId": 1,
+    "FirstEpisodeReleaseItemGroupId": 141,
+    "SecondEpisodeReleaseItemGroupId": 142,
+    "CharacterAwakeningItemGroupMasterId": null,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 110110,
+    "CharacterBaseMasterId": 205,
+    "Name": "Eden",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 1,
+    "Attribute": 1,
+    "MinLevelStatus": [
       61,
       53,
       66
     ],
-    null,
-    110111,
-    null,
-    110110,
-    false,
-    10100,
-    1,
-    111,
-    112,
-    null,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    110120,
-    301,
-    "銀河座",
-    "",
-    null,
-    1,
-    2,
-    [
+    "StarActMasterId": 110111,
+    "AwakenStarActMasterId": null,
+    "SenseMasterId": 110110,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 10100,
+    "SenseEnhanceItemGroupMasterId": 1,
+    "FirstEpisodeReleaseItemGroupId": 111,
+    "SecondEpisodeReleaseItemGroupId": 112,
+    "CharacterAwakeningItemGroupMasterId": null,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 110120,
+    "CharacterBaseMasterId": 301,
+    "Name": "銀河座",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 1,
+    "Attribute": 2,
+    "MinLevelStatus": [
       52,
       66,
       62
     ],
-    null,
-    110121,
-    null,
-    110120,
-    false,
-    10100,
-    1,
-    121,
-    122,
-    null,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    110130,
-    302,
-    "銀河座",
-    "",
-    null,
-    1,
-    2,
-    [
+    "StarActMasterId": 110121,
+    "AwakenStarActMasterId": null,
+    "SenseMasterId": 110120,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 10100,
+    "SenseEnhanceItemGroupMasterId": 1,
+    "FirstEpisodeReleaseItemGroupId": 121,
+    "SecondEpisodeReleaseItemGroupId": 122,
+    "CharacterAwakeningItemGroupMasterId": null,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 110130,
+    "CharacterBaseMasterId": 302,
+    "Name": "銀河座",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 1,
+    "Attribute": 2,
+    "MinLevelStatus": [
       65,
       52,
       63
     ],
-    null,
-    110131,
-    null,
-    110130,
-    false,
-    10100,
-    1,
-    121,
-    122,
-    null,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    110140,
-    303,
-    "銀河座",
-    "",
-    null,
-    1,
-    1,
-    [
+    "StarActMasterId": 110131,
+    "AwakenStarActMasterId": null,
+    "SenseMasterId": 110130,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 10100,
+    "SenseEnhanceItemGroupMasterId": 1,
+    "FirstEpisodeReleaseItemGroupId": 121,
+    "SecondEpisodeReleaseItemGroupId": 122,
+    "CharacterAwakeningItemGroupMasterId": null,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 110140,
+    "CharacterBaseMasterId": 303,
+    "Name": "銀河座",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 1,
+    "Attribute": 1,
+    "MinLevelStatus": [
       73,
       60,
       47
     ],
-    null,
-    110141,
-    null,
-    110140,
-    false,
-    10100,
-    1,
-    111,
-    112,
-    null,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    110150,
-    304,
-    "銀河座",
-    "",
-    null,
-    1,
-    3,
-    [
+    "StarActMasterId": 110141,
+    "AwakenStarActMasterId": null,
+    "SenseMasterId": 110140,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 10100,
+    "SenseEnhanceItemGroupMasterId": 1,
+    "FirstEpisodeReleaseItemGroupId": 111,
+    "SecondEpisodeReleaseItemGroupId": 112,
+    "CharacterAwakeningItemGroupMasterId": null,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 110150,
+    "CharacterBaseMasterId": 304,
+    "Name": "銀河座",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 1,
+    "Attribute": 3,
+    "MinLevelStatus": [
       51,
       60,
       69
     ],
-    null,
-    110151,
-    null,
-    110150,
-    false,
-    10100,
-    1,
-    131,
-    132,
-    null,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    110160,
-    305,
-    "銀河座",
-    "",
-    null,
-    1,
-    4,
-    [
+    "StarActMasterId": 110151,
+    "AwakenStarActMasterId": null,
+    "SenseMasterId": 110150,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 10100,
+    "SenseEnhanceItemGroupMasterId": 1,
+    "FirstEpisodeReleaseItemGroupId": 131,
+    "SecondEpisodeReleaseItemGroupId": 132,
+    "CharacterAwakeningItemGroupMasterId": null,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 110160,
+    "CharacterBaseMasterId": 305,
+    "Name": "銀河座",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 1,
+    "Attribute": 4,
+    "MinLevelStatus": [
       67,
       54,
       59
     ],
-    null,
-    110161,
-    null,
-    110160,
-    false,
-    10100,
-    1,
-    141,
-    142,
-    null,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    110170,
-    401,
-    "劇団電姫",
-    "",
-    null,
-    1,
-    1,
-    [
+    "StarActMasterId": 110161,
+    "AwakenStarActMasterId": null,
+    "SenseMasterId": 110160,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 10100,
+    "SenseEnhanceItemGroupMasterId": 1,
+    "FirstEpisodeReleaseItemGroupId": 141,
+    "SecondEpisodeReleaseItemGroupId": 142,
+    "CharacterAwakeningItemGroupMasterId": null,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 110170,
+    "CharacterBaseMasterId": 401,
+    "Name": "劇団電姫",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 1,
+    "Attribute": 1,
+    "MinLevelStatus": [
       69,
       61,
       50
     ],
-    null,
-    110171,
-    null,
-    110170,
-    false,
-    10900,
-    1,
-    111,
-    112,
-    null,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    110180,
-    402,
-    "劇団電姫",
-    "",
-    null,
-    1,
-    3,
-    [
+    "StarActMasterId": 110171,
+    "AwakenStarActMasterId": null,
+    "SenseMasterId": 110170,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 10900,
+    "SenseEnhanceItemGroupMasterId": 1,
+    "FirstEpisodeReleaseItemGroupId": 111,
+    "SecondEpisodeReleaseItemGroupId": 112,
+    "CharacterAwakeningItemGroupMasterId": null,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 110180,
+    "CharacterBaseMasterId": 402,
+    "Name": "劇団電姫",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 1,
+    "Attribute": 3,
+    "MinLevelStatus": [
       59,
       58,
       63
     ],
-    null,
-    110181,
-    null,
-    110180,
-    false,
-    10100,
-    1,
-    131,
-    132,
-    null,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    110190,
-    403,
-    "劇団電姫",
-    "",
-    null,
-    1,
-    4,
-    [
+    "StarActMasterId": 110181,
+    "AwakenStarActMasterId": null,
+    "SenseMasterId": 110180,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 10100,
+    "SenseEnhanceItemGroupMasterId": 1,
+    "FirstEpisodeReleaseItemGroupId": 131,
+    "SecondEpisodeReleaseItemGroupId": 132,
+    "CharacterAwakeningItemGroupMasterId": null,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 110190,
+    "CharacterBaseMasterId": 403,
+    "Name": "劇団電姫",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 1,
+    "Attribute": 4,
+    "MinLevelStatus": [
       51,
       63,
       66
     ],
-    null,
-    110191,
-    null,
-    110190,
-    false,
-    10100,
-    1,
-    141,
-    142,
-    null,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    110200,
-    404,
-    "劇団電姫",
-    "",
-    null,
-    1,
-    2,
-    [
+    "StarActMasterId": 110191,
+    "AwakenStarActMasterId": null,
+    "SenseMasterId": 110190,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 10100,
+    "SenseEnhanceItemGroupMasterId": 1,
+    "FirstEpisodeReleaseItemGroupId": 141,
+    "SecondEpisodeReleaseItemGroupId": 142,
+    "CharacterAwakeningItemGroupMasterId": null,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 110200,
+    "CharacterBaseMasterId": 404,
+    "Name": "劇団電姫",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 1,
+    "Attribute": 2,
+    "MinLevelStatus": [
       61,
       70,
       49
     ],
-    null,
-    110201,
-    null,
-    110200,
-    false,
-    10100,
-    1,
-    121,
-    122,
-    null,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    110210,
-    405,
-    "劇団電姫",
-    "",
-    null,
-    1,
-    1,
-    [
+    "StarActMasterId": 110201,
+    "AwakenStarActMasterId": null,
+    "SenseMasterId": 110200,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 10100,
+    "SenseEnhanceItemGroupMasterId": 1,
+    "FirstEpisodeReleaseItemGroupId": 121,
+    "SecondEpisodeReleaseItemGroupId": 122,
+    "CharacterAwakeningItemGroupMasterId": null,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 110210,
+    "CharacterBaseMasterId": 405,
+    "Name": "劇団電姫",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 1,
+    "Attribute": 1,
+    "MinLevelStatus": [
       68,
       43,
       69
     ],
-    null,
-    110211,
-    null,
-    110210,
-    false,
-    10100,
-    1,
-    111,
-    112,
-    null,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    120010,
-    101,
-    "夢見る少女",
-    "",
-    null,
-    2,
-    2,
-    [
+    "StarActMasterId": 110211,
+    "AwakenStarActMasterId": null,
+    "SenseMasterId": 110210,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 10100,
+    "SenseEnhanceItemGroupMasterId": 1,
+    "FirstEpisodeReleaseItemGroupId": 111,
+    "SecondEpisodeReleaseItemGroupId": 112,
+    "CharacterAwakeningItemGroupMasterId": null,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 120010,
+    "CharacterBaseMasterId": 101,
+    "Name": "夢見る少女",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 2,
+    "Attribute": 2,
+    "MinLevelStatus": [
       67,
       78,
       80
     ],
-    null,
-    120011,
-    null,
-    120010,
-    false,
-    20200,
-    2,
-    221,
-    222,
-    null,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    120020,
-    102,
-    "シリウスのツッコミ",
-    "",
-    null,
-    2,
-    3,
-    [
+    "StarActMasterId": 120011,
+    "AwakenStarActMasterId": null,
+    "SenseMasterId": 120010,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 20200,
+    "SenseEnhanceItemGroupMasterId": 2,
+    "FirstEpisodeReleaseItemGroupId": 221,
+    "SecondEpisodeReleaseItemGroupId": 222,
+    "CharacterAwakeningItemGroupMasterId": null,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 120020,
+    "CharacterBaseMasterId": 102,
+    "Name": "シリウスのツッコミ",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 2,
+    "Attribute": 3,
+    "MinLevelStatus": [
       85,
       78,
       62
     ],
-    null,
-    120021,
-    null,
-    120020,
-    false,
-    20800,
-    2,
-    231,
-    232,
-    null,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    120030,
-    103,
-    "ワールドダイスターの愛娘",
-    "",
-    null,
-    2,
-    1,
-    [
+    "StarActMasterId": 120021,
+    "AwakenStarActMasterId": null,
+    "SenseMasterId": 120020,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 20800,
+    "SenseEnhanceItemGroupMasterId": 2,
+    "FirstEpisodeReleaseItemGroupId": 231,
+    "SecondEpisodeReleaseItemGroupId": 232,
+    "CharacterAwakeningItemGroupMasterId": null,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 120030,
+    "CharacterBaseMasterId": 103,
+    "Name": "ワールドダイスターの愛娘",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 2,
+    "Attribute": 1,
+    "MinLevelStatus": [
       86,
       73,
       66
     ],
-    null,
-    120031,
-    null,
-    120030,
-    false,
-    20300,
-    2,
-    211,
-    212,
-    null,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    120040,
-    104,
-    "天使系小学生",
-    "",
-    null,
-    2,
-    4,
-    [
+    "StarActMasterId": 120031,
+    "AwakenStarActMasterId": null,
+    "SenseMasterId": 120030,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 20300,
+    "SenseEnhanceItemGroupMasterId": 2,
+    "FirstEpisodeReleaseItemGroupId": 211,
+    "SecondEpisodeReleaseItemGroupId": 212,
+    "CharacterAwakeningItemGroupMasterId": null,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 120040,
+    "CharacterBaseMasterId": 104,
+    "Name": "天使系小学生",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 2,
+    "Attribute": 4,
+    "MinLevelStatus": [
       69,
       72,
       84
     ],
-    null,
-    120041,
-    null,
-    120040,
-    false,
-    20100,
-    2,
-    241,
-    242,
-    null,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    120050,
-    105,
-    "腹黒計算ガール",
-    "",
-    null,
-    2,
-    1,
-    [
+    "StarActMasterId": 120041,
+    "AwakenStarActMasterId": null,
+    "SenseMasterId": 120040,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 20100,
+    "SenseEnhanceItemGroupMasterId": 2,
+    "FirstEpisodeReleaseItemGroupId": 241,
+    "SecondEpisodeReleaseItemGroupId": 242,
+    "CharacterAwakeningItemGroupMasterId": null,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 120050,
+    "CharacterBaseMasterId": 105,
+    "Name": "腹黒計算ガール",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 2,
+    "Attribute": 1,
+    "MinLevelStatus": [
       80,
       74,
       71
     ],
-    null,
-    120051,
-    null,
-    120050,
-    false,
-    20300,
-    2,
-    211,
-    212,
-    null,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    120060,
-    106,
-    "シリウスの秘密兵器",
-    "",
-    null,
-    2,
-    3,
-    [
+    "StarActMasterId": 120051,
+    "AwakenStarActMasterId": null,
+    "SenseMasterId": 120050,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 20300,
+    "SenseEnhanceItemGroupMasterId": 2,
+    "FirstEpisodeReleaseItemGroupId": 211,
+    "SecondEpisodeReleaseItemGroupId": 212,
+    "CharacterAwakeningItemGroupMasterId": null,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 120060,
+    "CharacterBaseMasterId": 106,
+    "Name": "シリウスの秘密兵器",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 2,
+    "Attribute": 3,
+    "MinLevelStatus": [
       72,
       78,
       75
     ],
-    null,
-    120061,
-    null,
-    120060,
-    false,
-    20200,
-    2,
-    231,
-    232,
-    null,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    120070,
-    201,
-    "覇道の天才",
-    "",
-    null,
-    2,
-    3,
-    [
+    "StarActMasterId": 120061,
+    "AwakenStarActMasterId": null,
+    "SenseMasterId": 120060,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 20200,
+    "SenseEnhanceItemGroupMasterId": 2,
+    "FirstEpisodeReleaseItemGroupId": 231,
+    "SecondEpisodeReleaseItemGroupId": 232,
+    "CharacterAwakeningItemGroupMasterId": null,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 120070,
+    "CharacterBaseMasterId": 201,
+    "Name": "覇道の天才",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 2,
+    "Attribute": 3,
+    "MinLevelStatus": [
       72,
       72,
       81
     ],
-    null,
-    120071,
-    null,
-    120070,
-    false,
-    20200,
-    2,
-    231,
-    232,
-    null,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    120080,
-    202,
-    "愛憎まみれる乙女",
-    "",
-    null,
-    2,
-    4,
-    [
+    "StarActMasterId": 120071,
+    "AwakenStarActMasterId": null,
+    "SenseMasterId": 120070,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 20200,
+    "SenseEnhanceItemGroupMasterId": 2,
+    "FirstEpisodeReleaseItemGroupId": 231,
+    "SecondEpisodeReleaseItemGroupId": 232,
+    "CharacterAwakeningItemGroupMasterId": null,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 120080,
+    "CharacterBaseMasterId": 202,
+    "Name": "愛憎まみれる乙女",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 2,
+    "Attribute": 4,
+    "MinLevelStatus": [
       71,
       87,
       67
     ],
-    null,
-    120081,
-    null,
-    120080,
-    false,
-    20200,
-    2,
-    241,
-    242,
-    null,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    120090,
-    203,
-    "純真無垢な少女",
-    "",
-    null,
-    2,
-    1,
-    [
+    "StarActMasterId": 120081,
+    "AwakenStarActMasterId": null,
+    "SenseMasterId": 120080,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 20200,
+    "SenseEnhanceItemGroupMasterId": 2,
+    "FirstEpisodeReleaseItemGroupId": 241,
+    "SecondEpisodeReleaseItemGroupId": 242,
+    "CharacterAwakeningItemGroupMasterId": null,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 120090,
+    "CharacterBaseMasterId": 203,
+    "Name": "純真無垢な少女",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 2,
+    "Attribute": 1,
+    "MinLevelStatus": [
       71,
       76,
       78
     ],
-    null,
-    120091,
-    null,
-    120090,
-    false,
-    20300,
-    2,
-    211,
-    212,
-    null,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    120100,
-    204,
-    "下町のアイドル",
-    "",
-    null,
-    2,
-    1,
-    [
+    "StarActMasterId": 120091,
+    "AwakenStarActMasterId": null,
+    "SenseMasterId": 120090,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 20300,
+    "SenseEnhanceItemGroupMasterId": 2,
+    "FirstEpisodeReleaseItemGroupId": 211,
+    "SecondEpisodeReleaseItemGroupId": 212,
+    "CharacterAwakeningItemGroupMasterId": null,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 120100,
+    "CharacterBaseMasterId": 204,
+    "Name": "下町のアイドル",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 2,
+    "Attribute": 1,
+    "MinLevelStatus": [
       84,
       75,
       66
     ],
-    null,
-    120101,
-    null,
-    120100,
-    false,
-    20300,
-    2,
-    211,
-    212,
-    null,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    120110,
-    205,
-    "小悪魔系小学生",
-    "",
-    null,
-    2,
-    2,
-    [
+    "StarActMasterId": 120101,
+    "AwakenStarActMasterId": null,
+    "SenseMasterId": 120100,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 20300,
+    "SenseEnhanceItemGroupMasterId": 2,
+    "FirstEpisodeReleaseItemGroupId": 211,
+    "SecondEpisodeReleaseItemGroupId": 212,
+    "CharacterAwakeningItemGroupMasterId": null,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 120110,
+    "CharacterBaseMasterId": 205,
+    "Name": "小悪魔系小学生",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 2,
+    "Attribute": 2,
+    "MinLevelStatus": [
       71,
       71,
       83
     ],
-    null,
-    120111,
-    null,
-    120110,
-    false,
-    20100,
-    2,
-    221,
-    222,
-    null,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    120120,
-    301,
-    "名家の姉",
-    "",
-    null,
-    2,
-    3,
-    [
+    "StarActMasterId": 120111,
+    "AwakenStarActMasterId": null,
+    "SenseMasterId": 120110,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 20100,
+    "SenseEnhanceItemGroupMasterId": 2,
+    "FirstEpisodeReleaseItemGroupId": 221,
+    "SecondEpisodeReleaseItemGroupId": 222,
+    "CharacterAwakeningItemGroupMasterId": null,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 120120,
+    "CharacterBaseMasterId": 301,
+    "Name": "名家の姉",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 2,
+    "Attribute": 3,
+    "MinLevelStatus": [
       68,
       84,
       73
     ],
-    null,
-    120121,
-    null,
-    120120,
-    false,
-    20200,
-    2,
-    231,
-    232,
-    null,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    120130,
-    302,
-    "世話好き優等生",
-    "",
-    null,
-    2,
-    3,
-    [
+    "StarActMasterId": 120121,
+    "AwakenStarActMasterId": null,
+    "SenseMasterId": 120120,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 20200,
+    "SenseEnhanceItemGroupMasterId": 2,
+    "FirstEpisodeReleaseItemGroupId": 231,
+    "SecondEpisodeReleaseItemGroupId": 232,
+    "CharacterAwakeningItemGroupMasterId": null,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 120130,
+    "CharacterBaseMasterId": 302,
+    "Name": "世話好き優等生",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 2,
+    "Attribute": 3,
+    "MinLevelStatus": [
       81,
       70,
       74
     ],
-    null,
-    120131,
-    null,
-    120130,
-    false,
-    20300,
-    2,
-    231,
-    232,
-    null,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    120140,
-    303,
-    "勝気な倹約家",
-    "",
-    null,
-    2,
-    2,
-    [
+    "StarActMasterId": 120131,
+    "AwakenStarActMasterId": null,
+    "SenseMasterId": 120130,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 20300,
+    "SenseEnhanceItemGroupMasterId": 2,
+    "FirstEpisodeReleaseItemGroupId": 231,
+    "SecondEpisodeReleaseItemGroupId": 232,
+    "CharacterAwakeningItemGroupMasterId": null,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 120140,
+    "CharacterBaseMasterId": 303,
+    "Name": "勝気な倹約家",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 2,
+    "Attribute": 2,
+    "MinLevelStatus": [
       83,
       78,
       64
     ],
-    null,
-    120141,
-    null,
-    120140,
-    false,
-    20200,
-    2,
-    221,
-    222,
-    null,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    120150,
-    304,
-    "白銀の美少女",
-    "",
-    null,
-    2,
-    4,
-    [
+    "StarActMasterId": 120141,
+    "AwakenStarActMasterId": null,
+    "SenseMasterId": 120140,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 20200,
+    "SenseEnhanceItemGroupMasterId": 2,
+    "FirstEpisodeReleaseItemGroupId": 221,
+    "SecondEpisodeReleaseItemGroupId": 222,
+    "CharacterAwakeningItemGroupMasterId": null,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 120150,
+    "CharacterBaseMasterId": 304,
+    "Name": "白銀の美少女",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 2,
+    "Attribute": 4,
+    "MinLevelStatus": [
       63,
       71,
       91
     ],
-    null,
-    120151,
-    null,
-    120150,
-    false,
-    20100,
-    2,
-    241,
-    242,
-    null,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    120160,
-    305,
-    "元気いっぱいダンサー",
-    "",
-    null,
-    2,
-    1,
-    [
+    "StarActMasterId": 120151,
+    "AwakenStarActMasterId": null,
+    "SenseMasterId": 120150,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 20100,
+    "SenseEnhanceItemGroupMasterId": 2,
+    "FirstEpisodeReleaseItemGroupId": 241,
+    "SecondEpisodeReleaseItemGroupId": 242,
+    "CharacterAwakeningItemGroupMasterId": null,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 120160,
+    "CharacterBaseMasterId": 305,
+    "Name": "元気いっぱいダンサー",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 2,
+    "Attribute": 1,
+    "MinLevelStatus": [
       89,
       67,
       69
     ],
-    null,
-    120161,
-    null,
-    120160,
-    false,
-    20200,
-    2,
-    211,
-    212,
-    null,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    120170,
-    401,
-    "オタクでお嬢様",
-    "",
-    null,
-    2,
-    2,
-    [
+    "StarActMasterId": 120161,
+    "AwakenStarActMasterId": null,
+    "SenseMasterId": 120160,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 20200,
+    "SenseEnhanceItemGroupMasterId": 2,
+    "FirstEpisodeReleaseItemGroupId": 211,
+    "SecondEpisodeReleaseItemGroupId": 212,
+    "CharacterAwakeningItemGroupMasterId": null,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 120170,
+    "CharacterBaseMasterId": 401,
+    "Name": "オタクでお嬢様",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 2,
+    "Attribute": 2,
+    "MinLevelStatus": [
       79,
       79,
       67
     ],
-    null,
-    120171,
-    null,
-    120170,
-    false,
-    20900,
-    2,
-    221,
-    222,
-    null,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    120180,
-    402,
-    "内気な孝行娘",
-    "",
-    null,
-    2,
-    4,
-    [
+    "StarActMasterId": 120171,
+    "AwakenStarActMasterId": null,
+    "SenseMasterId": 120170,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 20900,
+    "SenseEnhanceItemGroupMasterId": 2,
+    "FirstEpisodeReleaseItemGroupId": 221,
+    "SecondEpisodeReleaseItemGroupId": 222,
+    "CharacterAwakeningItemGroupMasterId": null,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 120180,
+    "CharacterBaseMasterId": 402,
+    "Name": "内気な孝行娘",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 2,
+    "Attribute": 4,
+    "MinLevelStatus": [
       71,
       69,
       85
     ],
-    null,
-    120181,
-    null,
-    120180,
-    false,
-    20200,
-    2,
-    241,
-    242,
-    null,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    120190,
-    403,
-    "悟り系ギャル",
-    "",
-    null,
-    2,
-    1,
-    [
+    "StarActMasterId": 120181,
+    "AwakenStarActMasterId": null,
+    "SenseMasterId": 120180,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 20200,
+    "SenseEnhanceItemGroupMasterId": 2,
+    "FirstEpisodeReleaseItemGroupId": 241,
+    "SecondEpisodeReleaseItemGroupId": 242,
+    "CharacterAwakeningItemGroupMasterId": null,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 120190,
+    "CharacterBaseMasterId": 403,
+    "Name": "悟り系ギャル",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 2,
+    "Attribute": 1,
+    "MinLevelStatus": [
       73,
       76,
       76
     ],
-    null,
-    120191,
-    null,
-    120190,
-    false,
-    20300,
-    2,
-    211,
-    212,
-    null,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    120200,
-    404,
-    "電姫の占い師",
-    "",
-    null,
-    2,
-    3,
-    [
+    "StarActMasterId": 120191,
+    "AwakenStarActMasterId": null,
+    "SenseMasterId": 120190,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 20300,
+    "SenseEnhanceItemGroupMasterId": 2,
+    "FirstEpisodeReleaseItemGroupId": 211,
+    "SecondEpisodeReleaseItemGroupId": 212,
+    "CharacterAwakeningItemGroupMasterId": null,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 120200,
+    "CharacterBaseMasterId": 404,
+    "Name": "電姫の占い師",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 2,
+    "Attribute": 3,
+    "MinLevelStatus": [
       77,
       88,
       60
     ],
-    null,
-    120201,
-    null,
-    120200,
-    false,
-    20100,
-    2,
-    231,
-    232,
-    null,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    120210,
-    405,
-    "ぐーたら好きの天才子役",
-    "",
-    null,
-    2,
-    2,
-    [
+    "StarActMasterId": 120201,
+    "AwakenStarActMasterId": null,
+    "SenseMasterId": 120200,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 20100,
+    "SenseEnhanceItemGroupMasterId": 2,
+    "FirstEpisodeReleaseItemGroupId": 231,
+    "SecondEpisodeReleaseItemGroupId": 232,
+    "CharacterAwakeningItemGroupMasterId": null,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 120210,
+    "CharacterBaseMasterId": 405,
+    "Name": "ぐーたら好きの天才子役",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 2,
+    "Attribute": 2,
+    "MinLevelStatus": [
       78,
       61,
       86
     ],
-    null,
-    120211,
-    null,
-    120210,
-    false,
-    20100,
-    2,
-    221,
-    222,
-    null,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    130010,
-    101,
-    "役者としての成長",
-    "",
-    null,
-    3,
-    4,
-    [
+    "StarActMasterId": 120211,
+    "AwakenStarActMasterId": null,
+    "SenseMasterId": 120210,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 20100,
+    "SenseEnhanceItemGroupMasterId": 2,
+    "FirstEpisodeReleaseItemGroupId": 221,
+    "SecondEpisodeReleaseItemGroupId": 222,
+    "CharacterAwakeningItemGroupMasterId": null,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 130010,
+    "CharacterBaseMasterId": 101,
+    "Name": "役者としての成長",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 3,
+    "Attribute": 4,
+    "MinLevelStatus": [
       80,
       92,
       98
     ],
-    null,
-    130011,
-    130011,
-    130010,
-    false,
-    34200,
-    3,
-    341,
-    342,
-    34,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    130020,
-    102,
-    "一番風呂のために",
-    "",
-    null,
-    3,
-    4,
-    [
+    "StarActMasterId": 130011,
+    "AwakenStarActMasterId": 130011,
+    "SenseMasterId": 130010,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 34200,
+    "SenseEnhanceItemGroupMasterId": 3,
+    "FirstEpisodeReleaseItemGroupId": 341,
+    "SecondEpisodeReleaseItemGroupId": 342,
+    "CharacterAwakeningItemGroupMasterId": 34,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 130020,
+    "CharacterBaseMasterId": 102,
+    "Name": "一番風呂のために",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 3,
+    "Attribute": 4,
+    "MinLevelStatus": [
       97,
       89,
       84
     ],
-    null,
-    130021,
-    130021,
-    130020,
-    false,
-    30800,
-    3,
-    341,
-    342,
-    34,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    130030,
-    103,
-    "砕けたガラスは……",
-    "",
-    null,
-    3,
-    2,
-    [
+    "StarActMasterId": 130021,
+    "AwakenStarActMasterId": 130021,
+    "SenseMasterId": 130020,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 30800,
+    "SenseEnhanceItemGroupMasterId": 3,
+    "FirstEpisodeReleaseItemGroupId": 341,
+    "SecondEpisodeReleaseItemGroupId": 342,
+    "CharacterAwakeningItemGroupMasterId": 34,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 130030,
+    "CharacterBaseMasterId": 103,
+    "Name": "砕けたガラスは……",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 3,
+    "Attribute": 2,
+    "MinLevelStatus": [
       96,
       91,
       83
     ],
-    null,
-    130031,
-    130031,
-    130030,
-    false,
-    33300,
-    3,
-    321,
-    322,
-    32,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    130040,
-    104,
-    "思い出に花を咲かせて",
-    "",
-    null,
-    3,
-    4,
-    [
+    "StarActMasterId": 130031,
+    "AwakenStarActMasterId": 130031,
+    "SenseMasterId": 130030,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 33300,
+    "SenseEnhanceItemGroupMasterId": 3,
+    "FirstEpisodeReleaseItemGroupId": 321,
+    "SecondEpisodeReleaseItemGroupId": 322,
+    "CharacterAwakeningItemGroupMasterId": 32,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 130040,
+    "CharacterBaseMasterId": 104,
+    "Name": "思い出に花を咲かせて",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 3,
+    "Attribute": 4,
+    "MinLevelStatus": [
       84,
       87,
       99
     ],
-    null,
-    130041,
-    130041,
-    130040,
-    false,
-    32100,
-    3,
-    341,
-    342,
-    34,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    130050,
-    105,
-    "トレンドは生活風景",
-    "",
-    null,
-    3,
-    2,
-    [
+    "StarActMasterId": 130041,
+    "AwakenStarActMasterId": 130041,
+    "SenseMasterId": 130040,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 32100,
+    "SenseEnhanceItemGroupMasterId": 3,
+    "FirstEpisodeReleaseItemGroupId": 341,
+    "SecondEpisodeReleaseItemGroupId": 342,
+    "CharacterAwakeningItemGroupMasterId": 34,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 130050,
+    "CharacterBaseMasterId": 105,
+    "Name": "トレンドは生活風景",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 3,
+    "Attribute": 2,
+    "MinLevelStatus": [
       90,
       92,
       88
     ],
-    null,
-    130051,
-    130051,
-    130050,
-    false,
-    33200,
-    3,
-    321,
-    322,
-    32,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    130060,
-    106,
-    "見てしまった……",
-    "",
-    null,
-    3,
-    3,
-    [
+    "StarActMasterId": 130051,
+    "AwakenStarActMasterId": 130051,
+    "SenseMasterId": 130050,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 33200,
+    "SenseEnhanceItemGroupMasterId": 3,
+    "FirstEpisodeReleaseItemGroupId": 321,
+    "SecondEpisodeReleaseItemGroupId": 322,
+    "CharacterAwakeningItemGroupMasterId": 32,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 130060,
+    "CharacterBaseMasterId": 106,
+    "Name": "見てしまった……",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 3,
+    "Attribute": 3,
+    "MinLevelStatus": [
       87,
       93,
       90
     ],
-    null,
-    130061,
-    130061,
-    130060,
-    false,
-    34300,
-    3,
-    331,
-    332,
-    33,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    130070,
-    201,
-    "新たな日常",
-    "",
-    null,
-    3,
-    4,
-    [
+    "StarActMasterId": 130061,
+    "AwakenStarActMasterId": 130061,
+    "SenseMasterId": 130060,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 34300,
+    "SenseEnhanceItemGroupMasterId": 3,
+    "FirstEpisodeReleaseItemGroupId": 331,
+    "SecondEpisodeReleaseItemGroupId": 332,
+    "CharacterAwakeningItemGroupMasterId": 33,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 130070,
+    "CharacterBaseMasterId": 201,
+    "Name": "新たな日常",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 3,
+    "Attribute": 4,
+    "MinLevelStatus": [
       84,
       83,
       103
     ],
-    null,
-    130071,
-    130071,
-    130070,
-    false,
-    31200,
-    3,
-    341,
-    342,
-    34,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    130080,
-    202,
-    "恨みをつづって",
-    "",
-    null,
-    3,
-    1,
-    [
+    "StarActMasterId": 130071,
+    "AwakenStarActMasterId": 130071,
+    "SenseMasterId": 130070,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 31200,
+    "SenseEnhanceItemGroupMasterId": 3,
+    "FirstEpisodeReleaseItemGroupId": 341,
+    "SecondEpisodeReleaseItemGroupId": 342,
+    "CharacterAwakeningItemGroupMasterId": 34,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 130080,
+    "CharacterBaseMasterId": 202,
+    "Name": "恨みをつづって",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 3,
+    "Attribute": 1,
+    "MinLevelStatus": [
       93,
       100,
       77
     ],
-    null,
-    130081,
-    130081,
-    130080,
-    false,
-    33200,
-    3,
-    311,
-    312,
-    31,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    130090,
-    203,
-    "都会ってすごい！",
-    "",
-    null,
-    3,
-    3,
-    [
+    "StarActMasterId": 130081,
+    "AwakenStarActMasterId": 130081,
+    "SenseMasterId": 130080,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 33200,
+    "SenseEnhanceItemGroupMasterId": 3,
+    "FirstEpisodeReleaseItemGroupId": 311,
+    "SecondEpisodeReleaseItemGroupId": 312,
+    "CharacterAwakeningItemGroupMasterId": 31,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 130090,
+    "CharacterBaseMasterId": 203,
+    "Name": "都会ってすごい！",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 3,
+    "Attribute": 3,
+    "MinLevelStatus": [
       82,
       97,
       91
     ],
-    null,
-    130091,
-    130091,
-    130090,
-    false,
-    32300,
-    3,
-    331,
-    332,
-    33,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    130100,
-    204,
-    "ここいらでひとつ、大勝負",
-    "",
-    null,
-    3,
-    2,
-    [
+    "StarActMasterId": 130091,
+    "AwakenStarActMasterId": 130091,
+    "SenseMasterId": 130090,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 32300,
+    "SenseEnhanceItemGroupMasterId": 3,
+    "FirstEpisodeReleaseItemGroupId": 331,
+    "SecondEpisodeReleaseItemGroupId": 332,
+    "CharacterAwakeningItemGroupMasterId": 33,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 130100,
+    "CharacterBaseMasterId": 204,
+    "Name": "ここいらでひとつ、大勝負",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 3,
+    "Attribute": 2,
+    "MinLevelStatus": [
       94,
       93,
       83
     ],
-    null,
-    130101,
-    130101,
-    130100,
-    false,
-    34100,
-    3,
-    321,
-    322,
-    32,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    130110,
-    205,
-    "体育なんて滅びちゃえ！",
-    "",
-    null,
-    3,
-    1,
-    [
+    "StarActMasterId": 130101,
+    "AwakenStarActMasterId": 130101,
+    "SenseMasterId": 130100,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 34100,
+    "SenseEnhanceItemGroupMasterId": 3,
+    "FirstEpisodeReleaseItemGroupId": 321,
+    "SecondEpisodeReleaseItemGroupId": 322,
+    "CharacterAwakeningItemGroupMasterId": 32,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 130110,
+    "CharacterBaseMasterId": 205,
+    "Name": "体育なんて滅びちゃえ！",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 3,
+    "Attribute": 1,
+    "MinLevelStatus": [
       91,
       83,
       96
     ],
-    null,
-    130111,
-    130111,
-    130110,
-    false,
-    32100,
-    3,
-    311,
-    312,
-    31,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    130120,
-    301,
-    "お嬢様のオフタイム",
-    "",
-    null,
-    3,
-    4,
-    [
+    "StarActMasterId": 130111,
+    "AwakenStarActMasterId": 130111,
+    "SenseMasterId": 130110,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 32100,
+    "SenseEnhanceItemGroupMasterId": 3,
+    "FirstEpisodeReleaseItemGroupId": 311,
+    "SecondEpisodeReleaseItemGroupId": 312,
+    "CharacterAwakeningItemGroupMasterId": 31,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 130120,
+    "CharacterBaseMasterId": 301,
+    "Name": "お嬢様のオフタイム",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 3,
+    "Attribute": 4,
+    "MinLevelStatus": [
       80,
       95,
       95
     ],
-    null,
-    130121,
-    130121,
-    130120,
-    false,
-    34200,
-    3,
-    341,
-    342,
-    34,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    130130,
-    302,
-    "世話焼きは果てしなく",
-    "",
-    null,
-    3,
-    2,
-    [
+    "StarActMasterId": 130121,
+    "AwakenStarActMasterId": 130121,
+    "SenseMasterId": 130120,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 34200,
+    "SenseEnhanceItemGroupMasterId": 3,
+    "FirstEpisodeReleaseItemGroupId": 341,
+    "SecondEpisodeReleaseItemGroupId": 342,
+    "CharacterAwakeningItemGroupMasterId": 34,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 130130,
+    "CharacterBaseMasterId": 302,
+    "Name": "世話焼きは果てしなく",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 3,
+    "Attribute": 2,
+    "MinLevelStatus": [
       95,
       82,
       93
     ],
-    null,
-    130131,
-    130131,
-    130130,
-    false,
-    31100,
-    3,
-    321,
-    322,
-    32,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    130140,
-    303,
-    "あるのは勝ちだけ",
-    "",
-    null,
-    3,
-    3,
-    [
+    "StarActMasterId": 130131,
+    "AwakenStarActMasterId": 130131,
+    "SenseMasterId": 130130,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 31100,
+    "SenseEnhanceItemGroupMasterId": 3,
+    "FirstEpisodeReleaseItemGroupId": 321,
+    "SecondEpisodeReleaseItemGroupId": 322,
+    "CharacterAwakeningItemGroupMasterId": 32,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 130140,
+    "CharacterBaseMasterId": 303,
+    "Name": "あるのは勝ちだけ",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 3,
+    "Attribute": 3,
+    "MinLevelStatus": [
       99,
       96,
       75
     ],
-    null,
-    130141,
-    130141,
-    130140,
-    false,
-    33200,
-    3,
-    331,
-    332,
-    33,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    130150,
-    304,
-    "自然な一日",
-    "",
-    null,
-    3,
-    1,
-    [
+    "StarActMasterId": 130141,
+    "AwakenStarActMasterId": 130141,
+    "SenseMasterId": 130140,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 33200,
+    "SenseEnhanceItemGroupMasterId": 3,
+    "FirstEpisodeReleaseItemGroupId": 331,
+    "SecondEpisodeReleaseItemGroupId": 332,
+    "CharacterAwakeningItemGroupMasterId": 33,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 130150,
+    "CharacterBaseMasterId": 304,
+    "Name": "自然な一日",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 3,
+    "Attribute": 1,
+    "MinLevelStatus": [
       85,
       84,
       101
     ],
-    null,
-    130151,
-    130151,
-    130150,
-    false,
-    32100,
-    3,
-    311,
-    312,
-    31,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    130160,
-    305,
-    "踊ればなんくるない！",
-    "",
-    null,
-    3,
-    2,
-    [
+    "StarActMasterId": 130151,
+    "AwakenStarActMasterId": 130151,
+    "SenseMasterId": 130150,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 32100,
+    "SenseEnhanceItemGroupMasterId": 3,
+    "FirstEpisodeReleaseItemGroupId": 311,
+    "SecondEpisodeReleaseItemGroupId": 312,
+    "CharacterAwakeningItemGroupMasterId": 31,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 130160,
+    "CharacterBaseMasterId": 305,
+    "Name": "踊ればなんくるない！",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 3,
+    "Attribute": 2,
+    "MinLevelStatus": [
       99,
       85,
       86
     ],
-    null,
-    130161,
-    130161,
-    130160,
-    false,
-    33300,
-    3,
-    321,
-    322,
-    32,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    130170,
-    401,
-    "来ちゃいました！",
-    "",
-    null,
-    3,
-    3,
-    [
+    "StarActMasterId": 130161,
+    "AwakenStarActMasterId": 130161,
+    "SenseMasterId": 130160,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 33300,
+    "SenseEnhanceItemGroupMasterId": 3,
+    "FirstEpisodeReleaseItemGroupId": 321,
+    "SecondEpisodeReleaseItemGroupId": 322,
+    "CharacterAwakeningItemGroupMasterId": 32,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 130170,
+    "CharacterBaseMasterId": 401,
+    "Name": "来ちゃいました！",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 3,
+    "Attribute": 3,
+    "MinLevelStatus": [
       95,
       97,
       78
     ],
-    null,
-    130171,
-    130171,
-    130170,
-    false,
-    30901,
-    3,
-    331,
-    332,
-    33,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    130180,
-    402,
-    "まさかのお客様",
-    "",
-    null,
-    3,
-    1,
-    [
+    "StarActMasterId": 130171,
+    "AwakenStarActMasterId": 130171,
+    "SenseMasterId": 130170,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 30901,
+    "SenseEnhanceItemGroupMasterId": 3,
+    "FirstEpisodeReleaseItemGroupId": 331,
+    "SecondEpisodeReleaseItemGroupId": 332,
+    "CharacterAwakeningItemGroupMasterId": 33,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 130180,
+    "CharacterBaseMasterId": 402,
+    "Name": "まさかのお客様",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 3,
+    "Attribute": 1,
+    "MinLevelStatus": [
       93,
       82,
       95
     ],
-    null,
-    130181,
-    130181,
-    130180,
-    false,
-    33200,
-    3,
-    311,
-    312,
-    31,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    130190,
-    403,
-    "新作お菓子レビュー",
-    "",
-    null,
-    3,
-    2,
-    [
+    "StarActMasterId": 130181,
+    "AwakenStarActMasterId": 130181,
+    "SenseMasterId": 130180,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 33200,
+    "SenseEnhanceItemGroupMasterId": 3,
+    "FirstEpisodeReleaseItemGroupId": 311,
+    "SecondEpisodeReleaseItemGroupId": 312,
+    "CharacterAwakeningItemGroupMasterId": 31,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 130190,
+    "CharacterBaseMasterId": 403,
+    "Name": "新作お菓子レビュー",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 3,
+    "Attribute": 2,
+    "MinLevelStatus": [
       83,
       94,
       93
     ],
-    null,
-    130191,
-    130191,
-    130190,
-    false,
-    31200,
-    3,
-    321,
-    322,
-    32,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    130200,
-    404,
-    "悪鬼退散っ！",
-    "",
-    null,
-    3,
-    4,
-    [
+    "StarActMasterId": 130191,
+    "AwakenStarActMasterId": 130191,
+    "SenseMasterId": 130190,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 31200,
+    "SenseEnhanceItemGroupMasterId": 3,
+    "FirstEpisodeReleaseItemGroupId": 321,
+    "SecondEpisodeReleaseItemGroupId": 322,
+    "CharacterAwakeningItemGroupMasterId": 32,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 130200,
+    "CharacterBaseMasterId": 404,
+    "Name": "悪鬼退散っ！",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 3,
+    "Attribute": 4,
+    "MinLevelStatus": [
       89,
       99,
       82
     ],
-    null,
-    130201,
-    130201,
-    130200,
-    false,
-    34300,
-    3,
-    341,
-    342,
-    34,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    130210,
-    405,
-    "先輩の本気",
-    "",
-    null,
-    3,
-    3,
-    [
+    "StarActMasterId": 130201,
+    "AwakenStarActMasterId": 130201,
+    "SenseMasterId": 130200,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 34300,
+    "SenseEnhanceItemGroupMasterId": 3,
+    "FirstEpisodeReleaseItemGroupId": 341,
+    "SecondEpisodeReleaseItemGroupId": 342,
+    "CharacterAwakeningItemGroupMasterId": 34,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 130210,
+    "CharacterBaseMasterId": 405,
+    "Name": "先輩の本気",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 3,
+    "Attribute": 3,
+    "MinLevelStatus": [
       94,
       79,
       97
     ],
-    null,
-    130211,
-    130211,
-    130210,
-    false,
-    32100,
-    3,
-    331,
-    332,
-    33,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    130220,
-    204,
-    "頼れる先輩",
-    "",
-    null,
-    3,
-    1,
-    [
+    "StarActMasterId": 130211,
+    "AwakenStarActMasterId": 130211,
+    "SenseMasterId": 130210,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 32100,
+    "SenseEnhanceItemGroupMasterId": 3,
+    "FirstEpisodeReleaseItemGroupId": 331,
+    "SecondEpisodeReleaseItemGroupId": 332,
+    "CharacterAwakeningItemGroupMasterId": 33,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 130220,
+    "CharacterBaseMasterId": 204,
+    "Name": "頼れる先輩",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 3,
+    "Attribute": 1,
+    "MinLevelStatus": [
       99,
       90,
       81
     ],
-    null,
-    130221,
-    130221,
-    130220,
-    false,
-    30004,
-    3,
-    311,
-    312,
-    31,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          100,
-          199,
-          232,
-          144
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    140010,
-    101,
-    "悲哀と恋慕の旋律",
-    "",
-    null,
-    4,
-    3,
-    [
+    "StarActMasterId": 130221,
+    "AwakenStarActMasterId": 130221,
+    "SenseMasterId": 130220,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 30004,
+    "SenseEnhanceItemGroupMasterId": 3,
+    "FirstEpisodeReleaseItemGroupId": 311,
+    "SecondEpisodeReleaseItemGroupId": 312,
+    "CharacterAwakeningItemGroupMasterId": 31,
+    "DisplayStartAt": "2023-07-31T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 140010,
+    "CharacterBaseMasterId": 101,
+    "Name": "悲哀と恋慕の旋律",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 4,
+    "Attribute": 3,
+    "MinLevelStatus": [
       107,
       118,
       120
     ],
-    null,
-    140011,
-    140011,
-    140010,
-    false,
-    40001,
-    101,
-    431,
-    432,
-    43,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    140020,
-    104,
-    "大切で大好きな劇団",
-    "",
-    null,
-    4,
-    1,
-    [
+    "StarActMasterId": 140011,
+    "AwakenStarActMasterId": 140011,
+    "SenseMasterId": 140010,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 40001,
+    "SenseEnhanceItemGroupMasterId": 101,
+    "FirstEpisodeReleaseItemGroupId": 431,
+    "SecondEpisodeReleaseItemGroupId": 432,
+    "CharacterAwakeningItemGroupMasterId": 43,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 140020,
+    "CharacterBaseMasterId": 104,
+    "Name": "大切で大好きな劇団",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 4,
+    "Attribute": 1,
+    "MinLevelStatus": [
       116,
       110,
       119
     ],
-    null,
-    140021,
-    140021,
-    140020,
-    false,
-    40002,
-    4,
-    411,
-    412,
-    41,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    140030,
-    105,
-    "あなたをお待ちしておりました",
-    "",
-    null,
-    4,
-    4,
-    [
+    "StarActMasterId": 140021,
+    "AwakenStarActMasterId": 140021,
+    "SenseMasterId": 140020,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 40002,
+    "SenseEnhanceItemGroupMasterId": 4,
+    "FirstEpisodeReleaseItemGroupId": 411,
+    "SecondEpisodeReleaseItemGroupId": 412,
+    "CharacterAwakeningItemGroupMasterId": 41,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 140030,
+    "CharacterBaseMasterId": 105,
+    "Name": "あなたをお待ちしておりました",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 4,
+    "Attribute": 4,
+    "MinLevelStatus": [
       113,
       116,
       116
     ],
-    null,
-    140031,
-    140031,
-    140030,
-    false,
-    40003,
-    4,
-    441,
-    442,
-    44,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    140040,
-    106,
-    "君を求めていた",
-    "",
-    null,
-    4,
-    4,
-    [
+    "StarActMasterId": 140031,
+    "AwakenStarActMasterId": 140031,
+    "SenseMasterId": 140030,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 40003,
+    "SenseEnhanceItemGroupMasterId": 4,
+    "FirstEpisodeReleaseItemGroupId": 441,
+    "SecondEpisodeReleaseItemGroupId": 442,
+    "CharacterAwakeningItemGroupMasterId": 44,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 140040,
+    "CharacterBaseMasterId": 106,
+    "Name": "君を求めていた",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 4,
+    "Attribute": 4,
+    "MinLevelStatus": [
       109,
       114,
       122
     ],
-    null,
-    140041,
-    140041,
-    140040,
-    false,
-    40004,
-    4,
-    441,
-    442,
-    44,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    140050,
-    203,
-    "純真無垢な笑顔",
-    "",
-    null,
-    4,
-    1,
-    [
+    "StarActMasterId": 140041,
+    "AwakenStarActMasterId": 140041,
+    "SenseMasterId": 140040,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 40004,
+    "SenseEnhanceItemGroupMasterId": 4,
+    "FirstEpisodeReleaseItemGroupId": 441,
+    "SecondEpisodeReleaseItemGroupId": 442,
+    "CharacterAwakeningItemGroupMasterId": 44,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 140050,
+    "CharacterBaseMasterId": 203,
+    "Name": "純真無垢な笑顔",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 4,
+    "Attribute": 1,
+    "MinLevelStatus": [
       111,
       116,
       118
     ],
-    null,
-    140051,
-    140051,
-    140050,
-    false,
-    40005,
-    4,
-    411,
-    412,
-    41,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    140060,
-    204,
-    "満たされない心",
-    "",
-    null,
-    4,
-    2,
-    [
+    "StarActMasterId": 140051,
+    "AwakenStarActMasterId": 140051,
+    "SenseMasterId": 140050,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 40005,
+    "SenseEnhanceItemGroupMasterId": 4,
+    "FirstEpisodeReleaseItemGroupId": 411,
+    "SecondEpisodeReleaseItemGroupId": 412,
+    "CharacterAwakeningItemGroupMasterId": 41,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 140060,
+    "CharacterBaseMasterId": 204,
+    "Name": "満たされない心",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 4,
+    "Attribute": 2,
+    "MinLevelStatus": [
       119,
       118,
       108
     ],
-    null,
-    140061,
-    140061,
-    140060,
-    false,
-    40006,
-    4,
-    421,
-    422,
-    42,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    140070,
-    205,
-    "吸血しちゃうぞっ♪",
-    "",
-    null,
-    4,
-    3,
-    [
+    "StarActMasterId": 140061,
+    "AwakenStarActMasterId": 140061,
+    "SenseMasterId": 140060,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 40006,
+    "SenseEnhanceItemGroupMasterId": 4,
+    "FirstEpisodeReleaseItemGroupId": 421,
+    "SecondEpisodeReleaseItemGroupId": 422,
+    "CharacterAwakeningItemGroupMasterId": 42,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 140070,
+    "CharacterBaseMasterId": 205,
+    "Name": "吸血しちゃうぞっ♪",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 4,
+    "Attribute": 3,
+    "MinLevelStatus": [
       112,
       114,
       119
     ],
-    null,
-    140071,
-    140071,
-    140070,
-    false,
-    40007,
-    4,
-    431,
-    432,
-    43,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    140080,
-    301,
-    "幼き日の情景",
-    "",
-    null,
-    4,
-    2,
-    [
+    "StarActMasterId": 140071,
+    "AwakenStarActMasterId": 140071,
+    "SenseMasterId": 140070,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 40007,
+    "SenseEnhanceItemGroupMasterId": 4,
+    "FirstEpisodeReleaseItemGroupId": 431,
+    "SecondEpisodeReleaseItemGroupId": 432,
+    "CharacterAwakeningItemGroupMasterId": 43,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 140080,
+    "CharacterBaseMasterId": 301,
+    "Name": "幼き日の情景",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 4,
+    "Attribute": 2,
+    "MinLevelStatus": [
       107,
       121,
       117
     ],
-    null,
-    140081,
-    140081,
-    140080,
-    false,
-    40008,
-    4,
-    421,
-    422,
-    42,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    140090,
-    302,
-    "かつての友との別れ",
-    "",
-    null,
-    4,
-    4,
-    [
+    "StarActMasterId": 140081,
+    "AwakenStarActMasterId": 140081,
+    "SenseMasterId": 140080,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 40008,
+    "SenseEnhanceItemGroupMasterId": 4,
+    "FirstEpisodeReleaseItemGroupId": 421,
+    "SecondEpisodeReleaseItemGroupId": 422,
+    "CharacterAwakeningItemGroupMasterId": 42,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 140090,
+    "CharacterBaseMasterId": 302,
+    "Name": "かつての友との別れ",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 4,
+    "Attribute": 4,
+    "MinLevelStatus": [
       118,
       106,
       121
     ],
-    null,
-    140091,
-    140091,
-    140090,
-    false,
-    40009,
-    4,
-    441,
-    442,
-    44,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    140100,
-    304,
-    "オーロラの精霊",
-    "",
-    null,
-    4,
-    1,
-    [
+    "StarActMasterId": 140091,
+    "AwakenStarActMasterId": 140091,
+    "SenseMasterId": 140090,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 40009,
+    "SenseEnhanceItemGroupMasterId": 4,
+    "FirstEpisodeReleaseItemGroupId": 441,
+    "SecondEpisodeReleaseItemGroupId": 442,
+    "CharacterAwakeningItemGroupMasterId": 44,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 140100,
+    "CharacterBaseMasterId": 304,
+    "Name": "オーロラの精霊",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 4,
+    "Attribute": 1,
+    "MinLevelStatus": [
       110,
       109,
       126
     ],
-    null,
-    140101,
-    140101,
-    140100,
-    false,
-    40010,
-    4,
-    411,
-    412,
-    41,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    140110,
-    401,
-    "私を見守る大切な蝶",
-    "",
-    null,
-    4,
-    4,
-    [
+    "StarActMasterId": 140101,
+    "AwakenStarActMasterId": 140101,
+    "SenseMasterId": 140100,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 40010,
+    "SenseEnhanceItemGroupMasterId": 4,
+    "FirstEpisodeReleaseItemGroupId": 411,
+    "SecondEpisodeReleaseItemGroupId": 412,
+    "CharacterAwakeningItemGroupMasterId": 41,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 140110,
+    "CharacterBaseMasterId": 401,
+    "Name": "私を見守る大切な蝶",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 4,
+    "Attribute": 4,
+    "MinLevelStatus": [
       117,
       118,
       110
     ],
-    null,
-    140111,
-    140111,
-    140110,
-    false,
-    40011,
-    4,
-    441,
-    442,
-    44,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    140120,
-    402,
-    "世界が色づくその瞬間",
-    "",
-    null,
-    4,
-    3,
-    [
+    "StarActMasterId": 140111,
+    "AwakenStarActMasterId": 140111,
+    "SenseMasterId": 140110,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 40011,
+    "SenseEnhanceItemGroupMasterId": 4,
+    "FirstEpisodeReleaseItemGroupId": 441,
+    "SecondEpisodeReleaseItemGroupId": 442,
+    "CharacterAwakeningItemGroupMasterId": 44,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 140120,
+    "CharacterBaseMasterId": 402,
+    "Name": "世界が色づくその瞬間",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 4,
+    "Attribute": 3,
+    "MinLevelStatus": [
       114,
       113,
       118
     ],
-    null,
-    140121,
-    140121,
-    140120,
-    false,
-    40012,
-    4,
-    431,
-    432,
-    43,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    140130,
-    405,
-    "月下の神秘",
-    "",
-    null,
-    4,
-    2,
-    [
+    "StarActMasterId": 140121,
+    "AwakenStarActMasterId": 140121,
+    "SenseMasterId": 140120,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 40012,
+    "SenseEnhanceItemGroupMasterId": 4,
+    "FirstEpisodeReleaseItemGroupId": 431,
+    "SecondEpisodeReleaseItemGroupId": 432,
+    "CharacterAwakeningItemGroupMasterId": 43,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 140130,
+    "CharacterBaseMasterId": 405,
+    "Name": "月下の神秘",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 4,
+    "Attribute": 2,
+    "MinLevelStatus": [
       118,
       101,
       126
     ],
-    null,
-    140131,
-    140131,
-    140130,
-    false,
-    40013,
-    4,
-    421,
-    422,
-    42,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    140140,
-    103,
-    "憧れに思いを馳せて",
-    "",
-    null,
-    4,
-    4,
-    [
+    "StarActMasterId": 140131,
+    "AwakenStarActMasterId": 140131,
+    "SenseMasterId": 140130,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 40013,
+    "SenseEnhanceItemGroupMasterId": 4,
+    "FirstEpisodeReleaseItemGroupId": 421,
+    "SecondEpisodeReleaseItemGroupId": 422,
+    "CharacterAwakeningItemGroupMasterId": 42,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 140140,
+    "CharacterBaseMasterId": 103,
+    "Name": "憧れに思いを馳せて",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 4,
+    "Attribute": 4,
+    "MinLevelStatus": [
       119,
       115,
       111
     ],
-    null,
-    140141,
-    140141,
-    140140,
-    false,
-    40014,
-    4,
-    441,
-    442,
-    44,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          100,
-          197,
-          69,
-          144
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    140150,
-    202,
-    "狂気の果ての虚無",
-    "",
-    null,
-    4,
-    1,
-    [
+    "StarActMasterId": 140141,
+    "AwakenStarActMasterId": 140141,
+    "SenseMasterId": 140140,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 40014,
+    "SenseEnhanceItemGroupMasterId": 4,
+    "FirstEpisodeReleaseItemGroupId": 441,
+    "SecondEpisodeReleaseItemGroupId": 442,
+    "CharacterAwakeningItemGroupMasterId": 44,
+    "DisplayStartAt": "2023-07-29T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 140150,
+    "CharacterBaseMasterId": 202,
+    "Name": "狂気の果ての虚無",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 4,
+    "Attribute": 1,
+    "MinLevelStatus": [
       118,
       125,
       102
     ],
-    null,
-    140151,
-    140151,
-    140150,
-    false,
-    40015,
-    4,
-    411,
-    412,
-    41,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          100,
-          199,
-          232,
-          144
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    140160,
-    201,
-    "悪意に満ちた観察者",
-    "",
-    null,
-    4,
-    1,
-    [
+    "StarActMasterId": 140151,
+    "AwakenStarActMasterId": 140151,
+    "SenseMasterId": 140150,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 40015,
+    "SenseEnhanceItemGroupMasterId": 4,
+    "FirstEpisodeReleaseItemGroupId": 411,
+    "SecondEpisodeReleaseItemGroupId": 412,
+    "CharacterAwakeningItemGroupMasterId": 41,
+    "DisplayStartAt": "2023-07-31T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 140160,
+    "CharacterBaseMasterId": 201,
+    "Name": "悪意に満ちた観察者",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 4,
+    "Attribute": 1,
+    "MinLevelStatus": [
       116,
       106,
       123
     ],
-    null,
-    140161,
-    140161,
-    140160,
-    false,
-    40016,
-    4,
-    411,
-    412,
-    41,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          100,
-          199,
-          232,
-          144
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ]
+    "StarActMasterId": 140161,
+    "AwakenStarActMasterId": 140161,
+    "SenseMasterId": 140160,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 40016,
+    "SenseEnhanceItemGroupMasterId": 4,
+    "FirstEpisodeReleaseItemGroupId": 411,
+    "SecondEpisodeReleaseItemGroupId": 412,
+    "CharacterAwakeningItemGroupMasterId": 41,
+    "DisplayStartAt": "2023-07-31T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  }
 ]

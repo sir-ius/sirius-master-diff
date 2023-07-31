@@ -1,1112 +1,1112 @@
 [
-  [
-    101,
-    1,
-    1,
-    7
-  ],
-  [
-    102,
-    2,
-    1,
-    13
-  ],
-  [
-    103,
-    3,
-    1,
-    20
-  ],
-  [
-    104,
-    4,
-    1,
-    25
-  ],
-  [
-    105,
-    5,
-    1,
-    105
-  ],
-  [
-    201,
-    1,
-    2,
-    7
-  ],
-  [
-    202,
-    2,
-    2,
-    16
-  ],
-  [
-    203,
-    3,
-    2,
-    21
-  ],
-  [
-    204,
-    4,
-    2,
-    26
-  ],
-  [
-    205,
-    5,
-    2,
-    105
-  ],
-  [
-    301,
-    1,
-    3,
-    6
-  ],
-  [
-    302,
-    2,
-    3,
-    14
-  ],
-  [
-    303,
-    3,
-    3,
-    19
-  ],
-  [
-    304,
-    4,
-    3,
-    25
-  ],
-  [
-    305,
-    5,
-    3,
-    104
-  ],
-  [
-    401,
-    1,
-    4,
-    6
-  ],
-  [
-    402,
-    2,
-    4,
-    13
-  ],
-  [
-    403,
-    3,
-    4,
-    20
-  ],
-  [
-    404,
-    4,
-    4,
-    24
-  ],
-  [
-    405,
-    5,
-    4,
-    103
-  ],
-  [
-    501,
-    1,
-    5,
-    5
-  ],
-  [
-    502,
-    2,
-    5,
-    12
-  ],
-  [
-    503,
-    3,
-    5,
-    17
-  ],
-  [
-    504,
-    4,
-    5,
-    23
-  ],
-  [
-    505,
-    5,
-    5,
-    101
-  ],
-  [
-    601,
-    1,
-    6,
-    6
-  ],
-  [
-    602,
-    2,
-    6,
-    14
-  ],
-  [
-    603,
-    3,
-    6,
-    20
-  ],
-  [
-    604,
-    4,
-    6,
-    25
-  ],
-  [
-    605,
-    5,
-    6,
-    103
-  ],
-  [
-    701,
-    1,
-    7,
-    10
-  ],
-  [
-    702,
-    2,
-    7,
-    17
-  ],
-  [
-    703,
-    3,
-    7,
-    23
-  ],
-  [
-    704,
-    4,
-    7,
-    28
-  ],
-  [
-    705,
-    5,
-    7,
-    108
-  ],
-  [
-    801,
-    1,
-    8,
-    6
-  ],
-  [
-    802,
-    2,
-    8,
-    13
-  ],
-  [
-    803,
-    3,
-    8,
-    20
-  ],
-  [
-    804,
-    4,
-    8,
-    24
-  ],
-  [
-    805,
-    5,
-    8,
-    102
-  ],
-  [
-    901,
-    1,
-    9,
-    8
-  ],
-  [
-    902,
-    2,
-    9,
-    14
-  ],
-  [
-    903,
-    3,
-    9,
-    22
-  ],
-  [
-    904,
-    4,
-    9,
-    25
-  ],
-  [
-    905,
-    5,
-    9,
-    103
-  ],
-  [
-    1001,
-    1,
-    10,
-    5
-  ],
-  [
-    1002,
-    2,
-    10,
-    12
-  ],
-  [
-    1003,
-    3,
-    10,
-    18
-  ],
-  [
-    1004,
-    4,
-    10,
-    23
-  ],
-  [
-    1005,
-    5,
-    10,
-    102
-  ],
-  [
-    1101,
-    1,
-    11,
-    5
-  ],
-  [
-    1102,
-    2,
-    11,
-    11
-  ],
-  [
-    1103,
-    3,
-    11,
-    17
-  ],
-  [
-    1104,
-    4,
-    11,
-    23
-  ],
-  [
-    1105,
-    5,
-    11,
-    106
-  ],
-  [
-    1201,
-    1,
-    12,
-    8
-  ],
-  [
-    1202,
-    2,
-    12,
-    15
-  ],
-  [
-    1203,
-    3,
-    12,
-    22
-  ],
-  [
-    1204,
-    4,
-    12,
-    27
-  ],
-  [
-    1205,
-    5,
-    12,
-    106
-  ],
-  [
-    1301,
-    1,
-    13,
-    6
-  ],
-  [
-    1302,
-    2,
-    13,
-    13
-  ],
-  [
-    1303,
-    3,
-    13,
-    19
-  ],
-  [
-    1304,
-    4,
-    13,
-    24
-  ],
-  [
-    1305,
-    5,
-    13,
-    103
-  ],
-  [
-    1501,
-    1,
-    15,
-    6
-  ],
-  [
-    1502,
-    2,
-    15,
-    13
-  ],
-  [
-    1503,
-    3,
-    15,
-    18
-  ],
-  [
-    1504,
-    4,
-    15,
-    24
-  ],
-  [
-    1505,
-    5,
-    15,
-    102
-  ],
-  [
-    1601,
-    1,
-    16,
-    8
-  ],
-  [
-    1602,
-    2,
-    16,
-    14
-  ],
-  [
-    1603,
-    3,
-    16,
-    22
-  ],
-  [
-    1604,
-    4,
-    16,
-    26
-  ],
-  [
-    1605,
-    5,
-    16,
-    104
-  ],
-  [
-    1701,
-    1,
-    17,
-    11
-  ],
-  [
-    1702,
-    2,
-    17,
-    18
-  ],
-  [
-    1703,
-    3,
-    17,
-    25
-  ],
-  [
-    1704,
-    4,
-    17,
-    28
-  ],
-  [
-    1705,
-    5,
-    17,
-    106
-  ],
-  [
-    1901,
-    1,
-    19,
-    11
-  ],
-  [
-    1902,
-    2,
-    19,
-    18
-  ],
-  [
-    1903,
-    3,
-    19,
-    23
-  ],
-  [
-    1904,
-    4,
-    19,
-    27
-  ],
-  [
-    1905,
-    5,
-    19,
-    107
-  ],
-  [
-    2101,
-    1,
-    21,
-    8
-  ],
-  [
-    2102,
-    2,
-    21,
-    15
-  ],
-  [
-    2103,
-    3,
-    21,
-    22
-  ],
-  [
-    2104,
-    4,
-    21,
-    27
-  ],
-  [
-    2105,
-    5,
-    21,
-    104
-  ],
-  [
-    2301,
-    1,
-    23,
-    9
-  ],
-  [
-    2302,
-    2,
-    23,
-    16
-  ],
-  [
-    2303,
-    3,
-    23,
-    23
-  ],
-  [
-    2304,
-    4,
-    23,
-    27
-  ],
-  [
-    2305,
-    5,
-    23,
-    107
-  ],
-  [
-    2501,
-    1,
-    25,
-    9
-  ],
-  [
-    2502,
-    2,
-    25,
-    16
-  ],
-  [
-    2503,
-    3,
-    25,
-    21
-  ],
-  [
-    2504,
-    4,
-    25,
-    26
-  ],
-  [
-    2505,
-    5,
-    25,
-    105
-  ],
-  [
-    2601,
-    1,
-    26,
-    11
-  ],
-  [
-    2602,
-    2,
-    26,
-    17
-  ],
-  [
-    2603,
-    3,
-    26,
-    25
-  ],
-  [
-    2604,
-    4,
-    26,
-    28
-  ],
-  [
-    2605,
-    5,
-    26,
-    105
-  ],
-  [
-    2701,
-    1,
-    27,
-    10
-  ],
-  [
-    2702,
-    2,
-    27,
-    16
-  ],
-  [
-    2703,
-    3,
-    27,
-    24
-  ],
-  [
-    2704,
-    4,
-    27,
-    28
-  ],
-  [
-    2705,
-    5,
-    27,
-    106
-  ],
-  [
-    2901,
-    1,
-    29,
-    6
-  ],
-  [
-    2902,
-    2,
-    29,
-    13
-  ],
-  [
-    2903,
-    3,
-    29,
-    19
-  ],
-  [
-    2904,
-    4,
-    29,
-    23
-  ],
-  [
-    2905,
-    5,
-    29,
-    105
-  ],
-  [
-    3001,
-    1,
-    30,
-    7
-  ],
-  [
-    3002,
-    2,
-    30,
-    14
-  ],
-  [
-    3003,
-    3,
-    30,
-    20
-  ],
-  [
-    3004,
-    4,
-    30,
-    25
-  ],
-  [
-    3005,
-    5,
-    30,
-    103
-  ],
-  [
-    3101,
-    1,
-    31,
-    9
-  ],
-  [
-    3102,
-    2,
-    31,
-    17
-  ],
-  [
-    3103,
-    3,
-    31,
-    24
-  ],
-  [
-    3104,
-    4,
-    31,
-    27
-  ],
-  [
-    3105,
-    5,
-    31,
-    107
-  ],
-  [
-    3301,
-    1,
-    33,
-    8
-  ],
-  [
-    3302,
-    2,
-    33,
-    15
-  ],
-  [
-    3303,
-    3,
-    33,
-    21
-  ],
-  [
-    3304,
-    4,
-    33,
-    26
-  ],
-  [
-    3305,
-    5,
-    33,
-    104
-  ],
-  [
-    3401,
-    1,
-    34,
-    10
-  ],
-  [
-    3402,
-    2,
-    34,
-    16
-  ],
-  [
-    3403,
-    3,
-    34,
-    23
-  ],
-  [
-    3404,
-    4,
-    34,
-    27
-  ],
-  [
-    3405,
-    5,
-    34,
-    106
-  ],
-  [
-    3701,
-    1,
-    37,
-    7
-  ],
-  [
-    3702,
-    2,
-    37,
-    16
-  ],
-  [
-    3703,
-    3,
-    37,
-    22
-  ],
-  [
-    3704,
-    4,
-    37,
-    26
-  ],
-  [
-    3705,
-    5,
-    37,
-    104
-  ],
-  [
-    3801,
-    1,
-    38,
-    5
-  ],
-  [
-    3802,
-    2,
-    38,
-    11
-  ],
-  [
-    3803,
-    3,
-    38,
-    18
-  ],
-  [
-    3804,
-    4,
-    38,
-    23
-  ],
-  [
-    3805,
-    5,
-    38,
-    101
-  ],
-  [
-    3901,
-    1,
-    39,
-    12
-  ],
-  [
-    3902,
-    2,
-    39,
-    18
-  ],
-  [
-    3903,
-    3,
-    39,
-    25
-  ],
-  [
-    3904,
-    4,
-    39,
-    29
-  ],
-  [
-    3905,
-    5,
-    39,
-    109
-  ],
-  [
-    4101,
-    1,
-    41,
-    9
-  ],
-  [
-    4102,
-    2,
-    41,
-    16
-  ],
-  [
-    4103,
-    3,
-    41,
-    21
-  ],
-  [
-    4104,
-    4,
-    41,
-    26
-  ],
-  [
-    4105,
-    5,
-    41,
-    104
-  ],
-  [
-    4201,
-    1,
-    42,
-    12
-  ],
-  [
-    4202,
-    2,
-    42,
-    18
-  ],
-  [
-    4203,
-    3,
-    42,
-    26
-  ],
-  [
-    4204,
-    4,
-    42,
-    29
-  ],
-  [
-    4205,
-    5,
-    42,
-    108
-  ],
-  [
-    4301,
-    1,
-    43,
-    7
-  ],
-  [
-    4302,
-    2,
-    43,
-    15
-  ],
-  [
-    4303,
-    3,
-    43,
-    22
-  ],
-  [
-    4304,
-    4,
-    43,
-    26
-  ],
-  [
-    4305,
-    5,
-    43,
-    105
-  ],
-  [
-    4501,
-    1,
-    45,
-    10
-  ],
-  [
-    4502,
-    2,
-    45,
-    17
-  ],
-  [
-    4503,
-    3,
-    45,
-    22
-  ],
-  [
-    4504,
-    4,
-    45,
-    26
-  ],
-  [
-    4505,
-    5,
-    45,
-    105
-  ],
-  [
-    4601,
-    1,
-    46,
-    5
-  ],
-  [
-    4602,
-    2,
-    46,
-    12
-  ],
-  [
-    4603,
-    3,
-    46,
-    19
-  ],
-  [
-    4604,
-    4,
-    46,
-    24
-  ],
-  [
-    4605,
-    5,
-    46,
-    102
-  ],
-  [
-    5501,
-    1,
-    55,
-    10
-  ],
-  [
-    5502,
-    2,
-    55,
-    15
-  ],
-  [
-    5503,
-    3,
-    55,
-    23
-  ],
-  [
-    5504,
-    4,
-    55,
-    28
-  ],
-  [
-    5505,
-    5,
-    55,
-    106
-  ],
-  [
-    999901,
-    1,
-    9999,
-    5
-  ],
-  [
-    999902,
-    2,
-    9999,
-    5
-  ],
-  [
-    999903,
-    3,
-    9999,
-    5
-  ],
-  [
-    999904,
-    4,
-    9999,
-    5
-  ],
-  [
-    999905,
-    5,
-    9999,
-    101
-  ]
+  {
+    "Id": 101,
+    "Difficulty": 1,
+    "MusicMasterId": 1,
+    "Level": 7
+  },
+  {
+    "Id": 102,
+    "Difficulty": 2,
+    "MusicMasterId": 1,
+    "Level": 13
+  },
+  {
+    "Id": 103,
+    "Difficulty": 3,
+    "MusicMasterId": 1,
+    "Level": 20
+  },
+  {
+    "Id": 104,
+    "Difficulty": 4,
+    "MusicMasterId": 1,
+    "Level": 25
+  },
+  {
+    "Id": 105,
+    "Difficulty": 5,
+    "MusicMasterId": 1,
+    "Level": 105
+  },
+  {
+    "Id": 201,
+    "Difficulty": 1,
+    "MusicMasterId": 2,
+    "Level": 7
+  },
+  {
+    "Id": 202,
+    "Difficulty": 2,
+    "MusicMasterId": 2,
+    "Level": 16
+  },
+  {
+    "Id": 203,
+    "Difficulty": 3,
+    "MusicMasterId": 2,
+    "Level": 21
+  },
+  {
+    "Id": 204,
+    "Difficulty": 4,
+    "MusicMasterId": 2,
+    "Level": 26
+  },
+  {
+    "Id": 205,
+    "Difficulty": 5,
+    "MusicMasterId": 2,
+    "Level": 105
+  },
+  {
+    "Id": 301,
+    "Difficulty": 1,
+    "MusicMasterId": 3,
+    "Level": 6
+  },
+  {
+    "Id": 302,
+    "Difficulty": 2,
+    "MusicMasterId": 3,
+    "Level": 14
+  },
+  {
+    "Id": 303,
+    "Difficulty": 3,
+    "MusicMasterId": 3,
+    "Level": 19
+  },
+  {
+    "Id": 304,
+    "Difficulty": 4,
+    "MusicMasterId": 3,
+    "Level": 25
+  },
+  {
+    "Id": 305,
+    "Difficulty": 5,
+    "MusicMasterId": 3,
+    "Level": 104
+  },
+  {
+    "Id": 401,
+    "Difficulty": 1,
+    "MusicMasterId": 4,
+    "Level": 6
+  },
+  {
+    "Id": 402,
+    "Difficulty": 2,
+    "MusicMasterId": 4,
+    "Level": 13
+  },
+  {
+    "Id": 403,
+    "Difficulty": 3,
+    "MusicMasterId": 4,
+    "Level": 20
+  },
+  {
+    "Id": 404,
+    "Difficulty": 4,
+    "MusicMasterId": 4,
+    "Level": 24
+  },
+  {
+    "Id": 405,
+    "Difficulty": 5,
+    "MusicMasterId": 4,
+    "Level": 103
+  },
+  {
+    "Id": 501,
+    "Difficulty": 1,
+    "MusicMasterId": 5,
+    "Level": 5
+  },
+  {
+    "Id": 502,
+    "Difficulty": 2,
+    "MusicMasterId": 5,
+    "Level": 12
+  },
+  {
+    "Id": 503,
+    "Difficulty": 3,
+    "MusicMasterId": 5,
+    "Level": 17
+  },
+  {
+    "Id": 504,
+    "Difficulty": 4,
+    "MusicMasterId": 5,
+    "Level": 23
+  },
+  {
+    "Id": 505,
+    "Difficulty": 5,
+    "MusicMasterId": 5,
+    "Level": 101
+  },
+  {
+    "Id": 601,
+    "Difficulty": 1,
+    "MusicMasterId": 6,
+    "Level": 6
+  },
+  {
+    "Id": 602,
+    "Difficulty": 2,
+    "MusicMasterId": 6,
+    "Level": 14
+  },
+  {
+    "Id": 603,
+    "Difficulty": 3,
+    "MusicMasterId": 6,
+    "Level": 20
+  },
+  {
+    "Id": 604,
+    "Difficulty": 4,
+    "MusicMasterId": 6,
+    "Level": 25
+  },
+  {
+    "Id": 605,
+    "Difficulty": 5,
+    "MusicMasterId": 6,
+    "Level": 103
+  },
+  {
+    "Id": 701,
+    "Difficulty": 1,
+    "MusicMasterId": 7,
+    "Level": 10
+  },
+  {
+    "Id": 702,
+    "Difficulty": 2,
+    "MusicMasterId": 7,
+    "Level": 17
+  },
+  {
+    "Id": 703,
+    "Difficulty": 3,
+    "MusicMasterId": 7,
+    "Level": 23
+  },
+  {
+    "Id": 704,
+    "Difficulty": 4,
+    "MusicMasterId": 7,
+    "Level": 28
+  },
+  {
+    "Id": 705,
+    "Difficulty": 5,
+    "MusicMasterId": 7,
+    "Level": 108
+  },
+  {
+    "Id": 801,
+    "Difficulty": 1,
+    "MusicMasterId": 8,
+    "Level": 6
+  },
+  {
+    "Id": 802,
+    "Difficulty": 2,
+    "MusicMasterId": 8,
+    "Level": 13
+  },
+  {
+    "Id": 803,
+    "Difficulty": 3,
+    "MusicMasterId": 8,
+    "Level": 20
+  },
+  {
+    "Id": 804,
+    "Difficulty": 4,
+    "MusicMasterId": 8,
+    "Level": 24
+  },
+  {
+    "Id": 805,
+    "Difficulty": 5,
+    "MusicMasterId": 8,
+    "Level": 102
+  },
+  {
+    "Id": 901,
+    "Difficulty": 1,
+    "MusicMasterId": 9,
+    "Level": 8
+  },
+  {
+    "Id": 902,
+    "Difficulty": 2,
+    "MusicMasterId": 9,
+    "Level": 14
+  },
+  {
+    "Id": 903,
+    "Difficulty": 3,
+    "MusicMasterId": 9,
+    "Level": 22
+  },
+  {
+    "Id": 904,
+    "Difficulty": 4,
+    "MusicMasterId": 9,
+    "Level": 25
+  },
+  {
+    "Id": 905,
+    "Difficulty": 5,
+    "MusicMasterId": 9,
+    "Level": 103
+  },
+  {
+    "Id": 1001,
+    "Difficulty": 1,
+    "MusicMasterId": 10,
+    "Level": 5
+  },
+  {
+    "Id": 1002,
+    "Difficulty": 2,
+    "MusicMasterId": 10,
+    "Level": 12
+  },
+  {
+    "Id": 1003,
+    "Difficulty": 3,
+    "MusicMasterId": 10,
+    "Level": 18
+  },
+  {
+    "Id": 1004,
+    "Difficulty": 4,
+    "MusicMasterId": 10,
+    "Level": 23
+  },
+  {
+    "Id": 1005,
+    "Difficulty": 5,
+    "MusicMasterId": 10,
+    "Level": 102
+  },
+  {
+    "Id": 1101,
+    "Difficulty": 1,
+    "MusicMasterId": 11,
+    "Level": 5
+  },
+  {
+    "Id": 1102,
+    "Difficulty": 2,
+    "MusicMasterId": 11,
+    "Level": 11
+  },
+  {
+    "Id": 1103,
+    "Difficulty": 3,
+    "MusicMasterId": 11,
+    "Level": 17
+  },
+  {
+    "Id": 1104,
+    "Difficulty": 4,
+    "MusicMasterId": 11,
+    "Level": 23
+  },
+  {
+    "Id": 1105,
+    "Difficulty": 5,
+    "MusicMasterId": 11,
+    "Level": 106
+  },
+  {
+    "Id": 1201,
+    "Difficulty": 1,
+    "MusicMasterId": 12,
+    "Level": 8
+  },
+  {
+    "Id": 1202,
+    "Difficulty": 2,
+    "MusicMasterId": 12,
+    "Level": 15
+  },
+  {
+    "Id": 1203,
+    "Difficulty": 3,
+    "MusicMasterId": 12,
+    "Level": 22
+  },
+  {
+    "Id": 1204,
+    "Difficulty": 4,
+    "MusicMasterId": 12,
+    "Level": 27
+  },
+  {
+    "Id": 1205,
+    "Difficulty": 5,
+    "MusicMasterId": 12,
+    "Level": 106
+  },
+  {
+    "Id": 1301,
+    "Difficulty": 1,
+    "MusicMasterId": 13,
+    "Level": 6
+  },
+  {
+    "Id": 1302,
+    "Difficulty": 2,
+    "MusicMasterId": 13,
+    "Level": 13
+  },
+  {
+    "Id": 1303,
+    "Difficulty": 3,
+    "MusicMasterId": 13,
+    "Level": 19
+  },
+  {
+    "Id": 1304,
+    "Difficulty": 4,
+    "MusicMasterId": 13,
+    "Level": 24
+  },
+  {
+    "Id": 1305,
+    "Difficulty": 5,
+    "MusicMasterId": 13,
+    "Level": 103
+  },
+  {
+    "Id": 1501,
+    "Difficulty": 1,
+    "MusicMasterId": 15,
+    "Level": 6
+  },
+  {
+    "Id": 1502,
+    "Difficulty": 2,
+    "MusicMasterId": 15,
+    "Level": 13
+  },
+  {
+    "Id": 1503,
+    "Difficulty": 3,
+    "MusicMasterId": 15,
+    "Level": 18
+  },
+  {
+    "Id": 1504,
+    "Difficulty": 4,
+    "MusicMasterId": 15,
+    "Level": 24
+  },
+  {
+    "Id": 1505,
+    "Difficulty": 5,
+    "MusicMasterId": 15,
+    "Level": 102
+  },
+  {
+    "Id": 1601,
+    "Difficulty": 1,
+    "MusicMasterId": 16,
+    "Level": 8
+  },
+  {
+    "Id": 1602,
+    "Difficulty": 2,
+    "MusicMasterId": 16,
+    "Level": 14
+  },
+  {
+    "Id": 1603,
+    "Difficulty": 3,
+    "MusicMasterId": 16,
+    "Level": 22
+  },
+  {
+    "Id": 1604,
+    "Difficulty": 4,
+    "MusicMasterId": 16,
+    "Level": 26
+  },
+  {
+    "Id": 1605,
+    "Difficulty": 5,
+    "MusicMasterId": 16,
+    "Level": 104
+  },
+  {
+    "Id": 1701,
+    "Difficulty": 1,
+    "MusicMasterId": 17,
+    "Level": 11
+  },
+  {
+    "Id": 1702,
+    "Difficulty": 2,
+    "MusicMasterId": 17,
+    "Level": 18
+  },
+  {
+    "Id": 1703,
+    "Difficulty": 3,
+    "MusicMasterId": 17,
+    "Level": 25
+  },
+  {
+    "Id": 1704,
+    "Difficulty": 4,
+    "MusicMasterId": 17,
+    "Level": 28
+  },
+  {
+    "Id": 1705,
+    "Difficulty": 5,
+    "MusicMasterId": 17,
+    "Level": 106
+  },
+  {
+    "Id": 1901,
+    "Difficulty": 1,
+    "MusicMasterId": 19,
+    "Level": 11
+  },
+  {
+    "Id": 1902,
+    "Difficulty": 2,
+    "MusicMasterId": 19,
+    "Level": 18
+  },
+  {
+    "Id": 1903,
+    "Difficulty": 3,
+    "MusicMasterId": 19,
+    "Level": 23
+  },
+  {
+    "Id": 1904,
+    "Difficulty": 4,
+    "MusicMasterId": 19,
+    "Level": 27
+  },
+  {
+    "Id": 1905,
+    "Difficulty": 5,
+    "MusicMasterId": 19,
+    "Level": 107
+  },
+  {
+    "Id": 2101,
+    "Difficulty": 1,
+    "MusicMasterId": 21,
+    "Level": 8
+  },
+  {
+    "Id": 2102,
+    "Difficulty": 2,
+    "MusicMasterId": 21,
+    "Level": 15
+  },
+  {
+    "Id": 2103,
+    "Difficulty": 3,
+    "MusicMasterId": 21,
+    "Level": 22
+  },
+  {
+    "Id": 2104,
+    "Difficulty": 4,
+    "MusicMasterId": 21,
+    "Level": 27
+  },
+  {
+    "Id": 2105,
+    "Difficulty": 5,
+    "MusicMasterId": 21,
+    "Level": 104
+  },
+  {
+    "Id": 2301,
+    "Difficulty": 1,
+    "MusicMasterId": 23,
+    "Level": 9
+  },
+  {
+    "Id": 2302,
+    "Difficulty": 2,
+    "MusicMasterId": 23,
+    "Level": 16
+  },
+  {
+    "Id": 2303,
+    "Difficulty": 3,
+    "MusicMasterId": 23,
+    "Level": 23
+  },
+  {
+    "Id": 2304,
+    "Difficulty": 4,
+    "MusicMasterId": 23,
+    "Level": 27
+  },
+  {
+    "Id": 2305,
+    "Difficulty": 5,
+    "MusicMasterId": 23,
+    "Level": 107
+  },
+  {
+    "Id": 2501,
+    "Difficulty": 1,
+    "MusicMasterId": 25,
+    "Level": 9
+  },
+  {
+    "Id": 2502,
+    "Difficulty": 2,
+    "MusicMasterId": 25,
+    "Level": 16
+  },
+  {
+    "Id": 2503,
+    "Difficulty": 3,
+    "MusicMasterId": 25,
+    "Level": 21
+  },
+  {
+    "Id": 2504,
+    "Difficulty": 4,
+    "MusicMasterId": 25,
+    "Level": 26
+  },
+  {
+    "Id": 2505,
+    "Difficulty": 5,
+    "MusicMasterId": 25,
+    "Level": 105
+  },
+  {
+    "Id": 2601,
+    "Difficulty": 1,
+    "MusicMasterId": 26,
+    "Level": 11
+  },
+  {
+    "Id": 2602,
+    "Difficulty": 2,
+    "MusicMasterId": 26,
+    "Level": 17
+  },
+  {
+    "Id": 2603,
+    "Difficulty": 3,
+    "MusicMasterId": 26,
+    "Level": 25
+  },
+  {
+    "Id": 2604,
+    "Difficulty": 4,
+    "MusicMasterId": 26,
+    "Level": 28
+  },
+  {
+    "Id": 2605,
+    "Difficulty": 5,
+    "MusicMasterId": 26,
+    "Level": 105
+  },
+  {
+    "Id": 2701,
+    "Difficulty": 1,
+    "MusicMasterId": 27,
+    "Level": 10
+  },
+  {
+    "Id": 2702,
+    "Difficulty": 2,
+    "MusicMasterId": 27,
+    "Level": 16
+  },
+  {
+    "Id": 2703,
+    "Difficulty": 3,
+    "MusicMasterId": 27,
+    "Level": 24
+  },
+  {
+    "Id": 2704,
+    "Difficulty": 4,
+    "MusicMasterId": 27,
+    "Level": 28
+  },
+  {
+    "Id": 2705,
+    "Difficulty": 5,
+    "MusicMasterId": 27,
+    "Level": 106
+  },
+  {
+    "Id": 2901,
+    "Difficulty": 1,
+    "MusicMasterId": 29,
+    "Level": 6
+  },
+  {
+    "Id": 2902,
+    "Difficulty": 2,
+    "MusicMasterId": 29,
+    "Level": 13
+  },
+  {
+    "Id": 2903,
+    "Difficulty": 3,
+    "MusicMasterId": 29,
+    "Level": 19
+  },
+  {
+    "Id": 2904,
+    "Difficulty": 4,
+    "MusicMasterId": 29,
+    "Level": 23
+  },
+  {
+    "Id": 2905,
+    "Difficulty": 5,
+    "MusicMasterId": 29,
+    "Level": 105
+  },
+  {
+    "Id": 3001,
+    "Difficulty": 1,
+    "MusicMasterId": 30,
+    "Level": 7
+  },
+  {
+    "Id": 3002,
+    "Difficulty": 2,
+    "MusicMasterId": 30,
+    "Level": 14
+  },
+  {
+    "Id": 3003,
+    "Difficulty": 3,
+    "MusicMasterId": 30,
+    "Level": 20
+  },
+  {
+    "Id": 3004,
+    "Difficulty": 4,
+    "MusicMasterId": 30,
+    "Level": 25
+  },
+  {
+    "Id": 3005,
+    "Difficulty": 5,
+    "MusicMasterId": 30,
+    "Level": 103
+  },
+  {
+    "Id": 3101,
+    "Difficulty": 1,
+    "MusicMasterId": 31,
+    "Level": 9
+  },
+  {
+    "Id": 3102,
+    "Difficulty": 2,
+    "MusicMasterId": 31,
+    "Level": 17
+  },
+  {
+    "Id": 3103,
+    "Difficulty": 3,
+    "MusicMasterId": 31,
+    "Level": 24
+  },
+  {
+    "Id": 3104,
+    "Difficulty": 4,
+    "MusicMasterId": 31,
+    "Level": 27
+  },
+  {
+    "Id": 3105,
+    "Difficulty": 5,
+    "MusicMasterId": 31,
+    "Level": 107
+  },
+  {
+    "Id": 3301,
+    "Difficulty": 1,
+    "MusicMasterId": 33,
+    "Level": 8
+  },
+  {
+    "Id": 3302,
+    "Difficulty": 2,
+    "MusicMasterId": 33,
+    "Level": 15
+  },
+  {
+    "Id": 3303,
+    "Difficulty": 3,
+    "MusicMasterId": 33,
+    "Level": 21
+  },
+  {
+    "Id": 3304,
+    "Difficulty": 4,
+    "MusicMasterId": 33,
+    "Level": 26
+  },
+  {
+    "Id": 3305,
+    "Difficulty": 5,
+    "MusicMasterId": 33,
+    "Level": 104
+  },
+  {
+    "Id": 3401,
+    "Difficulty": 1,
+    "MusicMasterId": 34,
+    "Level": 10
+  },
+  {
+    "Id": 3402,
+    "Difficulty": 2,
+    "MusicMasterId": 34,
+    "Level": 16
+  },
+  {
+    "Id": 3403,
+    "Difficulty": 3,
+    "MusicMasterId": 34,
+    "Level": 23
+  },
+  {
+    "Id": 3404,
+    "Difficulty": 4,
+    "MusicMasterId": 34,
+    "Level": 27
+  },
+  {
+    "Id": 3405,
+    "Difficulty": 5,
+    "MusicMasterId": 34,
+    "Level": 106
+  },
+  {
+    "Id": 3701,
+    "Difficulty": 1,
+    "MusicMasterId": 37,
+    "Level": 7
+  },
+  {
+    "Id": 3702,
+    "Difficulty": 2,
+    "MusicMasterId": 37,
+    "Level": 16
+  },
+  {
+    "Id": 3703,
+    "Difficulty": 3,
+    "MusicMasterId": 37,
+    "Level": 22
+  },
+  {
+    "Id": 3704,
+    "Difficulty": 4,
+    "MusicMasterId": 37,
+    "Level": 26
+  },
+  {
+    "Id": 3705,
+    "Difficulty": 5,
+    "MusicMasterId": 37,
+    "Level": 104
+  },
+  {
+    "Id": 3801,
+    "Difficulty": 1,
+    "MusicMasterId": 38,
+    "Level": 5
+  },
+  {
+    "Id": 3802,
+    "Difficulty": 2,
+    "MusicMasterId": 38,
+    "Level": 11
+  },
+  {
+    "Id": 3803,
+    "Difficulty": 3,
+    "MusicMasterId": 38,
+    "Level": 18
+  },
+  {
+    "Id": 3804,
+    "Difficulty": 4,
+    "MusicMasterId": 38,
+    "Level": 23
+  },
+  {
+    "Id": 3805,
+    "Difficulty": 5,
+    "MusicMasterId": 38,
+    "Level": 101
+  },
+  {
+    "Id": 3901,
+    "Difficulty": 1,
+    "MusicMasterId": 39,
+    "Level": 12
+  },
+  {
+    "Id": 3902,
+    "Difficulty": 2,
+    "MusicMasterId": 39,
+    "Level": 18
+  },
+  {
+    "Id": 3903,
+    "Difficulty": 3,
+    "MusicMasterId": 39,
+    "Level": 25
+  },
+  {
+    "Id": 3904,
+    "Difficulty": 4,
+    "MusicMasterId": 39,
+    "Level": 29
+  },
+  {
+    "Id": 3905,
+    "Difficulty": 5,
+    "MusicMasterId": 39,
+    "Level": 109
+  },
+  {
+    "Id": 4101,
+    "Difficulty": 1,
+    "MusicMasterId": 41,
+    "Level": 9
+  },
+  {
+    "Id": 4102,
+    "Difficulty": 2,
+    "MusicMasterId": 41,
+    "Level": 16
+  },
+  {
+    "Id": 4103,
+    "Difficulty": 3,
+    "MusicMasterId": 41,
+    "Level": 21
+  },
+  {
+    "Id": 4104,
+    "Difficulty": 4,
+    "MusicMasterId": 41,
+    "Level": 26
+  },
+  {
+    "Id": 4105,
+    "Difficulty": 5,
+    "MusicMasterId": 41,
+    "Level": 104
+  },
+  {
+    "Id": 4201,
+    "Difficulty": 1,
+    "MusicMasterId": 42,
+    "Level": 12
+  },
+  {
+    "Id": 4202,
+    "Difficulty": 2,
+    "MusicMasterId": 42,
+    "Level": 18
+  },
+  {
+    "Id": 4203,
+    "Difficulty": 3,
+    "MusicMasterId": 42,
+    "Level": 26
+  },
+  {
+    "Id": 4204,
+    "Difficulty": 4,
+    "MusicMasterId": 42,
+    "Level": 29
+  },
+  {
+    "Id": 4205,
+    "Difficulty": 5,
+    "MusicMasterId": 42,
+    "Level": 108
+  },
+  {
+    "Id": 4301,
+    "Difficulty": 1,
+    "MusicMasterId": 43,
+    "Level": 7
+  },
+  {
+    "Id": 4302,
+    "Difficulty": 2,
+    "MusicMasterId": 43,
+    "Level": 15
+  },
+  {
+    "Id": 4303,
+    "Difficulty": 3,
+    "MusicMasterId": 43,
+    "Level": 22
+  },
+  {
+    "Id": 4304,
+    "Difficulty": 4,
+    "MusicMasterId": 43,
+    "Level": 26
+  },
+  {
+    "Id": 4305,
+    "Difficulty": 5,
+    "MusicMasterId": 43,
+    "Level": 105
+  },
+  {
+    "Id": 4501,
+    "Difficulty": 1,
+    "MusicMasterId": 45,
+    "Level": 10
+  },
+  {
+    "Id": 4502,
+    "Difficulty": 2,
+    "MusicMasterId": 45,
+    "Level": 17
+  },
+  {
+    "Id": 4503,
+    "Difficulty": 3,
+    "MusicMasterId": 45,
+    "Level": 22
+  },
+  {
+    "Id": 4504,
+    "Difficulty": 4,
+    "MusicMasterId": 45,
+    "Level": 27
+  },
+  {
+    "Id": 4505,
+    "Difficulty": 5,
+    "MusicMasterId": 45,
+    "Level": 105
+  },
+  {
+    "Id": 4601,
+    "Difficulty": 1,
+    "MusicMasterId": 46,
+    "Level": 5
+  },
+  {
+    "Id": 4602,
+    "Difficulty": 2,
+    "MusicMasterId": 46,
+    "Level": 12
+  },
+  {
+    "Id": 4603,
+    "Difficulty": 3,
+    "MusicMasterId": 46,
+    "Level": 19
+  },
+  {
+    "Id": 4604,
+    "Difficulty": 4,
+    "MusicMasterId": 46,
+    "Level": 24
+  },
+  {
+    "Id": 4605,
+    "Difficulty": 5,
+    "MusicMasterId": 46,
+    "Level": 102
+  },
+  {
+    "Id": 5501,
+    "Difficulty": 1,
+    "MusicMasterId": 55,
+    "Level": 10
+  },
+  {
+    "Id": 5502,
+    "Difficulty": 2,
+    "MusicMasterId": 55,
+    "Level": 15
+  },
+  {
+    "Id": 5503,
+    "Difficulty": 3,
+    "MusicMasterId": 55,
+    "Level": 23
+  },
+  {
+    "Id": 5504,
+    "Difficulty": 4,
+    "MusicMasterId": 55,
+    "Level": 28
+  },
+  {
+    "Id": 5505,
+    "Difficulty": 5,
+    "MusicMasterId": 55,
+    "Level": 106
+  },
+  {
+    "Id": 999901,
+    "Difficulty": 1,
+    "MusicMasterId": 9999,
+    "Level": 5
+  },
+  {
+    "Id": 999902,
+    "Difficulty": 2,
+    "MusicMasterId": 9999,
+    "Level": 5
+  },
+  {
+    "Id": 999903,
+    "Difficulty": 3,
+    "MusicMasterId": 9999,
+    "Level": 5
+  },
+  {
+    "Id": 999904,
+    "Difficulty": 4,
+    "MusicMasterId": 9999,
+    "Level": 5
+  },
+  {
+    "Id": 999905,
+    "Difficulty": 5,
+    "MusicMasterId": 9999,
+    "Level": 101
+  }
 ]

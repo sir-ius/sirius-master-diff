@@ -1,786 +1,786 @@
 [
-  [
-    101,
-    [
+  {
+    "Id": 101,
+    "Rewards": [
       [
         130011,
         1,
         300
       ]
     ],
-    1,
-    1,
-    1,
-    null
-  ],
-  [
-    102,
-    [
+    "ClassType": 1,
+    "MinRank": 1,
+    "MaxRank": 1,
+    "RewardTitle": null
+  },
+  {
+    "Id": 102,
+    "Rewards": [
       [
         130011,
         1,
         250
       ]
     ],
-    1,
-    2,
-    2,
-    null
-  ],
-  [
-    103,
-    [
+    "ClassType": 1,
+    "MinRank": 2,
+    "MaxRank": 2,
+    "RewardTitle": null
+  },
+  {
+    "Id": 103,
+    "Rewards": [
       [
         130011,
         1,
         200
       ]
     ],
-    1,
-    3,
-    3,
-    null
-  ],
-  [
-    104,
-    [
+    "ClassType": 1,
+    "MinRank": 3,
+    "MaxRank": 3,
+    "RewardTitle": null
+  },
+  {
+    "Id": 104,
+    "Rewards": [
       [
         130011,
         1,
         160
       ]
     ],
-    1,
-    5,
-    4,
-    null
-  ],
-  [
-    105,
-    [
+    "ClassType": 1,
+    "MinRank": 5,
+    "MaxRank": 4,
+    "RewardTitle": null
+  },
+  {
+    "Id": 105,
+    "Rewards": [
       [
         130011,
         1,
         120
       ]
     ],
-    1,
-    10,
-    6,
-    null
-  ],
-  [
-    106,
-    [
+    "ClassType": 1,
+    "MinRank": 10,
+    "MaxRank": 6,
+    "RewardTitle": null
+  },
+  {
+    "Id": 106,
+    "Rewards": [
       [
         130011,
         1,
         80
       ]
     ],
-    1,
-    30,
-    11,
-    null
-  ],
-  [
-    107,
-    [
+    "ClassType": 1,
+    "MinRank": 30,
+    "MaxRank": 11,
+    "RewardTitle": null
+  },
+  {
+    "Id": 107,
+    "Rewards": [
       [
         130011,
         1,
         50
       ]
     ],
-    1,
-    50,
-    31,
-    null
-  ],
-  [
-    108,
-    [
+    "ClassType": 1,
+    "MinRank": 50,
+    "MaxRank": 31,
+    "RewardTitle": null
+  },
+  {
+    "Id": 108,
+    "Rewards": [
       [
         130011,
         1,
         30
       ]
     ],
-    1,
-    999,
-    51,
-    null
-  ],
-  [
-    201,
-    [
+    "ClassType": 1,
+    "MinRank": 999,
+    "MaxRank": 51,
+    "RewardTitle": null
+  },
+  {
+    "Id": 201,
+    "Rewards": [
       [
         130011,
         1,
         350
       ]
     ],
-    2,
-    1,
-    1,
-    null
-  ],
-  [
-    202,
-    [
+    "ClassType": 2,
+    "MinRank": 1,
+    "MaxRank": 1,
+    "RewardTitle": null
+  },
+  {
+    "Id": 202,
+    "Rewards": [
       [
         130011,
         1,
         300
       ]
     ],
-    2,
-    2,
-    2,
-    null
-  ],
-  [
-    203,
-    [
+    "ClassType": 2,
+    "MinRank": 2,
+    "MaxRank": 2,
+    "RewardTitle": null
+  },
+  {
+    "Id": 203,
+    "Rewards": [
       [
         130011,
         1,
         250
       ]
     ],
-    2,
-    3,
-    3,
-    null
-  ],
-  [
-    204,
-    [
+    "ClassType": 2,
+    "MinRank": 3,
+    "MaxRank": 3,
+    "RewardTitle": null
+  },
+  {
+    "Id": 204,
+    "Rewards": [
       [
         130011,
         1,
         200
       ]
     ],
-    2,
-    5,
-    4,
-    null
-  ],
-  [
-    205,
-    [
+    "ClassType": 2,
+    "MinRank": 5,
+    "MaxRank": 4,
+    "RewardTitle": null
+  },
+  {
+    "Id": 205,
+    "Rewards": [
       [
         130011,
         1,
         160
       ]
     ],
-    2,
-    10,
-    6,
-    null
-  ],
-  [
-    206,
-    [
+    "ClassType": 2,
+    "MinRank": 10,
+    "MaxRank": 6,
+    "RewardTitle": null
+  },
+  {
+    "Id": 206,
+    "Rewards": [
       [
         130011,
         1,
         120
       ]
     ],
-    2,
-    30,
-    11,
-    null
-  ],
-  [
-    207,
-    [
+    "ClassType": 2,
+    "MinRank": 30,
+    "MaxRank": 11,
+    "RewardTitle": null
+  },
+  {
+    "Id": 207,
+    "Rewards": [
       [
         130011,
         1,
         80
       ]
     ],
-    2,
-    50,
-    31,
-    null
-  ],
-  [
-    208,
-    [
+    "ClassType": 2,
+    "MinRank": 50,
+    "MaxRank": 31,
+    "RewardTitle": null
+  },
+  {
+    "Id": 208,
+    "Rewards": [
       [
         130011,
         1,
         50
       ]
     ],
-    2,
-    999,
-    51,
-    null
-  ],
-  [
-    301,
-    [
+    "ClassType": 2,
+    "MinRank": 999,
+    "MaxRank": 51,
+    "RewardTitle": null
+  },
+  {
+    "Id": 301,
+    "Rewards": [
       [
         130011,
         1,
         400
       ]
     ],
-    3,
-    1,
-    1,
-    null
-  ],
-  [
-    302,
-    [
+    "ClassType": 3,
+    "MinRank": 1,
+    "MaxRank": 1,
+    "RewardTitle": null
+  },
+  {
+    "Id": 302,
+    "Rewards": [
       [
         130011,
         1,
         350
       ]
     ],
-    3,
-    2,
-    2,
-    null
-  ],
-  [
-    303,
-    [
+    "ClassType": 3,
+    "MinRank": 2,
+    "MaxRank": 2,
+    "RewardTitle": null
+  },
+  {
+    "Id": 303,
+    "Rewards": [
       [
         130011,
         1,
         300
       ]
     ],
-    3,
-    3,
-    3,
-    null
-  ],
-  [
-    304,
-    [
+    "ClassType": 3,
+    "MinRank": 3,
+    "MaxRank": 3,
+    "RewardTitle": null
+  },
+  {
+    "Id": 304,
+    "Rewards": [
       [
         130011,
         1,
         250
       ]
     ],
-    3,
-    5,
-    4,
-    null
-  ],
-  [
-    305,
-    [
+    "ClassType": 3,
+    "MinRank": 5,
+    "MaxRank": 4,
+    "RewardTitle": null
+  },
+  {
+    "Id": 305,
+    "Rewards": [
       [
         130011,
         1,
         200
       ]
     ],
-    3,
-    10,
-    6,
-    null
-  ],
-  [
-    306,
-    [
+    "ClassType": 3,
+    "MinRank": 10,
+    "MaxRank": 6,
+    "RewardTitle": null
+  },
+  {
+    "Id": 306,
+    "Rewards": [
       [
         130011,
         1,
         160
       ]
     ],
-    3,
-    30,
-    11,
-    null
-  ],
-  [
-    307,
-    [
+    "ClassType": 3,
+    "MinRank": 30,
+    "MaxRank": 11,
+    "RewardTitle": null
+  },
+  {
+    "Id": 307,
+    "Rewards": [
       [
         130011,
         1,
         120
       ]
     ],
-    3,
-    50,
-    31,
-    null
-  ],
-  [
-    308,
-    [
+    "ClassType": 3,
+    "MinRank": 50,
+    "MaxRank": 31,
+    "RewardTitle": null
+  },
+  {
+    "Id": 308,
+    "Rewards": [
       [
         130011,
         1,
         80
       ]
     ],
-    3,
-    999,
-    51,
-    null
-  ],
-  [
-    401,
-    [
+    "ClassType": 3,
+    "MinRank": 999,
+    "MaxRank": 51,
+    "RewardTitle": null
+  },
+  {
+    "Id": 401,
+    "Rewards": [
       [
         130011,
         1,
         450
       ]
     ],
-    4,
-    1,
-    1,
-    null
-  ],
-  [
-    402,
-    [
+    "ClassType": 4,
+    "MinRank": 1,
+    "MaxRank": 1,
+    "RewardTitle": null
+  },
+  {
+    "Id": 402,
+    "Rewards": [
       [
         130011,
         1,
         400
       ]
     ],
-    4,
-    2,
-    2,
-    null
-  ],
-  [
-    403,
-    [
+    "ClassType": 4,
+    "MinRank": 2,
+    "MaxRank": 2,
+    "RewardTitle": null
+  },
+  {
+    "Id": 403,
+    "Rewards": [
       [
         130011,
         1,
         350
       ]
     ],
-    4,
-    3,
-    3,
-    null
-  ],
-  [
-    404,
-    [
+    "ClassType": 4,
+    "MinRank": 3,
+    "MaxRank": 3,
+    "RewardTitle": null
+  },
+  {
+    "Id": 404,
+    "Rewards": [
       [
         130011,
         1,
         300
       ]
     ],
-    4,
-    5,
-    4,
-    null
-  ],
-  [
-    405,
-    [
+    "ClassType": 4,
+    "MinRank": 5,
+    "MaxRank": 4,
+    "RewardTitle": null
+  },
+  {
+    "Id": 405,
+    "Rewards": [
       [
         130011,
         1,
         250
       ]
     ],
-    4,
-    10,
-    6,
-    null
-  ],
-  [
-    406,
-    [
+    "ClassType": 4,
+    "MinRank": 10,
+    "MaxRank": 6,
+    "RewardTitle": null
+  },
+  {
+    "Id": 406,
+    "Rewards": [
       [
         130011,
         1,
         200
       ]
     ],
-    4,
-    30,
-    11,
-    null
-  ],
-  [
-    407,
-    [
+    "ClassType": 4,
+    "MinRank": 30,
+    "MaxRank": 11,
+    "RewardTitle": null
+  },
+  {
+    "Id": 407,
+    "Rewards": [
       [
         130011,
         1,
         160
       ]
     ],
-    4,
-    50,
-    31,
-    null
-  ],
-  [
-    408,
-    [
+    "ClassType": 4,
+    "MinRank": 50,
+    "MaxRank": 31,
+    "RewardTitle": null
+  },
+  {
+    "Id": 408,
+    "Rewards": [
       [
         130011,
         1,
         120
       ]
     ],
-    4,
-    999,
-    51,
-    null
-  ],
-  [
-    501,
-    [
+    "ClassType": 4,
+    "MinRank": 999,
+    "MaxRank": 51,
+    "RewardTitle": null
+  },
+  {
+    "Id": 501,
+    "Rewards": [
       [
         130011,
         1,
         500
       ]
     ],
-    5,
-    1,
-    1,
-    null
-  ],
-  [
-    502,
-    [
+    "ClassType": 5,
+    "MinRank": 1,
+    "MaxRank": 1,
+    "RewardTitle": null
+  },
+  {
+    "Id": 502,
+    "Rewards": [
       [
         130011,
         1,
         450
       ]
     ],
-    5,
-    2,
-    2,
-    null
-  ],
-  [
-    503,
-    [
+    "ClassType": 5,
+    "MinRank": 2,
+    "MaxRank": 2,
+    "RewardTitle": null
+  },
+  {
+    "Id": 503,
+    "Rewards": [
       [
         130011,
         1,
         400
       ]
     ],
-    5,
-    3,
-    3,
-    null
-  ],
-  [
-    504,
-    [
+    "ClassType": 5,
+    "MinRank": 3,
+    "MaxRank": 3,
+    "RewardTitle": null
+  },
+  {
+    "Id": 504,
+    "Rewards": [
       [
         130011,
         1,
         350
       ]
     ],
-    5,
-    5,
-    4,
-    null
-  ],
-  [
-    505,
-    [
+    "ClassType": 5,
+    "MinRank": 5,
+    "MaxRank": 4,
+    "RewardTitle": null
+  },
+  {
+    "Id": 505,
+    "Rewards": [
       [
         130011,
         1,
         300
       ]
     ],
-    5,
-    10,
-    6,
-    null
-  ],
-  [
-    506,
-    [
+    "ClassType": 5,
+    "MinRank": 10,
+    "MaxRank": 6,
+    "RewardTitle": null
+  },
+  {
+    "Id": 506,
+    "Rewards": [
       [
         130011,
         1,
         250
       ]
     ],
-    5,
-    30,
-    11,
-    null
-  ],
-  [
-    507,
-    [
+    "ClassType": 5,
+    "MinRank": 30,
+    "MaxRank": 11,
+    "RewardTitle": null
+  },
+  {
+    "Id": 507,
+    "Rewards": [
       [
         130011,
         1,
         200
       ]
     ],
-    5,
-    50,
-    31,
-    null
-  ],
-  [
-    508,
-    [
+    "ClassType": 5,
+    "MinRank": 50,
+    "MaxRank": 31,
+    "RewardTitle": null
+  },
+  {
+    "Id": 508,
+    "Rewards": [
       [
         130011,
         1,
         160
       ]
     ],
-    5,
-    999,
-    51,
-    null
-  ],
-  [
-    601,
-    [
+    "ClassType": 5,
+    "MinRank": 999,
+    "MaxRank": 51,
+    "RewardTitle": null
+  },
+  {
+    "Id": 601,
+    "Rewards": [
       [
         130011,
         1,
         700
       ]
     ],
-    6,
-    1,
-    1,
-    null
-  ],
-  [
-    602,
-    [
+    "ClassType": 6,
+    "MinRank": 1,
+    "MaxRank": 1,
+    "RewardTitle": null
+  },
+  {
+    "Id": 602,
+    "Rewards": [
       [
         130011,
         1,
         600
       ]
     ],
-    6,
-    2,
-    2,
-    null
-  ],
-  [
-    603,
-    [
+    "ClassType": 6,
+    "MinRank": 2,
+    "MaxRank": 2,
+    "RewardTitle": null
+  },
+  {
+    "Id": 603,
+    "Rewards": [
       [
         130011,
         1,
         550
       ]
     ],
-    6,
-    3,
-    3,
-    null
-  ],
-  [
-    604,
-    [
+    "ClassType": 6,
+    "MinRank": 3,
+    "MaxRank": 3,
+    "RewardTitle": null
+  },
+  {
+    "Id": 604,
+    "Rewards": [
       [
         130011,
         1,
         500
       ]
     ],
-    6,
-    5,
-    4,
-    null
-  ],
-  [
-    605,
-    [
+    "ClassType": 6,
+    "MinRank": 5,
+    "MaxRank": 4,
+    "RewardTitle": null
+  },
+  {
+    "Id": 605,
+    "Rewards": [
       [
         130011,
         1,
         400
       ]
     ],
-    6,
-    10,
-    6,
-    null
-  ],
-  [
-    606,
-    [
+    "ClassType": 6,
+    "MinRank": 10,
+    "MaxRank": 6,
+    "RewardTitle": null
+  },
+  {
+    "Id": 606,
+    "Rewards": [
       [
         130011,
         1,
         350
       ]
     ],
-    6,
-    30,
-    11,
-    null
-  ],
-  [
-    607,
-    [
+    "ClassType": 6,
+    "MinRank": 30,
+    "MaxRank": 11,
+    "RewardTitle": null
+  },
+  {
+    "Id": 607,
+    "Rewards": [
       [
         130011,
         1,
         300
       ]
     ],
-    6,
-    50,
-    31,
-    null
-  ],
-  [
-    608,
-    [
+    "ClassType": 6,
+    "MinRank": 50,
+    "MaxRank": 31,
+    "RewardTitle": null
+  },
+  {
+    "Id": 608,
+    "Rewards": [
       [
         130011,
         1,
         250
       ]
     ],
-    6,
-    999,
-    51,
-    null
-  ],
-  [
-    701,
-    [
+    "ClassType": 6,
+    "MinRank": 999,
+    "MaxRank": 51,
+    "RewardTitle": null
+  },
+  {
+    "Id": 701,
+    "Rewards": [
       [
         130011,
         1,
         1000
       ]
     ],
-    7,
-    1,
-    1,
-    null
-  ],
-  [
-    702,
-    [
+    "ClassType": 7,
+    "MinRank": 1,
+    "MaxRank": 1,
+    "RewardTitle": null
+  },
+  {
+    "Id": 702,
+    "Rewards": [
       [
         130011,
         1,
         900
       ]
     ],
-    7,
-    2,
-    2,
-    null
-  ],
-  [
-    703,
-    [
+    "ClassType": 7,
+    "MinRank": 2,
+    "MaxRank": 2,
+    "RewardTitle": null
+  },
+  {
+    "Id": 703,
+    "Rewards": [
       [
         130011,
         1,
         800
       ]
     ],
-    7,
-    3,
-    3,
-    null
-  ],
-  [
-    704,
-    [
+    "ClassType": 7,
+    "MinRank": 3,
+    "MaxRank": 3,
+    "RewardTitle": null
+  },
+  {
+    "Id": 704,
+    "Rewards": [
       [
         130011,
         1,
         700
       ]
     ],
-    7,
-    5,
-    4,
-    null
-  ],
-  [
-    705,
-    [
+    "ClassType": 7,
+    "MinRank": 5,
+    "MaxRank": 4,
+    "RewardTitle": null
+  },
+  {
+    "Id": 705,
+    "Rewards": [
       [
         130011,
         1,
         600
       ]
     ],
-    7,
-    10,
-    6,
-    null
-  ],
-  [
-    706,
-    [
+    "ClassType": 7,
+    "MinRank": 10,
+    "MaxRank": 6,
+    "RewardTitle": null
+  },
+  {
+    "Id": 706,
+    "Rewards": [
       [
         130011,
         1,
         550
       ]
     ],
-    7,
-    30,
-    11,
-    null
-  ],
-  [
-    707,
-    [
+    "ClassType": 7,
+    "MinRank": 30,
+    "MaxRank": 11,
+    "RewardTitle": null
+  },
+  {
+    "Id": 707,
+    "Rewards": [
       [
         130011,
         1,
         500
       ]
     ],
-    7,
-    50,
-    31,
-    null
-  ],
-  [
-    708,
-    [
+    "ClassType": 7,
+    "MinRank": 50,
+    "MaxRank": 31,
+    "RewardTitle": null
+  },
+  {
+    "Id": 708,
+    "Rewards": [
       [
         130011,
         1,
         400
       ]
     ],
-    7,
-    999,
-    51,
-    null
-  ]
+    "ClassType": 7,
+    "MinRank": 999,
+    "MaxRank": 51,
+    "RewardTitle": null
+  }
 ]

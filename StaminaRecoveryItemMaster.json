@@ -1,17 +1,17 @@
 [
-  [
-    110001,
-    30,
-    null
-  ],
-  [
-    110002,
-    100,
-    null
-  ],
-  [
-    110003,
-    200,
-    null
-  ]
+  {
+    "ItemMasterId": 110001,
+    "RecoveryAmount": 30,
+    "ExpiredAt": null
+  },
+  {
+    "ItemMasterId": 110002,
+    "RecoveryAmount": 100,
+    "ExpiredAt": null
+  },
+  {
+    "ItemMasterId": 110003,
+    "RecoveryAmount": 200,
+    "ExpiredAt": null
+  }
 ]

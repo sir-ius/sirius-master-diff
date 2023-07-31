@@ -1,296 +1,296 @@
 [
-  [
-    1,
-    101,
-    7,
-    2,
-    1010123
-  ],
-  [
-    2,
-    102,
-    7,
-    1,
-    100
-  ],
-  [
-    3,
-    103,
-    7,
-    1,
-    100
-  ],
-  [
-    4,
-    104,
-    7,
-    2,
-    1010123
-  ],
-  [
-    5,
-    105,
-    7,
-    1,
-    100
-  ],
-  [
-    6,
-    106,
-    7,
-    1,
-    100
-  ],
-  [
-    7,
-    201,
-    7,
-    1,
-    100
-  ],
-  [
-    8,
-    202,
-    7,
-    1,
-    100
-  ],
-  [
-    9,
-    203,
-    7,
-    1,
-    100
-  ],
-  [
-    10,
-    204,
-    7,
-    1,
-    100
-  ],
-  [
-    11,
-    205,
-    7,
-    1,
-    100
-  ],
-  [
-    12,
-    301,
-    7,
-    1,
-    100
-  ],
-  [
-    13,
-    302,
-    7,
-    1,
-    100
-  ],
-  [
-    14,
-    303,
-    7,
-    1,
-    100
-  ],
-  [
-    15,
-    304,
-    7,
-    1,
-    100
-  ],
-  [
-    16,
-    305,
-    7,
-    1,
-    100
-  ],
-  [
-    17,
-    401,
-    7,
-    1,
-    100
-  ],
-  [
-    18,
-    402,
-    7,
-    1,
-    100
-  ],
-  [
-    19,
-    403,
-    7,
-    1,
-    100
-  ],
-  [
-    20,
-    404,
-    7,
-    1,
-    100
-  ],
-  [
-    21,
-    405,
-    7,
-    1,
-    100
-  ],
-  [
-    22,
-    101,
-    8,
-    2,
-    1010123
-  ],
-  [
-    23,
-    102,
-    8,
-    1,
-    100
-  ],
-  [
-    24,
-    103,
-    8,
-    1,
-    100
-  ],
-  [
-    25,
-    104,
-    8,
-    2,
-    1010123
-  ],
-  [
-    26,
-    105,
-    8,
-    1,
-    100
-  ],
-  [
-    27,
-    106,
-    8,
-    1,
-    100
-  ],
-  [
-    28,
-    201,
-    8,
-    1,
-    100
-  ],
-  [
-    29,
-    202,
-    8,
-    1,
-    100
-  ],
-  [
-    30,
-    203,
-    8,
-    1,
-    100
-  ],
-  [
-    31,
-    204,
-    8,
-    1,
-    100
-  ],
-  [
-    32,
-    205,
-    8,
-    1,
-    100
-  ],
-  [
-    33,
-    301,
-    8,
-    1,
-    100
-  ],
-  [
-    34,
-    302,
-    8,
-    1,
-    100
-  ],
-  [
-    35,
-    303,
-    8,
-    1,
-    100
-  ],
-  [
-    36,
-    304,
-    8,
-    1,
-    100
-  ],
-  [
-    37,
-    305,
-    8,
-    1,
-    100
-  ],
-  [
-    38,
-    401,
-    8,
-    1,
-    100
-  ],
-  [
-    39,
-    402,
-    8,
-    1,
-    100
-  ],
-  [
-    40,
-    403,
-    8,
-    1,
-    100
-  ],
-  [
-    41,
-    404,
-    8,
-    1,
-    100
-  ],
-  [
-    42,
-    405,
-    8,
-    1,
-    100
-  ]
+  {
+    "Id": 1,
+    "CharacterBaseMasterId": 101,
+    "ProfileRestrictionItem": 7,
+    "UnlockConditionMasterId": 2,
+    "ProfileUnlockValue": 1010123
+  },
+  {
+    "Id": 2,
+    "CharacterBaseMasterId": 102,
+    "ProfileRestrictionItem": 7,
+    "UnlockConditionMasterId": 1,
+    "ProfileUnlockValue": 100
+  },
+  {
+    "Id": 3,
+    "CharacterBaseMasterId": 103,
+    "ProfileRestrictionItem": 7,
+    "UnlockConditionMasterId": 1,
+    "ProfileUnlockValue": 100
+  },
+  {
+    "Id": 4,
+    "CharacterBaseMasterId": 104,
+    "ProfileRestrictionItem": 7,
+    "UnlockConditionMasterId": 2,
+    "ProfileUnlockValue": 1010123
+  },
+  {
+    "Id": 5,
+    "CharacterBaseMasterId": 105,
+    "ProfileRestrictionItem": 7,
+    "UnlockConditionMasterId": 1,
+    "ProfileUnlockValue": 100
+  },
+  {
+    "Id": 6,
+    "CharacterBaseMasterId": 106,
+    "ProfileRestrictionItem": 7,
+    "UnlockConditionMasterId": 1,
+    "ProfileUnlockValue": 100
+  },
+  {
+    "Id": 7,
+    "CharacterBaseMasterId": 201,
+    "ProfileRestrictionItem": 7,
+    "UnlockConditionMasterId": 1,
+    "ProfileUnlockValue": 100
+  },
+  {
+    "Id": 8,
+    "CharacterBaseMasterId": 202,
+    "ProfileRestrictionItem": 7,
+    "UnlockConditionMasterId": 1,
+    "ProfileUnlockValue": 100
+  },
+  {
+    "Id": 9,
+    "CharacterBaseMasterId": 203,
+    "ProfileRestrictionItem": 7,
+    "UnlockConditionMasterId": 1,
+    "ProfileUnlockValue": 100
+  },
+  {
+    "Id": 10,
+    "CharacterBaseMasterId": 204,
+    "ProfileRestrictionItem": 7,
+    "UnlockConditionMasterId": 1,
+    "ProfileUnlockValue": 100
+  },
+  {
+    "Id": 11,
+    "CharacterBaseMasterId": 205,
+    "ProfileRestrictionItem": 7,
+    "UnlockConditionMasterId": 1,
+    "ProfileUnlockValue": 100
+  },
+  {
+    "Id": 12,
+    "CharacterBaseMasterId": 301,
+    "ProfileRestrictionItem": 7,
+    "UnlockConditionMasterId": 1,
+    "ProfileUnlockValue": 100
+  },
+  {
+    "Id": 13,
+    "CharacterBaseMasterId": 302,
+    "ProfileRestrictionItem": 7,
+    "UnlockConditionMasterId": 1,
+    "ProfileUnlockValue": 100
+  },
+  {
+    "Id": 14,
+    "CharacterBaseMasterId": 303,
+    "ProfileRestrictionItem": 7,
+    "UnlockConditionMasterId": 1,
+    "ProfileUnlockValue": 100
+  },
+  {
+    "Id": 15,
+    "CharacterBaseMasterId": 304,
+    "ProfileRestrictionItem": 7,
+    "UnlockConditionMasterId": 1,
+    "ProfileUnlockValue": 100
+  },
+  {
+    "Id": 16,
+    "CharacterBaseMasterId": 305,
+    "ProfileRestrictionItem": 7,
+    "UnlockConditionMasterId": 1,
+    "ProfileUnlockValue": 100
+  },
+  {
+    "Id": 17,
+    "CharacterBaseMasterId": 401,
+    "ProfileRestrictionItem": 7,
+    "UnlockConditionMasterId": 1,
+    "ProfileUnlockValue": 100
+  },
+  {
+    "Id": 18,
+    "CharacterBaseMasterId": 402,
+    "ProfileRestrictionItem": 7,
+    "UnlockConditionMasterId": 1,
+    "ProfileUnlockValue": 100
+  },
+  {
+    "Id": 19,
+    "CharacterBaseMasterId": 403,
+    "ProfileRestrictionItem": 7,
+    "UnlockConditionMasterId": 1,
+    "ProfileUnlockValue": 100
+  },
+  {
+    "Id": 20,
+    "CharacterBaseMasterId": 404,
+    "ProfileRestrictionItem": 7,
+    "UnlockConditionMasterId": 1,
+    "ProfileUnlockValue": 100
+  },
+  {
+    "Id": 21,
+    "CharacterBaseMasterId": 405,
+    "ProfileRestrictionItem": 7,
+    "UnlockConditionMasterId": 1,
+    "ProfileUnlockValue": 100
+  },
+  {
+    "Id": 22,
+    "CharacterBaseMasterId": 101,
+    "ProfileRestrictionItem": 8,
+    "UnlockConditionMasterId": 2,
+    "ProfileUnlockValue": 1010123
+  },
+  {
+    "Id": 23,
+    "CharacterBaseMasterId": 102,
+    "ProfileRestrictionItem": 8,
+    "UnlockConditionMasterId": 1,
+    "ProfileUnlockValue": 100
+  },
+  {
+    "Id": 24,
+    "CharacterBaseMasterId": 103,
+    "ProfileRestrictionItem": 8,
+    "UnlockConditionMasterId": 1,
+    "ProfileUnlockValue": 100
+  },
+  {
+    "Id": 25,
+    "CharacterBaseMasterId": 104,
+    "ProfileRestrictionItem": 8,
+    "UnlockConditionMasterId": 2,
+    "ProfileUnlockValue": 1010123
+  },
+  {
+    "Id": 26,
+    "CharacterBaseMasterId": 105,
+    "ProfileRestrictionItem": 8,
+    "UnlockConditionMasterId": 1,
+    "ProfileUnlockValue": 100
+  },
+  {
+    "Id": 27,
+    "CharacterBaseMasterId": 106,
+    "ProfileRestrictionItem": 8,
+    "UnlockConditionMasterId": 1,
+    "ProfileUnlockValue": 100
+  },
+  {
+    "Id": 28,
+    "CharacterBaseMasterId": 201,
+    "ProfileRestrictionItem": 8,
+    "UnlockConditionMasterId": 1,
+    "ProfileUnlockValue": 100
+  },
+  {
+    "Id": 29,
+    "CharacterBaseMasterId": 202,
+    "ProfileRestrictionItem": 8,
+    "UnlockConditionMasterId": 1,
+    "ProfileUnlockValue": 100
+  },
+  {
+    "Id": 30,
+    "CharacterBaseMasterId": 203,
+    "ProfileRestrictionItem": 8,
+    "UnlockConditionMasterId": 1,
+    "ProfileUnlockValue": 100
+  },
+  {
+    "Id": 31,
+    "CharacterBaseMasterId": 204,
+    "ProfileRestrictionItem": 8,
+    "UnlockConditionMasterId": 1,
+    "ProfileUnlockValue": 100
+  },
+  {
+    "Id": 32,
+    "CharacterBaseMasterId": 205,
+    "ProfileRestrictionItem": 8,
+    "UnlockConditionMasterId": 1,
+    "ProfileUnlockValue": 100
+  },
+  {
+    "Id": 33,
+    "CharacterBaseMasterId": 301,
+    "ProfileRestrictionItem": 8,
+    "UnlockConditionMasterId": 1,
+    "ProfileUnlockValue": 100
+  },
+  {
+    "Id": 34,
+    "CharacterBaseMasterId": 302,
+    "ProfileRestrictionItem": 8,
+    "UnlockConditionMasterId": 1,
+    "ProfileUnlockValue": 100
+  },
+  {
+    "Id": 35,
+    "CharacterBaseMasterId": 303,
+    "ProfileRestrictionItem": 8,
+    "UnlockConditionMasterId": 1,
+    "ProfileUnlockValue": 100
+  },
+  {
+    "Id": 36,
+    "CharacterBaseMasterId": 304,
+    "ProfileRestrictionItem": 8,
+    "UnlockConditionMasterId": 1,
+    "ProfileUnlockValue": 100
+  },
+  {
+    "Id": 37,
+    "CharacterBaseMasterId": 305,
+    "ProfileRestrictionItem": 8,
+    "UnlockConditionMasterId": 1,
+    "ProfileUnlockValue": 100
+  },
+  {
+    "Id": 38,
+    "CharacterBaseMasterId": 401,
+    "ProfileRestrictionItem": 8,
+    "UnlockConditionMasterId": 1,
+    "ProfileUnlockValue": 100
+  },
+  {
+    "Id": 39,
+    "CharacterBaseMasterId": 402,
+    "ProfileRestrictionItem": 8,
+    "UnlockConditionMasterId": 1,
+    "ProfileUnlockValue": 100
+  },
+  {
+    "Id": 40,
+    "CharacterBaseMasterId": 403,
+    "ProfileRestrictionItem": 8,
+    "UnlockConditionMasterId": 1,
+    "ProfileUnlockValue": 100
+  },
+  {
+    "Id": 41,
+    "CharacterBaseMasterId": 404,
+    "ProfileRestrictionItem": 8,
+    "UnlockConditionMasterId": 1,
+    "ProfileUnlockValue": 100
+  },
+  {
+    "Id": 42,
+    "CharacterBaseMasterId": 405,
+    "ProfileRestrictionItem": 8,
+    "UnlockConditionMasterId": 1,
+    "ProfileUnlockValue": 100
+  }
 ]

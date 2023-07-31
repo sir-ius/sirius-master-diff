@@ -1,10 +1,10 @@
 [
-  [
-    1001,
-    "デフォルト",
-    null,
-    1001,
-    false,
-    true
-  ]
+  {
+    "Id": 1001,
+    "Name": "デフォルト",
+    "Description": null,
+    "Order": 1001,
+    "Hidden": false,
+    "IsDefault": true
+  }
 ]

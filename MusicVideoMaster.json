@@ -1,33 +1,11 @@
 [
-  [
-    2001,
-    3,
-    2,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    },
-    [
+  {
+    "Id": 2001,
+    "MusicMasterId": 3,
+    "MemberAmount": 2,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z",
+    "Characters": [
       [
         1,
         102,
@@ -39,78 +17,34 @@
         10111
       ]
     ],
-    0.699999988079071,
-    3,
-    null
-  ],
-  [
-    2002,
-    7,
-    1,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    },
-    [
+    "DelaySeconds": 0.699999988079071,
+    "MovieDelaySeconds": 3,
+    "MusicVideoDefaultCostumeGroupMasterId": null
+  },
+  {
+    "Id": 2002,
+    "MusicMasterId": 7,
+    "MemberAmount": 1,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z",
+    "Characters": [
       [
         1,
         104,
         11161
       ]
     ],
-    2.5999999046325684,
-    3.4000000953674316,
-    null
-  ],
-  [
-    2003,
-    9,
-    3,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    },
-    [
+    "DelaySeconds": 2.5999999046325684,
+    "MovieDelaySeconds": 3.4000000953674316,
+    "MusicVideoDefaultCostumeGroupMasterId": null
+  },
+  {
+    "Id": 2003,
+    "MusicMasterId": 9,
+    "MemberAmount": 3,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z",
+    "Characters": [
       [
         1,
         401,
@@ -127,39 +61,17 @@
         11431
       ]
     ],
-    0.4000000059604645,
-    0.4000000059604645,
-    null
-  ],
-  [
-    2004,
-    12,
-    2,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    },
-    [
+    "DelaySeconds": 0.4000000059604645,
+    "MovieDelaySeconds": 0.4000000059604645,
+    "MusicVideoDefaultCostumeGroupMasterId": null
+  },
+  {
+    "Id": 2004,
+    "MusicMasterId": 12,
+    "MemberAmount": 2,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z",
+    "Characters": [
       [
         1,
         101,
@@ -171,39 +83,17 @@
         12131
       ]
     ],
-    0.699999988079071,
-    0.800000011920929,
-    null
-  ],
-  [
-    2005,
-    17,
-    6,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    },
-    [
+    "DelaySeconds": 0.699999988079071,
+    "MovieDelaySeconds": 0.800000011920929,
+    "MusicVideoDefaultCostumeGroupMasterId": null
+  },
+  {
+    "Id": 2005,
+    "MusicMasterId": 17,
+    "MemberAmount": 6,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z",
+    "Characters": [
       [
         1,
         101,
@@ -235,39 +125,17 @@
         411
       ]
     ],
-    -0.10000000149011612,
-    0.30000001192092896,
-    null
-  ],
-  [
-    2006,
-    19,
-    5,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    },
-    [
+    "DelaySeconds": -0.10000000149011612,
+    "MovieDelaySeconds": 0.30000001192092896,
+    "MusicVideoDefaultCostumeGroupMasterId": null
+  },
+  {
+    "Id": 2006,
+    "MusicMasterId": 19,
+    "MemberAmount": 5,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z",
+    "Characters": [
       [
         1,
         201,
@@ -294,39 +162,17 @@
         421
       ]
     ],
-    1.2000000476837158,
-    1.2000000476837158,
-    null
-  ],
-  [
-    2007,
-    21,
-    5,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    },
-    [
+    "DelaySeconds": 1.2000000476837158,
+    "MovieDelaySeconds": 1.2000000476837158,
+    "MusicVideoDefaultCostumeGroupMasterId": null
+  },
+  {
+    "Id": 2007,
+    "MusicMasterId": 21,
+    "MemberAmount": 5,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z",
+    "Characters": [
       [
         1,
         301,
@@ -353,39 +199,17 @@
         431
       ]
     ],
-    0.800000011920929,
-    0.800000011920929,
-    null
-  ],
-  [
-    2008,
-    23,
-    5,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    },
-    [
+    "DelaySeconds": 0.800000011920929,
+    "MovieDelaySeconds": 0.800000011920929,
+    "MusicVideoDefaultCostumeGroupMasterId": null
+  },
+  {
+    "Id": 2008,
+    "MusicMasterId": 23,
+    "MemberAmount": 5,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z",
+    "Characters": [
       [
         1,
         401,
@@ -412,125 +236,59 @@
         441
       ]
     ],
-    1.2000000476837158,
-    1.2999999523162842,
-    1
-  ],
-  [
-    2009,
-    5,
-    1,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    },
-    [
+    "DelaySeconds": 1.2000000476837158,
+    "MovieDelaySeconds": 1.2999999523162842,
+    "MusicVideoDefaultCostumeGroupMasterId": 1
+  },
+  {
+    "Id": 2009,
+    "MusicMasterId": 5,
+    "MemberAmount": 1,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z",
+    "Characters": [
       [
         1,
         302,
         10311
       ]
     ],
-    1.399999976158142,
-    1.399999976158142,
-    null
-  ],
-  [
-    2010,
-    15,
-    1,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          100,
-          197,
-          69,
-          144
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    },
-    [
+    "DelaySeconds": 1.399999976158142,
+    "MovieDelaySeconds": 1.399999976158142,
+    "MusicVideoDefaultCostumeGroupMasterId": null
+  },
+  {
+    "Id": 2010,
+    "MusicMasterId": 15,
+    "MemberAmount": 1,
+    "DisplayStartAt": "2023-07-29T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z",
+    "Characters": [
       [
         1,
         103,
         13111
       ]
     ],
-    2.4000000953674316,
-    2.200000047683716,
-    null
-  ],
-  [
-    2011,
-    45,
-    1,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          100,
-          199,
-          232,
-          144
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    },
-    [
+    "DelaySeconds": 2.4000000953674316,
+    "MovieDelaySeconds": 2.200000047683716,
+    "MusicVideoDefaultCostumeGroupMasterId": null
+  },
+  {
+    "Id": 2011,
+    "MusicMasterId": 45,
+    "MemberAmount": 1,
+    "DisplayStartAt": "2023-07-31T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z",
+    "Characters": [
       [
         1,
         202,
         90011
       ]
     ],
-    1,
-    1,
-    null
-  ]
+    "DelaySeconds": 1,
+    "MovieDelaySeconds": 1,
+    "MusicVideoDefaultCostumeGroupMasterId": null
+  }
 ]

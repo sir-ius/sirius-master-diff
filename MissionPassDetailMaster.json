@@ -1,34 +1,12 @@
 [
-  [
-    1,
-    1,
-    null,
-    600,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          133,
-          5,
-          128
-        ]
-      },
-      "type": 255
-    },
-    [
+  {
+    "Id": 1,
+    "Phase": 1,
+    "MissionPassMasterId": null,
+    "ClearPoint": 600,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": "2099-12-31T00:00:00.000Z",
+    "Rewards": [
       [
         101,
         120001,
@@ -46,37 +24,15 @@
         true
       ]
     ]
-  ],
-  [
-    2,
-    2,
-    null,
-    1200,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          133,
-          5,
-          128
-        ]
-      },
-      "type": 255
-    },
-    [
+  },
+  {
+    "Id": 2,
+    "Phase": 2,
+    "MissionPassMasterId": null,
+    "ClearPoint": 1200,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": "2099-12-31T00:00:00.000Z",
+    "Rewards": [
       [
         201,
         510001,
@@ -94,37 +50,15 @@
         true
       ]
     ]
-  ],
-  [
-    3,
-    3,
-    null,
-    1800,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          133,
-          5,
-          128
-        ]
-      },
-      "type": 255
-    },
-    [
+  },
+  {
+    "Id": 3,
+    "Phase": 3,
+    "MissionPassMasterId": null,
+    "ClearPoint": 1800,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": "2099-12-31T00:00:00.000Z",
+    "Rewards": [
       [
         301,
         130041,
@@ -142,37 +76,15 @@
         true
       ]
     ]
-  ],
-  [
-    4,
-    4,
-    null,
-    2400,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          133,
-          5,
-          128
-        ]
-      },
-      "type": 255
-    },
-    [
+  },
+  {
+    "Id": 4,
+    "Phase": 4,
+    "MissionPassMasterId": null,
+    "ClearPoint": 2400,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": "2099-12-31T00:00:00.000Z",
+    "Rewards": [
       [
         401,
         0,
@@ -190,37 +102,15 @@
         true
       ]
     ]
-  ],
-  [
-    5,
-    5,
-    null,
-    3000,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          133,
-          5,
-          128
-        ]
-      },
-      "type": 255
-    },
-    [
+  },
+  {
+    "Id": 5,
+    "Phase": 5,
+    "MissionPassMasterId": null,
+    "ClearPoint": 3000,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": "2099-12-31T00:00:00.000Z",
+    "Rewards": [
       [
         501,
         130001,
@@ -238,37 +128,15 @@
         true
       ]
     ]
-  ],
-  [
-    6,
-    6,
-    null,
-    3600,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          133,
-          5,
-          128
-        ]
-      },
-      "type": 255
-    },
-    [
+  },
+  {
+    "Id": 6,
+    "Phase": 6,
+    "MissionPassMasterId": null,
+    "ClearPoint": 3600,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": "2099-12-31T00:00:00.000Z",
+    "Rewards": [
       [
         601,
         510001,
@@ -286,37 +154,15 @@
         true
       ]
     ]
-  ],
-  [
-    7,
-    7,
-    null,
-    4200,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          133,
-          5,
-          128
-        ]
-      },
-      "type": 255
-    },
-    [
+  },
+  {
+    "Id": 7,
+    "Phase": 7,
+    "MissionPassMasterId": null,
+    "ClearPoint": 4200,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": "2099-12-31T00:00:00.000Z",
+    "Rewards": [
       [
         701,
         130041,
@@ -334,37 +180,15 @@
         true
       ]
     ]
-  ],
-  [
-    8,
-    8,
-    null,
-    4800,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          133,
-          5,
-          128
-        ]
-      },
-      "type": 255
-    },
-    [
+  },
+  {
+    "Id": 8,
+    "Phase": 8,
+    "MissionPassMasterId": null,
+    "ClearPoint": 4800,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": "2099-12-31T00:00:00.000Z",
+    "Rewards": [
       [
         801,
         0,
@@ -382,37 +206,15 @@
         true
       ]
     ]
-  ],
-  [
-    9,
-    9,
-    null,
-    5400,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          133,
-          5,
-          128
-        ]
-      },
-      "type": 255
-    },
-    [
+  },
+  {
+    "Id": 9,
+    "Phase": 9,
+    "MissionPassMasterId": null,
+    "ClearPoint": 5400,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": "2099-12-31T00:00:00.000Z",
+    "Rewards": [
       [
         901,
         120001,
@@ -430,37 +232,15 @@
         true
       ]
     ]
-  ],
-  [
-    10,
-    10,
-    null,
-    6000,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          133,
-          5,
-          128
-        ]
-      },
-      "type": 255
-    },
-    [
+  },
+  {
+    "Id": 10,
+    "Phase": 10,
+    "MissionPassMasterId": null,
+    "ClearPoint": 6000,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": "2099-12-31T00:00:00.000Z",
+    "Rewards": [
       [
         1001,
         0,
@@ -478,37 +258,15 @@
         true
       ]
     ]
-  ],
-  [
-    11,
-    11,
-    null,
-    6600,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          133,
-          5,
-          128
-        ]
-      },
-      "type": 255
-    },
-    [
+  },
+  {
+    "Id": 11,
+    "Phase": 11,
+    "MissionPassMasterId": null,
+    "ClearPoint": 6600,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": "2099-12-31T00:00:00.000Z",
+    "Rewards": [
       [
         1101,
         130041,
@@ -526,37 +284,15 @@
         true
       ]
     ]
-  ],
-  [
-    12,
-    12,
-    null,
-    7200,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          133,
-          5,
-          128
-        ]
-      },
-      "type": 255
-    },
-    [
+  },
+  {
+    "Id": 12,
+    "Phase": 12,
+    "MissionPassMasterId": null,
+    "ClearPoint": 7200,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": "2099-12-31T00:00:00.000Z",
+    "Rewards": [
       [
         1201,
         510001,
@@ -574,37 +310,15 @@
         true
       ]
     ]
-  ],
-  [
-    13,
-    13,
-    null,
-    7800,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          133,
-          5,
-          128
-        ]
-      },
-      "type": 255
-    },
-    [
+  },
+  {
+    "Id": 13,
+    "Phase": 13,
+    "MissionPassMasterId": null,
+    "ClearPoint": 7800,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": "2099-12-31T00:00:00.000Z",
+    "Rewards": [
       [
         1301,
         120001,
@@ -622,37 +336,15 @@
         true
       ]
     ]
-  ],
-  [
-    14,
-    14,
-    null,
-    8400,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          133,
-          5,
-          128
-        ]
-      },
-      "type": 255
-    },
-    [
+  },
+  {
+    "Id": 14,
+    "Phase": 14,
+    "MissionPassMasterId": null,
+    "ClearPoint": 8400,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": "2099-12-31T00:00:00.000Z",
+    "Rewards": [
       [
         1401,
         0,
@@ -670,37 +362,15 @@
         true
       ]
     ]
-  ],
-  [
-    15,
-    15,
-    null,
-    9000,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          133,
-          5,
-          128
-        ]
-      },
-      "type": 255
-    },
-    [
+  },
+  {
+    "Id": 15,
+    "Phase": 15,
+    "MissionPassMasterId": null,
+    "ClearPoint": 9000,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": "2099-12-31T00:00:00.000Z",
+    "Rewards": [
       [
         1501,
         130001,
@@ -718,37 +388,15 @@
         true
       ]
     ]
-  ],
-  [
-    16,
-    16,
-    null,
-    9600,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          133,
-          5,
-          128
-        ]
-      },
-      "type": 255
-    },
-    [
+  },
+  {
+    "Id": 16,
+    "Phase": 16,
+    "MissionPassMasterId": null,
+    "ClearPoint": 9600,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": "2099-12-31T00:00:00.000Z",
+    "Rewards": [
       [
         1601,
         130091,
@@ -766,37 +414,15 @@
         true
       ]
     ]
-  ],
-  [
-    17,
-    17,
-    null,
-    10200,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          133,
-          5,
-          128
-        ]
-      },
-      "type": 255
-    },
-    [
+  },
+  {
+    "Id": 17,
+    "Phase": 17,
+    "MissionPassMasterId": null,
+    "ClearPoint": 10200,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": "2099-12-31T00:00:00.000Z",
+    "Rewards": [
       [
         1701,
         120001,
@@ -814,37 +440,15 @@
         true
       ]
     ]
-  ],
-  [
-    18,
-    18,
-    null,
-    10800,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          133,
-          5,
-          128
-        ]
-      },
-      "type": 255
-    },
-    [
+  },
+  {
+    "Id": 18,
+    "Phase": 18,
+    "MissionPassMasterId": null,
+    "ClearPoint": 10800,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": "2099-12-31T00:00:00.000Z",
+    "Rewards": [
       [
         1801,
         0,
@@ -862,37 +466,15 @@
         true
       ]
     ]
-  ],
-  [
-    19,
-    19,
-    null,
-    11400,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          133,
-          5,
-          128
-        ]
-      },
-      "type": 255
-    },
-    [
+  },
+  {
+    "Id": 19,
+    "Phase": 19,
+    "MissionPassMasterId": null,
+    "ClearPoint": 11400,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": "2099-12-31T00:00:00.000Z",
+    "Rewards": [
       [
         1901,
         130041,
@@ -910,37 +492,15 @@
         true
       ]
     ]
-  ],
-  [
-    20,
-    20,
-    null,
-    12000,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          133,
-          5,
-          128
-        ]
-      },
-      "type": 255
-    },
-    [
+  },
+  {
+    "Id": 20,
+    "Phase": 20,
+    "MissionPassMasterId": null,
+    "ClearPoint": 12000,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": "2099-12-31T00:00:00.000Z",
+    "Rewards": [
       [
         2001,
         0,
@@ -958,37 +518,15 @@
         true
       ]
     ]
-  ],
-  [
-    21,
-    21,
-    null,
-    12600,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          133,
-          5,
-          128
-        ]
-      },
-      "type": 255
-    },
-    [
+  },
+  {
+    "Id": 21,
+    "Phase": 21,
+    "MissionPassMasterId": null,
+    "ClearPoint": 12600,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": "2099-12-31T00:00:00.000Z",
+    "Rewards": [
       [
         2101,
         120001,
@@ -1006,37 +544,15 @@
         true
       ]
     ]
-  ],
-  [
-    22,
-    22,
-    null,
-    13200,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          133,
-          5,
-          128
-        ]
-      },
-      "type": 255
-    },
-    [
+  },
+  {
+    "Id": 22,
+    "Phase": 22,
+    "MissionPassMasterId": null,
+    "ClearPoint": 13200,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": "2099-12-31T00:00:00.000Z",
+    "Rewards": [
       [
         2201,
         510001,
@@ -1054,37 +570,15 @@
         true
       ]
     ]
-  ],
-  [
-    23,
-    23,
-    null,
-    13800,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          133,
-          5,
-          128
-        ]
-      },
-      "type": 255
-    },
-    [
+  },
+  {
+    "Id": 23,
+    "Phase": 23,
+    "MissionPassMasterId": null,
+    "ClearPoint": 13800,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": "2099-12-31T00:00:00.000Z",
+    "Rewards": [
       [
         2301,
         130042,
@@ -1102,37 +596,15 @@
         true
       ]
     ]
-  ],
-  [
-    24,
-    24,
-    null,
-    14400,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          133,
-          5,
-          128
-        ]
-      },
-      "type": 255
-    },
-    [
+  },
+  {
+    "Id": 24,
+    "Phase": 24,
+    "MissionPassMasterId": null,
+    "ClearPoint": 14400,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": "2099-12-31T00:00:00.000Z",
+    "Rewards": [
       [
         2401,
         0,
@@ -1150,37 +622,15 @@
         true
       ]
     ]
-  ],
-  [
-    25,
-    25,
-    null,
-    15000,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          133,
-          5,
-          128
-        ]
-      },
-      "type": 255
-    },
-    [
+  },
+  {
+    "Id": 25,
+    "Phase": 25,
+    "MissionPassMasterId": null,
+    "ClearPoint": 15000,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": "2099-12-31T00:00:00.000Z",
+    "Rewards": [
       [
         2501,
         130001,
@@ -1198,37 +648,15 @@
         true
       ]
     ]
-  ],
-  [
-    26,
-    26,
-    null,
-    15600,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          133,
-          5,
-          128
-        ]
-      },
-      "type": 255
-    },
-    [
+  },
+  {
+    "Id": 26,
+    "Phase": 26,
+    "MissionPassMasterId": null,
+    "ClearPoint": 15600,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": "2099-12-31T00:00:00.000Z",
+    "Rewards": [
       [
         2601,
         510002,
@@ -1246,37 +674,15 @@
         true
       ]
     ]
-  ],
-  [
-    27,
-    27,
-    null,
-    16200,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          133,
-          5,
-          128
-        ]
-      },
-      "type": 255
-    },
-    [
+  },
+  {
+    "Id": 27,
+    "Phase": 27,
+    "MissionPassMasterId": null,
+    "ClearPoint": 16200,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": "2099-12-31T00:00:00.000Z",
+    "Rewards": [
       [
         2701,
         130042,
@@ -1294,37 +700,15 @@
         true
       ]
     ]
-  ],
-  [
-    28,
-    28,
-    null,
-    16800,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          133,
-          5,
-          128
-        ]
-      },
-      "type": 255
-    },
-    [
+  },
+  {
+    "Id": 28,
+    "Phase": 28,
+    "MissionPassMasterId": null,
+    "ClearPoint": 16800,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": "2099-12-31T00:00:00.000Z",
+    "Rewards": [
       [
         2801,
         0,
@@ -1342,37 +726,15 @@
         true
       ]
     ]
-  ],
-  [
-    29,
-    29,
-    null,
-    17400,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          133,
-          5,
-          128
-        ]
-      },
-      "type": 255
-    },
-    [
+  },
+  {
+    "Id": 29,
+    "Phase": 29,
+    "MissionPassMasterId": null,
+    "ClearPoint": 17400,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": "2099-12-31T00:00:00.000Z",
+    "Rewards": [
       [
         2901,
         120001,
@@ -1390,37 +752,15 @@
         true
       ]
     ]
-  ],
-  [
-    30,
-    30,
-    null,
-    18000,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          133,
-          5,
-          128
-        ]
-      },
-      "type": 255
-    },
-    [
+  },
+  {
+    "Id": 30,
+    "Phase": 30,
+    "MissionPassMasterId": null,
+    "ClearPoint": 18000,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": "2099-12-31T00:00:00.000Z",
+    "Rewards": [
       [
         3001,
         0,
@@ -1438,37 +778,15 @@
         true
       ]
     ]
-  ],
-  [
-    31,
-    31,
-    null,
-    18600,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          133,
-          5,
-          128
-        ]
-      },
-      "type": 255
-    },
-    [
+  },
+  {
+    "Id": 31,
+    "Phase": 31,
+    "MissionPassMasterId": null,
+    "ClearPoint": 18600,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": "2099-12-31T00:00:00.000Z",
+    "Rewards": [
       [
         3101,
         130042,
@@ -1486,37 +804,15 @@
         true
       ]
     ]
-  ],
-  [
-    32,
-    32,
-    null,
-    19200,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          133,
-          5,
-          128
-        ]
-      },
-      "type": 255
-    },
-    [
+  },
+  {
+    "Id": 32,
+    "Phase": 32,
+    "MissionPassMasterId": null,
+    "ClearPoint": 19200,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": "2099-12-31T00:00:00.000Z",
+    "Rewards": [
       [
         3201,
         510002,
@@ -1534,37 +830,15 @@
         true
       ]
     ]
-  ],
-  [
-    33,
-    33,
-    null,
-    19800,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          133,
-          5,
-          128
-        ]
-      },
-      "type": 255
-    },
-    [
+  },
+  {
+    "Id": 33,
+    "Phase": 33,
+    "MissionPassMasterId": null,
+    "ClearPoint": 19800,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": "2099-12-31T00:00:00.000Z",
+    "Rewards": [
       [
         3301,
         120001,
@@ -1582,37 +856,15 @@
         true
       ]
     ]
-  ],
-  [
-    34,
-    34,
-    null,
-    20400,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          133,
-          5,
-          128
-        ]
-      },
-      "type": 255
-    },
-    [
+  },
+  {
+    "Id": 34,
+    "Phase": 34,
+    "MissionPassMasterId": null,
+    "ClearPoint": 20400,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": "2099-12-31T00:00:00.000Z",
+    "Rewards": [
       [
         3401,
         0,
@@ -1630,37 +882,15 @@
         true
       ]
     ]
-  ],
-  [
-    35,
-    35,
-    null,
-    21000,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          133,
-          5,
-          128
-        ]
-      },
-      "type": 255
-    },
-    [
+  },
+  {
+    "Id": 35,
+    "Phase": 35,
+    "MissionPassMasterId": null,
+    "ClearPoint": 21000,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": "2099-12-31T00:00:00.000Z",
+    "Rewards": [
       [
         3501,
         130001,
@@ -1678,37 +908,15 @@
         true
       ]
     ]
-  ],
-  [
-    36,
-    36,
-    null,
-    21600,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          133,
-          5,
-          128
-        ]
-      },
-      "type": 255
-    },
-    [
+  },
+  {
+    "Id": 36,
+    "Phase": 36,
+    "MissionPassMasterId": null,
+    "ClearPoint": 21600,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": "2099-12-31T00:00:00.000Z",
+    "Rewards": [
       [
         3601,
         130091,
@@ -1726,37 +934,15 @@
         true
       ]
     ]
-  ],
-  [
-    37,
-    37,
-    null,
-    22200,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          133,
-          5,
-          128
-        ]
-      },
-      "type": 255
-    },
-    [
+  },
+  {
+    "Id": 37,
+    "Phase": 37,
+    "MissionPassMasterId": null,
+    "ClearPoint": 22200,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": "2099-12-31T00:00:00.000Z",
+    "Rewards": [
       [
         3701,
         120001,
@@ -1774,37 +960,15 @@
         true
       ]
     ]
-  ],
-  [
-    38,
-    38,
-    null,
-    22800,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          133,
-          5,
-          128
-        ]
-      },
-      "type": 255
-    },
-    [
+  },
+  {
+    "Id": 38,
+    "Phase": 38,
+    "MissionPassMasterId": null,
+    "ClearPoint": 22800,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": "2099-12-31T00:00:00.000Z",
+    "Rewards": [
       [
         3801,
         0,
@@ -1822,37 +986,15 @@
         true
       ]
     ]
-  ],
-  [
-    39,
-    39,
-    null,
-    23400,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          133,
-          5,
-          128
-        ]
-      },
-      "type": 255
-    },
-    [
+  },
+  {
+    "Id": 39,
+    "Phase": 39,
+    "MissionPassMasterId": null,
+    "ClearPoint": 23400,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": "2099-12-31T00:00:00.000Z",
+    "Rewards": [
       [
         3901,
         130042,
@@ -1870,37 +1012,15 @@
         true
       ]
     ]
-  ],
-  [
-    40,
-    40,
-    null,
-    24000,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          133,
-          5,
-          128
-        ]
-      },
-      "type": 255
-    },
-    [
+  },
+  {
+    "Id": 40,
+    "Phase": 40,
+    "MissionPassMasterId": null,
+    "ClearPoint": 24000,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": "2099-12-31T00:00:00.000Z",
+    "Rewards": [
       [
         4001,
         0,
@@ -1918,37 +1038,15 @@
         true
       ]
     ]
-  ],
-  [
-    41,
-    41,
-    null,
-    24600,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          133,
-          5,
-          128
-        ]
-      },
-      "type": 255
-    },
-    [
+  },
+  {
+    "Id": 41,
+    "Phase": 41,
+    "MissionPassMasterId": null,
+    "ClearPoint": 24600,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": "2099-12-31T00:00:00.000Z",
+    "Rewards": [
       [
         4101,
         120001,
@@ -1966,37 +1064,15 @@
         true
       ]
     ]
-  ],
-  [
-    42,
-    42,
-    null,
-    25200,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          133,
-          5,
-          128
-        ]
-      },
-      "type": 255
-    },
-    [
+  },
+  {
+    "Id": 42,
+    "Phase": 42,
+    "MissionPassMasterId": null,
+    "ClearPoint": 25200,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": "2099-12-31T00:00:00.000Z",
+    "Rewards": [
       [
         4201,
         510002,
@@ -2014,37 +1090,15 @@
         true
       ]
     ]
-  ],
-  [
-    43,
-    43,
-    null,
-    25800,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          133,
-          5,
-          128
-        ]
-      },
-      "type": 255
-    },
-    [
+  },
+  {
+    "Id": 43,
+    "Phase": 43,
+    "MissionPassMasterId": null,
+    "ClearPoint": 25800,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": "2099-12-31T00:00:00.000Z",
+    "Rewards": [
       [
         4301,
         130043,
@@ -2062,37 +1116,15 @@
         true
       ]
     ]
-  ],
-  [
-    44,
-    44,
-    null,
-    26400,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          133,
-          5,
-          128
-        ]
-      },
-      "type": 255
-    },
-    [
+  },
+  {
+    "Id": 44,
+    "Phase": 44,
+    "MissionPassMasterId": null,
+    "ClearPoint": 26400,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": "2099-12-31T00:00:00.000Z",
+    "Rewards": [
       [
         4401,
         0,
@@ -2110,37 +1142,15 @@
         true
       ]
     ]
-  ],
-  [
-    45,
-    45,
-    null,
-    27000,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          133,
-          5,
-          128
-        ]
-      },
-      "type": 255
-    },
-    [
+  },
+  {
+    "Id": 45,
+    "Phase": 45,
+    "MissionPassMasterId": null,
+    "ClearPoint": 27000,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": "2099-12-31T00:00:00.000Z",
+    "Rewards": [
       [
         4501,
         130001,
@@ -2158,37 +1168,15 @@
         true
       ]
     ]
-  ],
-  [
-    46,
-    46,
-    null,
-    27600,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          133,
-          5,
-          128
-        ]
-      },
-      "type": 255
-    },
-    [
+  },
+  {
+    "Id": 46,
+    "Phase": 46,
+    "MissionPassMasterId": null,
+    "ClearPoint": 27600,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": "2099-12-31T00:00:00.000Z",
+    "Rewards": [
       [
         4601,
         510002,
@@ -2206,37 +1194,15 @@
         true
       ]
     ]
-  ],
-  [
-    47,
-    47,
-    null,
-    28200,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          133,
-          5,
-          128
-        ]
-      },
-      "type": 255
-    },
-    [
+  },
+  {
+    "Id": 47,
+    "Phase": 47,
+    "MissionPassMasterId": null,
+    "ClearPoint": 28200,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": "2099-12-31T00:00:00.000Z",
+    "Rewards": [
       [
         4701,
         130043,
@@ -2254,37 +1220,15 @@
         true
       ]
     ]
-  ],
-  [
-    48,
-    48,
-    null,
-    28800,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          133,
-          5,
-          128
-        ]
-      },
-      "type": 255
-    },
-    [
+  },
+  {
+    "Id": 48,
+    "Phase": 48,
+    "MissionPassMasterId": null,
+    "ClearPoint": 28800,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": "2099-12-31T00:00:00.000Z",
+    "Rewards": [
       [
         4801,
         0,
@@ -2302,37 +1246,15 @@
         true
       ]
     ]
-  ],
-  [
-    49,
-    49,
-    null,
-    29400,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          133,
-          5,
-          128
-        ]
-      },
-      "type": 255
-    },
-    [
+  },
+  {
+    "Id": 49,
+    "Phase": 49,
+    "MissionPassMasterId": null,
+    "ClearPoint": 29400,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": "2099-12-31T00:00:00.000Z",
+    "Rewards": [
       [
         4901,
         120001,
@@ -2350,37 +1272,15 @@
         true
       ]
     ]
-  ],
-  [
-    50,
-    50,
-    null,
-    30000,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          133,
-          5,
-          128
-        ]
-      },
-      "type": 255
-    },
-    [
+  },
+  {
+    "Id": 50,
+    "Phase": 50,
+    "MissionPassMasterId": null,
+    "ClearPoint": 30000,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": "2099-12-31T00:00:00.000Z",
+    "Rewards": [
       [
         5001,
         0,
@@ -2398,53 +1298,15 @@
         true
       ]
     ]
-  ],
-  [
-    120,
-    20,
-    1,
-    12000,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          0,
-          0,
-          0,
-          0,
-          255,
-          255,
-          255,
-          241,
-          136,
-          110,
-          9,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          0,
-          0,
-          0,
-          0,
-          255,
-          255,
-          255,
-          241,
-          136,
-          110,
-          9,
-          0
-        ]
-      },
-      "type": 255
-    },
-    [
+  },
+  {
+    "Id": 120,
+    "Phase": 20,
+    "MissionPassMasterId": 1,
+    "ClearPoint": 12000,
+    "StartDate": "1970-01-01T00:00:00.000Z",
+    "EndDate": "1970-01-01T00:00:00.000Z",
+    "Rewards": [
       [
         12001,
         0,
@@ -2462,53 +1324,15 @@
         true
       ]
     ]
-  ],
-  [
-    130,
-    30,
-    1,
-    18000,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          0,
-          0,
-          0,
-          0,
-          255,
-          255,
-          255,
-          241,
-          136,
-          110,
-          9,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          0,
-          0,
-          0,
-          0,
-          255,
-          255,
-          255,
-          241,
-          136,
-          110,
-          9,
-          0
-        ]
-      },
-      "type": 255
-    },
-    [
+  },
+  {
+    "Id": 130,
+    "Phase": 30,
+    "MissionPassMasterId": 1,
+    "ClearPoint": 18000,
+    "StartDate": "1970-01-01T00:00:00.000Z",
+    "EndDate": "1970-01-01T00:00:00.000Z",
+    "Rewards": [
       [
         13001,
         0,
@@ -2526,53 +1350,15 @@
         true
       ]
     ]
-  ],
-  [
-    140,
-    40,
-    1,
-    24000,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          0,
-          0,
-          0,
-          0,
-          255,
-          255,
-          255,
-          241,
-          136,
-          110,
-          9,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          0,
-          0,
-          0,
-          0,
-          255,
-          255,
-          255,
-          241,
-          136,
-          110,
-          9,
-          0
-        ]
-      },
-      "type": 255
-    },
-    [
+  },
+  {
+    "Id": 140,
+    "Phase": 40,
+    "MissionPassMasterId": 1,
+    "ClearPoint": 24000,
+    "StartDate": "1970-01-01T00:00:00.000Z",
+    "EndDate": "1970-01-01T00:00:00.000Z",
+    "Rewards": [
       [
         14001,
         0,
@@ -2590,53 +1376,15 @@
         true
       ]
     ]
-  ],
-  [
-    150,
-    50,
-    1,
-    30000,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          0,
-          0,
-          0,
-          0,
-          255,
-          255,
-          255,
-          241,
-          136,
-          110,
-          9,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          0,
-          0,
-          0,
-          0,
-          255,
-          255,
-          255,
-          241,
-          136,
-          110,
-          9,
-          0
-        ]
-      },
-      "type": 255
-    },
-    [
+  },
+  {
+    "Id": 150,
+    "Phase": 50,
+    "MissionPassMasterId": 1,
+    "ClearPoint": 30000,
+    "StartDate": "1970-01-01T00:00:00.000Z",
+    "EndDate": "1970-01-01T00:00:00.000Z",
+    "Rewards": [
       [
         15001,
         0,
@@ -2654,5 +1402,5 @@
         true
       ]
     ]
-  ]
+  }
 ]

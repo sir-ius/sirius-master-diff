@@ -1,107 +1,107 @@
 [
-  [
-    1,
-    1,
-    6
-  ],
-  [
-    2,
-    2,
-    1
-  ],
-  [
-    3,
-    3,
-    6
-  ],
-  [
-    4,
-    4,
-    2
-  ],
-  [
-    5,
-    5,
-    2
-  ],
-  [
-    6,
-    6,
-    1
-  ],
-  [
-    7,
-    7,
-    4
-  ],
-  [
-    8,
-    8,
-    4
-  ],
-  [
-    9,
-    9,
-    1
-  ],
-  [
-    10,
-    10,
-    3
-  ],
-  [
-    11,
-    11,
-    1
-  ],
-  [
-    12,
-    12,
-    1
-  ],
-  [
-    13,
-    13,
-    4
-  ],
-  [
-    14,
-    14,
-    7
-  ],
-  [
-    15,
-    15,
-    2
-  ],
-  [
-    16,
-    16,
-    2
-  ],
-  [
-    17,
-    17,
-    1
-  ],
-  [
-    18,
-    18,
-    3
-  ],
-  [
-    19,
-    19,
-    1
-  ],
-  [
-    20,
-    20,
-    1
-  ],
-  [
-    21,
-    21,
-    0
-  ]
+  {
+    "Id": 1,
+    "PageCategory": 1,
+    "PageCount": 6
+  },
+  {
+    "Id": 2,
+    "PageCategory": 2,
+    "PageCount": 1
+  },
+  {
+    "Id": 3,
+    "PageCategory": 3,
+    "PageCount": 6
+  },
+  {
+    "Id": 4,
+    "PageCategory": 4,
+    "PageCount": 2
+  },
+  {
+    "Id": 5,
+    "PageCategory": 5,
+    "PageCount": 2
+  },
+  {
+    "Id": 6,
+    "PageCategory": 6,
+    "PageCount": 1
+  },
+  {
+    "Id": 7,
+    "PageCategory": 7,
+    "PageCount": 4
+  },
+  {
+    "Id": 8,
+    "PageCategory": 8,
+    "PageCount": 4
+  },
+  {
+    "Id": 9,
+    "PageCategory": 9,
+    "PageCount": 1
+  },
+  {
+    "Id": 10,
+    "PageCategory": 10,
+    "PageCount": 3
+  },
+  {
+    "Id": 11,
+    "PageCategory": 11,
+    "PageCount": 1
+  },
+  {
+    "Id": 12,
+    "PageCategory": 12,
+    "PageCount": 1
+  },
+  {
+    "Id": 13,
+    "PageCategory": 13,
+    "PageCount": 4
+  },
+  {
+    "Id": 14,
+    "PageCategory": 14,
+    "PageCount": 7
+  },
+  {
+    "Id": 15,
+    "PageCategory": 15,
+    "PageCount": 2
+  },
+  {
+    "Id": 16,
+    "PageCategory": 16,
+    "PageCount": 2
+  },
+  {
+    "Id": 17,
+    "PageCategory": 17,
+    "PageCount": 1
+  },
+  {
+    "Id": 18,
+    "PageCategory": 18,
+    "PageCount": 3
+  },
+  {
+    "Id": 19,
+    "PageCategory": 19,
+    "PageCount": 1
+  },
+  {
+    "Id": 20,
+    "PageCategory": 20,
+    "PageCount": 1
+  },
+  {
+    "Id": 21,
+    "PageCategory": 21,
+    "PageCount": 0
+  }
 ]

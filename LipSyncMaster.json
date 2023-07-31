@@ -1,18 +1,18 @@
 [
-  [
-    1,
-    "mouth/normal_anime"
-  ],
-  [
-    2,
-    "mouth/happy_anime"
-  ],
-  [
-    3,
-    "mouth/angry_anime"
-  ],
-  [
-    4,
-    "mouth/sad_anime"
-  ]
+  {
+    "Id": 1,
+    "MotionName": "mouth/normal_anime"
+  },
+  {
+    "Id": 2,
+    "MotionName": "mouth/happy_anime"
+  },
+  {
+    "Id": 3,
+    "MotionName": "mouth/angry_anime"
+  },
+  {
+    "Id": 4,
+    "MotionName": "mouth/sad_anime"
+  }
 ]

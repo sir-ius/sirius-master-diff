@@ -1,1292 +1,1292 @@
 [
-  [
-    10101,
-    10101,
-    true,
-    101,
-    1,
-    "",
-    null,
-    "ここな【よろしくね！】"
-  ],
-  [
-    10102,
-    10102,
-    false,
-    101,
-    1,
-    "",
-    null,
-    "ここな【みんなお疲れさま！】"
-  ],
-  [
-    10103,
-    10103,
-    false,
-    101,
-    1,
-    "",
-    null,
-    "ここな【大成功だね！】"
-  ],
-  [
-    10104,
-    10104,
-    false,
-    101,
-    1,
-    "",
-    null,
-    "ここな【ごめんなさい】"
-  ],
-  [
-    10105,
-    10105,
-    false,
-    101,
-    1,
-    "",
-    null,
-    "ここな【すごい…！】"
-  ],
-  [
-    10191,
-    10191,
-    false,
-    101,
-    2,
-    "",
-    null,
-    "ここな【私が守るよ】"
-  ],
-  [
-    10201,
-    10201,
-    true,
-    102,
-    1,
-    "",
-    null,
-    "静香【よろしく】"
-  ],
-  [
-    10202,
-    10202,
-    false,
-    102,
-    1,
-    "",
-    null,
-    "静香【よく頑張ったわね】"
-  ],
-  [
-    10203,
-    10203,
-    false,
-    102,
-    1,
-    "",
-    null,
-    "静香【私と一緒に行こう】"
-  ],
-  [
-    10204,
-    10204,
-    false,
-    102,
-    1,
-    "",
-    null,
-    "静香【私たちならできる】"
-  ],
-  [
-    10205,
-    10205,
-    false,
-    102,
-    1,
-    "",
-    null,
-    "静香【ごくり…】"
-  ],
-  [
-    10291,
-    10291,
-    false,
-    102,
-    2,
-    "",
-    null,
-    "静香【そろそろ休んだら？】"
-  ],
-  [
-    10301,
-    10301,
-    true,
-    103,
-    1,
-    "",
-    null,
-    "カトリナ【…よろしく】"
-  ],
-  [
-    10302,
-    10302,
-    false,
-    103,
-    1,
-    "",
-    null,
-    "カトリナ【ご…ごめんなさい】"
-  ],
-  [
-    10303,
-    10303,
-    false,
-    103,
-    1,
-    "",
-    null,
-    "カトリナ【なんてこと…】"
-  ],
-  [
-    10304,
-    10304,
-    false,
-    103,
-    1,
-    "",
-    null,
-    "カトリナ【正々堂々と勝負よ！】"
-  ],
-  [
-    10305,
-    10305,
-    false,
-    103,
-    1,
-    "",
-    null,
-    "カトリナ【はっ!?】"
-  ],
-  [
-    10381,
-    10381,
-    false,
-    103,
-    1,
-    "",
-    null,
-    "カトリナ【負けてられないわね…】"
-  ],
-  [
-    10391,
-    10391,
-    false,
-    103,
-    2,
-    "",
-    null,
-    "カトリナ【超集中！！】"
-  ],
-  [
-    10401,
-    10401,
-    true,
-    104,
-    1,
-    "",
-    null,
-    "新妻【よろしくお願いします】"
-  ],
-  [
-    10402,
-    10402,
-    false,
-    104,
-    1,
-    "",
-    null,
-    "新妻【お疲れさまでした】"
-  ],
-  [
-    10403,
-    10403,
-    false,
-    104,
-    1,
-    "",
-    null,
-    "新妻【素晴らしいですね】"
-  ],
-  [
-    10404,
-    10404,
-    false,
-    104,
-    1,
-    "",
-    null,
-    "新妻【気にしないでください】"
-  ],
-  [
-    10405,
-    10405,
-    false,
-    104,
-    1,
-    "",
-    null,
-    "新妻【あれ？】"
-  ],
-  [
-    10491,
-    10491,
-    false,
-    104,
-    2,
-    "",
-    null,
-    "新妻【よしよし】"
-  ],
-  [
-    10501,
-    10501,
-    true,
-    105,
-    1,
-    "",
-    null,
-    "ぱんだ【よろしくねっ☆】"
-  ],
-  [
-    10502,
-    10502,
-    false,
-    105,
-    1,
-    "",
-    null,
-    "ぱんだ【やるじゃん】"
-  ],
-  [
-    10503,
-    10503,
-    false,
-    105,
-    1,
-    "",
-    null,
-    "ぱんだ【準備バッチリ！】"
-  ],
-  [
-    10504,
-    10504,
-    false,
-    105,
-    1,
-    "",
-    null,
-    "ぱんだ【はぁっ!?】"
-  ],
-  [
-    10505,
-    10505,
-    false,
-    105,
-    1,
-    "",
-    null,
-    "ぱんだ【ごめん！】"
-  ],
-  [
-    10591,
-    10591,
-    false,
-    105,
-    2,
-    "",
-    null,
-    "ぱんだ【今日もかわいいな！】"
-  ],
-  [
-    10601,
-    10601,
-    true,
-    106,
-    1,
-    "",
-    null,
-    "流石【よろしくね】"
-  ],
-  [
-    10602,
-    10602,
-    false,
-    106,
-    1,
-    "",
-    null,
-    "流石【キュンときたね】"
-  ],
-  [
-    10603,
-    10603,
-    false,
-    106,
-    1,
-    "",
-    null,
-    "流石【お見事】"
-  ],
-  [
-    10604,
-    10604,
-    false,
-    106,
-    1,
-    "",
-    null,
-    "流石【すごいね】"
-  ],
-  [
-    10605,
-    10605,
-    false,
-    106,
-    1,
-    "",
-    null,
-    "流石【？】"
-  ],
-  [
-    10691,
-    10691,
-    false,
-    106,
-    2,
-    "",
-    null,
-    "流石【大　吉】"
-  ],
-  [
-    20101,
-    20101,
-    true,
-    201,
-    1,
-    "",
-    null,
-    "初魅【よろしくな】"
-  ],
-  [
-    20102,
-    20102,
-    false,
-    201,
-    1,
-    "",
-    null,
-    "初魅【ざっとこんなもんか】"
-  ],
-  [
-    20103,
-    20103,
-    false,
-    201,
-    1,
-    "",
-    null,
-    "初魅【私と共に来い】"
-  ],
-  [
-    20104,
-    20104,
-    false,
-    201,
-    1,
-    "",
-    null,
-    "初魅【なっ…！】"
-  ],
-  [
-    20105,
-    20105,
-    false,
-    201,
-    1,
-    "",
-    null,
-    "初魅【ダメだったか…】"
-  ],
-  [
-    20191,
-    20191,
-    false,
-    201,
-    2,
-    "",
-    null,
-    "初魅【フフ…】"
-  ],
-  [
-    20201,
-    20201,
-    true,
-    202,
-    1,
-    "",
-    null,
-    "大黒【よろしく】"
-  ],
-  [
-    20202,
-    20202,
-    false,
-    202,
-    1,
-    "",
-    null,
-    "大黒【フフフ…】"
-  ],
-  [
-    20203,
-    20203,
-    false,
-    202,
-    1,
-    "",
-    null,
-    "大黒【今に見ていなさい…】"
-  ],
-  [
-    20204,
-    20204,
-    false,
-    202,
-    1,
-    "",
-    null,
-    "大黒【もう１回よ…！】"
-  ],
-  [
-    20205,
-    20205,
-    false,
-    202,
-    1,
-    "",
-    null,
-    "大黒【私だって…！】"
-  ],
-  [
-    20206,
-    20206,
-    false,
-    202,
-    1,
-    "",
-    null,
-    "大黒【許せないわね…】"
-  ],
-  [
-    20291,
-    20291,
-    false,
-    202,
-    2,
-    "",
-    null,
-    "大黒【じー…】"
-  ],
-  [
-    20301,
-    20301,
-    true,
-    203,
-    1,
-    "",
-    null,
-    "仁花子【よろしくね！】"
-  ],
-  [
-    20302,
-    20302,
-    false,
-    203,
-    1,
-    "",
-    null,
-    "仁花子【良かったよ】"
-  ],
-  [
-    20303,
-    20303,
-    false,
-    203,
-    1,
-    "",
-    null,
-    "仁花子【さすが！】"
-  ],
-  [
-    20304,
-    20304,
-    false,
-    203,
-    1,
-    "",
-    null,
-    "仁花子【そんな！？】"
-  ],
-  [
-    20305,
-    20305,
-    false,
-    203,
-    1,
-    "",
-    null,
-    "仁花子【ずーん…】"
-  ],
-  [
-    20391,
-    20391,
-    false,
-    203,
-    2,
-    "",
-    null,
-    "仁花子【うぅぅ…】"
-  ],
-  [
-    20401,
-    20401,
-    true,
-    204,
-    1,
-    "",
-    null,
-    "容【よろしく～】"
-  ],
-  [
-    20402,
-    20402,
-    false,
-    204,
-    1,
-    "",
-    null,
-    "容【またやろうね～♪】"
-  ],
-  [
-    20403,
-    20403,
-    false,
-    204,
-    1,
-    "",
-    null,
-    "容【いけいけー！】"
-  ],
-  [
-    20404,
-    20404,
-    false,
-    204,
-    1,
-    "",
-    null,
-    "容【しょんぼり…】"
-  ],
-  [
-    20405,
-    20405,
-    false,
-    204,
-    1,
-    "",
-    null,
-    "容【いっくよー？】"
-  ],
-  [
-    20491,
-    20491,
-    false,
-    204,
-    2,
-    "",
-    null,
-    "容【最っ高ー！！】"
-  ],
-  [
-    20501,
-    20501,
-    true,
-    205,
-    1,
-    "",
-    null,
-    "しぐれ【よろしく～】"
-  ],
-  [
-    20502,
-    20502,
-    false,
-    205,
-    1,
-    "",
-    null,
-    "しぐれ【ふふーん♪】"
-  ],
-  [
-    20503,
-    20503,
-    false,
-    205,
-    1,
-    "",
-    null,
-    "しぐれ【やだやだぁー！】"
-  ],
-  [
-    20504,
-    20504,
-    false,
-    205,
-    1,
-    "",
-    null,
-    "しぐれ【つ、つかれた…】"
-  ],
-  [
-    20505,
-    20505,
-    false,
-    205,
-    1,
-    "",
-    null,
-    "しぐれ【ん？】"
-  ],
-  [
-    20591,
-    20591,
-    false,
-    205,
-    2,
-    "",
-    null,
-    "しぐれ【ぷ～くすくす】"
-  ],
-  [
-    30101,
-    30101,
-    true,
-    301,
-    1,
-    "",
-    null,
-    "暦【ごきげんよう】"
-  ],
-  [
-    30102,
-    30102,
-    false,
-    301,
-    1,
-    "",
-    null,
-    "暦【やりますわね】"
-  ],
-  [
-    30103,
-    30103,
-    false,
-    301,
-    1,
-    "",
-    null,
-    "暦【あぁ…素晴らしい…】"
-  ],
-  [
-    30104,
-    30104,
-    false,
-    301,
-    1,
-    "",
-    null,
-    "暦【いきますわよ！】"
-  ],
-  [
-    30105,
-    30105,
-    false,
-    301,
-    1,
-    "",
-    null,
-    "暦【あら…？】"
-  ],
-  [
-    30191,
-    30191,
-    false,
-    301,
-    2,
-    "",
-    null,
-    "暦【はぁはぁ】"
-  ],
-  [
-    30201,
-    30201,
-    true,
-    302,
-    1,
-    "",
-    null,
-    "ラモーナ【よろしくな】"
-  ],
-  [
-    30202,
-    30202,
-    false,
-    302,
-    1,
-    "",
-    null,
-    "ラモーナ【感謝する】"
-  ],
-  [
-    30203,
-    30203,
-    false,
-    302,
-    1,
-    "",
-    null,
-    "ラモーナ【共に行こう】"
-  ],
-  [
-    30204,
-    30204,
-    false,
-    302,
-    1,
-    "",
-    null,
-    "ラモーナ【なにっ！？】"
-  ],
-  [
-    30205,
-    30205,
-    false,
-    302,
-    1,
-    "",
-    null,
-    "ラモーナ【すまん…】"
-  ],
-  [
-    30291,
-    30291,
-    false,
-    302,
-    2,
-    "",
-    null,
-    "ラモーナ【任務完了】"
-  ],
-  [
-    30301,
-    30301,
-    true,
-    303,
-    1,
-    "",
-    null,
-    "雪【よろしく】"
-  ],
-  [
-    30302,
-    30302,
-    false,
-    303,
-    1,
-    "",
-    null,
-    "雪【あ、ありがとう】"
-  ],
-  [
-    30303,
-    30303,
-    false,
-    303,
-    1,
-    "",
-    null,
-    "雪【はぁ！？】"
-  ],
-  [
-    30304,
-    30304,
-    false,
-    303,
-    1,
-    "",
-    null,
-    "雪【またね】"
-  ],
-  [
-    30305,
-    30305,
-    false,
-    303,
-    1,
-    "",
-    null,
-    "雪【こらー！！】"
-  ],
-  [
-    30391,
-    30391,
-    false,
-    303,
-    2,
-    "",
-    null,
-    "雪【うぅ…】"
-  ],
-  [
-    30401,
-    30401,
-    true,
-    304,
-    1,
-    "",
-    null,
-    "リリヤ【よろしく】"
-  ],
-  [
-    30402,
-    30402,
-    false,
-    304,
-    1,
-    "",
-    null,
-    "リリヤ【じゃあね】"
-  ],
-  [
-    30403,
-    30403,
-    false,
-    304,
-    1,
-    "",
-    null,
-    "リリヤ【すごいね】"
-  ],
-  [
-    30404,
-    30404,
-    false,
-    304,
-    1,
-    "",
-    null,
-    "リリヤ【そんな…】"
-  ],
-  [
-    30405,
-    30405,
-    false,
-    304,
-    1,
-    "",
-    null,
-    "リリヤ【ありがとう】"
-  ],
-  [
-    30491,
-    30491,
-    false,
-    304,
-    2,
-    "",
-    null,
-    "リリヤ【あぁ…気持ちいい…】"
-  ],
-  [
-    30501,
-    30501,
-    true,
-    305,
-    1,
-    "",
-    null,
-    "緋花里【はいたい！】"
-  ],
-  [
-    30502,
-    30502,
-    false,
-    305,
-    1,
-    "",
-    null,
-    "緋花里【ありがとうね】"
-  ],
-  [
-    30503,
-    30503,
-    false,
-    305,
-    1,
-    "",
-    null,
-    "緋花里【なんくるないさ～】"
-  ],
-  [
-    30504,
-    30504,
-    false,
-    305,
-    1,
-    "",
-    null,
-    "緋花里【す、すごい…！】"
-  ],
-  [
-    30505,
-    30505,
-    false,
-    305,
-    1,
-    "",
-    null,
-    "緋花里【ドキドキ…！】"
-  ],
-  [
-    30591,
-    30591,
-    false,
-    305,
-    2,
-    "",
-    null,
-    "緋花里【まだやれるさ…！】"
-  ],
-  [
-    40101,
-    40101,
-    true,
-    401,
-    1,
-    "",
-    null,
-    "いろは【よろしくお願いします】"
-  ],
-  [
-    40102,
-    40102,
-    false,
-    401,
-    1,
-    "",
-    null,
-    "いろは【がんばりましょう！】"
-  ],
-  [
-    40103,
-    40103,
-    false,
-    401,
-    1,
-    "",
-    null,
-    "いろは【好きですっ】"
-  ],
-  [
-    40104,
-    40104,
-    false,
-    401,
-    1,
-    "",
-    null,
-    "いろは【ありがとうございます】"
-  ],
-  [
-    40105,
-    40105,
-    false,
-    401,
-    1,
-    "",
-    null,
-    "いろは【すごいです！】"
-  ],
-  [
-    40191,
-    40191,
-    false,
-    401,
-    2,
-    "",
-    null,
-    "いろは【やってくれるんですか！？】"
-  ],
-  [
-    40201,
-    40201,
-    true,
-    402,
-    1,
-    "",
-    null,
-    "美兎【よろしくね…】"
-  ],
-  [
-    40202,
-    40202,
-    false,
-    402,
-    1,
-    "",
-    null,
-    "美兎【す、すごいね】"
-  ],
-  [
-    40203,
-    40203,
-    false,
-    402,
-    1,
-    "",
-    null,
-    "美兎【ドキドキ…】"
-  ],
-  [
-    40204,
-    40204,
-    false,
-    402,
-    1,
-    "",
-    null,
-    "美兎【え…】"
-  ],
-  [
-    40205,
-    40205,
-    false,
-    402,
-    1,
-    "",
-    null,
-    "美兎【一緒に…どう…？】"
-  ],
-  [
-    40291,
-    40291,
-    false,
-    402,
-    2,
-    "",
-    null,
-    "美兎【す、、、好きです！】"
-  ],
-  [
-    40301,
-    40301,
-    true,
-    403,
-    1,
-    "",
-    null,
-    "カミラ【よろ〜！】"
-  ],
-  [
-    40302,
-    40302,
-    false,
-    403,
-    1,
-    "",
-    null,
-    "カミラ【おつ〜！】"
-  ],
-  [
-    40303,
-    40303,
-    false,
-    403,
-    1,
-    "",
-    null,
-    "カミラ【ガチ神！】"
-  ],
-  [
-    40304,
-    40304,
-    false,
-    403,
-    1,
-    "",
-    null,
-    "カミラ【ごめん！】"
-  ],
-  [
-    40305,
-    40305,
-    false,
-    403,
-    1,
-    "",
-    null,
-    "カミラ【やるねー！】"
-  ],
-  [
-    40391,
-    40391,
-    false,
-    403,
-    2,
-    "",
-    null,
-    "カミラ【大慶至極！】"
-  ],
-  [
-    40401,
-    40401,
-    true,
-    404,
-    1,
-    "",
-    null,
-    "蕾【…よろしく】"
-  ],
-  [
-    40402,
-    40402,
-    false,
-    404,
-    1,
-    "",
-    null,
-    "蕾【眠りにつこう】"
-  ],
-  [
-    40403,
-    40403,
-    false,
-    404,
-    1,
-    "",
-    null,
-    "蕾【晩餐といこう】"
-  ],
-  [
-    40404,
-    40404,
-    false,
-    404,
-    1,
-    "",
-    null,
-    "蕾【正気？】"
-  ],
-  [
-    40405,
-    40405,
-    false,
-    404,
-    1,
-    "",
-    null,
-    "蕾【行くぞ、眷属よ】"
-  ],
-  [
-    40491,
-    40491,
-    false,
-    404,
-    2,
-    "",
-    null,
-    "蕾【占ってあげる】"
-  ],
-  [
-    40501,
-    40501,
-    true,
-    405,
-    1,
-    "",
-    null,
-    "叶羽【よろしくー】"
-  ],
-  [
-    40502,
-    40502,
-    false,
-    405,
-    1,
-    "",
-    null,
-    "叶羽【やるじゃん】"
-  ],
-  [
-    40503,
-    40503,
-    false,
-    405,
-    1,
-    "",
-    null,
-    "叶羽【無理無理無理〜！】"
-  ],
-  [
-    40504,
-    40504,
-    false,
-    405,
-    1,
-    "",
-    null,
-    "叶羽【へー】"
-  ],
-  [
-    40505,
-    40505,
-    false,
-    405,
-    1,
-    "",
-    null,
-    "叶羽【頑張れるわよね？】"
-  ],
-  [
-    40506,
-    40506,
-    false,
-    405,
-    1,
-    "",
-    null,
-    "叶羽【完・敗】"
-  ],
-  [
-    40591,
-    40591,
-    false,
-    405,
-    2,
-    "",
-    null,
-    "叶羽【ZZZ…】"
-  ]
+  {
+    "Id": 10101,
+    "Order": 10101,
+    "IsDefault": true,
+    "CharacterBaseMasterId": 101,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "ここな【よろしくね！】"
+  },
+  {
+    "Id": 10102,
+    "Order": 10102,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 101,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "ここな【みんなお疲れさま！】"
+  },
+  {
+    "Id": 10103,
+    "Order": 10103,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 101,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "ここな【大成功だね！】"
+  },
+  {
+    "Id": 10104,
+    "Order": 10104,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 101,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "ここな【ごめんなさい】"
+  },
+  {
+    "Id": 10105,
+    "Order": 10105,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 101,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "ここな【すごい…！】"
+  },
+  {
+    "Id": 10191,
+    "Order": 10191,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 101,
+    "Type": 2,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "ここな【私が守るよ】"
+  },
+  {
+    "Id": 10201,
+    "Order": 10201,
+    "IsDefault": true,
+    "CharacterBaseMasterId": 102,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "静香【よろしく】"
+  },
+  {
+    "Id": 10202,
+    "Order": 10202,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 102,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "静香【よく頑張ったわね】"
+  },
+  {
+    "Id": 10203,
+    "Order": 10203,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 102,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "静香【私と一緒に行こう】"
+  },
+  {
+    "Id": 10204,
+    "Order": 10204,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 102,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "静香【私たちならできる】"
+  },
+  {
+    "Id": 10205,
+    "Order": 10205,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 102,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "静香【ごくり…】"
+  },
+  {
+    "Id": 10291,
+    "Order": 10291,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 102,
+    "Type": 2,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "静香【そろそろ休んだら？】"
+  },
+  {
+    "Id": 10301,
+    "Order": 10301,
+    "IsDefault": true,
+    "CharacterBaseMasterId": 103,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "カトリナ【…よろしく】"
+  },
+  {
+    "Id": 10302,
+    "Order": 10302,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 103,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "カトリナ【ご…ごめんなさい】"
+  },
+  {
+    "Id": 10303,
+    "Order": 10303,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 103,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "カトリナ【なんてこと…】"
+  },
+  {
+    "Id": 10304,
+    "Order": 10304,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 103,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "カトリナ【正々堂々と勝負よ！】"
+  },
+  {
+    "Id": 10305,
+    "Order": 10305,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 103,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "カトリナ【はっ!?】"
+  },
+  {
+    "Id": 10381,
+    "Order": 10381,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 103,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "カトリナ【負けてられないわね…】"
+  },
+  {
+    "Id": 10391,
+    "Order": 10391,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 103,
+    "Type": 2,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "カトリナ【超集中！！】"
+  },
+  {
+    "Id": 10401,
+    "Order": 10401,
+    "IsDefault": true,
+    "CharacterBaseMasterId": 104,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "新妻【よろしくお願いします】"
+  },
+  {
+    "Id": 10402,
+    "Order": 10402,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 104,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "新妻【お疲れさまでした】"
+  },
+  {
+    "Id": 10403,
+    "Order": 10403,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 104,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "新妻【素晴らしいですね】"
+  },
+  {
+    "Id": 10404,
+    "Order": 10404,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 104,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "新妻【気にしないでください】"
+  },
+  {
+    "Id": 10405,
+    "Order": 10405,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 104,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "新妻【あれ？】"
+  },
+  {
+    "Id": 10491,
+    "Order": 10491,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 104,
+    "Type": 2,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "新妻【よしよし】"
+  },
+  {
+    "Id": 10501,
+    "Order": 10501,
+    "IsDefault": true,
+    "CharacterBaseMasterId": 105,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "ぱんだ【よろしくねっ☆】"
+  },
+  {
+    "Id": 10502,
+    "Order": 10502,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 105,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "ぱんだ【やるじゃん】"
+  },
+  {
+    "Id": 10503,
+    "Order": 10503,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 105,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "ぱんだ【準備バッチリ！】"
+  },
+  {
+    "Id": 10504,
+    "Order": 10504,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 105,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "ぱんだ【はぁっ!?】"
+  },
+  {
+    "Id": 10505,
+    "Order": 10505,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 105,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "ぱんだ【ごめん！】"
+  },
+  {
+    "Id": 10591,
+    "Order": 10591,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 105,
+    "Type": 2,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "ぱんだ【今日もかわいいな！】"
+  },
+  {
+    "Id": 10601,
+    "Order": 10601,
+    "IsDefault": true,
+    "CharacterBaseMasterId": 106,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "流石【よろしくね】"
+  },
+  {
+    "Id": 10602,
+    "Order": 10602,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 106,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "流石【キュンときたね】"
+  },
+  {
+    "Id": 10603,
+    "Order": 10603,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 106,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "流石【お見事】"
+  },
+  {
+    "Id": 10604,
+    "Order": 10604,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 106,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "流石【すごいね】"
+  },
+  {
+    "Id": 10605,
+    "Order": 10605,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 106,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "流石【？】"
+  },
+  {
+    "Id": 10691,
+    "Order": 10691,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 106,
+    "Type": 2,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "流石【大　吉】"
+  },
+  {
+    "Id": 20101,
+    "Order": 20101,
+    "IsDefault": true,
+    "CharacterBaseMasterId": 201,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "初魅【よろしくな】"
+  },
+  {
+    "Id": 20102,
+    "Order": 20102,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 201,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "初魅【ざっとこんなもんか】"
+  },
+  {
+    "Id": 20103,
+    "Order": 20103,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 201,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "初魅【私と共に来い】"
+  },
+  {
+    "Id": 20104,
+    "Order": 20104,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 201,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "初魅【なっ…！】"
+  },
+  {
+    "Id": 20105,
+    "Order": 20105,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 201,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "初魅【ダメだったか…】"
+  },
+  {
+    "Id": 20191,
+    "Order": 20191,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 201,
+    "Type": 2,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "初魅【フフ…】"
+  },
+  {
+    "Id": 20201,
+    "Order": 20201,
+    "IsDefault": true,
+    "CharacterBaseMasterId": 202,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "大黒【よろしく】"
+  },
+  {
+    "Id": 20202,
+    "Order": 20202,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 202,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "大黒【フフフ…】"
+  },
+  {
+    "Id": 20203,
+    "Order": 20203,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 202,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "大黒【今に見ていなさい…】"
+  },
+  {
+    "Id": 20204,
+    "Order": 20204,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 202,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "大黒【もう１回よ…！】"
+  },
+  {
+    "Id": 20205,
+    "Order": 20205,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 202,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "大黒【私だって…！】"
+  },
+  {
+    "Id": 20206,
+    "Order": 20206,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 202,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "大黒【許せないわね…】"
+  },
+  {
+    "Id": 20291,
+    "Order": 20291,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 202,
+    "Type": 2,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "大黒【じー…】"
+  },
+  {
+    "Id": 20301,
+    "Order": 20301,
+    "IsDefault": true,
+    "CharacterBaseMasterId": 203,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "仁花子【よろしくね！】"
+  },
+  {
+    "Id": 20302,
+    "Order": 20302,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 203,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "仁花子【良かったよ】"
+  },
+  {
+    "Id": 20303,
+    "Order": 20303,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 203,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "仁花子【さすが！】"
+  },
+  {
+    "Id": 20304,
+    "Order": 20304,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 203,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "仁花子【そんな！？】"
+  },
+  {
+    "Id": 20305,
+    "Order": 20305,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 203,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "仁花子【ずーん…】"
+  },
+  {
+    "Id": 20391,
+    "Order": 20391,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 203,
+    "Type": 2,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "仁花子【うぅぅ…】"
+  },
+  {
+    "Id": 20401,
+    "Order": 20401,
+    "IsDefault": true,
+    "CharacterBaseMasterId": 204,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "容【よろしく～】"
+  },
+  {
+    "Id": 20402,
+    "Order": 20402,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 204,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "容【またやろうね～♪】"
+  },
+  {
+    "Id": 20403,
+    "Order": 20403,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 204,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "容【いけいけー！】"
+  },
+  {
+    "Id": 20404,
+    "Order": 20404,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 204,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "容【しょんぼり…】"
+  },
+  {
+    "Id": 20405,
+    "Order": 20405,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 204,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "容【いっくよー？】"
+  },
+  {
+    "Id": 20491,
+    "Order": 20491,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 204,
+    "Type": 2,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "容【最っ高ー！！】"
+  },
+  {
+    "Id": 20501,
+    "Order": 20501,
+    "IsDefault": true,
+    "CharacterBaseMasterId": 205,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "しぐれ【よろしく～】"
+  },
+  {
+    "Id": 20502,
+    "Order": 20502,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 205,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "しぐれ【ふふーん♪】"
+  },
+  {
+    "Id": 20503,
+    "Order": 20503,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 205,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "しぐれ【やだやだぁー！】"
+  },
+  {
+    "Id": 20504,
+    "Order": 20504,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 205,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "しぐれ【つ、つかれた…】"
+  },
+  {
+    "Id": 20505,
+    "Order": 20505,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 205,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "しぐれ【ん？】"
+  },
+  {
+    "Id": 20591,
+    "Order": 20591,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 205,
+    "Type": 2,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "しぐれ【ぷ～くすくす】"
+  },
+  {
+    "Id": 30101,
+    "Order": 30101,
+    "IsDefault": true,
+    "CharacterBaseMasterId": 301,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "暦【ごきげんよう】"
+  },
+  {
+    "Id": 30102,
+    "Order": 30102,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 301,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "暦【やりますわね】"
+  },
+  {
+    "Id": 30103,
+    "Order": 30103,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 301,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "暦【あぁ…素晴らしい…】"
+  },
+  {
+    "Id": 30104,
+    "Order": 30104,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 301,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "暦【いきますわよ！】"
+  },
+  {
+    "Id": 30105,
+    "Order": 30105,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 301,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "暦【あら…？】"
+  },
+  {
+    "Id": 30191,
+    "Order": 30191,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 301,
+    "Type": 2,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "暦【はぁはぁ】"
+  },
+  {
+    "Id": 30201,
+    "Order": 30201,
+    "IsDefault": true,
+    "CharacterBaseMasterId": 302,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "ラモーナ【よろしくな】"
+  },
+  {
+    "Id": 30202,
+    "Order": 30202,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 302,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "ラモーナ【感謝する】"
+  },
+  {
+    "Id": 30203,
+    "Order": 30203,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 302,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "ラモーナ【共に行こう】"
+  },
+  {
+    "Id": 30204,
+    "Order": 30204,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 302,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "ラモーナ【なにっ！？】"
+  },
+  {
+    "Id": 30205,
+    "Order": 30205,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 302,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "ラモーナ【すまん…】"
+  },
+  {
+    "Id": 30291,
+    "Order": 30291,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 302,
+    "Type": 2,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "ラモーナ【任務完了】"
+  },
+  {
+    "Id": 30301,
+    "Order": 30301,
+    "IsDefault": true,
+    "CharacterBaseMasterId": 303,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "雪【よろしく】"
+  },
+  {
+    "Id": 30302,
+    "Order": 30302,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 303,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "雪【あ、ありがとう】"
+  },
+  {
+    "Id": 30303,
+    "Order": 30303,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 303,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "雪【はぁ！？】"
+  },
+  {
+    "Id": 30304,
+    "Order": 30304,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 303,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "雪【またね】"
+  },
+  {
+    "Id": 30305,
+    "Order": 30305,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 303,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "雪【こらー！！】"
+  },
+  {
+    "Id": 30391,
+    "Order": 30391,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 303,
+    "Type": 2,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "雪【うぅ…】"
+  },
+  {
+    "Id": 30401,
+    "Order": 30401,
+    "IsDefault": true,
+    "CharacterBaseMasterId": 304,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "リリヤ【よろしく】"
+  },
+  {
+    "Id": 30402,
+    "Order": 30402,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 304,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "リリヤ【じゃあね】"
+  },
+  {
+    "Id": 30403,
+    "Order": 30403,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 304,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "リリヤ【すごいね】"
+  },
+  {
+    "Id": 30404,
+    "Order": 30404,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 304,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "リリヤ【そんな…】"
+  },
+  {
+    "Id": 30405,
+    "Order": 30405,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 304,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "リリヤ【ありがとう】"
+  },
+  {
+    "Id": 30491,
+    "Order": 30491,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 304,
+    "Type": 2,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "リリヤ【あぁ…気持ちいい…】"
+  },
+  {
+    "Id": 30501,
+    "Order": 30501,
+    "IsDefault": true,
+    "CharacterBaseMasterId": 305,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "緋花里【はいたい！】"
+  },
+  {
+    "Id": 30502,
+    "Order": 30502,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 305,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "緋花里【ありがとうね】"
+  },
+  {
+    "Id": 30503,
+    "Order": 30503,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 305,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "緋花里【なんくるないさ～】"
+  },
+  {
+    "Id": 30504,
+    "Order": 30504,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 305,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "緋花里【す、すごい…！】"
+  },
+  {
+    "Id": 30505,
+    "Order": 30505,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 305,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "緋花里【ドキドキ…！】"
+  },
+  {
+    "Id": 30591,
+    "Order": 30591,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 305,
+    "Type": 2,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "緋花里【まだやれるさ…！】"
+  },
+  {
+    "Id": 40101,
+    "Order": 40101,
+    "IsDefault": true,
+    "CharacterBaseMasterId": 401,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "いろは【よろしくお願いします】"
+  },
+  {
+    "Id": 40102,
+    "Order": 40102,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 401,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "いろは【がんばりましょう！】"
+  },
+  {
+    "Id": 40103,
+    "Order": 40103,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 401,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "いろは【好きですっ】"
+  },
+  {
+    "Id": 40104,
+    "Order": 40104,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 401,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "いろは【ありがとうございます】"
+  },
+  {
+    "Id": 40105,
+    "Order": 40105,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 401,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "いろは【すごいです！】"
+  },
+  {
+    "Id": 40191,
+    "Order": 40191,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 401,
+    "Type": 2,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "いろは【やってくれるんですか！？】"
+  },
+  {
+    "Id": 40201,
+    "Order": 40201,
+    "IsDefault": true,
+    "CharacterBaseMasterId": 402,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "美兎【よろしくね…】"
+  },
+  {
+    "Id": 40202,
+    "Order": 40202,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 402,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "美兎【す、すごいね】"
+  },
+  {
+    "Id": 40203,
+    "Order": 40203,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 402,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "美兎【ドキドキ…】"
+  },
+  {
+    "Id": 40204,
+    "Order": 40204,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 402,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "美兎【え…】"
+  },
+  {
+    "Id": 40205,
+    "Order": 40205,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 402,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "美兎【一緒に…どう…？】"
+  },
+  {
+    "Id": 40291,
+    "Order": 40291,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 402,
+    "Type": 2,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "美兎【す、、、好きです！】"
+  },
+  {
+    "Id": 40301,
+    "Order": 40301,
+    "IsDefault": true,
+    "CharacterBaseMasterId": 403,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "カミラ【よろ〜！】"
+  },
+  {
+    "Id": 40302,
+    "Order": 40302,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 403,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "カミラ【おつ〜！】"
+  },
+  {
+    "Id": 40303,
+    "Order": 40303,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 403,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "カミラ【ガチ神！】"
+  },
+  {
+    "Id": 40304,
+    "Order": 40304,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 403,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "カミラ【ごめん！】"
+  },
+  {
+    "Id": 40305,
+    "Order": 40305,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 403,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "カミラ【やるねー！】"
+  },
+  {
+    "Id": 40391,
+    "Order": 40391,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 403,
+    "Type": 2,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "カミラ【大慶至極！】"
+  },
+  {
+    "Id": 40401,
+    "Order": 40401,
+    "IsDefault": true,
+    "CharacterBaseMasterId": 404,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "蕾【…よろしく】"
+  },
+  {
+    "Id": 40402,
+    "Order": 40402,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 404,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "蕾【眠りにつこう】"
+  },
+  {
+    "Id": 40403,
+    "Order": 40403,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 404,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "蕾【晩餐といこう】"
+  },
+  {
+    "Id": 40404,
+    "Order": 40404,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 404,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "蕾【正気？】"
+  },
+  {
+    "Id": 40405,
+    "Order": 40405,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 404,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "蕾【行くぞ、眷属よ】"
+  },
+  {
+    "Id": 40491,
+    "Order": 40491,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 404,
+    "Type": 2,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "蕾【占ってあげる】"
+  },
+  {
+    "Id": 40501,
+    "Order": 40501,
+    "IsDefault": true,
+    "CharacterBaseMasterId": 405,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "叶羽【よろしくー】"
+  },
+  {
+    "Id": 40502,
+    "Order": 40502,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 405,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "叶羽【やるじゃん】"
+  },
+  {
+    "Id": 40503,
+    "Order": 40503,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 405,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "叶羽【無理無理無理〜！】"
+  },
+  {
+    "Id": 40504,
+    "Order": 40504,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 405,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "叶羽【へー】"
+  },
+  {
+    "Id": 40505,
+    "Order": 40505,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 405,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "叶羽【頑張れるわよね？】"
+  },
+  {
+    "Id": 40506,
+    "Order": 40506,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 405,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "叶羽【完・敗】"
+  },
+  {
+    "Id": 40591,
+    "Order": 40591,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 405,
+    "Type": 2,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "叶羽【ZZZ…】"
+  }
 ]

@@ -1,26 +1,26 @@
 [
-  [
-    2000101,
-    20001,
-    2,
-    201
-  ],
-  [
-    2000102,
-    20001,
-    2,
-    202
-  ],
-  [
-    2000103,
-    20001,
-    2,
-    204
-  ],
-  [
-    2000104,
-    20001,
-    2,
-    205
-  ]
+  {
+    "Id": 2000101,
+    "StoryEventMasterId": 20001,
+    "BonusTargetType": 2,
+    "BonusTargetId": 201
+  },
+  {
+    "Id": 2000102,
+    "StoryEventMasterId": 20001,
+    "BonusTargetType": 2,
+    "BonusTargetId": 202
+  },
+  {
+    "Id": 2000103,
+    "StoryEventMasterId": 20001,
+    "BonusTargetType": 2,
+    "BonusTargetId": 204
+  },
+  {
+    "Id": 2000104,
+    "StoryEventMasterId": 20001,
+    "BonusTargetType": 2,
+    "BonusTargetId": 205
+  }
 ]

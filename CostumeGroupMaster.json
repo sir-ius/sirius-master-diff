@@ -1,2071 +1,817 @@
 [
-  [
-    1,
-    "制服",
-    null,
-    1,
-    [
+  {
+    "Id": 1,
+    "Name": "制服",
+    "Description": null,
+    "Order": 1,
+    "CostumeMasterIds": [
       11
     ],
-    101,
-    null,
-    false,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    2,
-    "制服",
-    null,
-    2,
-    [
+    "CostumeWearableCharacterGroupMasterId": 101,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 2,
+    "Name": "制服",
+    "Description": null,
+    "Order": 2,
+    "CostumeMasterIds": [
       21
     ],
-    102,
-    null,
-    false,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    3,
-    "制服",
-    null,
-    3,
-    [
+    "CostumeWearableCharacterGroupMasterId": 102,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 3,
+    "Name": "制服",
+    "Description": null,
+    "Order": 3,
+    "CostumeMasterIds": [
       31
     ],
-    103,
-    null,
-    false,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    4,
-    "制服",
-    null,
-    4,
-    [
+    "CostumeWearableCharacterGroupMasterId": 103,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 4,
+    "Name": "制服",
+    "Description": null,
+    "Order": 4,
+    "CostumeMasterIds": [
       41
     ],
-    105,
-    null,
-    false,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    5,
-    "制服",
-    null,
-    5,
-    [
+    "CostumeWearableCharacterGroupMasterId": 105,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 5,
+    "Name": "制服",
+    "Description": null,
+    "Order": 5,
+    "CostumeMasterIds": [
       51
     ],
-    106,
-    null,
-    false,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    6,
-    "制服",
-    null,
-    6,
-    [
+    "CostumeWearableCharacterGroupMasterId": 106,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 6,
+    "Name": "制服",
+    "Description": null,
+    "Order": 6,
+    "CostumeMasterIds": [
       61
     ],
-    202,
-    null,
-    false,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    7,
-    "制服",
-    null,
-    7,
-    [
+    "CostumeWearableCharacterGroupMasterId": 202,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 7,
+    "Name": "制服",
+    "Description": null,
+    "Order": 7,
+    "CostumeMasterIds": [
       71
     ],
-    203,
-    null,
-    false,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    8,
-    "制服",
-    null,
-    8,
-    [
+    "CostumeWearableCharacterGroupMasterId": 203,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 8,
+    "Name": "制服",
+    "Description": null,
+    "Order": 8,
+    "CostumeMasterIds": [
       81
     ],
-    204,
-    null,
-    false,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    9,
-    "制服",
-    null,
-    9,
-    [
+    "CostumeWearableCharacterGroupMasterId": 204,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 9,
+    "Name": "制服",
+    "Description": null,
+    "Order": 9,
+    "CostumeMasterIds": [
       91
     ],
-    301,
-    null,
-    false,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    10,
-    "制服",
-    null,
-    10,
-    [
+    "CostumeWearableCharacterGroupMasterId": 301,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 10,
+    "Name": "制服",
+    "Description": null,
+    "Order": 10,
+    "CostumeMasterIds": [
       101
     ],
-    302,
-    null,
-    false,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    11,
-    "制服",
-    null,
-    11,
-    [
+    "CostumeWearableCharacterGroupMasterId": 302,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 11,
+    "Name": "制服",
+    "Description": null,
+    "Order": 11,
+    "CostumeMasterIds": [
       111
     ],
-    303,
-    null,
-    false,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    12,
-    "制服",
-    null,
-    12,
-    [
+    "CostumeWearableCharacterGroupMasterId": 303,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 12,
+    "Name": "制服",
+    "Description": null,
+    "Order": 12,
+    "CostumeMasterIds": [
       121
     ],
-    304,
-    null,
-    false,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    13,
-    "制服",
-    null,
-    13,
-    [
+    "CostumeWearableCharacterGroupMasterId": 304,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 13,
+    "Name": "制服",
+    "Description": null,
+    "Order": 13,
+    "CostumeMasterIds": [
       131
     ],
-    305,
-    null,
-    false,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    14,
-    "制服",
-    null,
-    14,
-    [
+    "CostumeWearableCharacterGroupMasterId": 305,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 14,
+    "Name": "制服",
+    "Description": null,
+    "Order": 14,
+    "CostumeMasterIds": [
       141
     ],
-    401,
-    null,
-    false,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    15,
-    "制服",
-    null,
-    15,
-    [
+    "CostumeWearableCharacterGroupMasterId": 401,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 15,
+    "Name": "制服",
+    "Description": null,
+    "Order": 15,
+    "CostumeMasterIds": [
       151
     ],
-    402,
-    null,
-    false,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    16,
-    "制服",
-    null,
-    16,
-    [
+    "CostumeWearableCharacterGroupMasterId": 402,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 16,
+    "Name": "制服",
+    "Description": null,
+    "Order": 16,
+    "CostumeMasterIds": [
       161
     ],
-    403,
-    null,
-    false,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    17,
-    "制服",
-    null,
-    17,
-    [
+    "CostumeWearableCharacterGroupMasterId": 403,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 17,
+    "Name": "制服",
+    "Description": null,
+    "Order": 17,
+    "CostumeMasterIds": [
       171
     ],
-    404,
-    null,
-    false,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    18,
-    "私服",
-    null,
-    18,
-    [
+    "CostumeWearableCharacterGroupMasterId": 404,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 18,
+    "Name": "私服",
+    "Description": null,
+    "Order": 18,
+    "CostumeMasterIds": [
       181
     ],
-    101,
-    null,
-    false,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    19,
-    "私服",
-    null,
-    19,
-    [
+    "CostumeWearableCharacterGroupMasterId": 101,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 19,
+    "Name": "私服",
+    "Description": null,
+    "Order": 19,
+    "CostumeMasterIds": [
       191
     ],
-    102,
-    null,
-    false,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    20,
-    "私服",
-    null,
-    20,
-    [
+    "CostumeWearableCharacterGroupMasterId": 102,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 20,
+    "Name": "私服",
+    "Description": null,
+    "Order": 20,
+    "CostumeMasterIds": [
       201
     ],
-    103,
-    null,
-    false,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    21,
-    "私服",
-    null,
-    21,
-    [
+    "CostumeWearableCharacterGroupMasterId": 103,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 21,
+    "Name": "私服",
+    "Description": null,
+    "Order": 21,
+    "CostumeMasterIds": [
       211
     ],
-    104,
-    null,
-    false,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    22,
-    "私服",
-    null,
-    22,
-    [
+    "CostumeWearableCharacterGroupMasterId": 104,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 22,
+    "Name": "私服",
+    "Description": null,
+    "Order": 22,
+    "CostumeMasterIds": [
       221
     ],
-    105,
-    null,
-    false,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    23,
-    "私服",
-    null,
-    23,
-    [
+    "CostumeWearableCharacterGroupMasterId": 105,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 23,
+    "Name": "私服",
+    "Description": null,
+    "Order": 23,
+    "CostumeMasterIds": [
       231
     ],
-    106,
-    null,
-    false,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    24,
-    "私服",
-    null,
-    24,
-    [
+    "CostumeWearableCharacterGroupMasterId": 106,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 24,
+    "Name": "私服",
+    "Description": null,
+    "Order": 24,
+    "CostumeMasterIds": [
       241
     ],
-    201,
-    null,
-    false,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    25,
-    "私服",
-    null,
-    25,
-    [
+    "CostumeWearableCharacterGroupMasterId": 201,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 25,
+    "Name": "私服",
+    "Description": null,
+    "Order": 25,
+    "CostumeMasterIds": [
       251
     ],
-    202,
-    null,
-    false,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    26,
-    "私服",
-    null,
-    26,
-    [
+    "CostumeWearableCharacterGroupMasterId": 202,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 26,
+    "Name": "私服",
+    "Description": null,
+    "Order": 26,
+    "CostumeMasterIds": [
       261
     ],
-    203,
-    null,
-    false,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    27,
-    "私服",
-    null,
-    27,
-    [
+    "CostumeWearableCharacterGroupMasterId": 203,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 27,
+    "Name": "私服",
+    "Description": null,
+    "Order": 27,
+    "CostumeMasterIds": [
       271
     ],
-    204,
-    null,
-    false,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    28,
-    "私服",
-    null,
-    28,
-    [
+    "CostumeWearableCharacterGroupMasterId": 204,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 28,
+    "Name": "私服",
+    "Description": null,
+    "Order": 28,
+    "CostumeMasterIds": [
       281
     ],
-    205,
-    null,
-    false,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    29,
-    "私服",
-    null,
-    29,
-    [
+    "CostumeWearableCharacterGroupMasterId": 205,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 29,
+    "Name": "私服",
+    "Description": null,
+    "Order": 29,
+    "CostumeMasterIds": [
       291
     ],
-    301,
-    null,
-    false,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    30,
-    "私服",
-    null,
-    30,
-    [
+    "CostumeWearableCharacterGroupMasterId": 301,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 30,
+    "Name": "私服",
+    "Description": null,
+    "Order": 30,
+    "CostumeMasterIds": [
       301
     ],
-    302,
-    null,
-    false,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    31,
-    "私服",
-    null,
-    31,
-    [
+    "CostumeWearableCharacterGroupMasterId": 302,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 31,
+    "Name": "私服",
+    "Description": null,
+    "Order": 31,
+    "CostumeMasterIds": [
       311
     ],
-    303,
-    null,
-    false,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    32,
-    "私服",
-    null,
-    32,
-    [
+    "CostumeWearableCharacterGroupMasterId": 303,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 32,
+    "Name": "私服",
+    "Description": null,
+    "Order": 32,
+    "CostumeMasterIds": [
       321
     ],
-    304,
-    null,
-    false,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    33,
-    "私服",
-    null,
-    33,
-    [
+    "CostumeWearableCharacterGroupMasterId": 304,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 33,
+    "Name": "私服",
+    "Description": null,
+    "Order": 33,
+    "CostumeMasterIds": [
       331
     ],
-    305,
-    null,
-    false,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    34,
-    "私服",
-    null,
-    34,
-    [
+    "CostumeWearableCharacterGroupMasterId": 305,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 34,
+    "Name": "私服",
+    "Description": null,
+    "Order": 34,
+    "CostumeMasterIds": [
       341
     ],
-    401,
-    null,
-    false,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    35,
-    "私服",
-    null,
-    35,
-    [
+    "CostumeWearableCharacterGroupMasterId": 401,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 35,
+    "Name": "私服",
+    "Description": null,
+    "Order": 35,
+    "CostumeMasterIds": [
       351
     ],
-    402,
-    null,
-    false,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    36,
-    "私服",
-    null,
-    36,
-    [
+    "CostumeWearableCharacterGroupMasterId": 402,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 36,
+    "Name": "私服",
+    "Description": null,
+    "Order": 36,
+    "CostumeMasterIds": [
       361
     ],
-    403,
-    null,
-    false,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    37,
-    "私服",
-    null,
-    37,
-    [
+    "CostumeWearableCharacterGroupMasterId": 403,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 37,
+    "Name": "私服",
+    "Description": null,
+    "Order": 37,
+    "CostumeMasterIds": [
       371
     ],
-    404,
-    null,
-    false,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    38,
-    "私服",
-    null,
-    38,
-    [
+    "CostumeWearableCharacterGroupMasterId": 404,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 38,
+    "Name": "私服",
+    "Description": null,
+    "Order": 38,
+    "CostumeMasterIds": [
       381
     ],
-    405,
-    null,
-    false,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    41,
-    "シリウスの輝きのように",
-    null,
-    41,
-    [
+    "CostumeWearableCharacterGroupMasterId": 405,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 41,
+    "Name": "シリウスの輝きのように",
+    "Description": null,
+    "Order": 41,
+    "CostumeMasterIds": [
       411
     ],
-    100,
-    null,
-    false,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    42,
-    "Faith in Expression",
-    null,
-    42,
-    [
+    "CostumeWearableCharacterGroupMasterId": 100,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 42,
+    "Name": "Faith in Expression",
+    "Description": null,
+    "Order": 42,
+    "CostumeMasterIds": [
       421
     ],
-    200,
-    null,
-    false,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    43,
-    "プラネタリウム・レヴュー",
-    null,
-    43,
-    [
+    "CostumeWearableCharacterGroupMasterId": 200,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 43,
+    "Name": "プラネタリウム・レヴュー",
+    "Description": null,
+    "Order": 43,
+    "CostumeMasterIds": [
       431
     ],
-    300,
-    null,
-    false,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    44,
-    "デアエ・エクス・マキナ！",
-    null,
-    44,
-    [
+    "CostumeWearableCharacterGroupMasterId": 300,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 44,
+    "Name": "デアエ・エクス・マキナ！",
+    "Description": null,
+    "Order": 44,
+    "CostumeMasterIds": [
       441
     ],
-    400,
-    null,
-    false,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    100,
-    "ALICE THE GAMBLER",
-    null,
-    100,
-    [
+    "CostumeWearableCharacterGroupMasterId": 400,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 100,
+    "Name": "ALICE THE GAMBLER",
+    "Description": null,
+    "Order": 100,
+    "CostumeMasterIds": [
       1001,
       1002,
       1003,
       1004
     ],
-    3,
-    null,
-    false,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    101,
-    "泉の落とし物",
-    null,
-    101,
-    [
+    "CostumeWearableCharacterGroupMasterId": 3,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 101,
+    "Name": "泉の落とし物",
+    "Description": null,
+    "Order": 101,
+    "CostumeMasterIds": [
       1011,
       1012,
       1013,
       1014
     ],
-    1,
-    null,
-    false,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    102,
-    "シンデレラと魔法の剣",
-    null,
-    102,
-    [
+    "CostumeWearableCharacterGroupMasterId": 1,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 102,
+    "Name": "シンデレラと魔法の剣",
+    "Description": null,
+    "Order": 102,
+    "CostumeMasterIds": [
       1021,
       1022,
       1023,
       1024
     ],
-    3,
-    null,
-    false,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    103,
-    "カルメン",
-    null,
-    103,
-    [
+    "CostumeWearableCharacterGroupMasterId": 3,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 103,
+    "Name": "カルメン",
+    "Description": null,
+    "Order": 103,
+    "CostumeMasterIds": [
       1031,
       1032
     ],
-    4,
-    null,
-    false,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    104,
-    "ブレーメンのバンド隊",
-    null,
-    104,
-    [
+    "CostumeWearableCharacterGroupMasterId": 4,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 104,
+    "Name": "ブレーメンのバンド隊",
+    "Description": null,
+    "Order": 104,
+    "CostumeMasterIds": [
       1041,
       1042
     ],
-    3,
-    null,
-    false,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    105,
-    "恋する乙女と茨の愛",
-    null,
-    105,
-    [
+    "CostumeWearableCharacterGroupMasterId": 3,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 105,
+    "Name": "恋する乙女と茨の愛",
+    "Description": null,
+    "Order": 105,
+    "CostumeMasterIds": [
       1051,
       1052
     ],
-    3,
-    null,
-    false,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    106,
-    "ネズミの恩返し",
-    null,
-    106,
-    [
+    "CostumeWearableCharacterGroupMasterId": 3,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 106,
+    "Name": "ネズミの恩返し",
+    "Description": null,
+    "Order": 106,
+    "CostumeMasterIds": [
       1061
     ],
-    2,
-    null,
-    false,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    107,
-    "引きこもりの野獣",
-    null,
-    107,
-    [
+    "CostumeWearableCharacterGroupMasterId": 2,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 107,
+    "Name": "引きこもりの野獣",
+    "Description": null,
+    "Order": 107,
+    "CostumeMasterIds": [
       1071
     ],
-    1,
-    null,
-    false,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    108,
-    "トロピカルマーメイド",
-    null,
-    108,
-    [
+    "CostumeWearableCharacterGroupMasterId": 1,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 108,
+    "Name": "トロピカルマーメイド",
+    "Description": null,
+    "Order": 108,
+    "CostumeMasterIds": [
       1081
     ],
-    100,
-    null,
-    false,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          100,
-          200,
-          145,
-          80
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    109,
-    "フラジャイルビューティー",
-    null,
-    109,
-    [
+    "CostumeWearableCharacterGroupMasterId": 100,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2023-08-01T05:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 109,
+    "Name": "フラジャイルビューティー",
+    "Description": null,
+    "Order": 109,
+    "CostumeMasterIds": [
       1091
     ],
-    200,
-    null,
-    false,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          100,
-          200,
-          145,
-          80
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    110,
-    "エレガントサマー",
-    null,
-    110,
-    [
+    "CostumeWearableCharacterGroupMasterId": 200,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2023-08-01T05:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 110,
+    "Name": "エレガントサマー",
+    "Description": null,
+    "Order": 110,
+    "CostumeMasterIds": [
       1101
     ],
-    300,
-    null,
-    false,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          100,
-          200,
-          145,
-          80
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    111,
-    "サンフラワー",
-    null,
-    111,
-    [
+    "CostumeWearableCharacterGroupMasterId": 300,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2023-08-01T05:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 111,
+    "Name": "サンフラワー",
+    "Description": null,
+    "Order": 111,
+    "CostumeMasterIds": [
       1111
     ],
-    400,
-    null,
-    false,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          100,
-          200,
-          145,
-          80
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    112,
-    "人魚姫",
-    null,
-    112,
-    [
+    "CostumeWearableCharacterGroupMasterId": 400,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2023-08-01T05:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 112,
+    "Name": "人魚姫",
+    "Description": null,
+    "Order": 112,
+    "CostumeMasterIds": [
       1121,
       1122,
       1123,
       1124
     ],
-    null,
-    null,
-    false,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          100,
-          197,
-          69,
-          144
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    113,
-    "暗き塔のラプンツェル",
-    null,
-    113,
-    [
+    "CostumeWearableCharacterGroupMasterId": null,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2023-07-29T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 113,
+    "Name": "暗き塔のラプンツェル",
+    "Description": null,
+    "Order": 113,
+    "CostumeMasterIds": [
       1131,
       1132
     ],
-    null,
-    null,
-    false,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          100,
-          199,
-          232,
-          144
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    114,
-    "暗き塔のラプンツェル",
-    null,
-    114,
-    [
+    "CostumeWearableCharacterGroupMasterId": null,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2023-07-31T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 114,
+    "Name": "暗き塔のラプンツェル",
+    "Description": null,
+    "Order": 114,
+    "CostumeMasterIds": [
       1141,
       1142
     ],
-    205,
-    null,
-    true,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          100,
-          199,
-          232,
-          144
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ]
+    "CostumeWearableCharacterGroupMasterId": 205,
+    "PerformanceGroupId": null,
+    "IsHairChange": true,
+    "DisplayStartAt": "2023-07-31T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  }
 ]

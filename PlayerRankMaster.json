@@ -1,1052 +1,902 @@
 [
-  [
-    1,
-    20,
-    200,
-    null,
-    true
-  ],
-  [
-    2,
-    50,
-    203,
-    null,
-    true
-  ],
-  [
-    3,
-    80,
-    206,
-    null,
-    true
-  ],
-  [
-    4,
-    120,
-    209,
-    null,
-    true
-  ],
-  [
-    5,
-    200,
-    212,
-    null,
-    true
-  ],
-  [
-    6,
-    250,
-    215,
-    null,
-    true
-  ],
-  [
-    7,
-    250,
-    218,
-    null,
-    true
-  ],
-  [
-    8,
-    300,
-    221,
-    null,
-    true
-  ],
-  [
-    9,
-    300,
-    224,
-    null,
-    true
-  ],
-  [
-    10,
-    400,
-    227,
-    null,
-    true
-  ],
-  [
-    11,
-    400,
-    230,
-    null,
-    true
-  ],
-  [
-    12,
-    400,
-    233,
-    null,
-    true
-  ],
-  [
-    13,
-    400,
-    236,
-    null,
-    true
-  ],
-  [
-    14,
-    400,
-    239,
-    null,
-    true
-  ],
-  [
-    15,
-    600,
-    242,
-    null,
-    true
-  ],
-  [
-    16,
-    600,
-    245,
-    null,
-    true
-  ],
-  [
-    17,
-    600,
-    248,
-    null,
-    true
-  ],
-  [
-    18,
-    600,
-    251,
-    null,
-    true
-  ],
-  [
-    19,
-    600,
-    254,
-    null,
-    true
-  ],
-  [
-    20,
-    800,
-    257,
-    null,
-    true
-  ],
-  [
-    21,
-    800,
-    260,
-    null,
-    true
-  ],
-  [
-    22,
-    800,
-    263,
-    null,
-    true
-  ],
-  [
-    23,
-    800,
-    266,
-    null,
-    true
-  ],
-  [
-    24,
-    800,
-    269,
-    null,
-    true
-  ],
-  [
-    25,
-    1000,
-    272,
-    null,
-    true
-  ],
-  [
-    26,
-    1000,
-    275,
-    null,
-    true
-  ],
-  [
-    27,
-    1000,
-    278,
-    null,
-    true
-  ],
-  [
-    28,
-    1000,
-    281,
-    null,
-    true
-  ],
-  [
-    29,
-    1000,
-    284,
-    null,
-    true
-  ],
-  [
-    30,
-    1400,
-    287,
-    null,
-    true
-  ],
-  [
-    31,
-    1400,
-    290,
-    null,
-    true
-  ],
-  [
-    32,
-    1400,
-    293,
-    null,
-    true
-  ],
-  [
-    33,
-    1400,
-    296,
-    null,
-    true
-  ],
-  [
-    34,
-    1400,
-    299,
-    null,
-    true
-  ],
-  [
-    35,
-    1800,
-    302,
-    null,
-    true
-  ],
-  [
-    36,
-    1800,
-    305,
-    null,
-    true
-  ],
-  [
-    37,
-    1800,
-    308,
-    null,
-    true
-  ],
-  [
-    38,
-    1800,
-    311,
-    null,
-    true
-  ],
-  [
-    39,
-    1800,
-    314,
-    null,
-    true
-  ],
-  [
-    40,
-    2200,
-    317,
-    null,
-    true
-  ],
-  [
-    41,
-    2200,
-    320,
-    null,
-    true
-  ],
-  [
-    42,
-    2200,
-    323,
-    null,
-    true
-  ],
-  [
-    43,
-    2200,
-    326,
-    null,
-    true
-  ],
-  [
-    44,
-    2200,
-    329,
-    null,
-    true
-  ],
-  [
-    45,
-    2600,
-    332,
-    null,
-    true
-  ],
-  [
-    46,
-    2600,
-    335,
-    null,
-    true
-  ],
-  [
-    47,
-    2600,
-    338,
-    null,
-    true
-  ],
-  [
-    48,
-    2600,
-    341,
-    null,
-    true
-  ],
-  [
-    49,
-    2600,
-    344,
-    null,
-    true
-  ],
-  [
-    50,
-    3000,
-    347,
-    null,
-    true
-  ],
-  [
-    51,
-    3000,
-    349,
-    null,
-    true
-  ],
-  [
-    52,
-    3000,
-    351,
-    null,
-    true
-  ],
-  [
-    53,
-    3000,
-    353,
-    null,
-    true
-  ],
-  [
-    54,
-    3000,
-    355,
-    null,
-    true
-  ],
-  [
-    55,
-    3500,
-    357,
-    null,
-    true
-  ],
-  [
-    56,
-    3500,
-    359,
-    null,
-    true
-  ],
-  [
-    57,
-    3500,
-    361,
-    null,
-    true
-  ],
-  [
-    58,
-    3500,
-    363,
-    null,
-    true
-  ],
-  [
-    59,
-    3500,
-    365,
-    null,
-    true
-  ],
-  [
-    60,
-    4000,
-    367,
-    null,
-    true
-  ],
-  [
-    61,
-    4000,
-    369,
-    null,
-    true
-  ],
-  [
-    62,
-    4000,
-    371,
-    null,
-    true
-  ],
-  [
-    63,
-    4000,
-    373,
-    null,
-    true
-  ],
-  [
-    64,
-    4000,
-    375,
-    null,
-    true
-  ],
-  [
-    65,
-    4500,
-    377,
-    null,
-    true
-  ],
-  [
-    66,
-    4500,
-    379,
-    null,
-    true
-  ],
-  [
-    67,
-    4500,
-    381,
-    null,
-    true
-  ],
-  [
-    68,
-    4500,
-    383,
-    null,
-    true
-  ],
-  [
-    69,
-    4500,
-    385,
-    null,
-    true
-  ],
-  [
-    70,
-    5000,
-    387,
-    null,
-    true
-  ],
-  [
-    71,
-    5000,
-    389,
-    null,
-    true
-  ],
-  [
-    72,
-    5000,
-    391,
-    null,
-    true
-  ],
-  [
-    73,
-    5000,
-    393,
-    null,
-    true
-  ],
-  [
-    74,
-    5000,
-    394,
-    null,
-    true
-  ],
-  [
-    75,
-    6000,
-    395,
-    null,
-    true
-  ],
-  [
-    76,
-    6000,
-    396,
-    null,
-    true
-  ],
-  [
-    77,
-    6000,
-    397,
-    null,
-    true
-  ],
-  [
-    78,
-    6000,
-    398,
-    null,
-    true
-  ],
-  [
-    79,
-    6000,
-    399,
-    null,
-    true
-  ],
-  [
-    80,
-    7000,
-    400,
-    null,
-    true
-  ],
-  [
-    81,
-    7000,
-    401,
-    null,
-    false
-  ],
-  [
-    82,
-    7000,
-    402,
-    null,
-    false
-  ],
-  [
-    83,
-    7000,
-    403,
-    null,
-    false
-  ],
-  [
-    84,
-    7000,
-    404,
-    null,
-    false
-  ],
-  [
-    85,
-    7000,
-    405,
-    null,
-    false
-  ],
-  [
-    86,
-    7000,
-    406,
-    null,
-    false
-  ],
-  [
-    87,
-    7000,
-    407,
-    null,
-    false
-  ],
-  [
-    88,
-    7000,
-    408,
-    null,
-    false
-  ],
-  [
-    89,
-    7000,
-    409,
-    null,
-    false
-  ],
-  [
-    90,
-    7000,
-    410,
-    null,
-    false
-  ],
-  [
-    91,
-    7000,
-    411,
-    null,
-    false
-  ],
-  [
-    92,
-    7000,
-    412,
-    null,
-    false
-  ],
-  [
-    93,
-    7000,
-    413,
-    null,
-    false
-  ],
-  [
-    94,
-    7000,
-    414,
-    null,
-    false
-  ],
-  [
-    95,
-    7000,
-    415,
-    null,
-    false
-  ],
-  [
-    96,
-    7000,
-    416,
-    null,
-    false
-  ],
-  [
-    97,
-    7000,
-    417,
-    null,
-    false
-  ],
-  [
-    98,
-    7000,
-    418,
-    null,
-    false
-  ],
-  [
-    99,
-    7000,
-    419,
-    null,
-    false
-  ],
-  [
-    100,
-    7000,
-    420,
-    null,
-    false
-  ],
-  [
-    101,
-    7000,
-    421,
-    null,
-    false
-  ],
-  [
-    102,
-    7000,
-    422,
-    null,
-    false
-  ],
-  [
-    103,
-    7000,
-    423,
-    null,
-    false
-  ],
-  [
-    104,
-    7000,
-    424,
-    null,
-    false
-  ],
-  [
-    105,
-    7000,
-    425,
-    null,
-    false
-  ],
-  [
-    106,
-    7000,
-    426,
-    null,
-    false
-  ],
-  [
-    107,
-    7000,
-    427,
-    null,
-    false
-  ],
-  [
-    108,
-    7000,
-    428,
-    null,
-    false
-  ],
-  [
-    109,
-    7000,
-    429,
-    null,
-    false
-  ],
-  [
-    110,
-    7000,
-    430,
-    null,
-    false
-  ],
-  [
-    111,
-    7000,
-    431,
-    null,
-    false
-  ],
-  [
-    112,
-    7000,
-    432,
-    null,
-    false
-  ],
-  [
-    113,
-    7000,
-    433,
-    null,
-    false
-  ],
-  [
-    114,
-    7000,
-    434,
-    null,
-    false
-  ],
-  [
-    115,
-    7000,
-    435,
-    null,
-    false
-  ],
-  [
-    116,
-    7000,
-    436,
-    null,
-    false
-  ],
-  [
-    117,
-    7000,
-    437,
-    null,
-    false
-  ],
-  [
-    118,
-    7000,
-    438,
-    null,
-    false
-  ],
-  [
-    119,
-    7000,
-    439,
-    null,
-    false
-  ],
-  [
-    120,
-    7000,
-    440,
-    null,
-    false
-  ],
-  [
-    121,
-    7000,
-    441,
-    null,
-    false
-  ],
-  [
-    122,
-    7000,
-    442,
-    null,
-    false
-  ],
-  [
-    123,
-    7000,
-    443,
-    null,
-    false
-  ],
-  [
-    124,
-    7000,
-    444,
-    null,
-    false
-  ],
-  [
-    125,
-    7000,
-    445,
-    null,
-    false
-  ],
-  [
-    126,
-    7000,
-    446,
-    null,
-    false
-  ],
-  [
-    127,
-    7000,
-    447,
-    null,
-    false
-  ],
-  [
-    128,
-    7000,
-    448,
-    null,
-    false
-  ],
-  [
-    129,
-    7000,
-    449,
-    null,
-    false
-  ],
-  [
-    130,
-    7000,
-    450,
-    null,
-    false
-  ],
-  [
-    131,
-    7000,
-    451,
-    null,
-    false
-  ],
-  [
-    132,
-    7000,
-    452,
-    null,
-    false
-  ],
-  [
-    133,
-    7000,
-    453,
-    null,
-    false
-  ],
-  [
-    134,
-    7000,
-    454,
-    null,
-    false
-  ],
-  [
-    135,
-    7000,
-    455,
-    null,
-    false
-  ],
-  [
-    136,
-    7000,
-    456,
-    null,
-    false
-  ],
-  [
-    137,
-    7000,
-    457,
-    null,
-    false
-  ],
-  [
-    138,
-    7000,
-    458,
-    null,
-    false
-  ],
-  [
-    139,
-    7000,
-    459,
-    null,
-    false
-  ],
-  [
-    140,
-    7000,
-    460,
-    null,
-    false
-  ],
-  [
-    141,
-    7000,
-    461,
-    null,
-    false
-  ],
-  [
-    142,
-    7000,
-    462,
-    null,
-    false
-  ],
-  [
-    143,
-    7000,
-    463,
-    null,
-    false
-  ],
-  [
-    144,
-    7000,
-    464,
-    null,
-    false
-  ],
-  [
-    145,
-    7000,
-    465,
-    null,
-    false
-  ],
-  [
-    146,
-    7000,
-    466,
-    null,
-    false
-  ],
-  [
-    147,
-    7000,
-    467,
-    null,
-    false
-  ],
-  [
-    148,
-    7000,
-    468,
-    null,
-    false
-  ],
-  [
-    149,
-    7000,
-    469,
-    null,
-    false
-  ],
-  [
-    150,
-    7000,
-    470,
-    null,
-    false
-  ]
+  {
+    "Rank": 1,
+    "PointToLevelUp": 20,
+    "MaxStamina": 200,
+    "IsReleasedRank": true
+  },
+  {
+    "Rank": 2,
+    "PointToLevelUp": 50,
+    "MaxStamina": 203,
+    "IsReleasedRank": true
+  },
+  {
+    "Rank": 3,
+    "PointToLevelUp": 80,
+    "MaxStamina": 206,
+    "IsReleasedRank": true
+  },
+  {
+    "Rank": 4,
+    "PointToLevelUp": 120,
+    "MaxStamina": 209,
+    "IsReleasedRank": true
+  },
+  {
+    "Rank": 5,
+    "PointToLevelUp": 200,
+    "MaxStamina": 212,
+    "IsReleasedRank": true
+  },
+  {
+    "Rank": 6,
+    "PointToLevelUp": 250,
+    "MaxStamina": 215,
+    "IsReleasedRank": true
+  },
+  {
+    "Rank": 7,
+    "PointToLevelUp": 250,
+    "MaxStamina": 218,
+    "IsReleasedRank": true
+  },
+  {
+    "Rank": 8,
+    "PointToLevelUp": 300,
+    "MaxStamina": 221,
+    "IsReleasedRank": true
+  },
+  {
+    "Rank": 9,
+    "PointToLevelUp": 300,
+    "MaxStamina": 224,
+    "IsReleasedRank": true
+  },
+  {
+    "Rank": 10,
+    "PointToLevelUp": 400,
+    "MaxStamina": 227,
+    "IsReleasedRank": true
+  },
+  {
+    "Rank": 11,
+    "PointToLevelUp": 400,
+    "MaxStamina": 230,
+    "IsReleasedRank": true
+  },
+  {
+    "Rank": 12,
+    "PointToLevelUp": 400,
+    "MaxStamina": 233,
+    "IsReleasedRank": true
+  },
+  {
+    "Rank": 13,
+    "PointToLevelUp": 400,
+    "MaxStamina": 236,
+    "IsReleasedRank": true
+  },
+  {
+    "Rank": 14,
+    "PointToLevelUp": 400,
+    "MaxStamina": 239,
+    "IsReleasedRank": true
+  },
+  {
+    "Rank": 15,
+    "PointToLevelUp": 600,
+    "MaxStamina": 242,
+    "IsReleasedRank": true
+  },
+  {
+    "Rank": 16,
+    "PointToLevelUp": 600,
+    "MaxStamina": 245,
+    "IsReleasedRank": true
+  },
+  {
+    "Rank": 17,
+    "PointToLevelUp": 600,
+    "MaxStamina": 248,
+    "IsReleasedRank": true
+  },
+  {
+    "Rank": 18,
+    "PointToLevelUp": 600,
+    "MaxStamina": 251,
+    "IsReleasedRank": true
+  },
+  {
+    "Rank": 19,
+    "PointToLevelUp": 600,
+    "MaxStamina": 254,
+    "IsReleasedRank": true
+  },
+  {
+    "Rank": 20,
+    "PointToLevelUp": 800,
+    "MaxStamina": 257,
+    "IsReleasedRank": true
+  },
+  {
+    "Rank": 21,
+    "PointToLevelUp": 800,
+    "MaxStamina": 260,
+    "IsReleasedRank": true
+  },
+  {
+    "Rank": 22,
+    "PointToLevelUp": 800,
+    "MaxStamina": 263,
+    "IsReleasedRank": true
+  },
+  {
+    "Rank": 23,
+    "PointToLevelUp": 800,
+    "MaxStamina": 266,
+    "IsReleasedRank": true
+  },
+  {
+    "Rank": 24,
+    "PointToLevelUp": 800,
+    "MaxStamina": 269,
+    "IsReleasedRank": true
+  },
+  {
+    "Rank": 25,
+    "PointToLevelUp": 1000,
+    "MaxStamina": 272,
+    "IsReleasedRank": true
+  },
+  {
+    "Rank": 26,
+    "PointToLevelUp": 1000,
+    "MaxStamina": 275,
+    "IsReleasedRank": true
+  },
+  {
+    "Rank": 27,
+    "PointToLevelUp": 1000,
+    "MaxStamina": 278,
+    "IsReleasedRank": true
+  },
+  {
+    "Rank": 28,
+    "PointToLevelUp": 1000,
+    "MaxStamina": 281,
+    "IsReleasedRank": true
+  },
+  {
+    "Rank": 29,
+    "PointToLevelUp": 1000,
+    "MaxStamina": 284,
+    "IsReleasedRank": true
+  },
+  {
+    "Rank": 30,
+    "PointToLevelUp": 1400,
+    "MaxStamina": 287,
+    "IsReleasedRank": true
+  },
+  {
+    "Rank": 31,
+    "PointToLevelUp": 1400,
+    "MaxStamina": 290,
+    "IsReleasedRank": true
+  },
+  {
+    "Rank": 32,
+    "PointToLevelUp": 1400,
+    "MaxStamina": 293,
+    "IsReleasedRank": true
+  },
+  {
+    "Rank": 33,
+    "PointToLevelUp": 1400,
+    "MaxStamina": 296,
+    "IsReleasedRank": true
+  },
+  {
+    "Rank": 34,
+    "PointToLevelUp": 1400,
+    "MaxStamina": 299,
+    "IsReleasedRank": true
+  },
+  {
+    "Rank": 35,
+    "PointToLevelUp": 1800,
+    "MaxStamina": 302,
+    "IsReleasedRank": true
+  },
+  {
+    "Rank": 36,
+    "PointToLevelUp": 1800,
+    "MaxStamina": 305,
+    "IsReleasedRank": true
+  },
+  {
+    "Rank": 37,
+    "PointToLevelUp": 1800,
+    "MaxStamina": 308,
+    "IsReleasedRank": true
+  },
+  {
+    "Rank": 38,
+    "PointToLevelUp": 1800,
+    "MaxStamina": 311,
+    "IsReleasedRank": true
+  },
+  {
+    "Rank": 39,
+    "PointToLevelUp": 1800,
+    "MaxStamina": 314,
+    "IsReleasedRank": true
+  },
+  {
+    "Rank": 40,
+    "PointToLevelUp": 2200,
+    "MaxStamina": 317,
+    "IsReleasedRank": true
+  },
+  {
+    "Rank": 41,
+    "PointToLevelUp": 2200,
+    "MaxStamina": 320,
+    "IsReleasedRank": true
+  },
+  {
+    "Rank": 42,
+    "PointToLevelUp": 2200,
+    "MaxStamina": 323,
+    "IsReleasedRank": true
+  },
+  {
+    "Rank": 43,
+    "PointToLevelUp": 2200,
+    "MaxStamina": 326,
+    "IsReleasedRank": true
+  },
+  {
+    "Rank": 44,
+    "PointToLevelUp": 2200,
+    "MaxStamina": 329,
+    "IsReleasedRank": true
+  },
+  {
+    "Rank": 45,
+    "PointToLevelUp": 2600,
+    "MaxStamina": 332,
+    "IsReleasedRank": true
+  },
+  {
+    "Rank": 46,
+    "PointToLevelUp": 2600,
+    "MaxStamina": 335,
+    "IsReleasedRank": true
+  },
+  {
+    "Rank": 47,
+    "PointToLevelUp": 2600,
+    "MaxStamina": 338,
+    "IsReleasedRank": true
+  },
+  {
+    "Rank": 48,
+    "PointToLevelUp": 2600,
+    "MaxStamina": 341,
+    "IsReleasedRank": true
+  },
+  {
+    "Rank": 49,
+    "PointToLevelUp": 2600,
+    "MaxStamina": 344,
+    "IsReleasedRank": true
+  },
+  {
+    "Rank": 50,
+    "PointToLevelUp": 3000,
+    "MaxStamina": 347,
+    "IsReleasedRank": true
+  },
+  {
+    "Rank": 51,
+    "PointToLevelUp": 3000,
+    "MaxStamina": 349,
+    "IsReleasedRank": true
+  },
+  {
+    "Rank": 52,
+    "PointToLevelUp": 3000,
+    "MaxStamina": 351,
+    "IsReleasedRank": true
+  },
+  {
+    "Rank": 53,
+    "PointToLevelUp": 3000,
+    "MaxStamina": 353,
+    "IsReleasedRank": true
+  },
+  {
+    "Rank": 54,
+    "PointToLevelUp": 3000,
+    "MaxStamina": 355,
+    "IsReleasedRank": true
+  },
+  {
+    "Rank": 55,
+    "PointToLevelUp": 3500,
+    "MaxStamina": 357,
+    "IsReleasedRank": true
+  },
+  {
+    "Rank": 56,
+    "PointToLevelUp": 3500,
+    "MaxStamina": 359,
+    "IsReleasedRank": true
+  },
+  {
+    "Rank": 57,
+    "PointToLevelUp": 3500,
+    "MaxStamina": 361,
+    "IsReleasedRank": true
+  },
+  {
+    "Rank": 58,
+    "PointToLevelUp": 3500,
+    "MaxStamina": 363,
+    "IsReleasedRank": true
+  },
+  {
+    "Rank": 59,
+    "PointToLevelUp": 3500,
+    "MaxStamina": 365,
+    "IsReleasedRank": true
+  },
+  {
+    "Rank": 60,
+    "PointToLevelUp": 4000,
+    "MaxStamina": 367,
+    "IsReleasedRank": true
+  },
+  {
+    "Rank": 61,
+    "PointToLevelUp": 4000,
+    "MaxStamina": 369,
+    "IsReleasedRank": true
+  },
+  {
+    "Rank": 62,
+    "PointToLevelUp": 4000,
+    "MaxStamina": 371,
+    "IsReleasedRank": true
+  },
+  {
+    "Rank": 63,
+    "PointToLevelUp": 4000,
+    "MaxStamina": 373,
+    "IsReleasedRank": true
+  },
+  {
+    "Rank": 64,
+    "PointToLevelUp": 4000,
+    "MaxStamina": 375,
+    "IsReleasedRank": true
+  },
+  {
+    "Rank": 65,
+    "PointToLevelUp": 4500,
+    "MaxStamina": 377,
+    "IsReleasedRank": true
+  },
+  {
+    "Rank": 66,
+    "PointToLevelUp": 4500,
+    "MaxStamina": 379,
+    "IsReleasedRank": true
+  },
+  {
+    "Rank": 67,
+    "PointToLevelUp": 4500,
+    "MaxStamina": 381,
+    "IsReleasedRank": true
+  },
+  {
+    "Rank": 68,
+    "PointToLevelUp": 4500,
+    "MaxStamina": 383,
+    "IsReleasedRank": true
+  },
+  {
+    "Rank": 69,
+    "PointToLevelUp": 4500,
+    "MaxStamina": 385,
+    "IsReleasedRank": true
+  },
+  {
+    "Rank": 70,
+    "PointToLevelUp": 5000,
+    "MaxStamina": 387,
+    "IsReleasedRank": true
+  },
+  {
+    "Rank": 71,
+    "PointToLevelUp": 5000,
+    "MaxStamina": 389,
+    "IsReleasedRank": true
+  },
+  {
+    "Rank": 72,
+    "PointToLevelUp": 5000,
+    "MaxStamina": 391,
+    "IsReleasedRank": true
+  },
+  {
+    "Rank": 73,
+    "PointToLevelUp": 5000,
+    "MaxStamina": 393,
+    "IsReleasedRank": true
+  },
+  {
+    "Rank": 74,
+    "PointToLevelUp": 5000,
+    "MaxStamina": 394,
+    "IsReleasedRank": true
+  },
+  {
+    "Rank": 75,
+    "PointToLevelUp": 6000,
+    "MaxStamina": 395,
+    "IsReleasedRank": true
+  },
+  {
+    "Rank": 76,
+    "PointToLevelUp": 6000,
+    "MaxStamina": 396,
+    "IsReleasedRank": true
+  },
+  {
+    "Rank": 77,
+    "PointToLevelUp": 6000,
+    "MaxStamina": 397,
+    "IsReleasedRank": true
+  },
+  {
+    "Rank": 78,
+    "PointToLevelUp": 6000,
+    "MaxStamina": 398,
+    "IsReleasedRank": true
+  },
+  {
+    "Rank": 79,
+    "PointToLevelUp": 6000,
+    "MaxStamina": 399,
+    "IsReleasedRank": true
+  },
+  {
+    "Rank": 80,
+    "PointToLevelUp": 7000,
+    "MaxStamina": 400,
+    "IsReleasedRank": true
+  },
+  {
+    "Rank": 81,
+    "PointToLevelUp": 7000,
+    "MaxStamina": 401,
+    "IsReleasedRank": false
+  },
+  {
+    "Rank": 82,
+    "PointToLevelUp": 7000,
+    "MaxStamina": 402,
+    "IsReleasedRank": false
+  },
+  {
+    "Rank": 83,
+    "PointToLevelUp": 7000,
+    "MaxStamina": 403,
+    "IsReleasedRank": false
+  },
+  {
+    "Rank": 84,
+    "PointToLevelUp": 7000,
+    "MaxStamina": 404,
+    "IsReleasedRank": false
+  },
+  {
+    "Rank": 85,
+    "PointToLevelUp": 7000,
+    "MaxStamina": 405,
+    "IsReleasedRank": false
+  },
+  {
+    "Rank": 86,
+    "PointToLevelUp": 7000,
+    "MaxStamina": 406,
+    "IsReleasedRank": false
+  },
+  {
+    "Rank": 87,
+    "PointToLevelUp": 7000,
+    "MaxStamina": 407,
+    "IsReleasedRank": false
+  },
+  {
+    "Rank": 88,
+    "PointToLevelUp": 7000,
+    "MaxStamina": 408,
+    "IsReleasedRank": false
+  },
+  {
+    "Rank": 89,
+    "PointToLevelUp": 7000,
+    "MaxStamina": 409,
+    "IsReleasedRank": false
+  },
+  {
+    "Rank": 90,
+    "PointToLevelUp": 7000,
+    "MaxStamina": 410,
+    "IsReleasedRank": false
+  },
+  {
+    "Rank": 91,
+    "PointToLevelUp": 7000,
+    "MaxStamina": 411,
+    "IsReleasedRank": false
+  },
+  {
+    "Rank": 92,
+    "PointToLevelUp": 7000,
+    "MaxStamina": 412,
+    "IsReleasedRank": false
+  },
+  {
+    "Rank": 93,
+    "PointToLevelUp": 7000,
+    "MaxStamina": 413,
+    "IsReleasedRank": false
+  },
+  {
+    "Rank": 94,
+    "PointToLevelUp": 7000,
+    "MaxStamina": 414,
+    "IsReleasedRank": false
+  },
+  {
+    "Rank": 95,
+    "PointToLevelUp": 7000,
+    "MaxStamina": 415,
+    "IsReleasedRank": false
+  },
+  {
+    "Rank": 96,
+    "PointToLevelUp": 7000,
+    "MaxStamina": 416,
+    "IsReleasedRank": false
+  },
+  {
+    "Rank": 97,
+    "PointToLevelUp": 7000,
+    "MaxStamina": 417,
+    "IsReleasedRank": false
+  },
+  {
+    "Rank": 98,
+    "PointToLevelUp": 7000,
+    "MaxStamina": 418,
+    "IsReleasedRank": false
+  },
+  {
+    "Rank": 99,
+    "PointToLevelUp": 7000,
+    "MaxStamina": 419,
+    "IsReleasedRank": false
+  },
+  {
+    "Rank": 100,
+    "PointToLevelUp": 7000,
+    "MaxStamina": 420,
+    "IsReleasedRank": false
+  },
+  {
+    "Rank": 101,
+    "PointToLevelUp": 7000,
+    "MaxStamina": 421,
+    "IsReleasedRank": false
+  },
+  {
+    "Rank": 102,
+    "PointToLevelUp": 7000,
+    "MaxStamina": 422,
+    "IsReleasedRank": false
+  },
+  {
+    "Rank": 103,
+    "PointToLevelUp": 7000,
+    "MaxStamina": 423,
+    "IsReleasedRank": false
+  },
+  {
+    "Rank": 104,
+    "PointToLevelUp": 7000,
+    "MaxStamina": 424,
+    "IsReleasedRank": false
+  },
+  {
+    "Rank": 105,
+    "PointToLevelUp": 7000,
+    "MaxStamina": 425,
+    "IsReleasedRank": false
+  },
+  {
+    "Rank": 106,
+    "PointToLevelUp": 7000,
+    "MaxStamina": 426,
+    "IsReleasedRank": false
+  },
+  {
+    "Rank": 107,
+    "PointToLevelUp": 7000,
+    "MaxStamina": 427,
+    "IsReleasedRank": false
+  },
+  {
+    "Rank": 108,
+    "PointToLevelUp": 7000,
+    "MaxStamina": 428,
+    "IsReleasedRank": false
+  },
+  {
+    "Rank": 109,
+    "PointToLevelUp": 7000,
+    "MaxStamina": 429,
+    "IsReleasedRank": false
+  },
+  {
+    "Rank": 110,
+    "PointToLevelUp": 7000,
+    "MaxStamina": 430,
+    "IsReleasedRank": false
+  },
+  {
+    "Rank": 111,
+    "PointToLevelUp": 7000,
+    "MaxStamina": 431,
+    "IsReleasedRank": false
+  },
+  {
+    "Rank": 112,
+    "PointToLevelUp": 7000,
+    "MaxStamina": 432,
+    "IsReleasedRank": false
+  },
+  {
+    "Rank": 113,
+    "PointToLevelUp": 7000,
+    "MaxStamina": 433,
+    "IsReleasedRank": false
+  },
+  {
+    "Rank": 114,
+    "PointToLevelUp": 7000,
+    "MaxStamina": 434,
+    "IsReleasedRank": false
+  },
+  {
+    "Rank": 115,
+    "PointToLevelUp": 7000,
+    "MaxStamina": 435,
+    "IsReleasedRank": false
+  },
+  {
+    "Rank": 116,
+    "PointToLevelUp": 7000,
+    "MaxStamina": 436,
+    "IsReleasedRank": false
+  },
+  {
+    "Rank": 117,
+    "PointToLevelUp": 7000,
+    "MaxStamina": 437,
+    "IsReleasedRank": false
+  },
+  {
+    "Rank": 118,
+    "PointToLevelUp": 7000,
+    "MaxStamina": 438,
+    "IsReleasedRank": false
+  },
+  {
+    "Rank": 119,
+    "PointToLevelUp": 7000,
+    "MaxStamina": 439,
+    "IsReleasedRank": false
+  },
+  {
+    "Rank": 120,
+    "PointToLevelUp": 7000,
+    "MaxStamina": 440,
+    "IsReleasedRank": false
+  },
+  {
+    "Rank": 121,
+    "PointToLevelUp": 7000,
+    "MaxStamina": 441,
+    "IsReleasedRank": false
+  },
+  {
+    "Rank": 122,
+    "PointToLevelUp": 7000,
+    "MaxStamina": 442,
+    "IsReleasedRank": false
+  },
+  {
+    "Rank": 123,
+    "PointToLevelUp": 7000,
+    "MaxStamina": 443,
+    "IsReleasedRank": false
+  },
+  {
+    "Rank": 124,
+    "PointToLevelUp": 7000,
+    "MaxStamina": 444,
+    "IsReleasedRank": false
+  },
+  {
+    "Rank": 125,
+    "PointToLevelUp": 7000,
+    "MaxStamina": 445,
+    "IsReleasedRank": false
+  },
+  {
+    "Rank": 126,
+    "PointToLevelUp": 7000,
+    "MaxStamina": 446,
+    "IsReleasedRank": false
+  },
+  {
+    "Rank": 127,
+    "PointToLevelUp": 7000,
+    "MaxStamina": 447,
+    "IsReleasedRank": false
+  },
+  {
+    "Rank": 128,
+    "PointToLevelUp": 7000,
+    "MaxStamina": 448,
+    "IsReleasedRank": false
+  },
+  {
+    "Rank": 129,
+    "PointToLevelUp": 7000,
+    "MaxStamina": 449,
+    "IsReleasedRank": false
+  },
+  {
+    "Rank": 130,
+    "PointToLevelUp": 7000,
+    "MaxStamina": 450,
+    "IsReleasedRank": false
+  },
+  {
+    "Rank": 131,
+    "PointToLevelUp": 7000,
+    "MaxStamina": 451,
+    "IsReleasedRank": false
+  },
+  {
+    "Rank": 132,
+    "PointToLevelUp": 7000,
+    "MaxStamina": 452,
+    "IsReleasedRank": false
+  },
+  {
+    "Rank": 133,
+    "PointToLevelUp": 7000,
+    "MaxStamina": 453,
+    "IsReleasedRank": false
+  },
+  {
+    "Rank": 134,
+    "PointToLevelUp": 7000,
+    "MaxStamina": 454,
+    "IsReleasedRank": false
+  },
+  {
+    "Rank": 135,
+    "PointToLevelUp": 7000,
+    "MaxStamina": 455,
+    "IsReleasedRank": false
+  },
+  {
+    "Rank": 136,
+    "PointToLevelUp": 7000,
+    "MaxStamina": 456,
+    "IsReleasedRank": false
+  },
+  {
+    "Rank": 137,
+    "PointToLevelUp": 7000,
+    "MaxStamina": 457,
+    "IsReleasedRank": false
+  },
+  {
+    "Rank": 138,
+    "PointToLevelUp": 7000,
+    "MaxStamina": 458,
+    "IsReleasedRank": false
+  },
+  {
+    "Rank": 139,
+    "PointToLevelUp": 7000,
+    "MaxStamina": 459,
+    "IsReleasedRank": false
+  },
+  {
+    "Rank": 140,
+    "PointToLevelUp": 7000,
+    "MaxStamina": 460,
+    "IsReleasedRank": false
+  },
+  {
+    "Rank": 141,
+    "PointToLevelUp": 7000,
+    "MaxStamina": 461,
+    "IsReleasedRank": false
+  },
+  {
+    "Rank": 142,
+    "PointToLevelUp": 7000,
+    "MaxStamina": 462,
+    "IsReleasedRank": false
+  },
+  {
+    "Rank": 143,
+    "PointToLevelUp": 7000,
+    "MaxStamina": 463,
+    "IsReleasedRank": false
+  },
+  {
+    "Rank": 144,
+    "PointToLevelUp": 7000,
+    "MaxStamina": 464,
+    "IsReleasedRank": false
+  },
+  {
+    "Rank": 145,
+    "PointToLevelUp": 7000,
+    "MaxStamina": 465,
+    "IsReleasedRank": false
+  },
+  {
+    "Rank": 146,
+    "PointToLevelUp": 7000,
+    "MaxStamina": 466,
+    "IsReleasedRank": false
+  },
+  {
+    "Rank": 147,
+    "PointToLevelUp": 7000,
+    "MaxStamina": 467,
+    "IsReleasedRank": false
+  },
+  {
+    "Rank": 148,
+    "PointToLevelUp": 7000,
+    "MaxStamina": 468,
+    "IsReleasedRank": false
+  },
+  {
+    "Rank": 149,
+    "PointToLevelUp": 7000,
+    "MaxStamina": 469,
+    "IsReleasedRank": false
+  },
+  {
+    "Rank": 150,
+    "PointToLevelUp": 7000,
+    "MaxStamina": 470,
+    "IsReleasedRank": false
+  }
 ]

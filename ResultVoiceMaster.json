@@ -1,1010 +1,1010 @@
 [
-  [
-    1011,
-    101,
-    1,
-    1,
-    "101507",
-    "8"
-  ],
-  [
-    1012,
-    101,
-    2,
-    2,
-    "101506",
-    "7"
-  ],
-  [
-    1013,
-    101,
-    3,
-    3,
-    "101505",
-    "6"
-  ],
-  [
-    1014,
-    101,
-    4,
-    4,
-    "101504",
-    "5"
-  ],
-  [
-    1015,
-    101,
-    5,
-    5,
-    "101503",
-    "3"
-  ],
-  [
-    1016,
-    101,
-    6,
-    6,
-    "101502",
-    "4"
-  ],
-  [
-    1021,
-    102,
-    1,
-    1,
-    "102507",
-    "6"
-  ],
-  [
-    1022,
-    102,
-    2,
-    2,
-    "102506",
-    "5"
-  ],
-  [
-    1023,
-    102,
-    3,
-    3,
-    "102505",
-    "1"
-  ],
-  [
-    1024,
-    102,
-    4,
-    4,
-    "102504",
-    "2"
-  ],
-  [
-    1025,
-    102,
-    5,
-    5,
-    "102503",
-    "4"
-  ],
-  [
-    1026,
-    102,
-    6,
-    6,
-    "102502",
-    "8"
-  ],
-  [
-    1031,
-    103,
-    1,
-    1,
-    "103507",
-    "7"
-  ],
-  [
-    1032,
-    103,
-    2,
-    2,
-    "103506",
-    "6"
-  ],
-  [
-    1033,
-    103,
-    3,
-    3,
-    "103505",
-    "3"
-  ],
-  [
-    1034,
-    103,
-    4,
-    4,
-    "103504",
-    "4"
-  ],
-  [
-    1035,
-    103,
-    5,
-    5,
-    "103503",
-    "1"
-  ],
-  [
-    1036,
-    103,
-    6,
-    6,
-    "103502",
-    "5"
-  ],
-  [
-    1041,
-    104,
-    1,
-    1,
-    "104507",
-    "5"
-  ],
-  [
-    1042,
-    104,
-    2,
-    2,
-    "104506",
-    "3"
-  ],
-  [
-    1043,
-    104,
-    3,
-    3,
-    "104505",
-    "2"
-  ],
-  [
-    1044,
-    104,
-    4,
-    4,
-    "104504",
-    "1"
-  ],
-  [
-    1045,
-    104,
-    5,
-    5,
-    "104503",
-    "8"
-  ],
-  [
-    1046,
-    104,
-    6,
-    6,
-    "104502",
-    "6"
-  ],
-  [
-    1051,
-    105,
-    1,
-    1,
-    "105507",
-    "6"
-  ],
-  [
-    1052,
-    105,
-    2,
-    2,
-    "105506",
-    "5"
-  ],
-  [
-    1053,
-    105,
-    3,
-    3,
-    "105505",
-    "2"
-  ],
-  [
-    1054,
-    105,
-    4,
-    4,
-    "105504",
-    "3"
-  ],
-  [
-    1055,
-    105,
-    5,
-    5,
-    "105503",
-    "4"
-  ],
-  [
-    1056,
-    105,
-    6,
-    6,
-    "105502",
-    "7"
-  ],
-  [
-    1061,
-    106,
-    1,
-    1,
-    "106507",
-    "2"
-  ],
-  [
-    1062,
-    106,
-    2,
-    2,
-    "106506",
-    "6"
-  ],
-  [
-    1063,
-    106,
-    3,
-    3,
-    "106505",
-    "4"
-  ],
-  [
-    1064,
-    106,
-    4,
-    4,
-    "106504",
-    "3"
-  ],
-  [
-    1065,
-    106,
-    5,
-    5,
-    "106503",
-    "8"
-  ],
-  [
-    1066,
-    106,
-    6,
-    6,
-    "106502",
-    "5"
-  ],
-  [
-    2011,
-    201,
-    1,
-    1,
-    "201507",
-    "6"
-  ],
-  [
-    2012,
-    201,
-    2,
-    2,
-    "201506",
-    "5"
-  ],
-  [
-    2013,
-    201,
-    3,
-    3,
-    "201505",
-    "2"
-  ],
-  [
-    2014,
-    201,
-    4,
-    4,
-    "201504",
-    "7"
-  ],
-  [
-    2015,
-    201,
-    5,
-    5,
-    "201503",
-    "8"
-  ],
-  [
-    2016,
-    201,
-    6,
-    6,
-    "201502",
-    "4"
-  ],
-  [
-    2021,
-    202,
-    1,
-    1,
-    "202507",
-    "6"
-  ],
-  [
-    2022,
-    202,
-    2,
-    2,
-    "202506",
-    "7"
-  ],
-  [
-    2023,
-    202,
-    3,
-    3,
-    "202505",
-    "4"
-  ],
-  [
-    2024,
-    202,
-    4,
-    4,
-    "202504",
-    "3"
-  ],
-  [
-    2025,
-    202,
-    5,
-    5,
-    "202503",
-    "1"
-  ],
-  [
-    2026,
-    202,
-    6,
-    6,
-    "202502",
-    "2"
-  ],
-  [
-    2031,
-    203,
-    1,
-    1,
-    "203507",
-    "8"
-  ],
-  [
-    2032,
-    203,
-    2,
-    2,
-    "203506",
-    "7"
-  ],
-  [
-    2033,
-    203,
-    3,
-    3,
-    "203505",
-    "9"
-  ],
-  [
-    2034,
-    203,
-    4,
-    4,
-    "203504",
-    "3"
-  ],
-  [
-    2035,
-    203,
-    5,
-    5,
-    "203503",
-    "1"
-  ],
-  [
-    2036,
-    203,
-    6,
-    6,
-    "203502",
-    "6"
-  ],
-  [
-    2041,
-    204,
-    1,
-    1,
-    "204507",
-    "2"
-  ],
-  [
-    2042,
-    204,
-    2,
-    2,
-    "204506",
-    "3"
-  ],
-  [
-    2043,
-    204,
-    3,
-    3,
-    "204505",
-    "8"
-  ],
-  [
-    2044,
-    204,
-    4,
-    4,
-    "204504",
-    "5"
-  ],
-  [
-    2045,
-    204,
-    5,
-    5,
-    "204503",
-    "1"
-  ],
-  [
-    2046,
-    204,
-    6,
-    6,
-    "204502",
-    "7"
-  ],
-  [
-    2051,
-    205,
-    1,
-    1,
-    "205507",
-    "8"
-  ],
-  [
-    2052,
-    205,
-    2,
-    2,
-    "205506",
-    "7"
-  ],
-  [
-    2053,
-    205,
-    3,
-    3,
-    "205505",
-    "5"
-  ],
-  [
-    2054,
-    205,
-    4,
-    4,
-    "205504",
-    "2"
-  ],
-  [
-    2055,
-    205,
-    5,
-    5,
-    "205503",
-    "3"
-  ],
-  [
-    2056,
-    205,
-    6,
-    6,
-    "205502",
-    "6"
-  ],
-  [
-    3011,
-    301,
-    1,
-    1,
-    "301507",
-    "8"
-  ],
-  [
-    3012,
-    301,
-    2,
-    2,
-    "301506",
-    "7"
-  ],
-  [
-    3013,
-    301,
-    3,
-    3,
-    "301505",
-    "5"
-  ],
-  [
-    3014,
-    301,
-    4,
-    4,
-    "301504",
-    "4"
-  ],
-  [
-    3015,
-    301,
-    5,
-    5,
-    "301503",
-    "2"
-  ],
-  [
-    3016,
-    301,
-    6,
-    6,
-    "301502",
-    "1"
-  ],
-  [
-    3021,
-    302,
-    1,
-    1,
-    "302507",
-    "6"
-  ],
-  [
-    3022,
-    302,
-    2,
-    2,
-    "302506",
-    "5"
-  ],
-  [
-    3023,
-    302,
-    3,
-    3,
-    "302505",
-    "2"
-  ],
-  [
-    3024,
-    302,
-    4,
-    4,
-    "302504",
-    "8"
-  ],
-  [
-    3025,
-    302,
-    5,
-    5,
-    "302503",
-    "4"
-  ],
-  [
-    3026,
-    302,
-    6,
-    6,
-    "302502",
-    "1"
-  ],
-  [
-    3031,
-    303,
-    1,
-    1,
-    "303507",
-    "8"
-  ],
-  [
-    3032,
-    303,
-    2,
-    2,
-    "303506",
-    "4"
-  ],
-  [
-    3033,
-    303,
-    3,
-    3,
-    "303505",
-    "2"
-  ],
-  [
-    3034,
-    303,
-    4,
-    4,
-    "303504",
-    "3"
-  ],
-  [
-    3035,
-    303,
-    5,
-    5,
-    "303503",
-    "6"
-  ],
-  [
-    3036,
-    303,
-    6,
-    6,
-    "303502",
-    "7"
-  ],
-  [
-    3041,
-    304,
-    1,
-    1,
-    "304507",
-    "8"
-  ],
-  [
-    3042,
-    304,
-    2,
-    2,
-    "304506",
-    "7"
-  ],
-  [
-    3043,
-    304,
-    3,
-    3,
-    "304505",
-    "2"
-  ],
-  [
-    3044,
-    304,
-    4,
-    4,
-    "304504",
-    "4"
-  ],
-  [
-    3045,
-    304,
-    5,
-    5,
-    "304503",
-    "6"
-  ],
-  [
-    3046,
-    304,
-    6,
-    6,
-    "304502",
-    "3"
-  ],
-  [
-    3051,
-    305,
-    1,
-    1,
-    "305507",
-    "6"
-  ],
-  [
-    3052,
-    305,
-    2,
-    2,
-    "305506",
-    "4"
-  ],
-  [
-    3053,
-    305,
-    3,
-    3,
-    "305505",
-    "3"
-  ],
-  [
-    3054,
-    305,
-    4,
-    4,
-    "305504",
-    "9"
-  ],
-  [
-    3055,
-    305,
-    5,
-    5,
-    "305503",
-    "5"
-  ],
-  [
-    3056,
-    305,
-    6,
-    6,
-    "305502",
-    "8"
-  ],
-  [
-    4011,
-    401,
-    1,
-    1,
-    "401507",
-    "6"
-  ],
-  [
-    4012,
-    401,
-    2,
-    2,
-    "401506",
-    "7"
-  ],
-  [
-    4013,
-    401,
-    3,
-    3,
-    "401505",
-    "4"
-  ],
-  [
-    4014,
-    401,
-    4,
-    4,
-    "401504",
-    "5"
-  ],
-  [
-    4015,
-    401,
-    5,
-    5,
-    "401503",
-    "3"
-  ],
-  [
-    4016,
-    401,
-    6,
-    6,
-    "401502",
-    "1"
-  ],
-  [
-    4021,
-    402,
-    1,
-    1,
-    "402507",
-    "8"
-  ],
-  [
-    4022,
-    402,
-    2,
-    2,
-    "402506",
-    "2"
-  ],
-  [
-    4023,
-    402,
-    3,
-    3,
-    "402505",
-    "6"
-  ],
-  [
-    4024,
-    402,
-    4,
-    4,
-    "402504",
-    "3"
-  ],
-  [
-    4025,
-    402,
-    5,
-    5,
-    "402503",
-    "5"
-  ],
-  [
-    4026,
-    402,
-    6,
-    6,
-    "402502",
-    "4"
-  ],
-  [
-    4031,
-    403,
-    1,
-    1,
-    "403507",
-    "2"
-  ],
-  [
-    4032,
-    403,
-    2,
-    2,
-    "403506",
-    "8"
-  ],
-  [
-    4033,
-    403,
-    3,
-    3,
-    "403505",
-    "5"
-  ],
-  [
-    4034,
-    403,
-    4,
-    4,
-    "403504",
-    "7"
-  ],
-  [
-    4035,
-    403,
-    5,
-    5,
-    "403503",
-    "4"
-  ],
-  [
-    4036,
-    403,
-    6,
-    6,
-    "403502",
-    "3"
-  ],
-  [
-    4041,
-    404,
-    1,
-    1,
-    "404507",
-    "8"
-  ],
-  [
-    4042,
-    404,
-    2,
-    2,
-    "404506",
-    "6"
-  ],
-  [
-    4043,
-    404,
-    3,
-    3,
-    "404505",
-    "7"
-  ],
-  [
-    4044,
-    404,
-    4,
-    4,
-    "404504",
-    "4"
-  ],
-  [
-    4045,
-    404,
-    5,
-    5,
-    "404503",
-    "5"
-  ],
-  [
-    4046,
-    404,
-    6,
-    6,
-    "404502",
-    "2"
-  ],
-  [
-    4051,
-    405,
-    1,
-    1,
-    "405507",
-    "4"
-  ],
-  [
-    4052,
-    405,
-    2,
-    2,
-    "405506",
-    "2"
-  ],
-  [
-    4053,
-    405,
-    3,
-    3,
-    "405505",
-    "7"
-  ],
-  [
-    4054,
-    405,
-    4,
-    4,
-    "405504",
-    "8"
-  ],
-  [
-    4055,
-    405,
-    5,
-    5,
-    "405503",
-    "5"
-  ],
-  [
-    4056,
-    405,
-    6,
-    6,
-    "405502",
-    "3"
-  ]
+  {
+    "Id": 1011,
+    "CharacterBaseMasterId": 101,
+    "Order": 1,
+    "ConditionType": 1,
+    "VoiceAssetId": "101507",
+    "Motion": "8"
+  },
+  {
+    "Id": 1012,
+    "CharacterBaseMasterId": 101,
+    "Order": 2,
+    "ConditionType": 2,
+    "VoiceAssetId": "101506",
+    "Motion": "7"
+  },
+  {
+    "Id": 1013,
+    "CharacterBaseMasterId": 101,
+    "Order": 3,
+    "ConditionType": 3,
+    "VoiceAssetId": "101505",
+    "Motion": "6"
+  },
+  {
+    "Id": 1014,
+    "CharacterBaseMasterId": 101,
+    "Order": 4,
+    "ConditionType": 4,
+    "VoiceAssetId": "101504",
+    "Motion": "5"
+  },
+  {
+    "Id": 1015,
+    "CharacterBaseMasterId": 101,
+    "Order": 5,
+    "ConditionType": 5,
+    "VoiceAssetId": "101503",
+    "Motion": "3"
+  },
+  {
+    "Id": 1016,
+    "CharacterBaseMasterId": 101,
+    "Order": 6,
+    "ConditionType": 6,
+    "VoiceAssetId": "101502",
+    "Motion": "4"
+  },
+  {
+    "Id": 1021,
+    "CharacterBaseMasterId": 102,
+    "Order": 1,
+    "ConditionType": 1,
+    "VoiceAssetId": "102507",
+    "Motion": "6"
+  },
+  {
+    "Id": 1022,
+    "CharacterBaseMasterId": 102,
+    "Order": 2,
+    "ConditionType": 2,
+    "VoiceAssetId": "102506",
+    "Motion": "5"
+  },
+  {
+    "Id": 1023,
+    "CharacterBaseMasterId": 102,
+    "Order": 3,
+    "ConditionType": 3,
+    "VoiceAssetId": "102505",
+    "Motion": "1"
+  },
+  {
+    "Id": 1024,
+    "CharacterBaseMasterId": 102,
+    "Order": 4,
+    "ConditionType": 4,
+    "VoiceAssetId": "102504",
+    "Motion": "2"
+  },
+  {
+    "Id": 1025,
+    "CharacterBaseMasterId": 102,
+    "Order": 5,
+    "ConditionType": 5,
+    "VoiceAssetId": "102503",
+    "Motion": "4"
+  },
+  {
+    "Id": 1026,
+    "CharacterBaseMasterId": 102,
+    "Order": 6,
+    "ConditionType": 6,
+    "VoiceAssetId": "102502",
+    "Motion": "8"
+  },
+  {
+    "Id": 1031,
+    "CharacterBaseMasterId": 103,
+    "Order": 1,
+    "ConditionType": 1,
+    "VoiceAssetId": "103507",
+    "Motion": "7"
+  },
+  {
+    "Id": 1032,
+    "CharacterBaseMasterId": 103,
+    "Order": 2,
+    "ConditionType": 2,
+    "VoiceAssetId": "103506",
+    "Motion": "6"
+  },
+  {
+    "Id": 1033,
+    "CharacterBaseMasterId": 103,
+    "Order": 3,
+    "ConditionType": 3,
+    "VoiceAssetId": "103505",
+    "Motion": "3"
+  },
+  {
+    "Id": 1034,
+    "CharacterBaseMasterId": 103,
+    "Order": 4,
+    "ConditionType": 4,
+    "VoiceAssetId": "103504",
+    "Motion": "4"
+  },
+  {
+    "Id": 1035,
+    "CharacterBaseMasterId": 103,
+    "Order": 5,
+    "ConditionType": 5,
+    "VoiceAssetId": "103503",
+    "Motion": "1"
+  },
+  {
+    "Id": 1036,
+    "CharacterBaseMasterId": 103,
+    "Order": 6,
+    "ConditionType": 6,
+    "VoiceAssetId": "103502",
+    "Motion": "5"
+  },
+  {
+    "Id": 1041,
+    "CharacterBaseMasterId": 104,
+    "Order": 1,
+    "ConditionType": 1,
+    "VoiceAssetId": "104507",
+    "Motion": "5"
+  },
+  {
+    "Id": 1042,
+    "CharacterBaseMasterId": 104,
+    "Order": 2,
+    "ConditionType": 2,
+    "VoiceAssetId": "104506",
+    "Motion": "3"
+  },
+  {
+    "Id": 1043,
+    "CharacterBaseMasterId": 104,
+    "Order": 3,
+    "ConditionType": 3,
+    "VoiceAssetId": "104505",
+    "Motion": "2"
+  },
+  {
+    "Id": 1044,
+    "CharacterBaseMasterId": 104,
+    "Order": 4,
+    "ConditionType": 4,
+    "VoiceAssetId": "104504",
+    "Motion": "1"
+  },
+  {
+    "Id": 1045,
+    "CharacterBaseMasterId": 104,
+    "Order": 5,
+    "ConditionType": 5,
+    "VoiceAssetId": "104503",
+    "Motion": "8"
+  },
+  {
+    "Id": 1046,
+    "CharacterBaseMasterId": 104,
+    "Order": 6,
+    "ConditionType": 6,
+    "VoiceAssetId": "104502",
+    "Motion": "6"
+  },
+  {
+    "Id": 1051,
+    "CharacterBaseMasterId": 105,
+    "Order": 1,
+    "ConditionType": 1,
+    "VoiceAssetId": "105507",
+    "Motion": "6"
+  },
+  {
+    "Id": 1052,
+    "CharacterBaseMasterId": 105,
+    "Order": 2,
+    "ConditionType": 2,
+    "VoiceAssetId": "105506",
+    "Motion": "5"
+  },
+  {
+    "Id": 1053,
+    "CharacterBaseMasterId": 105,
+    "Order": 3,
+    "ConditionType": 3,
+    "VoiceAssetId": "105505",
+    "Motion": "2"
+  },
+  {
+    "Id": 1054,
+    "CharacterBaseMasterId": 105,
+    "Order": 4,
+    "ConditionType": 4,
+    "VoiceAssetId": "105504",
+    "Motion": "3"
+  },
+  {
+    "Id": 1055,
+    "CharacterBaseMasterId": 105,
+    "Order": 5,
+    "ConditionType": 5,
+    "VoiceAssetId": "105503",
+    "Motion": "4"
+  },
+  {
+    "Id": 1056,
+    "CharacterBaseMasterId": 105,
+    "Order": 6,
+    "ConditionType": 6,
+    "VoiceAssetId": "105502",
+    "Motion": "7"
+  },
+  {
+    "Id": 1061,
+    "CharacterBaseMasterId": 106,
+    "Order": 1,
+    "ConditionType": 1,
+    "VoiceAssetId": "106507",
+    "Motion": "2"
+  },
+  {
+    "Id": 1062,
+    "CharacterBaseMasterId": 106,
+    "Order": 2,
+    "ConditionType": 2,
+    "VoiceAssetId": "106506",
+    "Motion": "6"
+  },
+  {
+    "Id": 1063,
+    "CharacterBaseMasterId": 106,
+    "Order": 3,
+    "ConditionType": 3,
+    "VoiceAssetId": "106505",
+    "Motion": "4"
+  },
+  {
+    "Id": 1064,
+    "CharacterBaseMasterId": 106,
+    "Order": 4,
+    "ConditionType": 4,
+    "VoiceAssetId": "106504",
+    "Motion": "3"
+  },
+  {
+    "Id": 1065,
+    "CharacterBaseMasterId": 106,
+    "Order": 5,
+    "ConditionType": 5,
+    "VoiceAssetId": "106503",
+    "Motion": "8"
+  },
+  {
+    "Id": 1066,
+    "CharacterBaseMasterId": 106,
+    "Order": 6,
+    "ConditionType": 6,
+    "VoiceAssetId": "106502",
+    "Motion": "5"
+  },
+  {
+    "Id": 2011,
+    "CharacterBaseMasterId": 201,
+    "Order": 1,
+    "ConditionType": 1,
+    "VoiceAssetId": "201507",
+    "Motion": "6"
+  },
+  {
+    "Id": 2012,
+    "CharacterBaseMasterId": 201,
+    "Order": 2,
+    "ConditionType": 2,
+    "VoiceAssetId": "201506",
+    "Motion": "5"
+  },
+  {
+    "Id": 2013,
+    "CharacterBaseMasterId": 201,
+    "Order": 3,
+    "ConditionType": 3,
+    "VoiceAssetId": "201505",
+    "Motion": "2"
+  },
+  {
+    "Id": 2014,
+    "CharacterBaseMasterId": 201,
+    "Order": 4,
+    "ConditionType": 4,
+    "VoiceAssetId": "201504",
+    "Motion": "7"
+  },
+  {
+    "Id": 2015,
+    "CharacterBaseMasterId": 201,
+    "Order": 5,
+    "ConditionType": 5,
+    "VoiceAssetId": "201503",
+    "Motion": "8"
+  },
+  {
+    "Id": 2016,
+    "CharacterBaseMasterId": 201,
+    "Order": 6,
+    "ConditionType": 6,
+    "VoiceAssetId": "201502",
+    "Motion": "4"
+  },
+  {
+    "Id": 2021,
+    "CharacterBaseMasterId": 202,
+    "Order": 1,
+    "ConditionType": 1,
+    "VoiceAssetId": "202507",
+    "Motion": "6"
+  },
+  {
+    "Id": 2022,
+    "CharacterBaseMasterId": 202,
+    "Order": 2,
+    "ConditionType": 2,
+    "VoiceAssetId": "202506",
+    "Motion": "7"
+  },
+  {
+    "Id": 2023,
+    "CharacterBaseMasterId": 202,
+    "Order": 3,
+    "ConditionType": 3,
+    "VoiceAssetId": "202505",
+    "Motion": "4"
+  },
+  {
+    "Id": 2024,
+    "CharacterBaseMasterId": 202,
+    "Order": 4,
+    "ConditionType": 4,
+    "VoiceAssetId": "202504",
+    "Motion": "3"
+  },
+  {
+    "Id": 2025,
+    "CharacterBaseMasterId": 202,
+    "Order": 5,
+    "ConditionType": 5,
+    "VoiceAssetId": "202503",
+    "Motion": "1"
+  },
+  {
+    "Id": 2026,
+    "CharacterBaseMasterId": 202,
+    "Order": 6,
+    "ConditionType": 6,
+    "VoiceAssetId": "202502",
+    "Motion": "2"
+  },
+  {
+    "Id": 2031,
+    "CharacterBaseMasterId": 203,
+    "Order": 1,
+    "ConditionType": 1,
+    "VoiceAssetId": "203507",
+    "Motion": "8"
+  },
+  {
+    "Id": 2032,
+    "CharacterBaseMasterId": 203,
+    "Order": 2,
+    "ConditionType": 2,
+    "VoiceAssetId": "203506",
+    "Motion": "7"
+  },
+  {
+    "Id": 2033,
+    "CharacterBaseMasterId": 203,
+    "Order": 3,
+    "ConditionType": 3,
+    "VoiceAssetId": "203505",
+    "Motion": "9"
+  },
+  {
+    "Id": 2034,
+    "CharacterBaseMasterId": 203,
+    "Order": 4,
+    "ConditionType": 4,
+    "VoiceAssetId": "203504",
+    "Motion": "3"
+  },
+  {
+    "Id": 2035,
+    "CharacterBaseMasterId": 203,
+    "Order": 5,
+    "ConditionType": 5,
+    "VoiceAssetId": "203503",
+    "Motion": "1"
+  },
+  {
+    "Id": 2036,
+    "CharacterBaseMasterId": 203,
+    "Order": 6,
+    "ConditionType": 6,
+    "VoiceAssetId": "203502",
+    "Motion": "6"
+  },
+  {
+    "Id": 2041,
+    "CharacterBaseMasterId": 204,
+    "Order": 1,
+    "ConditionType": 1,
+    "VoiceAssetId": "204507",
+    "Motion": "2"
+  },
+  {
+    "Id": 2042,
+    "CharacterBaseMasterId": 204,
+    "Order": 2,
+    "ConditionType": 2,
+    "VoiceAssetId": "204506",
+    "Motion": "3"
+  },
+  {
+    "Id": 2043,
+    "CharacterBaseMasterId": 204,
+    "Order": 3,
+    "ConditionType": 3,
+    "VoiceAssetId": "204505",
+    "Motion": "8"
+  },
+  {
+    "Id": 2044,
+    "CharacterBaseMasterId": 204,
+    "Order": 4,
+    "ConditionType": 4,
+    "VoiceAssetId": "204504",
+    "Motion": "5"
+  },
+  {
+    "Id": 2045,
+    "CharacterBaseMasterId": 204,
+    "Order": 5,
+    "ConditionType": 5,
+    "VoiceAssetId": "204503",
+    "Motion": "1"
+  },
+  {
+    "Id": 2046,
+    "CharacterBaseMasterId": 204,
+    "Order": 6,
+    "ConditionType": 6,
+    "VoiceAssetId": "204502",
+    "Motion": "7"
+  },
+  {
+    "Id": 2051,
+    "CharacterBaseMasterId": 205,
+    "Order": 1,
+    "ConditionType": 1,
+    "VoiceAssetId": "205507",
+    "Motion": "8"
+  },
+  {
+    "Id": 2052,
+    "CharacterBaseMasterId": 205,
+    "Order": 2,
+    "ConditionType": 2,
+    "VoiceAssetId": "205506",
+    "Motion": "7"
+  },
+  {
+    "Id": 2053,
+    "CharacterBaseMasterId": 205,
+    "Order": 3,
+    "ConditionType": 3,
+    "VoiceAssetId": "205505",
+    "Motion": "5"
+  },
+  {
+    "Id": 2054,
+    "CharacterBaseMasterId": 205,
+    "Order": 4,
+    "ConditionType": 4,
+    "VoiceAssetId": "205504",
+    "Motion": "2"
+  },
+  {
+    "Id": 2055,
+    "CharacterBaseMasterId": 205,
+    "Order": 5,
+    "ConditionType": 5,
+    "VoiceAssetId": "205503",
+    "Motion": "3"
+  },
+  {
+    "Id": 2056,
+    "CharacterBaseMasterId": 205,
+    "Order": 6,
+    "ConditionType": 6,
+    "VoiceAssetId": "205502",
+    "Motion": "6"
+  },
+  {
+    "Id": 3011,
+    "CharacterBaseMasterId": 301,
+    "Order": 1,
+    "ConditionType": 1,
+    "VoiceAssetId": "301507",
+    "Motion": "8"
+  },
+  {
+    "Id": 3012,
+    "CharacterBaseMasterId": 301,
+    "Order": 2,
+    "ConditionType": 2,
+    "VoiceAssetId": "301506",
+    "Motion": "7"
+  },
+  {
+    "Id": 3013,
+    "CharacterBaseMasterId": 301,
+    "Order": 3,
+    "ConditionType": 3,
+    "VoiceAssetId": "301505",
+    "Motion": "5"
+  },
+  {
+    "Id": 3014,
+    "CharacterBaseMasterId": 301,
+    "Order": 4,
+    "ConditionType": 4,
+    "VoiceAssetId": "301504",
+    "Motion": "4"
+  },
+  {
+    "Id": 3015,
+    "CharacterBaseMasterId": 301,
+    "Order": 5,
+    "ConditionType": 5,
+    "VoiceAssetId": "301503",
+    "Motion": "2"
+  },
+  {
+    "Id": 3016,
+    "CharacterBaseMasterId": 301,
+    "Order": 6,
+    "ConditionType": 6,
+    "VoiceAssetId": "301502",
+    "Motion": "1"
+  },
+  {
+    "Id": 3021,
+    "CharacterBaseMasterId": 302,
+    "Order": 1,
+    "ConditionType": 1,
+    "VoiceAssetId": "302507",
+    "Motion": "6"
+  },
+  {
+    "Id": 3022,
+    "CharacterBaseMasterId": 302,
+    "Order": 2,
+    "ConditionType": 2,
+    "VoiceAssetId": "302506",
+    "Motion": "5"
+  },
+  {
+    "Id": 3023,
+    "CharacterBaseMasterId": 302,
+    "Order": 3,
+    "ConditionType": 3,
+    "VoiceAssetId": "302505",
+    "Motion": "2"
+  },
+  {
+    "Id": 3024,
+    "CharacterBaseMasterId": 302,
+    "Order": 4,
+    "ConditionType": 4,
+    "VoiceAssetId": "302504",
+    "Motion": "8"
+  },
+  {
+    "Id": 3025,
+    "CharacterBaseMasterId": 302,
+    "Order": 5,
+    "ConditionType": 5,
+    "VoiceAssetId": "302503",
+    "Motion": "4"
+  },
+  {
+    "Id": 3026,
+    "CharacterBaseMasterId": 302,
+    "Order": 6,
+    "ConditionType": 6,
+    "VoiceAssetId": "302502",
+    "Motion": "1"
+  },
+  {
+    "Id": 3031,
+    "CharacterBaseMasterId": 303,
+    "Order": 1,
+    "ConditionType": 1,
+    "VoiceAssetId": "303507",
+    "Motion": "8"
+  },
+  {
+    "Id": 3032,
+    "CharacterBaseMasterId": 303,
+    "Order": 2,
+    "ConditionType": 2,
+    "VoiceAssetId": "303506",
+    "Motion": "4"
+  },
+  {
+    "Id": 3033,
+    "CharacterBaseMasterId": 303,
+    "Order": 3,
+    "ConditionType": 3,
+    "VoiceAssetId": "303505",
+    "Motion": "2"
+  },
+  {
+    "Id": 3034,
+    "CharacterBaseMasterId": 303,
+    "Order": 4,
+    "ConditionType": 4,
+    "VoiceAssetId": "303504",
+    "Motion": "3"
+  },
+  {
+    "Id": 3035,
+    "CharacterBaseMasterId": 303,
+    "Order": 5,
+    "ConditionType": 5,
+    "VoiceAssetId": "303503",
+    "Motion": "6"
+  },
+  {
+    "Id": 3036,
+    "CharacterBaseMasterId": 303,
+    "Order": 6,
+    "ConditionType": 6,
+    "VoiceAssetId": "303502",
+    "Motion": "7"
+  },
+  {
+    "Id": 3041,
+    "CharacterBaseMasterId": 304,
+    "Order": 1,
+    "ConditionType": 1,
+    "VoiceAssetId": "304507",
+    "Motion": "8"
+  },
+  {
+    "Id": 3042,
+    "CharacterBaseMasterId": 304,
+    "Order": 2,
+    "ConditionType": 2,
+    "VoiceAssetId": "304506",
+    "Motion": "7"
+  },
+  {
+    "Id": 3043,
+    "CharacterBaseMasterId": 304,
+    "Order": 3,
+    "ConditionType": 3,
+    "VoiceAssetId": "304505",
+    "Motion": "2"
+  },
+  {
+    "Id": 3044,
+    "CharacterBaseMasterId": 304,
+    "Order": 4,
+    "ConditionType": 4,
+    "VoiceAssetId": "304504",
+    "Motion": "4"
+  },
+  {
+    "Id": 3045,
+    "CharacterBaseMasterId": 304,
+    "Order": 5,
+    "ConditionType": 5,
+    "VoiceAssetId": "304503",
+    "Motion": "6"
+  },
+  {
+    "Id": 3046,
+    "CharacterBaseMasterId": 304,
+    "Order": 6,
+    "ConditionType": 6,
+    "VoiceAssetId": "304502",
+    "Motion": "3"
+  },
+  {
+    "Id": 3051,
+    "CharacterBaseMasterId": 305,
+    "Order": 1,
+    "ConditionType": 1,
+    "VoiceAssetId": "305507",
+    "Motion": "6"
+  },
+  {
+    "Id": 3052,
+    "CharacterBaseMasterId": 305,
+    "Order": 2,
+    "ConditionType": 2,
+    "VoiceAssetId": "305506",
+    "Motion": "4"
+  },
+  {
+    "Id": 3053,
+    "CharacterBaseMasterId": 305,
+    "Order": 3,
+    "ConditionType": 3,
+    "VoiceAssetId": "305505",
+    "Motion": "3"
+  },
+  {
+    "Id": 3054,
+    "CharacterBaseMasterId": 305,
+    "Order": 4,
+    "ConditionType": 4,
+    "VoiceAssetId": "305504",
+    "Motion": "9"
+  },
+  {
+    "Id": 3055,
+    "CharacterBaseMasterId": 305,
+    "Order": 5,
+    "ConditionType": 5,
+    "VoiceAssetId": "305503",
+    "Motion": "5"
+  },
+  {
+    "Id": 3056,
+    "CharacterBaseMasterId": 305,
+    "Order": 6,
+    "ConditionType": 6,
+    "VoiceAssetId": "305502",
+    "Motion": "8"
+  },
+  {
+    "Id": 4011,
+    "CharacterBaseMasterId": 401,
+    "Order": 1,
+    "ConditionType": 1,
+    "VoiceAssetId": "401507",
+    "Motion": "6"
+  },
+  {
+    "Id": 4012,
+    "CharacterBaseMasterId": 401,
+    "Order": 2,
+    "ConditionType": 2,
+    "VoiceAssetId": "401506",
+    "Motion": "7"
+  },
+  {
+    "Id": 4013,
+    "CharacterBaseMasterId": 401,
+    "Order": 3,
+    "ConditionType": 3,
+    "VoiceAssetId": "401505",
+    "Motion": "4"
+  },
+  {
+    "Id": 4014,
+    "CharacterBaseMasterId": 401,
+    "Order": 4,
+    "ConditionType": 4,
+    "VoiceAssetId": "401504",
+    "Motion": "5"
+  },
+  {
+    "Id": 4015,
+    "CharacterBaseMasterId": 401,
+    "Order": 5,
+    "ConditionType": 5,
+    "VoiceAssetId": "401503",
+    "Motion": "3"
+  },
+  {
+    "Id": 4016,
+    "CharacterBaseMasterId": 401,
+    "Order": 6,
+    "ConditionType": 6,
+    "VoiceAssetId": "401502",
+    "Motion": "1"
+  },
+  {
+    "Id": 4021,
+    "CharacterBaseMasterId": 402,
+    "Order": 1,
+    "ConditionType": 1,
+    "VoiceAssetId": "402507",
+    "Motion": "8"
+  },
+  {
+    "Id": 4022,
+    "CharacterBaseMasterId": 402,
+    "Order": 2,
+    "ConditionType": 2,
+    "VoiceAssetId": "402506",
+    "Motion": "2"
+  },
+  {
+    "Id": 4023,
+    "CharacterBaseMasterId": 402,
+    "Order": 3,
+    "ConditionType": 3,
+    "VoiceAssetId": "402505",
+    "Motion": "6"
+  },
+  {
+    "Id": 4024,
+    "CharacterBaseMasterId": 402,
+    "Order": 4,
+    "ConditionType": 4,
+    "VoiceAssetId": "402504",
+    "Motion": "3"
+  },
+  {
+    "Id": 4025,
+    "CharacterBaseMasterId": 402,
+    "Order": 5,
+    "ConditionType": 5,
+    "VoiceAssetId": "402503",
+    "Motion": "5"
+  },
+  {
+    "Id": 4026,
+    "CharacterBaseMasterId": 402,
+    "Order": 6,
+    "ConditionType": 6,
+    "VoiceAssetId": "402502",
+    "Motion": "4"
+  },
+  {
+    "Id": 4031,
+    "CharacterBaseMasterId": 403,
+    "Order": 1,
+    "ConditionType": 1,
+    "VoiceAssetId": "403507",
+    "Motion": "2"
+  },
+  {
+    "Id": 4032,
+    "CharacterBaseMasterId": 403,
+    "Order": 2,
+    "ConditionType": 2,
+    "VoiceAssetId": "403506",
+    "Motion": "8"
+  },
+  {
+    "Id": 4033,
+    "CharacterBaseMasterId": 403,
+    "Order": 3,
+    "ConditionType": 3,
+    "VoiceAssetId": "403505",
+    "Motion": "5"
+  },
+  {
+    "Id": 4034,
+    "CharacterBaseMasterId": 403,
+    "Order": 4,
+    "ConditionType": 4,
+    "VoiceAssetId": "403504",
+    "Motion": "7"
+  },
+  {
+    "Id": 4035,
+    "CharacterBaseMasterId": 403,
+    "Order": 5,
+    "ConditionType": 5,
+    "VoiceAssetId": "403503",
+    "Motion": "4"
+  },
+  {
+    "Id": 4036,
+    "CharacterBaseMasterId": 403,
+    "Order": 6,
+    "ConditionType": 6,
+    "VoiceAssetId": "403502",
+    "Motion": "3"
+  },
+  {
+    "Id": 4041,
+    "CharacterBaseMasterId": 404,
+    "Order": 1,
+    "ConditionType": 1,
+    "VoiceAssetId": "404507",
+    "Motion": "8"
+  },
+  {
+    "Id": 4042,
+    "CharacterBaseMasterId": 404,
+    "Order": 2,
+    "ConditionType": 2,
+    "VoiceAssetId": "404506",
+    "Motion": "6"
+  },
+  {
+    "Id": 4043,
+    "CharacterBaseMasterId": 404,
+    "Order": 3,
+    "ConditionType": 3,
+    "VoiceAssetId": "404505",
+    "Motion": "7"
+  },
+  {
+    "Id": 4044,
+    "CharacterBaseMasterId": 404,
+    "Order": 4,
+    "ConditionType": 4,
+    "VoiceAssetId": "404504",
+    "Motion": "4"
+  },
+  {
+    "Id": 4045,
+    "CharacterBaseMasterId": 404,
+    "Order": 5,
+    "ConditionType": 5,
+    "VoiceAssetId": "404503",
+    "Motion": "5"
+  },
+  {
+    "Id": 4046,
+    "CharacterBaseMasterId": 404,
+    "Order": 6,
+    "ConditionType": 6,
+    "VoiceAssetId": "404502",
+    "Motion": "2"
+  },
+  {
+    "Id": 4051,
+    "CharacterBaseMasterId": 405,
+    "Order": 1,
+    "ConditionType": 1,
+    "VoiceAssetId": "405507",
+    "Motion": "4"
+  },
+  {
+    "Id": 4052,
+    "CharacterBaseMasterId": 405,
+    "Order": 2,
+    "ConditionType": 2,
+    "VoiceAssetId": "405506",
+    "Motion": "2"
+  },
+  {
+    "Id": 4053,
+    "CharacterBaseMasterId": 405,
+    "Order": 3,
+    "ConditionType": 3,
+    "VoiceAssetId": "405505",
+    "Motion": "7"
+  },
+  {
+    "Id": 4054,
+    "CharacterBaseMasterId": 405,
+    "Order": 4,
+    "ConditionType": 4,
+    "VoiceAssetId": "405504",
+    "Motion": "8"
+  },
+  {
+    "Id": 4055,
+    "CharacterBaseMasterId": 405,
+    "Order": 5,
+    "ConditionType": 5,
+    "VoiceAssetId": "405503",
+    "Motion": "5"
+  },
+  {
+    "Id": 4056,
+    "CharacterBaseMasterId": 405,
+    "Order": 6,
+    "ConditionType": 6,
+    "VoiceAssetId": "405502",
+    "Motion": "3"
+  }
 ]

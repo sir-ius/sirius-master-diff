@@ -1,2126 +1,2126 @@
 [
-  [
-    10101,
-    101,
-    1,
-    false,
-    1,
-    1,
-    1
-  ],
-  [
-    10102,
-    101,
-    1,
-    false,
-    2,
-    2,
-    4
-  ],
-  [
-    10103,
-    101,
-    1,
-    false,
-    3,
-    3,
-    7
-  ],
-  [
-    10104,
-    101,
-    1,
-    false,
-    4,
-    4,
-    10
-  ],
-  [
-    10105,
-    101,
-    2,
-    false,
-    5,
-    1,
-    1
-  ],
-  [
-    10106,
-    101,
-    2,
-    false,
-    6,
-    2,
-    3
-  ],
-  [
-    10201,
-    102,
-    3,
-    false,
-    1,
-    1,
-    3
-  ],
-  [
-    10202,
-    102,
-    3,
-    false,
-    2,
-    2,
-    6
-  ],
-  [
-    10203,
-    102,
-    3,
-    false,
-    3,
-    3,
-    10
-  ],
-  [
-    10204,
-    102,
-    4,
-    false,
-    4,
-    1,
-    1
-  ],
-  [
-    10205,
-    102,
-    5,
-    true,
-    5,
-    1,
-    2
-  ],
-  [
-    10206,
-    102,
-    5,
-    true,
-    6,
-    2,
-    3
-  ],
-  [
-    10301,
-    103,
-    6,
-    false,
-    1,
-    1,
-    1
-  ],
-  [
-    10302,
-    103,
-    6,
-    false,
-    2,
-    2,
-    2
-  ],
-  [
-    10303,
-    103,
-    6,
-    false,
-    3,
-    3,
-    3
-  ],
-  [
-    10401,
-    104,
-    7,
-    false,
-    1,
-    1,
-    1
-  ],
-  [
-    10402,
-    104,
-    8,
-    false,
-    2,
-    1,
-    1
-  ],
-  [
-    10403,
-    104,
-    8,
-    false,
-    3,
-    2,
-    2
-  ],
-  [
-    10404,
-    104,
-    8,
-    false,
-    4,
-    3,
-    3
-  ],
-  [
-    10501,
-    105,
-    9,
-    false,
-    1,
-    1,
-    1
-  ],
-  [
-    10502,
-    105,
-    9,
-    false,
-    2,
-    2,
-    2
-  ],
-  [
-    10503,
-    105,
-    9,
-    false,
-    3,
-    3,
-    3
-  ],
-  [
-    10504,
-    105,
-    10,
-    false,
-    4,
-    1,
-    1
-  ],
-  [
-    10505,
-    105,
-    10,
-    false,
-    5,
-    2,
-    3
-  ],
-  [
-    20101,
-    201,
-    1,
-    false,
-    1,
-    5,
-    20
-  ],
-  [
-    20102,
-    201,
-    1,
-    false,
-    2,
-    6,
-    40
-  ],
-  [
-    20103,
-    201,
-    1,
-    false,
-    3,
-    7,
-    60
-  ],
-  [
-    20104,
-    201,
-    1,
-    false,
-    4,
-    8,
-    80
-  ],
-  [
-    20105,
-    201,
-    2,
-    false,
-    5,
-    3,
-    5
-  ],
-  [
-    20106,
-    201,
-    2,
-    false,
-    6,
-    4,
-    10
-  ],
-  [
-    20201,
-    202,
-    3,
-    false,
-    1,
-    4,
-    15
-  ],
-  [
-    20202,
-    202,
-    3,
-    false,
-    2,
-    5,
-    20
-  ],
-  [
-    20203,
-    202,
-    3,
-    false,
-    3,
-    6,
-    30
-  ],
-  [
-    20204,
-    202,
-    4,
-    false,
-    4,
-    2,
-    2
-  ],
-  [
-    20205,
-    202,
-    5,
-    true,
-    5,
-    3,
-    4
-  ],
-  [
-    20206,
-    202,
-    5,
-    true,
-    6,
-    4,
-    5
-  ],
-  [
-    20301,
-    203,
-    6,
-    false,
-    1,
-    4,
-    4
-  ],
-  [
-    20302,
-    203,
-    6,
-    false,
-    2,
-    5,
-    5
-  ],
-  [
-    20303,
-    203,
-    6,
-    false,
-    3,
-    6,
-    6
-  ],
-  [
-    20401,
-    204,
-    7,
-    false,
-    1,
-    2,
-    2
-  ],
-  [
-    20402,
-    204,
-    8,
-    false,
-    2,
-    4,
-    4
-  ],
-  [
-    20403,
-    204,
-    8,
-    false,
-    3,
-    5,
-    5
-  ],
-  [
-    20404,
-    204,
-    8,
-    false,
-    4,
-    6,
-    6
-  ],
-  [
-    20501,
-    205,
-    9,
-    false,
-    1,
-    4,
-    4
-  ],
-  [
-    20502,
-    205,
-    9,
-    false,
-    2,
-    5,
-    6
-  ],
-  [
-    20503,
-    205,
-    9,
-    false,
-    3,
-    6,
-    8
-  ],
-  [
-    20504,
-    205,
-    10,
-    false,
-    4,
-    3,
-    5
-  ],
-  [
-    20505,
-    205,
-    10,
-    false,
-    5,
-    4,
-    8
-  ],
-  [
-    20506,
-    205,
-    11,
-    false,
-    6,
-    1,
-    2
-  ],
-  [
-    30101,
-    301,
-    1,
-    false,
-    1,
-    9,
-    100
-  ],
-  [
-    30102,
-    301,
-    1,
-    false,
-    2,
-    10,
-    125
-  ],
-  [
-    30103,
-    301,
-    1,
-    false,
-    3,
-    11,
-    150
-  ],
-  [
-    30104,
-    301,
-    2,
-    false,
-    4,
-    5,
-    20
-  ],
-  [
-    30105,
-    301,
-    2,
-    false,
-    5,
-    6,
-    30
-  ],
-  [
-    30106,
-    301,
-    2,
-    false,
-    6,
-    7,
-    40
-  ],
-  [
-    30201,
-    302,
-    3,
-    false,
-    1,
-    7,
-    40
-  ],
-  [
-    30202,
-    302,
-    3,
-    false,
-    2,
-    8,
-    50
-  ],
-  [
-    30203,
-    302,
-    3,
-    false,
-    3,
-    9,
-    60
-  ],
-  [
-    30204,
-    302,
-    4,
-    false,
-    4,
-    3,
-    3
-  ],
-  [
-    30205,
-    302,
-    5,
-    true,
-    5,
-    5,
-    7
-  ],
-  [
-    30206,
-    302,
-    5,
-    true,
-    6,
-    6,
-    9
-  ],
-  [
-    30301,
-    303,
-    6,
-    false,
-    1,
-    7,
-    7
-  ],
-  [
-    30302,
-    303,
-    6,
-    false,
-    2,
-    8,
-    8
-  ],
-  [
-    30303,
-    303,
-    6,
-    false,
-    3,
-    9,
-    9
-  ],
-  [
-    30401,
-    304,
-    7,
-    false,
-    1,
-    3,
-    3
-  ],
-  [
-    30402,
-    304,
-    8,
-    false,
-    2,
-    7,
-    7
-  ],
-  [
-    30403,
-    304,
-    8,
-    false,
-    3,
-    8,
-    8
-  ],
-  [
-    30404,
-    304,
-    8,
-    false,
-    4,
-    9,
-    9
-  ],
-  [
-    30501,
-    305,
-    9,
-    false,
-    1,
-    7,
-    10
-  ],
-  [
-    30502,
-    305,
-    9,
-    false,
-    2,
-    8,
-    12
-  ],
-  [
-    30503,
-    305,
-    9,
-    false,
-    3,
-    9,
-    15
-  ],
-  [
-    30504,
-    305,
-    10,
-    false,
-    4,
-    5,
-    12
-  ],
-  [
-    30505,
-    305,
-    10,
-    false,
-    5,
-    6,
-    17
-  ],
-  [
-    30506,
-    305,
-    11,
-    false,
-    6,
-    2,
-    3
-  ],
-  [
-    40101,
-    401,
-    1,
-    false,
-    1,
-    12,
-    175
-  ],
-  [
-    40102,
-    401,
-    1,
-    false,
-    2,
-    13,
-    200
-  ],
-  [
-    40103,
-    401,
-    1,
-    false,
-    3,
-    14,
-    250
-  ],
-  [
-    40104,
-    401,
-    2,
-    false,
-    4,
-    8,
-    60
-  ],
-  [
-    40105,
-    401,
-    2,
-    false,
-    5,
-    9,
-    80
-  ],
-  [
-    40106,
-    401,
-    2,
-    false,
-    6,
-    10,
-    100
-  ],
-  [
-    40201,
-    402,
-    3,
-    false,
-    1,
-    10,
-    70
-  ],
-  [
-    40202,
-    402,
-    3,
-    false,
-    2,
-    11,
-    80
-  ],
-  [
-    40203,
-    402,
-    3,
-    false,
-    3,
-    12,
-    90
-  ],
-  [
-    40204,
-    402,
-    4,
-    false,
-    4,
-    4,
-    4
-  ],
-  [
-    40205,
-    402,
-    5,
-    true,
-    5,
-    7,
-    11
-  ],
-  [
-    40206,
-    402,
-    5,
-    true,
-    6,
-    8,
-    13
-  ],
-  [
-    40301,
-    403,
-    6,
-    false,
-    1,
-    10,
-    10
-  ],
-  [
-    40302,
-    403,
-    6,
-    false,
-    2,
-    11,
-    11
-  ],
-  [
-    40303,
-    403,
-    6,
-    false,
-    3,
-    12,
-    12
-  ],
-  [
-    40401,
-    404,
-    7,
-    false,
-    1,
-    4,
-    4
-  ],
-  [
-    40402,
-    404,
-    8,
-    false,
-    2,
-    10,
-    10
-  ],
-  [
-    40403,
-    404,
-    8,
-    false,
-    3,
-    11,
-    11
-  ],
-  [
-    40404,
-    404,
-    8,
-    false,
-    4,
-    12,
-    12
-  ],
-  [
-    40501,
-    405,
-    9,
-    false,
-    1,
-    10,
-    18
-  ],
-  [
-    40502,
-    405,
-    9,
-    false,
-    2,
-    11,
-    21
-  ],
-  [
-    40503,
-    405,
-    9,
-    false,
-    3,
-    12,
-    25
-  ],
-  [
-    40504,
-    405,
-    10,
-    false,
-    4,
-    7,
-    23
-  ],
-  [
-    40505,
-    405,
-    10,
-    false,
-    5,
-    8,
-    30
-  ],
-  [
-    40506,
-    405,
-    11,
-    false,
-    6,
-    3,
-    4
-  ],
-  [
-    50101,
-    501,
-    1,
-    false,
-    1,
-    15,
-    300
-  ],
-  [
-    50102,
-    501,
-    1,
-    false,
-    2,
-    16,
-    400
-  ],
-  [
-    50103,
-    501,
-    2,
-    false,
-    3,
-    11,
-    125
-  ],
-  [
-    50104,
-    501,
-    2,
-    false,
-    4,
-    12,
-    150
-  ],
-  [
-    50105,
-    501,
-    2,
-    false,
-    5,
-    13,
-    175
-  ],
-  [
-    50106,
-    501,
-    2,
-    false,
-    6,
-    14,
-    200
-  ],
-  [
-    50201,
-    502,
-    3,
-    false,
-    1,
-    13,
-    100
-  ],
-  [
-    50202,
-    502,
-    3,
-    false,
-    2,
-    14,
-    125
-  ],
-  [
-    50203,
-    502,
-    3,
-    false,
-    3,
-    15,
-    150
-  ],
-  [
-    50204,
-    502,
-    4,
-    false,
-    4,
-    5,
-    5
-  ],
-  [
-    50205,
-    502,
-    5,
-    true,
-    5,
-    9,
-    15
-  ],
-  [
-    50206,
-    502,
-    5,
-    true,
-    6,
-    10,
-    17
-  ],
-  [
-    50301,
-    503,
-    6,
-    false,
-    1,
-    13,
-    13
-  ],
-  [
-    50302,
-    503,
-    6,
-    false,
-    2,
-    14,
-    14
-  ],
-  [
-    50303,
-    503,
-    6,
-    false,
-    3,
-    15,
-    15
-  ],
-  [
-    50401,
-    504,
-    7,
-    false,
-    1,
-    5,
-    5
-  ],
-  [
-    50402,
-    504,
-    8,
-    false,
-    2,
-    13,
-    13
-  ],
-  [
-    50403,
-    504,
-    8,
-    false,
-    3,
-    14,
-    14
-  ],
-  [
-    50404,
-    504,
-    8,
-    false,
-    4,
-    15,
-    15
-  ],
-  [
-    50501,
-    505,
-    9,
-    false,
-    1,
-    13,
-    30
-  ],
-  [
-    50502,
-    505,
-    9,
-    false,
-    2,
-    14,
-    35
-  ],
-  [
-    50503,
-    505,
-    9,
-    false,
-    3,
-    15,
-    40
-  ],
-  [
-    50504,
-    505,
-    10,
-    false,
-    4,
-    9,
-    37
-  ],
-  [
-    50505,
-    505,
-    10,
-    false,
-    5,
-    10,
-    45
-  ],
-  [
-    60101,
-    601,
-    1,
-    false,
-    1,
-    17,
-    800
-  ],
-  [
-    60102,
-    601,
-    1,
-    false,
-    2,
-    18,
-    1000
-  ],
-  [
-    60103,
-    601,
-    2,
-    false,
-    3,
-    15,
-    250
-  ],
-  [
-    60104,
-    601,
-    2,
-    false,
-    4,
-    16,
-    300
-  ],
-  [
-    60105,
-    601,
-    2,
-    false,
-    5,
-    17,
-    350
-  ],
-  [
-    60106,
-    601,
-    2,
-    false,
-    6,
-    18,
-    400
-  ],
-  [
-    60201,
-    602,
-    3,
-    false,
-    1,
-    16,
-    175
-  ],
-  [
-    60202,
-    602,
-    3,
-    false,
-    2,
-    17,
-    200
-  ],
-  [
-    60203,
-    602,
-    3,
-    false,
-    3,
-    18,
-    225
-  ],
-  [
-    60204,
-    602,
-    4,
-    false,
-    4,
-    6,
-    6
-  ],
-  [
-    60205,
-    602,
-    5,
-    true,
-    5,
-    11,
-    19
-  ],
-  [
-    60206,
-    602,
-    5,
-    true,
-    6,
-    12,
-    21
-  ],
-  [
-    60301,
-    603,
-    6,
-    false,
-    1,
-    16,
-    16
-  ],
-  [
-    60302,
-    603,
-    6,
-    false,
-    2,
-    17,
-    17
-  ],
-  [
-    60303,
-    603,
-    6,
-    false,
-    3,
-    18,
-    18
-  ],
-  [
-    60401,
-    604,
-    7,
-    false,
-    1,
-    6,
-    6
-  ],
-  [
-    60402,
-    604,
-    8,
-    false,
-    2,
-    16,
-    16
-  ],
-  [
-    60403,
-    604,
-    8,
-    false,
-    3,
-    17,
-    17
-  ],
-  [
-    60404,
-    604,
-    8,
-    false,
-    4,
-    18,
-    18
-  ],
-  [
-    60501,
-    605,
-    9,
-    false,
-    1,
-    16,
-    46
-  ],
-  [
-    60502,
-    605,
-    9,
-    false,
-    2,
-    17,
-    53
-  ],
-  [
-    60503,
-    605,
-    9,
-    false,
-    3,
-    18,
-    60
-  ],
-  [
-    60504,
-    605,
-    11,
-    false,
-    4,
-    4,
-    5
-  ],
-  [
-    70101,
-    701,
-    1,
-    false,
-    1,
-    19,
-    1250
-  ],
-  [
-    70102,
-    701,
-    1,
-    false,
-    2,
-    20,
-    1500
-  ],
-  [
-    70103,
-    701,
-    2,
-    false,
-    3,
-    19,
-    450
-  ],
-  [
-    70104,
-    701,
-    2,
-    false,
-    4,
-    20,
-    500
-  ],
-  [
-    70105,
-    701,
-    2,
-    false,
-    5,
-    21,
-    550
-  ],
-  [
-    70106,
-    701,
-    2,
-    false,
-    6,
-    22,
-    600
-  ],
-  [
-    70201,
-    702,
-    3,
-    false,
-    1,
-    19,
-    250
-  ],
-  [
-    70202,
-    702,
-    3,
-    false,
-    2,
-    20,
-    275
-  ],
-  [
-    70203,
-    702,
-    3,
-    false,
-    3,
-    21,
-    300
-  ],
-  [
-    70204,
-    702,
-    4,
-    false,
-    4,
-    7,
-    7
-  ],
-  [
-    70205,
-    702,
-    5,
-    true,
-    5,
-    13,
-    23
-  ],
-  [
-    70206,
-    702,
-    5,
-    true,
-    6,
-    14,
-    24
-  ],
-  [
-    70301,
-    703,
-    6,
-    false,
-    1,
-    19,
-    19
-  ],
-  [
-    70302,
-    703,
-    6,
-    false,
-    2,
-    20,
-    20
-  ],
-  [
-    70303,
-    703,
-    6,
-    false,
-    3,
-    21,
-    21
-  ],
-  [
-    70401,
-    704,
-    7,
-    false,
-    1,
-    7,
-    7
-  ],
-  [
-    70402,
-    704,
-    8,
-    false,
-    2,
-    19,
-    19
-  ],
-  [
-    70403,
-    704,
-    8,
-    false,
-    3,
-    20,
-    20
-  ],
-  [
-    70404,
-    704,
-    8,
-    false,
-    4,
-    21,
-    21
-  ],
-  [
-    70501,
-    705,
-    9,
-    false,
-    1,
-    19,
-    68
-  ],
-  [
-    70502,
-    705,
-    9,
-    false,
-    2,
-    20,
-    76
-  ],
-  [
-    70503,
-    705,
-    9,
-    false,
-    3,
-    21,
-    85
-  ],
-  [
-    80101,
-    801,
-    1,
-    false,
-    1,
-    21,
-    1250
-  ],
-  [
-    80102,
-    801,
-    1,
-    false,
-    2,
-    22,
-    1500
-  ],
-  [
-    80103,
-    801,
-    2,
-    false,
-    3,
-    23,
-    700
-  ],
-  [
-    80104,
-    801,
-    2,
-    false,
-    4,
-    24,
-    800
-  ],
-  [
-    80105,
-    801,
-    2,
-    false,
-    5,
-    25,
-    900
-  ],
-  [
-    80106,
-    801,
-    2,
-    false,
-    6,
-    26,
-    1000
-  ],
-  [
-    80201,
-    802,
-    3,
-    false,
-    1,
-    22,
-    325
-  ],
-  [
-    80202,
-    802,
-    3,
-    false,
-    2,
-    23,
-    350
-  ],
-  [
-    80203,
-    802,
-    3,
-    false,
-    3,
-    24,
-    375
-  ],
-  [
-    80204,
-    802,
-    4,
-    false,
-    4,
-    8,
-    8
-  ],
-  [
-    80205,
-    802,
-    5,
-    true,
-    5,
-    15,
-    25
-  ],
-  [
-    80206,
-    802,
-    5,
-    true,
-    6,
-    16,
-    26
-  ],
-  [
-    80301,
-    803,
-    6,
-    false,
-    1,
-    22,
-    22
-  ],
-  [
-    80302,
-    803,
-    6,
-    false,
-    2,
-    23,
-    23
-  ],
-  [
-    80303,
-    803,
-    6,
-    false,
-    3,
-    24,
-    24
-  ],
-  [
-    80401,
-    804,
-    7,
-    false,
-    1,
-    8,
-    8
-  ],
-  [
-    80402,
-    804,
-    8,
-    false,
-    2,
-    22,
-    22
-  ],
-  [
-    80403,
-    804,
-    8,
-    false,
-    3,
-    23,
-    23
-  ],
-  [
-    80404,
-    804,
-    8,
-    false,
-    4,
-    24,
-    24
-  ],
-  [
-    80501,
-    805,
-    9,
-    false,
-    1,
-    22,
-    95
-  ],
-  [
-    80502,
-    805,
-    9,
-    false,
-    2,
-    23,
-    105
-  ],
-  [
-    80503,
-    805,
-    9,
-    false,
-    3,
-    24,
-    115
-  ],
-  [
-    80504,
-    805,
-    11,
-    false,
-    4,
-    5,
-    6
-  ],
-  [
-    90101,
-    901,
-    1,
-    false,
-    1,
-    23,
-    1750
-  ],
-  [
-    90102,
-    901,
-    1,
-    false,
-    2,
-    24,
-    2000
-  ],
-  [
-    90103,
-    901,
-    2,
-    false,
-    3,
-    27,
-    1200
-  ],
-  [
-    90104,
-    901,
-    2,
-    false,
-    4,
-    28,
-    1400
-  ],
-  [
-    90105,
-    901,
-    2,
-    false,
-    5,
-    29,
-    1600
-  ],
-  [
-    90106,
-    901,
-    2,
-    false,
-    6,
-    30,
-    1800
-  ],
-  [
-    90201,
-    902,
-    3,
-    false,
-    1,
-    25,
-    400
-  ],
-  [
-    90202,
-    902,
-    3,
-    false,
-    2,
-    26,
-    425
-  ],
-  [
-    90203,
-    902,
-    3,
-    false,
-    3,
-    27,
-    450
-  ],
-  [
-    90204,
-    902,
-    4,
-    false,
-    4,
-    9,
-    10
-  ],
-  [
-    90205,
-    902,
-    5,
-    true,
-    5,
-    17,
-    27
-  ],
-  [
-    90206,
-    902,
-    5,
-    true,
-    6,
-    18,
-    28
-  ],
-  [
-    90301,
-    903,
-    6,
-    false,
-    1,
-    25,
-    25
-  ],
-  [
-    90302,
-    903,
-    6,
-    false,
-    2,
-    26,
-    26
-  ],
-  [
-    90303,
-    903,
-    6,
-    false,
-    3,
-    27,
-    27
-  ],
-  [
-    90401,
-    904,
-    7,
-    false,
-    1,
-    9,
-    9
-  ],
-  [
-    90402,
-    904,
-    8,
-    false,
-    2,
-    25,
-    25
-  ],
-  [
-    90403,
-    904,
-    8,
-    false,
-    3,
-    26,
-    26
-  ],
-  [
-    90404,
-    904,
-    8,
-    false,
-    4,
-    27,
-    27
-  ],
-  [
-    90501,
-    905,
-    9,
-    false,
-    1,
-    25,
-    126
-  ],
-  [
-    90502,
-    905,
-    9,
-    false,
-    2,
-    26,
-    138
-  ],
-  [
-    90503,
-    905,
-    9,
-    false,
-    3,
-    27,
-    150
-  ],
-  [
-    100101,
-    1001,
-    1,
-    false,
-    1,
-    25,
-    2500
-  ],
-  [
-    100102,
-    1001,
-    1,
-    false,
-    2,
-    26,
-    3000
-  ],
-  [
-    100103,
-    1001,
-    2,
-    false,
-    3,
-    31,
-    2000
-  ],
-  [
-    100104,
-    1001,
-    2,
-    false,
-    4,
-    32,
-    2300
-  ],
-  [
-    100105,
-    1001,
-    2,
-    false,
-    5,
-    33,
-    2600
-  ],
-  [
-    100106,
-    1001,
-    2,
-    false,
-    6,
-    34,
-    3000
-  ],
-  [
-    100201,
-    1002,
-    3,
-    false,
-    1,
-    28,
-    500
-  ],
-  [
-    100202,
-    1002,
-    3,
-    false,
-    2,
-    29,
-    550
-  ],
-  [
-    100203,
-    1002,
-    3,
-    false,
-    3,
-    30,
-    600
-  ],
-  [
-    100204,
-    1002,
-    4,
-    false,
-    4,
-    10,
-    12
-  ],
-  [
-    100205,
-    1002,
-    5,
-    true,
-    5,
-    19,
-    29
-  ],
-  [
-    100206,
-    1002,
-    5,
-    true,
-    6,
-    20,
-    30
-  ],
-  [
-    100301,
-    1003,
-    6,
-    false,
-    1,
-    28,
-    28
-  ],
-  [
-    100302,
-    1003,
-    6,
-    false,
-    2,
-    29,
-    29
-  ],
-  [
-    100303,
-    1003,
-    6,
-    false,
-    3,
-    30,
-    30
-  ],
-  [
-    100401,
-    1004,
-    7,
-    false,
-    1,
-    10,
-    10
-  ],
-  [
-    100402,
-    1004,
-    8,
-    false,
-    2,
-    28,
-    28
-  ],
-  [
-    100403,
-    1004,
-    8,
-    false,
-    3,
-    29,
-    29
-  ],
-  [
-    100404,
-    1004,
-    8,
-    false,
-    4,
-    30,
-    30
-  ],
-  [
-    100501,
-    1005,
-    9,
-    false,
-    1,
-    28,
-    165
-  ],
-  [
-    100502,
-    1005,
-    9,
-    false,
-    2,
-    29,
-    180
-  ],
-  [
-    100503,
-    1005,
-    9,
-    false,
-    3,
-    30,
-    200
-  ],
-  [
-    100504,
-    1005,
-    11,
-    false,
-    4,
-    6,
-    7
-  ]
+  {
+    "Id": 10101,
+    "CharacterMissionCategoryLevelMasterId": 101,
+    "CharacterMissionMasterId": 1,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 1,
+    "StageOrder": 1,
+    "GoalCount": 1
+  },
+  {
+    "Id": 10102,
+    "CharacterMissionCategoryLevelMasterId": 101,
+    "CharacterMissionMasterId": 1,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 2,
+    "StageOrder": 2,
+    "GoalCount": 4
+  },
+  {
+    "Id": 10103,
+    "CharacterMissionCategoryLevelMasterId": 101,
+    "CharacterMissionMasterId": 1,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 3,
+    "StageOrder": 3,
+    "GoalCount": 7
+  },
+  {
+    "Id": 10104,
+    "CharacterMissionCategoryLevelMasterId": 101,
+    "CharacterMissionMasterId": 1,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 4,
+    "StageOrder": 4,
+    "GoalCount": 10
+  },
+  {
+    "Id": 10105,
+    "CharacterMissionCategoryLevelMasterId": 101,
+    "CharacterMissionMasterId": 2,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 5,
+    "StageOrder": 1,
+    "GoalCount": 1
+  },
+  {
+    "Id": 10106,
+    "CharacterMissionCategoryLevelMasterId": 101,
+    "CharacterMissionMasterId": 2,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 6,
+    "StageOrder": 2,
+    "GoalCount": 3
+  },
+  {
+    "Id": 10201,
+    "CharacterMissionCategoryLevelMasterId": 102,
+    "CharacterMissionMasterId": 3,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 1,
+    "StageOrder": 1,
+    "GoalCount": 3
+  },
+  {
+    "Id": 10202,
+    "CharacterMissionCategoryLevelMasterId": 102,
+    "CharacterMissionMasterId": 3,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 2,
+    "StageOrder": 2,
+    "GoalCount": 6
+  },
+  {
+    "Id": 10203,
+    "CharacterMissionCategoryLevelMasterId": 102,
+    "CharacterMissionMasterId": 3,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 3,
+    "StageOrder": 3,
+    "GoalCount": 10
+  },
+  {
+    "Id": 10204,
+    "CharacterMissionCategoryLevelMasterId": 102,
+    "CharacterMissionMasterId": 4,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 4,
+    "StageOrder": 1,
+    "GoalCount": 1
+  },
+  {
+    "Id": 10205,
+    "CharacterMissionCategoryLevelMasterId": 102,
+    "CharacterMissionMasterId": 5,
+    "ExclusionNoSenseCharacter": true,
+    "Order": 5,
+    "StageOrder": 1,
+    "GoalCount": 2
+  },
+  {
+    "Id": 10206,
+    "CharacterMissionCategoryLevelMasterId": 102,
+    "CharacterMissionMasterId": 5,
+    "ExclusionNoSenseCharacter": true,
+    "Order": 6,
+    "StageOrder": 2,
+    "GoalCount": 3
+  },
+  {
+    "Id": 10301,
+    "CharacterMissionCategoryLevelMasterId": 103,
+    "CharacterMissionMasterId": 6,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 1,
+    "StageOrder": 1,
+    "GoalCount": 1
+  },
+  {
+    "Id": 10302,
+    "CharacterMissionCategoryLevelMasterId": 103,
+    "CharacterMissionMasterId": 6,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 2,
+    "StageOrder": 2,
+    "GoalCount": 2
+  },
+  {
+    "Id": 10303,
+    "CharacterMissionCategoryLevelMasterId": 103,
+    "CharacterMissionMasterId": 6,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 3,
+    "StageOrder": 3,
+    "GoalCount": 3
+  },
+  {
+    "Id": 10401,
+    "CharacterMissionCategoryLevelMasterId": 104,
+    "CharacterMissionMasterId": 7,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 1,
+    "StageOrder": 1,
+    "GoalCount": 1
+  },
+  {
+    "Id": 10402,
+    "CharacterMissionCategoryLevelMasterId": 104,
+    "CharacterMissionMasterId": 8,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 2,
+    "StageOrder": 1,
+    "GoalCount": 1
+  },
+  {
+    "Id": 10403,
+    "CharacterMissionCategoryLevelMasterId": 104,
+    "CharacterMissionMasterId": 8,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 3,
+    "StageOrder": 2,
+    "GoalCount": 2
+  },
+  {
+    "Id": 10404,
+    "CharacterMissionCategoryLevelMasterId": 104,
+    "CharacterMissionMasterId": 8,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 4,
+    "StageOrder": 3,
+    "GoalCount": 3
+  },
+  {
+    "Id": 10501,
+    "CharacterMissionCategoryLevelMasterId": 105,
+    "CharacterMissionMasterId": 9,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 1,
+    "StageOrder": 1,
+    "GoalCount": 1
+  },
+  {
+    "Id": 10502,
+    "CharacterMissionCategoryLevelMasterId": 105,
+    "CharacterMissionMasterId": 9,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 2,
+    "StageOrder": 2,
+    "GoalCount": 2
+  },
+  {
+    "Id": 10503,
+    "CharacterMissionCategoryLevelMasterId": 105,
+    "CharacterMissionMasterId": 9,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 3,
+    "StageOrder": 3,
+    "GoalCount": 3
+  },
+  {
+    "Id": 10504,
+    "CharacterMissionCategoryLevelMasterId": 105,
+    "CharacterMissionMasterId": 10,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 4,
+    "StageOrder": 1,
+    "GoalCount": 1
+  },
+  {
+    "Id": 10505,
+    "CharacterMissionCategoryLevelMasterId": 105,
+    "CharacterMissionMasterId": 10,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 5,
+    "StageOrder": 2,
+    "GoalCount": 3
+  },
+  {
+    "Id": 20101,
+    "CharacterMissionCategoryLevelMasterId": 201,
+    "CharacterMissionMasterId": 1,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 1,
+    "StageOrder": 5,
+    "GoalCount": 20
+  },
+  {
+    "Id": 20102,
+    "CharacterMissionCategoryLevelMasterId": 201,
+    "CharacterMissionMasterId": 1,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 2,
+    "StageOrder": 6,
+    "GoalCount": 40
+  },
+  {
+    "Id": 20103,
+    "CharacterMissionCategoryLevelMasterId": 201,
+    "CharacterMissionMasterId": 1,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 3,
+    "StageOrder": 7,
+    "GoalCount": 60
+  },
+  {
+    "Id": 20104,
+    "CharacterMissionCategoryLevelMasterId": 201,
+    "CharacterMissionMasterId": 1,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 4,
+    "StageOrder": 8,
+    "GoalCount": 80
+  },
+  {
+    "Id": 20105,
+    "CharacterMissionCategoryLevelMasterId": 201,
+    "CharacterMissionMasterId": 2,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 5,
+    "StageOrder": 3,
+    "GoalCount": 5
+  },
+  {
+    "Id": 20106,
+    "CharacterMissionCategoryLevelMasterId": 201,
+    "CharacterMissionMasterId": 2,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 6,
+    "StageOrder": 4,
+    "GoalCount": 10
+  },
+  {
+    "Id": 20201,
+    "CharacterMissionCategoryLevelMasterId": 202,
+    "CharacterMissionMasterId": 3,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 1,
+    "StageOrder": 4,
+    "GoalCount": 15
+  },
+  {
+    "Id": 20202,
+    "CharacterMissionCategoryLevelMasterId": 202,
+    "CharacterMissionMasterId": 3,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 2,
+    "StageOrder": 5,
+    "GoalCount": 20
+  },
+  {
+    "Id": 20203,
+    "CharacterMissionCategoryLevelMasterId": 202,
+    "CharacterMissionMasterId": 3,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 3,
+    "StageOrder": 6,
+    "GoalCount": 30
+  },
+  {
+    "Id": 20204,
+    "CharacterMissionCategoryLevelMasterId": 202,
+    "CharacterMissionMasterId": 4,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 4,
+    "StageOrder": 2,
+    "GoalCount": 2
+  },
+  {
+    "Id": 20205,
+    "CharacterMissionCategoryLevelMasterId": 202,
+    "CharacterMissionMasterId": 5,
+    "ExclusionNoSenseCharacter": true,
+    "Order": 5,
+    "StageOrder": 3,
+    "GoalCount": 4
+  },
+  {
+    "Id": 20206,
+    "CharacterMissionCategoryLevelMasterId": 202,
+    "CharacterMissionMasterId": 5,
+    "ExclusionNoSenseCharacter": true,
+    "Order": 6,
+    "StageOrder": 4,
+    "GoalCount": 5
+  },
+  {
+    "Id": 20301,
+    "CharacterMissionCategoryLevelMasterId": 203,
+    "CharacterMissionMasterId": 6,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 1,
+    "StageOrder": 4,
+    "GoalCount": 4
+  },
+  {
+    "Id": 20302,
+    "CharacterMissionCategoryLevelMasterId": 203,
+    "CharacterMissionMasterId": 6,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 2,
+    "StageOrder": 5,
+    "GoalCount": 5
+  },
+  {
+    "Id": 20303,
+    "CharacterMissionCategoryLevelMasterId": 203,
+    "CharacterMissionMasterId": 6,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 3,
+    "StageOrder": 6,
+    "GoalCount": 6
+  },
+  {
+    "Id": 20401,
+    "CharacterMissionCategoryLevelMasterId": 204,
+    "CharacterMissionMasterId": 7,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 1,
+    "StageOrder": 2,
+    "GoalCount": 2
+  },
+  {
+    "Id": 20402,
+    "CharacterMissionCategoryLevelMasterId": 204,
+    "CharacterMissionMasterId": 8,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 2,
+    "StageOrder": 4,
+    "GoalCount": 4
+  },
+  {
+    "Id": 20403,
+    "CharacterMissionCategoryLevelMasterId": 204,
+    "CharacterMissionMasterId": 8,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 3,
+    "StageOrder": 5,
+    "GoalCount": 5
+  },
+  {
+    "Id": 20404,
+    "CharacterMissionCategoryLevelMasterId": 204,
+    "CharacterMissionMasterId": 8,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 4,
+    "StageOrder": 6,
+    "GoalCount": 6
+  },
+  {
+    "Id": 20501,
+    "CharacterMissionCategoryLevelMasterId": 205,
+    "CharacterMissionMasterId": 9,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 1,
+    "StageOrder": 4,
+    "GoalCount": 4
+  },
+  {
+    "Id": 20502,
+    "CharacterMissionCategoryLevelMasterId": 205,
+    "CharacterMissionMasterId": 9,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 2,
+    "StageOrder": 5,
+    "GoalCount": 6
+  },
+  {
+    "Id": 20503,
+    "CharacterMissionCategoryLevelMasterId": 205,
+    "CharacterMissionMasterId": 9,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 3,
+    "StageOrder": 6,
+    "GoalCount": 8
+  },
+  {
+    "Id": 20504,
+    "CharacterMissionCategoryLevelMasterId": 205,
+    "CharacterMissionMasterId": 10,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 4,
+    "StageOrder": 3,
+    "GoalCount": 5
+  },
+  {
+    "Id": 20505,
+    "CharacterMissionCategoryLevelMasterId": 205,
+    "CharacterMissionMasterId": 10,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 5,
+    "StageOrder": 4,
+    "GoalCount": 8
+  },
+  {
+    "Id": 20506,
+    "CharacterMissionCategoryLevelMasterId": 205,
+    "CharacterMissionMasterId": 11,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 6,
+    "StageOrder": 1,
+    "GoalCount": 2
+  },
+  {
+    "Id": 30101,
+    "CharacterMissionCategoryLevelMasterId": 301,
+    "CharacterMissionMasterId": 1,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 1,
+    "StageOrder": 9,
+    "GoalCount": 100
+  },
+  {
+    "Id": 30102,
+    "CharacterMissionCategoryLevelMasterId": 301,
+    "CharacterMissionMasterId": 1,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 2,
+    "StageOrder": 10,
+    "GoalCount": 125
+  },
+  {
+    "Id": 30103,
+    "CharacterMissionCategoryLevelMasterId": 301,
+    "CharacterMissionMasterId": 1,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 3,
+    "StageOrder": 11,
+    "GoalCount": 150
+  },
+  {
+    "Id": 30104,
+    "CharacterMissionCategoryLevelMasterId": 301,
+    "CharacterMissionMasterId": 2,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 4,
+    "StageOrder": 5,
+    "GoalCount": 20
+  },
+  {
+    "Id": 30105,
+    "CharacterMissionCategoryLevelMasterId": 301,
+    "CharacterMissionMasterId": 2,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 5,
+    "StageOrder": 6,
+    "GoalCount": 30
+  },
+  {
+    "Id": 30106,
+    "CharacterMissionCategoryLevelMasterId": 301,
+    "CharacterMissionMasterId": 2,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 6,
+    "StageOrder": 7,
+    "GoalCount": 40
+  },
+  {
+    "Id": 30201,
+    "CharacterMissionCategoryLevelMasterId": 302,
+    "CharacterMissionMasterId": 3,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 1,
+    "StageOrder": 7,
+    "GoalCount": 40
+  },
+  {
+    "Id": 30202,
+    "CharacterMissionCategoryLevelMasterId": 302,
+    "CharacterMissionMasterId": 3,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 2,
+    "StageOrder": 8,
+    "GoalCount": 50
+  },
+  {
+    "Id": 30203,
+    "CharacterMissionCategoryLevelMasterId": 302,
+    "CharacterMissionMasterId": 3,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 3,
+    "StageOrder": 9,
+    "GoalCount": 60
+  },
+  {
+    "Id": 30204,
+    "CharacterMissionCategoryLevelMasterId": 302,
+    "CharacterMissionMasterId": 4,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 4,
+    "StageOrder": 3,
+    "GoalCount": 3
+  },
+  {
+    "Id": 30205,
+    "CharacterMissionCategoryLevelMasterId": 302,
+    "CharacterMissionMasterId": 5,
+    "ExclusionNoSenseCharacter": true,
+    "Order": 5,
+    "StageOrder": 5,
+    "GoalCount": 7
+  },
+  {
+    "Id": 30206,
+    "CharacterMissionCategoryLevelMasterId": 302,
+    "CharacterMissionMasterId": 5,
+    "ExclusionNoSenseCharacter": true,
+    "Order": 6,
+    "StageOrder": 6,
+    "GoalCount": 9
+  },
+  {
+    "Id": 30301,
+    "CharacterMissionCategoryLevelMasterId": 303,
+    "CharacterMissionMasterId": 6,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 1,
+    "StageOrder": 7,
+    "GoalCount": 7
+  },
+  {
+    "Id": 30302,
+    "CharacterMissionCategoryLevelMasterId": 303,
+    "CharacterMissionMasterId": 6,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 2,
+    "StageOrder": 8,
+    "GoalCount": 8
+  },
+  {
+    "Id": 30303,
+    "CharacterMissionCategoryLevelMasterId": 303,
+    "CharacterMissionMasterId": 6,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 3,
+    "StageOrder": 9,
+    "GoalCount": 9
+  },
+  {
+    "Id": 30401,
+    "CharacterMissionCategoryLevelMasterId": 304,
+    "CharacterMissionMasterId": 7,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 1,
+    "StageOrder": 3,
+    "GoalCount": 3
+  },
+  {
+    "Id": 30402,
+    "CharacterMissionCategoryLevelMasterId": 304,
+    "CharacterMissionMasterId": 8,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 2,
+    "StageOrder": 7,
+    "GoalCount": 7
+  },
+  {
+    "Id": 30403,
+    "CharacterMissionCategoryLevelMasterId": 304,
+    "CharacterMissionMasterId": 8,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 3,
+    "StageOrder": 8,
+    "GoalCount": 8
+  },
+  {
+    "Id": 30404,
+    "CharacterMissionCategoryLevelMasterId": 304,
+    "CharacterMissionMasterId": 8,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 4,
+    "StageOrder": 9,
+    "GoalCount": 9
+  },
+  {
+    "Id": 30501,
+    "CharacterMissionCategoryLevelMasterId": 305,
+    "CharacterMissionMasterId": 9,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 1,
+    "StageOrder": 7,
+    "GoalCount": 10
+  },
+  {
+    "Id": 30502,
+    "CharacterMissionCategoryLevelMasterId": 305,
+    "CharacterMissionMasterId": 9,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 2,
+    "StageOrder": 8,
+    "GoalCount": 12
+  },
+  {
+    "Id": 30503,
+    "CharacterMissionCategoryLevelMasterId": 305,
+    "CharacterMissionMasterId": 9,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 3,
+    "StageOrder": 9,
+    "GoalCount": 15
+  },
+  {
+    "Id": 30504,
+    "CharacterMissionCategoryLevelMasterId": 305,
+    "CharacterMissionMasterId": 10,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 4,
+    "StageOrder": 5,
+    "GoalCount": 12
+  },
+  {
+    "Id": 30505,
+    "CharacterMissionCategoryLevelMasterId": 305,
+    "CharacterMissionMasterId": 10,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 5,
+    "StageOrder": 6,
+    "GoalCount": 17
+  },
+  {
+    "Id": 30506,
+    "CharacterMissionCategoryLevelMasterId": 305,
+    "CharacterMissionMasterId": 11,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 6,
+    "StageOrder": 2,
+    "GoalCount": 3
+  },
+  {
+    "Id": 40101,
+    "CharacterMissionCategoryLevelMasterId": 401,
+    "CharacterMissionMasterId": 1,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 1,
+    "StageOrder": 12,
+    "GoalCount": 175
+  },
+  {
+    "Id": 40102,
+    "CharacterMissionCategoryLevelMasterId": 401,
+    "CharacterMissionMasterId": 1,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 2,
+    "StageOrder": 13,
+    "GoalCount": 200
+  },
+  {
+    "Id": 40103,
+    "CharacterMissionCategoryLevelMasterId": 401,
+    "CharacterMissionMasterId": 1,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 3,
+    "StageOrder": 14,
+    "GoalCount": 250
+  },
+  {
+    "Id": 40104,
+    "CharacterMissionCategoryLevelMasterId": 401,
+    "CharacterMissionMasterId": 2,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 4,
+    "StageOrder": 8,
+    "GoalCount": 60
+  },
+  {
+    "Id": 40105,
+    "CharacterMissionCategoryLevelMasterId": 401,
+    "CharacterMissionMasterId": 2,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 5,
+    "StageOrder": 9,
+    "GoalCount": 80
+  },
+  {
+    "Id": 40106,
+    "CharacterMissionCategoryLevelMasterId": 401,
+    "CharacterMissionMasterId": 2,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 6,
+    "StageOrder": 10,
+    "GoalCount": 100
+  },
+  {
+    "Id": 40201,
+    "CharacterMissionCategoryLevelMasterId": 402,
+    "CharacterMissionMasterId": 3,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 1,
+    "StageOrder": 10,
+    "GoalCount": 70
+  },
+  {
+    "Id": 40202,
+    "CharacterMissionCategoryLevelMasterId": 402,
+    "CharacterMissionMasterId": 3,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 2,
+    "StageOrder": 11,
+    "GoalCount": 80
+  },
+  {
+    "Id": 40203,
+    "CharacterMissionCategoryLevelMasterId": 402,
+    "CharacterMissionMasterId": 3,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 3,
+    "StageOrder": 12,
+    "GoalCount": 90
+  },
+  {
+    "Id": 40204,
+    "CharacterMissionCategoryLevelMasterId": 402,
+    "CharacterMissionMasterId": 4,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 4,
+    "StageOrder": 4,
+    "GoalCount": 4
+  },
+  {
+    "Id": 40205,
+    "CharacterMissionCategoryLevelMasterId": 402,
+    "CharacterMissionMasterId": 5,
+    "ExclusionNoSenseCharacter": true,
+    "Order": 5,
+    "StageOrder": 7,
+    "GoalCount": 11
+  },
+  {
+    "Id": 40206,
+    "CharacterMissionCategoryLevelMasterId": 402,
+    "CharacterMissionMasterId": 5,
+    "ExclusionNoSenseCharacter": true,
+    "Order": 6,
+    "StageOrder": 8,
+    "GoalCount": 13
+  },
+  {
+    "Id": 40301,
+    "CharacterMissionCategoryLevelMasterId": 403,
+    "CharacterMissionMasterId": 6,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 1,
+    "StageOrder": 10,
+    "GoalCount": 10
+  },
+  {
+    "Id": 40302,
+    "CharacterMissionCategoryLevelMasterId": 403,
+    "CharacterMissionMasterId": 6,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 2,
+    "StageOrder": 11,
+    "GoalCount": 11
+  },
+  {
+    "Id": 40303,
+    "CharacterMissionCategoryLevelMasterId": 403,
+    "CharacterMissionMasterId": 6,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 3,
+    "StageOrder": 12,
+    "GoalCount": 12
+  },
+  {
+    "Id": 40401,
+    "CharacterMissionCategoryLevelMasterId": 404,
+    "CharacterMissionMasterId": 7,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 1,
+    "StageOrder": 4,
+    "GoalCount": 4
+  },
+  {
+    "Id": 40402,
+    "CharacterMissionCategoryLevelMasterId": 404,
+    "CharacterMissionMasterId": 8,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 2,
+    "StageOrder": 10,
+    "GoalCount": 10
+  },
+  {
+    "Id": 40403,
+    "CharacterMissionCategoryLevelMasterId": 404,
+    "CharacterMissionMasterId": 8,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 3,
+    "StageOrder": 11,
+    "GoalCount": 11
+  },
+  {
+    "Id": 40404,
+    "CharacterMissionCategoryLevelMasterId": 404,
+    "CharacterMissionMasterId": 8,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 4,
+    "StageOrder": 12,
+    "GoalCount": 12
+  },
+  {
+    "Id": 40501,
+    "CharacterMissionCategoryLevelMasterId": 405,
+    "CharacterMissionMasterId": 9,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 1,
+    "StageOrder": 10,
+    "GoalCount": 18
+  },
+  {
+    "Id": 40502,
+    "CharacterMissionCategoryLevelMasterId": 405,
+    "CharacterMissionMasterId": 9,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 2,
+    "StageOrder": 11,
+    "GoalCount": 21
+  },
+  {
+    "Id": 40503,
+    "CharacterMissionCategoryLevelMasterId": 405,
+    "CharacterMissionMasterId": 9,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 3,
+    "StageOrder": 12,
+    "GoalCount": 25
+  },
+  {
+    "Id": 40504,
+    "CharacterMissionCategoryLevelMasterId": 405,
+    "CharacterMissionMasterId": 10,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 4,
+    "StageOrder": 7,
+    "GoalCount": 23
+  },
+  {
+    "Id": 40505,
+    "CharacterMissionCategoryLevelMasterId": 405,
+    "CharacterMissionMasterId": 10,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 5,
+    "StageOrder": 8,
+    "GoalCount": 30
+  },
+  {
+    "Id": 40506,
+    "CharacterMissionCategoryLevelMasterId": 405,
+    "CharacterMissionMasterId": 11,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 6,
+    "StageOrder": 3,
+    "GoalCount": 4
+  },
+  {
+    "Id": 50101,
+    "CharacterMissionCategoryLevelMasterId": 501,
+    "CharacterMissionMasterId": 1,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 1,
+    "StageOrder": 15,
+    "GoalCount": 300
+  },
+  {
+    "Id": 50102,
+    "CharacterMissionCategoryLevelMasterId": 501,
+    "CharacterMissionMasterId": 1,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 2,
+    "StageOrder": 16,
+    "GoalCount": 400
+  },
+  {
+    "Id": 50103,
+    "CharacterMissionCategoryLevelMasterId": 501,
+    "CharacterMissionMasterId": 2,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 3,
+    "StageOrder": 11,
+    "GoalCount": 125
+  },
+  {
+    "Id": 50104,
+    "CharacterMissionCategoryLevelMasterId": 501,
+    "CharacterMissionMasterId": 2,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 4,
+    "StageOrder": 12,
+    "GoalCount": 150
+  },
+  {
+    "Id": 50105,
+    "CharacterMissionCategoryLevelMasterId": 501,
+    "CharacterMissionMasterId": 2,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 5,
+    "StageOrder": 13,
+    "GoalCount": 175
+  },
+  {
+    "Id": 50106,
+    "CharacterMissionCategoryLevelMasterId": 501,
+    "CharacterMissionMasterId": 2,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 6,
+    "StageOrder": 14,
+    "GoalCount": 200
+  },
+  {
+    "Id": 50201,
+    "CharacterMissionCategoryLevelMasterId": 502,
+    "CharacterMissionMasterId": 3,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 1,
+    "StageOrder": 13,
+    "GoalCount": 100
+  },
+  {
+    "Id": 50202,
+    "CharacterMissionCategoryLevelMasterId": 502,
+    "CharacterMissionMasterId": 3,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 2,
+    "StageOrder": 14,
+    "GoalCount": 125
+  },
+  {
+    "Id": 50203,
+    "CharacterMissionCategoryLevelMasterId": 502,
+    "CharacterMissionMasterId": 3,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 3,
+    "StageOrder": 15,
+    "GoalCount": 150
+  },
+  {
+    "Id": 50204,
+    "CharacterMissionCategoryLevelMasterId": 502,
+    "CharacterMissionMasterId": 4,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 4,
+    "StageOrder": 5,
+    "GoalCount": 5
+  },
+  {
+    "Id": 50205,
+    "CharacterMissionCategoryLevelMasterId": 502,
+    "CharacterMissionMasterId": 5,
+    "ExclusionNoSenseCharacter": true,
+    "Order": 5,
+    "StageOrder": 9,
+    "GoalCount": 15
+  },
+  {
+    "Id": 50206,
+    "CharacterMissionCategoryLevelMasterId": 502,
+    "CharacterMissionMasterId": 5,
+    "ExclusionNoSenseCharacter": true,
+    "Order": 6,
+    "StageOrder": 10,
+    "GoalCount": 17
+  },
+  {
+    "Id": 50301,
+    "CharacterMissionCategoryLevelMasterId": 503,
+    "CharacterMissionMasterId": 6,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 1,
+    "StageOrder": 13,
+    "GoalCount": 13
+  },
+  {
+    "Id": 50302,
+    "CharacterMissionCategoryLevelMasterId": 503,
+    "CharacterMissionMasterId": 6,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 2,
+    "StageOrder": 14,
+    "GoalCount": 14
+  },
+  {
+    "Id": 50303,
+    "CharacterMissionCategoryLevelMasterId": 503,
+    "CharacterMissionMasterId": 6,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 3,
+    "StageOrder": 15,
+    "GoalCount": 15
+  },
+  {
+    "Id": 50401,
+    "CharacterMissionCategoryLevelMasterId": 504,
+    "CharacterMissionMasterId": 7,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 1,
+    "StageOrder": 5,
+    "GoalCount": 5
+  },
+  {
+    "Id": 50402,
+    "CharacterMissionCategoryLevelMasterId": 504,
+    "CharacterMissionMasterId": 8,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 2,
+    "StageOrder": 13,
+    "GoalCount": 13
+  },
+  {
+    "Id": 50403,
+    "CharacterMissionCategoryLevelMasterId": 504,
+    "CharacterMissionMasterId": 8,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 3,
+    "StageOrder": 14,
+    "GoalCount": 14
+  },
+  {
+    "Id": 50404,
+    "CharacterMissionCategoryLevelMasterId": 504,
+    "CharacterMissionMasterId": 8,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 4,
+    "StageOrder": 15,
+    "GoalCount": 15
+  },
+  {
+    "Id": 50501,
+    "CharacterMissionCategoryLevelMasterId": 505,
+    "CharacterMissionMasterId": 9,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 1,
+    "StageOrder": 13,
+    "GoalCount": 30
+  },
+  {
+    "Id": 50502,
+    "CharacterMissionCategoryLevelMasterId": 505,
+    "CharacterMissionMasterId": 9,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 2,
+    "StageOrder": 14,
+    "GoalCount": 35
+  },
+  {
+    "Id": 50503,
+    "CharacterMissionCategoryLevelMasterId": 505,
+    "CharacterMissionMasterId": 9,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 3,
+    "StageOrder": 15,
+    "GoalCount": 40
+  },
+  {
+    "Id": 50504,
+    "CharacterMissionCategoryLevelMasterId": 505,
+    "CharacterMissionMasterId": 10,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 4,
+    "StageOrder": 9,
+    "GoalCount": 37
+  },
+  {
+    "Id": 50505,
+    "CharacterMissionCategoryLevelMasterId": 505,
+    "CharacterMissionMasterId": 10,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 5,
+    "StageOrder": 10,
+    "GoalCount": 45
+  },
+  {
+    "Id": 60101,
+    "CharacterMissionCategoryLevelMasterId": 601,
+    "CharacterMissionMasterId": 1,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 1,
+    "StageOrder": 17,
+    "GoalCount": 800
+  },
+  {
+    "Id": 60102,
+    "CharacterMissionCategoryLevelMasterId": 601,
+    "CharacterMissionMasterId": 1,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 2,
+    "StageOrder": 18,
+    "GoalCount": 1000
+  },
+  {
+    "Id": 60103,
+    "CharacterMissionCategoryLevelMasterId": 601,
+    "CharacterMissionMasterId": 2,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 3,
+    "StageOrder": 15,
+    "GoalCount": 250
+  },
+  {
+    "Id": 60104,
+    "CharacterMissionCategoryLevelMasterId": 601,
+    "CharacterMissionMasterId": 2,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 4,
+    "StageOrder": 16,
+    "GoalCount": 300
+  },
+  {
+    "Id": 60105,
+    "CharacterMissionCategoryLevelMasterId": 601,
+    "CharacterMissionMasterId": 2,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 5,
+    "StageOrder": 17,
+    "GoalCount": 350
+  },
+  {
+    "Id": 60106,
+    "CharacterMissionCategoryLevelMasterId": 601,
+    "CharacterMissionMasterId": 2,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 6,
+    "StageOrder": 18,
+    "GoalCount": 400
+  },
+  {
+    "Id": 60201,
+    "CharacterMissionCategoryLevelMasterId": 602,
+    "CharacterMissionMasterId": 3,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 1,
+    "StageOrder": 16,
+    "GoalCount": 175
+  },
+  {
+    "Id": 60202,
+    "CharacterMissionCategoryLevelMasterId": 602,
+    "CharacterMissionMasterId": 3,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 2,
+    "StageOrder": 17,
+    "GoalCount": 200
+  },
+  {
+    "Id": 60203,
+    "CharacterMissionCategoryLevelMasterId": 602,
+    "CharacterMissionMasterId": 3,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 3,
+    "StageOrder": 18,
+    "GoalCount": 225
+  },
+  {
+    "Id": 60204,
+    "CharacterMissionCategoryLevelMasterId": 602,
+    "CharacterMissionMasterId": 4,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 4,
+    "StageOrder": 6,
+    "GoalCount": 6
+  },
+  {
+    "Id": 60205,
+    "CharacterMissionCategoryLevelMasterId": 602,
+    "CharacterMissionMasterId": 5,
+    "ExclusionNoSenseCharacter": true,
+    "Order": 5,
+    "StageOrder": 11,
+    "GoalCount": 19
+  },
+  {
+    "Id": 60206,
+    "CharacterMissionCategoryLevelMasterId": 602,
+    "CharacterMissionMasterId": 5,
+    "ExclusionNoSenseCharacter": true,
+    "Order": 6,
+    "StageOrder": 12,
+    "GoalCount": 21
+  },
+  {
+    "Id": 60301,
+    "CharacterMissionCategoryLevelMasterId": 603,
+    "CharacterMissionMasterId": 6,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 1,
+    "StageOrder": 16,
+    "GoalCount": 16
+  },
+  {
+    "Id": 60302,
+    "CharacterMissionCategoryLevelMasterId": 603,
+    "CharacterMissionMasterId": 6,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 2,
+    "StageOrder": 17,
+    "GoalCount": 17
+  },
+  {
+    "Id": 60303,
+    "CharacterMissionCategoryLevelMasterId": 603,
+    "CharacterMissionMasterId": 6,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 3,
+    "StageOrder": 18,
+    "GoalCount": 18
+  },
+  {
+    "Id": 60401,
+    "CharacterMissionCategoryLevelMasterId": 604,
+    "CharacterMissionMasterId": 7,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 1,
+    "StageOrder": 6,
+    "GoalCount": 6
+  },
+  {
+    "Id": 60402,
+    "CharacterMissionCategoryLevelMasterId": 604,
+    "CharacterMissionMasterId": 8,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 2,
+    "StageOrder": 16,
+    "GoalCount": 16
+  },
+  {
+    "Id": 60403,
+    "CharacterMissionCategoryLevelMasterId": 604,
+    "CharacterMissionMasterId": 8,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 3,
+    "StageOrder": 17,
+    "GoalCount": 17
+  },
+  {
+    "Id": 60404,
+    "CharacterMissionCategoryLevelMasterId": 604,
+    "CharacterMissionMasterId": 8,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 4,
+    "StageOrder": 18,
+    "GoalCount": 18
+  },
+  {
+    "Id": 60501,
+    "CharacterMissionCategoryLevelMasterId": 605,
+    "CharacterMissionMasterId": 9,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 1,
+    "StageOrder": 16,
+    "GoalCount": 46
+  },
+  {
+    "Id": 60502,
+    "CharacterMissionCategoryLevelMasterId": 605,
+    "CharacterMissionMasterId": 9,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 2,
+    "StageOrder": 17,
+    "GoalCount": 53
+  },
+  {
+    "Id": 60503,
+    "CharacterMissionCategoryLevelMasterId": 605,
+    "CharacterMissionMasterId": 9,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 3,
+    "StageOrder": 18,
+    "GoalCount": 60
+  },
+  {
+    "Id": 60504,
+    "CharacterMissionCategoryLevelMasterId": 605,
+    "CharacterMissionMasterId": 11,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 4,
+    "StageOrder": 4,
+    "GoalCount": 5
+  },
+  {
+    "Id": 70101,
+    "CharacterMissionCategoryLevelMasterId": 701,
+    "CharacterMissionMasterId": 1,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 1,
+    "StageOrder": 19,
+    "GoalCount": 1250
+  },
+  {
+    "Id": 70102,
+    "CharacterMissionCategoryLevelMasterId": 701,
+    "CharacterMissionMasterId": 1,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 2,
+    "StageOrder": 20,
+    "GoalCount": 1500
+  },
+  {
+    "Id": 70103,
+    "CharacterMissionCategoryLevelMasterId": 701,
+    "CharacterMissionMasterId": 2,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 3,
+    "StageOrder": 19,
+    "GoalCount": 450
+  },
+  {
+    "Id": 70104,
+    "CharacterMissionCategoryLevelMasterId": 701,
+    "CharacterMissionMasterId": 2,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 4,
+    "StageOrder": 20,
+    "GoalCount": 500
+  },
+  {
+    "Id": 70105,
+    "CharacterMissionCategoryLevelMasterId": 701,
+    "CharacterMissionMasterId": 2,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 5,
+    "StageOrder": 21,
+    "GoalCount": 550
+  },
+  {
+    "Id": 70106,
+    "CharacterMissionCategoryLevelMasterId": 701,
+    "CharacterMissionMasterId": 2,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 6,
+    "StageOrder": 22,
+    "GoalCount": 600
+  },
+  {
+    "Id": 70201,
+    "CharacterMissionCategoryLevelMasterId": 702,
+    "CharacterMissionMasterId": 3,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 1,
+    "StageOrder": 19,
+    "GoalCount": 250
+  },
+  {
+    "Id": 70202,
+    "CharacterMissionCategoryLevelMasterId": 702,
+    "CharacterMissionMasterId": 3,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 2,
+    "StageOrder": 20,
+    "GoalCount": 275
+  },
+  {
+    "Id": 70203,
+    "CharacterMissionCategoryLevelMasterId": 702,
+    "CharacterMissionMasterId": 3,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 3,
+    "StageOrder": 21,
+    "GoalCount": 300
+  },
+  {
+    "Id": 70204,
+    "CharacterMissionCategoryLevelMasterId": 702,
+    "CharacterMissionMasterId": 4,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 4,
+    "StageOrder": 7,
+    "GoalCount": 7
+  },
+  {
+    "Id": 70205,
+    "CharacterMissionCategoryLevelMasterId": 702,
+    "CharacterMissionMasterId": 5,
+    "ExclusionNoSenseCharacter": true,
+    "Order": 5,
+    "StageOrder": 13,
+    "GoalCount": 23
+  },
+  {
+    "Id": 70206,
+    "CharacterMissionCategoryLevelMasterId": 702,
+    "CharacterMissionMasterId": 5,
+    "ExclusionNoSenseCharacter": true,
+    "Order": 6,
+    "StageOrder": 14,
+    "GoalCount": 24
+  },
+  {
+    "Id": 70301,
+    "CharacterMissionCategoryLevelMasterId": 703,
+    "CharacterMissionMasterId": 6,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 1,
+    "StageOrder": 19,
+    "GoalCount": 19
+  },
+  {
+    "Id": 70302,
+    "CharacterMissionCategoryLevelMasterId": 703,
+    "CharacterMissionMasterId": 6,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 2,
+    "StageOrder": 20,
+    "GoalCount": 20
+  },
+  {
+    "Id": 70303,
+    "CharacterMissionCategoryLevelMasterId": 703,
+    "CharacterMissionMasterId": 6,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 3,
+    "StageOrder": 21,
+    "GoalCount": 21
+  },
+  {
+    "Id": 70401,
+    "CharacterMissionCategoryLevelMasterId": 704,
+    "CharacterMissionMasterId": 7,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 1,
+    "StageOrder": 7,
+    "GoalCount": 7
+  },
+  {
+    "Id": 70402,
+    "CharacterMissionCategoryLevelMasterId": 704,
+    "CharacterMissionMasterId": 8,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 2,
+    "StageOrder": 19,
+    "GoalCount": 19
+  },
+  {
+    "Id": 70403,
+    "CharacterMissionCategoryLevelMasterId": 704,
+    "CharacterMissionMasterId": 8,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 3,
+    "StageOrder": 20,
+    "GoalCount": 20
+  },
+  {
+    "Id": 70404,
+    "CharacterMissionCategoryLevelMasterId": 704,
+    "CharacterMissionMasterId": 8,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 4,
+    "StageOrder": 21,
+    "GoalCount": 21
+  },
+  {
+    "Id": 70501,
+    "CharacterMissionCategoryLevelMasterId": 705,
+    "CharacterMissionMasterId": 9,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 1,
+    "StageOrder": 19,
+    "GoalCount": 68
+  },
+  {
+    "Id": 70502,
+    "CharacterMissionCategoryLevelMasterId": 705,
+    "CharacterMissionMasterId": 9,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 2,
+    "StageOrder": 20,
+    "GoalCount": 76
+  },
+  {
+    "Id": 70503,
+    "CharacterMissionCategoryLevelMasterId": 705,
+    "CharacterMissionMasterId": 9,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 3,
+    "StageOrder": 21,
+    "GoalCount": 85
+  },
+  {
+    "Id": 80101,
+    "CharacterMissionCategoryLevelMasterId": 801,
+    "CharacterMissionMasterId": 1,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 1,
+    "StageOrder": 21,
+    "GoalCount": 1250
+  },
+  {
+    "Id": 80102,
+    "CharacterMissionCategoryLevelMasterId": 801,
+    "CharacterMissionMasterId": 1,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 2,
+    "StageOrder": 22,
+    "GoalCount": 1500
+  },
+  {
+    "Id": 80103,
+    "CharacterMissionCategoryLevelMasterId": 801,
+    "CharacterMissionMasterId": 2,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 3,
+    "StageOrder": 23,
+    "GoalCount": 700
+  },
+  {
+    "Id": 80104,
+    "CharacterMissionCategoryLevelMasterId": 801,
+    "CharacterMissionMasterId": 2,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 4,
+    "StageOrder": 24,
+    "GoalCount": 800
+  },
+  {
+    "Id": 80105,
+    "CharacterMissionCategoryLevelMasterId": 801,
+    "CharacterMissionMasterId": 2,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 5,
+    "StageOrder": 25,
+    "GoalCount": 900
+  },
+  {
+    "Id": 80106,
+    "CharacterMissionCategoryLevelMasterId": 801,
+    "CharacterMissionMasterId": 2,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 6,
+    "StageOrder": 26,
+    "GoalCount": 1000
+  },
+  {
+    "Id": 80201,
+    "CharacterMissionCategoryLevelMasterId": 802,
+    "CharacterMissionMasterId": 3,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 1,
+    "StageOrder": 22,
+    "GoalCount": 325
+  },
+  {
+    "Id": 80202,
+    "CharacterMissionCategoryLevelMasterId": 802,
+    "CharacterMissionMasterId": 3,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 2,
+    "StageOrder": 23,
+    "GoalCount": 350
+  },
+  {
+    "Id": 80203,
+    "CharacterMissionCategoryLevelMasterId": 802,
+    "CharacterMissionMasterId": 3,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 3,
+    "StageOrder": 24,
+    "GoalCount": 375
+  },
+  {
+    "Id": 80204,
+    "CharacterMissionCategoryLevelMasterId": 802,
+    "CharacterMissionMasterId": 4,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 4,
+    "StageOrder": 8,
+    "GoalCount": 8
+  },
+  {
+    "Id": 80205,
+    "CharacterMissionCategoryLevelMasterId": 802,
+    "CharacterMissionMasterId": 5,
+    "ExclusionNoSenseCharacter": true,
+    "Order": 5,
+    "StageOrder": 15,
+    "GoalCount": 25
+  },
+  {
+    "Id": 80206,
+    "CharacterMissionCategoryLevelMasterId": 802,
+    "CharacterMissionMasterId": 5,
+    "ExclusionNoSenseCharacter": true,
+    "Order": 6,
+    "StageOrder": 16,
+    "GoalCount": 26
+  },
+  {
+    "Id": 80301,
+    "CharacterMissionCategoryLevelMasterId": 803,
+    "CharacterMissionMasterId": 6,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 1,
+    "StageOrder": 22,
+    "GoalCount": 22
+  },
+  {
+    "Id": 80302,
+    "CharacterMissionCategoryLevelMasterId": 803,
+    "CharacterMissionMasterId": 6,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 2,
+    "StageOrder": 23,
+    "GoalCount": 23
+  },
+  {
+    "Id": 80303,
+    "CharacterMissionCategoryLevelMasterId": 803,
+    "CharacterMissionMasterId": 6,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 3,
+    "StageOrder": 24,
+    "GoalCount": 24
+  },
+  {
+    "Id": 80401,
+    "CharacterMissionCategoryLevelMasterId": 804,
+    "CharacterMissionMasterId": 7,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 1,
+    "StageOrder": 8,
+    "GoalCount": 8
+  },
+  {
+    "Id": 80402,
+    "CharacterMissionCategoryLevelMasterId": 804,
+    "CharacterMissionMasterId": 8,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 2,
+    "StageOrder": 22,
+    "GoalCount": 22
+  },
+  {
+    "Id": 80403,
+    "CharacterMissionCategoryLevelMasterId": 804,
+    "CharacterMissionMasterId": 8,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 3,
+    "StageOrder": 23,
+    "GoalCount": 23
+  },
+  {
+    "Id": 80404,
+    "CharacterMissionCategoryLevelMasterId": 804,
+    "CharacterMissionMasterId": 8,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 4,
+    "StageOrder": 24,
+    "GoalCount": 24
+  },
+  {
+    "Id": 80501,
+    "CharacterMissionCategoryLevelMasterId": 805,
+    "CharacterMissionMasterId": 9,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 1,
+    "StageOrder": 22,
+    "GoalCount": 95
+  },
+  {
+    "Id": 80502,
+    "CharacterMissionCategoryLevelMasterId": 805,
+    "CharacterMissionMasterId": 9,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 2,
+    "StageOrder": 23,
+    "GoalCount": 105
+  },
+  {
+    "Id": 80503,
+    "CharacterMissionCategoryLevelMasterId": 805,
+    "CharacterMissionMasterId": 9,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 3,
+    "StageOrder": 24,
+    "GoalCount": 115
+  },
+  {
+    "Id": 80504,
+    "CharacterMissionCategoryLevelMasterId": 805,
+    "CharacterMissionMasterId": 11,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 4,
+    "StageOrder": 5,
+    "GoalCount": 6
+  },
+  {
+    "Id": 90101,
+    "CharacterMissionCategoryLevelMasterId": 901,
+    "CharacterMissionMasterId": 1,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 1,
+    "StageOrder": 23,
+    "GoalCount": 1750
+  },
+  {
+    "Id": 90102,
+    "CharacterMissionCategoryLevelMasterId": 901,
+    "CharacterMissionMasterId": 1,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 2,
+    "StageOrder": 24,
+    "GoalCount": 2000
+  },
+  {
+    "Id": 90103,
+    "CharacterMissionCategoryLevelMasterId": 901,
+    "CharacterMissionMasterId": 2,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 3,
+    "StageOrder": 27,
+    "GoalCount": 1200
+  },
+  {
+    "Id": 90104,
+    "CharacterMissionCategoryLevelMasterId": 901,
+    "CharacterMissionMasterId": 2,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 4,
+    "StageOrder": 28,
+    "GoalCount": 1400
+  },
+  {
+    "Id": 90105,
+    "CharacterMissionCategoryLevelMasterId": 901,
+    "CharacterMissionMasterId": 2,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 5,
+    "StageOrder": 29,
+    "GoalCount": 1600
+  },
+  {
+    "Id": 90106,
+    "CharacterMissionCategoryLevelMasterId": 901,
+    "CharacterMissionMasterId": 2,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 6,
+    "StageOrder": 30,
+    "GoalCount": 1800
+  },
+  {
+    "Id": 90201,
+    "CharacterMissionCategoryLevelMasterId": 902,
+    "CharacterMissionMasterId": 3,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 1,
+    "StageOrder": 25,
+    "GoalCount": 400
+  },
+  {
+    "Id": 90202,
+    "CharacterMissionCategoryLevelMasterId": 902,
+    "CharacterMissionMasterId": 3,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 2,
+    "StageOrder": 26,
+    "GoalCount": 425
+  },
+  {
+    "Id": 90203,
+    "CharacterMissionCategoryLevelMasterId": 902,
+    "CharacterMissionMasterId": 3,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 3,
+    "StageOrder": 27,
+    "GoalCount": 450
+  },
+  {
+    "Id": 90204,
+    "CharacterMissionCategoryLevelMasterId": 902,
+    "CharacterMissionMasterId": 4,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 4,
+    "StageOrder": 9,
+    "GoalCount": 10
+  },
+  {
+    "Id": 90205,
+    "CharacterMissionCategoryLevelMasterId": 902,
+    "CharacterMissionMasterId": 5,
+    "ExclusionNoSenseCharacter": true,
+    "Order": 5,
+    "StageOrder": 17,
+    "GoalCount": 27
+  },
+  {
+    "Id": 90206,
+    "CharacterMissionCategoryLevelMasterId": 902,
+    "CharacterMissionMasterId": 5,
+    "ExclusionNoSenseCharacter": true,
+    "Order": 6,
+    "StageOrder": 18,
+    "GoalCount": 28
+  },
+  {
+    "Id": 90301,
+    "CharacterMissionCategoryLevelMasterId": 903,
+    "CharacterMissionMasterId": 6,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 1,
+    "StageOrder": 25,
+    "GoalCount": 25
+  },
+  {
+    "Id": 90302,
+    "CharacterMissionCategoryLevelMasterId": 903,
+    "CharacterMissionMasterId": 6,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 2,
+    "StageOrder": 26,
+    "GoalCount": 26
+  },
+  {
+    "Id": 90303,
+    "CharacterMissionCategoryLevelMasterId": 903,
+    "CharacterMissionMasterId": 6,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 3,
+    "StageOrder": 27,
+    "GoalCount": 27
+  },
+  {
+    "Id": 90401,
+    "CharacterMissionCategoryLevelMasterId": 904,
+    "CharacterMissionMasterId": 7,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 1,
+    "StageOrder": 9,
+    "GoalCount": 9
+  },
+  {
+    "Id": 90402,
+    "CharacterMissionCategoryLevelMasterId": 904,
+    "CharacterMissionMasterId": 8,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 2,
+    "StageOrder": 25,
+    "GoalCount": 25
+  },
+  {
+    "Id": 90403,
+    "CharacterMissionCategoryLevelMasterId": 904,
+    "CharacterMissionMasterId": 8,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 3,
+    "StageOrder": 26,
+    "GoalCount": 26
+  },
+  {
+    "Id": 90404,
+    "CharacterMissionCategoryLevelMasterId": 904,
+    "CharacterMissionMasterId": 8,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 4,
+    "StageOrder": 27,
+    "GoalCount": 27
+  },
+  {
+    "Id": 90501,
+    "CharacterMissionCategoryLevelMasterId": 905,
+    "CharacterMissionMasterId": 9,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 1,
+    "StageOrder": 25,
+    "GoalCount": 126
+  },
+  {
+    "Id": 90502,
+    "CharacterMissionCategoryLevelMasterId": 905,
+    "CharacterMissionMasterId": 9,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 2,
+    "StageOrder": 26,
+    "GoalCount": 138
+  },
+  {
+    "Id": 90503,
+    "CharacterMissionCategoryLevelMasterId": 905,
+    "CharacterMissionMasterId": 9,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 3,
+    "StageOrder": 27,
+    "GoalCount": 150
+  },
+  {
+    "Id": 100101,
+    "CharacterMissionCategoryLevelMasterId": 1001,
+    "CharacterMissionMasterId": 1,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 1,
+    "StageOrder": 25,
+    "GoalCount": 2500
+  },
+  {
+    "Id": 100102,
+    "CharacterMissionCategoryLevelMasterId": 1001,
+    "CharacterMissionMasterId": 1,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 2,
+    "StageOrder": 26,
+    "GoalCount": 3000
+  },
+  {
+    "Id": 100103,
+    "CharacterMissionCategoryLevelMasterId": 1001,
+    "CharacterMissionMasterId": 2,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 3,
+    "StageOrder": 31,
+    "GoalCount": 2000
+  },
+  {
+    "Id": 100104,
+    "CharacterMissionCategoryLevelMasterId": 1001,
+    "CharacterMissionMasterId": 2,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 4,
+    "StageOrder": 32,
+    "GoalCount": 2300
+  },
+  {
+    "Id": 100105,
+    "CharacterMissionCategoryLevelMasterId": 1001,
+    "CharacterMissionMasterId": 2,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 5,
+    "StageOrder": 33,
+    "GoalCount": 2600
+  },
+  {
+    "Id": 100106,
+    "CharacterMissionCategoryLevelMasterId": 1001,
+    "CharacterMissionMasterId": 2,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 6,
+    "StageOrder": 34,
+    "GoalCount": 3000
+  },
+  {
+    "Id": 100201,
+    "CharacterMissionCategoryLevelMasterId": 1002,
+    "CharacterMissionMasterId": 3,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 1,
+    "StageOrder": 28,
+    "GoalCount": 500
+  },
+  {
+    "Id": 100202,
+    "CharacterMissionCategoryLevelMasterId": 1002,
+    "CharacterMissionMasterId": 3,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 2,
+    "StageOrder": 29,
+    "GoalCount": 550
+  },
+  {
+    "Id": 100203,
+    "CharacterMissionCategoryLevelMasterId": 1002,
+    "CharacterMissionMasterId": 3,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 3,
+    "StageOrder": 30,
+    "GoalCount": 600
+  },
+  {
+    "Id": 100204,
+    "CharacterMissionCategoryLevelMasterId": 1002,
+    "CharacterMissionMasterId": 4,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 4,
+    "StageOrder": 10,
+    "GoalCount": 12
+  },
+  {
+    "Id": 100205,
+    "CharacterMissionCategoryLevelMasterId": 1002,
+    "CharacterMissionMasterId": 5,
+    "ExclusionNoSenseCharacter": true,
+    "Order": 5,
+    "StageOrder": 19,
+    "GoalCount": 29
+  },
+  {
+    "Id": 100206,
+    "CharacterMissionCategoryLevelMasterId": 1002,
+    "CharacterMissionMasterId": 5,
+    "ExclusionNoSenseCharacter": true,
+    "Order": 6,
+    "StageOrder": 20,
+    "GoalCount": 30
+  },
+  {
+    "Id": 100301,
+    "CharacterMissionCategoryLevelMasterId": 1003,
+    "CharacterMissionMasterId": 6,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 1,
+    "StageOrder": 28,
+    "GoalCount": 28
+  },
+  {
+    "Id": 100302,
+    "CharacterMissionCategoryLevelMasterId": 1003,
+    "CharacterMissionMasterId": 6,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 2,
+    "StageOrder": 29,
+    "GoalCount": 29
+  },
+  {
+    "Id": 100303,
+    "CharacterMissionCategoryLevelMasterId": 1003,
+    "CharacterMissionMasterId": 6,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 3,
+    "StageOrder": 30,
+    "GoalCount": 30
+  },
+  {
+    "Id": 100401,
+    "CharacterMissionCategoryLevelMasterId": 1004,
+    "CharacterMissionMasterId": 7,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 1,
+    "StageOrder": 10,
+    "GoalCount": 10
+  },
+  {
+    "Id": 100402,
+    "CharacterMissionCategoryLevelMasterId": 1004,
+    "CharacterMissionMasterId": 8,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 2,
+    "StageOrder": 28,
+    "GoalCount": 28
+  },
+  {
+    "Id": 100403,
+    "CharacterMissionCategoryLevelMasterId": 1004,
+    "CharacterMissionMasterId": 8,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 3,
+    "StageOrder": 29,
+    "GoalCount": 29
+  },
+  {
+    "Id": 100404,
+    "CharacterMissionCategoryLevelMasterId": 1004,
+    "CharacterMissionMasterId": 8,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 4,
+    "StageOrder": 30,
+    "GoalCount": 30
+  },
+  {
+    "Id": 100501,
+    "CharacterMissionCategoryLevelMasterId": 1005,
+    "CharacterMissionMasterId": 9,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 1,
+    "StageOrder": 28,
+    "GoalCount": 165
+  },
+  {
+    "Id": 100502,
+    "CharacterMissionCategoryLevelMasterId": 1005,
+    "CharacterMissionMasterId": 9,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 2,
+    "StageOrder": 29,
+    "GoalCount": 180
+  },
+  {
+    "Id": 100503,
+    "CharacterMissionCategoryLevelMasterId": 1005,
+    "CharacterMissionMasterId": 9,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 3,
+    "StageOrder": 30,
+    "GoalCount": 200
+  },
+  {
+    "Id": 100504,
+    "CharacterMissionCategoryLevelMasterId": 1005,
+    "CharacterMissionMasterId": 11,
+    "ExclusionNoSenseCharacter": false,
+    "Order": 4,
+    "StageOrder": 6,
+    "GoalCount": 7
+  }
 ]

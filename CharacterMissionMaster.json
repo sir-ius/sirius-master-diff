@@ -1,10 +1,10 @@
 [
-  [
-    1,
-    "[:character]を編成して公演を[:param]回クリアしよう",
-    6,
-    null,
-    [
+  {
+    "Id": 1,
+    "Title": "[:character]を編成して公演を[:param]回クリアしよう",
+    "JumpType": 6,
+    "JumpValue": null,
+    "Stages": [
       [
         10101,
         101,
@@ -240,13 +240,13 @@
         3000
       ]
     ]
-  ],
-  [
-    2,
-    "[:character]のスターアクトを[:param]回発動しよう",
-    6,
-    null,
-    [
+  },
+  {
+    "Id": 2,
+    "Title": "[:character]のスターアクトを[:param]回発動しよう",
+    "JumpType": 6,
+    "JumpValue": null,
+    "Stages": [
       [
         10105,
         101,
@@ -554,13 +554,13 @@
         3000
       ]
     ]
-  ],
-  [
-    3,
-    "[:character]の合計レベルを[:param]にしよう",
-    7,
-    null,
-    [
+  },
+  {
+    "Id": 3,
+    "Title": "[:character]の合計レベルを[:param]にしよう",
+    "JumpType": 7,
+    "JumpValue": null,
+    "Stages": [
       [
         10201,
         102,
@@ -832,13 +832,13 @@
         600
       ]
     ]
-  ],
-  [
-    4,
-    "[:character]のサイドストーリーを[:param]話読もう",
-    9,
-    null,
-    [
+  },
+  {
+    "Id": 4,
+    "Title": "[:character]のサイドストーリーを[:param]話読もう",
+    "JumpType": 9,
+    "JumpValue": null,
+    "Stages": [
       [
         10204,
         102,
@@ -930,13 +930,13 @@
         12
       ]
     ]
-  ],
-  [
-    5,
-    "[:character]のセンスの合計レベルを[:param]にしよう",
-    7,
-    null,
-    [
+  },
+  {
+    "Id": 5,
+    "Title": "[:character]のセンスの合計レベルを[:param]にしよう",
+    "JumpType": 7,
+    "JumpValue": null,
+    "Stages": [
       [
         10205,
         102,
@@ -1118,13 +1118,13 @@
         30
       ]
     ]
-  ],
-  [
-    6,
-    "[:character]を[:param]回才能開花しよう",
-    7,
-    null,
-    [
+  },
+  {
+    "Id": 6,
+    "Title": "[:character]を[:param]回才能開花しよう",
+    "JumpType": 7,
+    "JumpValue": null,
+    "Stages": [
       [
         10301,
         103,
@@ -1396,13 +1396,13 @@
         30
       ]
     ]
-  ],
-  [
-    7,
-    "[:character]が描かれたポスターを[:param]種類入手しよう",
-    null,
-    null,
-    [
+  },
+  {
+    "Id": 7,
+    "Title": "[:character]が描かれたポスターを[:param]種類入手しよう",
+    "JumpType": null,
+    "JumpValue": null,
+    "Stages": [
       [
         10401,
         104,
@@ -1494,13 +1494,13 @@
         10
       ]
     ]
-  ],
-  [
-    8,
-    "[:character]が描かれたポスターのポスターストーリーを[:param]話解放しよう",
-    7,
-    null,
-    [
+  },
+  {
+    "Id": 8,
+    "Title": "[:character]が描かれたポスターのポスターストーリーを[:param]話解放しよう",
+    "JumpType": 7,
+    "JumpValue": null,
+    "Stages": [
       [
         10402,
         104,
@@ -1772,13 +1772,13 @@
         30
       ]
     ]
-  ],
-  [
-    9,
-    "[:character]がメインで写ったフォトを[:param]回現像しよう",
-    8,
-    null,
-    [
+  },
+  {
+    "Id": 9,
+    "Title": "[:character]がメインで写ったフォトを[:param]回現像しよう",
+    "JumpType": 8,
+    "JumpValue": null,
+    "Stages": [
       [
         10501,
         105,
@@ -2050,13 +2050,13 @@
         200
       ]
     ]
-  ],
-  [
-    10,
-    "[:character]のスポットストーリーを[:param]話読もう",
-    null,
-    null,
-    [
+  },
+  {
+    "Id": 10,
+    "Title": "[:character]のスポットストーリーを[:param]話読もう",
+    "JumpType": null,
+    "JumpValue": null,
+    "Stages": [
       [
         10504,
         105,
@@ -2148,13 +2148,13 @@
         45
       ]
     ]
-  ],
-  [
-    11,
-    "[:character]のスタンプを[:param]種類集めよう",
-    2,
-    2,
-    [
+  },
+  {
+    "Id": 11,
+    "Title": "[:character]のスタンプを[:param]種類集めよう",
+    "JumpType": 2,
+    "JumpValue": 2,
+    "Stages": [
       [
         20506,
         205,
@@ -2210,5 +2210,5 @@
         7
       ]
     ]
-  ]
+  }
 ]

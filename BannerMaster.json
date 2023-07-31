@@ -1,470 +1,184 @@
 [
-  [
-    1,
-    1,
-    "初心者ミッション",
-    11,
-    "1",
-    null,
-    null,
-    2,
-    "42",
-    "Home/1",
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    2,
-    2,
-    "ログインパス",
-    3,
-    "2",
-    null,
-    null,
-    1,
-    "3003",
-    "Home/2",
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    3,
-    3,
-    "スターパス／ダイスターパス",
-    3,
-    "3",
-    null,
-    null,
-    1,
-    "3004",
-    "Home/3",
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          100,
-          200,
-          145,
-          80
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    6,
-    6,
-    "スタートダッシュパック",
-    3,
-    "4",
-    null,
-    null,
-    1,
-    "4001",
-    "Home/6",
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    1001,
-    1001,
-    "リリース記念ガチャ(アクター)",
-    4,
-    "1001",
-    null,
-    null,
-    0,
-    null,
-    "Gacha/1001",
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          100,
-          199,
-          232,
-          144
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    1002,
-    1002,
-    "シリウス第2章ガチャ(アクター)",
-    4,
-    "1002",
-    null,
-    null,
-    0,
-    null,
-    "Gacha/1002",
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          100,
-          197,
-          69,
-          144
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          100,
-          213,
-          23,
-          144
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    1003,
-    1003,
-    "god is no /w/ hereガチャ(アクター)",
-    4,
-    "1003",
-    null,
-    null,
-    0,
-    null,
-    "Gacha/1003",
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          100,
-          199,
-          232,
-          144
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          100,
-          213,
-          23,
-          144
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    2001,
-    2001,
-    "リリース記念ガチャ(ポスター)",
-    4,
-    "2001",
-    null,
-    null,
-    0,
-    null,
-    "Gacha/2001",
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          100,
-          199,
-          232,
-          144
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    2002,
-    2002,
-    "シリウス第2章ガチャ(ポスター)",
-    4,
-    "2002",
-    null,
-    null,
-    0,
-    null,
-    "Gacha/2002",
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          100,
-          197,
-          69,
-          144
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          100,
-          213,
-          23,
-          144
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    2003,
-    2003,
-    "god is no /w/ hereガチャ(ポスター)",
-    4,
-    "2003",
-    null,
-    null,
-    0,
-    null,
-    "Gacha/2003",
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          100,
-          199,
-          232,
-          144
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          100,
-          213,
-          23,
-          144
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    3001,
-    3001,
-    "イベント「god is no /w/ here」",
-    5,
-    "20001",
-    null,
-    null,
-    0,
-    null,
-    "Event/20001",
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          100,
-          199,
-          232,
-          144
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          100,
-          213,
-          23,
-          144
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    5002,
-    5002,
-    "電姫空間のおまもりパック",
-    3,
-    "5",
-    null,
-    null,
-    1,
-    "5002",
-    "Home/5002",
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          100,
-          197,
-          69,
-          144
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          100,
-          210,
-          186,
-          224
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    5008,
-    5008,
-    "お誕生日パック【カトリナ・グリーベル】",
-    3,
-    "5",
-    null,
-    null,
-    1,
-    "5008",
-    "Home/5008",
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          100,
-          204,
-          63,
-          128
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          100,
-          217,
-          110,
-          128
-        ]
-      },
-      "type": 255
-    }
-  ]
+  {
+    "Id": 1,
+    "Order": 1,
+    "Name": "初心者ミッション",
+    "JumpType": 11,
+    "JumpPageId": "1",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": 2,
+    "DeleteConditionValue": "42",
+    "ImagePath": "Home/1",
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 2,
+    "Order": 2,
+    "Name": "ログインパス",
+    "JumpType": 3,
+    "JumpPageId": "2",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": 1,
+    "DeleteConditionValue": "3003",
+    "ImagePath": "Home/2",
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 3,
+    "Order": 3,
+    "Name": "スターパス／ダイスターパス",
+    "JumpType": 3,
+    "JumpPageId": "3",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": 1,
+    "DeleteConditionValue": "3004",
+    "ImagePath": "Home/3",
+    "StartDate": "2023-08-01T05:00:00.000Z",
+    "EndDate": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 6,
+    "Order": 6,
+    "Name": "スタートダッシュパック",
+    "JumpType": 3,
+    "JumpPageId": "4",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": 1,
+    "DeleteConditionValue": "4001",
+    "ImagePath": "Home/6",
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 1001,
+    "Order": 1001,
+    "Name": "リリース記念ガチャ(アクター)",
+    "JumpType": 4,
+    "JumpPageId": "1001",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": 0,
+    "DeleteConditionValue": null,
+    "ImagePath": "Gacha/1001",
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": "2023-07-31T17:00:00.000Z"
+  },
+  {
+    "Id": 1002,
+    "Order": 1002,
+    "Name": "シリウス第2章ガチャ(アクター)",
+    "JumpType": 4,
+    "JumpPageId": "1002",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": 0,
+    "DeleteConditionValue": null,
+    "ImagePath": "Gacha/1002",
+    "StartDate": "2023-07-29T17:00:00.000Z",
+    "EndDate": "2023-08-10T17:00:00.000Z"
+  },
+  {
+    "Id": 1003,
+    "Order": 1003,
+    "Name": "god is no /w/ hereガチャ(アクター)",
+    "JumpType": 4,
+    "JumpPageId": "1003",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": 0,
+    "DeleteConditionValue": null,
+    "ImagePath": "Gacha/1003",
+    "StartDate": "2023-07-31T17:00:00.000Z",
+    "EndDate": "2023-08-10T17:00:00.000Z"
+  },
+  {
+    "Id": 2001,
+    "Order": 2001,
+    "Name": "リリース記念ガチャ(ポスター)",
+    "JumpType": 4,
+    "JumpPageId": "2001",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": 0,
+    "DeleteConditionValue": null,
+    "ImagePath": "Gacha/2001",
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": "2023-07-31T17:00:00.000Z"
+  },
+  {
+    "Id": 2002,
+    "Order": 2002,
+    "Name": "シリウス第2章ガチャ(ポスター)",
+    "JumpType": 4,
+    "JumpPageId": "2002",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": 0,
+    "DeleteConditionValue": null,
+    "ImagePath": "Gacha/2002",
+    "StartDate": "2023-07-29T17:00:00.000Z",
+    "EndDate": "2023-08-10T17:00:00.000Z"
+  },
+  {
+    "Id": 2003,
+    "Order": 2003,
+    "Name": "god is no /w/ hereガチャ(ポスター)",
+    "JumpType": 4,
+    "JumpPageId": "2003",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": 0,
+    "DeleteConditionValue": null,
+    "ImagePath": "Gacha/2003",
+    "StartDate": "2023-07-31T17:00:00.000Z",
+    "EndDate": "2023-08-10T17:00:00.000Z"
+  },
+  {
+    "Id": 3001,
+    "Order": 3001,
+    "Name": "イベント「god is no /w/ here」",
+    "JumpType": 5,
+    "JumpPageId": "20001",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": 0,
+    "DeleteConditionValue": null,
+    "ImagePath": "Event/20001",
+    "StartDate": "2023-07-31T17:00:00.000Z",
+    "EndDate": "2023-08-10T17:00:00.000Z"
+  },
+  {
+    "Id": 5002,
+    "Order": 5002,
+    "Name": "電姫空間のおまもりパック",
+    "JumpType": 3,
+    "JumpPageId": "5",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": 1,
+    "DeleteConditionValue": "5002",
+    "ImagePath": "Home/5002",
+    "StartDate": "2023-07-29T17:00:00.000Z",
+    "EndDate": "2023-08-08T22:00:00.000Z"
+  },
+  {
+    "Id": 5008,
+    "Order": 5008,
+    "Name": "お誕生日パック【カトリナ・グリーベル】",
+    "JumpType": 3,
+    "JumpPageId": "5",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": 1,
+    "DeleteConditionValue": "5008",
+    "ImagePath": "Home/5008",
+    "StartDate": "2023-08-04T00:00:00.000Z",
+    "EndDate": "2023-08-14T00:00:00.000Z"
+  }
 ]

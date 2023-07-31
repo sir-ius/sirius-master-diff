@@ -1,31 +1,9 @@
 [
-  [
-    1,
-    230050,
-    2001,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          125,
-          208,
-          214,
-          128
-        ]
-      },
-      "type": 255
-    }
-  ]
+  {
+    "Id": 1,
+    "PosterMasterId": 230050,
+    "GachaMasterId": 2001,
+    "DisplayStartDate": "2023-01-01T00:00:00.000Z",
+    "DisplayEndDate": "2036-11-21T00:00:00.000Z"
+  }
 ]

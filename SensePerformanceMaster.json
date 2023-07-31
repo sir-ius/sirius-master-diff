@@ -1,9 +1,9 @@
 [
-  [
-    1000,
-    1,
-    null,
-    [
+  {
+    "Id": 1000,
+    "LabelType": 1,
+    "PerformanceGroup": null,
+    "Characters": [
       [
         1000101,
         101,
@@ -131,12 +131,12 @@
         "405100"
       ]
     ]
-  ],
-  [
-    2000,
-    2,
-    null,
-    [
+  },
+  {
+    "Id": 2000,
+    "LabelType": 2,
+    "PerformanceGroup": null,
+    "Characters": [
       [
         2000101,
         101,
@@ -264,12 +264,12 @@
         "405200"
       ]
     ]
-  ],
-  [
-    3000,
-    3,
-    null,
-    [
+  },
+  {
+    "Id": 3000,
+    "LabelType": 3,
+    "PerformanceGroup": null,
+    "Characters": [
       [
         3000101,
         101,
@@ -397,12 +397,12 @@
         "405300"
       ]
     ]
-  ],
-  [
-    4000,
-    4,
-    null,
-    [
+  },
+  {
+    "Id": 4000,
+    "LabelType": 4,
+    "PerformanceGroup": null,
+    "Characters": [
       [
         4000101,
         101,
@@ -530,5 +530,5 @@
         "405400"
       ]
     ]
-  ]
+  }
 ]

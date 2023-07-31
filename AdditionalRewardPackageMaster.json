@@ -1,35 +1,35 @@
 [
-  [
-    103,
-    "スタミナを消費",
-    1,
-    [
+  {
+    "Id": 103,
+    "Description": "スタミナを消費",
+    "LiveSettingMasterId": 1,
+    "Rewards": [
       [
         120001,
         1,
         0
       ]
     ],
-    false
-  ],
-  [
-    104,
-    "スタミナを消費 + スコア10,000以上",
-    1,
-    [
+    "Etcetera": false
+  },
+  {
+    "Id": 104,
+    "Description": "スタミナを消費 + スコア10,000以上",
+    "LiveSettingMasterId": 1,
+    "Rewards": [
       [
         120001,
         1,
         0
       ]
     ],
-    false
-  ],
-  [
-    105,
-    "スタミナを消費 + スコア30,000以上",
-    1,
-    [
+    "Etcetera": false
+  },
+  {
+    "Id": 105,
+    "Description": "スタミナを消費 + スコア30,000以上",
+    "LiveSettingMasterId": 1,
+    "Rewards": [
       [
         130031,
         1,
@@ -51,39 +51,39 @@
         0
       ]
     ],
-    false
-  ],
-  [
-    1103,
-    "スタミナを消費",
-    11,
-    [
+    "Etcetera": false
+  },
+  {
+    "Id": 1103,
+    "Description": "スタミナを消費",
+    "LiveSettingMasterId": 11,
+    "Rewards": [
       [
         120001,
         1,
         0
       ]
     ],
-    false
-  ],
-  [
-    1104,
-    "スタミナを消費 + スコア50,000以上",
-    11,
-    [
+    "Etcetera": false
+  },
+  {
+    "Id": 1104,
+    "Description": "スタミナを消費 + スコア50,000以上",
+    "LiveSettingMasterId": 11,
+    "Rewards": [
       [
         120001,
         1,
         0
       ]
     ],
-    false
-  ],
-  [
-    1105,
-    "スタミナを消費 + スコア150,000以上",
-    11,
-    [
+    "Etcetera": false
+  },
+  {
+    "Id": 1105,
+    "Description": "スタミナを消費 + スコア150,000以上",
+    "LiveSettingMasterId": 11,
+    "Rewards": [
       [
         130031,
         1,
@@ -105,13 +105,13 @@
         0
       ]
     ],
-    false
-  ],
-  [
-    1106,
-    "スタミナを消費 + スコア300,000以上",
-    11,
-    [
+    "Etcetera": false
+  },
+  {
+    "Id": 1106,
+    "Description": "スタミナを消費 + スコア300,000以上",
+    "LiveSettingMasterId": 11,
+    "Rewards": [
       [
         130041,
         1,
@@ -138,13 +138,13 @@
         0
       ]
     ],
-    false
-  ],
-  [
-    1107,
-    "スタミナを消費 + スコア800,000以上",
-    11,
-    [
+    "Etcetera": false
+  },
+  {
+    "Id": 1107,
+    "Description": "スタミナを消費 + スコア800,000以上",
+    "LiveSettingMasterId": 11,
+    "Rewards": [
       [
         130042,
         1,
@@ -171,13 +171,13 @@
         0
       ]
     ],
-    false
-  ],
-  [
-    1108,
-    "スタミナを消費 + スターアクト発動",
-    11,
-    [
+    "Etcetera": false
+  },
+  {
+    "Id": 1108,
+    "Description": "スタミナを消費 + スターアクト発動",
+    "LiveSettingMasterId": 11,
+    "Rewards": [
       [
         130042,
         1,
@@ -194,39 +194,39 @@
         0
       ]
     ],
-    false
-  ],
-  [
-    1203,
-    "スタミナを消費",
-    12,
-    [
+    "Etcetera": false
+  },
+  {
+    "Id": 1203,
+    "Description": "スタミナを消費",
+    "LiveSettingMasterId": 12,
+    "Rewards": [
       [
         120001,
         1,
         0
       ]
     ],
-    false
-  ],
-  [
-    1204,
-    "スタミナを消費 + スコア200,000以上",
-    12,
-    [
+    "Etcetera": false
+  },
+  {
+    "Id": 1204,
+    "Description": "スタミナを消費 + スコア200,000以上",
+    "LiveSettingMasterId": 12,
+    "Rewards": [
       [
         130061,
         1,
         0
       ]
     ],
-    false
-  ],
-  [
-    1205,
-    "スタミナを消費 + スコア500,000以上",
-    12,
-    [
+    "Etcetera": false
+  },
+  {
+    "Id": 1205,
+    "Description": "スタミナを消費 + スコア500,000以上",
+    "LiveSettingMasterId": 12,
+    "Rewards": [
       [
         130062,
         1,
@@ -238,13 +238,13 @@
         0
       ]
     ],
-    false
-  ],
-  [
-    1206,
-    "スタミナを消費 + スコア1,000,000以上",
-    12,
-    [
+    "Etcetera": false
+  },
+  {
+    "Id": 1206,
+    "Description": "スタミナを消費 + スコア1,000,000以上",
+    "LiveSettingMasterId": 12,
+    "Rewards": [
       [
         130063,
         1,
@@ -261,13 +261,13 @@
         0
       ]
     ],
-    false
-  ],
-  [
-    1207,
-    "スタミナを消費 + スターアクト発動",
-    12,
-    [
+    "Etcetera": false
+  },
+  {
+    "Id": 1207,
+    "Description": "スタミナを消費 + スターアクト発動",
+    "LiveSettingMasterId": 12,
+    "Rewards": [
       [
         130062,
         1,
@@ -284,26 +284,26 @@
         0
       ]
     ],
-    false
-  ],
-  [
-    1403,
-    "スタミナを消費",
-    14,
-    [
+    "Etcetera": false
+  },
+  {
+    "Id": 1403,
+    "Description": "スタミナを消費",
+    "LiveSettingMasterId": 14,
+    "Rewards": [
       [
         120001,
         1,
         0
       ]
     ],
-    false
-  ],
-  [
-    1404,
-    "スタミナを消費/n(確率で獲得)",
-    14,
-    [
+    "Etcetera": false
+  },
+  {
+    "Id": 1404,
+    "Description": "スタミナを消費/n(確率で獲得)",
+    "LiveSettingMasterId": 14,
+    "Rewards": [
       [
         331010,
         4,
@@ -330,13 +330,13 @@
         0
       ]
     ],
-    true
-  ],
-  [
-    1405,
-    "スタミナを消費 + スコア50,000以上/n(確率で獲得)",
-    14,
-    [
+    "Etcetera": true
+  },
+  {
+    "Id": 1405,
+    "Description": "スタミナを消費 + スコア50,000以上/n(確率で獲得)",
+    "LiveSettingMasterId": 14,
+    "Rewards": [
       [
         331010,
         4,
@@ -363,13 +363,13 @@
         0
       ]
     ],
-    true
-  ],
-  [
-    1406,
-    "スタミナを消費 + スコア150,000以上/n(確率で獲得)",
-    14,
-    [
+    "Etcetera": true
+  },
+  {
+    "Id": 1406,
+    "Description": "スタミナを消費 + スコア150,000以上/n(確率で獲得)",
+    "LiveSettingMasterId": 14,
+    "Rewards": [
       [
         331010,
         4,
@@ -396,13 +396,13 @@
         0
       ]
     ],
-    true
-  ],
-  [
-    1407,
-    "スタミナを消費 + スコア500,000以上/n(確率で獲得)",
-    14,
-    [
+    "Etcetera": true
+  },
+  {
+    "Id": 1407,
+    "Description": "スタミナを消費 + スコア500,000以上/n(確率で獲得)",
+    "LiveSettingMasterId": 14,
+    "Rewards": [
       [
         331010,
         4,
@@ -429,13 +429,13 @@
         0
       ]
     ],
-    true
-  ],
-  [
-    1411,
-    "スタミナを消費 + スターアクト発動",
-    14,
-    [
+    "Etcetera": true
+  },
+  {
+    "Id": 1411,
+    "Description": "スタミナを消費 + スターアクト発動",
+    "LiveSettingMasterId": 14,
+    "Rewards": [
       [
         130082,
         1,
@@ -447,6 +447,6 @@
         0
       ]
     ],
-    false
-  ]
+    "Etcetera": false
+  }
 ]

@@ -1,302 +1,82 @@
 [
-  [
-    1,
-    1,
-    "#f8c90e",
-    500,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    2,
-    2,
-    "#f8b20e",
-    1000,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    3,
-    3,
-    "#ffa5a8",
-    1750,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    4,
-    4,
-    "#ff787d",
-    2500,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    5,
-    5,
-    "#6df3c5",
-    3500,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    6,
-    6,
-    "#26eea8",
-    4500,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    7,
-    7,
-    "#7d89ff",
-    5750,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    8,
-    8,
-    "#8589ff",
-    7000,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    9,
-    9,
-    "#c881ff",
-    8500,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    10,
-    10,
-    "#c051ff",
-    10000,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ]
+  {
+    "Id": 1,
+    "Level": 1,
+    "Color": "#f8c90e",
+    "GiveStarPoint": 500,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 2,
+    "Level": 2,
+    "Color": "#f8b20e",
+    "GiveStarPoint": 1000,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 3,
+    "Level": 3,
+    "Color": "#ffa5a8",
+    "GiveStarPoint": 1750,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 4,
+    "Level": 4,
+    "Color": "#ff787d",
+    "GiveStarPoint": 2500,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 5,
+    "Level": 5,
+    "Color": "#6df3c5",
+    "GiveStarPoint": 3500,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 6,
+    "Level": 6,
+    "Color": "#26eea8",
+    "GiveStarPoint": 4500,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 7,
+    "Level": 7,
+    "Color": "#7d89ff",
+    "GiveStarPoint": 5750,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 8,
+    "Level": 8,
+    "Color": "#8589ff",
+    "GiveStarPoint": 7000,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 9,
+    "Level": 9,
+    "Color": "#c881ff",
+    "GiveStarPoint": 8500,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 10,
+    "Level": 10,
+    "Color": "#c051ff",
+    "GiveStarPoint": 10000,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": "2100-01-01T00:00:00.000Z"
+  }
 ]

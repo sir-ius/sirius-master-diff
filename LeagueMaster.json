@@ -1,134 +1,35 @@
 [
-  [
-    1,
-    17,
-    3,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          100,
-          192,
-          168,
-          80
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          100,
-          198,
-          249,
-          128
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          100,
-          200,
-          145,
-          80
-        ]
-      },
-      "type": 255
-    },
-    1,
-    1001,
-    2
-  ],
-  [
-    2,
-    19,
-    3,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          100,
-          200,
-          145,
-          80
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          100,
-          208,
-          52,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          100,
-          209,
-          203,
-          208
-        ]
-      },
-      "type": 255
-    },
-    1,
-    1002,
-    2
-  ],
-  [
-    3,
-    23,
-    3,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          100,
-          209,
-          203,
-          208
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          100,
-          217,
-          110,
-          128
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          100,
-          219,
-          6,
-          80
-        ]
-      },
-      "type": 255
-    },
-    1,
-    1003,
-    2
-  ]
+  {
+    "Id": 1,
+    "MusicMasterId": 17,
+    "MaxDifficulty": 3,
+    "DisplayStartAt": "2023-07-26T05:00:00.000Z",
+    "CountingStartAt": "2023-07-31T00:00:00.000Z",
+    "DisplayEndAt": "2023-08-01T05:00:00.000Z",
+    "LeagueClassGroupMasterId": 1,
+    "SenseNotationMasterId": 1001,
+    "VocalVersion": 2
+  },
+  {
+    "Id": 2,
+    "MusicMasterId": 19,
+    "MaxDifficulty": 3,
+    "DisplayStartAt": "2023-08-01T05:00:00.000Z",
+    "CountingStartAt": "2023-08-07T00:00:00.000Z",
+    "DisplayEndAt": "2023-08-08T05:00:00.000Z",
+    "LeagueClassGroupMasterId": 1,
+    "SenseNotationMasterId": 1002,
+    "VocalVersion": 2
+  },
+  {
+    "Id": 3,
+    "MusicMasterId": 23,
+    "MaxDifficulty": 3,
+    "DisplayStartAt": "2023-08-08T05:00:00.000Z",
+    "CountingStartAt": "2023-08-14T00:00:00.000Z",
+    "DisplayEndAt": "2023-08-15T05:00:00.000Z",
+    "LeagueClassGroupMasterId": 1,
+    "SenseNotationMasterId": 1003,
+    "VocalVersion": 2
+  }
 ]

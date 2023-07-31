@@ -1,596 +1,596 @@
 [
-  [
-    1001,
-    1,
-    1,
-    1,
-    5000,
-    null,
-    1
-  ],
-  [
-    1002,
-    1,
-    2,
-    41,
-    1340388,
-    null,
-    11
-  ],
-  [
-    2001,
-    2,
-    1,
-    3,
-    15390,
-    null,
-    2
-  ],
-  [
-    2002,
-    2,
-    2,
-    43,
-    1537704,
-    null,
-    11
-  ],
-  [
-    3001,
-    3,
-    1,
-    5,
-    26260,
-    null,
-    3
-  ],
-  [
-    3002,
-    3,
-    2,
-    45,
-    2193720,
-    null,
-    11
-  ],
-  [
-    4001,
-    4,
-    1,
-    7,
-    27945,
-    null,
-    4
-  ],
-  [
-    4002,
-    4,
-    2,
-    47,
-    2010096,
-    null,
-    11
-  ],
-  [
-    5001,
-    5,
-    1,
-    9,
-    75240,
-    null,
-    5
-  ],
-  [
-    5002,
-    5,
-    2,
-    49,
-    6045705,
-    null,
-    12
-  ],
-  [
-    5003,
-    5,
-    3,
-    90,
-    30951000,
-    3,
-    15
-  ],
-  [
-    6001,
-    6,
-    1,
-    11,
-    50505,
-    null,
-    1
-  ],
-  [
-    6002,
-    6,
-    2,
-    51,
-    2799888,
-    null,
-    11
-  ],
-  [
-    7001,
-    7,
-    1,
-    13,
-    62335,
-    null,
-    2
-  ],
-  [
-    7002,
-    7,
-    2,
-    52,
-    2854488,
-    null,
-    11
-  ],
-  [
-    8001,
-    8,
-    1,
-    15,
-    51240,
-    null,
-    3
-  ],
-  [
-    8002,
-    8,
-    2,
-    53,
-    1950048,
-    null,
-    11
-  ],
-  [
-    9001,
-    9,
-    1,
-    17,
-    72420,
-    null,
-    4
-  ],
-  [
-    9002,
-    9,
-    2,
-    54,
-    2313180,
-    null,
-    11
-  ],
-  [
-    10001,
-    10,
-    1,
-    19,
-    148830,
-    null,
-    5
-  ],
-  [
-    10002,
-    10,
-    2,
-    55,
-    5018475,
-    null,
-    13
-  ],
-  [
-    10003,
-    10,
-    3,
-    95,
-    21671100,
-    3,
-    15
-  ],
-  [
-    11001,
-    11,
-    1,
-    21,
-    148470,
-    null,
-    1
-  ],
-  [
-    11002,
-    11,
-    2,
-    56,
-    3411780,
-    null,
-    11
-  ],
-  [
-    12001,
-    12,
-    1,
-    23,
-    211750,
-    null,
-    2
-  ],
-  [
-    12002,
-    12,
-    2,
-    57,
-    4159980,
-    null,
-    11
-  ],
-  [
-    13001,
-    13,
-    1,
-    25,
-    209070,
-    null,
-    3
-  ],
-  [
-    13002,
-    13,
-    2,
-    58,
-    3534192,
-    null,
-    11
-  ],
-  [
-    14001,
-    14,
-    1,
-    27,
-    172885,
-    null,
-    4
-  ],
-  [
-    14002,
-    14,
-    2,
-    59,
-    2527032,
-    null,
-    11
-  ],
-  [
-    15001,
-    15,
-    1,
-    29,
-    431105,
-    null,
-    5
-  ],
-  [
-    15002,
-    15,
-    2,
-    60,
-    5474040,
-    null,
-    12
-  ],
-  [
-    15003,
-    15,
-    3,
-    100,
-    21749871,
-    3,
-    15
-  ],
-  [
-    16001,
-    16,
-    1,
-    31,
-    270135,
-    null,
-    1
-  ],
-  [
-    16002,
-    16,
-    2,
-    61,
-    2981124,
-    null,
-    11
-  ],
-  [
-    17001,
-    17,
-    1,
-    33,
-    314280,
-    null,
-    2
-  ],
-  [
-    17002,
-    17,
-    2,
-    62,
-    3029724,
-    null,
-    11
-  ],
-  [
-    18001,
-    18,
-    1,
-    35,
-    678745,
-    null,
-    3
-  ],
-  [
-    18002,
-    18,
-    2,
-    63,
-    5738604,
-    null,
-    11
-  ],
-  [
-    19001,
-    19,
-    1,
-    37,
-    317200,
-    null,
-    4
-  ],
-  [
-    19002,
-    19,
-    2,
-    64,
-    2354844,
-    null,
-    11
-  ],
-  [
-    20001,
-    20,
-    1,
-    39,
-    1025145,
-    null,
-    5
-  ],
-  [
-    20002,
-    20,
-    2,
-    65,
-    8382420,
-    null,
-    13
-  ],
-  [
-    20003,
-    20,
-    3,
-    105,
-    25275852,
-    4,
-    15
-  ],
-  [
-    21001,
-    21,
-    1,
-    41,
-    558495,
-    null,
-    6
-  ],
-  [
-    21002,
-    21,
-    2,
-    66,
-    3225096,
-    null,
-    11
-  ],
-  [
-    22001,
-    22,
-    1,
-    42,
-    598185,
-    null,
-    7
-  ],
-  [
-    22002,
-    22,
-    2,
-    67,
-    3273696,
-    null,
-    11
-  ],
-  [
-    23001,
-    23,
-    1,
-    43,
-    878010,
-    null,
-    8
-  ],
-  [
-    23002,
-    23,
-    2,
-    68,
-    4554108,
-    null,
-    11
-  ],
-  [
-    24001,
-    24,
-    1,
-    44,
-    516060,
-    null,
-    9
-  ],
-  [
-    24002,
-    24,
-    2,
-    69,
-    2539308,
-    null,
-    11
-  ],
-  [
-    25001,
-    25,
-    1,
-    45,
-    1004550,
-    null,
-    10
-  ],
-  [
-    25002,
-    25,
-    2,
-    70,
-    5859135,
-    null,
-    14
-  ],
-  [
-    25003,
-    25,
-    3,
-    110,
-    20716762,
-    3,
-    15
-  ],
-  [
-    26001,
-    26,
-    1,
-    46,
-    1170675,
-    null,
-    6
-  ],
-  [
-    26002,
-    26,
-    2,
-    71,
-    5182188,
-    null,
-    11
-  ],
-  [
-    27001,
-    27,
-    1,
-    47,
-    527340,
-    null,
-    7
-  ],
-  [
-    27002,
-    27,
-    2,
-    72,
-    2215440,
-    null,
-    11
-  ],
-  [
-    28001,
-    28,
-    1,
-    48,
-    1004640,
-    null,
-    8
-  ],
-  [
-    28002,
-    28,
-    2,
-    73,
-    4007640,
-    null,
-    11
-  ],
-  [
-    29001,
-    29,
-    1,
-    49,
-    1661685,
-    null,
-    9
-  ],
-  [
-    29002,
-    29,
-    2,
-    74,
-    6294240,
-    null,
-    11
-  ],
-  [
-    30001,
-    30,
-    1,
-    50,
-    2023770,
-    null,
-    10
-  ],
-  [
-    30002,
-    30,
-    2,
-    75,
-    9106965,
-    null,
-    14
-  ],
-  [
-    30003,
-    30,
-    3,
-    115,
-    33279746,
-    4,
-    15
-  ]
+  {
+    "Id": 1001,
+    "AuditionasterId": 1,
+    "Phase": 1,
+    "RecommendedPlayerRank": 1,
+    "ClearScore": 5000,
+    "StarActCount": null,
+    "AuditionRewardPackageMasterId": 1
+  },
+  {
+    "Id": 1002,
+    "AuditionasterId": 1,
+    "Phase": 2,
+    "RecommendedPlayerRank": 41,
+    "ClearScore": 1340388,
+    "StarActCount": null,
+    "AuditionRewardPackageMasterId": 11
+  },
+  {
+    "Id": 2001,
+    "AuditionasterId": 2,
+    "Phase": 1,
+    "RecommendedPlayerRank": 3,
+    "ClearScore": 15390,
+    "StarActCount": null,
+    "AuditionRewardPackageMasterId": 2
+  },
+  {
+    "Id": 2002,
+    "AuditionasterId": 2,
+    "Phase": 2,
+    "RecommendedPlayerRank": 43,
+    "ClearScore": 1537704,
+    "StarActCount": null,
+    "AuditionRewardPackageMasterId": 11
+  },
+  {
+    "Id": 3001,
+    "AuditionasterId": 3,
+    "Phase": 1,
+    "RecommendedPlayerRank": 5,
+    "ClearScore": 26260,
+    "StarActCount": null,
+    "AuditionRewardPackageMasterId": 3
+  },
+  {
+    "Id": 3002,
+    "AuditionasterId": 3,
+    "Phase": 2,
+    "RecommendedPlayerRank": 45,
+    "ClearScore": 2193720,
+    "StarActCount": null,
+    "AuditionRewardPackageMasterId": 11
+  },
+  {
+    "Id": 4001,
+    "AuditionasterId": 4,
+    "Phase": 1,
+    "RecommendedPlayerRank": 7,
+    "ClearScore": 27945,
+    "StarActCount": null,
+    "AuditionRewardPackageMasterId": 4
+  },
+  {
+    "Id": 4002,
+    "AuditionasterId": 4,
+    "Phase": 2,
+    "RecommendedPlayerRank": 47,
+    "ClearScore": 2010096,
+    "StarActCount": null,
+    "AuditionRewardPackageMasterId": 11
+  },
+  {
+    "Id": 5001,
+    "AuditionasterId": 5,
+    "Phase": 1,
+    "RecommendedPlayerRank": 9,
+    "ClearScore": 75240,
+    "StarActCount": null,
+    "AuditionRewardPackageMasterId": 5
+  },
+  {
+    "Id": 5002,
+    "AuditionasterId": 5,
+    "Phase": 2,
+    "RecommendedPlayerRank": 49,
+    "ClearScore": 6045705,
+    "StarActCount": null,
+    "AuditionRewardPackageMasterId": 12
+  },
+  {
+    "Id": 5003,
+    "AuditionasterId": 5,
+    "Phase": 3,
+    "RecommendedPlayerRank": 90,
+    "ClearScore": 30951000,
+    "StarActCount": 3,
+    "AuditionRewardPackageMasterId": 15
+  },
+  {
+    "Id": 6001,
+    "AuditionasterId": 6,
+    "Phase": 1,
+    "RecommendedPlayerRank": 11,
+    "ClearScore": 50505,
+    "StarActCount": null,
+    "AuditionRewardPackageMasterId": 1
+  },
+  {
+    "Id": 6002,
+    "AuditionasterId": 6,
+    "Phase": 2,
+    "RecommendedPlayerRank": 51,
+    "ClearScore": 2799888,
+    "StarActCount": null,
+    "AuditionRewardPackageMasterId": 11
+  },
+  {
+    "Id": 7001,
+    "AuditionasterId": 7,
+    "Phase": 1,
+    "RecommendedPlayerRank": 13,
+    "ClearScore": 62335,
+    "StarActCount": null,
+    "AuditionRewardPackageMasterId": 2
+  },
+  {
+    "Id": 7002,
+    "AuditionasterId": 7,
+    "Phase": 2,
+    "RecommendedPlayerRank": 52,
+    "ClearScore": 2854488,
+    "StarActCount": null,
+    "AuditionRewardPackageMasterId": 11
+  },
+  {
+    "Id": 8001,
+    "AuditionasterId": 8,
+    "Phase": 1,
+    "RecommendedPlayerRank": 15,
+    "ClearScore": 51240,
+    "StarActCount": null,
+    "AuditionRewardPackageMasterId": 3
+  },
+  {
+    "Id": 8002,
+    "AuditionasterId": 8,
+    "Phase": 2,
+    "RecommendedPlayerRank": 53,
+    "ClearScore": 1950048,
+    "StarActCount": null,
+    "AuditionRewardPackageMasterId": 11
+  },
+  {
+    "Id": 9001,
+    "AuditionasterId": 9,
+    "Phase": 1,
+    "RecommendedPlayerRank": 17,
+    "ClearScore": 72420,
+    "StarActCount": null,
+    "AuditionRewardPackageMasterId": 4
+  },
+  {
+    "Id": 9002,
+    "AuditionasterId": 9,
+    "Phase": 2,
+    "RecommendedPlayerRank": 54,
+    "ClearScore": 2313180,
+    "StarActCount": null,
+    "AuditionRewardPackageMasterId": 11
+  },
+  {
+    "Id": 10001,
+    "AuditionasterId": 10,
+    "Phase": 1,
+    "RecommendedPlayerRank": 19,
+    "ClearScore": 148830,
+    "StarActCount": null,
+    "AuditionRewardPackageMasterId": 5
+  },
+  {
+    "Id": 10002,
+    "AuditionasterId": 10,
+    "Phase": 2,
+    "RecommendedPlayerRank": 55,
+    "ClearScore": 5018475,
+    "StarActCount": null,
+    "AuditionRewardPackageMasterId": 13
+  },
+  {
+    "Id": 10003,
+    "AuditionasterId": 10,
+    "Phase": 3,
+    "RecommendedPlayerRank": 95,
+    "ClearScore": 21671100,
+    "StarActCount": 3,
+    "AuditionRewardPackageMasterId": 15
+  },
+  {
+    "Id": 11001,
+    "AuditionasterId": 11,
+    "Phase": 1,
+    "RecommendedPlayerRank": 21,
+    "ClearScore": 148470,
+    "StarActCount": null,
+    "AuditionRewardPackageMasterId": 1
+  },
+  {
+    "Id": 11002,
+    "AuditionasterId": 11,
+    "Phase": 2,
+    "RecommendedPlayerRank": 56,
+    "ClearScore": 3411780,
+    "StarActCount": null,
+    "AuditionRewardPackageMasterId": 11
+  },
+  {
+    "Id": 12001,
+    "AuditionasterId": 12,
+    "Phase": 1,
+    "RecommendedPlayerRank": 23,
+    "ClearScore": 211750,
+    "StarActCount": null,
+    "AuditionRewardPackageMasterId": 2
+  },
+  {
+    "Id": 12002,
+    "AuditionasterId": 12,
+    "Phase": 2,
+    "RecommendedPlayerRank": 57,
+    "ClearScore": 4159980,
+    "StarActCount": null,
+    "AuditionRewardPackageMasterId": 11
+  },
+  {
+    "Id": 13001,
+    "AuditionasterId": 13,
+    "Phase": 1,
+    "RecommendedPlayerRank": 25,
+    "ClearScore": 209070,
+    "StarActCount": null,
+    "AuditionRewardPackageMasterId": 3
+  },
+  {
+    "Id": 13002,
+    "AuditionasterId": 13,
+    "Phase": 2,
+    "RecommendedPlayerRank": 58,
+    "ClearScore": 3534192,
+    "StarActCount": null,
+    "AuditionRewardPackageMasterId": 11
+  },
+  {
+    "Id": 14001,
+    "AuditionasterId": 14,
+    "Phase": 1,
+    "RecommendedPlayerRank": 27,
+    "ClearScore": 172885,
+    "StarActCount": null,
+    "AuditionRewardPackageMasterId": 4
+  },
+  {
+    "Id": 14002,
+    "AuditionasterId": 14,
+    "Phase": 2,
+    "RecommendedPlayerRank": 59,
+    "ClearScore": 2527032,
+    "StarActCount": null,
+    "AuditionRewardPackageMasterId": 11
+  },
+  {
+    "Id": 15001,
+    "AuditionasterId": 15,
+    "Phase": 1,
+    "RecommendedPlayerRank": 29,
+    "ClearScore": 431105,
+    "StarActCount": null,
+    "AuditionRewardPackageMasterId": 5
+  },
+  {
+    "Id": 15002,
+    "AuditionasterId": 15,
+    "Phase": 2,
+    "RecommendedPlayerRank": 60,
+    "ClearScore": 5474040,
+    "StarActCount": null,
+    "AuditionRewardPackageMasterId": 12
+  },
+  {
+    "Id": 15003,
+    "AuditionasterId": 15,
+    "Phase": 3,
+    "RecommendedPlayerRank": 100,
+    "ClearScore": 21749871,
+    "StarActCount": 3,
+    "AuditionRewardPackageMasterId": 15
+  },
+  {
+    "Id": 16001,
+    "AuditionasterId": 16,
+    "Phase": 1,
+    "RecommendedPlayerRank": 31,
+    "ClearScore": 270135,
+    "StarActCount": null,
+    "AuditionRewardPackageMasterId": 1
+  },
+  {
+    "Id": 16002,
+    "AuditionasterId": 16,
+    "Phase": 2,
+    "RecommendedPlayerRank": 61,
+    "ClearScore": 2981124,
+    "StarActCount": null,
+    "AuditionRewardPackageMasterId": 11
+  },
+  {
+    "Id": 17001,
+    "AuditionasterId": 17,
+    "Phase": 1,
+    "RecommendedPlayerRank": 33,
+    "ClearScore": 314280,
+    "StarActCount": null,
+    "AuditionRewardPackageMasterId": 2
+  },
+  {
+    "Id": 17002,
+    "AuditionasterId": 17,
+    "Phase": 2,
+    "RecommendedPlayerRank": 62,
+    "ClearScore": 3029724,
+    "StarActCount": null,
+    "AuditionRewardPackageMasterId": 11
+  },
+  {
+    "Id": 18001,
+    "AuditionasterId": 18,
+    "Phase": 1,
+    "RecommendedPlayerRank": 35,
+    "ClearScore": 678745,
+    "StarActCount": null,
+    "AuditionRewardPackageMasterId": 3
+  },
+  {
+    "Id": 18002,
+    "AuditionasterId": 18,
+    "Phase": 2,
+    "RecommendedPlayerRank": 63,
+    "ClearScore": 5738604,
+    "StarActCount": null,
+    "AuditionRewardPackageMasterId": 11
+  },
+  {
+    "Id": 19001,
+    "AuditionasterId": 19,
+    "Phase": 1,
+    "RecommendedPlayerRank": 37,
+    "ClearScore": 317200,
+    "StarActCount": null,
+    "AuditionRewardPackageMasterId": 4
+  },
+  {
+    "Id": 19002,
+    "AuditionasterId": 19,
+    "Phase": 2,
+    "RecommendedPlayerRank": 64,
+    "ClearScore": 2354844,
+    "StarActCount": null,
+    "AuditionRewardPackageMasterId": 11
+  },
+  {
+    "Id": 20001,
+    "AuditionasterId": 20,
+    "Phase": 1,
+    "RecommendedPlayerRank": 39,
+    "ClearScore": 1025145,
+    "StarActCount": null,
+    "AuditionRewardPackageMasterId": 5
+  },
+  {
+    "Id": 20002,
+    "AuditionasterId": 20,
+    "Phase": 2,
+    "RecommendedPlayerRank": 65,
+    "ClearScore": 8382420,
+    "StarActCount": null,
+    "AuditionRewardPackageMasterId": 13
+  },
+  {
+    "Id": 20003,
+    "AuditionasterId": 20,
+    "Phase": 3,
+    "RecommendedPlayerRank": 105,
+    "ClearScore": 25275852,
+    "StarActCount": 4,
+    "AuditionRewardPackageMasterId": 15
+  },
+  {
+    "Id": 21001,
+    "AuditionasterId": 21,
+    "Phase": 1,
+    "RecommendedPlayerRank": 41,
+    "ClearScore": 558495,
+    "StarActCount": null,
+    "AuditionRewardPackageMasterId": 6
+  },
+  {
+    "Id": 21002,
+    "AuditionasterId": 21,
+    "Phase": 2,
+    "RecommendedPlayerRank": 66,
+    "ClearScore": 3225096,
+    "StarActCount": null,
+    "AuditionRewardPackageMasterId": 11
+  },
+  {
+    "Id": 22001,
+    "AuditionasterId": 22,
+    "Phase": 1,
+    "RecommendedPlayerRank": 42,
+    "ClearScore": 598185,
+    "StarActCount": null,
+    "AuditionRewardPackageMasterId": 7
+  },
+  {
+    "Id": 22002,
+    "AuditionasterId": 22,
+    "Phase": 2,
+    "RecommendedPlayerRank": 67,
+    "ClearScore": 3273696,
+    "StarActCount": null,
+    "AuditionRewardPackageMasterId": 11
+  },
+  {
+    "Id": 23001,
+    "AuditionasterId": 23,
+    "Phase": 1,
+    "RecommendedPlayerRank": 43,
+    "ClearScore": 878010,
+    "StarActCount": null,
+    "AuditionRewardPackageMasterId": 8
+  },
+  {
+    "Id": 23002,
+    "AuditionasterId": 23,
+    "Phase": 2,
+    "RecommendedPlayerRank": 68,
+    "ClearScore": 4554108,
+    "StarActCount": null,
+    "AuditionRewardPackageMasterId": 11
+  },
+  {
+    "Id": 24001,
+    "AuditionasterId": 24,
+    "Phase": 1,
+    "RecommendedPlayerRank": 44,
+    "ClearScore": 516060,
+    "StarActCount": null,
+    "AuditionRewardPackageMasterId": 9
+  },
+  {
+    "Id": 24002,
+    "AuditionasterId": 24,
+    "Phase": 2,
+    "RecommendedPlayerRank": 69,
+    "ClearScore": 2539308,
+    "StarActCount": null,
+    "AuditionRewardPackageMasterId": 11
+  },
+  {
+    "Id": 25001,
+    "AuditionasterId": 25,
+    "Phase": 1,
+    "RecommendedPlayerRank": 45,
+    "ClearScore": 1004550,
+    "StarActCount": null,
+    "AuditionRewardPackageMasterId": 10
+  },
+  {
+    "Id": 25002,
+    "AuditionasterId": 25,
+    "Phase": 2,
+    "RecommendedPlayerRank": 70,
+    "ClearScore": 5859135,
+    "StarActCount": null,
+    "AuditionRewardPackageMasterId": 14
+  },
+  {
+    "Id": 25003,
+    "AuditionasterId": 25,
+    "Phase": 3,
+    "RecommendedPlayerRank": 110,
+    "ClearScore": 20716762,
+    "StarActCount": 3,
+    "AuditionRewardPackageMasterId": 15
+  },
+  {
+    "Id": 26001,
+    "AuditionasterId": 26,
+    "Phase": 1,
+    "RecommendedPlayerRank": 46,
+    "ClearScore": 1170675,
+    "StarActCount": null,
+    "AuditionRewardPackageMasterId": 6
+  },
+  {
+    "Id": 26002,
+    "AuditionasterId": 26,
+    "Phase": 2,
+    "RecommendedPlayerRank": 71,
+    "ClearScore": 5182188,
+    "StarActCount": null,
+    "AuditionRewardPackageMasterId": 11
+  },
+  {
+    "Id": 27001,
+    "AuditionasterId": 27,
+    "Phase": 1,
+    "RecommendedPlayerRank": 47,
+    "ClearScore": 527340,
+    "StarActCount": null,
+    "AuditionRewardPackageMasterId": 7
+  },
+  {
+    "Id": 27002,
+    "AuditionasterId": 27,
+    "Phase": 2,
+    "RecommendedPlayerRank": 72,
+    "ClearScore": 2215440,
+    "StarActCount": null,
+    "AuditionRewardPackageMasterId": 11
+  },
+  {
+    "Id": 28001,
+    "AuditionasterId": 28,
+    "Phase": 1,
+    "RecommendedPlayerRank": 48,
+    "ClearScore": 1004640,
+    "StarActCount": null,
+    "AuditionRewardPackageMasterId": 8
+  },
+  {
+    "Id": 28002,
+    "AuditionasterId": 28,
+    "Phase": 2,
+    "RecommendedPlayerRank": 73,
+    "ClearScore": 4007640,
+    "StarActCount": null,
+    "AuditionRewardPackageMasterId": 11
+  },
+  {
+    "Id": 29001,
+    "AuditionasterId": 29,
+    "Phase": 1,
+    "RecommendedPlayerRank": 49,
+    "ClearScore": 1661685,
+    "StarActCount": null,
+    "AuditionRewardPackageMasterId": 9
+  },
+  {
+    "Id": 29002,
+    "AuditionasterId": 29,
+    "Phase": 2,
+    "RecommendedPlayerRank": 74,
+    "ClearScore": 6294240,
+    "StarActCount": null,
+    "AuditionRewardPackageMasterId": 11
+  },
+  {
+    "Id": 30001,
+    "AuditionasterId": 30,
+    "Phase": 1,
+    "RecommendedPlayerRank": 50,
+    "ClearScore": 2023770,
+    "StarActCount": null,
+    "AuditionRewardPackageMasterId": 10
+  },
+  {
+    "Id": 30002,
+    "AuditionasterId": 30,
+    "Phase": 2,
+    "RecommendedPlayerRank": 75,
+    "ClearScore": 9106965,
+    "StarActCount": null,
+    "AuditionRewardPackageMasterId": 14
+  },
+  {
+    "Id": 30003,
+    "AuditionasterId": 30,
+    "Phase": 3,
+    "RecommendedPlayerRank": 115,
+    "ClearScore": 33279746,
+    "StarActCount": 4,
+    "AuditionRewardPackageMasterId": 15
+  }
 ]

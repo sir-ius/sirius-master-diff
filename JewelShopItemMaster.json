@@ -1,42 +1,31 @@
 [
-  [
-    101,
-    101,
-    "101",
-    "101",
-    "【1回限定】劇ジュエルパックA",
-    "",
-    1,
-    1,
-    2,
-    120,
-    false,
-    120,
-    0,
-    null,
-    1,
-    null,
-    "",
-    true,
-    null,
-    null,
-    false,
-    null,
-    null,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    null,
-    [
+  {
+    "Id": 101,
+    "Order": 101,
+    "AppStoreProductId": "101",
+    "GooglePlayProductId": "101",
+    "Name": "【1回限定】劇ジュエルパックA",
+    "PackText": "",
+    "MJewelShopCategoryId": 1,
+    "DialogType": 1,
+    "PurchaseType": 2,
+    "PurchaseValue": 120,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": 120,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": true,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": false,
+    "UnlockType": null,
+    "UnlockValue": null,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": null,
+    "Lineup": [
       [
         10101,
         101,
@@ -45,47 +34,36 @@
         120
       ]
     ],
-    0,
-    null
-  ],
-  [
-    102,
-    102,
-    "102",
-    "102",
-    "【1回限定】劇ジュエルパックB",
-    "",
-    1,
-    1,
-    2,
-    480,
-    false,
-    480,
-    0,
-    null,
-    1,
-    null,
-    "",
-    true,
-    null,
-    null,
-    false,
-    null,
-    null,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    null,
-    [
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 102,
+    "Order": 102,
+    "AppStoreProductId": "102",
+    "GooglePlayProductId": "102",
+    "Name": "【1回限定】劇ジュエルパックB",
+    "PackText": "",
+    "MJewelShopCategoryId": 1,
+    "DialogType": 1,
+    "PurchaseType": 2,
+    "PurchaseValue": 480,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": 480,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": true,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": false,
+    "UnlockType": null,
+    "UnlockValue": null,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": null,
+    "Lineup": [
       [
         10201,
         102,
@@ -94,47 +72,36 @@
         480
       ]
     ],
-    0,
-    null
-  ],
-  [
-    103,
-    103,
-    "103",
-    "103",
-    "【1回限定】劇ジュエルパックC",
-    "",
-    1,
-    1,
-    2,
-    1000,
-    false,
-    1000,
-    0,
-    null,
-    1,
-    null,
-    "",
-    true,
-    null,
-    null,
-    false,
-    null,
-    null,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    null,
-    [
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 103,
+    "Order": 103,
+    "AppStoreProductId": "103",
+    "GooglePlayProductId": "103",
+    "Name": "【1回限定】劇ジュエルパックC",
+    "PackText": "",
+    "MJewelShopCategoryId": 1,
+    "DialogType": 1,
+    "PurchaseType": 2,
+    "PurchaseValue": 1000,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": 1000,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": true,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": false,
+    "UnlockType": null,
+    "UnlockValue": null,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": null,
+    "Lineup": [
       [
         10301,
         103,
@@ -143,47 +110,36 @@
         1000
       ]
     ],
-    0,
-    null
-  ],
-  [
-    104,
-    104,
-    "104",
-    "104",
-    "【1回限定】劇ジュエルパックD",
-    "",
-    1,
-    1,
-    2,
-    2000,
-    false,
-    2000,
-    0,
-    null,
-    1,
-    null,
-    "",
-    true,
-    null,
-    null,
-    false,
-    null,
-    null,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    null,
-    [
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 104,
+    "Order": 104,
+    "AppStoreProductId": "104",
+    "GooglePlayProductId": "104",
+    "Name": "【1回限定】劇ジュエルパックD",
+    "PackText": "",
+    "MJewelShopCategoryId": 1,
+    "DialogType": 1,
+    "PurchaseType": 2,
+    "PurchaseValue": 2000,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": 2000,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": true,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": false,
+    "UnlockType": null,
+    "UnlockValue": null,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": null,
+    "Lineup": [
       [
         10401,
         104,
@@ -192,47 +148,36 @@
         2000
       ]
     ],
-    0,
-    null
-  ],
-  [
-    105,
-    105,
-    "105",
-    "105",
-    "【1回限定】劇ジュエルパックE",
-    "",
-    1,
-    1,
-    2,
-    3000,
-    false,
-    3000,
-    0,
-    null,
-    1,
-    null,
-    "",
-    true,
-    null,
-    null,
-    false,
-    null,
-    null,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    null,
-    [
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 105,
+    "Order": 105,
+    "AppStoreProductId": "105",
+    "GooglePlayProductId": "105",
+    "Name": "【1回限定】劇ジュエルパックE",
+    "PackText": "",
+    "MJewelShopCategoryId": 1,
+    "DialogType": 1,
+    "PurchaseType": 2,
+    "PurchaseValue": 3000,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": 3000,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": true,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": false,
+    "UnlockType": null,
+    "UnlockValue": null,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": null,
+    "Lineup": [
       [
         10501,
         105,
@@ -241,47 +186,36 @@
         3000
       ]
     ],
-    0,
-    null
-  ],
-  [
-    106,
-    106,
-    "106",
-    "106",
-    "【1回限定】劇ジュエルパックF",
-    "",
-    1,
-    1,
-    2,
-    4800,
-    false,
-    4800,
-    0,
-    null,
-    1,
-    null,
-    "",
-    true,
-    null,
-    null,
-    false,
-    null,
-    null,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    null,
-    [
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 106,
+    "Order": 106,
+    "AppStoreProductId": "106",
+    "GooglePlayProductId": "106",
+    "Name": "【1回限定】劇ジュエルパックF",
+    "PackText": "",
+    "MJewelShopCategoryId": 1,
+    "DialogType": 1,
+    "PurchaseType": 2,
+    "PurchaseValue": 4800,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": 4800,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": true,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": false,
+    "UnlockType": null,
+    "UnlockValue": null,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": null,
+    "Lineup": [
       [
         10601,
         106,
@@ -290,47 +224,36 @@
         4800
       ]
     ],
-    0,
-    null
-  ],
-  [
-    107,
-    107,
-    "107",
-    "107",
-    "【1回限定】劇ジュエルパックG",
-    "",
-    1,
-    1,
-    2,
-    9800,
-    false,
-    9800,
-    0,
-    null,
-    1,
-    null,
-    "",
-    true,
-    null,
-    null,
-    false,
-    null,
-    null,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    null,
-    [
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 107,
+    "Order": 107,
+    "AppStoreProductId": "107",
+    "GooglePlayProductId": "107",
+    "Name": "【1回限定】劇ジュエルパックG",
+    "PackText": "",
+    "MJewelShopCategoryId": 1,
+    "DialogType": 1,
+    "PurchaseType": 2,
+    "PurchaseValue": 9800,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": 9800,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": true,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": false,
+    "UnlockType": null,
+    "UnlockValue": null,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": null,
+    "Lineup": [
       [
         10701,
         107,
@@ -339,88 +262,66 @@
         9800
       ]
     ],
-    0,
-    null
-  ],
-  [
-    111,
-    111,
-    "111",
-    "111",
-    "劇ジュエルパックA",
-    "",
-    1,
-    1,
-    2,
-    120,
-    false,
-    120,
-    0,
-    null,
-    null,
-    null,
-    "",
-    false,
-    null,
-    null,
-    true,
-    15,
-    101,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    null,
-    [],
-    0,
-    null
-  ],
-  [
-    112,
-    112,
-    "112",
-    "112",
-    "劇ジュエルパックB",
-    "",
-    1,
-    1,
-    2,
-    480,
-    false,
-    480,
-    0,
-    null,
-    null,
-    null,
-    "",
-    false,
-    null,
-    null,
-    true,
-    15,
-    102,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    null,
-    [
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 111,
+    "Order": 111,
+    "AppStoreProductId": "111",
+    "GooglePlayProductId": "111",
+    "Name": "劇ジュエルパックA",
+    "PackText": "",
+    "MJewelShopCategoryId": 1,
+    "DialogType": 1,
+    "PurchaseType": 2,
+    "PurchaseValue": 120,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": 120,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": null,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": false,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": true,
+    "UnlockType": 15,
+    "UnlockValue": 101,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": null,
+    "Lineup": [],
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 112,
+    "Order": 112,
+    "AppStoreProductId": "112",
+    "GooglePlayProductId": "112",
+    "Name": "劇ジュエルパックB",
+    "PackText": "",
+    "MJewelShopCategoryId": 1,
+    "DialogType": 1,
+    "PurchaseType": 2,
+    "PurchaseValue": 480,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": 480,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": null,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": false,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": true,
+    "UnlockType": 15,
+    "UnlockValue": 102,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": null,
+    "Lineup": [
       [
         11201,
         112,
@@ -429,47 +330,36 @@
         10
       ]
     ],
-    0,
-    null
-  ],
-  [
-    113,
-    113,
-    "113",
-    "113",
-    "劇ジュエルパックC",
-    "",
-    1,
-    1,
-    2,
-    1000,
-    false,
-    1000,
-    0,
-    null,
-    null,
-    null,
-    "",
-    false,
-    null,
-    null,
-    true,
-    15,
-    103,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    null,
-    [
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 113,
+    "Order": 113,
+    "AppStoreProductId": "113",
+    "GooglePlayProductId": "113",
+    "Name": "劇ジュエルパックC",
+    "PackText": "",
+    "MJewelShopCategoryId": 1,
+    "DialogType": 1,
+    "PurchaseType": 2,
+    "PurchaseValue": 1000,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": 1000,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": null,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": false,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": true,
+    "UnlockType": 15,
+    "UnlockValue": 103,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": null,
+    "Lineup": [
       [
         11301,
         113,
@@ -478,47 +368,36 @@
         30
       ]
     ],
-    0,
-    null
-  ],
-  [
-    114,
-    114,
-    "114",
-    "114",
-    "劇ジュエルパックD",
-    "",
-    1,
-    1,
-    2,
-    2000,
-    false,
-    2000,
-    0,
-    null,
-    null,
-    null,
-    "",
-    false,
-    null,
-    null,
-    true,
-    15,
-    104,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    null,
-    [
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 114,
+    "Order": 114,
+    "AppStoreProductId": "114",
+    "GooglePlayProductId": "114",
+    "Name": "劇ジュエルパックD",
+    "PackText": "",
+    "MJewelShopCategoryId": 1,
+    "DialogType": 1,
+    "PurchaseType": 2,
+    "PurchaseValue": 2000,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": 2000,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": null,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": false,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": true,
+    "UnlockType": 15,
+    "UnlockValue": 104,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": null,
+    "Lineup": [
       [
         11401,
         114,
@@ -527,47 +406,36 @@
         70
       ]
     ],
-    0,
-    null
-  ],
-  [
-    115,
-    115,
-    "115",
-    "115",
-    "劇ジュエルパックE",
-    "",
-    1,
-    1,
-    2,
-    3000,
-    false,
-    3000,
-    0,
-    null,
-    null,
-    null,
-    "",
-    false,
-    null,
-    null,
-    true,
-    15,
-    105,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    null,
-    [
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 115,
+    "Order": 115,
+    "AppStoreProductId": "115",
+    "GooglePlayProductId": "115",
+    "Name": "劇ジュエルパックE",
+    "PackText": "",
+    "MJewelShopCategoryId": 1,
+    "DialogType": 1,
+    "PurchaseType": 2,
+    "PurchaseValue": 3000,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": 3000,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": null,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": false,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": true,
+    "UnlockType": 15,
+    "UnlockValue": 105,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": null,
+    "Lineup": [
       [
         11501,
         115,
@@ -576,47 +444,36 @@
         120
       ]
     ],
-    0,
-    null
-  ],
-  [
-    116,
-    116,
-    "116",
-    "116",
-    "劇ジュエルパックF",
-    "",
-    1,
-    1,
-    2,
-    4800,
-    false,
-    4800,
-    0,
-    null,
-    null,
-    null,
-    "",
-    false,
-    null,
-    null,
-    true,
-    15,
-    106,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    null,
-    [
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 116,
+    "Order": 116,
+    "AppStoreProductId": "116",
+    "GooglePlayProductId": "116",
+    "Name": "劇ジュエルパックF",
+    "PackText": "",
+    "MJewelShopCategoryId": 1,
+    "DialogType": 1,
+    "PurchaseType": 2,
+    "PurchaseValue": 4800,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": 4800,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": null,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": false,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": true,
+    "UnlockType": 15,
+    "UnlockValue": 106,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": null,
+    "Lineup": [
       [
         11601,
         116,
@@ -625,47 +482,36 @@
         220
       ]
     ],
-    0,
-    null
-  ],
-  [
-    117,
-    117,
-    "117",
-    "117",
-    "劇ジュエルパックG",
-    "",
-    1,
-    1,
-    2,
-    9800,
-    false,
-    9800,
-    0,
-    null,
-    null,
-    null,
-    "",
-    false,
-    null,
-    null,
-    true,
-    15,
-    107,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    null,
-    [
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 117,
+    "Order": 117,
+    "AppStoreProductId": "117",
+    "GooglePlayProductId": "117",
+    "Name": "劇ジュエルパックG",
+    "PackText": "",
+    "MJewelShopCategoryId": 1,
+    "DialogType": 1,
+    "PurchaseType": 2,
+    "PurchaseValue": 9800,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": 9800,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": null,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": false,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": true,
+    "UnlockType": 15,
+    "UnlockValue": 107,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": null,
+    "Lineup": [
       [
         11701,
         117,
@@ -674,47 +520,36 @@
         500
       ]
     ],
-    0,
-    null
-  ],
-  [
-    201,
-    110,
-    "201",
-    "201",
-    "【1か月3回限定】劇ジュエルパック",
-    "",
-    1,
-    1,
-    2,
-    9800,
-    false,
-    9800,
-    3,
-    null,
-    3,
-    null,
-    "",
-    false,
-    null,
-    null,
-    false,
-    null,
-    null,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    null,
-    [
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 201,
+    "Order": 110,
+    "AppStoreProductId": "201",
+    "GooglePlayProductId": "201",
+    "Name": "【1か月3回限定】劇ジュエルパック",
+    "PackText": "",
+    "MJewelShopCategoryId": 1,
+    "DialogType": 1,
+    "PurchaseType": 2,
+    "PurchaseValue": 9800,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": 9800,
+    "ReplaceTypes": 3,
+    "ReplaceValue": null,
+    "PurchaseLimit": 3,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": false,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": false,
+    "UnlockType": null,
+    "UnlockValue": null,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": null,
+    "Lineup": [
       [
         20101,
         201,
@@ -723,170 +558,126 @@
         4900
       ]
     ],
-    0,
-    null
-  ],
-  [
-    2001,
-    2001,
-    "2001",
-    "2001",
-    "ログインパス",
-    "",
-    2,
-    2,
-    2,
-    480,
-    false,
-    480,
-    10,
-    7,
-    1,
-    30,
-    "",
-    false,
-    null,
-    null,
-    false,
-    null,
-    null,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    null,
-    [],
-    1,
-    null
-  ],
-  [
-    3003,
-    3003,
-    "3002",
-    "3002",
-    "スターパス",
-    "",
-    3,
-    2,
-    2,
-    480,
-    false,
-    480,
-    3,
-    null,
-    1,
-    null,
-    "",
-    false,
-    null,
-    null,
-    false,
-    null,
-    null,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          100,
-          200,
-          145,
-          80
-        ]
-      },
-      "type": 255
-    },
-    null,
-    [],
-    2,
-    null
-  ],
-  [
-    3004,
-    3004,
-    "3004",
-    "3004",
-    "ダイスターパス",
-    "",
-    3,
-    2,
-    2,
-    1600,
-    false,
-    1600,
-    3,
-    null,
-    1,
-    null,
-    "",
-    false,
-    null,
-    null,
-    false,
-    null,
-    null,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          100,
-          200,
-          145,
-          80
-        ]
-      },
-      "type": 255
-    },
-    null,
-    [],
-    3,
-    null
-  ],
-  [
-    4001,
-    4001,
-    "4001",
-    "4001",
-    "スタートダッシュパック",
-    "",
-    4,
-    1,
-    2,
-    120,
-    false,
-    120,
-    0,
-    null,
-    1,
-    null,
-    "",
-    true,
-    null,
-    null,
-    false,
-    null,
-    null,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    null,
-    [
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 2001,
+    "Order": 2001,
+    "AppStoreProductId": "2001",
+    "GooglePlayProductId": "2001",
+    "Name": "ログインパス",
+    "PackText": "",
+    "MJewelShopCategoryId": 2,
+    "DialogType": 2,
+    "PurchaseType": 2,
+    "PurchaseValue": 480,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": 480,
+    "ReplaceTypes": 10,
+    "ReplaceValue": 7,
+    "PurchaseLimit": 1,
+    "ExpiredDay": 30,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": false,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": false,
+    "UnlockType": null,
+    "UnlockValue": null,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": null,
+    "Lineup": [],
+    "ShopItemType": 1,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 3003,
+    "Order": 3003,
+    "AppStoreProductId": "3002",
+    "GooglePlayProductId": "3002",
+    "Name": "スターパス",
+    "PackText": "",
+    "MJewelShopCategoryId": 3,
+    "DialogType": 2,
+    "PurchaseType": 2,
+    "PurchaseValue": 480,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": 480,
+    "ReplaceTypes": 3,
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": false,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": false,
+    "UnlockType": null,
+    "UnlockValue": null,
+    "StartDate": "2023-08-01T05:00:00.000Z",
+    "EndDate": null,
+    "Lineup": [],
+    "ShopItemType": 2,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 3004,
+    "Order": 3004,
+    "AppStoreProductId": "3004",
+    "GooglePlayProductId": "3004",
+    "Name": "ダイスターパス",
+    "PackText": "",
+    "MJewelShopCategoryId": 3,
+    "DialogType": 2,
+    "PurchaseType": 2,
+    "PurchaseValue": 1600,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": 1600,
+    "ReplaceTypes": 3,
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": false,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": false,
+    "UnlockType": null,
+    "UnlockValue": null,
+    "StartDate": "2023-08-01T05:00:00.000Z",
+    "EndDate": null,
+    "Lineup": [],
+    "ShopItemType": 3,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 4001,
+    "Order": 4001,
+    "AppStoreProductId": "4001",
+    "GooglePlayProductId": "4001",
+    "Name": "スタートダッシュパック",
+    "PackText": "",
+    "MJewelShopCategoryId": 4,
+    "DialogType": 1,
+    "PurchaseType": 2,
+    "PurchaseValue": 120,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": 120,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": true,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": false,
+    "UnlockType": null,
+    "UnlockValue": null,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": null,
+    "Lineup": [
       [
         400101,
         4001,
@@ -923,47 +714,36 @@
         30
       ]
     ],
-    0,
-    null
-  ],
-  [
-    4002,
-    4002,
-    "",
-    "",
-    "【1回限定】お得パックA",
-    "",
-    4,
-    1,
-    1,
-    300,
-    false,
-    null,
-    0,
-    null,
-    1,
-    null,
-    "",
-    true,
-    null,
-    null,
-    false,
-    null,
-    null,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    null,
-    [
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 4002,
+    "Order": 4002,
+    "AppStoreProductId": "",
+    "GooglePlayProductId": "",
+    "Name": "【1回限定】お得パックA",
+    "PackText": "",
+    "MJewelShopCategoryId": 4,
+    "DialogType": 1,
+    "PurchaseType": 1,
+    "PurchaseValue": 300,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": null,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": true,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": false,
+    "UnlockType": null,
+    "UnlockValue": null,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": null,
+    "Lineup": [
       [
         400201,
         4002,
@@ -979,47 +759,36 @@
         5
       ]
     ],
-    0,
-    null
-  ],
-  [
-    4003,
-    4003,
-    "",
-    "",
-    "【1回限定】お得パックB",
-    "",
-    4,
-    1,
-    1,
-    3000,
-    false,
-    null,
-    0,
-    null,
-    1,
-    null,
-    "",
-    true,
-    null,
-    null,
-    false,
-    null,
-    null,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    null,
-    [
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 4003,
+    "Order": 4003,
+    "AppStoreProductId": "",
+    "GooglePlayProductId": "",
+    "Name": "【1回限定】お得パックB",
+    "PackText": "",
+    "MJewelShopCategoryId": 4,
+    "DialogType": 1,
+    "PurchaseType": 1,
+    "PurchaseValue": 3000,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": null,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": true,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": false,
+    "UnlockType": null,
+    "UnlockValue": null,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": null,
+    "Lineup": [
       [
         400301,
         4003,
@@ -1035,47 +804,36 @@
         1
       ]
     ],
-    0,
-    null
-  ],
-  [
-    4004,
-    4004,
-    "",
-    "",
-    "【1回限定】お得パックC",
-    "",
-    4,
-    1,
-    1,
-    4800,
-    false,
-    null,
-    0,
-    null,
-    1,
-    null,
-    "",
-    true,
-    null,
-    null,
-    false,
-    null,
-    null,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    null,
-    [
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 4004,
+    "Order": 4004,
+    "AppStoreProductId": "",
+    "GooglePlayProductId": "",
+    "Name": "【1回限定】お得パックC",
+    "PackText": "",
+    "MJewelShopCategoryId": 4,
+    "DialogType": 1,
+    "PurchaseType": 1,
+    "PurchaseValue": 4800,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": null,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": true,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": false,
+    "UnlockType": null,
+    "UnlockValue": null,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": null,
+    "Lineup": [
       [
         400401,
         4004,
@@ -1091,47 +849,36 @@
         1
       ]
     ],
-    0,
-    null
-  ],
-  [
-    4005,
-    4005,
-    "",
-    "",
-    "【1回限定】お得パックD",
-    "",
-    4,
-    1,
-    1,
-    4800,
-    false,
-    null,
-    0,
-    null,
-    1,
-    null,
-    "",
-    true,
-    null,
-    null,
-    false,
-    null,
-    null,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    null,
-    [
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 4005,
+    "Order": 4005,
+    "AppStoreProductId": "",
+    "GooglePlayProductId": "",
+    "Name": "【1回限定】お得パックD",
+    "PackText": "",
+    "MJewelShopCategoryId": 4,
+    "DialogType": 1,
+    "PurchaseType": 1,
+    "PurchaseValue": 4800,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": null,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": true,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": false,
+    "UnlockType": null,
+    "UnlockValue": null,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": null,
+    "Lineup": [
       [
         400501,
         4005,
@@ -1147,47 +894,36 @@
         1
       ]
     ],
-    0,
-    null
-  ],
-  [
-    4006,
-    4006,
-    "",
-    "",
-    "【1回限定】お得パックE",
-    "",
-    4,
-    1,
-    1,
-    9800,
-    false,
-    null,
-    0,
-    null,
-    1,
-    null,
-    "",
-    true,
-    null,
-    null,
-    false,
-    null,
-    null,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    null,
-    [
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 4006,
+    "Order": 4006,
+    "AppStoreProductId": "",
+    "GooglePlayProductId": "",
+    "Name": "【1回限定】お得パックE",
+    "PackText": "",
+    "MJewelShopCategoryId": 4,
+    "DialogType": 1,
+    "PurchaseType": 1,
+    "PurchaseValue": 9800,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": null,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": true,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": false,
+    "UnlockType": null,
+    "UnlockValue": null,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": null,
+    "Lineup": [
       [
         400601,
         4006,
@@ -1217,47 +953,36 @@
         1
       ]
     ],
-    0,
-    null
-  ],
-  [
-    4101,
-    4000,
-    "",
-    "",
-    "毎日無料パック",
-    "",
-    4,
-    1,
-    3,
-    0,
-    false,
-    null,
-    1,
-    null,
-    1,
-    null,
-    "",
-    false,
-    null,
-    null,
-    false,
-    null,
-    null,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    null,
-    [
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 4101,
+    "Order": 4000,
+    "AppStoreProductId": "",
+    "GooglePlayProductId": "",
+    "Name": "毎日無料パック",
+    "PackText": "",
+    "MJewelShopCategoryId": 4,
+    "DialogType": 1,
+    "PurchaseType": 3,
+    "PurchaseValue": 0,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": null,
+    "ReplaceTypes": 1,
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": false,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": false,
+    "UnlockType": null,
+    "UnlockValue": null,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": null,
+    "Lineup": [
       [
         410101,
         4101,
@@ -1273,47 +998,36 @@
         10000
       ]
     ],
-    0,
-    null
-  ],
-  [
-    4102,
-    4102,
-    "",
-    "",
-    "アクター育成パック",
-    "",
-    4,
-    1,
-    1,
-    1800,
-    false,
-    null,
-    3,
-    null,
-    3,
-    null,
-    "",
-    false,
-    null,
-    null,
-    false,
-    null,
-    null,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    null,
-    [
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 4102,
+    "Order": 4102,
+    "AppStoreProductId": "",
+    "GooglePlayProductId": "",
+    "Name": "アクター育成パック",
+    "PackText": "",
+    "MJewelShopCategoryId": 4,
+    "DialogType": 1,
+    "PurchaseType": 1,
+    "PurchaseValue": 1800,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": null,
+    "ReplaceTypes": 3,
+    "ReplaceValue": null,
+    "PurchaseLimit": 3,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": false,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": false,
+    "UnlockType": null,
+    "UnlockValue": null,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": null,
+    "Lineup": [
       [
         410201,
         4102,
@@ -1357,47 +1071,36 @@
         100
       ]
     ],
-    0,
-    null
-  ],
-  [
-    4103,
-    4103,
-    "",
-    "",
-    "ポスター強化パック",
-    "",
-    4,
-    1,
-    1,
-    1800,
-    false,
-    null,
-    3,
-    null,
-    3,
-    null,
-    "",
-    false,
-    null,
-    null,
-    false,
-    null,
-    null,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    null,
-    [
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 4103,
+    "Order": 4103,
+    "AppStoreProductId": "",
+    "GooglePlayProductId": "",
+    "Name": "ポスター強化パック",
+    "PackText": "",
+    "MJewelShopCategoryId": 4,
+    "DialogType": 1,
+    "PurchaseType": 1,
+    "PurchaseValue": 1800,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": null,
+    "ReplaceTypes": 3,
+    "ReplaceValue": null,
+    "PurchaseLimit": 3,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": false,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": false,
+    "UnlockType": null,
+    "UnlockValue": null,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": null,
+    "Lineup": [
       [
         410301,
         4103,
@@ -1434,47 +1137,36 @@
         100
       ]
     ],
-    0,
-    null
-  ],
-  [
-    4104,
-    4104,
-    "",
-    "",
-    "フォト強化パック",
-    "",
-    4,
-    1,
-    1,
-    1800,
-    false,
-    null,
-    3,
-    null,
-    3,
-    null,
-    "",
-    false,
-    null,
-    null,
-    false,
-    null,
-    null,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    null,
-    [
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 4104,
+    "Order": 4104,
+    "AppStoreProductId": "",
+    "GooglePlayProductId": "",
+    "Name": "フォト強化パック",
+    "PackText": "",
+    "MJewelShopCategoryId": 4,
+    "DialogType": 1,
+    "PurchaseType": 1,
+    "PurchaseValue": 1800,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": null,
+    "ReplaceTypes": 3,
+    "ReplaceValue": null,
+    "PurchaseLimit": 3,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": false,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": false,
+    "UnlockType": null,
+    "UnlockValue": null,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": null,
+    "Lineup": [
       [
         410401,
         4104,
@@ -1511,47 +1203,36 @@
         30
       ]
     ],
-    0,
-    null
-  ],
-  [
-    4105,
-    4105,
-    "",
-    "",
-    "歌劇目録パック",
-    "",
-    4,
-    1,
-    1,
-    600,
-    false,
-    null,
-    0,
-    null,
-    null,
-    null,
-    "",
-    false,
-    null,
-    null,
-    false,
-    null,
-    null,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    null,
-    [
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 4105,
+    "Order": 4105,
+    "AppStoreProductId": "",
+    "GooglePlayProductId": "",
+    "Name": "歌劇目録パック",
+    "PackText": "",
+    "MJewelShopCategoryId": 4,
+    "DialogType": 1,
+    "PurchaseType": 1,
+    "PurchaseValue": 600,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": null,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": null,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": false,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": false,
+    "UnlockType": null,
+    "UnlockValue": null,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": null,
+    "Lineup": [
       [
         410501,
         4105,
@@ -1574,47 +1255,36 @@
         10
       ]
     ],
-    0,
-    null
-  ],
-  [
-    4201,
-    4201,
-    "",
-    "",
-    "育成パック【ランク10】",
-    "",
-    4,
-    1,
-    1,
-    200,
-    false,
-    null,
-    0,
-    null,
-    1,
-    null,
-    "",
-    true,
-    null,
-    null,
-    true,
-    16,
-    10,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    null,
-    [
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 4201,
+    "Order": 4201,
+    "AppStoreProductId": "",
+    "GooglePlayProductId": "",
+    "Name": "育成パック【ランク10】",
+    "PackText": "",
+    "MJewelShopCategoryId": 4,
+    "DialogType": 1,
+    "PurchaseType": 1,
+    "PurchaseValue": 200,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": null,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": true,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": true,
+    "UnlockType": 16,
+    "UnlockValue": 10,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": null,
+    "Lineup": [
       [
         420101,
         4201,
@@ -1637,47 +1307,36 @@
         5
       ]
     ],
-    0,
-    null
-  ],
-  [
-    4202,
-    4202,
-    "",
-    "",
-    "育成パック【ランク20】",
-    "",
-    4,
-    1,
-    1,
-    400,
-    false,
-    null,
-    0,
-    null,
-    1,
-    null,
-    "",
-    true,
-    null,
-    null,
-    true,
-    16,
-    20,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    null,
-    [
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 4202,
+    "Order": 4202,
+    "AppStoreProductId": "",
+    "GooglePlayProductId": "",
+    "Name": "育成パック【ランク20】",
+    "PackText": "",
+    "MJewelShopCategoryId": 4,
+    "DialogType": 1,
+    "PurchaseType": 1,
+    "PurchaseValue": 400,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": null,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": true,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": true,
+    "UnlockType": 16,
+    "UnlockValue": 20,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": null,
+    "Lineup": [
       [
         420201,
         4202,
@@ -1714,47 +1373,36 @@
         50
       ]
     ],
-    0,
-    null
-  ],
-  [
-    4203,
-    4203,
-    "",
-    "",
-    "育成パック【ランク30】",
-    "",
-    4,
-    1,
-    1,
-    600,
-    false,
-    null,
-    0,
-    null,
-    1,
-    null,
-    "",
-    true,
-    null,
-    null,
-    true,
-    16,
-    30,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    null,
-    [
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 4203,
+    "Order": 4203,
+    "AppStoreProductId": "",
+    "GooglePlayProductId": "",
+    "Name": "育成パック【ランク30】",
+    "PackText": "",
+    "MJewelShopCategoryId": 4,
+    "DialogType": 1,
+    "PurchaseType": 1,
+    "PurchaseValue": 600,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": null,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": true,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": true,
+    "UnlockType": 16,
+    "UnlockValue": 30,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": null,
+    "Lineup": [
       [
         420301,
         4203,
@@ -1798,47 +1446,36 @@
         50
       ]
     ],
-    0,
-    null
-  ],
-  [
-    4204,
-    4204,
-    "",
-    "",
-    "育成パック【ランク40】",
-    "",
-    4,
-    1,
-    1,
-    800,
-    false,
-    null,
-    0,
-    null,
-    1,
-    null,
-    "",
-    true,
-    null,
-    null,
-    true,
-    16,
-    40,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    null,
-    [
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 4204,
+    "Order": 4204,
+    "AppStoreProductId": "",
+    "GooglePlayProductId": "",
+    "Name": "育成パック【ランク40】",
+    "PackText": "",
+    "MJewelShopCategoryId": 4,
+    "DialogType": 1,
+    "PurchaseType": 1,
+    "PurchaseValue": 800,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": null,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": true,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": true,
+    "UnlockType": 16,
+    "UnlockValue": 40,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": null,
+    "Lineup": [
       [
         420401,
         4204,
@@ -1875,47 +1512,36 @@
         30
       ]
     ],
-    0,
-    null
-  ],
-  [
-    4205,
-    4205,
-    "",
-    "",
-    "育成パック【ランク50】",
-    "",
-    4,
-    1,
-    1,
-    1000,
-    false,
-    null,
-    0,
-    null,
-    1,
-    null,
-    "",
-    true,
-    null,
-    null,
-    true,
-    16,
-    50,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    null,
-    [
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 4205,
+    "Order": 4205,
+    "AppStoreProductId": "",
+    "GooglePlayProductId": "",
+    "Name": "育成パック【ランク50】",
+    "PackText": "",
+    "MJewelShopCategoryId": 4,
+    "DialogType": 1,
+    "PurchaseType": 1,
+    "PurchaseValue": 1000,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": null,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": true,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": true,
+    "UnlockType": 16,
+    "UnlockValue": 50,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": null,
+    "Lineup": [
       [
         420501,
         4205,
@@ -1938,47 +1564,36 @@
         500
       ]
     ],
-    0,
-    null
-  ],
-  [
-    4206,
-    4206,
-    "",
-    "",
-    "育成パック【ランク60】",
-    "",
-    4,
-    1,
-    1,
-    1000,
-    false,
-    null,
-    0,
-    null,
-    1,
-    null,
-    "",
-    true,
-    null,
-    null,
-    true,
-    16,
-    60,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    null,
-    [
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 4206,
+    "Order": 4206,
+    "AppStoreProductId": "",
+    "GooglePlayProductId": "",
+    "Name": "育成パック【ランク60】",
+    "PackText": "",
+    "MJewelShopCategoryId": 4,
+    "DialogType": 1,
+    "PurchaseType": 1,
+    "PurchaseValue": 1000,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": null,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": true,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": true,
+    "UnlockType": 16,
+    "UnlockValue": 60,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": null,
+    "Lineup": [
       [
         420601,
         4206,
@@ -2001,47 +1616,36 @@
         5
       ]
     ],
-    0,
-    null
-  ],
-  [
-    4207,
-    4207,
-    "",
-    "",
-    "育成パック【ランク70】",
-    "",
-    4,
-    1,
-    1,
-    1000,
-    false,
-    null,
-    0,
-    null,
-    1,
-    null,
-    "",
-    true,
-    null,
-    null,
-    true,
-    16,
-    70,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    null,
-    [
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 4207,
+    "Order": 4207,
+    "AppStoreProductId": "",
+    "GooglePlayProductId": "",
+    "Name": "育成パック【ランク70】",
+    "PackText": "",
+    "MJewelShopCategoryId": 4,
+    "DialogType": 1,
+    "PurchaseType": 1,
+    "PurchaseValue": 1000,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": null,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": true,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": true,
+    "UnlockType": 16,
+    "UnlockValue": 70,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": null,
+    "Lineup": [
       [
         420701,
         4207,
@@ -2064,47 +1668,36 @@
         500
       ]
     ],
-    0,
-    null
-  ],
-  [
-    4208,
-    4208,
-    "",
-    "",
-    "育成パック【ランク80】",
-    "",
-    4,
-    1,
-    1,
-    1000,
-    false,
-    null,
-    0,
-    null,
-    1,
-    null,
-    "",
-    true,
-    null,
-    null,
-    true,
-    16,
-    80,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    null,
-    [
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 4208,
+    "Order": 4208,
+    "AppStoreProductId": "",
+    "GooglePlayProductId": "",
+    "Name": "育成パック【ランク80】",
+    "PackText": "",
+    "MJewelShopCategoryId": 4,
+    "DialogType": 1,
+    "PurchaseType": 1,
+    "PurchaseValue": 1000,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": null,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": true,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": true,
+    "UnlockType": 16,
+    "UnlockValue": 80,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": null,
+    "Lineup": [
       [
         420801,
         4208,
@@ -2127,47 +1720,36 @@
         5
       ]
     ],
-    0,
-    null
-  ],
-  [
-    4209,
-    4209,
-    "",
-    "",
-    "育成パック【ランク90】",
-    "",
-    4,
-    1,
-    1,
-    1000,
-    false,
-    null,
-    0,
-    null,
-    1,
-    null,
-    "",
-    true,
-    null,
-    null,
-    true,
-    16,
-    90,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    null,
-    [
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 4209,
+    "Order": 4209,
+    "AppStoreProductId": "",
+    "GooglePlayProductId": "",
+    "Name": "育成パック【ランク90】",
+    "PackText": "",
+    "MJewelShopCategoryId": 4,
+    "DialogType": 1,
+    "PurchaseType": 1,
+    "PurchaseValue": 1000,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": null,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": true,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": true,
+    "UnlockType": 16,
+    "UnlockValue": 90,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": null,
+    "Lineup": [
       [
         420901,
         4209,
@@ -2190,47 +1772,36 @@
         500
       ]
     ],
-    0,
-    null
-  ],
-  [
-    4210,
-    4210,
-    "",
-    "",
-    "育成パック【ランク100】",
-    "",
-    4,
-    1,
-    1,
-    1000,
-    false,
-    null,
-    0,
-    null,
-    1,
-    null,
-    "",
-    true,
-    null,
-    null,
-    true,
-    16,
-    100,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    null,
-    [
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 4210,
+    "Order": 4210,
+    "AppStoreProductId": "",
+    "GooglePlayProductId": "",
+    "Name": "育成パック【ランク100】",
+    "PackText": "",
+    "MJewelShopCategoryId": 4,
+    "DialogType": 1,
+    "PurchaseType": 1,
+    "PurchaseValue": 1000,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": null,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": true,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": true,
+    "UnlockType": 16,
+    "UnlockValue": 100,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": null,
+    "Lineup": [
       [
         421001,
         4210,
@@ -2253,47 +1824,36 @@
         5
       ]
     ],
-    0,
-    null
-  ],
-  [
-    4301,
-    4301,
-    "",
-    "",
-    "カスタマイズパック【レート200】",
-    "",
-    4,
-    1,
-    3,
-    0,
-    false,
-    null,
-    0,
-    null,
-    1,
-    null,
-    "",
-    true,
-    null,
-    null,
-    true,
-    8,
-    200,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    null,
-    [
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 4301,
+    "Order": 4301,
+    "AppStoreProductId": "",
+    "GooglePlayProductId": "",
+    "Name": "カスタマイズパック【レート200】",
+    "PackText": "",
+    "MJewelShopCategoryId": 4,
+    "DialogType": 1,
+    "PurchaseType": 3,
+    "PurchaseValue": 0,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": null,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": true,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": true,
+    "UnlockType": 8,
+    "UnlockValue": 200,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": null,
+    "Lineup": [
       [
         430101,
         4301,
@@ -2309,47 +1869,36 @@
         40000
       ]
     ],
-    0,
-    null
-  ],
-  [
-    4302,
-    4302,
-    "",
-    "",
-    "カスタマイズパック【レート250】",
-    "",
-    4,
-    1,
-    3,
-    0,
-    false,
-    null,
-    0,
-    null,
-    1,
-    null,
-    "",
-    true,
-    null,
-    null,
-    true,
-    8,
-    250,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    null,
-    [
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 4302,
+    "Order": 4302,
+    "AppStoreProductId": "",
+    "GooglePlayProductId": "",
+    "Name": "カスタマイズパック【レート250】",
+    "PackText": "",
+    "MJewelShopCategoryId": 4,
+    "DialogType": 1,
+    "PurchaseType": 3,
+    "PurchaseValue": 0,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": null,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": true,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": true,
+    "UnlockType": 8,
+    "UnlockValue": 250,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": null,
+    "Lineup": [
       [
         430201,
         4302,
@@ -2365,47 +1914,36 @@
         50000
       ]
     ],
-    0,
-    null
-  ],
-  [
-    4303,
-    4303,
-    "",
-    "",
-    "カスタマイズパック【レート300】",
-    "",
-    4,
-    1,
-    3,
-    0,
-    false,
-    null,
-    0,
-    null,
-    1,
-    null,
-    "",
-    true,
-    null,
-    null,
-    true,
-    8,
-    300,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    null,
-    [
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 4303,
+    "Order": 4303,
+    "AppStoreProductId": "",
+    "GooglePlayProductId": "",
+    "Name": "カスタマイズパック【レート300】",
+    "PackText": "",
+    "MJewelShopCategoryId": 4,
+    "DialogType": 1,
+    "PurchaseType": 3,
+    "PurchaseValue": 0,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": null,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": true,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": true,
+    "UnlockType": 8,
+    "UnlockValue": 300,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": null,
+    "Lineup": [
       [
         430301,
         4303,
@@ -2421,47 +1959,36 @@
         60000
       ]
     ],
-    0,
-    null
-  ],
-  [
-    4304,
-    4304,
-    "",
-    "",
-    "カスタマイズパック【レート350】",
-    "",
-    4,
-    1,
-    3,
-    0,
-    false,
-    null,
-    0,
-    null,
-    1,
-    null,
-    "",
-    true,
-    null,
-    null,
-    true,
-    8,
-    350,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    null,
-    [
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 4304,
+    "Order": 4304,
+    "AppStoreProductId": "",
+    "GooglePlayProductId": "",
+    "Name": "カスタマイズパック【レート350】",
+    "PackText": "",
+    "MJewelShopCategoryId": 4,
+    "DialogType": 1,
+    "PurchaseType": 3,
+    "PurchaseValue": 0,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": null,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": true,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": true,
+    "UnlockType": 8,
+    "UnlockValue": 350,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": null,
+    "Lineup": [
       [
         430401,
         4304,
@@ -2477,47 +2004,36 @@
         70000
       ]
     ],
-    0,
-    null
-  ],
-  [
-    4305,
-    4305,
-    "",
-    "",
-    "カスタマイズパック【レート400】",
-    "",
-    4,
-    1,
-    3,
-    0,
-    false,
-    null,
-    0,
-    null,
-    1,
-    null,
-    "",
-    true,
-    null,
-    null,
-    true,
-    8,
-    400,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    null,
-    [
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 4305,
+    "Order": 4305,
+    "AppStoreProductId": "",
+    "GooglePlayProductId": "",
+    "Name": "カスタマイズパック【レート400】",
+    "PackText": "",
+    "MJewelShopCategoryId": 4,
+    "DialogType": 1,
+    "PurchaseType": 3,
+    "PurchaseValue": 0,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": null,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": true,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": true,
+    "UnlockType": 8,
+    "UnlockValue": 400,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": null,
+    "Lineup": [
       [
         430501,
         4305,
@@ -2533,47 +2049,36 @@
         80000
       ]
     ],
-    0,
-    null
-  ],
-  [
-    4306,
-    4306,
-    "",
-    "",
-    "カスタマイズパック【レート450】",
-    "",
-    4,
-    1,
-    3,
-    0,
-    false,
-    null,
-    0,
-    null,
-    1,
-    null,
-    "",
-    true,
-    null,
-    null,
-    true,
-    8,
-    450,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    null,
-    [
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 4306,
+    "Order": 4306,
+    "AppStoreProductId": "",
+    "GooglePlayProductId": "",
+    "Name": "カスタマイズパック【レート450】",
+    "PackText": "",
+    "MJewelShopCategoryId": 4,
+    "DialogType": 1,
+    "PurchaseType": 3,
+    "PurchaseValue": 0,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": null,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": true,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": true,
+    "UnlockType": 8,
+    "UnlockValue": 450,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": null,
+    "Lineup": [
       [
         430601,
         4306,
@@ -2589,47 +2094,36 @@
         90000
       ]
     ],
-    0,
-    null
-  ],
-  [
-    4307,
-    4307,
-    "",
-    "",
-    "カスタマイズパック【レート500】",
-    "",
-    4,
-    1,
-    3,
-    0,
-    false,
-    null,
-    0,
-    null,
-    1,
-    null,
-    "",
-    true,
-    null,
-    null,
-    true,
-    8,
-    500,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    null,
-    [
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 4307,
+    "Order": 4307,
+    "AppStoreProductId": "",
+    "GooglePlayProductId": "",
+    "Name": "カスタマイズパック【レート500】",
+    "PackText": "",
+    "MJewelShopCategoryId": 4,
+    "DialogType": 1,
+    "PurchaseType": 3,
+    "PurchaseValue": 0,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": null,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": true,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": true,
+    "UnlockType": 8,
+    "UnlockValue": 500,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": null,
+    "Lineup": [
       [
         430701,
         4307,
@@ -2645,47 +2139,36 @@
         100000
       ]
     ],
-    0,
-    null
-  ],
-  [
-    4308,
-    4308,
-    "",
-    "",
-    "カスタマイズパック【レート550】",
-    "",
-    4,
-    1,
-    3,
-    0,
-    false,
-    null,
-    0,
-    null,
-    1,
-    null,
-    "",
-    true,
-    null,
-    null,
-    true,
-    8,
-    550,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    null,
-    [
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 4308,
+    "Order": 4308,
+    "AppStoreProductId": "",
+    "GooglePlayProductId": "",
+    "Name": "カスタマイズパック【レート550】",
+    "PackText": "",
+    "MJewelShopCategoryId": 4,
+    "DialogType": 1,
+    "PurchaseType": 3,
+    "PurchaseValue": 0,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": null,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": true,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": true,
+    "UnlockType": 8,
+    "UnlockValue": 550,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": null,
+    "Lineup": [
       [
         430801,
         4308,
@@ -2701,47 +2184,36 @@
         110000
       ]
     ],
-    0,
-    null
-  ],
-  [
-    4309,
-    4309,
-    "",
-    "",
-    "カスタマイズパック【レート600】",
-    "",
-    4,
-    1,
-    3,
-    0,
-    false,
-    null,
-    0,
-    null,
-    1,
-    null,
-    "",
-    true,
-    null,
-    null,
-    true,
-    8,
-    600,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    null,
-    [
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 4309,
+    "Order": 4309,
+    "AppStoreProductId": "",
+    "GooglePlayProductId": "",
+    "Name": "カスタマイズパック【レート600】",
+    "PackText": "",
+    "MJewelShopCategoryId": 4,
+    "DialogType": 1,
+    "PurchaseType": 3,
+    "PurchaseValue": 0,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": null,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": true,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": true,
+    "UnlockType": 8,
+    "UnlockValue": 600,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": null,
+    "Lineup": [
       [
         430901,
         4309,
@@ -2757,47 +2229,36 @@
         120000
       ]
     ],
-    0,
-    null
-  ],
-  [
-    4310,
-    4310,
-    "",
-    "",
-    "カスタマイズパック【レート650】",
-    "",
-    4,
-    1,
-    3,
-    0,
-    false,
-    null,
-    0,
-    null,
-    1,
-    null,
-    "",
-    true,
-    null,
-    null,
-    true,
-    8,
-    650,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    null,
-    [
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 4310,
+    "Order": 4310,
+    "AppStoreProductId": "",
+    "GooglePlayProductId": "",
+    "Name": "カスタマイズパック【レート650】",
+    "PackText": "",
+    "MJewelShopCategoryId": 4,
+    "DialogType": 1,
+    "PurchaseType": 3,
+    "PurchaseValue": 0,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": null,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": true,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": true,
+    "UnlockType": 8,
+    "UnlockValue": 650,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": null,
+    "Lineup": [
       [
         431001,
         4310,
@@ -2813,47 +2274,36 @@
         130000
       ]
     ],
-    0,
-    null
-  ],
-  [
-    4311,
-    4311,
-    "",
-    "",
-    "カスタマイズパック【レート700】",
-    "",
-    4,
-    1,
-    3,
-    0,
-    false,
-    null,
-    0,
-    null,
-    1,
-    null,
-    "",
-    true,
-    null,
-    null,
-    true,
-    8,
-    700,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    null,
-    [
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 4311,
+    "Order": 4311,
+    "AppStoreProductId": "",
+    "GooglePlayProductId": "",
+    "Name": "カスタマイズパック【レート700】",
+    "PackText": "",
+    "MJewelShopCategoryId": 4,
+    "DialogType": 1,
+    "PurchaseType": 3,
+    "PurchaseValue": 0,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": null,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": true,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": true,
+    "UnlockType": 8,
+    "UnlockValue": 700,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": null,
+    "Lineup": [
       [
         431101,
         4311,
@@ -2869,47 +2319,36 @@
         140000
       ]
     ],
-    0,
-    null
-  ],
-  [
-    4312,
-    4312,
-    "",
-    "",
-    "カスタマイズパック【レート750】",
-    "",
-    4,
-    1,
-    3,
-    0,
-    false,
-    null,
-    0,
-    null,
-    1,
-    null,
-    "",
-    true,
-    null,
-    null,
-    true,
-    8,
-    750,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    null,
-    [
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 4312,
+    "Order": 4312,
+    "AppStoreProductId": "",
+    "GooglePlayProductId": "",
+    "Name": "カスタマイズパック【レート750】",
+    "PackText": "",
+    "MJewelShopCategoryId": 4,
+    "DialogType": 1,
+    "PurchaseType": 3,
+    "PurchaseValue": 0,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": null,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": true,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": true,
+    "UnlockType": 8,
+    "UnlockValue": 750,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": null,
+    "Lineup": [
       [
         431201,
         4312,
@@ -2925,47 +2364,36 @@
         150000
       ]
     ],
-    0,
-    null
-  ],
-  [
-    4313,
-    4313,
-    "",
-    "",
-    "カスタマイズパック【レート800】",
-    "",
-    4,
-    1,
-    3,
-    0,
-    false,
-    null,
-    0,
-    null,
-    1,
-    null,
-    "",
-    true,
-    null,
-    null,
-    true,
-    8,
-    800,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    null,
-    [
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 4313,
+    "Order": 4313,
+    "AppStoreProductId": "",
+    "GooglePlayProductId": "",
+    "Name": "カスタマイズパック【レート800】",
+    "PackText": "",
+    "MJewelShopCategoryId": 4,
+    "DialogType": 1,
+    "PurchaseType": 3,
+    "PurchaseValue": 0,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": null,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": true,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": true,
+    "UnlockType": 8,
+    "UnlockValue": 800,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": null,
+    "Lineup": [
       [
         431301,
         4313,
@@ -2981,47 +2409,36 @@
         160000
       ]
     ],
-    0,
-    null
-  ],
-  [
-    4314,
-    4314,
-    "",
-    "",
-    "カスタマイズパック【レート850】",
-    "",
-    4,
-    1,
-    3,
-    0,
-    false,
-    null,
-    0,
-    null,
-    1,
-    null,
-    "",
-    true,
-    null,
-    null,
-    true,
-    8,
-    850,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    null,
-    [
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 4314,
+    "Order": 4314,
+    "AppStoreProductId": "",
+    "GooglePlayProductId": "",
+    "Name": "カスタマイズパック【レート850】",
+    "PackText": "",
+    "MJewelShopCategoryId": 4,
+    "DialogType": 1,
+    "PurchaseType": 3,
+    "PurchaseValue": 0,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": null,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": true,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": true,
+    "UnlockType": 8,
+    "UnlockValue": 850,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": null,
+    "Lineup": [
       [
         431401,
         4314,
@@ -3037,47 +2454,36 @@
         170000
       ]
     ],
-    0,
-    null
-  ],
-  [
-    4315,
-    4315,
-    "",
-    "",
-    "カスタマイズパック【レート900】",
-    "",
-    4,
-    1,
-    3,
-    0,
-    false,
-    null,
-    0,
-    null,
-    1,
-    null,
-    "",
-    true,
-    null,
-    null,
-    true,
-    8,
-    900,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    null,
-    [
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 4315,
+    "Order": 4315,
+    "AppStoreProductId": "",
+    "GooglePlayProductId": "",
+    "Name": "カスタマイズパック【レート900】",
+    "PackText": "",
+    "MJewelShopCategoryId": 4,
+    "DialogType": 1,
+    "PurchaseType": 3,
+    "PurchaseValue": 0,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": null,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": true,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": true,
+    "UnlockType": 8,
+    "UnlockValue": 900,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": null,
+    "Lineup": [
       [
         431501,
         4315,
@@ -3093,47 +2499,36 @@
         180000
       ]
     ],
-    0,
-    null
-  ],
-  [
-    4316,
-    4316,
-    "",
-    "",
-    "カスタマイズパック【レート950】",
-    "",
-    4,
-    1,
-    3,
-    0,
-    false,
-    null,
-    0,
-    null,
-    1,
-    null,
-    "",
-    true,
-    null,
-    null,
-    true,
-    8,
-    950,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    null,
-    [
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 4316,
+    "Order": 4316,
+    "AppStoreProductId": "",
+    "GooglePlayProductId": "",
+    "Name": "カスタマイズパック【レート950】",
+    "PackText": "",
+    "MJewelShopCategoryId": 4,
+    "DialogType": 1,
+    "PurchaseType": 3,
+    "PurchaseValue": 0,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": null,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": true,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": true,
+    "UnlockType": 8,
+    "UnlockValue": 950,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": null,
+    "Lineup": [
       [
         431601,
         4316,
@@ -3149,47 +2544,36 @@
         190000
       ]
     ],
-    0,
-    null
-  ],
-  [
-    4317,
-    4317,
-    "",
-    "",
-    "カスタマイズパック【レート1000】",
-    "",
-    4,
-    1,
-    3,
-    0,
-    false,
-    null,
-    0,
-    null,
-    1,
-    null,
-    "",
-    true,
-    null,
-    null,
-    true,
-    8,
-    1000,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    null,
-    [
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 4317,
+    "Order": 4317,
+    "AppStoreProductId": "",
+    "GooglePlayProductId": "",
+    "Name": "カスタマイズパック【レート1000】",
+    "PackText": "",
+    "MJewelShopCategoryId": 4,
+    "DialogType": 1,
+    "PurchaseType": 3,
+    "PurchaseValue": 0,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": null,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": true,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": true,
+    "UnlockType": 8,
+    "UnlockValue": 1000,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": null,
+    "Lineup": [
       [
         431701,
         4317,
@@ -3205,47 +2589,36 @@
         200000
       ]
     ],
-    0,
-    null
-  ],
-  [
-    4401,
-    4401,
-    "",
-    "",
-    "ガチャチケットパック【レート200】",
-    "",
-    4,
-    1,
-    1,
-    100,
-    false,
-    null,
-    0,
-    null,
-    1,
-    null,
-    "",
-    true,
-    null,
-    null,
-    true,
-    8,
-    200,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    null,
-    [
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 4401,
+    "Order": 4401,
+    "AppStoreProductId": "",
+    "GooglePlayProductId": "",
+    "Name": "ガチャチケットパック【レート200】",
+    "PackText": "",
+    "MJewelShopCategoryId": 4,
+    "DialogType": 1,
+    "PurchaseType": 1,
+    "PurchaseValue": 100,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": null,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": true,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": true,
+    "UnlockType": 8,
+    "UnlockValue": 200,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": null,
+    "Lineup": [
       [
         440101,
         4401,
@@ -3261,47 +2634,36 @@
         2
       ]
     ],
-    0,
-    null
-  ],
-  [
-    4402,
-    4402,
-    "",
-    "",
-    "ガチャチケットパック【レート250】",
-    "",
-    4,
-    1,
-    1,
-    100,
-    false,
-    null,
-    0,
-    null,
-    1,
-    null,
-    "",
-    true,
-    null,
-    null,
-    true,
-    8,
-    250,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    null,
-    [
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 4402,
+    "Order": 4402,
+    "AppStoreProductId": "",
+    "GooglePlayProductId": "",
+    "Name": "ガチャチケットパック【レート250】",
+    "PackText": "",
+    "MJewelShopCategoryId": 4,
+    "DialogType": 1,
+    "PurchaseType": 1,
+    "PurchaseValue": 100,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": null,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": true,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": true,
+    "UnlockType": 8,
+    "UnlockValue": 250,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": null,
+    "Lineup": [
       [
         440201,
         4402,
@@ -3317,47 +2679,36 @@
         2
       ]
     ],
-    0,
-    null
-  ],
-  [
-    4403,
-    4403,
-    "",
-    "",
-    "ガチャチケットパック【レート300】",
-    "",
-    4,
-    1,
-    1,
-    100,
-    false,
-    null,
-    0,
-    null,
-    1,
-    null,
-    "",
-    true,
-    null,
-    null,
-    true,
-    8,
-    300,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    null,
-    [
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 4403,
+    "Order": 4403,
+    "AppStoreProductId": "",
+    "GooglePlayProductId": "",
+    "Name": "ガチャチケットパック【レート300】",
+    "PackText": "",
+    "MJewelShopCategoryId": 4,
+    "DialogType": 1,
+    "PurchaseType": 1,
+    "PurchaseValue": 100,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": null,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": true,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": true,
+    "UnlockType": 8,
+    "UnlockValue": 300,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": null,
+    "Lineup": [
       [
         440301,
         4403,
@@ -3373,47 +2724,36 @@
         2
       ]
     ],
-    0,
-    null
-  ],
-  [
-    4404,
-    4404,
-    "",
-    "",
-    "ガチャチケットパック【レート350】",
-    "",
-    4,
-    1,
-    1,
-    100,
-    false,
-    null,
-    0,
-    null,
-    1,
-    null,
-    "",
-    true,
-    null,
-    null,
-    true,
-    8,
-    350,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    null,
-    [
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 4404,
+    "Order": 4404,
+    "AppStoreProductId": "",
+    "GooglePlayProductId": "",
+    "Name": "ガチャチケットパック【レート350】",
+    "PackText": "",
+    "MJewelShopCategoryId": 4,
+    "DialogType": 1,
+    "PurchaseType": 1,
+    "PurchaseValue": 100,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": null,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": true,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": true,
+    "UnlockType": 8,
+    "UnlockValue": 350,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": null,
+    "Lineup": [
       [
         440401,
         4404,
@@ -3429,47 +2769,36 @@
         2
       ]
     ],
-    0,
-    null
-  ],
-  [
-    4405,
-    4405,
-    "",
-    "",
-    "ガチャチケットパック【レート400】",
-    "",
-    4,
-    1,
-    1,
-    350,
-    false,
-    null,
-    0,
-    null,
-    1,
-    null,
-    "",
-    true,
-    null,
-    null,
-    true,
-    8,
-    400,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    null,
-    [
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 4405,
+    "Order": 4405,
+    "AppStoreProductId": "",
+    "GooglePlayProductId": "",
+    "Name": "ガチャチケットパック【レート400】",
+    "PackText": "",
+    "MJewelShopCategoryId": 4,
+    "DialogType": 1,
+    "PurchaseType": 1,
+    "PurchaseValue": 350,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": null,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": true,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": true,
+    "UnlockType": 8,
+    "UnlockValue": 400,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": null,
+    "Lineup": [
       [
         440501,
         4405,
@@ -3485,47 +2814,36 @@
         2
       ]
     ],
-    0,
-    null
-  ],
-  [
-    4406,
-    4406,
-    "",
-    "",
-    "ガチャチケットパック【レート450】",
-    "",
-    4,
-    1,
-    1,
-    350,
-    false,
-    null,
-    0,
-    null,
-    1,
-    null,
-    "",
-    true,
-    null,
-    null,
-    true,
-    8,
-    450,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    null,
-    [
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 4406,
+    "Order": 4406,
+    "AppStoreProductId": "",
+    "GooglePlayProductId": "",
+    "Name": "ガチャチケットパック【レート450】",
+    "PackText": "",
+    "MJewelShopCategoryId": 4,
+    "DialogType": 1,
+    "PurchaseType": 1,
+    "PurchaseValue": 350,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": null,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": true,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": true,
+    "UnlockType": 8,
+    "UnlockValue": 450,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": null,
+    "Lineup": [
       [
         440601,
         4406,
@@ -3541,47 +2859,36 @@
         2
       ]
     ],
-    0,
-    null
-  ],
-  [
-    4407,
-    4407,
-    "",
-    "",
-    "ガチャチケットパック【レート500】",
-    "",
-    4,
-    1,
-    1,
-    350,
-    false,
-    null,
-    0,
-    null,
-    1,
-    null,
-    "",
-    true,
-    null,
-    null,
-    true,
-    8,
-    500,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    null,
-    [
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 4407,
+    "Order": 4407,
+    "AppStoreProductId": "",
+    "GooglePlayProductId": "",
+    "Name": "ガチャチケットパック【レート500】",
+    "PackText": "",
+    "MJewelShopCategoryId": 4,
+    "DialogType": 1,
+    "PurchaseType": 1,
+    "PurchaseValue": 350,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": null,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": true,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": true,
+    "UnlockType": 8,
+    "UnlockValue": 500,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": null,
+    "Lineup": [
       [
         440701,
         4407,
@@ -3597,47 +2904,36 @@
         2
       ]
     ],
-    0,
-    null
-  ],
-  [
-    4408,
-    4408,
-    "",
-    "",
-    "ガチャチケットパック【レート550】",
-    "",
-    4,
-    1,
-    1,
-    350,
-    false,
-    null,
-    0,
-    null,
-    1,
-    null,
-    "",
-    true,
-    null,
-    null,
-    true,
-    8,
-    550,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    null,
-    [
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 4408,
+    "Order": 4408,
+    "AppStoreProductId": "",
+    "GooglePlayProductId": "",
+    "Name": "ガチャチケットパック【レート550】",
+    "PackText": "",
+    "MJewelShopCategoryId": 4,
+    "DialogType": 1,
+    "PurchaseType": 1,
+    "PurchaseValue": 350,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": null,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": true,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": true,
+    "UnlockType": 8,
+    "UnlockValue": 550,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": null,
+    "Lineup": [
       [
         440801,
         4408,
@@ -3653,47 +2949,36 @@
         2
       ]
     ],
-    0,
-    null
-  ],
-  [
-    4409,
-    4409,
-    "",
-    "",
-    "ガチャチケットパック【レート600】",
-    "",
-    4,
-    1,
-    1,
-    600,
-    false,
-    null,
-    0,
-    null,
-    1,
-    null,
-    "",
-    true,
-    null,
-    null,
-    true,
-    8,
-    600,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    null,
-    [
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 4409,
+    "Order": 4409,
+    "AppStoreProductId": "",
+    "GooglePlayProductId": "",
+    "Name": "ガチャチケットパック【レート600】",
+    "PackText": "",
+    "MJewelShopCategoryId": 4,
+    "DialogType": 1,
+    "PurchaseType": 1,
+    "PurchaseValue": 600,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": null,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": true,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": true,
+    "UnlockType": 8,
+    "UnlockValue": 600,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": null,
+    "Lineup": [
       [
         440901,
         4409,
@@ -3709,47 +2994,36 @@
         2
       ]
     ],
-    0,
-    null
-  ],
-  [
-    4410,
-    4410,
-    "",
-    "",
-    "ガチャチケットパック【レート650】",
-    "",
-    4,
-    1,
-    1,
-    600,
-    false,
-    null,
-    0,
-    null,
-    1,
-    null,
-    "",
-    true,
-    null,
-    null,
-    true,
-    8,
-    650,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    null,
-    [
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 4410,
+    "Order": 4410,
+    "AppStoreProductId": "",
+    "GooglePlayProductId": "",
+    "Name": "ガチャチケットパック【レート650】",
+    "PackText": "",
+    "MJewelShopCategoryId": 4,
+    "DialogType": 1,
+    "PurchaseType": 1,
+    "PurchaseValue": 600,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": null,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": true,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": true,
+    "UnlockType": 8,
+    "UnlockValue": 650,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": null,
+    "Lineup": [
       [
         441001,
         4410,
@@ -3765,47 +3039,36 @@
         2
       ]
     ],
-    0,
-    null
-  ],
-  [
-    4411,
-    4411,
-    "",
-    "",
-    "ガチャチケットパック【レート700】",
-    "",
-    4,
-    1,
-    1,
-    600,
-    false,
-    null,
-    0,
-    null,
-    1,
-    null,
-    "",
-    true,
-    null,
-    null,
-    true,
-    8,
-    700,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    null,
-    [
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 4411,
+    "Order": 4411,
+    "AppStoreProductId": "",
+    "GooglePlayProductId": "",
+    "Name": "ガチャチケットパック【レート700】",
+    "PackText": "",
+    "MJewelShopCategoryId": 4,
+    "DialogType": 1,
+    "PurchaseType": 1,
+    "PurchaseValue": 600,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": null,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": true,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": true,
+    "UnlockType": 8,
+    "UnlockValue": 700,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": null,
+    "Lineup": [
       [
         441101,
         4411,
@@ -3821,47 +3084,36 @@
         2
       ]
     ],
-    0,
-    null
-  ],
-  [
-    4412,
-    4412,
-    "",
-    "",
-    "ガチャチケットパック【レート750】",
-    "",
-    4,
-    1,
-    1,
-    600,
-    false,
-    null,
-    0,
-    null,
-    1,
-    null,
-    "",
-    true,
-    null,
-    null,
-    true,
-    8,
-    750,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    null,
-    [
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 4412,
+    "Order": 4412,
+    "AppStoreProductId": "",
+    "GooglePlayProductId": "",
+    "Name": "ガチャチケットパック【レート750】",
+    "PackText": "",
+    "MJewelShopCategoryId": 4,
+    "DialogType": 1,
+    "PurchaseType": 1,
+    "PurchaseValue": 600,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": null,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": true,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": true,
+    "UnlockType": 8,
+    "UnlockValue": 750,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": null,
+    "Lineup": [
       [
         441201,
         4412,
@@ -3877,47 +3129,36 @@
         2
       ]
     ],
-    0,
-    null
-  ],
-  [
-    4413,
-    4413,
-    "",
-    "",
-    "ガチャチケットパック【レート800】",
-    "",
-    4,
-    1,
-    1,
-    1500,
-    false,
-    null,
-    0,
-    null,
-    1,
-    null,
-    "",
-    true,
-    null,
-    null,
-    true,
-    8,
-    800,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    null,
-    [
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 4413,
+    "Order": 4413,
+    "AppStoreProductId": "",
+    "GooglePlayProductId": "",
+    "Name": "ガチャチケットパック【レート800】",
+    "PackText": "",
+    "MJewelShopCategoryId": 4,
+    "DialogType": 1,
+    "PurchaseType": 1,
+    "PurchaseValue": 1500,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": null,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": true,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": true,
+    "UnlockType": 8,
+    "UnlockValue": 800,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": null,
+    "Lineup": [
       [
         441301,
         4413,
@@ -3933,47 +3174,36 @@
         1
       ]
     ],
-    0,
-    null
-  ],
-  [
-    4414,
-    4414,
-    "",
-    "",
-    "ガチャチケットパック【レート850】",
-    "",
-    4,
-    1,
-    1,
-    1500,
-    false,
-    null,
-    0,
-    null,
-    1,
-    null,
-    "",
-    true,
-    null,
-    null,
-    true,
-    8,
-    850,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    null,
-    [
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 4414,
+    "Order": 4414,
+    "AppStoreProductId": "",
+    "GooglePlayProductId": "",
+    "Name": "ガチャチケットパック【レート850】",
+    "PackText": "",
+    "MJewelShopCategoryId": 4,
+    "DialogType": 1,
+    "PurchaseType": 1,
+    "PurchaseValue": 1500,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": null,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": true,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": true,
+    "UnlockType": 8,
+    "UnlockValue": 850,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": null,
+    "Lineup": [
       [
         441401,
         4414,
@@ -3989,47 +3219,36 @@
         1
       ]
     ],
-    0,
-    null
-  ],
-  [
-    4415,
-    4415,
-    "",
-    "",
-    "ガチャチケットパック【レート900】",
-    "",
-    4,
-    1,
-    1,
-    1500,
-    false,
-    null,
-    0,
-    null,
-    1,
-    null,
-    "",
-    true,
-    null,
-    null,
-    true,
-    8,
-    900,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    null,
-    [
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 4415,
+    "Order": 4415,
+    "AppStoreProductId": "",
+    "GooglePlayProductId": "",
+    "Name": "ガチャチケットパック【レート900】",
+    "PackText": "",
+    "MJewelShopCategoryId": 4,
+    "DialogType": 1,
+    "PurchaseType": 1,
+    "PurchaseValue": 1500,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": null,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": true,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": true,
+    "UnlockType": 8,
+    "UnlockValue": 900,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": null,
+    "Lineup": [
       [
         441501,
         4415,
@@ -4045,47 +3264,36 @@
         1
       ]
     ],
-    0,
-    null
-  ],
-  [
-    4416,
-    4416,
-    "",
-    "",
-    "ガチャチケットパック【レート950】",
-    "",
-    4,
-    1,
-    1,
-    1500,
-    false,
-    null,
-    0,
-    null,
-    1,
-    null,
-    "",
-    true,
-    null,
-    null,
-    true,
-    8,
-    950,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    null,
-    [
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 4416,
+    "Order": 4416,
+    "AppStoreProductId": "",
+    "GooglePlayProductId": "",
+    "Name": "ガチャチケットパック【レート950】",
+    "PackText": "",
+    "MJewelShopCategoryId": 4,
+    "DialogType": 1,
+    "PurchaseType": 1,
+    "PurchaseValue": 1500,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": null,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": true,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": true,
+    "UnlockType": 8,
+    "UnlockValue": 950,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": null,
+    "Lineup": [
       [
         441601,
         4416,
@@ -4101,47 +3309,36 @@
         1
       ]
     ],
-    0,
-    null
-  ],
-  [
-    4417,
-    4417,
-    "",
-    "",
-    "ガチャチケットパック【レート1000】",
-    "",
-    4,
-    1,
-    1,
-    3000,
-    false,
-    null,
-    0,
-    null,
-    1,
-    null,
-    "",
-    true,
-    null,
-    null,
-    true,
-    8,
-    1000,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    null,
-    [
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 4417,
+    "Order": 4417,
+    "AppStoreProductId": "",
+    "GooglePlayProductId": "",
+    "Name": "ガチャチケットパック【レート1000】",
+    "PackText": "",
+    "MJewelShopCategoryId": 4,
+    "DialogType": 1,
+    "PurchaseType": 1,
+    "PurchaseValue": 3000,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": null,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": true,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": true,
+    "UnlockType": 8,
+    "UnlockValue": 1000,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": null,
+    "Lineup": [
       [
         441701,
         4417,
@@ -4164,47 +3361,36 @@
         1
       ]
     ],
-    0,
-    null
-  ],
-  [
-    4501,
-    4501,
-    "4501",
-    "4501",
-    "特別ジュエルパック【Class 2】",
-    "",
-    4,
-    1,
-    2,
-    1000,
-    false,
-    1000,
-    0,
-    null,
-    1,
-    null,
-    "",
-    true,
-    null,
-    null,
-    true,
-    9,
-    2,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    null,
-    [
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 4501,
+    "Order": 4501,
+    "AppStoreProductId": "4501",
+    "GooglePlayProductId": "4501",
+    "Name": "特別ジュエルパック【Class 2】",
+    "PackText": "",
+    "MJewelShopCategoryId": 4,
+    "DialogType": 1,
+    "PurchaseType": 2,
+    "PurchaseValue": 1000,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": 1000,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": true,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": true,
+    "UnlockType": 9,
+    "UnlockValue": 2,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": null,
+    "Lineup": [
       [
         450101,
         4501,
@@ -4213,47 +3399,36 @@
         500
       ]
     ],
-    0,
-    null
-  ],
-  [
-    4502,
-    4502,
-    "4502",
-    "4502",
-    "特別ジュエルパック【Class 3】",
-    "",
-    4,
-    1,
-    2,
-    2000,
-    false,
-    2000,
-    0,
-    null,
-    1,
-    null,
-    "",
-    true,
-    null,
-    null,
-    true,
-    9,
-    3,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    null,
-    [
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 4502,
+    "Order": 4502,
+    "AppStoreProductId": "4502",
+    "GooglePlayProductId": "4502",
+    "Name": "特別ジュエルパック【Class 3】",
+    "PackText": "",
+    "MJewelShopCategoryId": 4,
+    "DialogType": 1,
+    "PurchaseType": 2,
+    "PurchaseValue": 2000,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": 2000,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": true,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": true,
+    "UnlockType": 9,
+    "UnlockValue": 3,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": null,
+    "Lineup": [
       [
         450201,
         4502,
@@ -4276,47 +3451,36 @@
         150
       ]
     ],
-    0,
-    null
-  ],
-  [
-    4503,
-    4503,
-    "4503",
-    "4503",
-    "特別ジュエルパック【Class 4】",
-    "",
-    4,
-    1,
-    2,
-    2000,
-    false,
-    2000,
-    0,
-    null,
-    1,
-    null,
-    "",
-    true,
-    null,
-    null,
-    true,
-    9,
-    4,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    null,
-    [
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 4503,
+    "Order": 4503,
+    "AppStoreProductId": "4503",
+    "GooglePlayProductId": "4503",
+    "Name": "特別ジュエルパック【Class 4】",
+    "PackText": "",
+    "MJewelShopCategoryId": 4,
+    "DialogType": 1,
+    "PurchaseType": 2,
+    "PurchaseValue": 2000,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": 2000,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": true,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": true,
+    "UnlockType": 9,
+    "UnlockValue": 4,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": null,
+    "Lineup": [
       [
         450301,
         4503,
@@ -4346,47 +3510,36 @@
         150
       ]
     ],
-    0,
-    null
-  ],
-  [
-    4504,
-    4504,
-    "4504",
-    "4504",
-    "特別ジュエルパック【Class 5】",
-    "",
-    4,
-    1,
-    2,
-    3000,
-    false,
-    3000,
-    0,
-    null,
-    1,
-    null,
-    "",
-    true,
-    null,
-    null,
-    true,
-    9,
-    5,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    null,
-    [
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 4504,
+    "Order": 4504,
+    "AppStoreProductId": "4504",
+    "GooglePlayProductId": "4504",
+    "Name": "特別ジュエルパック【Class 5】",
+    "PackText": "",
+    "MJewelShopCategoryId": 4,
+    "DialogType": 1,
+    "PurchaseType": 2,
+    "PurchaseValue": 3000,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": 3000,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": true,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": true,
+    "UnlockType": 9,
+    "UnlockValue": 5,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": null,
+    "Lineup": [
       [
         450401,
         4504,
@@ -4402,47 +3555,36 @@
         100
       ]
     ],
-    0,
-    null
-  ],
-  [
-    4505,
-    4505,
-    "4505",
-    "4505",
-    "特別ジュエルパック【Class 6】",
-    "",
-    4,
-    1,
-    2,
-    4800,
-    false,
-    4800,
-    0,
-    null,
-    1,
-    null,
-    "",
-    true,
-    null,
-    null,
-    true,
-    9,
-    6,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    null,
-    [
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 4505,
+    "Order": 4505,
+    "AppStoreProductId": "4505",
+    "GooglePlayProductId": "4505",
+    "Name": "特別ジュエルパック【Class 6】",
+    "PackText": "",
+    "MJewelShopCategoryId": 4,
+    "DialogType": 1,
+    "PurchaseType": 2,
+    "PurchaseValue": 4800,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": 4800,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": true,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": true,
+    "UnlockType": 9,
+    "UnlockValue": 6,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": null,
+    "Lineup": [
       [
         450501,
         4505,
@@ -4458,47 +3600,36 @@
         500
       ]
     ],
-    0,
-    null
-  ],
-  [
-    4506,
-    4506,
-    "4506",
-    "4506",
-    "特別ジュエルパック【Class 7】",
-    "",
-    4,
-    1,
-    2,
-    4800,
-    false,
-    4800,
-    0,
-    null,
-    1,
-    null,
-    "",
-    true,
-    null,
-    null,
-    true,
-    9,
-    7,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    null,
-    [
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 4506,
+    "Order": 4506,
+    "AppStoreProductId": "4506",
+    "GooglePlayProductId": "4506",
+    "Name": "特別ジュエルパック【Class 7】",
+    "PackText": "",
+    "MJewelShopCategoryId": 4,
+    "DialogType": 1,
+    "PurchaseType": 2,
+    "PurchaseValue": 4800,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": 4800,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": true,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": true,
+    "UnlockType": 9,
+    "UnlockValue": 7,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": null,
+    "Lineup": [
       [
         450601,
         4506,
@@ -4514,58 +3645,36 @@
         20
       ]
     ],
-    0,
-    null
-  ],
-  [
-    5002,
-    5002,
-    "",
-    "",
-    "電姫空間のおまもりパック",
-    "",
-    5,
-    1,
-    1,
-    3000,
-    false,
-    null,
-    0,
-    null,
-    1,
-    null,
-    "",
-    false,
-    null,
-    null,
-    false,
-    null,
-    null,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          100,
-          197,
-          69,
-          144
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          100,
-          210,
-          186,
-          224
-        ]
-      },
-      "type": 255
-    },
-    [
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 5002,
+    "Order": 5002,
+    "AppStoreProductId": "",
+    "GooglePlayProductId": "",
+    "Name": "電姫空間のおまもりパック",
+    "PackText": "",
+    "MJewelShopCategoryId": 5,
+    "DialogType": 1,
+    "PurchaseType": 1,
+    "PurchaseValue": 3000,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": null,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": false,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": false,
+    "UnlockType": null,
+    "UnlockValue": null,
+    "StartDate": "2023-07-29T17:00:00.000Z",
+    "EndDate": "2023-08-08T22:00:00.000Z",
+    "Lineup": [
       [
         500201,
         5002,
@@ -4581,58 +3690,36 @@
         75
       ]
     ],
-    4,
-    2
-  ],
-  [
-    5008,
-    5008,
-    "5008",
-    "5008",
-    "お誕生日パック【カトリナ・グリーベル】",
-    "",
-    5,
-    1,
-    2,
-    3000,
-    false,
-    3000,
-    0,
-    null,
-    1,
-    null,
-    "",
-    false,
-    null,
-    null,
-    false,
-    null,
-    null,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          100,
-          204,
-          63,
-          128
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          100,
-          217,
-          110,
-          128
-        ]
-      },
-      "type": 255
-    },
-    [
+    "ShopItemType": 4,
+    "ShopItemValue": 2
+  },
+  {
+    "Id": 5008,
+    "Order": 5008,
+    "AppStoreProductId": "5008",
+    "GooglePlayProductId": "5008",
+    "Name": "お誕生日パック【カトリナ・グリーベル】",
+    "PackText": "",
+    "MJewelShopCategoryId": 5,
+    "DialogType": 1,
+    "PurchaseType": 2,
+    "PurchaseValue": 3000,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": 3000,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": false,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": false,
+    "UnlockType": null,
+    "UnlockValue": null,
+    "StartDate": "2023-08-04T00:00:00.000Z",
+    "EndDate": "2023-08-14T00:00:00.000Z",
+    "Lineup": [
       [
         500801,
         5008,
@@ -4690,58 +3777,36 @@
         600
       ]
     ],
-    0,
-    null
-  ],
-  [
-    5501,
-    5501,
-    "5501",
-    "5501",
-    "イベント限定パック",
-    "",
-    5,
-    1,
-    2,
-    1500,
-    false,
-    1500,
-    0,
-    null,
-    1,
-    null,
-    "",
-    false,
-    null,
-    null,
-    true,
-    2,
-    2000108,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          100,
-          199,
-          232,
-          144
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          100,
-          210,
-          186,
-          224
-        ]
-      },
-      "type": 255
-    },
-    [
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 5501,
+    "Order": 5501,
+    "AppStoreProductId": "5501",
+    "GooglePlayProductId": "5501",
+    "Name": "イベント限定パック",
+    "PackText": "",
+    "MJewelShopCategoryId": 5,
+    "DialogType": 1,
+    "PurchaseType": 2,
+    "PurchaseValue": 1500,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": 1500,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": false,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": true,
+    "UnlockType": 2,
+    "UnlockValue": 2000108,
+    "StartDate": "2023-07-31T17:00:00.000Z",
+    "EndDate": "2023-08-08T22:00:00.000Z",
+    "Lineup": [
       [
         550101,
         5501,
@@ -4750,7 +3815,7 @@
         500
       ]
     ],
-    0,
-    null
-  ]
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  }
 ]

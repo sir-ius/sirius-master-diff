@@ -1,7 +1,7 @@
 [
-  [
-    10100,
-    [
+  {
+    "Id": 10100,
+    "BloomBonuses": [
       [
         null,
         0,
@@ -66,7 +66,7 @@
         "PerformanceUp"
       ]
     ],
-    [
+    "BloomRewards": [
       [
         510002,
         1,
@@ -75,10 +75,10 @@
         5
       ]
     ]
-  ],
-  [
-    10200,
-    [
+  },
+  {
+    "Id": 10200,
+    "BloomBonuses": [
       [
         null,
         0,
@@ -143,7 +143,7 @@
         "PerformanceUp"
       ]
     ],
-    [
+    "BloomRewards": [
       [
         510002,
         1,
@@ -152,10 +152,10 @@
         5
       ]
     ]
-  ],
-  [
-    10300,
-    [
+  },
+  {
+    "Id": 10300,
+    "BloomBonuses": [
       [
         null,
         0,
@@ -220,7 +220,7 @@
         "PerformanceUp"
       ]
     ],
-    [
+    "BloomRewards": [
       [
         510002,
         1,
@@ -229,10 +229,10 @@
         5
       ]
     ]
-  ],
-  [
-    10800,
-    [
+  },
+  {
+    "Id": 10800,
+    "BloomBonuses": [
       [
         null,
         0,
@@ -279,7 +279,7 @@
         "PerformanceUp"
       ]
     ],
-    [
+    "BloomRewards": [
       [
         510002,
         1,
@@ -288,10 +288,10 @@
         5
       ]
     ]
-  ],
-  [
-    10900,
-    [
+  },
+  {
+    "Id": 10900,
+    "BloomBonuses": [
       [
         null,
         0,
@@ -338,7 +338,7 @@
         "PerformanceUp"
       ]
     ],
-    [
+    "BloomRewards": [
       [
         510002,
         1,
@@ -347,10 +347,10 @@
         5
       ]
     ]
-  ],
-  [
-    20100,
-    [
+  },
+  {
+    "Id": 20100,
+    "BloomBonuses": [
       [
         null,
         0,
@@ -415,7 +415,7 @@
         "PerformanceUp"
       ]
     ],
-    [
+    "BloomRewards": [
       [
         510003,
         1,
@@ -424,10 +424,10 @@
         5
       ]
     ]
-  ],
-  [
-    20200,
-    [
+  },
+  {
+    "Id": 20200,
+    "BloomBonuses": [
       [
         null,
         0,
@@ -492,7 +492,7 @@
         "PerformanceUp"
       ]
     ],
-    [
+    "BloomRewards": [
       [
         510003,
         1,
@@ -501,10 +501,10 @@
         5
       ]
     ]
-  ],
-  [
-    20300,
-    [
+  },
+  {
+    "Id": 20300,
+    "BloomBonuses": [
       [
         null,
         0,
@@ -569,7 +569,7 @@
         "PerformanceUp"
       ]
     ],
-    [
+    "BloomRewards": [
       [
         510003,
         1,
@@ -578,10 +578,10 @@
         5
       ]
     ]
-  ],
-  [
-    20800,
-    [
+  },
+  {
+    "Id": 20800,
+    "BloomBonuses": [
       [
         null,
         0,
@@ -628,7 +628,7 @@
         "PerformanceUp"
       ]
     ],
-    [
+    "BloomRewards": [
       [
         510003,
         1,
@@ -637,10 +637,10 @@
         5
       ]
     ]
-  ],
-  [
-    20900,
-    [
+  },
+  {
+    "Id": 20900,
+    "BloomBonuses": [
       [
         null,
         0,
@@ -687,7 +687,7 @@
         "PerformanceUp"
       ]
     ],
-    [
+    "BloomRewards": [
       [
         510003,
         1,
@@ -696,10 +696,10 @@
         5
       ]
     ]
-  ],
-  [
-    30001,
-    [
+  },
+  {
+    "Id": 30001,
+    "BloomBonuses": [
       [
         null,
         0,
@@ -755,11 +755,11 @@
         "PerformanceUp"
       ]
     ],
-    []
-  ],
-  [
-    30002,
-    [
+    "BloomRewards": []
+  },
+  {
+    "Id": 30002,
+    "BloomBonuses": [
       [
         null,
         0,
@@ -815,11 +815,11 @@
         "PerformanceUp"
       ]
     ],
-    []
-  ],
-  [
-    30003,
-    [
+    "BloomRewards": []
+  },
+  {
+    "Id": 30003,
+    "BloomBonuses": [
       [
         null,
         0,
@@ -875,11 +875,11 @@
         "PerformanceUp"
       ]
     ],
-    []
-  ],
-  [
-    30004,
-    [
+    "BloomRewards": []
+  },
+  {
+    "Id": 30004,
+    "BloomBonuses": [
       [
         null,
         0,
@@ -935,11 +935,11 @@
         "PerformanceUp"
       ]
     ],
-    []
-  ],
-  [
-    30800,
-    [
+    "BloomRewards": []
+  },
+  {
+    "Id": 30800,
+    "BloomBonuses": [
       [
         null,
         0,
@@ -995,7 +995,7 @@
         "PerformanceUp"
       ]
     ],
-    [
+    "BloomRewards": [
       [
         510004,
         1,
@@ -1004,10 +1004,10 @@
         5
       ]
     ]
-  ],
-  [
-    30901,
-    [
+  },
+  {
+    "Id": 30901,
+    "BloomBonuses": [
       [
         null,
         0,
@@ -1063,7 +1063,7 @@
         "PerformanceUp"
       ]
     ],
-    [
+    "BloomRewards": [
       [
         510004,
         1,
@@ -1072,10 +1072,10 @@
         5
       ]
     ]
-  ],
-  [
-    30902,
-    [
+  },
+  {
+    "Id": 30902,
+    "BloomBonuses": [
       [
         null,
         0,
@@ -1131,11 +1131,11 @@
         "PerformanceUp"
       ]
     ],
-    []
-  ],
-  [
-    30903,
-    [
+    "BloomRewards": []
+  },
+  {
+    "Id": 30903,
+    "BloomBonuses": [
       [
         null,
         0,
@@ -1191,11 +1191,11 @@
         "PerformanceUp"
       ]
     ],
-    []
-  ],
-  [
-    30904,
-    [
+    "BloomRewards": []
+  },
+  {
+    "Id": 30904,
+    "BloomBonuses": [
       [
         null,
         0,
@@ -1251,11 +1251,11 @@
         "PerformanceUp"
       ]
     ],
-    []
-  ],
-  [
-    30911,
-    [
+    "BloomRewards": []
+  },
+  {
+    "Id": 30911,
+    "BloomBonuses": [
       [
         null,
         0,
@@ -1311,11 +1311,11 @@
         "PerformanceUp"
       ]
     ],
-    []
-  ],
-  [
-    30912,
-    [
+    "BloomRewards": []
+  },
+  {
+    "Id": 30912,
+    "BloomBonuses": [
       [
         null,
         0,
@@ -1371,11 +1371,11 @@
         "PerformanceUp"
       ]
     ],
-    []
-  ],
-  [
-    30913,
-    [
+    "BloomRewards": []
+  },
+  {
+    "Id": 30913,
+    "BloomBonuses": [
       [
         null,
         0,
@@ -1431,11 +1431,11 @@
         "PerformanceUp"
       ]
     ],
-    []
-  ],
-  [
-    30914,
-    [
+    "BloomRewards": []
+  },
+  {
+    "Id": 30914,
+    "BloomBonuses": [
       [
         null,
         0,
@@ -1491,11 +1491,11 @@
         "PerformanceUp"
       ]
     ],
-    []
-  ],
-  [
-    31100,
-    [
+    "BloomRewards": []
+  },
+  {
+    "Id": 31100,
+    "BloomBonuses": [
       [
         null,
         0,
@@ -1569,7 +1569,7 @@
         "PerformanceUp"
       ]
     ],
-    [
+    "BloomRewards": [
       [
         510004,
         1,
@@ -1578,10 +1578,10 @@
         5
       ]
     ]
-  ],
-  [
-    31200,
-    [
+  },
+  {
+    "Id": 31200,
+    "BloomBonuses": [
       [
         null,
         0,
@@ -1655,7 +1655,7 @@
         "PerformanceUp"
       ]
     ],
-    [
+    "BloomRewards": [
       [
         510004,
         1,
@@ -1664,10 +1664,10 @@
         5
       ]
     ]
-  ],
-  [
-    31300,
-    [
+  },
+  {
+    "Id": 31300,
+    "BloomBonuses": [
       [
         null,
         0,
@@ -1741,7 +1741,7 @@
         "PerformanceUp"
       ]
     ],
-    [
+    "BloomRewards": [
       [
         510004,
         1,
@@ -1750,10 +1750,10 @@
         5
       ]
     ]
-  ],
-  [
-    32100,
-    [
+  },
+  {
+    "Id": 32100,
+    "BloomBonuses": [
       [
         null,
         0,
@@ -1827,7 +1827,7 @@
         "PerformanceUp"
       ]
     ],
-    [
+    "BloomRewards": [
       [
         510004,
         1,
@@ -1836,10 +1836,10 @@
         5
       ]
     ]
-  ],
-  [
-    32200,
-    [
+  },
+  {
+    "Id": 32200,
+    "BloomBonuses": [
       [
         null,
         0,
@@ -1913,7 +1913,7 @@
         "PerformanceUp"
       ]
     ],
-    [
+    "BloomRewards": [
       [
         510004,
         1,
@@ -1922,10 +1922,10 @@
         5
       ]
     ]
-  ],
-  [
-    32300,
-    [
+  },
+  {
+    "Id": 32300,
+    "BloomBonuses": [
       [
         null,
         0,
@@ -1999,7 +1999,7 @@
         "PerformanceUp"
       ]
     ],
-    [
+    "BloomRewards": [
       [
         510004,
         1,
@@ -2008,10 +2008,10 @@
         5
       ]
     ]
-  ],
-  [
-    33100,
-    [
+  },
+  {
+    "Id": 33100,
+    "BloomBonuses": [
       [
         null,
         0,
@@ -2085,7 +2085,7 @@
         "PerformanceUp"
       ]
     ],
-    [
+    "BloomRewards": [
       [
         510004,
         1,
@@ -2094,10 +2094,10 @@
         5
       ]
     ]
-  ],
-  [
-    33200,
-    [
+  },
+  {
+    "Id": 33200,
+    "BloomBonuses": [
       [
         null,
         0,
@@ -2171,7 +2171,7 @@
         "PerformanceUp"
       ]
     ],
-    [
+    "BloomRewards": [
       [
         510004,
         1,
@@ -2180,10 +2180,10 @@
         5
       ]
     ]
-  ],
-  [
-    33300,
-    [
+  },
+  {
+    "Id": 33300,
+    "BloomBonuses": [
       [
         null,
         0,
@@ -2257,7 +2257,7 @@
         "PerformanceUp"
       ]
     ],
-    [
+    "BloomRewards": [
       [
         510004,
         1,
@@ -2266,10 +2266,10 @@
         5
       ]
     ]
-  ],
-  [
-    34100,
-    [
+  },
+  {
+    "Id": 34100,
+    "BloomBonuses": [
       [
         null,
         0,
@@ -2343,7 +2343,7 @@
         "PerformanceUp"
       ]
     ],
-    [
+    "BloomRewards": [
       [
         510004,
         1,
@@ -2352,10 +2352,10 @@
         5
       ]
     ]
-  ],
-  [
-    34200,
-    [
+  },
+  {
+    "Id": 34200,
+    "BloomBonuses": [
       [
         null,
         0,
@@ -2429,7 +2429,7 @@
         "PerformanceUp"
       ]
     ],
-    [
+    "BloomRewards": [
       [
         510004,
         1,
@@ -2438,10 +2438,10 @@
         5
       ]
     ]
-  ],
-  [
-    34300,
-    [
+  },
+  {
+    "Id": 34300,
+    "BloomBonuses": [
       [
         null,
         0,
@@ -2515,7 +2515,7 @@
         "PerformanceUp"
       ]
     ],
-    [
+    "BloomRewards": [
       [
         510004,
         1,
@@ -2524,10 +2524,10 @@
         5
       ]
     ]
-  ],
-  [
-    40001,
-    [
+  },
+  {
+    "Id": 40001,
+    "BloomBonuses": [
       [
         null,
         0,
@@ -2601,7 +2601,7 @@
         "PerformanceUp"
       ]
     ],
-    [
+    "BloomRewards": [
       [
         511101,
         1,
@@ -2610,10 +2610,10 @@
         5
       ]
     ]
-  ],
-  [
-    40002,
-    [
+  },
+  {
+    "Id": 40002,
+    "BloomBonuses": [
       [
         null,
         0,
@@ -2687,7 +2687,7 @@
         "PerformanceUp"
       ]
     ],
-    [
+    "BloomRewards": [
       [
         511104,
         1,
@@ -2696,10 +2696,10 @@
         5
       ]
     ]
-  ],
-  [
-    40003,
-    [
+  },
+  {
+    "Id": 40003,
+    "BloomBonuses": [
       [
         null,
         0,
@@ -2773,7 +2773,7 @@
         "PerformanceUp"
       ]
     ],
-    [
+    "BloomRewards": [
       [
         511105,
         1,
@@ -2782,10 +2782,10 @@
         5
       ]
     ]
-  ],
-  [
-    40004,
-    [
+  },
+  {
+    "Id": 40004,
+    "BloomBonuses": [
       [
         null,
         0,
@@ -2859,7 +2859,7 @@
         "PerformanceUp"
       ]
     ],
-    [
+    "BloomRewards": [
       [
         511106,
         1,
@@ -2868,10 +2868,10 @@
         5
       ]
     ]
-  ],
-  [
-    40005,
-    [
+  },
+  {
+    "Id": 40005,
+    "BloomBonuses": [
       [
         null,
         0,
@@ -2945,7 +2945,7 @@
         "PerformanceUp"
       ]
     ],
-    [
+    "BloomRewards": [
       [
         511203,
         1,
@@ -2954,10 +2954,10 @@
         5
       ]
     ]
-  ],
-  [
-    40006,
-    [
+  },
+  {
+    "Id": 40006,
+    "BloomBonuses": [
       [
         null,
         0,
@@ -3031,7 +3031,7 @@
         "PerformanceUp"
       ]
     ],
-    [
+    "BloomRewards": [
       [
         511204,
         1,
@@ -3040,10 +3040,10 @@
         5
       ]
     ]
-  ],
-  [
-    40007,
-    [
+  },
+  {
+    "Id": 40007,
+    "BloomBonuses": [
       [
         null,
         0,
@@ -3117,7 +3117,7 @@
         "PerformanceUp"
       ]
     ],
-    [
+    "BloomRewards": [
       [
         511205,
         1,
@@ -3126,10 +3126,10 @@
         5
       ]
     ]
-  ],
-  [
-    40008,
-    [
+  },
+  {
+    "Id": 40008,
+    "BloomBonuses": [
       [
         null,
         0,
@@ -3203,7 +3203,7 @@
         "PerformanceUp"
       ]
     ],
-    [
+    "BloomRewards": [
       [
         511301,
         1,
@@ -3212,10 +3212,10 @@
         5
       ]
     ]
-  ],
-  [
-    40009,
-    [
+  },
+  {
+    "Id": 40009,
+    "BloomBonuses": [
       [
         null,
         0,
@@ -3289,7 +3289,7 @@
         "PerformanceUp"
       ]
     ],
-    [
+    "BloomRewards": [
       [
         511302,
         1,
@@ -3298,10 +3298,10 @@
         5
       ]
     ]
-  ],
-  [
-    40010,
-    [
+  },
+  {
+    "Id": 40010,
+    "BloomBonuses": [
       [
         null,
         0,
@@ -3375,7 +3375,7 @@
         "PerformanceUp"
       ]
     ],
-    [
+    "BloomRewards": [
       [
         511304,
         1,
@@ -3384,10 +3384,10 @@
         5
       ]
     ]
-  ],
-  [
-    40011,
-    [
+  },
+  {
+    "Id": 40011,
+    "BloomBonuses": [
       [
         null,
         0,
@@ -3461,11 +3461,11 @@
         "PerformanceUp"
       ]
     ],
-    []
-  ],
-  [
-    40012,
-    [
+    "BloomRewards": []
+  },
+  {
+    "Id": 40012,
+    "BloomBonuses": [
       [
         null,
         0,
@@ -3539,7 +3539,7 @@
         "PerformanceUp"
       ]
     ],
-    [
+    "BloomRewards": [
       [
         511402,
         1,
@@ -3548,10 +3548,10 @@
         5
       ]
     ]
-  ],
-  [
-    40013,
-    [
+  },
+  {
+    "Id": 40013,
+    "BloomBonuses": [
       [
         null,
         0,
@@ -3625,7 +3625,7 @@
         "PerformanceUp"
       ]
     ],
-    [
+    "BloomRewards": [
       [
         511405,
         1,
@@ -3634,10 +3634,10 @@
         5
       ]
     ]
-  ],
-  [
-    40014,
-    [
+  },
+  {
+    "Id": 40014,
+    "BloomBonuses": [
       [
         null,
         0,
@@ -3711,7 +3711,7 @@
         "PerformanceUp"
       ]
     ],
-    [
+    "BloomRewards": [
       [
         511103,
         1,
@@ -3720,10 +3720,10 @@
         5
       ]
     ]
-  ],
-  [
-    40015,
-    [
+  },
+  {
+    "Id": 40015,
+    "BloomBonuses": [
       [
         null,
         0,
@@ -3797,7 +3797,7 @@
         "PerformanceUp"
       ]
     ],
-    [
+    "BloomRewards": [
       [
         511202,
         1,
@@ -3806,10 +3806,10 @@
         5
       ]
     ]
-  ],
-  [
-    40016,
-    [
+  },
+  {
+    "Id": 40016,
+    "BloomBonuses": [
       [
         null,
         0,
@@ -3883,7 +3883,7 @@
         "PerformanceUp"
       ]
     ],
-    [
+    "BloomRewards": [
       [
         511201,
         1,
@@ -3892,5 +3892,5 @@
         5
       ]
     ]
-  ]
+  }
 ]

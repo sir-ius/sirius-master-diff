@@ -1,35 +1,13 @@
 [
-  [
-    1001,
-    "リリース記念ガチャ",
-    1,
-    1,
-    1001,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          100,
-          199,
-          232,
-          144
-        ]
-      },
-      "type": 255
-    },
-    [
+  {
+    "Id": 1001,
+    "Name": "リリース記念ガチャ",
+    "CardType": 1,
+    "GachaType": 1,
+    "GachaTextTemplateMasterId": 1001,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": "2023-07-31T17:00:00.000Z",
+    "BonusThings": [
       [
         100101,
         411001,
@@ -37,7 +15,7 @@
         1
       ]
     ],
-    [
+    "GachaDetails": [
       [
         100100,
         null,
@@ -144,7 +122,7 @@
         []
       ]
     ],
-    [
+    "Things": [
       [
         1001120010,
         120010,
@@ -524,41 +502,19 @@
         null
       ]
     ],
-    true,
-    null,
-    11003
-  ],
-  [
-    1002,
-    "シリウス第2章ガチャ",
-    1,
-    1,
-    1002,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          100,
-          197,
-          69,
-          144
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          100,
-          213,
-          23,
-          144
-        ]
-      },
-      "type": 255
-    },
-    [
+    "HasMovie": true,
+    "StoryEventMasterId": null,
+    "AttentionGachaTextTemplateMasterId": 11003
+  },
+  {
+    "Id": 1002,
+    "Name": "シリウス第2章ガチャ",
+    "CardType": 1,
+    "GachaType": 1,
+    "GachaTextTemplateMasterId": 1002,
+    "StartDate": "2023-07-29T17:00:00.000Z",
+    "EndDate": "2023-08-10T17:00:00.000Z",
+    "BonusThings": [
       [
         100201,
         411002,
@@ -566,7 +522,7 @@
         1
       ]
     ],
-    [
+    "GachaDetails": [
       [
         100200,
         null,
@@ -673,7 +629,7 @@
         []
       ]
     ],
-    [
+    "Things": [
       [
         1002120010,
         120010,
@@ -1060,41 +1016,19 @@
         1
       ]
     ],
-    true,
-    null,
-    11003
-  ],
-  [
-    1003,
-    "god is no /w/ hereガチャ",
-    1,
-    1,
-    1003,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          100,
-          199,
-          232,
-          144
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          100,
-          213,
-          23,
-          144
-        ]
-      },
-      "type": 255
-    },
-    [
+    "HasMovie": true,
+    "StoryEventMasterId": null,
+    "AttentionGachaTextTemplateMasterId": 11003
+  },
+  {
+    "Id": 1003,
+    "Name": "god is no /w/ hereガチャ",
+    "CardType": 1,
+    "GachaType": 1,
+    "GachaTextTemplateMasterId": 1003,
+    "StartDate": "2023-07-31T17:00:00.000Z",
+    "EndDate": "2023-08-10T17:00:00.000Z",
+    "BonusThings": [
       [
         100301,
         411003,
@@ -1102,7 +1036,7 @@
         1
       ]
     ],
-    [
+    "GachaDetails": [
       [
         100300,
         null,
@@ -1209,7 +1143,7 @@
         []
       ]
     ],
-    [
+    "Things": [
       [
         1003120010,
         120010,
@@ -1603,42 +1537,20 @@
         2
       ]
     ],
-    true,
-    20001,
-    11003
-  ],
-  [
-    1900,
-    "★3以上確定ガチャ",
-    1,
-    2,
-    1900,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    },
-    [],
-    [
+    "HasMovie": true,
+    "StoryEventMasterId": 20001,
+    "AttentionGachaTextTemplateMasterId": 11003
+  },
+  {
+    "Id": 1900,
+    "Name": "★3以上確定ガチャ",
+    "CardType": 1,
+    "GachaType": 2,
+    "GachaTextTemplateMasterId": 1900,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": "2100-01-01T00:00:00.000Z",
+    "BonusThings": [],
+    "GachaDetails": [
       [
         190000,
         210101,
@@ -1654,7 +1566,7 @@
         []
       ]
     ],
-    [
+    "Things": [
       [
         1900130010,
         130010,
@@ -1887,42 +1799,20 @@
         null
       ]
     ],
-    false,
-    null,
-    11002
-  ],
-  [
-    1901,
-    "★4確定ガチャ",
-    1,
-    2,
-    1901,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    },
-    [],
-    [
+    "HasMovie": false,
+    "StoryEventMasterId": null,
+    "AttentionGachaTextTemplateMasterId": 11002
+  },
+  {
+    "Id": 1901,
+    "Name": "★4確定ガチャ",
+    "CardType": 1,
+    "GachaType": 2,
+    "GachaTextTemplateMasterId": 1901,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": "2100-01-01T00:00:00.000Z",
+    "BonusThings": [],
+    "GachaDetails": [
       [
         190100,
         210201,
@@ -1938,7 +1828,7 @@
         []
       ]
     ],
-    [
+    "Things": [
       [
         1901140020,
         140020,
@@ -2024,42 +1914,20 @@
         null
       ]
     ],
-    false,
-    null,
-    11002
-  ],
-  [
-    1902,
-    "★4一人以上確定10連ガチャ",
-    1,
-    2,
-    1902,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    },
-    [],
-    [
+    "HasMovie": false,
+    "StoryEventMasterId": null,
+    "AttentionGachaTextTemplateMasterId": 11002
+  },
+  {
+    "Id": 1902,
+    "Name": "★4一人以上確定10連ガチャ",
+    "CardType": 1,
+    "GachaType": 2,
+    "GachaTextTemplateMasterId": 1902,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": "2100-01-01T00:00:00.000Z",
+    "BonusThings": [],
+    "GachaDetails": [
       [
         190200,
         210202,
@@ -2075,7 +1943,7 @@
         []
       ]
     ],
-    [
+    "Things": [
       [
         1902120010,
         120010,
@@ -2455,41 +2323,19 @@
         null
       ]
     ],
-    false,
-    null,
-    11002
-  ],
-  [
-    2001,
-    "リリース記念ガチャ",
-    2,
-    1,
-    2001,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          100,
-          199,
-          232,
-          144
-        ]
-      },
-      "type": 255
-    },
-    [
+    "HasMovie": false,
+    "StoryEventMasterId": null,
+    "AttentionGachaTextTemplateMasterId": 11002
+  },
+  {
+    "Id": 2001,
+    "Name": "リリース記念ガチャ",
+    "CardType": 2,
+    "GachaType": 1,
+    "GachaTextTemplateMasterId": 2001,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": "2023-07-31T17:00:00.000Z",
+    "BonusThings": [
       [
         200101,
         412001,
@@ -2497,7 +2343,7 @@
         1
       ]
     ],
-    [
+    "GachaDetails": [
       [
         200100,
         null,
@@ -2604,7 +2450,7 @@
         []
       ]
     ],
-    [
+    "Things": [
       [
         2001210010,
         210010,
@@ -2921,41 +2767,19 @@
         null
       ]
     ],
-    true,
-    null,
-    12003
-  ],
-  [
-    2002,
-    "シリウス第2章ガチャ",
-    2,
-    1,
-    2002,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          100,
-          197,
-          69,
-          144
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          100,
-          213,
-          23,
-          144
-        ]
-      },
-      "type": 255
-    },
-    [
+    "HasMovie": true,
+    "StoryEventMasterId": null,
+    "AttentionGachaTextTemplateMasterId": 12003
+  },
+  {
+    "Id": 2002,
+    "Name": "シリウス第2章ガチャ",
+    "CardType": 2,
+    "GachaType": 1,
+    "GachaTextTemplateMasterId": 2002,
+    "StartDate": "2023-07-29T17:00:00.000Z",
+    "EndDate": "2023-08-10T17:00:00.000Z",
+    "BonusThings": [
       [
         200201,
         412002,
@@ -2963,7 +2787,7 @@
         1
       ]
     ],
-    [
+    "GachaDetails": [
       [
         200200,
         null,
@@ -3070,7 +2894,7 @@
         []
       ]
     ],
-    [
+    "Things": [
       [
         2002210010,
         210010,
@@ -3394,41 +3218,19 @@
         1
       ]
     ],
-    true,
-    null,
-    12003
-  ],
-  [
-    2003,
-    "暗き塔のラプンツェルガチャ",
-    2,
-    1,
-    2003,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          100,
-          199,
-          232,
-          144
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          100,
-          213,
-          23,
-          144
-        ]
-      },
-      "type": 255
-    },
-    [
+    "HasMovie": true,
+    "StoryEventMasterId": null,
+    "AttentionGachaTextTemplateMasterId": 12003
+  },
+  {
+    "Id": 2003,
+    "Name": "暗き塔のラプンツェルガチャ",
+    "CardType": 2,
+    "GachaType": 1,
+    "GachaTextTemplateMasterId": 2003,
+    "StartDate": "2023-07-31T17:00:00.000Z",
+    "EndDate": "2023-08-10T17:00:00.000Z",
+    "BonusThings": [
       [
         200301,
         412003,
@@ -3436,7 +3238,7 @@
         1
       ]
     ],
-    [
+    "GachaDetails": [
       [
         200300,
         null,
@@ -3543,7 +3345,7 @@
         []
       ]
     ],
-    [
+    "Things": [
       [
         2003210010,
         210010,
@@ -3867,42 +3669,20 @@
         1
       ]
     ],
-    true,
-    20001,
-    12003
-  ],
-  [
-    2900,
-    "SR以上確定ガチャ",
-    2,
-    2,
-    2900,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    },
-    [],
-    [
+    "HasMovie": true,
+    "StoryEventMasterId": 20001,
+    "AttentionGachaTextTemplateMasterId": 12003
+  },
+  {
+    "Id": 2900,
+    "Name": "SR以上確定ガチャ",
+    "CardType": 2,
+    "GachaType": 2,
+    "GachaTextTemplateMasterId": 2900,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": "2100-01-01T00:00:00.000Z",
+    "BonusThings": [],
+    "GachaDetails": [
       [
         290000,
         211101,
@@ -3918,7 +3698,7 @@
         []
       ]
     ],
-    [
+    "Things": [
       [
         2900220010,
         220010,
@@ -4088,42 +3868,20 @@
         null
       ]
     ],
-    false,
-    null,
-    12002
-  ],
-  [
-    2901,
-    "SSR確定ガチャ",
-    2,
-    2,
-    2901,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    },
-    [],
-    [
+    "HasMovie": false,
+    "StoryEventMasterId": null,
+    "AttentionGachaTextTemplateMasterId": 12002
+  },
+  {
+    "Id": 2901,
+    "Name": "SSR確定ガチャ",
+    "CardType": 2,
+    "GachaType": 2,
+    "GachaTextTemplateMasterId": 2901,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": "2100-01-01T00:00:00.000Z",
+    "BonusThings": [],
+    "GachaDetails": [
       [
         290100,
         211201,
@@ -4139,7 +3897,7 @@
         []
       ]
     ],
-    [
+    "Things": [
       [
         2901230010,
         230010,
@@ -4197,42 +3955,20 @@
         null
       ]
     ],
-    false,
-    null,
-    12002
-  ],
-  [
-    2902,
-    "SSR1枚以上確定10連ガチャ",
-    2,
-    2,
-    2902,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    },
-    [],
-    [
+    "HasMovie": false,
+    "StoryEventMasterId": null,
+    "AttentionGachaTextTemplateMasterId": 12002
+  },
+  {
+    "Id": 2902,
+    "Name": "SSR1枚以上確定10連ガチャ",
+    "CardType": 2,
+    "GachaType": 2,
+    "GachaTextTemplateMasterId": 2902,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": "2100-01-01T00:00:00.000Z",
+    "BonusThings": [],
+    "GachaDetails": [
       [
         290200,
         211202,
@@ -4248,7 +3984,7 @@
         []
       ]
     ],
-    [
+    "Things": [
       [
         2902210010,
         210010,
@@ -4565,8 +4301,8 @@
         null
       ]
     ],
-    false,
-    null,
-    12002
-  ]
+    "HasMovie": false,
+    "StoryEventMasterId": null,
+    "AttentionGachaTextTemplateMasterId": 12002
+  }
 ]

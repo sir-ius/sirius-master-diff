@@ -1,46 +1,13 @@
 [
-  [
-    20001,
-    1,
-    1,
-    "god is no /w/ here",
-    20001,
-    420001,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          100,
-          199,
-          232,
-          144
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          100,
-          210,
-          186,
-          224
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          100,
-          213,
-          23,
-          144
-        ]
-      },
-      "type": 255
-    }
-  ]
+  {
+    "Id": 20001,
+    "Category": 1,
+    "BonusAttribute": 1,
+    "Title": "god is no /w/ here",
+    "ExchangeShopMasterId": 20001,
+    "EventPointItemMasterId": 420001,
+    "StartDate": "2023-07-31T17:00:00.000Z",
+    "EndDate": "2023-08-08T22:00:00.000Z",
+    "ForceEndDate": "2023-08-10T17:00:00.000Z"
+  }
 ]

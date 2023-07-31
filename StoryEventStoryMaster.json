@@ -1,21 +1,10 @@
 [
-  [
-    20001,
-    20001,
-    20001,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          100,
-          213,
-          23,
-          144
-        ]
-      },
-      "type": 255
-    },
-    2,
-    true
-  ]
+  {
+    "Id": 20001,
+    "StoryMasterId": 20001,
+    "StoryEventMasterId": 20001,
+    "ListedStartDate": "2023-08-10T17:00:00.000Z",
+    "EventStoryListFlags": 2,
+    "IsKeyStory": true
+  }
 ]

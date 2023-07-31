@@ -1,72 +1,72 @@
 [
-  [
-    11,
-    "シリウス",
-    null,
-    1,
-    false,
-    false,
-    [],
-    "シリウスのメインストーリー第1章23話を読むことで獲得できます。"
-  ],
-  [
-    12,
-    "Eden",
-    null,
-    2,
-    false,
-    false,
-    [],
-    "Edenのメインストーリー第1章20話を読むことで獲得できます。"
-  ],
-  [
-    13,
-    "銀河座",
-    null,
-    3,
-    false,
-    false,
-    [],
-    "銀河座のメインストーリー第1章20話を読むことで獲得できます。"
-  ],
-  [
-    14,
-    "劇団電姫",
-    null,
-    4,
-    false,
-    false,
-    [],
-    "劇団電姫のメインストーリー第1章20話を読むことで獲得できます。"
-  ],
-  [
-    1103,
-    "カトリナ【BirthDay 2023】",
-    null,
-    1103,
-    true,
-    false,
-    [],
-    null
-  ],
-  [
-    9000,
-    "スター",
-    null,
-    5,
-    false,
-    false,
-    [],
-    "演劇リーグのCL6「スター」初回到達で獲得できます。"
-  ],
-  [
-    9001,
-    "ダイスター",
-    null,
-    6,
-    false,
-    false,
-    [
+  {
+    "Id": 11,
+    "Name": "シリウス",
+    "Description": null,
+    "Order": 1,
+    "Hidden": false,
+    "IsDefault": false,
+    "Details": [],
+    "UnlockText": "シリウスのメインストーリー第1章23話を読むことで獲得できます。"
+  },
+  {
+    "Id": 12,
+    "Name": "Eden",
+    "Description": null,
+    "Order": 2,
+    "Hidden": false,
+    "IsDefault": false,
+    "Details": [],
+    "UnlockText": "Edenのメインストーリー第1章20話を読むことで獲得できます。"
+  },
+  {
+    "Id": 13,
+    "Name": "銀河座",
+    "Description": null,
+    "Order": 3,
+    "Hidden": false,
+    "IsDefault": false,
+    "Details": [],
+    "UnlockText": "銀河座のメインストーリー第1章20話を読むことで獲得できます。"
+  },
+  {
+    "Id": 14,
+    "Name": "劇団電姫",
+    "Description": null,
+    "Order": 4,
+    "Hidden": false,
+    "IsDefault": false,
+    "Details": [],
+    "UnlockText": "劇団電姫のメインストーリー第1章20話を読むことで獲得できます。"
+  },
+  {
+    "Id": 1103,
+    "Name": "カトリナ【BirthDay 2023】",
+    "Description": null,
+    "Order": 1103,
+    "Hidden": true,
+    "IsDefault": false,
+    "Details": [],
+    "UnlockText": null
+  },
+  {
+    "Id": 9000,
+    "Name": "スター",
+    "Description": null,
+    "Order": 5,
+    "Hidden": false,
+    "IsDefault": false,
+    "Details": [],
+    "UnlockText": "演劇リーグのCL6「スター」初回到達で獲得できます。"
+  },
+  {
+    "Id": 9001,
+    "Name": "ダイスター",
+    "Description": null,
+    "Order": 6,
+    "Hidden": false,
+    "IsDefault": false,
+    "Details": [
       [
         9701,
         "ダイスター1",
@@ -86,6 +86,6 @@
         8
       ]
     ],
-    "演劇リーグのCL7「ダイスター」初回到達で獲得できます。"
-  ]
+    "UnlockText": "演劇リーグのCL7「ダイスター」初回到達で獲得できます。"
+  }
 ]

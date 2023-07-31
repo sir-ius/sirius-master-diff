@@ -1,219 +1,65 @@
 [
-  [
-    10000,
-    1,
-    999,
-    null,
-    0,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    10101,
-    1,
-    1,
-    null,
-    1,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    10102,
-    1,
-    1,
-    null,
-    2,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          100,
-          197,
-          69,
-          144
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    10201,
-    1,
-    2,
-    null,
-    1,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    10301,
-    1,
-    3,
-    null,
-    1,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    10401,
-    1,
-    4,
-    null,
-    1,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          99,
-          176,
-          205,
-          0
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          244,
-          134,
-          87,
-          0
-        ]
-      },
-      "type": 255
-    }
-  ],
-  [
-    20001,
-    2,
-    null,
-    20001,
-    0,
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          100,
-          199,
-          232,
-          144
-        ]
-      },
-      "type": 255
-    },
-    {
-      "buffer": {
-        "type": "Buffer",
-        "data": [
-          100,
-          213,
-          23,
-          144
-        ]
-      },
-      "type": 255
-    }
-  ]
+  {
+    "Id": 10000,
+    "Type": 1,
+    "CompanyMasterId": 999,
+    "EventMasterId": null,
+    "ChapterOrder": 0,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 10101,
+    "Type": 1,
+    "CompanyMasterId": 1,
+    "EventMasterId": null,
+    "ChapterOrder": 1,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 10102,
+    "Type": 1,
+    "CompanyMasterId": 1,
+    "EventMasterId": null,
+    "ChapterOrder": 2,
+    "DisplayStartAt": "2023-07-29T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 10201,
+    "Type": 1,
+    "CompanyMasterId": 2,
+    "EventMasterId": null,
+    "ChapterOrder": 1,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 10301,
+    "Type": 1,
+    "CompanyMasterId": 3,
+    "EventMasterId": null,
+    "ChapterOrder": 1,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 10401,
+    "Type": 1,
+    "CompanyMasterId": 4,
+    "EventMasterId": null,
+    "ChapterOrder": 1,
+    "DisplayStartAt": "2023-01-01T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 20001,
+    "Type": 2,
+    "CompanyMasterId": null,
+    "EventMasterId": 20001,
+    "ChapterOrder": 0,
+    "DisplayStartAt": "2023-07-31T17:00:00.000Z",
+    "DisplayEndAt": "2023-08-10T17:00:00.000Z"
+  }
 ]
