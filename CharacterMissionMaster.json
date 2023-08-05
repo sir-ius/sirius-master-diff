@@ -2054,7 +2054,7 @@
   {
     "Id": 10,
     "Title": "[:character]のスポットストーリーを[:param]話読もう",
-    "JumpType": null,
+    "JumpType": 13,
     "JumpValue": null,
     "Stages": [
       [

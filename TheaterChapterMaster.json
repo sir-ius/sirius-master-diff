@@ -1799,7 +1799,7 @@
       ]
     ],
     "EpisodeMasterId": null,
-    "RequiredReadEpisodeMasterId": 1010107,
+    "RequiredReadEpisodeMasterId": 0,
     "TheaterStoryMasterIds": [
       100101,
       100102,

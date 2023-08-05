@@ -3,23 +3,23 @@
     "Id": 1,
     "Phase": 1,
     "MissionPassMasterId": null,
-    "ClearPoint": 600,
+    "ClearPoint": 400,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
       [
         101,
-        120001,
+        130021,
         1,
-        50,
+        500,
         1,
         false
       ],
       [
         102,
-        120002,
-        1,
-        100,
+        0,
+        12,
+        50000,
         1,
         true
       ]
@@ -29,15 +29,15 @@
     "Id": 2,
     "Phase": 2,
     "MissionPassMasterId": null,
-    "ClearPoint": 1200,
+    "ClearPoint": 800,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
       [
         201,
-        510001,
+        130031,
         1,
-        1,
+        250,
         2,
         false
       ],
@@ -45,7 +45,7 @@
         202,
         0,
         13,
-        200,
+        250,
         2,
         true
       ]
@@ -55,7 +55,7 @@
     "Id": 3,
     "Phase": 3,
     "MissionPassMasterId": null,
-    "ClearPoint": 1800,
+    "ClearPoint": 1200,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
@@ -63,7 +63,7 @@
         301,
         130041,
         1,
-        20,
+        200,
         3,
         false
       ],
@@ -71,7 +71,7 @@
         302,
         0,
         12,
-        100000,
+        50000,
         3,
         true
       ]
@@ -81,15 +81,15 @@
     "Id": 4,
     "Phase": 4,
     "MissionPassMasterId": null,
-    "ClearPoint": 2400,
+    "ClearPoint": 1600,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
       [
         401,
-        0,
-        12,
-        50000,
+        130001,
+        1,
+        5,
         4,
         false
       ],
@@ -97,7 +97,7 @@
         402,
         0,
         13,
-        200,
+        250,
         4,
         true
       ]
@@ -107,21 +107,21 @@
     "Id": 5,
     "Phase": 5,
     "MissionPassMasterId": null,
-    "ClearPoint": 3000,
+    "ClearPoint": 2000,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
       [
         501,
-        130001,
-        1,
-        2,
+        0,
+        13,
+        50,
         5,
         false
       ],
       [
         502,
-        130051,
+        211001,
         1,
         5,
         5,
@@ -133,23 +133,23 @@
     "Id": 6,
     "Phase": 6,
     "MissionPassMasterId": null,
-    "ClearPoint": 3600,
+    "ClearPoint": 2400,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
       [
         601,
-        510001,
+        130022,
         1,
-        1,
+        500,
         6,
         false
       ],
       [
         602,
         0,
-        13,
-        200,
+        12,
+        50000,
         6,
         true
       ]
@@ -159,23 +159,23 @@
     "Id": 7,
     "Phase": 7,
     "MissionPassMasterId": null,
-    "ClearPoint": 4200,
+    "ClearPoint": 2800,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
       [
         701,
-        130041,
+        130032,
         1,
-        20,
+        250,
         7,
         false
       ],
       [
         702,
-        130041,
-        1,
-        200,
+        0,
+        13,
+        250,
         7,
         true
       ]
@@ -185,23 +185,23 @@
     "Id": 8,
     "Phase": 8,
     "MissionPassMasterId": null,
-    "ClearPoint": 4800,
+    "ClearPoint": 3200,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
       [
         801,
-        0,
-        12,
-        50000,
+        130061,
+        1,
+        300,
         8,
         false
       ],
       [
         802,
         0,
-        13,
-        200,
+        12,
+        50000,
         8,
         true
       ]
@@ -211,23 +211,23 @@
     "Id": 9,
     "Phase": 9,
     "MissionPassMasterId": null,
-    "ClearPoint": 5400,
+    "ClearPoint": 3600,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
       [
         901,
-        120001,
+        130001,
         1,
-        50,
+        5,
         9,
         false
       ],
       [
         902,
-        130091,
-        1,
-        15,
+        0,
+        13,
+        250,
         9,
         true
       ]
@@ -237,7 +237,7 @@
     "Id": 10,
     "Phase": 10,
     "MissionPassMasterId": null,
-    "ClearPoint": 6000,
+    "ClearPoint": 4000,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
@@ -245,15 +245,15 @@
         1001,
         0,
         13,
-        100,
+        50,
         10,
         false
       ],
       [
         1002,
-        0,
-        13,
-        200,
+        130051,
+        1,
+        20,
         10,
         true
       ]
@@ -263,15 +263,15 @@
     "Id": 11,
     "Phase": 11,
     "MissionPassMasterId": null,
-    "ClearPoint": 6600,
+    "ClearPoint": 4400,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
       [
         1101,
-        130041,
+        130023,
         1,
-        20,
+        500,
         11,
         false
       ],
@@ -279,7 +279,7 @@
         1102,
         0,
         12,
-        100000,
+        50000,
         11,
         true
       ]
@@ -289,15 +289,15 @@
     "Id": 12,
     "Phase": 12,
     "MissionPassMasterId": null,
-    "ClearPoint": 7200,
+    "ClearPoint": 4800,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
       [
         1201,
-        510001,
+        130033,
         1,
-        1,
+        250,
         12,
         false
       ],
@@ -315,13 +315,13 @@
     "Id": 13,
     "Phase": 13,
     "MissionPassMasterId": null,
-    "ClearPoint": 7800,
+    "ClearPoint": 5200,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
       [
         1301,
-        120001,
+        130042,
         1,
         50,
         13,
@@ -329,9 +329,9 @@
       ],
       [
         1302,
-        120002,
-        1,
-        100,
+        0,
+        12,
+        50000,
         13,
         true
       ]
@@ -341,7 +341,7 @@
     "Id": 14,
     "Phase": 14,
     "MissionPassMasterId": null,
-    "ClearPoint": 8400,
+    "ClearPoint": 5600,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
@@ -367,21 +367,21 @@
     "Id": 15,
     "Phase": 15,
     "MissionPassMasterId": null,
-    "ClearPoint": 9000,
+    "ClearPoint": 6000,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
       [
         1501,
-        130001,
-        1,
-        2,
+        0,
+        13,
+        50,
         15,
         false
       ],
       [
         1502,
-        130051,
+        211001,
         1,
         5,
         15,
@@ -393,23 +393,23 @@
     "Id": 16,
     "Phase": 16,
     "MissionPassMasterId": null,
-    "ClearPoint": 9600,
+    "ClearPoint": 6400,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
       [
         1601,
-        130091,
+        130024,
         1,
-        5,
+        500,
         16,
         false
       ],
       [
         1602,
         0,
-        13,
-        250,
+        12,
+        50000,
         16,
         true
       ]
@@ -419,23 +419,23 @@
     "Id": 17,
     "Phase": 17,
     "MissionPassMasterId": null,
-    "ClearPoint": 10200,
+    "ClearPoint": 6800,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
       [
         1701,
-        120001,
+        130034,
         1,
-        50,
+        250,
         17,
         false
       ],
       [
         1702,
-        130091,
-        1,
-        15,
+        0,
+        13,
+        250,
         17,
         true
       ]
@@ -445,23 +445,23 @@
     "Id": 18,
     "Phase": 18,
     "MissionPassMasterId": null,
-    "ClearPoint": 10800,
+    "ClearPoint": 7200,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
       [
         1801,
-        0,
-        12,
-        50000,
+        130062,
+        1,
+        100,
         18,
         false
       ],
       [
         1802,
         0,
-        13,
-        250,
+        12,
+        50000,
         18,
         true
       ]
@@ -471,23 +471,23 @@
     "Id": 19,
     "Phase": 19,
     "MissionPassMasterId": null,
-    "ClearPoint": 11400,
+    "ClearPoint": 7600,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
       [
         1901,
-        130041,
-        1,
-        20,
+        0,
+        12,
+        50000,
         19,
         false
       ],
       [
         1902,
         0,
-        12,
-        100000,
+        13,
+        250,
         19,
         true
       ]
@@ -497,7 +497,7 @@
     "Id": 20,
     "Phase": 20,
     "MissionPassMasterId": null,
-    "ClearPoint": 12000,
+    "ClearPoint": 8000,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
@@ -505,7 +505,7 @@
         2001,
         0,
         13,
-        100,
+        50,
         20,
         false
       ],
@@ -523,23 +523,23 @@
     "Id": 21,
     "Phase": 21,
     "MissionPassMasterId": null,
-    "ClearPoint": 12600,
+    "ClearPoint": 8400,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
       [
         2101,
-        120001,
+        120002,
         1,
-        50,
+        30,
         21,
         false
       ],
       [
         2102,
-        120002,
-        1,
-        100,
+        0,
+        12,
+        50000,
         21,
         true
       ]
@@ -549,15 +549,15 @@
     "Id": 22,
     "Phase": 22,
     "MissionPassMasterId": null,
-    "ClearPoint": 13200,
+    "ClearPoint": 8800,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
       [
         2201,
-        510001,
+        130043,
         1,
-        1,
+        20,
         22,
         false
       ],
@@ -575,23 +575,23 @@
     "Id": 23,
     "Phase": 23,
     "MissionPassMasterId": null,
-    "ClearPoint": 13800,
+    "ClearPoint": 9200,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
       [
         2301,
-        130042,
-        1,
-        20,
+        0,
+        12,
+        50000,
         23,
         false
       ],
       [
         2302,
-        510003,
-        1,
-        2,
+        0,
+        12,
+        50000,
         23,
         true
       ]
@@ -601,15 +601,15 @@
     "Id": 24,
     "Phase": 24,
     "MissionPassMasterId": null,
-    "ClearPoint": 14400,
+    "ClearPoint": 9600,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
       [
         2401,
-        0,
-        12,
-        50000,
+        510001,
+        1,
+        2,
         24,
         false
       ],
@@ -627,13 +627,13 @@
     "Id": 25,
     "Phase": 25,
     "MissionPassMasterId": null,
-    "ClearPoint": 15000,
+    "ClearPoint": 10000,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
       [
         2501,
-        130001,
+        130013,
         1,
         2,
         25,
@@ -641,7 +641,7 @@
       ],
       [
         2502,
-        130051,
+        211001,
         1,
         5,
         25,
@@ -653,23 +653,23 @@
     "Id": 26,
     "Phase": 26,
     "MissionPassMasterId": null,
-    "ClearPoint": 15600,
+    "ClearPoint": 10400,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
       [
         2601,
-        510002,
+        120003,
         1,
-        1,
+        5,
         26,
         false
       ],
       [
         2602,
         0,
-        13,
-        250,
+        12,
+        50000,
         26,
         true
       ]
@@ -679,23 +679,23 @@
     "Id": 27,
     "Phase": 27,
     "MissionPassMasterId": null,
-    "ClearPoint": 16200,
+    "ClearPoint": 10800,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
       [
         2701,
-        130042,
+        130063,
         1,
-        20,
+        100,
         27,
         false
       ],
       [
         2702,
-        130042,
-        1,
-        200,
+        0,
+        13,
+        250,
         27,
         true
       ]
@@ -705,7 +705,7 @@
     "Id": 28,
     "Phase": 28,
     "MissionPassMasterId": null,
-    "ClearPoint": 16800,
+    "ClearPoint": 11200,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
@@ -720,8 +720,8 @@
       [
         2802,
         0,
-        13,
-        250,
+        12,
+        50000,
         28,
         true
       ]
@@ -731,23 +731,23 @@
     "Id": 29,
     "Phase": 29,
     "MissionPassMasterId": null,
-    "ClearPoint": 17400,
+    "ClearPoint": 11600,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
       [
         2901,
-        120001,
+        510002,
         1,
-        50,
+        2,
         29,
         false
       ],
       [
         2902,
-        130091,
-        1,
-        15,
+        0,
+        13,
+        250,
         29,
         true
       ]
@@ -757,7 +757,7 @@
     "Id": 30,
     "Phase": 30,
     "MissionPassMasterId": null,
-    "ClearPoint": 18000,
+    "ClearPoint": 12000,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
@@ -765,7 +765,7 @@
         3001,
         0,
         13,
-        100,
+        50,
         30,
         false
       ],
@@ -783,7 +783,7 @@
     "Id": 31,
     "Phase": 31,
     "MissionPassMasterId": null,
-    "ClearPoint": 18600,
+    "ClearPoint": 12400,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
@@ -791,15 +791,15 @@
         3101,
         130042,
         1,
-        20,
+        50,
         31,
         false
       ],
       [
         3102,
-        120002,
-        1,
-        100,
+        0,
+        12,
+        50000,
         31,
         true
       ]
@@ -809,15 +809,15 @@
     "Id": 32,
     "Phase": 32,
     "MissionPassMasterId": null,
-    "ClearPoint": 19200,
+    "ClearPoint": 12800,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
       [
         3201,
-        510002,
-        1,
-        1,
+        0,
+        12,
+        75000,
         32,
         false
       ],
@@ -835,15 +835,15 @@
     "Id": 33,
     "Phase": 33,
     "MissionPassMasterId": null,
-    "ClearPoint": 19800,
+    "ClearPoint": 13200,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
       [
         3301,
-        120001,
+        130051,
         1,
-        50,
+        2,
         33,
         false
       ],
@@ -851,7 +851,7 @@
         3302,
         0,
         12,
-        100000,
+        50000,
         33,
         true
       ]
@@ -861,15 +861,15 @@
     "Id": 34,
     "Phase": 34,
     "MissionPassMasterId": null,
-    "ClearPoint": 20400,
+    "ClearPoint": 13600,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
       [
         3401,
-        0,
-        12,
-        50000,
+        130091,
+        1,
+        10,
         34,
         false
       ],
@@ -887,21 +887,21 @@
     "Id": 35,
     "Phase": 35,
     "MissionPassMasterId": null,
-    "ClearPoint": 21000,
+    "ClearPoint": 14000,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
       [
         3501,
-        130001,
-        1,
-        2,
+        0,
+        13,
+        100,
         35,
         false
       ],
       [
         3502,
-        130051,
+        211001,
         1,
         5,
         35,
@@ -913,23 +913,23 @@
     "Id": 36,
     "Phase": 36,
     "MissionPassMasterId": null,
-    "ClearPoint": 21600,
+    "ClearPoint": 14400,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
       [
         3601,
-        130091,
+        120002,
         1,
-        5,
+        30,
         36,
         false
       ],
       [
         3602,
         0,
-        13,
-        250,
+        12,
+        50000,
         36,
         true
       ]
@@ -939,23 +939,23 @@
     "Id": 37,
     "Phase": 37,
     "MissionPassMasterId": null,
-    "ClearPoint": 22200,
+    "ClearPoint": 14800,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
       [
         3701,
-        120001,
+        130062,
         1,
-        50,
+        100,
         37,
         false
       ],
       [
         3702,
-        130091,
-        1,
-        15,
+        0,
+        13,
+        250,
         37,
         true
       ]
@@ -965,7 +965,7 @@
     "Id": 38,
     "Phase": 38,
     "MissionPassMasterId": null,
-    "ClearPoint": 22800,
+    "ClearPoint": 15200,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
@@ -973,15 +973,15 @@
         3801,
         0,
         12,
-        50000,
+        75000,
         38,
         false
       ],
       [
         3802,
         0,
-        13,
-        250,
+        12,
+        50000,
         38,
         true
       ]
@@ -991,23 +991,23 @@
     "Id": 39,
     "Phase": 39,
     "MissionPassMasterId": null,
-    "ClearPoint": 23400,
+    "ClearPoint": 15600,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
       [
         3901,
-        130042,
+        510001,
         1,
-        20,
+        2,
         39,
         false
       ],
       [
         3902,
         0,
-        12,
-        100000,
+        13,
+        250,
         39,
         true
       ]
@@ -1017,7 +1017,7 @@
     "Id": 40,
     "Phase": 40,
     "MissionPassMasterId": null,
-    "ClearPoint": 24000,
+    "ClearPoint": 16000,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
@@ -1025,7 +1025,7 @@
         4001,
         0,
         13,
-        100,
+        50,
         40,
         false
       ],
@@ -1043,23 +1043,23 @@
     "Id": 41,
     "Phase": 41,
     "MissionPassMasterId": null,
-    "ClearPoint": 24600,
+    "ClearPoint": 16400,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
       [
         4101,
-        120001,
+        120003,
         1,
-        50,
+        5,
         41,
         false
       ],
       [
         4102,
-        120002,
-        1,
-        100,
+        0,
+        12,
+        50000,
         41,
         true
       ]
@@ -1069,15 +1069,15 @@
     "Id": 42,
     "Phase": 42,
     "MissionPassMasterId": null,
-    "ClearPoint": 25200,
+    "ClearPoint": 16800,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
       [
         4201,
-        510002,
+        130043,
         1,
-        1,
+        30,
         42,
         false
       ],
@@ -1095,23 +1095,23 @@
     "Id": 43,
     "Phase": 43,
     "MissionPassMasterId": null,
-    "ClearPoint": 25800,
+    "ClearPoint": 17200,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
       [
         4301,
-        130043,
-        1,
-        10,
+        0,
+        12,
+        75000,
         43,
         false
       ],
       [
         4302,
-        510003,
-        1,
-        2,
+        0,
+        12,
+        50000,
         43,
         true
       ]
@@ -1121,15 +1121,15 @@
     "Id": 44,
     "Phase": 44,
     "MissionPassMasterId": null,
-    "ClearPoint": 26400,
+    "ClearPoint": 17600,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
       [
         4401,
-        0,
-        12,
-        50000,
+        510002,
+        1,
+        2,
         44,
         false
       ],
@@ -1147,23 +1147,23 @@
     "Id": 45,
     "Phase": 45,
     "MissionPassMasterId": null,
-    "ClearPoint": 27000,
+    "ClearPoint": 18000,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
       [
         4501,
-        130001,
-        1,
-        2,
+        0,
+        13,
+        100,
         45,
         false
       ],
       [
         4502,
-        130051,
+        130091,
         1,
-        10,
+        50,
         45,
         true
       ]
@@ -1173,23 +1173,23 @@
     "Id": 46,
     "Phase": 46,
     "MissionPassMasterId": null,
-    "ClearPoint": 27600,
+    "ClearPoint": 18400,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
       [
         4601,
-        510002,
+        510003,
         1,
-        1,
+        2,
         46,
         false
       ],
       [
         4602,
         0,
-        13,
-        250,
+        12,
+        50000,
         46,
         true
       ]
@@ -1199,23 +1199,23 @@
     "Id": 47,
     "Phase": 47,
     "MissionPassMasterId": null,
-    "ClearPoint": 28200,
+    "ClearPoint": 18800,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
       [
         4701,
-        130043,
-        1,
-        10,
+        0,
+        12,
+        75000,
         47,
         false
       ],
       [
         4702,
-        130043,
-        1,
-        100,
+        0,
+        13,
+        250,
         47,
         true
       ]
@@ -1225,23 +1225,23 @@
     "Id": 48,
     "Phase": 48,
     "MissionPassMasterId": null,
-    "ClearPoint": 28800,
+    "ClearPoint": 19200,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
       [
         4801,
-        0,
-        12,
-        50000,
+        130051,
+        1,
+        3,
         48,
         false
       ],
       [
         4802,
         0,
-        13,
-        250,
+        12,
+        50000,
         48,
         true
       ]
@@ -1251,23 +1251,23 @@
     "Id": 49,
     "Phase": 49,
     "MissionPassMasterId": null,
-    "ClearPoint": 29400,
+    "ClearPoint": 19600,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
       [
         4901,
-        120001,
+        130091,
         1,
-        50,
+        10,
         49,
         false
       ],
       [
         4902,
-        130091,
-        1,
-        15,
+        0,
+        13,
+        250,
         49,
         true
       ]
@@ -1277,15 +1277,15 @@
     "Id": 50,
     "Phase": 50,
     "MissionPassMasterId": null,
-    "ClearPoint": 30000,
+    "ClearPoint": 20000,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
       [
         5001,
-        0,
-        13,
-        100,
+        130013,
+        1,
+        3,
         50,
         false
       ],
@@ -1303,7 +1303,7 @@
     "Id": 120,
     "Phase": 20,
     "MissionPassMasterId": 1,
-    "ClearPoint": 12000,
+    "ClearPoint": 8000,
     "StartDate": "1970-01-01T00:00:00.000Z",
     "EndDate": "1970-01-01T00:00:00.000Z",
     "Rewards": [
@@ -1311,7 +1311,7 @@
         12001,
         0,
         13,
-        100,
+        50,
         120,
         false
       ],
@@ -1329,7 +1329,7 @@
     "Id": 130,
     "Phase": 30,
     "MissionPassMasterId": 1,
-    "ClearPoint": 18000,
+    "ClearPoint": 12000,
     "StartDate": "1970-01-01T00:00:00.000Z",
     "EndDate": "1970-01-01T00:00:00.000Z",
     "Rewards": [
@@ -1337,7 +1337,7 @@
         13001,
         0,
         13,
-        100,
+        50,
         130,
         false
       ],
@@ -1355,7 +1355,7 @@
     "Id": 140,
     "Phase": 40,
     "MissionPassMasterId": 1,
-    "ClearPoint": 24000,
+    "ClearPoint": 16000,
     "StartDate": "1970-01-01T00:00:00.000Z",
     "EndDate": "1970-01-01T00:00:00.000Z",
     "Rewards": [
@@ -1363,7 +1363,7 @@
         14001,
         0,
         13,
-        100,
+        50,
         140,
         false
       ],
@@ -1381,15 +1381,15 @@
     "Id": 150,
     "Phase": 50,
     "MissionPassMasterId": 1,
-    "ClearPoint": 30000,
+    "ClearPoint": 20000,
     "StartDate": "1970-01-01T00:00:00.000Z",
     "EndDate": "1970-01-01T00:00:00.000Z",
     "Rewards": [
       [
         15001,
-        0,
-        13,
-        100,
+        130013,
+        1,
+        3,
         150,
         false
       ],
