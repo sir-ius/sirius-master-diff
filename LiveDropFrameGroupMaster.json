@@ -2,2467 +2,2467 @@
   {
     "Id": 1,
     "DropFrames": [
-      [
-        101,
-        1,
-        1,
-        0,
-        0,
-        false,
-        [
-          [
-            130021,
-            1,
-            1,
-            false,
-            false
-          ],
-          [
-            130022,
-            1,
-            1,
-            false,
-            false
-          ],
-          [
-            130023,
-            1,
-            1,
-            false,
-            false
-          ],
-          [
-            130024,
-            1,
-            1,
-            false,
-            false
-          ],
-          [
-            130021,
-            1,
-            2,
-            false,
-            false
-          ],
-          [
-            130022,
-            1,
-            2,
-            false,
-            false
-          ],
-          [
-            130023,
-            1,
-            2,
-            false,
-            false
-          ],
-          [
-            130024,
-            1,
-            2,
-            false,
-            false
-          ],
-          [
-            130021,
-            1,
-            3,
-            false,
-            false
-          ],
-          [
-            130022,
-            1,
-            3,
-            false,
-            false
-          ],
-          [
-            130023,
-            1,
-            3,
-            false,
-            false
-          ],
-          [
-            130024,
-            1,
-            3,
-            false,
-            false
-          ]
+      {
+        "Id": 101,
+        "LiveDropFrameGroupMasterId": 1,
+        "Order": 1,
+        "ChangeType": 0,
+        "FrameLotCondition": 0,
+        "UnaffectedIncreaseEffect": false,
+        "Rewards": [
+          {
+            "ThingId": 130021,
+            "ThingType": 1,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130022,
+            "ThingType": 1,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130023,
+            "ThingType": 1,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130024,
+            "ThingType": 1,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130021,
+            "ThingType": 1,
+            "ThingQuantity": 2,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130022,
+            "ThingType": 1,
+            "ThingQuantity": 2,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130023,
+            "ThingType": 1,
+            "ThingQuantity": 2,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130024,
+            "ThingType": 1,
+            "ThingQuantity": 2,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130021,
+            "ThingType": 1,
+            "ThingQuantity": 3,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130022,
+            "ThingType": 1,
+            "ThingQuantity": 3,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130023,
+            "ThingType": 1,
+            "ThingQuantity": 3,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130024,
+            "ThingType": 1,
+            "ThingQuantity": 3,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          }
         ],
-        null
-      ],
-      [
-        102,
-        1,
-        2,
-        0,
-        0,
-        false,
-        [
-          [
-            130021,
-            1,
-            1,
-            false,
-            false
-          ],
-          [
-            130022,
-            1,
-            1,
-            false,
-            false
-          ],
-          [
-            130023,
-            1,
-            1,
-            false,
-            false
-          ],
-          [
-            130024,
-            1,
-            1,
-            false,
-            false
-          ],
-          [
-            130021,
-            1,
-            2,
-            false,
-            false
-          ],
-          [
-            130022,
-            1,
-            2,
-            false,
-            false
-          ],
-          [
-            130023,
-            1,
-            2,
-            false,
-            false
-          ],
-          [
-            130024,
-            1,
-            2,
-            false,
-            false
-          ],
-          [
-            130021,
-            1,
-            3,
-            false,
-            false
-          ],
-          [
-            130022,
-            1,
-            3,
-            false,
-            false
-          ],
-          [
-            130023,
-            1,
-            3,
-            false,
-            false
-          ],
-          [
-            130024,
-            1,
-            3,
-            false,
-            false
-          ]
+        "FrameLotConditionValue": null
+      },
+      {
+        "Id": 102,
+        "LiveDropFrameGroupMasterId": 1,
+        "Order": 2,
+        "ChangeType": 0,
+        "FrameLotCondition": 0,
+        "UnaffectedIncreaseEffect": false,
+        "Rewards": [
+          {
+            "ThingId": 130021,
+            "ThingType": 1,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130022,
+            "ThingType": 1,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130023,
+            "ThingType": 1,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130024,
+            "ThingType": 1,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130021,
+            "ThingType": 1,
+            "ThingQuantity": 2,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130022,
+            "ThingType": 1,
+            "ThingQuantity": 2,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130023,
+            "ThingType": 1,
+            "ThingQuantity": 2,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130024,
+            "ThingType": 1,
+            "ThingQuantity": 2,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130021,
+            "ThingType": 1,
+            "ThingQuantity": 3,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130022,
+            "ThingType": 1,
+            "ThingQuantity": 3,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130023,
+            "ThingType": 1,
+            "ThingQuantity": 3,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130024,
+            "ThingType": 1,
+            "ThingQuantity": 3,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          }
         ],
-        null
-      ],
-      [
-        103,
-        1,
-        3,
-        0,
-        1,
-        false,
-        [
-          [
-            120001,
-            1,
-            1,
-            false,
-            false
-          ],
-          [
-            120001,
-            1,
-            2,
-            false,
-            false
-          ],
-          [
-            120001,
-            1,
-            3,
-            false,
-            false
-          ]
+        "FrameLotConditionValue": null
+      },
+      {
+        "Id": 103,
+        "LiveDropFrameGroupMasterId": 1,
+        "Order": 3,
+        "ChangeType": 0,
+        "FrameLotCondition": 1,
+        "UnaffectedIncreaseEffect": false,
+        "Rewards": [
+          {
+            "ThingId": 120001,
+            "ThingType": 1,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 120001,
+            "ThingType": 1,
+            "ThingQuantity": 2,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 120001,
+            "ThingType": 1,
+            "ThingQuantity": 3,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          }
         ],
-        null
-      ],
-      [
-        104,
-        1,
-        4,
-        0,
-        2,
-        false,
-        [
-          [
-            120001,
-            1,
-            1,
-            false,
-            false
-          ],
-          [
-            120001,
-            1,
-            2,
-            false,
-            false
-          ],
-          [
-            120001,
-            1,
-            3,
-            false,
-            false
-          ]
+        "FrameLotConditionValue": null
+      },
+      {
+        "Id": 104,
+        "LiveDropFrameGroupMasterId": 1,
+        "Order": 4,
+        "ChangeType": 0,
+        "FrameLotCondition": 2,
+        "UnaffectedIncreaseEffect": false,
+        "Rewards": [
+          {
+            "ThingId": 120001,
+            "ThingType": 1,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 120001,
+            "ThingType": 1,
+            "ThingQuantity": 2,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 120001,
+            "ThingType": 1,
+            "ThingQuantity": 3,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          }
         ],
-        10000
-      ],
-      [
-        105,
-        1,
-        5,
-        0,
-        2,
-        false,
-        [
-          [
-            130031,
-            1,
-            1,
-            false,
-            false
-          ],
-          [
-            130032,
-            1,
-            1,
-            false,
-            false
-          ],
-          [
-            130033,
-            1,
-            1,
-            false,
-            false
-          ],
-          [
-            130034,
-            1,
-            1,
-            false,
-            false
-          ],
-          [
-            130031,
-            1,
-            2,
-            false,
-            false
-          ],
-          [
-            130032,
-            1,
-            2,
-            false,
-            false
-          ],
-          [
-            130033,
-            1,
-            2,
-            false,
-            false
-          ],
-          [
-            130034,
-            1,
-            2,
-            false,
-            false
-          ],
-          [
-            130031,
-            1,
-            3,
-            false,
-            false
-          ],
-          [
-            130032,
-            1,
-            3,
-            false,
-            false
-          ],
-          [
-            130033,
-            1,
-            3,
-            false,
-            false
-          ],
-          [
-            130034,
-            1,
-            3,
-            false,
-            false
-          ]
+        "FrameLotConditionValue": 10000
+      },
+      {
+        "Id": 105,
+        "LiveDropFrameGroupMasterId": 1,
+        "Order": 5,
+        "ChangeType": 0,
+        "FrameLotCondition": 2,
+        "UnaffectedIncreaseEffect": false,
+        "Rewards": [
+          {
+            "ThingId": 130031,
+            "ThingType": 1,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130032,
+            "ThingType": 1,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130033,
+            "ThingType": 1,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130034,
+            "ThingType": 1,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130031,
+            "ThingType": 1,
+            "ThingQuantity": 2,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130032,
+            "ThingType": 1,
+            "ThingQuantity": 2,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130033,
+            "ThingType": 1,
+            "ThingQuantity": 2,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130034,
+            "ThingType": 1,
+            "ThingQuantity": 2,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130031,
+            "ThingType": 1,
+            "ThingQuantity": 3,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130032,
+            "ThingType": 1,
+            "ThingQuantity": 3,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130033,
+            "ThingType": 1,
+            "ThingQuantity": 3,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130034,
+            "ThingType": 1,
+            "ThingQuantity": 3,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          }
         ],
-        30000
-      ]
+        "FrameLotConditionValue": 30000
+      }
     ]
   },
   {
     "Id": 2,
     "DropFrames": [
-      [
-        201,
-        2,
-        1,
-        0,
-        0,
-        true,
-        [
-          [
-            0,
-            13,
-            30,
-            false,
-            false
-          ]
+      {
+        "Id": 201,
+        "LiveDropFrameGroupMasterId": 2,
+        "Order": 1,
+        "ChangeType": 0,
+        "FrameLotCondition": 0,
+        "UnaffectedIncreaseEffect": true,
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 30,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          }
         ],
-        null
-      ],
-      [
-        202,
-        2,
-        2,
-        0,
-        0,
-        true,
-        [
-          [
-            120002,
-            1,
-            50,
-            false,
-            false
-          ]
+        "FrameLotConditionValue": null
+      },
+      {
+        "Id": 202,
+        "LiveDropFrameGroupMasterId": 2,
+        "Order": 2,
+        "ChangeType": 0,
+        "FrameLotCondition": 0,
+        "UnaffectedIncreaseEffect": true,
+        "Rewards": [
+          {
+            "ThingId": 120002,
+            "ThingType": 1,
+            "ThingQuantity": 50,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          }
         ],
-        null
-      ],
-      [
-        203,
-        2,
-        3,
-        0,
-        0,
-        true,
-        [
-          [
-            130021,
-            1,
-            300,
-            false,
-            false
-          ],
-          [
-            130022,
-            1,
-            300,
-            false,
-            false
-          ],
-          [
-            130023,
-            1,
-            300,
-            false,
-            false
-          ],
-          [
-            130024,
-            1,
-            300,
-            false,
-            false
-          ]
+        "FrameLotConditionValue": null
+      },
+      {
+        "Id": 203,
+        "LiveDropFrameGroupMasterId": 2,
+        "Order": 3,
+        "ChangeType": 0,
+        "FrameLotCondition": 0,
+        "UnaffectedIncreaseEffect": true,
+        "Rewards": [
+          {
+            "ThingId": 130021,
+            "ThingType": 1,
+            "ThingQuantity": 300,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130022,
+            "ThingType": 1,
+            "ThingQuantity": 300,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130023,
+            "ThingType": 1,
+            "ThingQuantity": 300,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130024,
+            "ThingType": 1,
+            "ThingQuantity": 300,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          }
         ],
-        null
-      ],
-      [
-        204,
-        2,
-        4,
-        0,
-        0,
-        true,
-        [
-          [
-            130031,
-            1,
-            100,
-            false,
-            false
-          ],
-          [
-            130032,
-            1,
-            100,
-            false,
-            false
-          ],
-          [
-            130033,
-            1,
-            100,
-            false,
-            false
-          ],
-          [
-            130034,
-            1,
-            100,
-            false,
-            false
-          ]
+        "FrameLotConditionValue": null
+      },
+      {
+        "Id": 204,
+        "LiveDropFrameGroupMasterId": 2,
+        "Order": 4,
+        "ChangeType": 0,
+        "FrameLotCondition": 0,
+        "UnaffectedIncreaseEffect": true,
+        "Rewards": [
+          {
+            "ThingId": 130031,
+            "ThingType": 1,
+            "ThingQuantity": 100,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130032,
+            "ThingType": 1,
+            "ThingQuantity": 100,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130033,
+            "ThingType": 1,
+            "ThingQuantity": 100,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130034,
+            "ThingType": 1,
+            "ThingQuantity": 100,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          }
         ],
-        null
-      ],
-      [
-        205,
-        2,
-        5,
-        0,
-        0,
-        true,
-        [
-          [
-            130051,
-            1,
-            1,
-            false,
-            false
-          ]
+        "FrameLotConditionValue": null
+      },
+      {
+        "Id": 205,
+        "LiveDropFrameGroupMasterId": 2,
+        "Order": 5,
+        "ChangeType": 0,
+        "FrameLotCondition": 0,
+        "UnaffectedIncreaseEffect": true,
+        "Rewards": [
+          {
+            "ThingId": 130051,
+            "ThingType": 1,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          }
         ],
-        null
-      ],
-      [
-        206,
-        2,
-        6,
-        0,
-        0,
-        true,
-        [
-          [
-            510001,
-            1,
-            1,
-            false,
-            false
-          ],
-          [
-            510002,
-            1,
-            1,
-            false,
-            false
-          ],
-          [
-            510003,
-            1,
-            1,
-            false,
-            false
-          ]
+        "FrameLotConditionValue": null
+      },
+      {
+        "Id": 206,
+        "LiveDropFrameGroupMasterId": 2,
+        "Order": 6,
+        "ChangeType": 0,
+        "FrameLotCondition": 0,
+        "UnaffectedIncreaseEffect": true,
+        "Rewards": [
+          {
+            "ThingId": 510001,
+            "ThingType": 1,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 510002,
+            "ThingType": 1,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 510003,
+            "ThingType": 1,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          }
         ],
-        null
-      ],
-      [
-        207,
-        2,
-        7,
-        0,
-        0,
-        true,
-        [
-          [
-            510001,
-            1,
-            1,
-            false,
-            false
-          ],
-          [
-            510002,
-            1,
-            1,
-            false,
-            false
-          ],
-          [
-            510003,
-            1,
-            1,
-            false,
-            false
-          ]
+        "FrameLotConditionValue": null
+      },
+      {
+        "Id": 207,
+        "LiveDropFrameGroupMasterId": 2,
+        "Order": 7,
+        "ChangeType": 0,
+        "FrameLotCondition": 0,
+        "UnaffectedIncreaseEffect": true,
+        "Rewards": [
+          {
+            "ThingId": 510001,
+            "ThingType": 1,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 510002,
+            "ThingType": 1,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 510003,
+            "ThingType": 1,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          }
         ],
-        null
-      ],
-      [
-        208,
-        2,
-        8,
-        0,
-        0,
-        true,
-        [
-          [
-            130091,
-            1,
-            2,
-            false,
-            false
-          ]
+        "FrameLotConditionValue": null
+      },
+      {
+        "Id": 208,
+        "LiveDropFrameGroupMasterId": 2,
+        "Order": 8,
+        "ChangeType": 0,
+        "FrameLotCondition": 0,
+        "UnaffectedIncreaseEffect": true,
+        "Rewards": [
+          {
+            "ThingId": 130091,
+            "ThingType": 1,
+            "ThingQuantity": 2,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          }
         ],
-        null
-      ],
-      [
-        209,
-        2,
-        9,
-        0,
-        0,
-        true,
-        [
-          [
-            130012,
-            1,
-            1,
-            false,
-            false
-          ]
+        "FrameLotConditionValue": null
+      },
+      {
+        "Id": 209,
+        "LiveDropFrameGroupMasterId": 2,
+        "Order": 9,
+        "ChangeType": 0,
+        "FrameLotCondition": 0,
+        "UnaffectedIncreaseEffect": true,
+        "Rewards": [
+          {
+            "ThingId": 130012,
+            "ThingType": 1,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          }
         ],
-        null
-      ]
+        "FrameLotConditionValue": null
+      }
     ]
   },
   {
     "Id": 11,
     "DropFrames": [
-      [
-        1101,
-        11,
-        1,
-        0,
-        0,
-        false,
-        [
-          [
-            130021,
-            1,
-            1,
-            false,
-            false
-          ],
-          [
-            130022,
-            1,
-            1,
-            false,
-            false
-          ],
-          [
-            130023,
-            1,
-            1,
-            false,
-            false
-          ],
-          [
-            130024,
-            1,
-            1,
-            false,
-            false
-          ],
-          [
-            130021,
-            1,
-            2,
-            false,
-            false
-          ],
-          [
-            130022,
-            1,
-            2,
-            false,
-            false
-          ],
-          [
-            130023,
-            1,
-            2,
-            false,
-            false
-          ],
-          [
-            130024,
-            1,
-            2,
-            false,
-            false
-          ],
-          [
-            130021,
-            1,
-            3,
-            false,
-            false
-          ],
-          [
-            130022,
-            1,
-            3,
-            false,
-            false
-          ],
-          [
-            130023,
-            1,
-            3,
-            false,
-            false
-          ],
-          [
-            130024,
-            1,
-            3,
-            false,
-            false
-          ]
+      {
+        "Id": 1101,
+        "LiveDropFrameGroupMasterId": 11,
+        "Order": 1,
+        "ChangeType": 0,
+        "FrameLotCondition": 0,
+        "UnaffectedIncreaseEffect": false,
+        "Rewards": [
+          {
+            "ThingId": 130021,
+            "ThingType": 1,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130022,
+            "ThingType": 1,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130023,
+            "ThingType": 1,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130024,
+            "ThingType": 1,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130021,
+            "ThingType": 1,
+            "ThingQuantity": 2,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130022,
+            "ThingType": 1,
+            "ThingQuantity": 2,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130023,
+            "ThingType": 1,
+            "ThingQuantity": 2,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130024,
+            "ThingType": 1,
+            "ThingQuantity": 2,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130021,
+            "ThingType": 1,
+            "ThingQuantity": 3,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130022,
+            "ThingType": 1,
+            "ThingQuantity": 3,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130023,
+            "ThingType": 1,
+            "ThingQuantity": 3,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130024,
+            "ThingType": 1,
+            "ThingQuantity": 3,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          }
         ],
-        null
-      ],
-      [
-        1102,
-        11,
-        2,
-        0,
-        0,
-        false,
-        [
-          [
-            130021,
-            1,
-            1,
-            false,
-            false
-          ],
-          [
-            130022,
-            1,
-            1,
-            false,
-            false
-          ],
-          [
-            130023,
-            1,
-            1,
-            false,
-            false
-          ],
-          [
-            130024,
-            1,
-            1,
-            false,
-            false
-          ],
-          [
-            130021,
-            1,
-            2,
-            false,
-            false
-          ],
-          [
-            130022,
-            1,
-            2,
-            false,
-            false
-          ],
-          [
-            130023,
-            1,
-            2,
-            false,
-            false
-          ],
-          [
-            130024,
-            1,
-            2,
-            false,
-            false
-          ],
-          [
-            130021,
-            1,
-            3,
-            false,
-            false
-          ],
-          [
-            130022,
-            1,
-            3,
-            false,
-            false
-          ],
-          [
-            130023,
-            1,
-            3,
-            false,
-            false
-          ],
-          [
-            130024,
-            1,
-            3,
-            false,
-            false
-          ]
+        "FrameLotConditionValue": null
+      },
+      {
+        "Id": 1102,
+        "LiveDropFrameGroupMasterId": 11,
+        "Order": 2,
+        "ChangeType": 0,
+        "FrameLotCondition": 0,
+        "UnaffectedIncreaseEffect": false,
+        "Rewards": [
+          {
+            "ThingId": 130021,
+            "ThingType": 1,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130022,
+            "ThingType": 1,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130023,
+            "ThingType": 1,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130024,
+            "ThingType": 1,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130021,
+            "ThingType": 1,
+            "ThingQuantity": 2,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130022,
+            "ThingType": 1,
+            "ThingQuantity": 2,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130023,
+            "ThingType": 1,
+            "ThingQuantity": 2,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130024,
+            "ThingType": 1,
+            "ThingQuantity": 2,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130021,
+            "ThingType": 1,
+            "ThingQuantity": 3,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130022,
+            "ThingType": 1,
+            "ThingQuantity": 3,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130023,
+            "ThingType": 1,
+            "ThingQuantity": 3,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130024,
+            "ThingType": 1,
+            "ThingQuantity": 3,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          }
         ],
-        null
-      ],
-      [
-        1103,
-        11,
-        3,
-        0,
-        1,
-        false,
-        [
-          [
-            120001,
-            1,
-            1,
-            false,
-            false
-          ],
-          [
-            120001,
-            1,
-            2,
-            false,
-            false
-          ],
-          [
-            120001,
-            1,
-            3,
-            false,
-            false
-          ]
+        "FrameLotConditionValue": null
+      },
+      {
+        "Id": 1103,
+        "LiveDropFrameGroupMasterId": 11,
+        "Order": 3,
+        "ChangeType": 0,
+        "FrameLotCondition": 1,
+        "UnaffectedIncreaseEffect": false,
+        "Rewards": [
+          {
+            "ThingId": 120001,
+            "ThingType": 1,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 120001,
+            "ThingType": 1,
+            "ThingQuantity": 2,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 120001,
+            "ThingType": 1,
+            "ThingQuantity": 3,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          }
         ],
-        null
-      ],
-      [
-        1104,
-        11,
-        4,
-        0,
-        2,
-        false,
-        [
-          [
-            120001,
-            1,
-            3,
-            false,
-            false
-          ],
-          [
-            120001,
-            1,
-            4,
-            false,
-            false
-          ],
-          [
-            120001,
-            1,
-            5,
-            false,
-            false
-          ]
+        "FrameLotConditionValue": null
+      },
+      {
+        "Id": 1104,
+        "LiveDropFrameGroupMasterId": 11,
+        "Order": 4,
+        "ChangeType": 0,
+        "FrameLotCondition": 2,
+        "UnaffectedIncreaseEffect": false,
+        "Rewards": [
+          {
+            "ThingId": 120001,
+            "ThingType": 1,
+            "ThingQuantity": 3,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 120001,
+            "ThingType": 1,
+            "ThingQuantity": 4,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 120001,
+            "ThingType": 1,
+            "ThingQuantity": 5,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          }
         ],
-        50000
-      ],
-      [
-        1105,
-        11,
-        5,
-        0,
-        2,
-        false,
-        [
-          [
-            130031,
-            1,
-            2,
-            false,
-            false
-          ],
-          [
-            130032,
-            1,
-            2,
-            false,
-            false
-          ],
-          [
-            130033,
-            1,
-            2,
-            false,
-            false
-          ],
-          [
-            130034,
-            1,
-            2,
-            false,
-            false
-          ],
-          [
-            130031,
-            1,
-            3,
-            false,
-            false
-          ],
-          [
-            130032,
-            1,
-            3,
-            false,
-            false
-          ],
-          [
-            130033,
-            1,
-            3,
-            false,
-            false
-          ],
-          [
-            130034,
-            1,
-            3,
-            false,
-            false
-          ],
-          [
-            130031,
-            1,
-            4,
-            false,
-            false
-          ],
-          [
-            130032,
-            1,
-            4,
-            false,
-            false
-          ],
-          [
-            130033,
-            1,
-            4,
-            false,
-            false
-          ],
-          [
-            130034,
-            1,
-            4,
-            false,
-            false
-          ]
+        "FrameLotConditionValue": 50000
+      },
+      {
+        "Id": 1105,
+        "LiveDropFrameGroupMasterId": 11,
+        "Order": 5,
+        "ChangeType": 0,
+        "FrameLotCondition": 2,
+        "UnaffectedIncreaseEffect": false,
+        "Rewards": [
+          {
+            "ThingId": 130031,
+            "ThingType": 1,
+            "ThingQuantity": 2,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130032,
+            "ThingType": 1,
+            "ThingQuantity": 2,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130033,
+            "ThingType": 1,
+            "ThingQuantity": 2,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130034,
+            "ThingType": 1,
+            "ThingQuantity": 2,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130031,
+            "ThingType": 1,
+            "ThingQuantity": 3,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130032,
+            "ThingType": 1,
+            "ThingQuantity": 3,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130033,
+            "ThingType": 1,
+            "ThingQuantity": 3,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130034,
+            "ThingType": 1,
+            "ThingQuantity": 3,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130031,
+            "ThingType": 1,
+            "ThingQuantity": 4,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130032,
+            "ThingType": 1,
+            "ThingQuantity": 4,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130033,
+            "ThingType": 1,
+            "ThingQuantity": 4,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130034,
+            "ThingType": 1,
+            "ThingQuantity": 4,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          }
         ],
-        150000
-      ],
-      [
-        1106,
-        11,
-        6,
-        0,
-        2,
-        false,
-        [
-          [
-            130041,
-            1,
-            1,
-            false,
-            false
-          ],
-          [
-            130041,
-            1,
-            2,
-            false,
-            false
-          ],
-          [
-            130041,
-            1,
-            3,
-            false,
-            false
-          ],
-          [
-            130031,
-            1,
-            1,
-            false,
-            false
-          ],
-          [
-            130032,
-            1,
-            1,
-            false,
-            false
-          ],
-          [
-            130033,
-            1,
-            1,
-            false,
-            false
-          ],
-          [
-            130034,
-            1,
-            1,
-            false,
-            false
-          ],
-          [
-            130031,
-            1,
-            2,
-            false,
-            false
-          ],
-          [
-            130032,
-            1,
-            2,
-            false,
-            false
-          ],
-          [
-            130033,
-            1,
-            2,
-            false,
-            false
-          ],
-          [
-            130034,
-            1,
-            2,
-            false,
-            false
-          ]
+        "FrameLotConditionValue": 150000
+      },
+      {
+        "Id": 1106,
+        "LiveDropFrameGroupMasterId": 11,
+        "Order": 6,
+        "ChangeType": 0,
+        "FrameLotCondition": 2,
+        "UnaffectedIncreaseEffect": false,
+        "Rewards": [
+          {
+            "ThingId": 130041,
+            "ThingType": 1,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130041,
+            "ThingType": 1,
+            "ThingQuantity": 2,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130041,
+            "ThingType": 1,
+            "ThingQuantity": 3,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130031,
+            "ThingType": 1,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130032,
+            "ThingType": 1,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130033,
+            "ThingType": 1,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130034,
+            "ThingType": 1,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130031,
+            "ThingType": 1,
+            "ThingQuantity": 2,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130032,
+            "ThingType": 1,
+            "ThingQuantity": 2,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130033,
+            "ThingType": 1,
+            "ThingQuantity": 2,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130034,
+            "ThingType": 1,
+            "ThingQuantity": 2,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          }
         ],
-        300000
-      ],
-      [
-        1107,
-        11,
-        7,
-        0,
-        2,
-        false,
-        [
-          [
-            130042,
-            1,
-            1,
-            false,
-            false
-          ],
-          [
-            130042,
-            1,
-            2,
-            false,
-            false
-          ],
-          [
-            130042,
-            1,
-            3,
-            false,
-            false
-          ],
-          [
-            130031,
-            1,
-            1,
-            false,
-            false
-          ],
-          [
-            130032,
-            1,
-            1,
-            false,
-            false
-          ],
-          [
-            130033,
-            1,
-            1,
-            false,
-            false
-          ],
-          [
-            130034,
-            1,
-            1,
-            false,
-            false
-          ],
-          [
-            130031,
-            1,
-            2,
-            false,
-            false
-          ],
-          [
-            130032,
-            1,
-            2,
-            false,
-            false
-          ],
-          [
-            130033,
-            1,
-            2,
-            false,
-            false
-          ],
-          [
-            130034,
-            1,
-            2,
-            false,
-            false
-          ]
+        "FrameLotConditionValue": 300000
+      },
+      {
+        "Id": 1107,
+        "LiveDropFrameGroupMasterId": 11,
+        "Order": 7,
+        "ChangeType": 0,
+        "FrameLotCondition": 2,
+        "UnaffectedIncreaseEffect": false,
+        "Rewards": [
+          {
+            "ThingId": 130042,
+            "ThingType": 1,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130042,
+            "ThingType": 1,
+            "ThingQuantity": 2,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130042,
+            "ThingType": 1,
+            "ThingQuantity": 3,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130031,
+            "ThingType": 1,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130032,
+            "ThingType": 1,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130033,
+            "ThingType": 1,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130034,
+            "ThingType": 1,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130031,
+            "ThingType": 1,
+            "ThingQuantity": 2,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130032,
+            "ThingType": 1,
+            "ThingQuantity": 2,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130033,
+            "ThingType": 1,
+            "ThingQuantity": 2,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130034,
+            "ThingType": 1,
+            "ThingQuantity": 2,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          }
         ],
-        800000
-      ],
-      [
-        1108,
-        11,
-        8,
-        0,
-        3,
-        false,
-        [
-          [
-            120001,
-            1,
-            1,
-            false,
-            false
-          ],
-          [
-            130041,
-            1,
-            1,
-            false,
-            false
-          ],
-          [
-            130042,
-            1,
-            1,
-            false,
-            false
-          ]
+        "FrameLotConditionValue": 800000
+      },
+      {
+        "Id": 1108,
+        "LiveDropFrameGroupMasterId": 11,
+        "Order": 8,
+        "ChangeType": 0,
+        "FrameLotCondition": 3,
+        "UnaffectedIncreaseEffect": false,
+        "Rewards": [
+          {
+            "ThingId": 120001,
+            "ThingType": 1,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130041,
+            "ThingType": 1,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130042,
+            "ThingType": 1,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          }
         ],
-        1
-      ]
+        "FrameLotConditionValue": 1
+      }
     ]
   },
   {
     "Id": 12,
     "DropFrames": [
-      [
-        1201,
-        12,
-        1,
-        0,
-        0,
-        false,
-        [
-          [
-            130021,
-            1,
-            1,
-            false,
-            false
-          ],
-          [
-            130022,
-            1,
-            1,
-            false,
-            false
-          ],
-          [
-            130023,
-            1,
-            1,
-            false,
-            false
-          ],
-          [
-            130024,
-            1,
-            1,
-            false,
-            false
-          ],
-          [
-            130021,
-            1,
-            2,
-            false,
-            false
-          ],
-          [
-            130022,
-            1,
-            2,
-            false,
-            false
-          ],
-          [
-            130023,
-            1,
-            2,
-            false,
-            false
-          ],
-          [
-            130024,
-            1,
-            2,
-            false,
-            false
-          ],
-          [
-            130021,
-            1,
-            3,
-            false,
-            false
-          ],
-          [
-            130022,
-            1,
-            3,
-            false,
-            false
-          ],
-          [
-            130023,
-            1,
-            3,
-            false,
-            false
-          ],
-          [
-            130024,
-            1,
-            3,
-            false,
-            false
-          ]
+      {
+        "Id": 1201,
+        "LiveDropFrameGroupMasterId": 12,
+        "Order": 1,
+        "ChangeType": 0,
+        "FrameLotCondition": 0,
+        "UnaffectedIncreaseEffect": false,
+        "Rewards": [
+          {
+            "ThingId": 130021,
+            "ThingType": 1,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130022,
+            "ThingType": 1,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130023,
+            "ThingType": 1,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130024,
+            "ThingType": 1,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130021,
+            "ThingType": 1,
+            "ThingQuantity": 2,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130022,
+            "ThingType": 1,
+            "ThingQuantity": 2,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130023,
+            "ThingType": 1,
+            "ThingQuantity": 2,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130024,
+            "ThingType": 1,
+            "ThingQuantity": 2,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130021,
+            "ThingType": 1,
+            "ThingQuantity": 3,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130022,
+            "ThingType": 1,
+            "ThingQuantity": 3,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130023,
+            "ThingType": 1,
+            "ThingQuantity": 3,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130024,
+            "ThingType": 1,
+            "ThingQuantity": 3,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          }
         ],
-        null
-      ],
-      [
-        1202,
-        12,
-        2,
-        0,
-        0,
-        false,
-        [
-          [
-            130021,
-            1,
-            1,
-            false,
-            false
-          ],
-          [
-            130022,
-            1,
-            1,
-            false,
-            false
-          ],
-          [
-            130023,
-            1,
-            1,
-            false,
-            false
-          ],
-          [
-            130024,
-            1,
-            1,
-            false,
-            false
-          ],
-          [
-            130021,
-            1,
-            2,
-            false,
-            false
-          ],
-          [
-            130022,
-            1,
-            2,
-            false,
-            false
-          ],
-          [
-            130023,
-            1,
-            2,
-            false,
-            false
-          ],
-          [
-            130024,
-            1,
-            2,
-            false,
-            false
-          ],
-          [
-            130021,
-            1,
-            3,
-            false,
-            false
-          ],
-          [
-            130022,
-            1,
-            3,
-            false,
-            false
-          ],
-          [
-            130023,
-            1,
-            3,
-            false,
-            false
-          ],
-          [
-            130024,
-            1,
-            3,
-            false,
-            false
-          ]
+        "FrameLotConditionValue": null
+      },
+      {
+        "Id": 1202,
+        "LiveDropFrameGroupMasterId": 12,
+        "Order": 2,
+        "ChangeType": 0,
+        "FrameLotCondition": 0,
+        "UnaffectedIncreaseEffect": false,
+        "Rewards": [
+          {
+            "ThingId": 130021,
+            "ThingType": 1,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130022,
+            "ThingType": 1,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130023,
+            "ThingType": 1,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130024,
+            "ThingType": 1,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130021,
+            "ThingType": 1,
+            "ThingQuantity": 2,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130022,
+            "ThingType": 1,
+            "ThingQuantity": 2,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130023,
+            "ThingType": 1,
+            "ThingQuantity": 2,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130024,
+            "ThingType": 1,
+            "ThingQuantity": 2,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130021,
+            "ThingType": 1,
+            "ThingQuantity": 3,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130022,
+            "ThingType": 1,
+            "ThingQuantity": 3,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130023,
+            "ThingType": 1,
+            "ThingQuantity": 3,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130024,
+            "ThingType": 1,
+            "ThingQuantity": 3,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          }
         ],
-        null
-      ],
-      [
-        1203,
-        12,
-        3,
-        0,
-        1,
-        false,
-        [
-          [
-            120001,
-            1,
-            1,
-            false,
-            false
-          ],
-          [
-            120001,
-            1,
-            2,
-            false,
-            false
-          ],
-          [
-            120001,
-            1,
-            3,
-            false,
-            false
-          ]
+        "FrameLotConditionValue": null
+      },
+      {
+        "Id": 1203,
+        "LiveDropFrameGroupMasterId": 12,
+        "Order": 3,
+        "ChangeType": 0,
+        "FrameLotCondition": 1,
+        "UnaffectedIncreaseEffect": false,
+        "Rewards": [
+          {
+            "ThingId": 120001,
+            "ThingType": 1,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 120001,
+            "ThingType": 1,
+            "ThingQuantity": 2,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 120001,
+            "ThingType": 1,
+            "ThingQuantity": 3,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          }
         ],
-        null
-      ],
-      [
-        1204,
-        12,
-        4,
-        0,
-        2,
-        false,
-        [
-          [
-            130061,
-            1,
-            1,
-            false,
-            false
-          ],
-          [
-            130061,
-            1,
-            2,
-            false,
-            false
-          ],
-          [
-            130061,
-            1,
-            3,
-            false,
-            false
-          ]
+        "FrameLotConditionValue": null
+      },
+      {
+        "Id": 1204,
+        "LiveDropFrameGroupMasterId": 12,
+        "Order": 4,
+        "ChangeType": 0,
+        "FrameLotCondition": 2,
+        "UnaffectedIncreaseEffect": false,
+        "Rewards": [
+          {
+            "ThingId": 130061,
+            "ThingType": 1,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130061,
+            "ThingType": 1,
+            "ThingQuantity": 2,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130061,
+            "ThingType": 1,
+            "ThingQuantity": 3,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          }
         ],
-        200000
-      ],
-      [
-        1205,
-        12,
-        5,
-        0,
-        2,
-        false,
-        [
-          [
-            130061,
-            1,
-            1,
-            false,
-            false
-          ],
-          [
-            130061,
-            1,
-            2,
-            false,
-            false
-          ],
-          [
-            130061,
-            1,
-            3,
-            false,
-            false
-          ],
-          [
-            130062,
-            1,
-            1,
-            false,
-            false
-          ],
-          [
-            130062,
-            1,
-            2,
-            false,
-            false
-          ],
-          [
-            130062,
-            1,
-            3,
-            false,
-            false
-          ]
+        "FrameLotConditionValue": 200000
+      },
+      {
+        "Id": 1205,
+        "LiveDropFrameGroupMasterId": 12,
+        "Order": 5,
+        "ChangeType": 0,
+        "FrameLotCondition": 2,
+        "UnaffectedIncreaseEffect": false,
+        "Rewards": [
+          {
+            "ThingId": 130061,
+            "ThingType": 1,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130061,
+            "ThingType": 1,
+            "ThingQuantity": 2,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130061,
+            "ThingType": 1,
+            "ThingQuantity": 3,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130062,
+            "ThingType": 1,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130062,
+            "ThingType": 1,
+            "ThingQuantity": 2,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130062,
+            "ThingType": 1,
+            "ThingQuantity": 3,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          }
         ],
-        500000
-      ],
-      [
-        1206,
-        12,
-        6,
-        0,
-        2,
-        false,
-        [
-          [
-            130061,
-            1,
-            1,
-            false,
-            false
-          ],
-          [
-            130061,
-            1,
-            2,
-            false,
-            false
-          ],
-          [
-            130061,
-            1,
-            3,
-            false,
-            false
-          ],
-          [
-            130062,
-            1,
-            1,
-            false,
-            false
-          ],
-          [
-            130062,
-            1,
-            2,
-            false,
-            false
-          ],
-          [
-            130062,
-            1,
-            3,
-            false,
-            false
-          ],
-          [
-            130063,
-            1,
-            1,
-            false,
-            false
-          ],
-          [
-            130063,
-            1,
-            2,
-            false,
-            false
-          ],
-          [
-            130063,
-            1,
-            3,
-            false,
-            false
-          ]
+        "FrameLotConditionValue": 500000
+      },
+      {
+        "Id": 1206,
+        "LiveDropFrameGroupMasterId": 12,
+        "Order": 6,
+        "ChangeType": 0,
+        "FrameLotCondition": 2,
+        "UnaffectedIncreaseEffect": false,
+        "Rewards": [
+          {
+            "ThingId": 130061,
+            "ThingType": 1,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130061,
+            "ThingType": 1,
+            "ThingQuantity": 2,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130061,
+            "ThingType": 1,
+            "ThingQuantity": 3,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130062,
+            "ThingType": 1,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130062,
+            "ThingType": 1,
+            "ThingQuantity": 2,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130062,
+            "ThingType": 1,
+            "ThingQuantity": 3,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130063,
+            "ThingType": 1,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130063,
+            "ThingType": 1,
+            "ThingQuantity": 2,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130063,
+            "ThingType": 1,
+            "ThingQuantity": 3,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          }
         ],
-        1000000
-      ],
-      [
-        1207,
-        12,
-        7,
-        0,
-        3,
-        false,
-        [
-          [
-            120001,
-            1,
-            1,
-            false,
-            false
-          ],
-          [
-            130061,
-            1,
-            1,
-            false,
-            false
-          ],
-          [
-            130062,
-            1,
-            1,
-            false,
-            false
-          ]
+        "FrameLotConditionValue": 1000000
+      },
+      {
+        "Id": 1207,
+        "LiveDropFrameGroupMasterId": 12,
+        "Order": 7,
+        "ChangeType": 0,
+        "FrameLotCondition": 3,
+        "UnaffectedIncreaseEffect": false,
+        "Rewards": [
+          {
+            "ThingId": 120001,
+            "ThingType": 1,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130061,
+            "ThingType": 1,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130062,
+            "ThingType": 1,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          }
         ],
-        1
-      ]
+        "FrameLotConditionValue": 1
+      }
     ]
   },
   {
     "Id": 14,
     "DropFrames": [
-      [
-        1401,
-        14,
-        1,
-        0,
-        0,
-        false,
-        [
-          [
-            130021,
-            1,
-            1,
-            false,
-            false
-          ],
-          [
-            130022,
-            1,
-            1,
-            false,
-            false
-          ],
-          [
-            130023,
-            1,
-            1,
-            false,
-            false
-          ],
-          [
-            130024,
-            1,
-            1,
-            false,
-            false
-          ],
-          [
-            130021,
-            1,
-            2,
-            false,
-            false
-          ],
-          [
-            130022,
-            1,
-            2,
-            false,
-            false
-          ],
-          [
-            130023,
-            1,
-            2,
-            false,
-            false
-          ],
-          [
-            130024,
-            1,
-            2,
-            false,
-            false
-          ],
-          [
-            130021,
-            1,
-            3,
-            false,
-            false
-          ],
-          [
-            130022,
-            1,
-            3,
-            false,
-            false
-          ],
-          [
-            130023,
-            1,
-            3,
-            false,
-            false
-          ],
-          [
-            130024,
-            1,
-            3,
-            false,
-            false
-          ]
+      {
+        "Id": 1401,
+        "LiveDropFrameGroupMasterId": 14,
+        "Order": 1,
+        "ChangeType": 0,
+        "FrameLotCondition": 0,
+        "UnaffectedIncreaseEffect": false,
+        "Rewards": [
+          {
+            "ThingId": 130021,
+            "ThingType": 1,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130022,
+            "ThingType": 1,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130023,
+            "ThingType": 1,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130024,
+            "ThingType": 1,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130021,
+            "ThingType": 1,
+            "ThingQuantity": 2,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130022,
+            "ThingType": 1,
+            "ThingQuantity": 2,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130023,
+            "ThingType": 1,
+            "ThingQuantity": 2,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130024,
+            "ThingType": 1,
+            "ThingQuantity": 2,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130021,
+            "ThingType": 1,
+            "ThingQuantity": 3,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130022,
+            "ThingType": 1,
+            "ThingQuantity": 3,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130023,
+            "ThingType": 1,
+            "ThingQuantity": 3,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130024,
+            "ThingType": 1,
+            "ThingQuantity": 3,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          }
         ],
-        null
-      ],
-      [
-        1402,
-        14,
-        2,
-        0,
-        0,
-        false,
-        [
-          [
-            130021,
-            1,
-            1,
-            false,
-            false
-          ],
-          [
-            130022,
-            1,
-            1,
-            false,
-            false
-          ],
-          [
-            130023,
-            1,
-            1,
-            false,
-            false
-          ],
-          [
-            130024,
-            1,
-            1,
-            false,
-            false
-          ],
-          [
-            130021,
-            1,
-            2,
-            false,
-            false
-          ],
-          [
-            130022,
-            1,
-            2,
-            false,
-            false
-          ],
-          [
-            130023,
-            1,
-            2,
-            false,
-            false
-          ],
-          [
-            130024,
-            1,
-            2,
-            false,
-            false
-          ],
-          [
-            130021,
-            1,
-            3,
-            false,
-            false
-          ],
-          [
-            130022,
-            1,
-            3,
-            false,
-            false
-          ],
-          [
-            130023,
-            1,
-            3,
-            false,
-            false
-          ],
-          [
-            130024,
-            1,
-            3,
-            false,
-            false
-          ]
+        "FrameLotConditionValue": null
+      },
+      {
+        "Id": 1402,
+        "LiveDropFrameGroupMasterId": 14,
+        "Order": 2,
+        "ChangeType": 0,
+        "FrameLotCondition": 0,
+        "UnaffectedIncreaseEffect": false,
+        "Rewards": [
+          {
+            "ThingId": 130021,
+            "ThingType": 1,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130022,
+            "ThingType": 1,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130023,
+            "ThingType": 1,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130024,
+            "ThingType": 1,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130021,
+            "ThingType": 1,
+            "ThingQuantity": 2,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130022,
+            "ThingType": 1,
+            "ThingQuantity": 2,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130023,
+            "ThingType": 1,
+            "ThingQuantity": 2,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130024,
+            "ThingType": 1,
+            "ThingQuantity": 2,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130021,
+            "ThingType": 1,
+            "ThingQuantity": 3,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130022,
+            "ThingType": 1,
+            "ThingQuantity": 3,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130023,
+            "ThingType": 1,
+            "ThingQuantity": 3,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130024,
+            "ThingType": 1,
+            "ThingQuantity": 3,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          }
         ],
-        null
-      ],
-      [
-        1403,
-        14,
-        3,
-        0,
-        1,
-        false,
-        [
-          [
-            120001,
-            1,
-            1,
-            false,
-            false
-          ],
-          [
-            120001,
-            1,
-            2,
-            false,
-            false
-          ],
-          [
-            120001,
-            1,
-            3,
-            false,
-            false
-          ]
+        "FrameLotConditionValue": null
+      },
+      {
+        "Id": 1403,
+        "LiveDropFrameGroupMasterId": 14,
+        "Order": 3,
+        "ChangeType": 0,
+        "FrameLotCondition": 1,
+        "UnaffectedIncreaseEffect": false,
+        "Rewards": [
+          {
+            "ThingId": 120001,
+            "ThingType": 1,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 120001,
+            "ThingType": 1,
+            "ThingQuantity": 2,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 120001,
+            "ThingType": 1,
+            "ThingQuantity": 3,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          }
         ],
-        null
-      ],
-      [
-        1404,
-        14,
-        4,
-        1,
-        1,
-        true,
-        [
-          [
-            310010,
-            4,
-            1,
-            false,
-            false
-          ],
-          [
-            310020,
-            4,
-            1,
-            false,
-            false
-          ],
-          [
-            310030,
-            4,
-            1,
-            false,
-            false
-          ],
-          [
-            310040,
-            4,
-            1,
-            false,
-            false
-          ],
-          [
-            320010,
-            4,
-            1,
-            false,
-            false
-          ],
-          [
-            320020,
-            4,
-            1,
-            false,
-            false
-          ],
-          [
-            320030,
-            4,
-            1,
-            false,
-            false
-          ],
-          [
-            320040,
-            4,
-            1,
-            false,
-            false
-          ],
-          [
-            320050,
-            4,
-            1,
-            false,
-            false
-          ],
-          [
-            331010,
-            4,
-            1,
-            true,
-            false
-          ],
-          [
-            331020,
-            4,
-            1,
-            true,
-            false
-          ],
-          [
-            331030,
-            4,
-            1,
-            true,
-            false
-          ],
-          [
-            331040,
-            4,
-            1,
-            true,
-            false
-          ],
-          [
-            331050,
-            4,
-            1,
-            true,
-            false
-          ],
-          [
-            332010,
-            4,
-            1,
-            true,
-            true
-          ],
-          [
-            332020,
-            4,
-            1,
-            true,
-            true
-          ],
-          [
-            332030,
-            4,
-            1,
-            true,
-            true
-          ],
-          [
-            332040,
-            4,
-            1,
-            true,
-            true
-          ],
-          [
-            332050,
-            4,
-            1,
-            true,
-            true
-          ]
+        "FrameLotConditionValue": null
+      },
+      {
+        "Id": 1404,
+        "LiveDropFrameGroupMasterId": 14,
+        "Order": 4,
+        "ChangeType": 1,
+        "FrameLotCondition": 1,
+        "UnaffectedIncreaseEffect": true,
+        "Rewards": [
+          {
+            "ThingId": 310010,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 310020,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 310030,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 310040,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320010,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320020,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320030,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320040,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320050,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331010,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331020,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331030,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331040,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331050,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 332010,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332020,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332030,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332040,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332050,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          }
         ],
-        null
-      ],
-      [
-        1405,
-        14,
-        5,
-        1,
-        2,
-        true,
-        [
-          [
-            310010,
-            4,
-            1,
-            false,
-            false
-          ],
-          [
-            310020,
-            4,
-            1,
-            false,
-            false
-          ],
-          [
-            310030,
-            4,
-            1,
-            false,
-            false
-          ],
-          [
-            310040,
-            4,
-            1,
-            false,
-            false
-          ],
-          [
-            320010,
-            4,
-            1,
-            false,
-            false
-          ],
-          [
-            320020,
-            4,
-            1,
-            false,
-            false
-          ],
-          [
-            320030,
-            4,
-            1,
-            false,
-            false
-          ],
-          [
-            320040,
-            4,
-            1,
-            false,
-            false
-          ],
-          [
-            320050,
-            4,
-            1,
-            false,
-            false
-          ],
-          [
-            331010,
-            4,
-            1,
-            true,
-            false
-          ],
-          [
-            331020,
-            4,
-            1,
-            true,
-            false
-          ],
-          [
-            331030,
-            4,
-            1,
-            true,
-            false
-          ],
-          [
-            331040,
-            4,
-            1,
-            true,
-            false
-          ],
-          [
-            331050,
-            4,
-            1,
-            true,
-            false
-          ],
-          [
-            332010,
-            4,
-            1,
-            true,
-            true
-          ],
-          [
-            332020,
-            4,
-            1,
-            true,
-            true
-          ],
-          [
-            332030,
-            4,
-            1,
-            true,
-            true
-          ],
-          [
-            332040,
-            4,
-            1,
-            true,
-            true
-          ],
-          [
-            332050,
-            4,
-            1,
-            true,
-            true
-          ]
+        "FrameLotConditionValue": null
+      },
+      {
+        "Id": 1405,
+        "LiveDropFrameGroupMasterId": 14,
+        "Order": 5,
+        "ChangeType": 1,
+        "FrameLotCondition": 2,
+        "UnaffectedIncreaseEffect": true,
+        "Rewards": [
+          {
+            "ThingId": 310010,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 310020,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 310030,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 310040,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320010,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320020,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320030,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320040,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320050,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331010,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331020,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331030,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331040,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331050,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 332010,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332020,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332030,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332040,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332050,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          }
         ],
-        50000
-      ],
-      [
-        1406,
-        14,
-        6,
-        1,
-        2,
-        true,
-        [
-          [
-            310010,
-            4,
-            1,
-            false,
-            false
-          ],
-          [
-            310020,
-            4,
-            1,
-            false,
-            false
-          ],
-          [
-            310030,
-            4,
-            1,
-            false,
-            false
-          ],
-          [
-            310040,
-            4,
-            1,
-            false,
-            false
-          ],
-          [
-            320010,
-            4,
-            1,
-            false,
-            false
-          ],
-          [
-            320020,
-            4,
-            1,
-            false,
-            false
-          ],
-          [
-            320030,
-            4,
-            1,
-            false,
-            false
-          ],
-          [
-            320040,
-            4,
-            1,
-            false,
-            false
-          ],
-          [
-            320050,
-            4,
-            1,
-            false,
-            false
-          ],
-          [
-            331010,
-            4,
-            1,
-            true,
-            false
-          ],
-          [
-            331020,
-            4,
-            1,
-            true,
-            false
-          ],
-          [
-            331030,
-            4,
-            1,
-            true,
-            false
-          ],
-          [
-            331040,
-            4,
-            1,
-            true,
-            false
-          ],
-          [
-            331050,
-            4,
-            1,
-            true,
-            false
-          ],
-          [
-            332010,
-            4,
-            1,
-            true,
-            true
-          ],
-          [
-            332020,
-            4,
-            1,
-            true,
-            true
-          ],
-          [
-            332030,
-            4,
-            1,
-            true,
-            true
-          ],
-          [
-            332040,
-            4,
-            1,
-            true,
-            true
-          ],
-          [
-            332050,
-            4,
-            1,
-            true,
-            true
-          ]
+        "FrameLotConditionValue": 50000
+      },
+      {
+        "Id": 1406,
+        "LiveDropFrameGroupMasterId": 14,
+        "Order": 6,
+        "ChangeType": 1,
+        "FrameLotCondition": 2,
+        "UnaffectedIncreaseEffect": true,
+        "Rewards": [
+          {
+            "ThingId": 310010,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 310020,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 310030,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 310040,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320010,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320020,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320030,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320040,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320050,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331010,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331020,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331030,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331040,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331050,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 332010,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332020,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332030,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332040,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332050,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          }
         ],
-        150000
-      ],
-      [
-        1407,
-        14,
-        7,
-        1,
-        2,
-        true,
-        [
-          [
-            310010,
-            4,
-            1,
-            false,
-            false
-          ],
-          [
-            310020,
-            4,
-            1,
-            false,
-            false
-          ],
-          [
-            310030,
-            4,
-            1,
-            false,
-            false
-          ],
-          [
-            310040,
-            4,
-            1,
-            false,
-            false
-          ],
-          [
-            320010,
-            4,
-            1,
-            false,
-            false
-          ],
-          [
-            320020,
-            4,
-            1,
-            false,
-            false
-          ],
-          [
-            320030,
-            4,
-            1,
-            false,
-            false
-          ],
-          [
-            320040,
-            4,
-            1,
-            false,
-            false
-          ],
-          [
-            320050,
-            4,
-            1,
-            false,
-            false
-          ],
-          [
-            331010,
-            4,
-            1,
-            true,
-            false
-          ],
-          [
-            331020,
-            4,
-            1,
-            true,
-            false
-          ],
-          [
-            331030,
-            4,
-            1,
-            true,
-            false
-          ],
-          [
-            331040,
-            4,
-            1,
-            true,
-            false
-          ],
-          [
-            331050,
-            4,
-            1,
-            true,
-            false
-          ],
-          [
-            332010,
-            4,
-            1,
-            true,
-            true
-          ],
-          [
-            332020,
-            4,
-            1,
-            true,
-            true
-          ],
-          [
-            332030,
-            4,
-            1,
-            true,
-            true
-          ],
-          [
-            332040,
-            4,
-            1,
-            true,
-            true
-          ],
-          [
-            332050,
-            4,
-            1,
-            true,
-            true
-          ]
+        "FrameLotConditionValue": 150000
+      },
+      {
+        "Id": 1407,
+        "LiveDropFrameGroupMasterId": 14,
+        "Order": 7,
+        "ChangeType": 1,
+        "FrameLotCondition": 2,
+        "UnaffectedIncreaseEffect": true,
+        "Rewards": [
+          {
+            "ThingId": 310010,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 310020,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 310030,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 310040,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320010,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320020,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320030,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320040,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320050,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331010,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331020,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331030,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331040,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331050,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 332010,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332020,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332030,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332040,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332050,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          }
         ],
-        500000
-      ],
-      [
-        1410,
-        14,
-        10,
-        0,
-        0,
-        false,
-        [
-          [
-            130081,
-            1,
-            1,
-            false,
-            false
-          ],
-          [
-            130081,
-            1,
-            2,
-            false,
-            false
-          ],
-          [
-            130082,
-            1,
-            1,
-            false,
-            false
-          ],
-          [
-            130082,
-            1,
-            2,
-            false,
-            false
-          ]
+        "FrameLotConditionValue": 500000
+      },
+      {
+        "Id": 1410,
+        "LiveDropFrameGroupMasterId": 14,
+        "Order": 10,
+        "ChangeType": 0,
+        "FrameLotCondition": 0,
+        "UnaffectedIncreaseEffect": false,
+        "Rewards": [
+          {
+            "ThingId": 130081,
+            "ThingType": 1,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130081,
+            "ThingType": 1,
+            "ThingQuantity": 2,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130082,
+            "ThingType": 1,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130082,
+            "ThingType": 1,
+            "ThingQuantity": 2,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          }
         ],
-        null
-      ],
-      [
-        1411,
-        14,
-        11,
-        0,
-        3,
-        false,
-        [
-          [
-            130081,
-            1,
-            1,
-            false,
-            false
-          ],
-          [
-            130081,
-            1,
-            2,
-            false,
-            false
-          ],
-          [
-            130081,
-            1,
-            3,
-            false,
-            false
-          ],
-          [
-            130082,
-            1,
-            1,
-            false,
-            false
-          ],
-          [
-            130082,
-            1,
-            2,
-            false,
-            false
-          ],
-          [
-            130082,
-            1,
-            3,
-            false,
-            false
-          ]
+        "FrameLotConditionValue": null
+      },
+      {
+        "Id": 1411,
+        "LiveDropFrameGroupMasterId": 14,
+        "Order": 11,
+        "ChangeType": 0,
+        "FrameLotCondition": 3,
+        "UnaffectedIncreaseEffect": false,
+        "Rewards": [
+          {
+            "ThingId": 130081,
+            "ThingType": 1,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130081,
+            "ThingType": 1,
+            "ThingQuantity": 2,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130081,
+            "ThingType": 1,
+            "ThingQuantity": 3,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130082,
+            "ThingType": 1,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130082,
+            "ThingType": 1,
+            "ThingQuantity": 2,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130082,
+            "ThingType": 1,
+            "ThingQuantity": 3,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          }
         ],
-        1
-      ]
+        "FrameLotConditionValue": 1
+      }
     ]
   }
 ]

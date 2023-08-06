@@ -5,10 +5,10 @@
     "BaseLevel": 1,
     "RequiredCoin": 50,
     "Items": [
-      [
-        130025,
-        1
-      ]
+      {
+        "ItemMasterId": 130025,
+        "RequiredQuantity": 1
+      }
     ]
   },
   {
@@ -17,10 +17,10 @@
     "BaseLevel": 2,
     "RequiredCoin": 100,
     "Items": [
-      [
-        130025,
-        2
-      ]
+      {
+        "ItemMasterId": 130025,
+        "RequiredQuantity": 2
+      }
     ]
   },
   {
@@ -29,10 +29,10 @@
     "BaseLevel": 3,
     "RequiredCoin": 150,
     "Items": [
-      [
-        130025,
-        3
-      ]
+      {
+        "ItemMasterId": 130025,
+        "RequiredQuantity": 3
+      }
     ]
   },
   {
@@ -41,10 +41,10 @@
     "BaseLevel": 4,
     "RequiredCoin": 200,
     "Items": [
-      [
-        130025,
-        4
-      ]
+      {
+        "ItemMasterId": 130025,
+        "RequiredQuantity": 4
+      }
     ]
   },
   {
@@ -53,10 +53,10 @@
     "BaseLevel": 1,
     "RequiredCoin": 100,
     "Items": [
-      [
-        130025,
-        2
-      ]
+      {
+        "ItemMasterId": 130025,
+        "RequiredQuantity": 2
+      }
     ]
   },
   {
@@ -65,10 +65,10 @@
     "BaseLevel": 2,
     "RequiredCoin": 200,
     "Items": [
-      [
-        130025,
-        4
-      ]
+      {
+        "ItemMasterId": 130025,
+        "RequiredQuantity": 4
+      }
     ]
   },
   {
@@ -77,10 +77,10 @@
     "BaseLevel": 3,
     "RequiredCoin": 300,
     "Items": [
-      [
-        130025,
-        6
-      ]
+      {
+        "ItemMasterId": 130025,
+        "RequiredQuantity": 6
+      }
     ]
   },
   {
@@ -89,10 +89,10 @@
     "BaseLevel": 4,
     "RequiredCoin": 400,
     "Items": [
-      [
-        130025,
-        8
-      ]
+      {
+        "ItemMasterId": 130025,
+        "RequiredQuantity": 8
+      }
     ]
   },
   {
@@ -101,18 +101,18 @@
     "BaseLevel": 5,
     "RequiredCoin": 600,
     "Items": [
-      [
-        130025,
-        10
-      ],
-      [
-        130035,
-        2
-      ],
-      [
-        130091,
-        2
-      ]
+      {
+        "ItemMasterId": 130025,
+        "RequiredQuantity": 10
+      },
+      {
+        "ItemMasterId": 130035,
+        "RequiredQuantity": 2
+      },
+      {
+        "ItemMasterId": 130091,
+        "RequiredQuantity": 2
+      }
     ]
   },
   {
@@ -121,14 +121,14 @@
     "BaseLevel": 6,
     "RequiredCoin": 800,
     "Items": [
-      [
-        130025,
-        12
-      ],
-      [
-        130035,
-        4
-      ]
+      {
+        "ItemMasterId": 130025,
+        "RequiredQuantity": 12
+      },
+      {
+        "ItemMasterId": 130035,
+        "RequiredQuantity": 4
+      }
     ]
   },
   {
@@ -137,14 +137,14 @@
     "BaseLevel": 7,
     "RequiredCoin": 1000,
     "Items": [
-      [
-        130025,
-        14
-      ],
-      [
-        130035,
-        6
-      ]
+      {
+        "ItemMasterId": 130025,
+        "RequiredQuantity": 14
+      },
+      {
+        "ItemMasterId": 130035,
+        "RequiredQuantity": 6
+      }
     ]
   },
   {
@@ -153,14 +153,14 @@
     "BaseLevel": 8,
     "RequiredCoin": 1400,
     "Items": [
-      [
-        130025,
-        16
-      ],
-      [
-        130035,
-        8
-      ]
+      {
+        "ItemMasterId": 130025,
+        "RequiredQuantity": 16
+      },
+      {
+        "ItemMasterId": 130035,
+        "RequiredQuantity": 8
+      }
     ]
   },
   {
@@ -169,14 +169,14 @@
     "BaseLevel": 9,
     "RequiredCoin": 2000,
     "Items": [
-      [
-        130025,
-        20
-      ],
-      [
-        130035,
-        10
-      ]
+      {
+        "ItemMasterId": 130025,
+        "RequiredQuantity": 20
+      },
+      {
+        "ItemMasterId": 130035,
+        "RequiredQuantity": 10
+      }
     ]
   },
   {
@@ -185,10 +185,10 @@
     "BaseLevel": 1,
     "RequiredCoin": 200,
     "Items": [
-      [
-        130025,
-        4
-      ]
+      {
+        "ItemMasterId": 130025,
+        "RequiredQuantity": 4
+      }
     ]
   },
   {
@@ -197,10 +197,10 @@
     "BaseLevel": 2,
     "RequiredCoin": 400,
     "Items": [
-      [
-        130025,
-        8
-      ]
+      {
+        "ItemMasterId": 130025,
+        "RequiredQuantity": 8
+      }
     ]
   },
   {
@@ -209,10 +209,10 @@
     "BaseLevel": 3,
     "RequiredCoin": 600,
     "Items": [
-      [
-        130025,
-        12
-      ]
+      {
+        "ItemMasterId": 130025,
+        "RequiredQuantity": 12
+      }
     ]
   },
   {
@@ -221,10 +221,10 @@
     "BaseLevel": 4,
     "RequiredCoin": 800,
     "Items": [
-      [
-        130025,
-        16
-      ]
+      {
+        "ItemMasterId": 130025,
+        "RequiredQuantity": 16
+      }
     ]
   },
   {
@@ -233,18 +233,18 @@
     "BaseLevel": 5,
     "RequiredCoin": 1200,
     "Items": [
-      [
-        130025,
-        20
-      ],
-      [
-        130035,
-        4
-      ],
-      [
-        130091,
-        4
-      ]
+      {
+        "ItemMasterId": 130025,
+        "RequiredQuantity": 20
+      },
+      {
+        "ItemMasterId": 130035,
+        "RequiredQuantity": 4
+      },
+      {
+        "ItemMasterId": 130091,
+        "RequiredQuantity": 4
+      }
     ]
   },
   {
@@ -253,14 +253,14 @@
     "BaseLevel": 6,
     "RequiredCoin": 1600,
     "Items": [
-      [
-        130025,
-        24
-      ],
-      [
-        130035,
-        8
-      ]
+      {
+        "ItemMasterId": 130025,
+        "RequiredQuantity": 24
+      },
+      {
+        "ItemMasterId": 130035,
+        "RequiredQuantity": 8
+      }
     ]
   },
   {
@@ -269,14 +269,14 @@
     "BaseLevel": 7,
     "RequiredCoin": 2000,
     "Items": [
-      [
-        130025,
-        28
-      ],
-      [
-        130035,
-        12
-      ]
+      {
+        "ItemMasterId": 130025,
+        "RequiredQuantity": 28
+      },
+      {
+        "ItemMasterId": 130035,
+        "RequiredQuantity": 12
+      }
     ]
   },
   {
@@ -285,14 +285,14 @@
     "BaseLevel": 8,
     "RequiredCoin": 2800,
     "Items": [
-      [
-        130025,
-        32
-      ],
-      [
-        130035,
-        16
-      ]
+      {
+        "ItemMasterId": 130025,
+        "RequiredQuantity": 32
+      },
+      {
+        "ItemMasterId": 130035,
+        "RequiredQuantity": 16
+      }
     ]
   },
   {
@@ -301,14 +301,14 @@
     "BaseLevel": 9,
     "RequiredCoin": 4000,
     "Items": [
-      [
-        130025,
-        40
-      ],
-      [
-        130035,
-        20
-      ]
+      {
+        "ItemMasterId": 130025,
+        "RequiredQuantity": 40
+      },
+      {
+        "ItemMasterId": 130035,
+        "RequiredQuantity": 20
+      }
     ]
   },
   {
@@ -317,18 +317,18 @@
     "BaseLevel": 10,
     "RequiredCoin": 6000,
     "Items": [
-      [
-        130025,
-        48
-      ],
-      [
-        130035,
-        24
-      ],
-      [
-        130091,
-        8
-      ]
+      {
+        "ItemMasterId": 130025,
+        "RequiredQuantity": 48
+      },
+      {
+        "ItemMasterId": 130035,
+        "RequiredQuantity": 24
+      },
+      {
+        "ItemMasterId": 130091,
+        "RequiredQuantity": 8
+      }
     ]
   },
   {
@@ -337,14 +337,14 @@
     "BaseLevel": 11,
     "RequiredCoin": 8000,
     "Items": [
-      [
-        130025,
-        56
-      ],
-      [
-        130035,
-        28
-      ]
+      {
+        "ItemMasterId": 130025,
+        "RequiredQuantity": 56
+      },
+      {
+        "ItemMasterId": 130035,
+        "RequiredQuantity": 28
+      }
     ]
   },
   {
@@ -353,14 +353,14 @@
     "BaseLevel": 12,
     "RequiredCoin": 12000,
     "Items": [
-      [
-        130025,
-        64
-      ],
-      [
-        130035,
-        32
-      ]
+      {
+        "ItemMasterId": 130025,
+        "RequiredQuantity": 64
+      },
+      {
+        "ItemMasterId": 130035,
+        "RequiredQuantity": 32
+      }
     ]
   },
   {
@@ -369,14 +369,14 @@
     "BaseLevel": 13,
     "RequiredCoin": 16000,
     "Items": [
-      [
-        130025,
-        72
-      ],
-      [
-        130035,
-        36
-      ]
+      {
+        "ItemMasterId": 130025,
+        "RequiredQuantity": 72
+      },
+      {
+        "ItemMasterId": 130035,
+        "RequiredQuantity": 36
+      }
     ]
   },
   {
@@ -385,14 +385,14 @@
     "BaseLevel": 14,
     "RequiredCoin": 20000,
     "Items": [
-      [
-        130025,
-        80
-      ],
-      [
-        130035,
-        40
-      ]
+      {
+        "ItemMasterId": 130025,
+        "RequiredQuantity": 80
+      },
+      {
+        "ItemMasterId": 130035,
+        "RequiredQuantity": 40
+      }
     ]
   },
   {
@@ -401,10 +401,10 @@
     "BaseLevel": 1,
     "RequiredCoin": 300,
     "Items": [
-      [
-        130025,
-        6
-      ]
+      {
+        "ItemMasterId": 130025,
+        "RequiredQuantity": 6
+      }
     ]
   },
   {
@@ -413,10 +413,10 @@
     "BaseLevel": 2,
     "RequiredCoin": 600,
     "Items": [
-      [
-        130025,
-        12
-      ]
+      {
+        "ItemMasterId": 130025,
+        "RequiredQuantity": 12
+      }
     ]
   },
   {
@@ -425,10 +425,10 @@
     "BaseLevel": 3,
     "RequiredCoin": 900,
     "Items": [
-      [
-        130025,
-        18
-      ]
+      {
+        "ItemMasterId": 130025,
+        "RequiredQuantity": 18
+      }
     ]
   },
   {
@@ -437,10 +437,10 @@
     "BaseLevel": 4,
     "RequiredCoin": 1200,
     "Items": [
-      [
-        130025,
-        24
-      ]
+      {
+        "ItemMasterId": 130025,
+        "RequiredQuantity": 24
+      }
     ]
   },
   {
@@ -449,18 +449,18 @@
     "BaseLevel": 5,
     "RequiredCoin": 1800,
     "Items": [
-      [
-        130025,
-        30
-      ],
-      [
-        130035,
-        6
-      ],
-      [
-        130091,
-        6
-      ]
+      {
+        "ItemMasterId": 130025,
+        "RequiredQuantity": 30
+      },
+      {
+        "ItemMasterId": 130035,
+        "RequiredQuantity": 6
+      },
+      {
+        "ItemMasterId": 130091,
+        "RequiredQuantity": 6
+      }
     ]
   },
   {
@@ -469,14 +469,14 @@
     "BaseLevel": 6,
     "RequiredCoin": 2400,
     "Items": [
-      [
-        130025,
-        36
-      ],
-      [
-        130035,
-        12
-      ]
+      {
+        "ItemMasterId": 130025,
+        "RequiredQuantity": 36
+      },
+      {
+        "ItemMasterId": 130035,
+        "RequiredQuantity": 12
+      }
     ]
   },
   {
@@ -485,14 +485,14 @@
     "BaseLevel": 7,
     "RequiredCoin": 3000,
     "Items": [
-      [
-        130025,
-        42
-      ],
-      [
-        130035,
-        18
-      ]
+      {
+        "ItemMasterId": 130025,
+        "RequiredQuantity": 42
+      },
+      {
+        "ItemMasterId": 130035,
+        "RequiredQuantity": 18
+      }
     ]
   },
   {
@@ -501,14 +501,14 @@
     "BaseLevel": 8,
     "RequiredCoin": 4200,
     "Items": [
-      [
-        130025,
-        48
-      ],
-      [
-        130035,
-        24
-      ]
+      {
+        "ItemMasterId": 130025,
+        "RequiredQuantity": 48
+      },
+      {
+        "ItemMasterId": 130035,
+        "RequiredQuantity": 24
+      }
     ]
   },
   {
@@ -517,14 +517,14 @@
     "BaseLevel": 9,
     "RequiredCoin": 6000,
     "Items": [
-      [
-        130025,
-        60
-      ],
-      [
-        130035,
-        30
-      ]
+      {
+        "ItemMasterId": 130025,
+        "RequiredQuantity": 60
+      },
+      {
+        "ItemMasterId": 130035,
+        "RequiredQuantity": 30
+      }
     ]
   },
   {
@@ -533,18 +533,18 @@
     "BaseLevel": 10,
     "RequiredCoin": 9000,
     "Items": [
-      [
-        130025,
-        72
-      ],
-      [
-        130035,
-        36
-      ],
-      [
-        130091,
-        12
-      ]
+      {
+        "ItemMasterId": 130025,
+        "RequiredQuantity": 72
+      },
+      {
+        "ItemMasterId": 130035,
+        "RequiredQuantity": 36
+      },
+      {
+        "ItemMasterId": 130091,
+        "RequiredQuantity": 12
+      }
     ]
   },
   {
@@ -553,14 +553,14 @@
     "BaseLevel": 11,
     "RequiredCoin": 12000,
     "Items": [
-      [
-        130025,
-        84
-      ],
-      [
-        130035,
-        42
-      ]
+      {
+        "ItemMasterId": 130025,
+        "RequiredQuantity": 84
+      },
+      {
+        "ItemMasterId": 130035,
+        "RequiredQuantity": 42
+      }
     ]
   },
   {
@@ -569,14 +569,14 @@
     "BaseLevel": 12,
     "RequiredCoin": 18000,
     "Items": [
-      [
-        130025,
-        96
-      ],
-      [
-        130035,
-        48
-      ]
+      {
+        "ItemMasterId": 130025,
+        "RequiredQuantity": 96
+      },
+      {
+        "ItemMasterId": 130035,
+        "RequiredQuantity": 48
+      }
     ]
   },
   {
@@ -585,14 +585,14 @@
     "BaseLevel": 13,
     "RequiredCoin": 24000,
     "Items": [
-      [
-        130025,
-        108
-      ],
-      [
-        130035,
-        54
-      ]
+      {
+        "ItemMasterId": 130025,
+        "RequiredQuantity": 108
+      },
+      {
+        "ItemMasterId": 130035,
+        "RequiredQuantity": 54
+      }
     ]
   },
   {
@@ -601,14 +601,14 @@
     "BaseLevel": 14,
     "RequiredCoin": 30000,
     "Items": [
-      [
-        130025,
-        120
-      ],
-      [
-        130035,
-        60
-      ]
+      {
+        "ItemMasterId": 130025,
+        "RequiredQuantity": 120
+      },
+      {
+        "ItemMasterId": 130035,
+        "RequiredQuantity": 60
+      }
     ]
   },
   {
@@ -617,18 +617,18 @@
     "BaseLevel": 15,
     "RequiredCoin": 36000,
     "Items": [
-      [
-        130025,
-        144
-      ],
-      [
-        130035,
-        72
-      ],
-      [
-        130091,
-        18
-      ]
+      {
+        "ItemMasterId": 130025,
+        "RequiredQuantity": 144
+      },
+      {
+        "ItemMasterId": 130035,
+        "RequiredQuantity": 72
+      },
+      {
+        "ItemMasterId": 130091,
+        "RequiredQuantity": 18
+      }
     ]
   },
   {
@@ -637,14 +637,14 @@
     "BaseLevel": 16,
     "RequiredCoin": 42000,
     "Items": [
-      [
-        130025,
-        168
-      ],
-      [
-        130035,
-        84
-      ]
+      {
+        "ItemMasterId": 130025,
+        "RequiredQuantity": 168
+      },
+      {
+        "ItemMasterId": 130035,
+        "RequiredQuantity": 84
+      }
     ]
   },
   {
@@ -653,14 +653,14 @@
     "BaseLevel": 17,
     "RequiredCoin": 48000,
     "Items": [
-      [
-        130025,
-        192
-      ],
-      [
-        130035,
-        96
-      ]
+      {
+        "ItemMasterId": 130025,
+        "RequiredQuantity": 192
+      },
+      {
+        "ItemMasterId": 130035,
+        "RequiredQuantity": 96
+      }
     ]
   },
   {
@@ -669,14 +669,14 @@
     "BaseLevel": 18,
     "RequiredCoin": 54000,
     "Items": [
-      [
-        130025,
-        216
-      ],
-      [
-        130035,
-        108
-      ]
+      {
+        "ItemMasterId": 130025,
+        "RequiredQuantity": 216
+      },
+      {
+        "ItemMasterId": 130035,
+        "RequiredQuantity": 108
+      }
     ]
   },
   {
@@ -685,14 +685,14 @@
     "BaseLevel": 19,
     "RequiredCoin": 60000,
     "Items": [
-      [
-        130025,
-        240
-      ],
-      [
-        130035,
-        120
-      ]
+      {
+        "ItemMasterId": 130025,
+        "RequiredQuantity": 240
+      },
+      {
+        "ItemMasterId": 130035,
+        "RequiredQuantity": 120
+      }
     ]
   },
   {
@@ -701,10 +701,10 @@
     "BaseLevel": 1,
     "RequiredCoin": 500,
     "Items": [
-      [
-        130025,
-        10
-      ]
+      {
+        "ItemMasterId": 130025,
+        "RequiredQuantity": 10
+      }
     ]
   },
   {
@@ -713,10 +713,10 @@
     "BaseLevel": 2,
     "RequiredCoin": 1000,
     "Items": [
-      [
-        130025,
-        20
-      ]
+      {
+        "ItemMasterId": 130025,
+        "RequiredQuantity": 20
+      }
     ]
   },
   {
@@ -725,10 +725,10 @@
     "BaseLevel": 3,
     "RequiredCoin": 1500,
     "Items": [
-      [
-        130025,
-        30
-      ]
+      {
+        "ItemMasterId": 130025,
+        "RequiredQuantity": 30
+      }
     ]
   },
   {
@@ -737,10 +737,10 @@
     "BaseLevel": 4,
     "RequiredCoin": 2000,
     "Items": [
-      [
-        130025,
-        40
-      ]
+      {
+        "ItemMasterId": 130025,
+        "RequiredQuantity": 40
+      }
     ]
   },
   {
@@ -749,18 +749,18 @@
     "BaseLevel": 5,
     "RequiredCoin": 3000,
     "Items": [
-      [
-        130025,
-        50
-      ],
-      [
-        130035,
-        10
-      ],
-      [
-        130091,
-        10
-      ]
+      {
+        "ItemMasterId": 130025,
+        "RequiredQuantity": 50
+      },
+      {
+        "ItemMasterId": 130035,
+        "RequiredQuantity": 10
+      },
+      {
+        "ItemMasterId": 130091,
+        "RequiredQuantity": 10
+      }
     ]
   },
   {
@@ -769,14 +769,14 @@
     "BaseLevel": 6,
     "RequiredCoin": 4000,
     "Items": [
-      [
-        130025,
-        60
-      ],
-      [
-        130035,
-        20
-      ]
+      {
+        "ItemMasterId": 130025,
+        "RequiredQuantity": 60
+      },
+      {
+        "ItemMasterId": 130035,
+        "RequiredQuantity": 20
+      }
     ]
   },
   {
@@ -785,14 +785,14 @@
     "BaseLevel": 7,
     "RequiredCoin": 5000,
     "Items": [
-      [
-        130025,
-        70
-      ],
-      [
-        130035,
-        30
-      ]
+      {
+        "ItemMasterId": 130025,
+        "RequiredQuantity": 70
+      },
+      {
+        "ItemMasterId": 130035,
+        "RequiredQuantity": 30
+      }
     ]
   },
   {
@@ -801,14 +801,14 @@
     "BaseLevel": 8,
     "RequiredCoin": 7000,
     "Items": [
-      [
-        130025,
-        80
-      ],
-      [
-        130035,
-        40
-      ]
+      {
+        "ItemMasterId": 130025,
+        "RequiredQuantity": 80
+      },
+      {
+        "ItemMasterId": 130035,
+        "RequiredQuantity": 40
+      }
     ]
   },
   {
@@ -817,14 +817,14 @@
     "BaseLevel": 9,
     "RequiredCoin": 10000,
     "Items": [
-      [
-        130025,
-        100
-      ],
-      [
-        130035,
-        50
-      ]
+      {
+        "ItemMasterId": 130025,
+        "RequiredQuantity": 100
+      },
+      {
+        "ItemMasterId": 130035,
+        "RequiredQuantity": 50
+      }
     ]
   },
   {
@@ -833,18 +833,18 @@
     "BaseLevel": 10,
     "RequiredCoin": 15000,
     "Items": [
-      [
-        130025,
-        120
-      ],
-      [
-        130035,
-        60
-      ],
-      [
-        130091,
-        20
-      ]
+      {
+        "ItemMasterId": 130025,
+        "RequiredQuantity": 120
+      },
+      {
+        "ItemMasterId": 130035,
+        "RequiredQuantity": 60
+      },
+      {
+        "ItemMasterId": 130091,
+        "RequiredQuantity": 20
+      }
     ]
   },
   {
@@ -853,14 +853,14 @@
     "BaseLevel": 11,
     "RequiredCoin": 20000,
     "Items": [
-      [
-        130025,
-        140
-      ],
-      [
-        130035,
-        70
-      ]
+      {
+        "ItemMasterId": 130025,
+        "RequiredQuantity": 140
+      },
+      {
+        "ItemMasterId": 130035,
+        "RequiredQuantity": 70
+      }
     ]
   },
   {
@@ -869,14 +869,14 @@
     "BaseLevel": 12,
     "RequiredCoin": 30000,
     "Items": [
-      [
-        130025,
-        160
-      ],
-      [
-        130035,
-        80
-      ]
+      {
+        "ItemMasterId": 130025,
+        "RequiredQuantity": 160
+      },
+      {
+        "ItemMasterId": 130035,
+        "RequiredQuantity": 80
+      }
     ]
   },
   {
@@ -885,14 +885,14 @@
     "BaseLevel": 13,
     "RequiredCoin": 40000,
     "Items": [
-      [
-        130025,
-        180
-      ],
-      [
-        130035,
-        90
-      ]
+      {
+        "ItemMasterId": 130025,
+        "RequiredQuantity": 180
+      },
+      {
+        "ItemMasterId": 130035,
+        "RequiredQuantity": 90
+      }
     ]
   },
   {
@@ -901,14 +901,14 @@
     "BaseLevel": 14,
     "RequiredCoin": 50000,
     "Items": [
-      [
-        130025,
-        200
-      ],
-      [
-        130035,
-        100
-      ]
+      {
+        "ItemMasterId": 130025,
+        "RequiredQuantity": 200
+      },
+      {
+        "ItemMasterId": 130035,
+        "RequiredQuantity": 100
+      }
     ]
   },
   {
@@ -917,18 +917,18 @@
     "BaseLevel": 15,
     "RequiredCoin": 60000,
     "Items": [
-      [
-        130025,
-        240
-      ],
-      [
-        130035,
-        120
-      ],
-      [
-        130091,
-        30
-      ]
+      {
+        "ItemMasterId": 130025,
+        "RequiredQuantity": 240
+      },
+      {
+        "ItemMasterId": 130035,
+        "RequiredQuantity": 120
+      },
+      {
+        "ItemMasterId": 130091,
+        "RequiredQuantity": 30
+      }
     ]
   },
   {
@@ -937,14 +937,14 @@
     "BaseLevel": 16,
     "RequiredCoin": 70000,
     "Items": [
-      [
-        130025,
-        280
-      ],
-      [
-        130035,
-        140
-      ]
+      {
+        "ItemMasterId": 130025,
+        "RequiredQuantity": 280
+      },
+      {
+        "ItemMasterId": 130035,
+        "RequiredQuantity": 140
+      }
     ]
   },
   {
@@ -953,14 +953,14 @@
     "BaseLevel": 17,
     "RequiredCoin": 80000,
     "Items": [
-      [
-        130025,
-        320
-      ],
-      [
-        130035,
-        160
-      ]
+      {
+        "ItemMasterId": 130025,
+        "RequiredQuantity": 320
+      },
+      {
+        "ItemMasterId": 130035,
+        "RequiredQuantity": 160
+      }
     ]
   },
   {
@@ -969,14 +969,14 @@
     "BaseLevel": 18,
     "RequiredCoin": 90000,
     "Items": [
-      [
-        130025,
-        360
-      ],
-      [
-        130035,
-        180
-      ]
+      {
+        "ItemMasterId": 130025,
+        "RequiredQuantity": 360
+      },
+      {
+        "ItemMasterId": 130035,
+        "RequiredQuantity": 180
+      }
     ]
   },
   {
@@ -985,14 +985,14 @@
     "BaseLevel": 19,
     "RequiredCoin": 100000,
     "Items": [
-      [
-        130025,
-        400
-      ],
-      [
-        130035,
-        200
-      ]
+      {
+        "ItemMasterId": 130025,
+        "RequiredQuantity": 400
+      },
+      {
+        "ItemMasterId": 130035,
+        "RequiredQuantity": 200
+      }
     ]
   },
   {
@@ -1001,18 +1001,18 @@
     "BaseLevel": 20,
     "RequiredCoin": 110000,
     "Items": [
-      [
-        130025,
-        500
-      ],
-      [
-        130035,
-        250
-      ],
-      [
-        130091,
-        40
-      ]
+      {
+        "ItemMasterId": 130025,
+        "RequiredQuantity": 500
+      },
+      {
+        "ItemMasterId": 130035,
+        "RequiredQuantity": 250
+      },
+      {
+        "ItemMasterId": 130091,
+        "RequiredQuantity": 40
+      }
     ]
   },
   {
@@ -1021,18 +1021,18 @@
     "BaseLevel": 21,
     "RequiredCoin": 120000,
     "Items": [
-      [
-        130025,
-        600
-      ],
-      [
-        130035,
-        300
-      ],
-      [
-        130091,
-        10
-      ]
+      {
+        "ItemMasterId": 130025,
+        "RequiredQuantity": 600
+      },
+      {
+        "ItemMasterId": 130035,
+        "RequiredQuantity": 300
+      },
+      {
+        "ItemMasterId": 130091,
+        "RequiredQuantity": 10
+      }
     ]
   },
   {
@@ -1041,18 +1041,18 @@
     "BaseLevel": 22,
     "RequiredCoin": 130000,
     "Items": [
-      [
-        130025,
-        700
-      ],
-      [
-        130035,
-        350
-      ],
-      [
-        130091,
-        10
-      ]
+      {
+        "ItemMasterId": 130025,
+        "RequiredQuantity": 700
+      },
+      {
+        "ItemMasterId": 130035,
+        "RequiredQuantity": 350
+      },
+      {
+        "ItemMasterId": 130091,
+        "RequiredQuantity": 10
+      }
     ]
   },
   {
@@ -1061,18 +1061,18 @@
     "BaseLevel": 23,
     "RequiredCoin": 140000,
     "Items": [
-      [
-        130025,
-        800
-      ],
-      [
-        130035,
-        400
-      ],
-      [
-        130091,
-        10
-      ]
+      {
+        "ItemMasterId": 130025,
+        "RequiredQuantity": 800
+      },
+      {
+        "ItemMasterId": 130035,
+        "RequiredQuantity": 400
+      },
+      {
+        "ItemMasterId": 130091,
+        "RequiredQuantity": 10
+      }
     ]
   },
   {
@@ -1081,18 +1081,18 @@
     "BaseLevel": 24,
     "RequiredCoin": 150000,
     "Items": [
-      [
-        130025,
-        1000
-      ],
-      [
-        130035,
-        500
-      ],
-      [
-        130091,
-        10
-      ]
+      {
+        "ItemMasterId": 130025,
+        "RequiredQuantity": 1000
+      },
+      {
+        "ItemMasterId": 130035,
+        "RequiredQuantity": 500
+      },
+      {
+        "ItemMasterId": 130091,
+        "RequiredQuantity": 10
+      }
     ]
   }
 ]

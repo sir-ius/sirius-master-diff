@@ -2,11 +2,11 @@
   {
     "Id": 101,
     "Rewards": [
-      [
-        130011,
-        1,
-        300
-      ]
+      {
+        "ThingId": 130011,
+        "ThingType": 1,
+        "ThingQuantity": 300
+      }
     ],
     "ClassType": 1,
     "MinRank": 1,
@@ -16,11 +16,11 @@
   {
     "Id": 102,
     "Rewards": [
-      [
-        130011,
-        1,
-        250
-      ]
+      {
+        "ThingId": 130011,
+        "ThingType": 1,
+        "ThingQuantity": 250
+      }
     ],
     "ClassType": 1,
     "MinRank": 2,
@@ -30,11 +30,11 @@
   {
     "Id": 103,
     "Rewards": [
-      [
-        130011,
-        1,
-        200
-      ]
+      {
+        "ThingId": 130011,
+        "ThingType": 1,
+        "ThingQuantity": 200
+      }
     ],
     "ClassType": 1,
     "MinRank": 3,
@@ -44,11 +44,11 @@
   {
     "Id": 104,
     "Rewards": [
-      [
-        130011,
-        1,
-        160
-      ]
+      {
+        "ThingId": 130011,
+        "ThingType": 1,
+        "ThingQuantity": 160
+      }
     ],
     "ClassType": 1,
     "MinRank": 5,
@@ -58,11 +58,11 @@
   {
     "Id": 105,
     "Rewards": [
-      [
-        130011,
-        1,
-        120
-      ]
+      {
+        "ThingId": 130011,
+        "ThingType": 1,
+        "ThingQuantity": 120
+      }
     ],
     "ClassType": 1,
     "MinRank": 10,
@@ -72,11 +72,11 @@
   {
     "Id": 106,
     "Rewards": [
-      [
-        130011,
-        1,
-        80
-      ]
+      {
+        "ThingId": 130011,
+        "ThingType": 1,
+        "ThingQuantity": 80
+      }
     ],
     "ClassType": 1,
     "MinRank": 30,
@@ -86,11 +86,11 @@
   {
     "Id": 107,
     "Rewards": [
-      [
-        130011,
-        1,
-        50
-      ]
+      {
+        "ThingId": 130011,
+        "ThingType": 1,
+        "ThingQuantity": 50
+      }
     ],
     "ClassType": 1,
     "MinRank": 50,
@@ -100,11 +100,11 @@
   {
     "Id": 108,
     "Rewards": [
-      [
-        130011,
-        1,
-        30
-      ]
+      {
+        "ThingId": 130011,
+        "ThingType": 1,
+        "ThingQuantity": 30
+      }
     ],
     "ClassType": 1,
     "MinRank": 999,
@@ -114,11 +114,11 @@
   {
     "Id": 201,
     "Rewards": [
-      [
-        130011,
-        1,
-        350
-      ]
+      {
+        "ThingId": 130011,
+        "ThingType": 1,
+        "ThingQuantity": 350
+      }
     ],
     "ClassType": 2,
     "MinRank": 1,
@@ -128,11 +128,11 @@
   {
     "Id": 202,
     "Rewards": [
-      [
-        130011,
-        1,
-        300
-      ]
+      {
+        "ThingId": 130011,
+        "ThingType": 1,
+        "ThingQuantity": 300
+      }
     ],
     "ClassType": 2,
     "MinRank": 2,
@@ -142,11 +142,11 @@
   {
     "Id": 203,
     "Rewards": [
-      [
-        130011,
-        1,
-        250
-      ]
+      {
+        "ThingId": 130011,
+        "ThingType": 1,
+        "ThingQuantity": 250
+      }
     ],
     "ClassType": 2,
     "MinRank": 3,
@@ -156,11 +156,11 @@
   {
     "Id": 204,
     "Rewards": [
-      [
-        130011,
-        1,
-        200
-      ]
+      {
+        "ThingId": 130011,
+        "ThingType": 1,
+        "ThingQuantity": 200
+      }
     ],
     "ClassType": 2,
     "MinRank": 5,
@@ -170,11 +170,11 @@
   {
     "Id": 205,
     "Rewards": [
-      [
-        130011,
-        1,
-        160
-      ]
+      {
+        "ThingId": 130011,
+        "ThingType": 1,
+        "ThingQuantity": 160
+      }
     ],
     "ClassType": 2,
     "MinRank": 10,
@@ -184,11 +184,11 @@
   {
     "Id": 206,
     "Rewards": [
-      [
-        130011,
-        1,
-        120
-      ]
+      {
+        "ThingId": 130011,
+        "ThingType": 1,
+        "ThingQuantity": 120
+      }
     ],
     "ClassType": 2,
     "MinRank": 30,
@@ -198,11 +198,11 @@
   {
     "Id": 207,
     "Rewards": [
-      [
-        130011,
-        1,
-        80
-      ]
+      {
+        "ThingId": 130011,
+        "ThingType": 1,
+        "ThingQuantity": 80
+      }
     ],
     "ClassType": 2,
     "MinRank": 50,
@@ -212,11 +212,11 @@
   {
     "Id": 208,
     "Rewards": [
-      [
-        130011,
-        1,
-        50
-      ]
+      {
+        "ThingId": 130011,
+        "ThingType": 1,
+        "ThingQuantity": 50
+      }
     ],
     "ClassType": 2,
     "MinRank": 999,
@@ -226,11 +226,11 @@
   {
     "Id": 301,
     "Rewards": [
-      [
-        130011,
-        1,
-        400
-      ]
+      {
+        "ThingId": 130011,
+        "ThingType": 1,
+        "ThingQuantity": 400
+      }
     ],
     "ClassType": 3,
     "MinRank": 1,
@@ -240,11 +240,11 @@
   {
     "Id": 302,
     "Rewards": [
-      [
-        130011,
-        1,
-        350
-      ]
+      {
+        "ThingId": 130011,
+        "ThingType": 1,
+        "ThingQuantity": 350
+      }
     ],
     "ClassType": 3,
     "MinRank": 2,
@@ -254,11 +254,11 @@
   {
     "Id": 303,
     "Rewards": [
-      [
-        130011,
-        1,
-        300
-      ]
+      {
+        "ThingId": 130011,
+        "ThingType": 1,
+        "ThingQuantity": 300
+      }
     ],
     "ClassType": 3,
     "MinRank": 3,
@@ -268,11 +268,11 @@
   {
     "Id": 304,
     "Rewards": [
-      [
-        130011,
-        1,
-        250
-      ]
+      {
+        "ThingId": 130011,
+        "ThingType": 1,
+        "ThingQuantity": 250
+      }
     ],
     "ClassType": 3,
     "MinRank": 5,
@@ -282,11 +282,11 @@
   {
     "Id": 305,
     "Rewards": [
-      [
-        130011,
-        1,
-        200
-      ]
+      {
+        "ThingId": 130011,
+        "ThingType": 1,
+        "ThingQuantity": 200
+      }
     ],
     "ClassType": 3,
     "MinRank": 10,
@@ -296,11 +296,11 @@
   {
     "Id": 306,
     "Rewards": [
-      [
-        130011,
-        1,
-        160
-      ]
+      {
+        "ThingId": 130011,
+        "ThingType": 1,
+        "ThingQuantity": 160
+      }
     ],
     "ClassType": 3,
     "MinRank": 30,
@@ -310,11 +310,11 @@
   {
     "Id": 307,
     "Rewards": [
-      [
-        130011,
-        1,
-        120
-      ]
+      {
+        "ThingId": 130011,
+        "ThingType": 1,
+        "ThingQuantity": 120
+      }
     ],
     "ClassType": 3,
     "MinRank": 50,
@@ -324,11 +324,11 @@
   {
     "Id": 308,
     "Rewards": [
-      [
-        130011,
-        1,
-        80
-      ]
+      {
+        "ThingId": 130011,
+        "ThingType": 1,
+        "ThingQuantity": 80
+      }
     ],
     "ClassType": 3,
     "MinRank": 999,
@@ -338,11 +338,11 @@
   {
     "Id": 401,
     "Rewards": [
-      [
-        130011,
-        1,
-        450
-      ]
+      {
+        "ThingId": 130011,
+        "ThingType": 1,
+        "ThingQuantity": 450
+      }
     ],
     "ClassType": 4,
     "MinRank": 1,
@@ -352,11 +352,11 @@
   {
     "Id": 402,
     "Rewards": [
-      [
-        130011,
-        1,
-        400
-      ]
+      {
+        "ThingId": 130011,
+        "ThingType": 1,
+        "ThingQuantity": 400
+      }
     ],
     "ClassType": 4,
     "MinRank": 2,
@@ -366,11 +366,11 @@
   {
     "Id": 403,
     "Rewards": [
-      [
-        130011,
-        1,
-        350
-      ]
+      {
+        "ThingId": 130011,
+        "ThingType": 1,
+        "ThingQuantity": 350
+      }
     ],
     "ClassType": 4,
     "MinRank": 3,
@@ -380,11 +380,11 @@
   {
     "Id": 404,
     "Rewards": [
-      [
-        130011,
-        1,
-        300
-      ]
+      {
+        "ThingId": 130011,
+        "ThingType": 1,
+        "ThingQuantity": 300
+      }
     ],
     "ClassType": 4,
     "MinRank": 5,
@@ -394,11 +394,11 @@
   {
     "Id": 405,
     "Rewards": [
-      [
-        130011,
-        1,
-        250
-      ]
+      {
+        "ThingId": 130011,
+        "ThingType": 1,
+        "ThingQuantity": 250
+      }
     ],
     "ClassType": 4,
     "MinRank": 10,
@@ -408,11 +408,11 @@
   {
     "Id": 406,
     "Rewards": [
-      [
-        130011,
-        1,
-        200
-      ]
+      {
+        "ThingId": 130011,
+        "ThingType": 1,
+        "ThingQuantity": 200
+      }
     ],
     "ClassType": 4,
     "MinRank": 30,
@@ -422,11 +422,11 @@
   {
     "Id": 407,
     "Rewards": [
-      [
-        130011,
-        1,
-        160
-      ]
+      {
+        "ThingId": 130011,
+        "ThingType": 1,
+        "ThingQuantity": 160
+      }
     ],
     "ClassType": 4,
     "MinRank": 50,
@@ -436,11 +436,11 @@
   {
     "Id": 408,
     "Rewards": [
-      [
-        130011,
-        1,
-        120
-      ]
+      {
+        "ThingId": 130011,
+        "ThingType": 1,
+        "ThingQuantity": 120
+      }
     ],
     "ClassType": 4,
     "MinRank": 999,
@@ -450,11 +450,11 @@
   {
     "Id": 501,
     "Rewards": [
-      [
-        130011,
-        1,
-        500
-      ]
+      {
+        "ThingId": 130011,
+        "ThingType": 1,
+        "ThingQuantity": 500
+      }
     ],
     "ClassType": 5,
     "MinRank": 1,
@@ -464,11 +464,11 @@
   {
     "Id": 502,
     "Rewards": [
-      [
-        130011,
-        1,
-        450
-      ]
+      {
+        "ThingId": 130011,
+        "ThingType": 1,
+        "ThingQuantity": 450
+      }
     ],
     "ClassType": 5,
     "MinRank": 2,
@@ -478,11 +478,11 @@
   {
     "Id": 503,
     "Rewards": [
-      [
-        130011,
-        1,
-        400
-      ]
+      {
+        "ThingId": 130011,
+        "ThingType": 1,
+        "ThingQuantity": 400
+      }
     ],
     "ClassType": 5,
     "MinRank": 3,
@@ -492,11 +492,11 @@
   {
     "Id": 504,
     "Rewards": [
-      [
-        130011,
-        1,
-        350
-      ]
+      {
+        "ThingId": 130011,
+        "ThingType": 1,
+        "ThingQuantity": 350
+      }
     ],
     "ClassType": 5,
     "MinRank": 5,
@@ -506,11 +506,11 @@
   {
     "Id": 505,
     "Rewards": [
-      [
-        130011,
-        1,
-        300
-      ]
+      {
+        "ThingId": 130011,
+        "ThingType": 1,
+        "ThingQuantity": 300
+      }
     ],
     "ClassType": 5,
     "MinRank": 10,
@@ -520,11 +520,11 @@
   {
     "Id": 506,
     "Rewards": [
-      [
-        130011,
-        1,
-        250
-      ]
+      {
+        "ThingId": 130011,
+        "ThingType": 1,
+        "ThingQuantity": 250
+      }
     ],
     "ClassType": 5,
     "MinRank": 30,
@@ -534,11 +534,11 @@
   {
     "Id": 507,
     "Rewards": [
-      [
-        130011,
-        1,
-        200
-      ]
+      {
+        "ThingId": 130011,
+        "ThingType": 1,
+        "ThingQuantity": 200
+      }
     ],
     "ClassType": 5,
     "MinRank": 50,
@@ -548,11 +548,11 @@
   {
     "Id": 508,
     "Rewards": [
-      [
-        130011,
-        1,
-        160
-      ]
+      {
+        "ThingId": 130011,
+        "ThingType": 1,
+        "ThingQuantity": 160
+      }
     ],
     "ClassType": 5,
     "MinRank": 999,
@@ -562,11 +562,11 @@
   {
     "Id": 601,
     "Rewards": [
-      [
-        130011,
-        1,
-        700
-      ]
+      {
+        "ThingId": 130011,
+        "ThingType": 1,
+        "ThingQuantity": 700
+      }
     ],
     "ClassType": 6,
     "MinRank": 1,
@@ -576,11 +576,11 @@
   {
     "Id": 602,
     "Rewards": [
-      [
-        130011,
-        1,
-        600
-      ]
+      {
+        "ThingId": 130011,
+        "ThingType": 1,
+        "ThingQuantity": 600
+      }
     ],
     "ClassType": 6,
     "MinRank": 2,
@@ -590,11 +590,11 @@
   {
     "Id": 603,
     "Rewards": [
-      [
-        130011,
-        1,
-        550
-      ]
+      {
+        "ThingId": 130011,
+        "ThingType": 1,
+        "ThingQuantity": 550
+      }
     ],
     "ClassType": 6,
     "MinRank": 3,
@@ -604,11 +604,11 @@
   {
     "Id": 604,
     "Rewards": [
-      [
-        130011,
-        1,
-        500
-      ]
+      {
+        "ThingId": 130011,
+        "ThingType": 1,
+        "ThingQuantity": 500
+      }
     ],
     "ClassType": 6,
     "MinRank": 5,
@@ -618,11 +618,11 @@
   {
     "Id": 605,
     "Rewards": [
-      [
-        130011,
-        1,
-        400
-      ]
+      {
+        "ThingId": 130011,
+        "ThingType": 1,
+        "ThingQuantity": 400
+      }
     ],
     "ClassType": 6,
     "MinRank": 10,
@@ -632,11 +632,11 @@
   {
     "Id": 606,
     "Rewards": [
-      [
-        130011,
-        1,
-        350
-      ]
+      {
+        "ThingId": 130011,
+        "ThingType": 1,
+        "ThingQuantity": 350
+      }
     ],
     "ClassType": 6,
     "MinRank": 30,
@@ -646,11 +646,11 @@
   {
     "Id": 607,
     "Rewards": [
-      [
-        130011,
-        1,
-        300
-      ]
+      {
+        "ThingId": 130011,
+        "ThingType": 1,
+        "ThingQuantity": 300
+      }
     ],
     "ClassType": 6,
     "MinRank": 50,
@@ -660,11 +660,11 @@
   {
     "Id": 608,
     "Rewards": [
-      [
-        130011,
-        1,
-        250
-      ]
+      {
+        "ThingId": 130011,
+        "ThingType": 1,
+        "ThingQuantity": 250
+      }
     ],
     "ClassType": 6,
     "MinRank": 999,
@@ -674,11 +674,11 @@
   {
     "Id": 701,
     "Rewards": [
-      [
-        130011,
-        1,
-        1000
-      ]
+      {
+        "ThingId": 130011,
+        "ThingType": 1,
+        "ThingQuantity": 1000
+      }
     ],
     "ClassType": 7,
     "MinRank": 1,
@@ -688,11 +688,11 @@
   {
     "Id": 702,
     "Rewards": [
-      [
-        130011,
-        1,
-        900
-      ]
+      {
+        "ThingId": 130011,
+        "ThingType": 1,
+        "ThingQuantity": 900
+      }
     ],
     "ClassType": 7,
     "MinRank": 2,
@@ -702,11 +702,11 @@
   {
     "Id": 703,
     "Rewards": [
-      [
-        130011,
-        1,
-        800
-      ]
+      {
+        "ThingId": 130011,
+        "ThingType": 1,
+        "ThingQuantity": 800
+      }
     ],
     "ClassType": 7,
     "MinRank": 3,
@@ -716,11 +716,11 @@
   {
     "Id": 704,
     "Rewards": [
-      [
-        130011,
-        1,
-        700
-      ]
+      {
+        "ThingId": 130011,
+        "ThingType": 1,
+        "ThingQuantity": 700
+      }
     ],
     "ClassType": 7,
     "MinRank": 5,
@@ -730,11 +730,11 @@
   {
     "Id": 705,
     "Rewards": [
-      [
-        130011,
-        1,
-        600
-      ]
+      {
+        "ThingId": 130011,
+        "ThingType": 1,
+        "ThingQuantity": 600
+      }
     ],
     "ClassType": 7,
     "MinRank": 10,
@@ -744,11 +744,11 @@
   {
     "Id": 706,
     "Rewards": [
-      [
-        130011,
-        1,
-        550
-      ]
+      {
+        "ThingId": 130011,
+        "ThingType": 1,
+        "ThingQuantity": 550
+      }
     ],
     "ClassType": 7,
     "MinRank": 30,
@@ -758,11 +758,11 @@
   {
     "Id": 707,
     "Rewards": [
-      [
-        130011,
-        1,
-        500
-      ]
+      {
+        "ThingId": 130011,
+        "ThingType": 1,
+        "ThingQuantity": 500
+      }
     ],
     "ClassType": 7,
     "MinRank": 50,
@@ -772,11 +772,11 @@
   {
     "Id": 708,
     "Rewards": [
-      [
-        130011,
-        1,
-        400
-      ]
+      {
+        "ThingId": 130011,
+        "ThingType": 1,
+        "ThingQuantity": 400
+      }
     ],
     "ClassType": 7,
     "MinRank": 999,

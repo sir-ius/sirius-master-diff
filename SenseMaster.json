@@ -18,26 +18,26 @@
     "Description": "ここな編成時、ここなが代わりにセンスを発動し、ここなのスコア獲得量[:pre1]％UP",
     "Type": 10,
     "PreEffects": [
-      [
-        1,
-        20021
-      ]
+      {
+        "Order": 1,
+        "EffectMasterId": 20021
+      }
     ],
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            20001
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 20001
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        1100201
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 1100201
+      }
     ],
     "AcquirableGauge": 0,
     "AcquirableScorePercent": 0,
@@ -299,20 +299,20 @@
     "Type": 4,
     "PreEffects": [],
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            20032
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 20032
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        1200101
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 1200101
+      }
     ],
     "AcquirableGauge": 0,
     "AcquirableScorePercent": 160,
@@ -326,26 +326,26 @@
     "Description": "ここな編成時、ここなが代わりにセンスを発動し、ここなのスコア獲得量[:pre1]％UP",
     "Type": 10,
     "PreEffects": [
-      [
-        1,
-        20022
-      ]
+      {
+        "Order": 1,
+        "EffectMasterId": 20022
+      }
     ],
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            20001
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 20001
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        1200201
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 1200201
+      }
     ],
     "AcquirableGauge": 0,
     "AcquirableScorePercent": 0,
@@ -399,20 +399,20 @@
     "Type": 4,
     "PreEffects": [],
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            20012
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 20012
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        1200601
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 1200601
+      }
     ],
     "AcquirableGauge": 0,
     "AcquirableScorePercent": 120,
@@ -427,20 +427,20 @@
     "Type": 1,
     "PreEffects": [],
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            20042
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 20042
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        1200701
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 1200701
+      }
     ],
     "AcquirableGauge": 0,
     "AcquirableScorePercent": 160,
@@ -455,20 +455,20 @@
     "Type": 3,
     "PreEffects": [],
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            20012
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 20012
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        1200801
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 1200801
+      }
     ],
     "AcquirableGauge": 0,
     "AcquirableScorePercent": 150,
@@ -522,20 +522,20 @@
     "Type": 4,
     "PreEffects": [],
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            20052
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 20052
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        1201201
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 1201201
+      }
     ],
     "AcquirableGauge": 0,
     "AcquirableScorePercent": 160,
@@ -563,20 +563,20 @@
     "Type": 3,
     "PreEffects": [],
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            20012
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 20012
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        1201401
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 1201401
+      }
     ],
     "AcquirableGauge": 0,
     "AcquirableScorePercent": 150,
@@ -604,20 +604,20 @@
     "Type": 3,
     "PreEffects": [],
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            20012
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 20012
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        1201601
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 1201601
+      }
     ],
     "AcquirableGauge": 0,
     "AcquirableScorePercent": 150,
@@ -645,20 +645,20 @@
     "Type": 3,
     "PreEffects": [],
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            20062
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 20062
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        1201801
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 1201801
+      }
     ],
     "AcquirableGauge": 0,
     "AcquirableScorePercent": 160,
@@ -712,20 +712,20 @@
     "Type": 4,
     "PreEffects": [],
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            20033
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 20033
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        1300101
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 1300101
+      }
     ],
     "AcquirableGauge": 0,
     "AcquirableScorePercent": 140,
@@ -739,26 +739,26 @@
     "Description": "ここな編成時、ここなが代わりにセンスを発動し、ここなのスコア獲得量[:pre1]％UP",
     "Type": 10,
     "PreEffects": [
-      [
-        1,
-        20023
-      ]
+      {
+        "Order": 1,
+        "EffectMasterId": 20023
+      }
     ],
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            20001
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 20001
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        1300201
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 1300201
+      }
     ],
     "AcquirableGauge": 0,
     "AcquirableScorePercent": 0,
@@ -799,20 +799,20 @@
     "Type": 3,
     "PreEffects": [],
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            20013
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 20013
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        1300501
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 1300501
+      }
     ],
     "AcquirableGauge": 0,
     "AcquirableScorePercent": 190,
@@ -840,20 +840,20 @@
     "Type": 1,
     "PreEffects": [],
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            20043
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 20043
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        1300701
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 1300701
+      }
     ],
     "AcquirableGauge": 0,
     "AcquirableScorePercent": 190,
@@ -868,20 +868,20 @@
     "Type": 3,
     "PreEffects": [],
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            20013
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 20013
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        1300801
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 1300801
+      }
     ],
     "AcquirableGauge": 0,
     "AcquirableScorePercent": 190,
@@ -935,20 +935,20 @@
     "Type": 4,
     "PreEffects": [],
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            20053
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 20053
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        1301201
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 1301201
+      }
     ],
     "AcquirableGauge": 0,
     "AcquirableScorePercent": 140,
@@ -976,20 +976,20 @@
     "Type": 3,
     "PreEffects": [],
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            20013
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 20013
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        1301401
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 1301401
+      }
     ],
     "AcquirableGauge": 0,
     "AcquirableScorePercent": 140,
@@ -1043,20 +1043,20 @@
     "Type": 3,
     "PreEffects": [],
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            20063
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 20063
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        1301801
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 1301801
+      }
     ],
     "AcquirableGauge": 0,
     "AcquirableScorePercent": 140,
@@ -1071,20 +1071,20 @@
     "Type": 1,
     "PreEffects": [],
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            20013
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 20013
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        1301901
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 1301901
+      }
     ],
     "AcquirableGauge": 0,
     "AcquirableScorePercent": 140,
@@ -1125,20 +1125,20 @@
     "Type": 4,
     "PreEffects": [],
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            20013
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 20013
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        1302201
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 1302201
+      }
     ],
     "AcquirableGauge": 0,
     "AcquirableScorePercent": 190,
@@ -1152,26 +1152,26 @@
     "Description": "[:score]倍のスコアを獲得／ライフを[:param11]回復／ライフが多いほどここなのスコア獲得量UP（最大＋100％）",
     "Type": 1,
     "PreEffects": [
-      [
-        1,
-        28001
-      ]
+      {
+        "Order": 1,
+        "EffectMasterId": 28001
+      }
     ],
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            20014
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 20014
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        1400101
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 1400101
+      }
     ],
     "AcquirableGauge": 0,
     "AcquirableScorePercent": 220,
@@ -1199,20 +1199,20 @@
     "Type": 3,
     "PreEffects": [],
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            20014
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 20014
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        1400301
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 1400301
+      }
     ],
     "AcquirableGauge": 0,
     "AcquirableScorePercent": 250,
@@ -1240,20 +1240,20 @@
     "Type": 2,
     "PreEffects": [],
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            20014
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 20014
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        1400501
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 1400501
+      }
     ],
     "AcquirableGauge": 0,
     "AcquirableScorePercent": 250,
@@ -1294,20 +1294,20 @@
     "Type": 4,
     "PreEffects": [],
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            20054
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 20054
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        1400801
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 1400801
+      }
     ],
     "AcquirableGauge": 0,
     "AcquirableScorePercent": 220,
@@ -1361,20 +1361,20 @@
     "Type": 3,
     "PreEffects": [],
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            20064
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 20064
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        1401201
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 1401201
+      }
     ],
     "AcquirableGauge": 0,
     "AcquirableScorePercent": 220,
@@ -1402,20 +1402,20 @@
     "Type": 3,
     "PreEffects": [],
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            21001
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 21001
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        1401401
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 1401401
+      }
     ],
     "AcquirableGauge": 0,
     "AcquirableScorePercent": 260,
@@ -1443,20 +1443,20 @@
     "Type": 1,
     "PreEffects": [],
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            20054
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 20054
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        1401601
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 1401601
+      }
     ],
     "AcquirableGauge": 0,
     "AcquirableScorePercent": 250,

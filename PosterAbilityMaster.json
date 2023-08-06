@@ -9,20 +9,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            70011000
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 70011000
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        21001001
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 21001001
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -39,20 +39,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10010000
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10010000
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        21001101
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 21001101
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -69,20 +69,20 @@
     "ReleaseLevelAt": 5,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10010101
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10010101
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        21001201
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 21001201
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -99,20 +99,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            70012100
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 70012100
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        21002001
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 21002001
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -129,20 +129,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10010000
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10010000
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        21002101
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 21002101
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -159,20 +159,20 @@
     "ReleaseLevelAt": 5,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10010102
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10010102
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        21002201
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 21002201
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -189,20 +189,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            70012002
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 70012002
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        21003001
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 21003001
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -219,20 +219,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10010000
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10010000
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        21003101
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 21003101
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -249,20 +249,20 @@
     "ReleaseLevelAt": 5,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10010103
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10010103
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        21003201
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 21003201
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -279,20 +279,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            70012001
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 70012001
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        21004001
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 21004001
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -309,20 +309,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10010000
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10010000
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        21004101
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 21004101
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -339,20 +339,20 @@
     "ReleaseLevelAt": 5,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10010104
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10010104
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        21004201
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 21004201
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -369,20 +369,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            70012004
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 70012004
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        21005001
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 21005001
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -399,20 +399,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10010000
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10010000
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        21005101
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 21005101
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -429,20 +429,20 @@
     "ReleaseLevelAt": 5,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10010105
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10010105
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        21005201
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 21005201
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -459,20 +459,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            70012003
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 70012003
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        21006001
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 21006001
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -489,20 +489,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10010000
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10010000
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        21006101
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 21006101
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -519,20 +519,20 @@
     "ReleaseLevelAt": 5,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10010106
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10010106
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        21006201
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 21006201
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -549,20 +549,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            70012200
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 70012200
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        21007001
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 21007001
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -579,20 +579,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10010000
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10010000
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        21007101
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 21007101
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -609,20 +609,20 @@
     "ReleaseLevelAt": 5,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10010201
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10010201
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        21007201
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 21007201
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -639,20 +639,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            70012002
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 70012002
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        21008001
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 21008001
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -669,20 +669,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10010000
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10010000
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        21008101
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 21008101
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -699,20 +699,20 @@
     "ReleaseLevelAt": 5,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10010202
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10010202
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        21008201
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 21008201
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -729,20 +729,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            70012004
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 70012004
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        21009001
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 21009001
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -759,20 +759,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10010000
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10010000
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        21009101
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 21009101
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -789,20 +789,20 @@
     "ReleaseLevelAt": 5,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10010203
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10010203
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        21009201
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 21009201
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -819,20 +819,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            70012003
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 70012003
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        21010001
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 21010001
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -849,20 +849,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10010000
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10010000
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        21010101
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 21010101
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -879,20 +879,20 @@
     "ReleaseLevelAt": 5,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10010204
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10010204
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        21010201
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 21010201
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -909,20 +909,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            70012001
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 70012001
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        21011001
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 21011001
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -939,20 +939,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10010000
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10010000
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        21011101
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 21011101
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -969,20 +969,20 @@
     "ReleaseLevelAt": 5,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10010205
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10010205
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        21011201
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 21011201
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -999,20 +999,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            70012300
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 70012300
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        21012001
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 21012001
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -1029,20 +1029,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10010000
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10010000
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        21012101
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 21012101
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -1059,20 +1059,20 @@
     "ReleaseLevelAt": 5,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10010301
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10010301
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        21012201
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 21012201
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -1089,20 +1089,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            70012002
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 70012002
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        21013001
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 21013001
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -1119,20 +1119,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10010000
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10010000
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        21013101
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 21013101
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -1149,20 +1149,20 @@
     "ReleaseLevelAt": 5,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10010302
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10010302
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        21013201
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 21013201
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -1179,20 +1179,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            70012004
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 70012004
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        21014001
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 21014001
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -1209,20 +1209,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10010000
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10010000
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        21014101
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 21014101
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -1239,20 +1239,20 @@
     "ReleaseLevelAt": 5,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10010303
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10010303
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        21014201
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 21014201
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -1269,20 +1269,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            70012003
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 70012003
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        21015001
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 21015001
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -1299,20 +1299,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10010000
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10010000
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        21015101
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 21015101
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -1329,20 +1329,20 @@
     "ReleaseLevelAt": 5,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10010304
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10010304
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        21015201
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 21015201
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -1359,20 +1359,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            70012001
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 70012001
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        21016001
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 21016001
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -1389,20 +1389,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10010000
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10010000
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        21016101
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 21016101
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -1419,20 +1419,20 @@
     "ReleaseLevelAt": 5,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10010305
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10010305
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        21016201
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 21016201
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -1449,20 +1449,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            70012400
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 70012400
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        21017001
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 21017001
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -1479,20 +1479,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10010000
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10010000
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        21017101
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 21017101
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -1509,20 +1509,20 @@
     "ReleaseLevelAt": 5,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10010401
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10010401
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        21017201
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 21017201
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -1539,20 +1539,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            70012003
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 70012003
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        21018001
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 21018001
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -1569,20 +1569,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10010000
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10010000
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        21018101
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 21018101
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -1599,20 +1599,20 @@
     "ReleaseLevelAt": 5,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10010402
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10010402
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        21018201
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 21018201
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -1629,20 +1629,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            70012004
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 70012004
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        21019001
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 21019001
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -1659,20 +1659,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10010000
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10010000
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        21019101
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 21019101
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -1689,20 +1689,20 @@
     "ReleaseLevelAt": 5,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10010403
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10010403
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        21019201
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 21019201
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -1719,20 +1719,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            70012002
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 70012002
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        21020001
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 21020001
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -1749,20 +1749,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10010000
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10010000
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        21020101
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 21020101
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -1779,20 +1779,20 @@
     "ReleaseLevelAt": 5,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10010404
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10010404
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        21020201
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 21020201
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -1809,20 +1809,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            70012001
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 70012001
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        21021001
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 21021001
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -1839,20 +1839,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10010000
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10010000
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        21021101
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 21021101
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -1869,20 +1869,20 @@
     "ReleaseLevelAt": 5,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10010405
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10010405
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        21021201
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 21021201
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -1899,20 +1899,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            70032100
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 70032100
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        22001001
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 22001001
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -1929,20 +1929,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10021100
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10021100
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        22001101
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 22001101
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -1959,20 +1959,20 @@
     "ReleaseLevelAt": 7,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            11210000
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 11210000
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        22001201
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 22001201
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -1989,20 +1989,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            70032200
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 70032200
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        22002001
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 22002001
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -2019,20 +2019,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10021200
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10021200
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        22002101
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 22002101
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -2049,20 +2049,20 @@
     "ReleaseLevelAt": 7,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            11210000
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 11210000
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        22002201
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 22002201
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -2079,20 +2079,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            70032300
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 70032300
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        22003001
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 22003001
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -2109,20 +2109,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10021300
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10021300
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        22003101
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 22003101
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -2139,20 +2139,20 @@
     "ReleaseLevelAt": 7,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            11210000
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 11210000
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        22003201
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 22003201
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -2169,20 +2169,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            70032400
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 70032400
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        22004001
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 22004001
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -2199,20 +2199,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10021400
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10021400
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        22004101
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 22004101
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -2229,20 +2229,20 @@
     "ReleaseLevelAt": 7,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            11210000
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 11210000
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        22004201
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 22004201
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -2259,20 +2259,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            70032100
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 70032100
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        22005001
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 22005001
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -2289,20 +2289,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10020100
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10020100
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        22005101
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 22005101
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -2319,20 +2319,20 @@
     "ReleaseLevelAt": 7,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            11810100
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 11810100
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        22005201
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 22005201
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -2349,20 +2349,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            70032200
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 70032200
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        22006001
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 22006001
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -2379,20 +2379,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10020200
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10020200
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        22006101
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 22006101
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -2409,20 +2409,20 @@
     "ReleaseLevelAt": 7,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            11810200
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 11810200
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        22006201
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 22006201
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -2439,20 +2439,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            70032300
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 70032300
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        22007001
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 22007001
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -2469,20 +2469,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10020300
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10020300
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        22007101
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 22007101
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -2499,20 +2499,20 @@
     "ReleaseLevelAt": 7,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            11810300
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 11810300
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        22007201
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 22007201
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -2529,20 +2529,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            70032400
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 70032400
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        22008001
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 22008001
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -2559,20 +2559,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10020400
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10020400
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        22008101
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 22008101
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -2589,20 +2589,20 @@
     "ReleaseLevelAt": 7,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            11810400
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 11810400
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        22008201
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 22008201
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -2619,20 +2619,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            70031000
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 70031000
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        22009001
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 22009001
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -2649,20 +2649,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10010000
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10010000
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        22009101
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 22009101
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -2679,20 +2679,20 @@
     "ReleaseLevelAt": 7,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10810000
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10810000
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        22009201
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 22009201
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -2709,20 +2709,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            70031000
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 70031000
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        22010001
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 22010001
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -2739,20 +2739,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10120000
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10120000
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        22010101
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 22010101
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -2769,20 +2769,20 @@
     "ReleaseLevelAt": 7,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10910000
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10910000
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        22010201
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 22010201
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -2799,20 +2799,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            70031000
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 70031000
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        22011001
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 22011001
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -2829,20 +2829,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10220000
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10220000
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        22011101
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 22011101
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -2859,20 +2859,20 @@
     "ReleaseLevelAt": 7,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            11010000
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 11010000
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        22011201
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 22011201
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -2889,20 +2889,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            70031000
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 70031000
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        22012001
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 22012001
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -2919,20 +2919,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10320000
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10320000
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        22012101
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 22012101
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -2949,20 +2949,20 @@
     "ReleaseLevelAt": 7,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            11110000
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 11110000
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        22012201
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 22012201
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -2979,20 +2979,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            70032001
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 70032001
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        22013001
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 22013001
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -3009,20 +3009,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10020001
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10020001
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        22013101
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 22013101
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -3039,20 +3039,20 @@
     "ReleaseLevelAt": 7,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            11510001
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 11510001
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        22013201
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 22013201
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -3069,20 +3069,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            70032002
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 70032002
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        22014001
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 22014001
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -3099,20 +3099,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10020002
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10020002
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        22014101
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 22014101
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -3129,20 +3129,20 @@
     "ReleaseLevelAt": 7,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            11510002
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 11510002
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        22014201
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 22014201
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -3159,20 +3159,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            70032003
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 70032003
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        22015001
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 22015001
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -3189,20 +3189,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10020003
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10020003
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        22015101
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 22015101
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -3219,20 +3219,20 @@
     "ReleaseLevelAt": 7,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            11510003
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 11510003
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        22015201
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 22015201
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -3249,20 +3249,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            70032004
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 70032004
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        22016001
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 22016001
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -3279,20 +3279,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10020004
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10020004
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        22016101
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 22016101
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -3309,20 +3309,20 @@
     "ReleaseLevelAt": 7,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            11510004
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 11510004
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        22016201
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 22016201
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -3339,20 +3339,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            70022200
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 70022200
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        22017001
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 22017001
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -3369,20 +3369,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10210200
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10210200
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        22017101
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 22017101
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -3399,20 +3399,20 @@
     "ReleaseLevelAt": 7,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            11010200
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 11010200
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        22017201
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 22017201
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -3429,20 +3429,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            70041003
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 70041003
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        22901001
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 22901001
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -3459,20 +3459,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10030003
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10030003
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        22901101
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 22901101
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -3489,20 +3489,20 @@
     "ReleaseLevelAt": 8,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            11210000
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 11210000
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        22901201
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 22901201
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -3519,20 +3519,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            70042000
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 70042000
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        23000001
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23000001
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -3549,20 +3549,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10030000
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10030000
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        23000101
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23000101
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -3579,20 +3579,20 @@
     "ReleaseLevelAt": 8,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            11810000
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 11810000
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        23000201
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23000201
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -3609,20 +3609,20 @@
     "ReleaseLevelAt": 10,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            12410000
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 12410000
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        23000301
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23000301
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -3639,20 +3639,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            70052100
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 70052100
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        23001001
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23001001
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -3669,20 +3669,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10030000
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10030000
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        23001101
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23001101
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -3699,20 +3699,20 @@
     "ReleaseLevelAt": 5,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10011100
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10011100
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        23001201
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23001201
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -3729,20 +3729,20 @@
     "ReleaseLevelAt": 7,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            11510100
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 11510100
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        23001301
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23001301
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -3759,20 +3759,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            70052200
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 70052200
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        23002001
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23002001
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -3789,20 +3789,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10030000
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10030000
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        23002101
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23002101
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -3819,20 +3819,20 @@
     "ReleaseLevelAt": 5,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10011200
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10011200
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        23002201
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23002201
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -3849,20 +3849,20 @@
     "ReleaseLevelAt": 7,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            11510200
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 11510200
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        23002301
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23002301
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -3879,20 +3879,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            70052300
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 70052300
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        23003001
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23003001
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -3909,20 +3909,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10030000
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10030000
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        23003101
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23003101
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -3939,20 +3939,20 @@
     "ReleaseLevelAt": 5,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10011300
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10011300
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        23003201
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23003201
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -3969,20 +3969,20 @@
     "ReleaseLevelAt": 7,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            11510300
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 11510300
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        23003301
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23003301
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -3999,20 +3999,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            70052400
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 70052400
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        23004001
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23004001
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -4029,20 +4029,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10030000
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10030000
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        23004101
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23004101
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -4059,20 +4059,20 @@
     "ReleaseLevelAt": 5,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10011400
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10011400
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        23004201
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23004201
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -4089,20 +4089,20 @@
     "ReleaseLevelAt": 7,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            11510400
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 11510400
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        23004301
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23004301
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -4119,20 +4119,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            70052001
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 70052001
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        23005001
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23005001
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -4149,20 +4149,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10030000
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10030000
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        23005101
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23005101
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -4179,20 +4179,20 @@
     "ReleaseLevelAt": 5,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10011001
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10011001
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        23005201
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23005201
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -4209,20 +4209,20 @@
     "ReleaseLevelAt": 7,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            11610001
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 11610001
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        23005301
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23005301
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -4239,20 +4239,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            70052002
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 70052002
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        23006001
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23006001
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -4269,20 +4269,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10030000
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10030000
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        23006101
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23006101
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -4299,20 +4299,20 @@
     "ReleaseLevelAt": 5,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10011002
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10011002
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        23006201
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23006201
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -4329,20 +4329,20 @@
     "ReleaseLevelAt": 7,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            11610002
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 11610002
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        23006301
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23006301
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -4359,20 +4359,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            70052003
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 70052003
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        23007001
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23007001
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -4389,20 +4389,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10030000
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10030000
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        23007101
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23007101
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -4419,20 +4419,20 @@
     "ReleaseLevelAt": 5,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10011003
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10011003
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        23007201
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23007201
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -4449,20 +4449,20 @@
     "ReleaseLevelAt": 7,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            11610003
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 11610003
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        23007301
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23007301
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -4479,20 +4479,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            70052004
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 70052004
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        23008001
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23008001
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -4509,20 +4509,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10030000
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10030000
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        23008101
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23008101
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -4539,20 +4539,20 @@
     "ReleaseLevelAt": 5,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10011004
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10011004
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        23008201
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23008201
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -4569,20 +4569,20 @@
     "ReleaseLevelAt": 7,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            11610004
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 11610004
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        23008301
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23008301
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -4599,20 +4599,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            70042100
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 70042100
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        23009001
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23009001
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -4629,20 +4629,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10030100
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10030100
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        23009101
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23009101
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -4659,20 +4659,20 @@
     "ReleaseLevelAt": 7,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10910100
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10910100
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        23009201
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23009201
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -4689,62 +4689,62 @@
     "ReleaseLevelAt": 9,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10511100
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10511100
+          }
         ],
-        3,
-        1,
-        null,
-        null,
-        23009301
-      ],
-      [
-        2,
-        [
-          [
-            1,
-            10512100
-          ]
+        "JudgeType1": 3,
+        "Parameter1": 1,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23009301
+      },
+      {
+        "Order": 2,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10512100
+          }
         ],
-        1,
-        2,
-        null,
-        null,
-        23009302
-      ],
-      [
-        3,
-        [
-          [
-            1,
-            10513100
-          ]
+        "JudgeType1": 1,
+        "Parameter1": 2,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23009302
+      },
+      {
+        "Order": 3,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10513100
+          }
         ],
-        1,
-        3,
-        null,
-        null,
-        23009303
-      ],
-      [
-        4,
-        [
-          [
-            1,
-            10514100
-          ]
+        "JudgeType1": 1,
+        "Parameter1": 3,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23009303
+      },
+      {
+        "Order": 4,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10514100
+          }
         ],
-        2,
-        4,
-        null,
-        null,
-        23009304
-      ]
+        "JudgeType1": 2,
+        "Parameter1": 4,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23009304
+      }
     ],
     "BranchConditionType1": 6,
     "ConditionValue1": null,
@@ -4761,20 +4761,20 @@
     "ReleaseLevelAt": 10,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            60000100
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 60000100
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        23009401
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23009401
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -4791,20 +4791,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            70042200
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 70042200
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        23010001
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23010001
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -4821,20 +4821,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10030200
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10030200
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        23010101
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23010101
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -4851,20 +4851,20 @@
     "ReleaseLevelAt": 7,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            11010200
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 11010200
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        23010201
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23010201
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -4881,62 +4881,62 @@
     "ReleaseLevelAt": 9,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10611200
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10611200
+          }
         ],
-        3,
-        1,
-        null,
-        null,
-        23010301
-      ],
-      [
-        2,
-        [
-          [
-            1,
-            10612200
-          ]
+        "JudgeType1": 3,
+        "Parameter1": 1,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23010301
+      },
+      {
+        "Order": 2,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10612200
+          }
         ],
-        1,
-        2,
-        null,
-        null,
-        23010302
-      ],
-      [
-        3,
-        [
-          [
-            1,
-            10613200
-          ]
+        "JudgeType1": 1,
+        "Parameter1": 2,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23010302
+      },
+      {
+        "Order": 3,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10613200
+          }
         ],
-        1,
-        3,
-        null,
-        null,
-        23010303
-      ],
-      [
-        4,
-        [
-          [
-            1,
-            10614200
-          ]
+        "JudgeType1": 1,
+        "Parameter1": 3,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23010303
+      },
+      {
+        "Order": 4,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10614200
+          }
         ],
-        2,
-        4,
-        null,
-        null,
-        23010304
-      ]
+        "JudgeType1": 2,
+        "Parameter1": 4,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23010304
+      }
     ],
     "BranchConditionType1": 6,
     "ConditionValue1": null,
@@ -4953,20 +4953,20 @@
     "ReleaseLevelAt": 10,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            60000200
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 60000200
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        23010401
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23010401
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -4983,20 +4983,20 @@
     "ReleaseLevelAt": 10,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            60000201
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 60000201
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        23010501
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23010501
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -5013,20 +5013,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            70042300
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 70042300
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        23011001
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23011001
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -5043,20 +5043,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10030300
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10030300
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        23011101
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23011101
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -5073,20 +5073,20 @@
     "ReleaseLevelAt": 7,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            11110300
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 11110300
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        23011201
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23011201
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -5103,62 +5103,62 @@
     "ReleaseLevelAt": 9,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10711300
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10711300
+          }
         ],
-        3,
-        1,
-        null,
-        null,
-        23011301
-      ],
-      [
-        2,
-        [
-          [
-            1,
-            10712300
-          ]
+        "JudgeType1": 3,
+        "Parameter1": 1,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23011301
+      },
+      {
+        "Order": 2,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10712300
+          }
         ],
-        1,
-        2,
-        null,
-        null,
-        23011302
-      ],
-      [
-        3,
-        [
-          [
-            1,
-            10713300
-          ]
+        "JudgeType1": 1,
+        "Parameter1": 2,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23011302
+      },
+      {
+        "Order": 3,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10713300
+          }
         ],
-        1,
-        3,
-        null,
-        null,
-        23011303
-      ],
-      [
-        4,
-        [
-          [
-            1,
-            10714300
-          ]
+        "JudgeType1": 1,
+        "Parameter1": 3,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23011303
+      },
+      {
+        "Order": 4,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10714300
+          }
         ],
-        2,
-        4,
-        null,
-        null,
-        23011304
-      ]
+        "JudgeType1": 2,
+        "Parameter1": 4,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23011304
+      }
     ],
     "BranchConditionType1": 6,
     "ConditionValue1": null,
@@ -5175,20 +5175,20 @@
     "ReleaseLevelAt": 10,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            60000300
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 60000300
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        23011401
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23011401
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -5205,20 +5205,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            70042400
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 70042400
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        23012001
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23012001
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -5235,20 +5235,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10030400
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10030400
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        23012101
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23012101
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -5265,20 +5265,20 @@
     "ReleaseLevelAt": 7,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            11511400
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 11511400
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        23012201
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23012201
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -5295,62 +5295,62 @@
     "ReleaseLevelAt": 9,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10411400
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10411400
+          }
         ],
-        3,
-        1,
-        null,
-        null,
-        23012301
-      ],
-      [
-        2,
-        [
-          [
-            1,
-            10412400
-          ]
+        "JudgeType1": 3,
+        "Parameter1": 1,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23012301
+      },
+      {
+        "Order": 2,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10412400
+          }
         ],
-        1,
-        2,
-        null,
-        null,
-        23012302
-      ],
-      [
-        3,
-        [
-          [
-            1,
-            10413400
-          ]
+        "JudgeType1": 1,
+        "Parameter1": 2,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23012302
+      },
+      {
+        "Order": 3,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10413400
+          }
         ],
-        1,
-        3,
-        null,
-        null,
-        23012303
-      ],
-      [
-        4,
-        [
-          [
-            1,
-            10414400
-          ]
+        "JudgeType1": 1,
+        "Parameter1": 3,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23012303
+      },
+      {
+        "Order": 4,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10414400
+          }
         ],
-        2,
-        4,
-        null,
-        null,
-        23012304
-      ]
+        "JudgeType1": 2,
+        "Parameter1": 4,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23012304
+      }
     ],
     "BranchConditionType1": 6,
     "ConditionValue1": null,
@@ -5367,20 +5367,20 @@
     "ReleaseLevelAt": 10,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            60000400
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 60000400
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        23012401
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23012401
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -5397,20 +5397,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            70052100
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 70052100
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        23013001
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23013001
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -5427,20 +5427,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10331000
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10331000
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        23013101
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23013101
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -5457,20 +5457,20 @@
     "ReleaseLevelAt": 7,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            11121100
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 11121100
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        23013201
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23013201
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -5487,20 +5487,20 @@
     "ReleaseLevelAt": 8,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            12734103
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 12734103
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        23013301
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23013301
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -5517,20 +5517,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            70052200
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 70052200
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        23014001
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23014001
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -5547,20 +5547,20 @@
     "ReleaseLevelAt": 0,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10030000
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10030000
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        23014101
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23014101
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -5577,20 +5577,20 @@
     "ReleaseLevelAt": 5,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            10220200
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10220200
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        23014201
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23014201
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,
@@ -5607,20 +5607,20 @@
     "ReleaseLevelAt": 7,
     "Hidden": false,
     "Branches": [
-      [
-        1,
-        [
-          [
-            1,
-            11020200
-          ]
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 11020200
+          }
         ],
-        null,
-        null,
-        null,
-        null,
-        23014301
-      ]
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23014301
+      }
     ],
     "BranchConditionType1": 0,
     "ConditionValue1": null,

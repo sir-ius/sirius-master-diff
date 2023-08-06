@@ -2,101 +2,101 @@
   {
     "Id": 1,
     "Items": [
-      [
-        0,
-        130071,
-        2
-      ],
-      [
-        1,
-        130071,
-        2
-      ],
-      [
-        2,
-        130071,
-        2
-      ],
-      [
-        3,
-        130071,
-        2
-      ]
+      {
+        "CurrentPhase": 0,
+        "ItemMasterId": 130071,
+        "RequiredQuantity": 2
+      },
+      {
+        "CurrentPhase": 1,
+        "ItemMasterId": 130071,
+        "RequiredQuantity": 2
+      },
+      {
+        "CurrentPhase": 2,
+        "ItemMasterId": 130071,
+        "RequiredQuantity": 2
+      },
+      {
+        "CurrentPhase": 3,
+        "ItemMasterId": 130071,
+        "RequiredQuantity": 2
+      }
     ]
   },
   {
     "Id": 2,
     "Items": [
-      [
-        0,
-        130071,
-        5
-      ],
-      [
-        1,
-        130071,
-        5
-      ],
-      [
-        2,
-        130071,
-        5
-      ],
-      [
-        3,
-        130071,
-        5
-      ]
+      {
+        "CurrentPhase": 0,
+        "ItemMasterId": 130071,
+        "RequiredQuantity": 5
+      },
+      {
+        "CurrentPhase": 1,
+        "ItemMasterId": 130071,
+        "RequiredQuantity": 5
+      },
+      {
+        "CurrentPhase": 2,
+        "ItemMasterId": 130071,
+        "RequiredQuantity": 5
+      },
+      {
+        "CurrentPhase": 3,
+        "ItemMasterId": 130071,
+        "RequiredQuantity": 5
+      }
     ]
   },
   {
     "Id": 3,
     "Items": [
-      [
-        0,
-        130071,
-        20
-      ],
-      [
-        1,
-        130071,
-        20
-      ],
-      [
-        2,
-        130071,
-        20
-      ],
-      [
-        3,
-        130071,
-        20
-      ]
+      {
+        "CurrentPhase": 0,
+        "ItemMasterId": 130071,
+        "RequiredQuantity": 20
+      },
+      {
+        "CurrentPhase": 1,
+        "ItemMasterId": 130071,
+        "RequiredQuantity": 20
+      },
+      {
+        "CurrentPhase": 2,
+        "ItemMasterId": 130071,
+        "RequiredQuantity": 20
+      },
+      {
+        "CurrentPhase": 3,
+        "ItemMasterId": 130071,
+        "RequiredQuantity": 20
+      }
     ]
   },
   {
     "Id": 4,
     "Items": [
-      [
-        0,
-        130072,
-        10
-      ],
-      [
-        1,
-        130072,
-        25
-      ],
-      [
-        2,
-        130072,
-        50
-      ],
-      [
-        3,
-        130072,
-        120
-      ]
+      {
+        "CurrentPhase": 0,
+        "ItemMasterId": 130072,
+        "RequiredQuantity": 10
+      },
+      {
+        "CurrentPhase": 1,
+        "ItemMasterId": 130072,
+        "RequiredQuantity": 25
+      },
+      {
+        "CurrentPhase": 2,
+        "ItemMasterId": 130072,
+        "RequiredQuantity": 50
+      },
+      {
+        "CurrentPhase": 3,
+        "ItemMasterId": 130072,
+        "RequiredQuantity": 120
+      }
     ]
   }
 ]

@@ -6,16 +6,16 @@
     "DisplayStartAt": "2023-01-01T00:00:00.000Z",
     "DisplayEndAt": "2100-01-01T00:00:00.000Z",
     "Characters": [
-      [
-        1,
-        102,
-        10141
-      ],
-      [
-        2,
-        101,
-        10111
-      ]
+      {
+        "Order": 1,
+        "CharacterBaseMasterId": 102,
+        "CostumeMasterId": 10141
+      },
+      {
+        "Order": 2,
+        "CharacterBaseMasterId": 101,
+        "CostumeMasterId": 10111
+      }
     ],
     "DelaySeconds": 0.699999988079071,
     "MovieDelaySeconds": 3,
@@ -28,11 +28,11 @@
     "DisplayStartAt": "2023-01-01T00:00:00.000Z",
     "DisplayEndAt": "2100-01-01T00:00:00.000Z",
     "Characters": [
-      [
-        1,
-        104,
-        11161
-      ]
+      {
+        "Order": 1,
+        "CharacterBaseMasterId": 104,
+        "CostumeMasterId": 11161
+      }
     ],
     "DelaySeconds": 2.5999999046325684,
     "MovieDelaySeconds": 3.4000000953674316,
@@ -45,21 +45,21 @@
     "DisplayStartAt": "2023-01-01T00:00:00.000Z",
     "DisplayEndAt": "2100-01-01T00:00:00.000Z",
     "Characters": [
-      [
-        1,
-        401,
-        11421
-      ],
-      [
-        2,
-        405,
-        11461
-      ],
-      [
-        3,
-        402,
-        11431
-      ]
+      {
+        "Order": 1,
+        "CharacterBaseMasterId": 401,
+        "CostumeMasterId": 11421
+      },
+      {
+        "Order": 2,
+        "CharacterBaseMasterId": 405,
+        "CostumeMasterId": 11461
+      },
+      {
+        "Order": 3,
+        "CharacterBaseMasterId": 402,
+        "CostumeMasterId": 11431
+      }
     ],
     "DelaySeconds": 0.4000000059604645,
     "MovieDelaySeconds": 0.4000000059604645,
@@ -72,16 +72,16 @@
     "DisplayStartAt": "2023-01-01T00:00:00.000Z",
     "DisplayEndAt": "2100-01-01T00:00:00.000Z",
     "Characters": [
-      [
-        1,
-        101,
-        12111
-      ],
-      [
-        2,
-        104,
-        12131
-      ]
+      {
+        "Order": 1,
+        "CharacterBaseMasterId": 101,
+        "CostumeMasterId": 12111
+      },
+      {
+        "Order": 2,
+        "CharacterBaseMasterId": 104,
+        "CostumeMasterId": 12131
+      }
     ],
     "DelaySeconds": 0.699999988079071,
     "MovieDelaySeconds": 0.800000011920929,
@@ -94,36 +94,36 @@
     "DisplayStartAt": "2023-01-01T00:00:00.000Z",
     "DisplayEndAt": "2100-01-01T00:00:00.000Z",
     "Characters": [
-      [
-        1,
-        101,
-        411
-      ],
-      [
-        2,
-        102,
-        411
-      ],
-      [
-        3,
-        103,
-        411
-      ],
-      [
-        4,
-        104,
-        411
-      ],
-      [
-        5,
-        105,
-        411
-      ],
-      [
-        6,
-        106,
-        411
-      ]
+      {
+        "Order": 1,
+        "CharacterBaseMasterId": 101,
+        "CostumeMasterId": 411
+      },
+      {
+        "Order": 2,
+        "CharacterBaseMasterId": 102,
+        "CostumeMasterId": 411
+      },
+      {
+        "Order": 3,
+        "CharacterBaseMasterId": 103,
+        "CostumeMasterId": 411
+      },
+      {
+        "Order": 4,
+        "CharacterBaseMasterId": 104,
+        "CostumeMasterId": 411
+      },
+      {
+        "Order": 5,
+        "CharacterBaseMasterId": 105,
+        "CostumeMasterId": 411
+      },
+      {
+        "Order": 6,
+        "CharacterBaseMasterId": 106,
+        "CostumeMasterId": 411
+      }
     ],
     "DelaySeconds": -0.10000000149011612,
     "MovieDelaySeconds": 0.30000001192092896,
@@ -136,31 +136,31 @@
     "DisplayStartAt": "2023-01-01T00:00:00.000Z",
     "DisplayEndAt": "2100-01-01T00:00:00.000Z",
     "Characters": [
-      [
-        1,
-        201,
-        421
-      ],
-      [
-        2,
-        202,
-        421
-      ],
-      [
-        3,
-        203,
-        421
-      ],
-      [
-        4,
-        204,
-        421
-      ],
-      [
-        5,
-        205,
-        421
-      ]
+      {
+        "Order": 1,
+        "CharacterBaseMasterId": 201,
+        "CostumeMasterId": 421
+      },
+      {
+        "Order": 2,
+        "CharacterBaseMasterId": 202,
+        "CostumeMasterId": 421
+      },
+      {
+        "Order": 3,
+        "CharacterBaseMasterId": 203,
+        "CostumeMasterId": 421
+      },
+      {
+        "Order": 4,
+        "CharacterBaseMasterId": 204,
+        "CostumeMasterId": 421
+      },
+      {
+        "Order": 5,
+        "CharacterBaseMasterId": 205,
+        "CostumeMasterId": 421
+      }
     ],
     "DelaySeconds": 1.2000000476837158,
     "MovieDelaySeconds": 1.2000000476837158,
@@ -173,31 +173,31 @@
     "DisplayStartAt": "2023-01-01T00:00:00.000Z",
     "DisplayEndAt": "2100-01-01T00:00:00.000Z",
     "Characters": [
-      [
-        1,
-        301,
-        431
-      ],
-      [
-        2,
-        302,
-        431
-      ],
-      [
-        3,
-        303,
-        431
-      ],
-      [
-        4,
-        304,
-        431
-      ],
-      [
-        5,
-        305,
-        431
-      ]
+      {
+        "Order": 1,
+        "CharacterBaseMasterId": 301,
+        "CostumeMasterId": 431
+      },
+      {
+        "Order": 2,
+        "CharacterBaseMasterId": 302,
+        "CostumeMasterId": 431
+      },
+      {
+        "Order": 3,
+        "CharacterBaseMasterId": 303,
+        "CostumeMasterId": 431
+      },
+      {
+        "Order": 4,
+        "CharacterBaseMasterId": 304,
+        "CostumeMasterId": 431
+      },
+      {
+        "Order": 5,
+        "CharacterBaseMasterId": 305,
+        "CostumeMasterId": 431
+      }
     ],
     "DelaySeconds": 0.800000011920929,
     "MovieDelaySeconds": 0.800000011920929,
@@ -210,31 +210,31 @@
     "DisplayStartAt": "2023-01-01T00:00:00.000Z",
     "DisplayEndAt": "2100-01-01T00:00:00.000Z",
     "Characters": [
-      [
-        1,
-        401,
-        441
-      ],
-      [
-        2,
-        402,
-        441
-      ],
-      [
-        3,
-        403,
-        441
-      ],
-      [
-        4,
-        404,
-        441
-      ],
-      [
-        5,
-        405,
-        441
-      ]
+      {
+        "Order": 1,
+        "CharacterBaseMasterId": 401,
+        "CostumeMasterId": 441
+      },
+      {
+        "Order": 2,
+        "CharacterBaseMasterId": 402,
+        "CostumeMasterId": 441
+      },
+      {
+        "Order": 3,
+        "CharacterBaseMasterId": 403,
+        "CostumeMasterId": 441
+      },
+      {
+        "Order": 4,
+        "CharacterBaseMasterId": 404,
+        "CostumeMasterId": 441
+      },
+      {
+        "Order": 5,
+        "CharacterBaseMasterId": 405,
+        "CostumeMasterId": 441
+      }
     ],
     "DelaySeconds": 1.2000000476837158,
     "MovieDelaySeconds": 1.2999999523162842,
@@ -247,11 +247,11 @@
     "DisplayStartAt": "2023-01-01T00:00:00.000Z",
     "DisplayEndAt": "2100-01-01T00:00:00.000Z",
     "Characters": [
-      [
-        1,
-        302,
-        10311
-      ]
+      {
+        "Order": 1,
+        "CharacterBaseMasterId": 302,
+        "CostumeMasterId": 10311
+      }
     ],
     "DelaySeconds": 1.399999976158142,
     "MovieDelaySeconds": 1.399999976158142,
@@ -264,11 +264,11 @@
     "DisplayStartAt": "2023-07-29T17:00:00.000Z",
     "DisplayEndAt": "2100-01-01T00:00:00.000Z",
     "Characters": [
-      [
-        1,
-        103,
-        13111
-      ]
+      {
+        "Order": 1,
+        "CharacterBaseMasterId": 103,
+        "CostumeMasterId": 13111
+      }
     ],
     "DelaySeconds": 2.4000000953674316,
     "MovieDelaySeconds": 2.200000047683716,
@@ -281,11 +281,11 @@
     "DisplayStartAt": "2023-07-31T17:00:00.000Z",
     "DisplayEndAt": "2100-01-01T00:00:00.000Z",
     "Characters": [
-      [
-        1,
-        202,
-        90011
-      ]
+      {
+        "Order": 1,
+        "CharacterBaseMasterId": 202,
+        "CostumeMasterId": 90011
+      }
     ],
     "DelaySeconds": 1,
     "MovieDelaySeconds": 1,

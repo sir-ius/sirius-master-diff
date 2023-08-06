@@ -7,11 +7,11 @@
     "AssetId": null,
     "Rarity": 1,
     "Attribute": 3,
-    "MinLevelStatus": [
-      53,
-      66,
-      61
-    ],
+    "MinLevelStatus": {
+      "Concentration": 53,
+      "Expression": 66,
+      "Vocal": 61
+    },
     "StarActMasterId": 110011,
     "AwakenStarActMasterId": null,
     "SenseMasterId": 110010,
@@ -32,11 +32,11 @@
     "AssetId": null,
     "Rarity": 1,
     "Attribute": 2,
-    "MinLevelStatus": [
-      69,
-      60,
-      51
-    ],
+    "MinLevelStatus": {
+      "Concentration": 69,
+      "Expression": 60,
+      "Vocal": 51
+    },
     "StarActMasterId": 110021,
     "AwakenStarActMasterId": null,
     "SenseMasterId": 110020,
@@ -57,11 +57,11 @@
     "AssetId": null,
     "Rarity": 1,
     "Attribute": 4,
-    "MinLevelStatus": [
-      64,
-      60,
-      56
-    ],
+    "MinLevelStatus": {
+      "Concentration": 64,
+      "Expression": 60,
+      "Vocal": 56
+    },
     "StarActMasterId": 110031,
     "AwakenStarActMasterId": null,
     "SenseMasterId": 110030,
@@ -82,11 +82,11 @@
     "AssetId": null,
     "Rarity": 1,
     "Attribute": 3,
-    "MinLevelStatus": [
-      57,
-      61,
-      62
-    ],
+    "MinLevelStatus": {
+      "Concentration": 57,
+      "Expression": 61,
+      "Vocal": 62
+    },
     "StarActMasterId": 110041,
     "AwakenStarActMasterId": null,
     "SenseMasterId": 110040,
@@ -107,11 +107,11 @@
     "AssetId": null,
     "Rarity": 1,
     "Attribute": 4,
-    "MinLevelStatus": [
-      58,
-      61,
-      61
-    ],
+    "MinLevelStatus": {
+      "Concentration": 58,
+      "Expression": 61,
+      "Vocal": 61
+    },
     "StarActMasterId": 110051,
     "AwakenStarActMasterId": null,
     "SenseMasterId": 110050,
@@ -132,11 +132,11 @@
     "AssetId": null,
     "Rarity": 1,
     "Attribute": 1,
-    "MinLevelStatus": [
-      61,
-      57,
-      62
-    ],
+    "MinLevelStatus": {
+      "Concentration": 61,
+      "Expression": 57,
+      "Vocal": 62
+    },
     "StarActMasterId": 110061,
     "AwakenStarActMasterId": null,
     "SenseMasterId": 110060,
@@ -157,11 +157,11 @@
     "AssetId": null,
     "Rarity": 1,
     "Attribute": 2,
-    "MinLevelStatus": [
-      56,
-      54,
-      70
-    ],
+    "MinLevelStatus": {
+      "Concentration": 56,
+      "Expression": 54,
+      "Vocal": 70
+    },
     "StarActMasterId": 110071,
     "AwakenStarActMasterId": null,
     "SenseMasterId": 110070,
@@ -182,11 +182,11 @@
     "AssetId": null,
     "Rarity": 1,
     "Attribute": 3,
-    "MinLevelStatus": [
-      59,
-      76,
-      45
-    ],
+    "MinLevelStatus": {
+      "Concentration": 59,
+      "Expression": 76,
+      "Vocal": 45
+    },
     "StarActMasterId": 110081,
     "AwakenStarActMasterId": null,
     "SenseMasterId": 110080,
@@ -207,11 +207,11 @@
     "AssetId": null,
     "Rarity": 1,
     "Attribute": 4,
-    "MinLevelStatus": [
-      49,
-      63,
-      68
-    ],
+    "MinLevelStatus": {
+      "Concentration": 49,
+      "Expression": 63,
+      "Vocal": 68
+    },
     "StarActMasterId": 110091,
     "AwakenStarActMasterId": null,
     "SenseMasterId": 110090,
@@ -232,11 +232,11 @@
     "AssetId": null,
     "Rarity": 1,
     "Attribute": 4,
-    "MinLevelStatus": [
-      62,
-      62,
-      56
-    ],
+    "MinLevelStatus": {
+      "Concentration": 62,
+      "Expression": 62,
+      "Vocal": 56
+    },
     "StarActMasterId": 110101,
     "AwakenStarActMasterId": null,
     "SenseMasterId": 110100,
@@ -257,11 +257,11 @@
     "AssetId": null,
     "Rarity": 1,
     "Attribute": 1,
-    "MinLevelStatus": [
-      61,
-      53,
-      66
-    ],
+    "MinLevelStatus": {
+      "Concentration": 61,
+      "Expression": 53,
+      "Vocal": 66
+    },
     "StarActMasterId": 110111,
     "AwakenStarActMasterId": null,
     "SenseMasterId": 110110,
@@ -282,11 +282,11 @@
     "AssetId": null,
     "Rarity": 1,
     "Attribute": 2,
-    "MinLevelStatus": [
-      52,
-      66,
-      62
-    ],
+    "MinLevelStatus": {
+      "Concentration": 52,
+      "Expression": 66,
+      "Vocal": 62
+    },
     "StarActMasterId": 110121,
     "AwakenStarActMasterId": null,
     "SenseMasterId": 110120,
@@ -307,11 +307,11 @@
     "AssetId": null,
     "Rarity": 1,
     "Attribute": 2,
-    "MinLevelStatus": [
-      65,
-      52,
-      63
-    ],
+    "MinLevelStatus": {
+      "Concentration": 65,
+      "Expression": 52,
+      "Vocal": 63
+    },
     "StarActMasterId": 110131,
     "AwakenStarActMasterId": null,
     "SenseMasterId": 110130,
@@ -332,11 +332,11 @@
     "AssetId": null,
     "Rarity": 1,
     "Attribute": 1,
-    "MinLevelStatus": [
-      73,
-      60,
-      47
-    ],
+    "MinLevelStatus": {
+      "Concentration": 73,
+      "Expression": 60,
+      "Vocal": 47
+    },
     "StarActMasterId": 110141,
     "AwakenStarActMasterId": null,
     "SenseMasterId": 110140,
@@ -357,11 +357,11 @@
     "AssetId": null,
     "Rarity": 1,
     "Attribute": 3,
-    "MinLevelStatus": [
-      51,
-      60,
-      69
-    ],
+    "MinLevelStatus": {
+      "Concentration": 51,
+      "Expression": 60,
+      "Vocal": 69
+    },
     "StarActMasterId": 110151,
     "AwakenStarActMasterId": null,
     "SenseMasterId": 110150,
@@ -382,11 +382,11 @@
     "AssetId": null,
     "Rarity": 1,
     "Attribute": 4,
-    "MinLevelStatus": [
-      67,
-      54,
-      59
-    ],
+    "MinLevelStatus": {
+      "Concentration": 67,
+      "Expression": 54,
+      "Vocal": 59
+    },
     "StarActMasterId": 110161,
     "AwakenStarActMasterId": null,
     "SenseMasterId": 110160,
@@ -407,11 +407,11 @@
     "AssetId": null,
     "Rarity": 1,
     "Attribute": 1,
-    "MinLevelStatus": [
-      69,
-      61,
-      50
-    ],
+    "MinLevelStatus": {
+      "Concentration": 69,
+      "Expression": 61,
+      "Vocal": 50
+    },
     "StarActMasterId": 110171,
     "AwakenStarActMasterId": null,
     "SenseMasterId": 110170,
@@ -432,11 +432,11 @@
     "AssetId": null,
     "Rarity": 1,
     "Attribute": 3,
-    "MinLevelStatus": [
-      59,
-      58,
-      63
-    ],
+    "MinLevelStatus": {
+      "Concentration": 59,
+      "Expression": 58,
+      "Vocal": 63
+    },
     "StarActMasterId": 110181,
     "AwakenStarActMasterId": null,
     "SenseMasterId": 110180,
@@ -457,11 +457,11 @@
     "AssetId": null,
     "Rarity": 1,
     "Attribute": 4,
-    "MinLevelStatus": [
-      51,
-      63,
-      66
-    ],
+    "MinLevelStatus": {
+      "Concentration": 51,
+      "Expression": 63,
+      "Vocal": 66
+    },
     "StarActMasterId": 110191,
     "AwakenStarActMasterId": null,
     "SenseMasterId": 110190,
@@ -482,11 +482,11 @@
     "AssetId": null,
     "Rarity": 1,
     "Attribute": 2,
-    "MinLevelStatus": [
-      61,
-      70,
-      49
-    ],
+    "MinLevelStatus": {
+      "Concentration": 61,
+      "Expression": 70,
+      "Vocal": 49
+    },
     "StarActMasterId": 110201,
     "AwakenStarActMasterId": null,
     "SenseMasterId": 110200,
@@ -507,11 +507,11 @@
     "AssetId": null,
     "Rarity": 1,
     "Attribute": 1,
-    "MinLevelStatus": [
-      68,
-      43,
-      69
-    ],
+    "MinLevelStatus": {
+      "Concentration": 68,
+      "Expression": 43,
+      "Vocal": 69
+    },
     "StarActMasterId": 110211,
     "AwakenStarActMasterId": null,
     "SenseMasterId": 110210,
@@ -532,11 +532,11 @@
     "AssetId": null,
     "Rarity": 2,
     "Attribute": 2,
-    "MinLevelStatus": [
-      67,
-      78,
-      80
-    ],
+    "MinLevelStatus": {
+      "Concentration": 67,
+      "Expression": 78,
+      "Vocal": 80
+    },
     "StarActMasterId": 120011,
     "AwakenStarActMasterId": null,
     "SenseMasterId": 120010,
@@ -557,11 +557,11 @@
     "AssetId": null,
     "Rarity": 2,
     "Attribute": 3,
-    "MinLevelStatus": [
-      85,
-      78,
-      62
-    ],
+    "MinLevelStatus": {
+      "Concentration": 85,
+      "Expression": 78,
+      "Vocal": 62
+    },
     "StarActMasterId": 120021,
     "AwakenStarActMasterId": null,
     "SenseMasterId": 120020,
@@ -582,11 +582,11 @@
     "AssetId": null,
     "Rarity": 2,
     "Attribute": 1,
-    "MinLevelStatus": [
-      86,
-      73,
-      66
-    ],
+    "MinLevelStatus": {
+      "Concentration": 86,
+      "Expression": 73,
+      "Vocal": 66
+    },
     "StarActMasterId": 120031,
     "AwakenStarActMasterId": null,
     "SenseMasterId": 120030,
@@ -607,11 +607,11 @@
     "AssetId": null,
     "Rarity": 2,
     "Attribute": 4,
-    "MinLevelStatus": [
-      69,
-      72,
-      84
-    ],
+    "MinLevelStatus": {
+      "Concentration": 69,
+      "Expression": 72,
+      "Vocal": 84
+    },
     "StarActMasterId": 120041,
     "AwakenStarActMasterId": null,
     "SenseMasterId": 120040,
@@ -632,11 +632,11 @@
     "AssetId": null,
     "Rarity": 2,
     "Attribute": 1,
-    "MinLevelStatus": [
-      80,
-      74,
-      71
-    ],
+    "MinLevelStatus": {
+      "Concentration": 80,
+      "Expression": 74,
+      "Vocal": 71
+    },
     "StarActMasterId": 120051,
     "AwakenStarActMasterId": null,
     "SenseMasterId": 120050,
@@ -657,11 +657,11 @@
     "AssetId": null,
     "Rarity": 2,
     "Attribute": 3,
-    "MinLevelStatus": [
-      72,
-      78,
-      75
-    ],
+    "MinLevelStatus": {
+      "Concentration": 72,
+      "Expression": 78,
+      "Vocal": 75
+    },
     "StarActMasterId": 120061,
     "AwakenStarActMasterId": null,
     "SenseMasterId": 120060,
@@ -682,11 +682,11 @@
     "AssetId": null,
     "Rarity": 2,
     "Attribute": 3,
-    "MinLevelStatus": [
-      72,
-      72,
-      81
-    ],
+    "MinLevelStatus": {
+      "Concentration": 72,
+      "Expression": 72,
+      "Vocal": 81
+    },
     "StarActMasterId": 120071,
     "AwakenStarActMasterId": null,
     "SenseMasterId": 120070,
@@ -707,11 +707,11 @@
     "AssetId": null,
     "Rarity": 2,
     "Attribute": 4,
-    "MinLevelStatus": [
-      71,
-      87,
-      67
-    ],
+    "MinLevelStatus": {
+      "Concentration": 71,
+      "Expression": 87,
+      "Vocal": 67
+    },
     "StarActMasterId": 120081,
     "AwakenStarActMasterId": null,
     "SenseMasterId": 120080,
@@ -732,11 +732,11 @@
     "AssetId": null,
     "Rarity": 2,
     "Attribute": 1,
-    "MinLevelStatus": [
-      71,
-      76,
-      78
-    ],
+    "MinLevelStatus": {
+      "Concentration": 71,
+      "Expression": 76,
+      "Vocal": 78
+    },
     "StarActMasterId": 120091,
     "AwakenStarActMasterId": null,
     "SenseMasterId": 120090,
@@ -757,11 +757,11 @@
     "AssetId": null,
     "Rarity": 2,
     "Attribute": 1,
-    "MinLevelStatus": [
-      84,
-      75,
-      66
-    ],
+    "MinLevelStatus": {
+      "Concentration": 84,
+      "Expression": 75,
+      "Vocal": 66
+    },
     "StarActMasterId": 120101,
     "AwakenStarActMasterId": null,
     "SenseMasterId": 120100,
@@ -782,11 +782,11 @@
     "AssetId": null,
     "Rarity": 2,
     "Attribute": 2,
-    "MinLevelStatus": [
-      71,
-      71,
-      83
-    ],
+    "MinLevelStatus": {
+      "Concentration": 71,
+      "Expression": 71,
+      "Vocal": 83
+    },
     "StarActMasterId": 120111,
     "AwakenStarActMasterId": null,
     "SenseMasterId": 120110,
@@ -807,11 +807,11 @@
     "AssetId": null,
     "Rarity": 2,
     "Attribute": 3,
-    "MinLevelStatus": [
-      68,
-      84,
-      73
-    ],
+    "MinLevelStatus": {
+      "Concentration": 68,
+      "Expression": 84,
+      "Vocal": 73
+    },
     "StarActMasterId": 120121,
     "AwakenStarActMasterId": null,
     "SenseMasterId": 120120,
@@ -832,11 +832,11 @@
     "AssetId": null,
     "Rarity": 2,
     "Attribute": 3,
-    "MinLevelStatus": [
-      81,
-      70,
-      74
-    ],
+    "MinLevelStatus": {
+      "Concentration": 81,
+      "Expression": 70,
+      "Vocal": 74
+    },
     "StarActMasterId": 120131,
     "AwakenStarActMasterId": null,
     "SenseMasterId": 120130,
@@ -857,11 +857,11 @@
     "AssetId": null,
     "Rarity": 2,
     "Attribute": 2,
-    "MinLevelStatus": [
-      83,
-      78,
-      64
-    ],
+    "MinLevelStatus": {
+      "Concentration": 83,
+      "Expression": 78,
+      "Vocal": 64
+    },
     "StarActMasterId": 120141,
     "AwakenStarActMasterId": null,
     "SenseMasterId": 120140,
@@ -882,11 +882,11 @@
     "AssetId": null,
     "Rarity": 2,
     "Attribute": 4,
-    "MinLevelStatus": [
-      63,
-      71,
-      91
-    ],
+    "MinLevelStatus": {
+      "Concentration": 63,
+      "Expression": 71,
+      "Vocal": 91
+    },
     "StarActMasterId": 120151,
     "AwakenStarActMasterId": null,
     "SenseMasterId": 120150,
@@ -907,11 +907,11 @@
     "AssetId": null,
     "Rarity": 2,
     "Attribute": 1,
-    "MinLevelStatus": [
-      89,
-      67,
-      69
-    ],
+    "MinLevelStatus": {
+      "Concentration": 89,
+      "Expression": 67,
+      "Vocal": 69
+    },
     "StarActMasterId": 120161,
     "AwakenStarActMasterId": null,
     "SenseMasterId": 120160,
@@ -932,11 +932,11 @@
     "AssetId": null,
     "Rarity": 2,
     "Attribute": 2,
-    "MinLevelStatus": [
-      79,
-      79,
-      67
-    ],
+    "MinLevelStatus": {
+      "Concentration": 79,
+      "Expression": 79,
+      "Vocal": 67
+    },
     "StarActMasterId": 120171,
     "AwakenStarActMasterId": null,
     "SenseMasterId": 120170,
@@ -957,11 +957,11 @@
     "AssetId": null,
     "Rarity": 2,
     "Attribute": 4,
-    "MinLevelStatus": [
-      71,
-      69,
-      85
-    ],
+    "MinLevelStatus": {
+      "Concentration": 71,
+      "Expression": 69,
+      "Vocal": 85
+    },
     "StarActMasterId": 120181,
     "AwakenStarActMasterId": null,
     "SenseMasterId": 120180,
@@ -982,11 +982,11 @@
     "AssetId": null,
     "Rarity": 2,
     "Attribute": 1,
-    "MinLevelStatus": [
-      73,
-      76,
-      76
-    ],
+    "MinLevelStatus": {
+      "Concentration": 73,
+      "Expression": 76,
+      "Vocal": 76
+    },
     "StarActMasterId": 120191,
     "AwakenStarActMasterId": null,
     "SenseMasterId": 120190,
@@ -1007,11 +1007,11 @@
     "AssetId": null,
     "Rarity": 2,
     "Attribute": 3,
-    "MinLevelStatus": [
-      77,
-      88,
-      60
-    ],
+    "MinLevelStatus": {
+      "Concentration": 77,
+      "Expression": 88,
+      "Vocal": 60
+    },
     "StarActMasterId": 120201,
     "AwakenStarActMasterId": null,
     "SenseMasterId": 120200,
@@ -1032,11 +1032,11 @@
     "AssetId": null,
     "Rarity": 2,
     "Attribute": 2,
-    "MinLevelStatus": [
-      78,
-      61,
-      86
-    ],
+    "MinLevelStatus": {
+      "Concentration": 78,
+      "Expression": 61,
+      "Vocal": 86
+    },
     "StarActMasterId": 120211,
     "AwakenStarActMasterId": null,
     "SenseMasterId": 120210,
@@ -1057,11 +1057,11 @@
     "AssetId": null,
     "Rarity": 3,
     "Attribute": 4,
-    "MinLevelStatus": [
-      80,
-      92,
-      98
-    ],
+    "MinLevelStatus": {
+      "Concentration": 80,
+      "Expression": 92,
+      "Vocal": 98
+    },
     "StarActMasterId": 130011,
     "AwakenStarActMasterId": 130011,
     "SenseMasterId": 130010,
@@ -1082,11 +1082,11 @@
     "AssetId": null,
     "Rarity": 3,
     "Attribute": 4,
-    "MinLevelStatus": [
-      97,
-      89,
-      84
-    ],
+    "MinLevelStatus": {
+      "Concentration": 97,
+      "Expression": 89,
+      "Vocal": 84
+    },
     "StarActMasterId": 130021,
     "AwakenStarActMasterId": 130021,
     "SenseMasterId": 130020,
@@ -1107,11 +1107,11 @@
     "AssetId": null,
     "Rarity": 3,
     "Attribute": 2,
-    "MinLevelStatus": [
-      96,
-      91,
-      83
-    ],
+    "MinLevelStatus": {
+      "Concentration": 96,
+      "Expression": 91,
+      "Vocal": 83
+    },
     "StarActMasterId": 130031,
     "AwakenStarActMasterId": 130031,
     "SenseMasterId": 130030,
@@ -1132,11 +1132,11 @@
     "AssetId": null,
     "Rarity": 3,
     "Attribute": 4,
-    "MinLevelStatus": [
-      84,
-      87,
-      99
-    ],
+    "MinLevelStatus": {
+      "Concentration": 84,
+      "Expression": 87,
+      "Vocal": 99
+    },
     "StarActMasterId": 130041,
     "AwakenStarActMasterId": 130041,
     "SenseMasterId": 130040,
@@ -1157,11 +1157,11 @@
     "AssetId": null,
     "Rarity": 3,
     "Attribute": 2,
-    "MinLevelStatus": [
-      90,
-      92,
-      88
-    ],
+    "MinLevelStatus": {
+      "Concentration": 90,
+      "Expression": 92,
+      "Vocal": 88
+    },
     "StarActMasterId": 130051,
     "AwakenStarActMasterId": 130051,
     "SenseMasterId": 130050,
@@ -1182,11 +1182,11 @@
     "AssetId": null,
     "Rarity": 3,
     "Attribute": 3,
-    "MinLevelStatus": [
-      87,
-      93,
-      90
-    ],
+    "MinLevelStatus": {
+      "Concentration": 87,
+      "Expression": 93,
+      "Vocal": 90
+    },
     "StarActMasterId": 130061,
     "AwakenStarActMasterId": 130061,
     "SenseMasterId": 130060,
@@ -1207,11 +1207,11 @@
     "AssetId": null,
     "Rarity": 3,
     "Attribute": 4,
-    "MinLevelStatus": [
-      84,
-      83,
-      103
-    ],
+    "MinLevelStatus": {
+      "Concentration": 84,
+      "Expression": 83,
+      "Vocal": 103
+    },
     "StarActMasterId": 130071,
     "AwakenStarActMasterId": 130071,
     "SenseMasterId": 130070,
@@ -1232,11 +1232,11 @@
     "AssetId": null,
     "Rarity": 3,
     "Attribute": 1,
-    "MinLevelStatus": [
-      93,
-      100,
-      77
-    ],
+    "MinLevelStatus": {
+      "Concentration": 93,
+      "Expression": 100,
+      "Vocal": 77
+    },
     "StarActMasterId": 130081,
     "AwakenStarActMasterId": 130081,
     "SenseMasterId": 130080,
@@ -1257,11 +1257,11 @@
     "AssetId": null,
     "Rarity": 3,
     "Attribute": 3,
-    "MinLevelStatus": [
-      82,
-      97,
-      91
-    ],
+    "MinLevelStatus": {
+      "Concentration": 82,
+      "Expression": 97,
+      "Vocal": 91
+    },
     "StarActMasterId": 130091,
     "AwakenStarActMasterId": 130091,
     "SenseMasterId": 130090,
@@ -1282,11 +1282,11 @@
     "AssetId": null,
     "Rarity": 3,
     "Attribute": 2,
-    "MinLevelStatus": [
-      94,
-      93,
-      83
-    ],
+    "MinLevelStatus": {
+      "Concentration": 94,
+      "Expression": 93,
+      "Vocal": 83
+    },
     "StarActMasterId": 130101,
     "AwakenStarActMasterId": 130101,
     "SenseMasterId": 130100,
@@ -1307,11 +1307,11 @@
     "AssetId": null,
     "Rarity": 3,
     "Attribute": 1,
-    "MinLevelStatus": [
-      91,
-      83,
-      96
-    ],
+    "MinLevelStatus": {
+      "Concentration": 91,
+      "Expression": 83,
+      "Vocal": 96
+    },
     "StarActMasterId": 130111,
     "AwakenStarActMasterId": 130111,
     "SenseMasterId": 130110,
@@ -1332,11 +1332,11 @@
     "AssetId": null,
     "Rarity": 3,
     "Attribute": 4,
-    "MinLevelStatus": [
-      80,
-      95,
-      95
-    ],
+    "MinLevelStatus": {
+      "Concentration": 80,
+      "Expression": 95,
+      "Vocal": 95
+    },
     "StarActMasterId": 130121,
     "AwakenStarActMasterId": 130121,
     "SenseMasterId": 130120,
@@ -1357,11 +1357,11 @@
     "AssetId": null,
     "Rarity": 3,
     "Attribute": 2,
-    "MinLevelStatus": [
-      95,
-      82,
-      93
-    ],
+    "MinLevelStatus": {
+      "Concentration": 95,
+      "Expression": 82,
+      "Vocal": 93
+    },
     "StarActMasterId": 130131,
     "AwakenStarActMasterId": 130131,
     "SenseMasterId": 130130,
@@ -1382,11 +1382,11 @@
     "AssetId": null,
     "Rarity": 3,
     "Attribute": 3,
-    "MinLevelStatus": [
-      99,
-      96,
-      75
-    ],
+    "MinLevelStatus": {
+      "Concentration": 99,
+      "Expression": 96,
+      "Vocal": 75
+    },
     "StarActMasterId": 130141,
     "AwakenStarActMasterId": 130141,
     "SenseMasterId": 130140,
@@ -1407,11 +1407,11 @@
     "AssetId": null,
     "Rarity": 3,
     "Attribute": 1,
-    "MinLevelStatus": [
-      85,
-      84,
-      101
-    ],
+    "MinLevelStatus": {
+      "Concentration": 85,
+      "Expression": 84,
+      "Vocal": 101
+    },
     "StarActMasterId": 130151,
     "AwakenStarActMasterId": 130151,
     "SenseMasterId": 130150,
@@ -1432,11 +1432,11 @@
     "AssetId": null,
     "Rarity": 3,
     "Attribute": 2,
-    "MinLevelStatus": [
-      99,
-      85,
-      86
-    ],
+    "MinLevelStatus": {
+      "Concentration": 99,
+      "Expression": 85,
+      "Vocal": 86
+    },
     "StarActMasterId": 130161,
     "AwakenStarActMasterId": 130161,
     "SenseMasterId": 130160,
@@ -1457,11 +1457,11 @@
     "AssetId": null,
     "Rarity": 3,
     "Attribute": 3,
-    "MinLevelStatus": [
-      95,
-      97,
-      78
-    ],
+    "MinLevelStatus": {
+      "Concentration": 95,
+      "Expression": 97,
+      "Vocal": 78
+    },
     "StarActMasterId": 130171,
     "AwakenStarActMasterId": 130171,
     "SenseMasterId": 130170,
@@ -1482,11 +1482,11 @@
     "AssetId": null,
     "Rarity": 3,
     "Attribute": 1,
-    "MinLevelStatus": [
-      93,
-      82,
-      95
-    ],
+    "MinLevelStatus": {
+      "Concentration": 93,
+      "Expression": 82,
+      "Vocal": 95
+    },
     "StarActMasterId": 130181,
     "AwakenStarActMasterId": 130181,
     "SenseMasterId": 130180,
@@ -1507,11 +1507,11 @@
     "AssetId": null,
     "Rarity": 3,
     "Attribute": 2,
-    "MinLevelStatus": [
-      83,
-      94,
-      93
-    ],
+    "MinLevelStatus": {
+      "Concentration": 83,
+      "Expression": 94,
+      "Vocal": 93
+    },
     "StarActMasterId": 130191,
     "AwakenStarActMasterId": 130191,
     "SenseMasterId": 130190,
@@ -1532,11 +1532,11 @@
     "AssetId": null,
     "Rarity": 3,
     "Attribute": 4,
-    "MinLevelStatus": [
-      89,
-      99,
-      82
-    ],
+    "MinLevelStatus": {
+      "Concentration": 89,
+      "Expression": 99,
+      "Vocal": 82
+    },
     "StarActMasterId": 130201,
     "AwakenStarActMasterId": 130201,
     "SenseMasterId": 130200,
@@ -1557,11 +1557,11 @@
     "AssetId": null,
     "Rarity": 3,
     "Attribute": 3,
-    "MinLevelStatus": [
-      94,
-      79,
-      97
-    ],
+    "MinLevelStatus": {
+      "Concentration": 94,
+      "Expression": 79,
+      "Vocal": 97
+    },
     "StarActMasterId": 130211,
     "AwakenStarActMasterId": 130211,
     "SenseMasterId": 130210,
@@ -1582,11 +1582,11 @@
     "AssetId": null,
     "Rarity": 3,
     "Attribute": 1,
-    "MinLevelStatus": [
-      99,
-      90,
-      81
-    ],
+    "MinLevelStatus": {
+      "Concentration": 99,
+      "Expression": 90,
+      "Vocal": 81
+    },
     "StarActMasterId": 130221,
     "AwakenStarActMasterId": 130221,
     "SenseMasterId": 130220,
@@ -1607,11 +1607,11 @@
     "AssetId": null,
     "Rarity": 4,
     "Attribute": 3,
-    "MinLevelStatus": [
-      107,
-      118,
-      120
-    ],
+    "MinLevelStatus": {
+      "Concentration": 107,
+      "Expression": 118,
+      "Vocal": 120
+    },
     "StarActMasterId": 140011,
     "AwakenStarActMasterId": 140011,
     "SenseMasterId": 140010,
@@ -1632,11 +1632,11 @@
     "AssetId": null,
     "Rarity": 4,
     "Attribute": 1,
-    "MinLevelStatus": [
-      116,
-      110,
-      119
-    ],
+    "MinLevelStatus": {
+      "Concentration": 116,
+      "Expression": 110,
+      "Vocal": 119
+    },
     "StarActMasterId": 140021,
     "AwakenStarActMasterId": 140021,
     "SenseMasterId": 140020,
@@ -1657,11 +1657,11 @@
     "AssetId": null,
     "Rarity": 4,
     "Attribute": 4,
-    "MinLevelStatus": [
-      113,
-      116,
-      116
-    ],
+    "MinLevelStatus": {
+      "Concentration": 113,
+      "Expression": 116,
+      "Vocal": 116
+    },
     "StarActMasterId": 140031,
     "AwakenStarActMasterId": 140031,
     "SenseMasterId": 140030,
@@ -1682,11 +1682,11 @@
     "AssetId": null,
     "Rarity": 4,
     "Attribute": 4,
-    "MinLevelStatus": [
-      109,
-      114,
-      122
-    ],
+    "MinLevelStatus": {
+      "Concentration": 109,
+      "Expression": 114,
+      "Vocal": 122
+    },
     "StarActMasterId": 140041,
     "AwakenStarActMasterId": 140041,
     "SenseMasterId": 140040,
@@ -1707,11 +1707,11 @@
     "AssetId": null,
     "Rarity": 4,
     "Attribute": 1,
-    "MinLevelStatus": [
-      111,
-      116,
-      118
-    ],
+    "MinLevelStatus": {
+      "Concentration": 111,
+      "Expression": 116,
+      "Vocal": 118
+    },
     "StarActMasterId": 140051,
     "AwakenStarActMasterId": 140051,
     "SenseMasterId": 140050,
@@ -1732,11 +1732,11 @@
     "AssetId": null,
     "Rarity": 4,
     "Attribute": 2,
-    "MinLevelStatus": [
-      119,
-      118,
-      108
-    ],
+    "MinLevelStatus": {
+      "Concentration": 119,
+      "Expression": 118,
+      "Vocal": 108
+    },
     "StarActMasterId": 140061,
     "AwakenStarActMasterId": 140061,
     "SenseMasterId": 140060,
@@ -1757,11 +1757,11 @@
     "AssetId": null,
     "Rarity": 4,
     "Attribute": 3,
-    "MinLevelStatus": [
-      112,
-      114,
-      119
-    ],
+    "MinLevelStatus": {
+      "Concentration": 112,
+      "Expression": 114,
+      "Vocal": 119
+    },
     "StarActMasterId": 140071,
     "AwakenStarActMasterId": 140071,
     "SenseMasterId": 140070,
@@ -1782,11 +1782,11 @@
     "AssetId": null,
     "Rarity": 4,
     "Attribute": 2,
-    "MinLevelStatus": [
-      107,
-      121,
-      117
-    ],
+    "MinLevelStatus": {
+      "Concentration": 107,
+      "Expression": 121,
+      "Vocal": 117
+    },
     "StarActMasterId": 140081,
     "AwakenStarActMasterId": 140081,
     "SenseMasterId": 140080,
@@ -1807,11 +1807,11 @@
     "AssetId": null,
     "Rarity": 4,
     "Attribute": 4,
-    "MinLevelStatus": [
-      118,
-      106,
-      121
-    ],
+    "MinLevelStatus": {
+      "Concentration": 118,
+      "Expression": 106,
+      "Vocal": 121
+    },
     "StarActMasterId": 140091,
     "AwakenStarActMasterId": 140091,
     "SenseMasterId": 140090,
@@ -1832,11 +1832,11 @@
     "AssetId": null,
     "Rarity": 4,
     "Attribute": 1,
-    "MinLevelStatus": [
-      110,
-      109,
-      126
-    ],
+    "MinLevelStatus": {
+      "Concentration": 110,
+      "Expression": 109,
+      "Vocal": 126
+    },
     "StarActMasterId": 140101,
     "AwakenStarActMasterId": 140101,
     "SenseMasterId": 140100,
@@ -1857,11 +1857,11 @@
     "AssetId": null,
     "Rarity": 4,
     "Attribute": 4,
-    "MinLevelStatus": [
-      117,
-      118,
-      110
-    ],
+    "MinLevelStatus": {
+      "Concentration": 117,
+      "Expression": 118,
+      "Vocal": 110
+    },
     "StarActMasterId": 140111,
     "AwakenStarActMasterId": 140111,
     "SenseMasterId": 140110,
@@ -1882,11 +1882,11 @@
     "AssetId": null,
     "Rarity": 4,
     "Attribute": 3,
-    "MinLevelStatus": [
-      114,
-      113,
-      118
-    ],
+    "MinLevelStatus": {
+      "Concentration": 114,
+      "Expression": 113,
+      "Vocal": 118
+    },
     "StarActMasterId": 140121,
     "AwakenStarActMasterId": 140121,
     "SenseMasterId": 140120,
@@ -1907,11 +1907,11 @@
     "AssetId": null,
     "Rarity": 4,
     "Attribute": 2,
-    "MinLevelStatus": [
-      118,
-      101,
-      126
-    ],
+    "MinLevelStatus": {
+      "Concentration": 118,
+      "Expression": 101,
+      "Vocal": 126
+    },
     "StarActMasterId": 140131,
     "AwakenStarActMasterId": 140131,
     "SenseMasterId": 140130,
@@ -1932,11 +1932,11 @@
     "AssetId": null,
     "Rarity": 4,
     "Attribute": 4,
-    "MinLevelStatus": [
-      119,
-      115,
-      111
-    ],
+    "MinLevelStatus": {
+      "Concentration": 119,
+      "Expression": 115,
+      "Vocal": 111
+    },
     "StarActMasterId": 140141,
     "AwakenStarActMasterId": 140141,
     "SenseMasterId": 140140,
@@ -1957,11 +1957,11 @@
     "AssetId": null,
     "Rarity": 4,
     "Attribute": 1,
-    "MinLevelStatus": [
-      118,
-      125,
-      102
-    ],
+    "MinLevelStatus": {
+      "Concentration": 118,
+      "Expression": 125,
+      "Vocal": 102
+    },
     "StarActMasterId": 140151,
     "AwakenStarActMasterId": 140151,
     "SenseMasterId": 140150,
@@ -1982,11 +1982,11 @@
     "AssetId": null,
     "Rarity": 4,
     "Attribute": 1,
-    "MinLevelStatus": [
-      116,
-      106,
-      123
-    ],
+    "MinLevelStatus": {
+      "Concentration": 116,
+      "Expression": 106,
+      "Vocal": 123
+    },
     "StarActMasterId": 140161,
     "AwakenStarActMasterId": 140161,
     "SenseMasterId": 140160,

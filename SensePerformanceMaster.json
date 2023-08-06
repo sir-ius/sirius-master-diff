@@ -4,132 +4,132 @@
     "LabelType": 1,
     "PerformanceGroup": null,
     "Characters": [
-      [
-        1000101,
-        101,
-        1000,
-        "101100"
-      ],
-      [
-        1000102,
-        102,
-        1000,
-        "102100"
-      ],
-      [
-        1000103,
-        103,
-        1000,
-        "103100"
-      ],
-      [
-        1000104,
-        104,
-        1000,
-        "104100"
-      ],
-      [
-        1000105,
-        105,
-        1000,
-        "105100"
-      ],
-      [
-        1000106,
-        106,
-        1000,
-        "106100"
-      ],
-      [
-        1000201,
-        201,
-        1000,
-        "201100"
-      ],
-      [
-        1000202,
-        202,
-        1000,
-        "202100"
-      ],
-      [
-        1000203,
-        203,
-        1000,
-        "203100"
-      ],
-      [
-        1000204,
-        204,
-        1000,
-        "204100"
-      ],
-      [
-        1000205,
-        205,
-        1000,
-        "205100"
-      ],
-      [
-        1000301,
-        301,
-        1000,
-        "301100"
-      ],
-      [
-        1000302,
-        302,
-        1000,
-        "302100"
-      ],
-      [
-        1000303,
-        303,
-        1000,
-        "303100"
-      ],
-      [
-        1000304,
-        304,
-        1000,
-        "304100"
-      ],
-      [
-        1000305,
-        305,
-        1000,
-        "305100"
-      ],
-      [
-        1000401,
-        401,
-        1000,
-        "401100"
-      ],
-      [
-        1000402,
-        402,
-        1000,
-        "402100"
-      ],
-      [
-        1000403,
-        403,
-        1000,
-        "403100"
-      ],
-      [
-        1000404,
-        404,
-        1000,
-        "404100"
-      ],
-      [
-        1000405,
-        405,
-        1000,
-        "405100"
-      ]
+      {
+        "Id": 1000101,
+        "CharacterBaseMasterId": 101,
+        "SensePerformanceMasterId": 1000,
+        "ExpressId": "101100"
+      },
+      {
+        "Id": 1000102,
+        "CharacterBaseMasterId": 102,
+        "SensePerformanceMasterId": 1000,
+        "ExpressId": "102100"
+      },
+      {
+        "Id": 1000103,
+        "CharacterBaseMasterId": 103,
+        "SensePerformanceMasterId": 1000,
+        "ExpressId": "103100"
+      },
+      {
+        "Id": 1000104,
+        "CharacterBaseMasterId": 104,
+        "SensePerformanceMasterId": 1000,
+        "ExpressId": "104100"
+      },
+      {
+        "Id": 1000105,
+        "CharacterBaseMasterId": 105,
+        "SensePerformanceMasterId": 1000,
+        "ExpressId": "105100"
+      },
+      {
+        "Id": 1000106,
+        "CharacterBaseMasterId": 106,
+        "SensePerformanceMasterId": 1000,
+        "ExpressId": "106100"
+      },
+      {
+        "Id": 1000201,
+        "CharacterBaseMasterId": 201,
+        "SensePerformanceMasterId": 1000,
+        "ExpressId": "201100"
+      },
+      {
+        "Id": 1000202,
+        "CharacterBaseMasterId": 202,
+        "SensePerformanceMasterId": 1000,
+        "ExpressId": "202100"
+      },
+      {
+        "Id": 1000203,
+        "CharacterBaseMasterId": 203,
+        "SensePerformanceMasterId": 1000,
+        "ExpressId": "203100"
+      },
+      {
+        "Id": 1000204,
+        "CharacterBaseMasterId": 204,
+        "SensePerformanceMasterId": 1000,
+        "ExpressId": "204100"
+      },
+      {
+        "Id": 1000205,
+        "CharacterBaseMasterId": 205,
+        "SensePerformanceMasterId": 1000,
+        "ExpressId": "205100"
+      },
+      {
+        "Id": 1000301,
+        "CharacterBaseMasterId": 301,
+        "SensePerformanceMasterId": 1000,
+        "ExpressId": "301100"
+      },
+      {
+        "Id": 1000302,
+        "CharacterBaseMasterId": 302,
+        "SensePerformanceMasterId": 1000,
+        "ExpressId": "302100"
+      },
+      {
+        "Id": 1000303,
+        "CharacterBaseMasterId": 303,
+        "SensePerformanceMasterId": 1000,
+        "ExpressId": "303100"
+      },
+      {
+        "Id": 1000304,
+        "CharacterBaseMasterId": 304,
+        "SensePerformanceMasterId": 1000,
+        "ExpressId": "304100"
+      },
+      {
+        "Id": 1000305,
+        "CharacterBaseMasterId": 305,
+        "SensePerformanceMasterId": 1000,
+        "ExpressId": "305100"
+      },
+      {
+        "Id": 1000401,
+        "CharacterBaseMasterId": 401,
+        "SensePerformanceMasterId": 1000,
+        "ExpressId": "401100"
+      },
+      {
+        "Id": 1000402,
+        "CharacterBaseMasterId": 402,
+        "SensePerformanceMasterId": 1000,
+        "ExpressId": "402100"
+      },
+      {
+        "Id": 1000403,
+        "CharacterBaseMasterId": 403,
+        "SensePerformanceMasterId": 1000,
+        "ExpressId": "403100"
+      },
+      {
+        "Id": 1000404,
+        "CharacterBaseMasterId": 404,
+        "SensePerformanceMasterId": 1000,
+        "ExpressId": "404100"
+      },
+      {
+        "Id": 1000405,
+        "CharacterBaseMasterId": 405,
+        "SensePerformanceMasterId": 1000,
+        "ExpressId": "405100"
+      }
     ]
   },
   {
@@ -137,132 +137,132 @@
     "LabelType": 2,
     "PerformanceGroup": null,
     "Characters": [
-      [
-        2000101,
-        101,
-        2000,
-        "101200"
-      ],
-      [
-        2000102,
-        102,
-        2000,
-        "102200"
-      ],
-      [
-        2000103,
-        103,
-        2000,
-        "103200"
-      ],
-      [
-        2000104,
-        104,
-        2000,
-        "104200"
-      ],
-      [
-        2000105,
-        105,
-        2000,
-        "105200"
-      ],
-      [
-        2000106,
-        106,
-        2000,
-        "106200"
-      ],
-      [
-        2000201,
-        201,
-        2000,
-        "201200"
-      ],
-      [
-        2000202,
-        202,
-        2000,
-        "202200"
-      ],
-      [
-        2000203,
-        203,
-        2000,
-        "203200"
-      ],
-      [
-        2000204,
-        204,
-        2000,
-        "204200"
-      ],
-      [
-        2000205,
-        205,
-        2000,
-        "205200"
-      ],
-      [
-        2000301,
-        301,
-        2000,
-        "301200"
-      ],
-      [
-        2000302,
-        302,
-        2000,
-        "302200"
-      ],
-      [
-        2000303,
-        303,
-        2000,
-        "303200"
-      ],
-      [
-        2000304,
-        304,
-        2000,
-        "304200"
-      ],
-      [
-        2000305,
-        305,
-        2000,
-        "305200"
-      ],
-      [
-        2000401,
-        401,
-        2000,
-        "401200"
-      ],
-      [
-        2000402,
-        402,
-        2000,
-        "402200"
-      ],
-      [
-        2000403,
-        403,
-        2000,
-        "403200"
-      ],
-      [
-        2000404,
-        404,
-        2000,
-        "404200"
-      ],
-      [
-        2000405,
-        405,
-        2000,
-        "405200"
-      ]
+      {
+        "Id": 2000101,
+        "CharacterBaseMasterId": 101,
+        "SensePerformanceMasterId": 2000,
+        "ExpressId": "101200"
+      },
+      {
+        "Id": 2000102,
+        "CharacterBaseMasterId": 102,
+        "SensePerformanceMasterId": 2000,
+        "ExpressId": "102200"
+      },
+      {
+        "Id": 2000103,
+        "CharacterBaseMasterId": 103,
+        "SensePerformanceMasterId": 2000,
+        "ExpressId": "103200"
+      },
+      {
+        "Id": 2000104,
+        "CharacterBaseMasterId": 104,
+        "SensePerformanceMasterId": 2000,
+        "ExpressId": "104200"
+      },
+      {
+        "Id": 2000105,
+        "CharacterBaseMasterId": 105,
+        "SensePerformanceMasterId": 2000,
+        "ExpressId": "105200"
+      },
+      {
+        "Id": 2000106,
+        "CharacterBaseMasterId": 106,
+        "SensePerformanceMasterId": 2000,
+        "ExpressId": "106200"
+      },
+      {
+        "Id": 2000201,
+        "CharacterBaseMasterId": 201,
+        "SensePerformanceMasterId": 2000,
+        "ExpressId": "201200"
+      },
+      {
+        "Id": 2000202,
+        "CharacterBaseMasterId": 202,
+        "SensePerformanceMasterId": 2000,
+        "ExpressId": "202200"
+      },
+      {
+        "Id": 2000203,
+        "CharacterBaseMasterId": 203,
+        "SensePerformanceMasterId": 2000,
+        "ExpressId": "203200"
+      },
+      {
+        "Id": 2000204,
+        "CharacterBaseMasterId": 204,
+        "SensePerformanceMasterId": 2000,
+        "ExpressId": "204200"
+      },
+      {
+        "Id": 2000205,
+        "CharacterBaseMasterId": 205,
+        "SensePerformanceMasterId": 2000,
+        "ExpressId": "205200"
+      },
+      {
+        "Id": 2000301,
+        "CharacterBaseMasterId": 301,
+        "SensePerformanceMasterId": 2000,
+        "ExpressId": "301200"
+      },
+      {
+        "Id": 2000302,
+        "CharacterBaseMasterId": 302,
+        "SensePerformanceMasterId": 2000,
+        "ExpressId": "302200"
+      },
+      {
+        "Id": 2000303,
+        "CharacterBaseMasterId": 303,
+        "SensePerformanceMasterId": 2000,
+        "ExpressId": "303200"
+      },
+      {
+        "Id": 2000304,
+        "CharacterBaseMasterId": 304,
+        "SensePerformanceMasterId": 2000,
+        "ExpressId": "304200"
+      },
+      {
+        "Id": 2000305,
+        "CharacterBaseMasterId": 305,
+        "SensePerformanceMasterId": 2000,
+        "ExpressId": "305200"
+      },
+      {
+        "Id": 2000401,
+        "CharacterBaseMasterId": 401,
+        "SensePerformanceMasterId": 2000,
+        "ExpressId": "401200"
+      },
+      {
+        "Id": 2000402,
+        "CharacterBaseMasterId": 402,
+        "SensePerformanceMasterId": 2000,
+        "ExpressId": "402200"
+      },
+      {
+        "Id": 2000403,
+        "CharacterBaseMasterId": 403,
+        "SensePerformanceMasterId": 2000,
+        "ExpressId": "403200"
+      },
+      {
+        "Id": 2000404,
+        "CharacterBaseMasterId": 404,
+        "SensePerformanceMasterId": 2000,
+        "ExpressId": "404200"
+      },
+      {
+        "Id": 2000405,
+        "CharacterBaseMasterId": 405,
+        "SensePerformanceMasterId": 2000,
+        "ExpressId": "405200"
+      }
     ]
   },
   {
@@ -270,132 +270,132 @@
     "LabelType": 3,
     "PerformanceGroup": null,
     "Characters": [
-      [
-        3000101,
-        101,
-        3000,
-        "101300"
-      ],
-      [
-        3000102,
-        102,
-        3000,
-        "102300"
-      ],
-      [
-        3000103,
-        103,
-        3000,
-        "103300"
-      ],
-      [
-        3000104,
-        104,
-        3000,
-        "104300"
-      ],
-      [
-        3000105,
-        105,
-        3000,
-        "105300"
-      ],
-      [
-        3000106,
-        106,
-        3000,
-        "106300"
-      ],
-      [
-        3000201,
-        201,
-        3000,
-        "201300"
-      ],
-      [
-        3000202,
-        202,
-        3000,
-        "202300"
-      ],
-      [
-        3000203,
-        203,
-        3000,
-        "203300"
-      ],
-      [
-        3000204,
-        204,
-        3000,
-        "204300"
-      ],
-      [
-        3000205,
-        205,
-        3000,
-        "205300"
-      ],
-      [
-        3000301,
-        301,
-        3000,
-        "301300"
-      ],
-      [
-        3000302,
-        302,
-        3000,
-        "302300"
-      ],
-      [
-        3000303,
-        303,
-        3000,
-        "303300"
-      ],
-      [
-        3000304,
-        304,
-        3000,
-        "304300"
-      ],
-      [
-        3000305,
-        305,
-        3000,
-        "305300"
-      ],
-      [
-        3000401,
-        401,
-        3000,
-        "401300"
-      ],
-      [
-        3000402,
-        402,
-        3000,
-        "402300"
-      ],
-      [
-        3000403,
-        403,
-        3000,
-        "403300"
-      ],
-      [
-        3000404,
-        404,
-        3000,
-        "404300"
-      ],
-      [
-        3000405,
-        405,
-        3000,
-        "405300"
-      ]
+      {
+        "Id": 3000101,
+        "CharacterBaseMasterId": 101,
+        "SensePerformanceMasterId": 3000,
+        "ExpressId": "101300"
+      },
+      {
+        "Id": 3000102,
+        "CharacterBaseMasterId": 102,
+        "SensePerformanceMasterId": 3000,
+        "ExpressId": "102300"
+      },
+      {
+        "Id": 3000103,
+        "CharacterBaseMasterId": 103,
+        "SensePerformanceMasterId": 3000,
+        "ExpressId": "103300"
+      },
+      {
+        "Id": 3000104,
+        "CharacterBaseMasterId": 104,
+        "SensePerformanceMasterId": 3000,
+        "ExpressId": "104300"
+      },
+      {
+        "Id": 3000105,
+        "CharacterBaseMasterId": 105,
+        "SensePerformanceMasterId": 3000,
+        "ExpressId": "105300"
+      },
+      {
+        "Id": 3000106,
+        "CharacterBaseMasterId": 106,
+        "SensePerformanceMasterId": 3000,
+        "ExpressId": "106300"
+      },
+      {
+        "Id": 3000201,
+        "CharacterBaseMasterId": 201,
+        "SensePerformanceMasterId": 3000,
+        "ExpressId": "201300"
+      },
+      {
+        "Id": 3000202,
+        "CharacterBaseMasterId": 202,
+        "SensePerformanceMasterId": 3000,
+        "ExpressId": "202300"
+      },
+      {
+        "Id": 3000203,
+        "CharacterBaseMasterId": 203,
+        "SensePerformanceMasterId": 3000,
+        "ExpressId": "203300"
+      },
+      {
+        "Id": 3000204,
+        "CharacterBaseMasterId": 204,
+        "SensePerformanceMasterId": 3000,
+        "ExpressId": "204300"
+      },
+      {
+        "Id": 3000205,
+        "CharacterBaseMasterId": 205,
+        "SensePerformanceMasterId": 3000,
+        "ExpressId": "205300"
+      },
+      {
+        "Id": 3000301,
+        "CharacterBaseMasterId": 301,
+        "SensePerformanceMasterId": 3000,
+        "ExpressId": "301300"
+      },
+      {
+        "Id": 3000302,
+        "CharacterBaseMasterId": 302,
+        "SensePerformanceMasterId": 3000,
+        "ExpressId": "302300"
+      },
+      {
+        "Id": 3000303,
+        "CharacterBaseMasterId": 303,
+        "SensePerformanceMasterId": 3000,
+        "ExpressId": "303300"
+      },
+      {
+        "Id": 3000304,
+        "CharacterBaseMasterId": 304,
+        "SensePerformanceMasterId": 3000,
+        "ExpressId": "304300"
+      },
+      {
+        "Id": 3000305,
+        "CharacterBaseMasterId": 305,
+        "SensePerformanceMasterId": 3000,
+        "ExpressId": "305300"
+      },
+      {
+        "Id": 3000401,
+        "CharacterBaseMasterId": 401,
+        "SensePerformanceMasterId": 3000,
+        "ExpressId": "401300"
+      },
+      {
+        "Id": 3000402,
+        "CharacterBaseMasterId": 402,
+        "SensePerformanceMasterId": 3000,
+        "ExpressId": "402300"
+      },
+      {
+        "Id": 3000403,
+        "CharacterBaseMasterId": 403,
+        "SensePerformanceMasterId": 3000,
+        "ExpressId": "403300"
+      },
+      {
+        "Id": 3000404,
+        "CharacterBaseMasterId": 404,
+        "SensePerformanceMasterId": 3000,
+        "ExpressId": "404300"
+      },
+      {
+        "Id": 3000405,
+        "CharacterBaseMasterId": 405,
+        "SensePerformanceMasterId": 3000,
+        "ExpressId": "405300"
+      }
     ]
   },
   {
@@ -403,132 +403,132 @@
     "LabelType": 4,
     "PerformanceGroup": null,
     "Characters": [
-      [
-        4000101,
-        101,
-        4000,
-        "101400"
-      ],
-      [
-        4000102,
-        102,
-        4000,
-        "102400"
-      ],
-      [
-        4000103,
-        103,
-        4000,
-        "103400"
-      ],
-      [
-        4000104,
-        104,
-        4000,
-        "104400"
-      ],
-      [
-        4000105,
-        105,
-        4000,
-        "105400"
-      ],
-      [
-        4000106,
-        106,
-        4000,
-        "106400"
-      ],
-      [
-        4000201,
-        201,
-        4000,
-        "201400"
-      ],
-      [
-        4000202,
-        202,
-        4000,
-        "202400"
-      ],
-      [
-        4000203,
-        203,
-        4000,
-        "203400"
-      ],
-      [
-        4000204,
-        204,
-        4000,
-        "204400"
-      ],
-      [
-        4000205,
-        205,
-        4000,
-        "205400"
-      ],
-      [
-        4000301,
-        301,
-        4000,
-        "301400"
-      ],
-      [
-        4000302,
-        302,
-        4000,
-        "302400"
-      ],
-      [
-        4000303,
-        303,
-        4000,
-        "303400"
-      ],
-      [
-        4000304,
-        304,
-        4000,
-        "304400"
-      ],
-      [
-        4000305,
-        305,
-        4000,
-        "305400"
-      ],
-      [
-        4000401,
-        401,
-        4000,
-        "401400"
-      ],
-      [
-        4000402,
-        402,
-        4000,
-        "402400"
-      ],
-      [
-        4000403,
-        403,
-        4000,
-        "403400"
-      ],
-      [
-        4000404,
-        404,
-        4000,
-        "404400"
-      ],
-      [
-        4000405,
-        405,
-        4000,
-        "405400"
-      ]
+      {
+        "Id": 4000101,
+        "CharacterBaseMasterId": 101,
+        "SensePerformanceMasterId": 4000,
+        "ExpressId": "101400"
+      },
+      {
+        "Id": 4000102,
+        "CharacterBaseMasterId": 102,
+        "SensePerformanceMasterId": 4000,
+        "ExpressId": "102400"
+      },
+      {
+        "Id": 4000103,
+        "CharacterBaseMasterId": 103,
+        "SensePerformanceMasterId": 4000,
+        "ExpressId": "103400"
+      },
+      {
+        "Id": 4000104,
+        "CharacterBaseMasterId": 104,
+        "SensePerformanceMasterId": 4000,
+        "ExpressId": "104400"
+      },
+      {
+        "Id": 4000105,
+        "CharacterBaseMasterId": 105,
+        "SensePerformanceMasterId": 4000,
+        "ExpressId": "105400"
+      },
+      {
+        "Id": 4000106,
+        "CharacterBaseMasterId": 106,
+        "SensePerformanceMasterId": 4000,
+        "ExpressId": "106400"
+      },
+      {
+        "Id": 4000201,
+        "CharacterBaseMasterId": 201,
+        "SensePerformanceMasterId": 4000,
+        "ExpressId": "201400"
+      },
+      {
+        "Id": 4000202,
+        "CharacterBaseMasterId": 202,
+        "SensePerformanceMasterId": 4000,
+        "ExpressId": "202400"
+      },
+      {
+        "Id": 4000203,
+        "CharacterBaseMasterId": 203,
+        "SensePerformanceMasterId": 4000,
+        "ExpressId": "203400"
+      },
+      {
+        "Id": 4000204,
+        "CharacterBaseMasterId": 204,
+        "SensePerformanceMasterId": 4000,
+        "ExpressId": "204400"
+      },
+      {
+        "Id": 4000205,
+        "CharacterBaseMasterId": 205,
+        "SensePerformanceMasterId": 4000,
+        "ExpressId": "205400"
+      },
+      {
+        "Id": 4000301,
+        "CharacterBaseMasterId": 301,
+        "SensePerformanceMasterId": 4000,
+        "ExpressId": "301400"
+      },
+      {
+        "Id": 4000302,
+        "CharacterBaseMasterId": 302,
+        "SensePerformanceMasterId": 4000,
+        "ExpressId": "302400"
+      },
+      {
+        "Id": 4000303,
+        "CharacterBaseMasterId": 303,
+        "SensePerformanceMasterId": 4000,
+        "ExpressId": "303400"
+      },
+      {
+        "Id": 4000304,
+        "CharacterBaseMasterId": 304,
+        "SensePerformanceMasterId": 4000,
+        "ExpressId": "304400"
+      },
+      {
+        "Id": 4000305,
+        "CharacterBaseMasterId": 305,
+        "SensePerformanceMasterId": 4000,
+        "ExpressId": "305400"
+      },
+      {
+        "Id": 4000401,
+        "CharacterBaseMasterId": 401,
+        "SensePerformanceMasterId": 4000,
+        "ExpressId": "401400"
+      },
+      {
+        "Id": 4000402,
+        "CharacterBaseMasterId": 402,
+        "SensePerformanceMasterId": 4000,
+        "ExpressId": "402400"
+      },
+      {
+        "Id": 4000403,
+        "CharacterBaseMasterId": 403,
+        "SensePerformanceMasterId": 4000,
+        "ExpressId": "403400"
+      },
+      {
+        "Id": 4000404,
+        "CharacterBaseMasterId": 404,
+        "SensePerformanceMasterId": 4000,
+        "ExpressId": "404400"
+      },
+      {
+        "Id": 4000405,
+        "CharacterBaseMasterId": 405,
+        "SensePerformanceMasterId": 4000,
+        "ExpressId": "405400"
+      }
     ]
   }
 ]

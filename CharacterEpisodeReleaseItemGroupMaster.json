@@ -2,381 +2,381 @@
   {
     "Id": 111,
     "Items": [
-      [
-        130021,
-        10,
-        1
-      ]
+      {
+        "ItemMasterId": 130021,
+        "RequiredQuantity": 10,
+        "Order": 1
+      }
     ]
   },
   {
     "Id": 112,
     "Items": [
-      [
-        130021,
-        20,
-        1
-      ]
+      {
+        "ItemMasterId": 130021,
+        "RequiredQuantity": 20,
+        "Order": 1
+      }
     ]
   },
   {
     "Id": 121,
     "Items": [
-      [
-        130022,
-        10,
-        1
-      ]
+      {
+        "ItemMasterId": 130022,
+        "RequiredQuantity": 10,
+        "Order": 1
+      }
     ]
   },
   {
     "Id": 122,
     "Items": [
-      [
-        130022,
-        20,
-        1
-      ]
+      {
+        "ItemMasterId": 130022,
+        "RequiredQuantity": 20,
+        "Order": 1
+      }
     ]
   },
   {
     "Id": 131,
     "Items": [
-      [
-        130023,
-        10,
-        1
-      ]
+      {
+        "ItemMasterId": 130023,
+        "RequiredQuantity": 10,
+        "Order": 1
+      }
     ]
   },
   {
     "Id": 132,
     "Items": [
-      [
-        130023,
-        20,
-        1
-      ]
+      {
+        "ItemMasterId": 130023,
+        "RequiredQuantity": 20,
+        "Order": 1
+      }
     ]
   },
   {
     "Id": 141,
     "Items": [
-      [
-        130024,
-        10,
-        1
-      ]
+      {
+        "ItemMasterId": 130024,
+        "RequiredQuantity": 10,
+        "Order": 1
+      }
     ]
   },
   {
     "Id": 142,
     "Items": [
-      [
-        130024,
-        20,
-        1
-      ]
+      {
+        "ItemMasterId": 130024,
+        "RequiredQuantity": 20,
+        "Order": 1
+      }
     ]
   },
   {
     "Id": 211,
     "Items": [
-      [
-        130021,
-        40,
-        1
-      ]
+      {
+        "ItemMasterId": 130021,
+        "RequiredQuantity": 40,
+        "Order": 1
+      }
     ]
   },
   {
     "Id": 212,
     "Items": [
-      [
-        130021,
-        80,
-        1
-      ],
-      [
-        130031,
-        30,
-        2
-      ]
+      {
+        "ItemMasterId": 130021,
+        "RequiredQuantity": 80,
+        "Order": 1
+      },
+      {
+        "ItemMasterId": 130031,
+        "RequiredQuantity": 30,
+        "Order": 2
+      }
     ]
   },
   {
     "Id": 221,
     "Items": [
-      [
-        130022,
-        40,
-        1
-      ]
+      {
+        "ItemMasterId": 130022,
+        "RequiredQuantity": 40,
+        "Order": 1
+      }
     ]
   },
   {
     "Id": 222,
     "Items": [
-      [
-        130022,
-        80,
-        1
-      ],
-      [
-        130032,
-        30,
-        2
-      ]
+      {
+        "ItemMasterId": 130022,
+        "RequiredQuantity": 80,
+        "Order": 1
+      },
+      {
+        "ItemMasterId": 130032,
+        "RequiredQuantity": 30,
+        "Order": 2
+      }
     ]
   },
   {
     "Id": 231,
     "Items": [
-      [
-        130023,
-        40,
-        1
-      ]
+      {
+        "ItemMasterId": 130023,
+        "RequiredQuantity": 40,
+        "Order": 1
+      }
     ]
   },
   {
     "Id": 232,
     "Items": [
-      [
-        130023,
-        80,
-        1
-      ],
-      [
-        130033,
-        30,
-        2
-      ]
+      {
+        "ItemMasterId": 130023,
+        "RequiredQuantity": 80,
+        "Order": 1
+      },
+      {
+        "ItemMasterId": 130033,
+        "RequiredQuantity": 30,
+        "Order": 2
+      }
     ]
   },
   {
     "Id": 241,
     "Items": [
-      [
-        130024,
-        40,
-        1
-      ]
+      {
+        "ItemMasterId": 130024,
+        "RequiredQuantity": 40,
+        "Order": 1
+      }
     ]
   },
   {
     "Id": 242,
     "Items": [
-      [
-        130024,
-        80,
-        1
-      ],
-      [
-        130034,
-        30,
-        2
-      ]
+      {
+        "ItemMasterId": 130024,
+        "RequiredQuantity": 80,
+        "Order": 1
+      },
+      {
+        "ItemMasterId": 130034,
+        "RequiredQuantity": 30,
+        "Order": 2
+      }
     ]
   },
   {
     "Id": 311,
     "Items": [
-      [
-        130021,
-        100,
-        1
-      ]
+      {
+        "ItemMasterId": 130021,
+        "RequiredQuantity": 100,
+        "Order": 1
+      }
     ]
   },
   {
     "Id": 312,
     "Items": [
-      [
-        130021,
-        200,
-        1
-      ],
-      [
-        130031,
-        50,
-        2
-      ]
+      {
+        "ItemMasterId": 130021,
+        "RequiredQuantity": 200,
+        "Order": 1
+      },
+      {
+        "ItemMasterId": 130031,
+        "RequiredQuantity": 50,
+        "Order": 2
+      }
     ]
   },
   {
     "Id": 321,
     "Items": [
-      [
-        130022,
-        100,
-        1
-      ]
+      {
+        "ItemMasterId": 130022,
+        "RequiredQuantity": 100,
+        "Order": 1
+      }
     ]
   },
   {
     "Id": 322,
     "Items": [
-      [
-        130022,
-        200,
-        1
-      ],
-      [
-        130032,
-        50,
-        2
-      ]
+      {
+        "ItemMasterId": 130022,
+        "RequiredQuantity": 200,
+        "Order": 1
+      },
+      {
+        "ItemMasterId": 130032,
+        "RequiredQuantity": 50,
+        "Order": 2
+      }
     ]
   },
   {
     "Id": 331,
     "Items": [
-      [
-        130023,
-        100,
-        1
-      ]
+      {
+        "ItemMasterId": 130023,
+        "RequiredQuantity": 100,
+        "Order": 1
+      }
     ]
   },
   {
     "Id": 332,
     "Items": [
-      [
-        130023,
-        200,
-        1
-      ],
-      [
-        130033,
-        50,
-        2
-      ]
+      {
+        "ItemMasterId": 130023,
+        "RequiredQuantity": 200,
+        "Order": 1
+      },
+      {
+        "ItemMasterId": 130033,
+        "RequiredQuantity": 50,
+        "Order": 2
+      }
     ]
   },
   {
     "Id": 341,
     "Items": [
-      [
-        130024,
-        100,
-        1
-      ]
+      {
+        "ItemMasterId": 130024,
+        "RequiredQuantity": 100,
+        "Order": 1
+      }
     ]
   },
   {
     "Id": 342,
     "Items": [
-      [
-        130024,
-        200,
-        1
-      ],
-      [
-        130034,
-        50,
-        2
-      ]
+      {
+        "ItemMasterId": 130024,
+        "RequiredQuantity": 200,
+        "Order": 1
+      },
+      {
+        "ItemMasterId": 130034,
+        "RequiredQuantity": 50,
+        "Order": 2
+      }
     ]
   },
   {
     "Id": 411,
     "Items": [
-      [
-        130021,
-        250,
-        1
-      ]
+      {
+        "ItemMasterId": 130021,
+        "RequiredQuantity": 250,
+        "Order": 1
+      }
     ]
   },
   {
     "Id": 412,
     "Items": [
-      [
-        130021,
-        500,
-        1
-      ],
-      [
-        130031,
-        200,
-        2
-      ]
+      {
+        "ItemMasterId": 130021,
+        "RequiredQuantity": 500,
+        "Order": 1
+      },
+      {
+        "ItemMasterId": 130031,
+        "RequiredQuantity": 200,
+        "Order": 2
+      }
     ]
   },
   {
     "Id": 421,
     "Items": [
-      [
-        130022,
-        250,
-        1
-      ]
+      {
+        "ItemMasterId": 130022,
+        "RequiredQuantity": 250,
+        "Order": 1
+      }
     ]
   },
   {
     "Id": 422,
     "Items": [
-      [
-        130022,
-        500,
-        1
-      ],
-      [
-        130032,
-        200,
-        2
-      ]
+      {
+        "ItemMasterId": 130022,
+        "RequiredQuantity": 500,
+        "Order": 1
+      },
+      {
+        "ItemMasterId": 130032,
+        "RequiredQuantity": 200,
+        "Order": 2
+      }
     ]
   },
   {
     "Id": 431,
     "Items": [
-      [
-        130023,
-        250,
-        1
-      ]
+      {
+        "ItemMasterId": 130023,
+        "RequiredQuantity": 250,
+        "Order": 1
+      }
     ]
   },
   {
     "Id": 432,
     "Items": [
-      [
-        130023,
-        500,
-        1
-      ],
-      [
-        130033,
-        200,
-        2
-      ]
+      {
+        "ItemMasterId": 130023,
+        "RequiredQuantity": 500,
+        "Order": 1
+      },
+      {
+        "ItemMasterId": 130033,
+        "RequiredQuantity": 200,
+        "Order": 2
+      }
     ]
   },
   {
     "Id": 441,
     "Items": [
-      [
-        130024,
-        250,
-        1
-      ]
+      {
+        "ItemMasterId": 130024,
+        "RequiredQuantity": 250,
+        "Order": 1
+      }
     ]
   },
   {
     "Id": 442,
     "Items": [
-      [
-        130024,
-        500,
-        1
-      ],
-      [
-        130034,
-        200,
-        2
-      ]
+      {
+        "ItemMasterId": 130024,
+        "RequiredQuantity": 500,
+        "Order": 1
+      },
+      {
+        "ItemMasterId": 130034,
+        "RequiredQuantity": 200,
+        "Order": 2
+      }
     ]
   }
 ]

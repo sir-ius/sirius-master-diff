@@ -18,17 +18,17 @@
     "SampleEndSeconds": 0,
     "DelaySeconds": 0,
     "VocalVersions": [
-      [
-        101,
-        1,
-        1,
-        "鳳ここな、静香、カトリナ・グリーベル、新妻八恵、柳場ぱんだ、流石知冴",
-        "ワナビスタ！",
-        93,
-        0,
-        0,
-        0
-      ]
+      {
+        "Id": 101,
+        "MusicMasterId": 1,
+        "VocalVersion": 1,
+        "Singer": "鳳ここな、静香、カトリナ・グリーベル、新妻八恵、柳場ぱんだ、流石知冴",
+        "Name": "ワナビスタ！",
+        "MusicTimeSecond": 93,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": 0
+      }
     ],
     "UnlockConditionType": 1,
     "UnlockConditionValue": null,
@@ -53,17 +53,17 @@
     "SampleEndSeconds": 0,
     "DelaySeconds": 0,
     "VocalVersions": [
-      [
-        201,
-        2,
-        1,
-        "鳳ここな、静香",
-        "トゥ・オブ・アス",
-        95,
-        0,
-        0,
-        0
-      ]
+      {
+        "Id": 201,
+        "MusicMasterId": 2,
+        "VocalVersion": 1,
+        "Singer": "鳳ここな、静香",
+        "Name": "トゥ・オブ・アス",
+        "MusicTimeSecond": 95,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": 0
+      }
     ],
     "UnlockConditionType": 1,
     "UnlockConditionValue": null,
@@ -88,28 +88,28 @@
     "SampleEndSeconds": 0,
     "DelaySeconds": 0,
     "VocalVersions": [
-      [
-        301,
-        3,
-        1,
-        "静香、鳳ここな",
-        "勿忘唄",
-        119,
-        0,
-        0,
-        1
-      ],
-      [
-        302,
-        3,
-        2,
-        "千寿暦、ラモーナ・ウォルフ",
-        "勿忘唄（銀河座 Ver）",
-        119,
-        0,
-        0,
-        0
-      ]
+      {
+        "Id": 301,
+        "MusicMasterId": 3,
+        "VocalVersion": 1,
+        "Singer": "静香、鳳ここな",
+        "Name": "勿忘唄",
+        "MusicTimeSecond": 119,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": 1
+      },
+      {
+        "Id": 302,
+        "MusicMasterId": 3,
+        "VocalVersion": 2,
+        "Singer": "千寿暦、ラモーナ・ウォルフ",
+        "Name": "勿忘唄（銀河座 Ver）",
+        "MusicTimeSecond": 119,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": 0
+      }
     ],
     "UnlockConditionType": 11,
     "UnlockConditionValue": 1010107,
@@ -134,17 +134,17 @@
     "SampleEndSeconds": 0,
     "DelaySeconds": 0,
     "VocalVersions": [
-      [
-        401,
-        4,
-        1,
-        "新妻八恵",
-        "夢見月夜",
-        133,
-        0,
-        0,
-        0
-      ]
+      {
+        "Id": 401,
+        "MusicMasterId": 4,
+        "VocalVersion": 1,
+        "Singer": "新妻八恵",
+        "Name": "夢見月夜",
+        "MusicTimeSecond": 133,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": 0
+      }
     ],
     "UnlockConditionType": 1,
     "UnlockConditionValue": null,
@@ -169,17 +169,17 @@
     "SampleEndSeconds": 0,
     "DelaySeconds": 0,
     "VocalVersions": [
-      [
-        501,
-        5,
-        1,
-        "ラモーナ・ウォルフ",
-        "悠久月華",
-        137,
-        0,
-        0,
-        1
-      ]
+      {
+        "Id": 501,
+        "MusicMasterId": 5,
+        "VocalVersion": 1,
+        "Singer": "ラモーナ・ウォルフ",
+        "Name": "悠久月華",
+        "MusicTimeSecond": 137,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": 1
+      }
     ],
     "UnlockConditionType": 11,
     "UnlockConditionValue": 1030117,
@@ -204,17 +204,17 @@
     "SampleEndSeconds": 0,
     "DelaySeconds": 0,
     "VocalVersions": [
-      [
-        601,
-        6,
-        1,
-        "鳳ここな",
-        "ダイヤモンドの誓い",
-        100,
-        0,
-        0,
-        0
-      ]
+      {
+        "Id": 601,
+        "MusicMasterId": 6,
+        "VocalVersion": 1,
+        "Singer": "鳳ここな",
+        "Name": "ダイヤモンドの誓い",
+        "MusicTimeSecond": 100,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": 0
+      }
     ],
     "UnlockConditionType": 1,
     "UnlockConditionValue": null,
@@ -239,17 +239,17 @@
     "SampleEndSeconds": 0,
     "DelaySeconds": 0,
     "VocalVersions": [
-      [
-        701,
-        7,
-        1,
-        "新妻八恵",
-        "魔法のラストノート",
-        129,
-        0,
-        0,
-        1
-      ]
+      {
+        "Id": 701,
+        "MusicMasterId": 7,
+        "VocalVersion": 1,
+        "Singer": "新妻八恵",
+        "Name": "魔法のラストノート",
+        "MusicTimeSecond": 129,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": 1
+      }
     ],
     "UnlockConditionType": 11,
     "UnlockConditionValue": 1010116,
@@ -274,17 +274,17 @@
     "SampleEndSeconds": 0,
     "DelaySeconds": 0,
     "VocalVersions": [
-      [
-        801,
-        8,
-        1,
-        "新妻八恵、鳳ここな",
-        "New Nostalgic Friend",
-        91,
-        0,
-        0,
-        0
-      ]
+      {
+        "Id": 801,
+        "MusicMasterId": 8,
+        "VocalVersion": 1,
+        "Singer": "新妻八恵、鳳ここな",
+        "Name": "New Nostalgic Friend",
+        "MusicTimeSecond": 91,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": 0
+      }
     ],
     "UnlockConditionType": 1,
     "UnlockConditionValue": null,
@@ -309,17 +309,17 @@
     "SampleEndSeconds": 0,
     "DelaySeconds": 0,
     "VocalVersions": [
-      [
-        901,
-        9,
-        1,
-        "白丸美兎、本巣叶羽、千寿いろは",
-        "Drawing World",
-        94,
-        0,
-        0,
-        1
-      ]
+      {
+        "Id": 901,
+        "MusicMasterId": 9,
+        "VocalVersion": 1,
+        "Singer": "白丸美兎、本巣叶羽、千寿いろは",
+        "Name": "Drawing World",
+        "MusicTimeSecond": 94,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": 1
+      }
     ],
     "UnlockConditionType": 11,
     "UnlockConditionValue": 1040119,
@@ -344,17 +344,17 @@
     "SampleEndSeconds": 0,
     "DelaySeconds": 0,
     "VocalVersions": [
-      [
-        1001,
-        10,
-        1,
-        "柳場ぱんだ、流石知冴",
-        "名もなき恋人よ",
-        128,
-        0,
-        0,
-        0
-      ]
+      {
+        "Id": 1001,
+        "MusicMasterId": 10,
+        "VocalVersion": 1,
+        "Singer": "柳場ぱんだ、流石知冴",
+        "Name": "名もなき恋人よ",
+        "MusicTimeSecond": 128,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": 0
+      }
     ],
     "UnlockConditionType": 1,
     "UnlockConditionValue": null,
@@ -379,17 +379,17 @@
     "SampleEndSeconds": 0,
     "DelaySeconds": 0,
     "VocalVersions": [
-      [
-        1101,
-        11,
-        1,
-        "新妻八恵",
-        "Etoile",
-        104,
-        0,
-        0,
-        0
-      ]
+      {
+        "Id": 1101,
+        "MusicMasterId": 11,
+        "VocalVersion": 1,
+        "Singer": "新妻八恵",
+        "Name": "Etoile",
+        "MusicTimeSecond": 104,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": 0
+      }
     ],
     "UnlockConditionType": 1,
     "UnlockConditionValue": null,
@@ -414,28 +414,28 @@
     "SampleEndSeconds": 0,
     "DelaySeconds": 0,
     "VocalVersions": [
-      [
-        1201,
-        12,
-        1,
-        "新妻八恵、鳳ここな",
-        "Masquerade",
-        103,
-        0,
-        0,
-        1
-      ],
-      [
-        1202,
-        12,
-        2,
-        "筆島しぐれ、連尺野初魅",
-        "Masquerade（Eden Ver）",
-        103,
-        0,
-        0,
-        0
-      ]
+      {
+        "Id": 1201,
+        "MusicMasterId": 12,
+        "VocalVersion": 1,
+        "Singer": "新妻八恵、鳳ここな",
+        "Name": "Masquerade",
+        "MusicTimeSecond": 103,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": 1
+      },
+      {
+        "Id": 1202,
+        "MusicMasterId": 12,
+        "VocalVersion": 2,
+        "Singer": "筆島しぐれ、連尺野初魅",
+        "Name": "Masquerade（Eden Ver）",
+        "MusicTimeSecond": 103,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": 0
+      }
     ],
     "UnlockConditionType": 11,
     "UnlockConditionValue": 1010123,
@@ -460,17 +460,17 @@
     "SampleEndSeconds": 0,
     "DelaySeconds": 0,
     "VocalVersions": [
-      [
-        1301,
-        13,
-        1,
-        "新妻八恵",
-        "Farewell song",
-        97,
-        0,
-        0,
-        0
-      ]
+      {
+        "Id": 1301,
+        "MusicMasterId": 13,
+        "VocalVersion": 1,
+        "Singer": "新妻八恵",
+        "Name": "Farewell song",
+        "MusicTimeSecond": 97,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": 0
+      }
     ],
     "UnlockConditionType": 1,
     "UnlockConditionValue": null,
@@ -495,17 +495,17 @@
     "SampleEndSeconds": 0,
     "DelaySeconds": 0,
     "VocalVersions": [
-      [
-        1501,
-        15,
-        1,
-        "カトリナ・グリーベル",
-        "Decide",
-        101,
-        0,
-        0,
-        1
-      ]
+      {
+        "Id": 1501,
+        "MusicMasterId": 15,
+        "VocalVersion": 1,
+        "Singer": "カトリナ・グリーベル",
+        "Name": "Decide",
+        "MusicTimeSecond": 101,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": 1
+      }
     ],
     "UnlockConditionType": 1,
     "UnlockConditionValue": null,
@@ -530,17 +530,17 @@
     "SampleEndSeconds": 0,
     "DelaySeconds": 0,
     "VocalVersions": [
-      [
-        1601,
-        16,
-        1,
-        "王雪、ラモーナ・ウォルフ",
-        "ウタカタメロディ",
-        106,
-        0,
-        0,
-        0
-      ]
+      {
+        "Id": 1601,
+        "MusicMasterId": 16,
+        "VocalVersion": 1,
+        "Singer": "王雪、ラモーナ・ウォルフ",
+        "Name": "ウタカタメロディ",
+        "MusicTimeSecond": 106,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": 0
+      }
     ],
     "UnlockConditionType": 1,
     "UnlockConditionValue": null,
@@ -565,28 +565,28 @@
     "SampleEndSeconds": 0,
     "DelaySeconds": 0,
     "VocalVersions": [
-      [
-        1701,
-        17,
-        1,
-        "鳳ここな、静香、カトリナ・グリーベル、新妻八恵、柳場ぱんだ、流石知冴",
-        "シリウスの輝きのように",
-        118,
-        0,
-        0,
-        1
-      ],
-      [
-        1702,
-        17,
-        2,
-        "鳳ここな、静香、カトリナ・グリーベル、新妻八恵、柳場ぱんだ、流石知冴",
-        "シリウスの輝きのように（Long Ver）",
-        254,
-        0,
-        0,
-        0
-      ]
+      {
+        "Id": 1701,
+        "MusicMasterId": 17,
+        "VocalVersion": 1,
+        "Singer": "鳳ここな、静香、カトリナ・グリーベル、新妻八恵、柳場ぱんだ、流石知冴",
+        "Name": "シリウスの輝きのように",
+        "MusicTimeSecond": 118,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": 1
+      },
+      {
+        "Id": 1702,
+        "MusicMasterId": 17,
+        "VocalVersion": 2,
+        "Singer": "鳳ここな、静香、カトリナ・グリーベル、新妻八恵、柳場ぱんだ、流石知冴",
+        "Name": "シリウスの輝きのように（Long Ver）",
+        "MusicTimeSecond": 254,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": 0
+      }
     ],
     "UnlockConditionType": 10,
     "UnlockConditionValue": null,
@@ -611,28 +611,28 @@
     "SampleEndSeconds": 0,
     "DelaySeconds": 0,
     "VocalVersions": [
-      [
-        1901,
-        19,
-        1,
-        "連尺野初魅、烏森大黒、舎人仁花子、萬容、筆島しぐれ",
-        "Faith in Expression",
-        102,
-        0,
-        0,
-        1
-      ],
-      [
-        1902,
-        19,
-        2,
-        "連尺野初魅、烏森大黒、舎人仁花子、萬容、筆島しぐれ",
-        "Faith in Expression（Long Ver）",
-        261,
-        0,
-        0,
-        0
-      ]
+      {
+        "Id": 1901,
+        "MusicMasterId": 19,
+        "VocalVersion": 1,
+        "Singer": "連尺野初魅、烏森大黒、舎人仁花子、萬容、筆島しぐれ",
+        "Name": "Faith in Expression",
+        "MusicTimeSecond": 102,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": 1
+      },
+      {
+        "Id": 1902,
+        "MusicMasterId": 19,
+        "VocalVersion": 2,
+        "Singer": "連尺野初魅、烏森大黒、舎人仁花子、萬容、筆島しぐれ",
+        "Name": "Faith in Expression（Long Ver）",
+        "MusicTimeSecond": 261,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": 0
+      }
     ],
     "UnlockConditionType": 10,
     "UnlockConditionValue": null,
@@ -657,28 +657,28 @@
     "SampleEndSeconds": 0,
     "DelaySeconds": 0,
     "VocalVersions": [
-      [
-        2101,
-        21,
-        1,
-        "千寿暦、ラモーナ・ウォルフ、王雪、リリヤ・クルトベイ、与那国緋花里",
-        "プラネタリウム・レヴュー",
-        96,
-        0,
-        0,
-        1
-      ],
-      [
-        2102,
-        21,
-        2,
-        "千寿暦、ラモーナ・ウォルフ、王雪、リリヤ・クルトベイ、与那国緋花里",
-        "プラネタリウム・レヴュー（Long Ver）",
-        219,
-        0,
-        0,
-        0
-      ]
+      {
+        "Id": 2101,
+        "MusicMasterId": 21,
+        "VocalVersion": 1,
+        "Singer": "千寿暦、ラモーナ・ウォルフ、王雪、リリヤ・クルトベイ、与那国緋花里",
+        "Name": "プラネタリウム・レヴュー",
+        "MusicTimeSecond": 96,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": 1
+      },
+      {
+        "Id": 2102,
+        "MusicMasterId": 21,
+        "VocalVersion": 2,
+        "Singer": "千寿暦、ラモーナ・ウォルフ、王雪、リリヤ・クルトベイ、与那国緋花里",
+        "Name": "プラネタリウム・レヴュー（Long Ver）",
+        "MusicTimeSecond": 219,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": 0
+      }
     ],
     "UnlockConditionType": 10,
     "UnlockConditionValue": null,
@@ -703,28 +703,28 @@
     "SampleEndSeconds": 0,
     "DelaySeconds": 0,
     "VocalVersions": [
-      [
-        2301,
-        23,
-        1,
-        "千寿いろは、白丸美兎、阿岐留カミラ、猫足蕾、本巣叶羽",
-        "デアエ・エクス・マキナ！",
-        93,
-        0,
-        0,
-        1
-      ],
-      [
-        2302,
-        23,
-        2,
-        "千寿いろは、白丸美兎、阿岐留カミラ、猫足蕾、本巣叶羽",
-        "デアエ・エクス・マキナ！（Long Ver）",
-        211,
-        0,
-        0,
-        0
-      ]
+      {
+        "Id": 2301,
+        "MusicMasterId": 23,
+        "VocalVersion": 1,
+        "Singer": "千寿いろは、白丸美兎、阿岐留カミラ、猫足蕾、本巣叶羽",
+        "Name": "デアエ・エクス・マキナ！",
+        "MusicTimeSecond": 93,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": 1
+      },
+      {
+        "Id": 2302,
+        "MusicMasterId": 23,
+        "VocalVersion": 2,
+        "Singer": "千寿いろは、白丸美兎、阿岐留カミラ、猫足蕾、本巣叶羽",
+        "Name": "デアエ・エクス・マキナ！（Long Ver）",
+        "MusicTimeSecond": 211,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": 0
+      }
     ],
     "UnlockConditionType": 10,
     "UnlockConditionValue": null,
@@ -749,17 +749,17 @@
     "SampleEndSeconds": 0,
     "DelaySeconds": 0,
     "VocalVersions": [
-      [
-        2501,
-        25,
-        1,
-        "鳳ここな、静香",
-        "Binary Star",
-        111,
-        0,
-        0,
-        0
-      ]
+      {
+        "Id": 2501,
+        "MusicMasterId": 25,
+        "VocalVersion": 1,
+        "Singer": "鳳ここな、静香",
+        "Name": "Binary Star",
+        "MusicTimeSecond": 111,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": 0
+      }
     ],
     "UnlockConditionType": 1,
     "UnlockConditionValue": null,
@@ -784,17 +784,17 @@
     "SampleEndSeconds": 0,
     "DelaySeconds": 0,
     "VocalVersions": [
-      [
-        2601,
-        26,
-        1,
-        "カトリナ・グリーベル、ラモーナ・ウォルフ",
-        "暁星アストレーション",
-        113,
-        0,
-        0,
-        0
-      ]
+      {
+        "Id": 2601,
+        "MusicMasterId": 26,
+        "VocalVersion": 1,
+        "Singer": "カトリナ・グリーベル、ラモーナ・ウォルフ",
+        "Name": "暁星アストレーション",
+        "MusicTimeSecond": 113,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": 0
+      }
     ],
     "UnlockConditionType": 1,
     "UnlockConditionValue": null,
@@ -819,17 +819,17 @@
     "SampleEndSeconds": 0,
     "DelaySeconds": 0,
     "VocalVersions": [
-      [
-        2701,
-        27,
-        1,
-        "千寿暦、ラモーナ・ウォルフ",
-        "情熱リベレイション",
-        112,
-        0,
-        0,
-        0
-      ]
+      {
+        "Id": 2701,
+        "MusicMasterId": 27,
+        "VocalVersion": 1,
+        "Singer": "千寿暦、ラモーナ・ウォルフ",
+        "Name": "情熱リベレイション",
+        "MusicTimeSecond": 112,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": 0
+      }
     ],
     "UnlockConditionType": 1,
     "UnlockConditionValue": null,
@@ -854,17 +854,17 @@
     "SampleEndSeconds": 0,
     "DelaySeconds": 0,
     "VocalVersions": [
-      [
-        2901,
-        29,
-        1,
-        "流石知冴、柊望有",
-        "幾億の星の空で",
-        101,
-        0,
-        0,
-        0
-      ]
+      {
+        "Id": 2901,
+        "MusicMasterId": 29,
+        "VocalVersion": 1,
+        "Singer": "流石知冴、柊望有",
+        "Name": "幾億の星の空で",
+        "MusicTimeSecond": 101,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": 0
+      }
     ],
     "UnlockConditionType": 1,
     "UnlockConditionValue": null,
@@ -889,17 +889,17 @@
     "SampleEndSeconds": 0,
     "DelaySeconds": 0,
     "VocalVersions": [
-      [
-        3001,
-        30,
-        1,
-        "連尺野初魅、舎人仁花子",
-        "純粋と奔放",
-        137,
-        0,
-        0,
-        0
-      ]
+      {
+        "Id": 3001,
+        "MusicMasterId": 30,
+        "VocalVersion": 1,
+        "Singer": "連尺野初魅、舎人仁花子",
+        "Name": "純粋と奔放",
+        "MusicTimeSecond": 137,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": 0
+      }
     ],
     "UnlockConditionType": 1,
     "UnlockConditionValue": null,
@@ -924,17 +924,17 @@
     "SampleEndSeconds": 0,
     "DelaySeconds": 0,
     "VocalVersions": [
-      [
-        3101,
-        31,
-        1,
-        "千寿暦",
-        "心という名の不可解",
-        128,
-        0,
-        0,
-        0
-      ]
+      {
+        "Id": 3101,
+        "MusicMasterId": 31,
+        "VocalVersion": 1,
+        "Singer": "千寿暦",
+        "Name": "心という名の不可解",
+        "MusicTimeSecond": 128,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": 0
+      }
     ],
     "UnlockConditionType": 10,
     "UnlockConditionValue": null,
@@ -959,17 +959,17 @@
     "SampleEndSeconds": 0,
     "DelaySeconds": 0,
     "VocalVersions": [
-      [
-        3301,
-        33,
-        1,
-        "鳳ここな、静香、カトリナ・グリーベル、新妻八恵、柳場ぱんだ、流石知冴",
-        "Snow halation",
-        173,
-        0,
-        0,
-        0
-      ]
+      {
+        "Id": 3301,
+        "MusicMasterId": 33,
+        "VocalVersion": 1,
+        "Singer": "鳳ここな、静香、カトリナ・グリーベル、新妻八恵、柳場ぱんだ、流石知冴",
+        "Name": "Snow halation",
+        "MusicTimeSecond": 173,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": 0
+      }
     ],
     "UnlockConditionType": 12,
     "UnlockConditionValue": 5,
@@ -994,17 +994,17 @@
     "SampleEndSeconds": 0,
     "DelaySeconds": 0,
     "VocalVersions": [
-      [
-        3401,
-        34,
-        1,
-        "舎人仁花子",
-        "フォニイ",
-        124,
-        0,
-        0,
-        0
-      ]
+      {
+        "Id": 3401,
+        "MusicMasterId": 34,
+        "VocalVersion": 1,
+        "Singer": "舎人仁花子",
+        "Name": "フォニイ",
+        "MusicTimeSecond": 124,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": 0
+      }
     ],
     "UnlockConditionType": 12,
     "UnlockConditionValue": 10,
@@ -1029,17 +1029,17 @@
     "SampleEndSeconds": 0,
     "DelaySeconds": 0,
     "VocalVersions": [
-      [
-        3701,
-        37,
-        1,
-        "鳳ここな、静香、カトリナ・グリーベル、萬容、舎人仁花子",
-        "Shiny Smily Story",
-        191,
-        0,
-        0,
-        0
-      ]
+      {
+        "Id": 3701,
+        "MusicMasterId": 37,
+        "VocalVersion": 1,
+        "Singer": "鳳ここな、静香、カトリナ・グリーベル、萬容、舎人仁花子",
+        "Name": "Shiny Smily Story",
+        "MusicTimeSecond": 191,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": 0
+      }
     ],
     "UnlockConditionType": 10,
     "UnlockConditionValue": null,
@@ -1064,17 +1064,17 @@
     "SampleEndSeconds": 0,
     "DelaySeconds": 0,
     "VocalVersions": [
-      [
-        3801,
-        38,
-        1,
-        "カトリナ・グリーベル",
-        "変わらないもの",
-        132,
-        0,
-        0,
-        0
-      ]
+      {
+        "Id": 3801,
+        "MusicMasterId": 38,
+        "VocalVersion": 1,
+        "Singer": "カトリナ・グリーベル",
+        "Name": "変わらないもの",
+        "MusicTimeSecond": 132,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": 0
+      }
     ],
     "UnlockConditionType": 10,
     "UnlockConditionValue": null,
@@ -1099,17 +1099,17 @@
     "SampleEndSeconds": 0,
     "DelaySeconds": 0,
     "VocalVersions": [
-      [
-        3901,
-        39,
-        1,
-        "柳場ぱんだ",
-        "Realize",
-        169,
-        0,
-        0,
-        0
-      ]
+      {
+        "Id": 3901,
+        "MusicMasterId": 39,
+        "VocalVersion": 1,
+        "Singer": "柳場ぱんだ",
+        "Name": "Realize",
+        "MusicTimeSecond": 169,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": 0
+      }
     ],
     "UnlockConditionType": 10,
     "UnlockConditionValue": null,
@@ -1134,17 +1134,17 @@
     "SampleEndSeconds": 0,
     "DelaySeconds": 0,
     "VocalVersions": [
-      [
-        4101,
-        41,
-        1,
-        "筆島しぐれ",
-        "怪物",
-        114,
-        0,
-        0,
-        0
-      ]
+      {
+        "Id": 4101,
+        "MusicMasterId": 41,
+        "VocalVersion": 1,
+        "Singer": "筆島しぐれ",
+        "Name": "怪物",
+        "MusicTimeSecond": 114,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": 0
+      }
     ],
     "UnlockConditionType": 10,
     "UnlockConditionValue": null,
@@ -1169,17 +1169,17 @@
     "SampleEndSeconds": 0,
     "DelaySeconds": 0,
     "VocalVersions": [
-      [
-        4201,
-        42,
-        1,
-        "ラモーナ・ウォルフ",
-        "六兆年と一夜物語",
-        145,
-        0,
-        0,
-        0
-      ]
+      {
+        "Id": 4201,
+        "MusicMasterId": 42,
+        "VocalVersion": 1,
+        "Singer": "ラモーナ・ウォルフ",
+        "Name": "六兆年と一夜物語",
+        "MusicTimeSecond": 145,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": 0
+      }
     ],
     "UnlockConditionType": 10,
     "UnlockConditionValue": null,
@@ -1204,17 +1204,17 @@
     "SampleEndSeconds": 0,
     "DelaySeconds": 0,
     "VocalVersions": [
-      [
-        4301,
-        43,
-        1,
-        "猫足蕾",
-        "名前のない怪物",
-        152,
-        0,
-        0,
-        0
-      ]
+      {
+        "Id": 4301,
+        "MusicMasterId": 43,
+        "VocalVersion": 1,
+        "Singer": "猫足蕾",
+        "Name": "名前のない怪物",
+        "MusicTimeSecond": 152,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": 0
+      }
     ],
     "UnlockConditionType": 10,
     "UnlockConditionValue": null,
@@ -1239,17 +1239,17 @@
     "SampleEndSeconds": 0,
     "DelaySeconds": 0,
     "VocalVersions": [
-      [
-        4501,
-        45,
-        1,
-        "烏森大黒",
-        "Blondie Revenge Tragedy",
-        113,
-        0,
-        0,
-        1
-      ]
+      {
+        "Id": 4501,
+        "MusicMasterId": 45,
+        "VocalVersion": 1,
+        "Singer": "烏森大黒",
+        "Name": "Blondie Revenge Tragedy",
+        "MusicTimeSecond": 113,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": 1
+      }
     ],
     "UnlockConditionType": 1,
     "UnlockConditionValue": null,
@@ -1274,17 +1274,17 @@
     "SampleEndSeconds": 0,
     "DelaySeconds": 0,
     "VocalVersions": [
-      [
-        4601,
-        46,
-        1,
-        "カトリナ・グリーベル",
-        "Fernweh",
-        102,
-        0,
-        0,
-        0
-      ]
+      {
+        "Id": 4601,
+        "MusicMasterId": 46,
+        "VocalVersion": 1,
+        "Singer": "カトリナ・グリーベル",
+        "Name": "Fernweh",
+        "MusicTimeSecond": 102,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": 0
+      }
     ],
     "UnlockConditionType": 1,
     "UnlockConditionValue": null,
@@ -1309,17 +1309,17 @@
     "SampleEndSeconds": 0,
     "DelaySeconds": 0,
     "VocalVersions": [
-      [
-        5501,
-        55,
-        1,
-        "舎人仁花子",
-        "ANIMA",
-        166,
-        0,
-        0,
-        0
-      ]
+      {
+        "Id": 5501,
+        "MusicMasterId": 55,
+        "VocalVersion": 1,
+        "Singer": "舎人仁花子",
+        "Name": "ANIMA",
+        "MusicTimeSecond": 166,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": 0
+      }
     ],
     "UnlockConditionType": 10,
     "UnlockConditionValue": null,
@@ -1344,17 +1344,17 @@
     "SampleEndSeconds": 0,
     "DelaySeconds": 1.5950000286102295,
     "VocalVersions": [
-      [
-        999901,
-        9999,
-        1,
-        "tutorial",
-        "TUTORIAL",
-        117,
-        0,
-        0,
-        0
-      ]
+      {
+        "Id": 999901,
+        "MusicMasterId": 9999,
+        "VocalVersion": 1,
+        "Singer": "tutorial",
+        "Name": "TUTORIAL",
+        "MusicTimeSecond": 117,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": 0
+      }
     ],
     "UnlockConditionType": 1,
     "UnlockConditionValue": null,

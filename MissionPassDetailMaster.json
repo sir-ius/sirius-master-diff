@@ -7,22 +7,22 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
-      [
-        101,
-        130021,
-        1,
-        500,
-        1,
-        false
-      ],
-      [
-        102,
-        0,
-        12,
-        50000,
-        1,
-        true
-      ]
+      {
+        "Id": 101,
+        "ThingId": 130021,
+        "ThingType": 1,
+        "ThingQuantity": 500,
+        "MissionPassDetailMasterId": 1,
+        "IsSp": false
+      },
+      {
+        "Id": 102,
+        "ThingId": 0,
+        "ThingType": 12,
+        "ThingQuantity": 50000,
+        "MissionPassDetailMasterId": 1,
+        "IsSp": true
+      }
     ]
   },
   {
@@ -33,22 +33,22 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
-      [
-        201,
-        130031,
-        1,
-        250,
-        2,
-        false
-      ],
-      [
-        202,
-        0,
-        13,
-        250,
-        2,
-        true
-      ]
+      {
+        "Id": 201,
+        "ThingId": 130031,
+        "ThingType": 1,
+        "ThingQuantity": 250,
+        "MissionPassDetailMasterId": 2,
+        "IsSp": false
+      },
+      {
+        "Id": 202,
+        "ThingId": 0,
+        "ThingType": 13,
+        "ThingQuantity": 250,
+        "MissionPassDetailMasterId": 2,
+        "IsSp": true
+      }
     ]
   },
   {
@@ -59,22 +59,22 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
-      [
-        301,
-        130041,
-        1,
-        200,
-        3,
-        false
-      ],
-      [
-        302,
-        0,
-        12,
-        50000,
-        3,
-        true
-      ]
+      {
+        "Id": 301,
+        "ThingId": 130041,
+        "ThingType": 1,
+        "ThingQuantity": 200,
+        "MissionPassDetailMasterId": 3,
+        "IsSp": false
+      },
+      {
+        "Id": 302,
+        "ThingId": 0,
+        "ThingType": 12,
+        "ThingQuantity": 50000,
+        "MissionPassDetailMasterId": 3,
+        "IsSp": true
+      }
     ]
   },
   {
@@ -85,22 +85,22 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
-      [
-        401,
-        130001,
-        1,
-        5,
-        4,
-        false
-      ],
-      [
-        402,
-        0,
-        13,
-        250,
-        4,
-        true
-      ]
+      {
+        "Id": 401,
+        "ThingId": 130001,
+        "ThingType": 1,
+        "ThingQuantity": 5,
+        "MissionPassDetailMasterId": 4,
+        "IsSp": false
+      },
+      {
+        "Id": 402,
+        "ThingId": 0,
+        "ThingType": 13,
+        "ThingQuantity": 250,
+        "MissionPassDetailMasterId": 4,
+        "IsSp": true
+      }
     ]
   },
   {
@@ -111,22 +111,22 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
-      [
-        501,
-        0,
-        13,
-        50,
-        5,
-        false
-      ],
-      [
-        502,
-        211001,
-        1,
-        5,
-        5,
-        true
-      ]
+      {
+        "Id": 501,
+        "ThingId": 0,
+        "ThingType": 13,
+        "ThingQuantity": 50,
+        "MissionPassDetailMasterId": 5,
+        "IsSp": false
+      },
+      {
+        "Id": 502,
+        "ThingId": 211001,
+        "ThingType": 1,
+        "ThingQuantity": 5,
+        "MissionPassDetailMasterId": 5,
+        "IsSp": true
+      }
     ]
   },
   {
@@ -137,22 +137,22 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
-      [
-        601,
-        130022,
-        1,
-        500,
-        6,
-        false
-      ],
-      [
-        602,
-        0,
-        12,
-        50000,
-        6,
-        true
-      ]
+      {
+        "Id": 601,
+        "ThingId": 130022,
+        "ThingType": 1,
+        "ThingQuantity": 500,
+        "MissionPassDetailMasterId": 6,
+        "IsSp": false
+      },
+      {
+        "Id": 602,
+        "ThingId": 0,
+        "ThingType": 12,
+        "ThingQuantity": 50000,
+        "MissionPassDetailMasterId": 6,
+        "IsSp": true
+      }
     ]
   },
   {
@@ -163,22 +163,22 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
-      [
-        701,
-        130032,
-        1,
-        250,
-        7,
-        false
-      ],
-      [
-        702,
-        0,
-        13,
-        250,
-        7,
-        true
-      ]
+      {
+        "Id": 701,
+        "ThingId": 130032,
+        "ThingType": 1,
+        "ThingQuantity": 250,
+        "MissionPassDetailMasterId": 7,
+        "IsSp": false
+      },
+      {
+        "Id": 702,
+        "ThingId": 0,
+        "ThingType": 13,
+        "ThingQuantity": 250,
+        "MissionPassDetailMasterId": 7,
+        "IsSp": true
+      }
     ]
   },
   {
@@ -189,22 +189,22 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
-      [
-        801,
-        130061,
-        1,
-        300,
-        8,
-        false
-      ],
-      [
-        802,
-        0,
-        12,
-        50000,
-        8,
-        true
-      ]
+      {
+        "Id": 801,
+        "ThingId": 130061,
+        "ThingType": 1,
+        "ThingQuantity": 300,
+        "MissionPassDetailMasterId": 8,
+        "IsSp": false
+      },
+      {
+        "Id": 802,
+        "ThingId": 0,
+        "ThingType": 12,
+        "ThingQuantity": 50000,
+        "MissionPassDetailMasterId": 8,
+        "IsSp": true
+      }
     ]
   },
   {
@@ -215,22 +215,22 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
-      [
-        901,
-        130001,
-        1,
-        5,
-        9,
-        false
-      ],
-      [
-        902,
-        0,
-        13,
-        250,
-        9,
-        true
-      ]
+      {
+        "Id": 901,
+        "ThingId": 130001,
+        "ThingType": 1,
+        "ThingQuantity": 5,
+        "MissionPassDetailMasterId": 9,
+        "IsSp": false
+      },
+      {
+        "Id": 902,
+        "ThingId": 0,
+        "ThingType": 13,
+        "ThingQuantity": 250,
+        "MissionPassDetailMasterId": 9,
+        "IsSp": true
+      }
     ]
   },
   {
@@ -241,22 +241,22 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
-      [
-        1001,
-        0,
-        13,
-        50,
-        10,
-        false
-      ],
-      [
-        1002,
-        130051,
-        1,
-        20,
-        10,
-        true
-      ]
+      {
+        "Id": 1001,
+        "ThingId": 0,
+        "ThingType": 13,
+        "ThingQuantity": 50,
+        "MissionPassDetailMasterId": 10,
+        "IsSp": false
+      },
+      {
+        "Id": 1002,
+        "ThingId": 130051,
+        "ThingType": 1,
+        "ThingQuantity": 20,
+        "MissionPassDetailMasterId": 10,
+        "IsSp": true
+      }
     ]
   },
   {
@@ -267,22 +267,22 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
-      [
-        1101,
-        130023,
-        1,
-        500,
-        11,
-        false
-      ],
-      [
-        1102,
-        0,
-        12,
-        50000,
-        11,
-        true
-      ]
+      {
+        "Id": 1101,
+        "ThingId": 130023,
+        "ThingType": 1,
+        "ThingQuantity": 500,
+        "MissionPassDetailMasterId": 11,
+        "IsSp": false
+      },
+      {
+        "Id": 1102,
+        "ThingId": 0,
+        "ThingType": 12,
+        "ThingQuantity": 50000,
+        "MissionPassDetailMasterId": 11,
+        "IsSp": true
+      }
     ]
   },
   {
@@ -293,22 +293,22 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
-      [
-        1201,
-        130033,
-        1,
-        250,
-        12,
-        false
-      ],
-      [
-        1202,
-        0,
-        13,
-        250,
-        12,
-        true
-      ]
+      {
+        "Id": 1201,
+        "ThingId": 130033,
+        "ThingType": 1,
+        "ThingQuantity": 250,
+        "MissionPassDetailMasterId": 12,
+        "IsSp": false
+      },
+      {
+        "Id": 1202,
+        "ThingId": 0,
+        "ThingType": 13,
+        "ThingQuantity": 250,
+        "MissionPassDetailMasterId": 12,
+        "IsSp": true
+      }
     ]
   },
   {
@@ -319,22 +319,22 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
-      [
-        1301,
-        130042,
-        1,
-        50,
-        13,
-        false
-      ],
-      [
-        1302,
-        0,
-        12,
-        50000,
-        13,
-        true
-      ]
+      {
+        "Id": 1301,
+        "ThingId": 130042,
+        "ThingType": 1,
+        "ThingQuantity": 50,
+        "MissionPassDetailMasterId": 13,
+        "IsSp": false
+      },
+      {
+        "Id": 1302,
+        "ThingId": 0,
+        "ThingType": 12,
+        "ThingQuantity": 50000,
+        "MissionPassDetailMasterId": 13,
+        "IsSp": true
+      }
     ]
   },
   {
@@ -345,22 +345,22 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
-      [
-        1401,
-        0,
-        12,
-        50000,
-        14,
-        false
-      ],
-      [
-        1402,
-        0,
-        13,
-        250,
-        14,
-        true
-      ]
+      {
+        "Id": 1401,
+        "ThingId": 0,
+        "ThingType": 12,
+        "ThingQuantity": 50000,
+        "MissionPassDetailMasterId": 14,
+        "IsSp": false
+      },
+      {
+        "Id": 1402,
+        "ThingId": 0,
+        "ThingType": 13,
+        "ThingQuantity": 250,
+        "MissionPassDetailMasterId": 14,
+        "IsSp": true
+      }
     ]
   },
   {
@@ -371,22 +371,22 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
-      [
-        1501,
-        0,
-        13,
-        50,
-        15,
-        false
-      ],
-      [
-        1502,
-        211001,
-        1,
-        5,
-        15,
-        true
-      ]
+      {
+        "Id": 1501,
+        "ThingId": 0,
+        "ThingType": 13,
+        "ThingQuantity": 50,
+        "MissionPassDetailMasterId": 15,
+        "IsSp": false
+      },
+      {
+        "Id": 1502,
+        "ThingId": 211001,
+        "ThingType": 1,
+        "ThingQuantity": 5,
+        "MissionPassDetailMasterId": 15,
+        "IsSp": true
+      }
     ]
   },
   {
@@ -397,22 +397,22 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
-      [
-        1601,
-        130024,
-        1,
-        500,
-        16,
-        false
-      ],
-      [
-        1602,
-        0,
-        12,
-        50000,
-        16,
-        true
-      ]
+      {
+        "Id": 1601,
+        "ThingId": 130024,
+        "ThingType": 1,
+        "ThingQuantity": 500,
+        "MissionPassDetailMasterId": 16,
+        "IsSp": false
+      },
+      {
+        "Id": 1602,
+        "ThingId": 0,
+        "ThingType": 12,
+        "ThingQuantity": 50000,
+        "MissionPassDetailMasterId": 16,
+        "IsSp": true
+      }
     ]
   },
   {
@@ -423,22 +423,22 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
-      [
-        1701,
-        130034,
-        1,
-        250,
-        17,
-        false
-      ],
-      [
-        1702,
-        0,
-        13,
-        250,
-        17,
-        true
-      ]
+      {
+        "Id": 1701,
+        "ThingId": 130034,
+        "ThingType": 1,
+        "ThingQuantity": 250,
+        "MissionPassDetailMasterId": 17,
+        "IsSp": false
+      },
+      {
+        "Id": 1702,
+        "ThingId": 0,
+        "ThingType": 13,
+        "ThingQuantity": 250,
+        "MissionPassDetailMasterId": 17,
+        "IsSp": true
+      }
     ]
   },
   {
@@ -449,22 +449,22 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
-      [
-        1801,
-        130062,
-        1,
-        100,
-        18,
-        false
-      ],
-      [
-        1802,
-        0,
-        12,
-        50000,
-        18,
-        true
-      ]
+      {
+        "Id": 1801,
+        "ThingId": 130062,
+        "ThingType": 1,
+        "ThingQuantity": 100,
+        "MissionPassDetailMasterId": 18,
+        "IsSp": false
+      },
+      {
+        "Id": 1802,
+        "ThingId": 0,
+        "ThingType": 12,
+        "ThingQuantity": 50000,
+        "MissionPassDetailMasterId": 18,
+        "IsSp": true
+      }
     ]
   },
   {
@@ -475,22 +475,22 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
-      [
-        1901,
-        0,
-        12,
-        50000,
-        19,
-        false
-      ],
-      [
-        1902,
-        0,
-        13,
-        250,
-        19,
-        true
-      ]
+      {
+        "Id": 1901,
+        "ThingId": 0,
+        "ThingType": 12,
+        "ThingQuantity": 50000,
+        "MissionPassDetailMasterId": 19,
+        "IsSp": false
+      },
+      {
+        "Id": 1902,
+        "ThingId": 0,
+        "ThingType": 13,
+        "ThingQuantity": 250,
+        "MissionPassDetailMasterId": 19,
+        "IsSp": true
+      }
     ]
   },
   {
@@ -501,22 +501,22 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
-      [
-        2001,
-        0,
-        13,
-        50,
-        20,
-        false
-      ],
-      [
-        2002,
-        0,
-        13,
-        100,
-        20,
-        true
-      ]
+      {
+        "Id": 2001,
+        "ThingId": 0,
+        "ThingType": 13,
+        "ThingQuantity": 50,
+        "MissionPassDetailMasterId": 20,
+        "IsSp": false
+      },
+      {
+        "Id": 2002,
+        "ThingId": 0,
+        "ThingType": 13,
+        "ThingQuantity": 100,
+        "MissionPassDetailMasterId": 20,
+        "IsSp": true
+      }
     ]
   },
   {
@@ -527,22 +527,22 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
-      [
-        2101,
-        120002,
-        1,
-        30,
-        21,
-        false
-      ],
-      [
-        2102,
-        0,
-        12,
-        50000,
-        21,
-        true
-      ]
+      {
+        "Id": 2101,
+        "ThingId": 120002,
+        "ThingType": 1,
+        "ThingQuantity": 30,
+        "MissionPassDetailMasterId": 21,
+        "IsSp": false
+      },
+      {
+        "Id": 2102,
+        "ThingId": 0,
+        "ThingType": 12,
+        "ThingQuantity": 50000,
+        "MissionPassDetailMasterId": 21,
+        "IsSp": true
+      }
     ]
   },
   {
@@ -553,22 +553,22 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
-      [
-        2201,
-        130043,
-        1,
-        20,
-        22,
-        false
-      ],
-      [
-        2202,
-        0,
-        13,
-        250,
-        22,
-        true
-      ]
+      {
+        "Id": 2201,
+        "ThingId": 130043,
+        "ThingType": 1,
+        "ThingQuantity": 20,
+        "MissionPassDetailMasterId": 22,
+        "IsSp": false
+      },
+      {
+        "Id": 2202,
+        "ThingId": 0,
+        "ThingType": 13,
+        "ThingQuantity": 250,
+        "MissionPassDetailMasterId": 22,
+        "IsSp": true
+      }
     ]
   },
   {
@@ -579,22 +579,22 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
-      [
-        2301,
-        0,
-        12,
-        50000,
-        23,
-        false
-      ],
-      [
-        2302,
-        0,
-        12,
-        50000,
-        23,
-        true
-      ]
+      {
+        "Id": 2301,
+        "ThingId": 0,
+        "ThingType": 12,
+        "ThingQuantity": 50000,
+        "MissionPassDetailMasterId": 23,
+        "IsSp": false
+      },
+      {
+        "Id": 2302,
+        "ThingId": 0,
+        "ThingType": 12,
+        "ThingQuantity": 50000,
+        "MissionPassDetailMasterId": 23,
+        "IsSp": true
+      }
     ]
   },
   {
@@ -605,22 +605,22 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
-      [
-        2401,
-        510001,
-        1,
-        2,
-        24,
-        false
-      ],
-      [
-        2402,
-        0,
-        13,
-        250,
-        24,
-        true
-      ]
+      {
+        "Id": 2401,
+        "ThingId": 510001,
+        "ThingType": 1,
+        "ThingQuantity": 2,
+        "MissionPassDetailMasterId": 24,
+        "IsSp": false
+      },
+      {
+        "Id": 2402,
+        "ThingId": 0,
+        "ThingType": 13,
+        "ThingQuantity": 250,
+        "MissionPassDetailMasterId": 24,
+        "IsSp": true
+      }
     ]
   },
   {
@@ -631,22 +631,22 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
-      [
-        2501,
-        130013,
-        1,
-        2,
-        25,
-        false
-      ],
-      [
-        2502,
-        211001,
-        1,
-        5,
-        25,
-        true
-      ]
+      {
+        "Id": 2501,
+        "ThingId": 130013,
+        "ThingType": 1,
+        "ThingQuantity": 2,
+        "MissionPassDetailMasterId": 25,
+        "IsSp": false
+      },
+      {
+        "Id": 2502,
+        "ThingId": 211001,
+        "ThingType": 1,
+        "ThingQuantity": 5,
+        "MissionPassDetailMasterId": 25,
+        "IsSp": true
+      }
     ]
   },
   {
@@ -657,22 +657,22 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
-      [
-        2601,
-        120003,
-        1,
-        5,
-        26,
-        false
-      ],
-      [
-        2602,
-        0,
-        12,
-        50000,
-        26,
-        true
-      ]
+      {
+        "Id": 2601,
+        "ThingId": 120003,
+        "ThingType": 1,
+        "ThingQuantity": 5,
+        "MissionPassDetailMasterId": 26,
+        "IsSp": false
+      },
+      {
+        "Id": 2602,
+        "ThingId": 0,
+        "ThingType": 12,
+        "ThingQuantity": 50000,
+        "MissionPassDetailMasterId": 26,
+        "IsSp": true
+      }
     ]
   },
   {
@@ -683,22 +683,22 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
-      [
-        2701,
-        130063,
-        1,
-        100,
-        27,
-        false
-      ],
-      [
-        2702,
-        0,
-        13,
-        250,
-        27,
-        true
-      ]
+      {
+        "Id": 2701,
+        "ThingId": 130063,
+        "ThingType": 1,
+        "ThingQuantity": 100,
+        "MissionPassDetailMasterId": 27,
+        "IsSp": false
+      },
+      {
+        "Id": 2702,
+        "ThingId": 0,
+        "ThingType": 13,
+        "ThingQuantity": 250,
+        "MissionPassDetailMasterId": 27,
+        "IsSp": true
+      }
     ]
   },
   {
@@ -709,22 +709,22 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
-      [
-        2801,
-        0,
-        12,
-        50000,
-        28,
-        false
-      ],
-      [
-        2802,
-        0,
-        12,
-        50000,
-        28,
-        true
-      ]
+      {
+        "Id": 2801,
+        "ThingId": 0,
+        "ThingType": 12,
+        "ThingQuantity": 50000,
+        "MissionPassDetailMasterId": 28,
+        "IsSp": false
+      },
+      {
+        "Id": 2802,
+        "ThingId": 0,
+        "ThingType": 12,
+        "ThingQuantity": 50000,
+        "MissionPassDetailMasterId": 28,
+        "IsSp": true
+      }
     ]
   },
   {
@@ -735,22 +735,22 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
-      [
-        2901,
-        510002,
-        1,
-        2,
-        29,
-        false
-      ],
-      [
-        2902,
-        0,
-        13,
-        250,
-        29,
-        true
-      ]
+      {
+        "Id": 2901,
+        "ThingId": 510002,
+        "ThingType": 1,
+        "ThingQuantity": 2,
+        "MissionPassDetailMasterId": 29,
+        "IsSp": false
+      },
+      {
+        "Id": 2902,
+        "ThingId": 0,
+        "ThingType": 13,
+        "ThingQuantity": 250,
+        "MissionPassDetailMasterId": 29,
+        "IsSp": true
+      }
     ]
   },
   {
@@ -761,22 +761,22 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
-      [
-        3001,
-        0,
-        13,
-        50,
-        30,
-        false
-      ],
-      [
-        3002,
-        0,
-        13,
-        100,
-        30,
-        true
-      ]
+      {
+        "Id": 3001,
+        "ThingId": 0,
+        "ThingType": 13,
+        "ThingQuantity": 50,
+        "MissionPassDetailMasterId": 30,
+        "IsSp": false
+      },
+      {
+        "Id": 3002,
+        "ThingId": 0,
+        "ThingType": 13,
+        "ThingQuantity": 100,
+        "MissionPassDetailMasterId": 30,
+        "IsSp": true
+      }
     ]
   },
   {
@@ -787,22 +787,22 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
-      [
-        3101,
-        130042,
-        1,
-        50,
-        31,
-        false
-      ],
-      [
-        3102,
-        0,
-        12,
-        50000,
-        31,
-        true
-      ]
+      {
+        "Id": 3101,
+        "ThingId": 130042,
+        "ThingType": 1,
+        "ThingQuantity": 50,
+        "MissionPassDetailMasterId": 31,
+        "IsSp": false
+      },
+      {
+        "Id": 3102,
+        "ThingId": 0,
+        "ThingType": 12,
+        "ThingQuantity": 50000,
+        "MissionPassDetailMasterId": 31,
+        "IsSp": true
+      }
     ]
   },
   {
@@ -813,22 +813,22 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
-      [
-        3201,
-        0,
-        12,
-        75000,
-        32,
-        false
-      ],
-      [
-        3202,
-        0,
-        13,
-        250,
-        32,
-        true
-      ]
+      {
+        "Id": 3201,
+        "ThingId": 0,
+        "ThingType": 12,
+        "ThingQuantity": 75000,
+        "MissionPassDetailMasterId": 32,
+        "IsSp": false
+      },
+      {
+        "Id": 3202,
+        "ThingId": 0,
+        "ThingType": 13,
+        "ThingQuantity": 250,
+        "MissionPassDetailMasterId": 32,
+        "IsSp": true
+      }
     ]
   },
   {
@@ -839,22 +839,22 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
-      [
-        3301,
-        130051,
-        1,
-        2,
-        33,
-        false
-      ],
-      [
-        3302,
-        0,
-        12,
-        50000,
-        33,
-        true
-      ]
+      {
+        "Id": 3301,
+        "ThingId": 130051,
+        "ThingType": 1,
+        "ThingQuantity": 2,
+        "MissionPassDetailMasterId": 33,
+        "IsSp": false
+      },
+      {
+        "Id": 3302,
+        "ThingId": 0,
+        "ThingType": 12,
+        "ThingQuantity": 50000,
+        "MissionPassDetailMasterId": 33,
+        "IsSp": true
+      }
     ]
   },
   {
@@ -865,22 +865,22 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
-      [
-        3401,
-        130091,
-        1,
-        10,
-        34,
-        false
-      ],
-      [
-        3402,
-        0,
-        13,
-        250,
-        34,
-        true
-      ]
+      {
+        "Id": 3401,
+        "ThingId": 130091,
+        "ThingType": 1,
+        "ThingQuantity": 10,
+        "MissionPassDetailMasterId": 34,
+        "IsSp": false
+      },
+      {
+        "Id": 3402,
+        "ThingId": 0,
+        "ThingType": 13,
+        "ThingQuantity": 250,
+        "MissionPassDetailMasterId": 34,
+        "IsSp": true
+      }
     ]
   },
   {
@@ -891,22 +891,22 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
-      [
-        3501,
-        0,
-        13,
-        100,
-        35,
-        false
-      ],
-      [
-        3502,
-        211001,
-        1,
-        5,
-        35,
-        true
-      ]
+      {
+        "Id": 3501,
+        "ThingId": 0,
+        "ThingType": 13,
+        "ThingQuantity": 100,
+        "MissionPassDetailMasterId": 35,
+        "IsSp": false
+      },
+      {
+        "Id": 3502,
+        "ThingId": 211001,
+        "ThingType": 1,
+        "ThingQuantity": 5,
+        "MissionPassDetailMasterId": 35,
+        "IsSp": true
+      }
     ]
   },
   {
@@ -917,22 +917,22 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
-      [
-        3601,
-        120002,
-        1,
-        30,
-        36,
-        false
-      ],
-      [
-        3602,
-        0,
-        12,
-        50000,
-        36,
-        true
-      ]
+      {
+        "Id": 3601,
+        "ThingId": 120002,
+        "ThingType": 1,
+        "ThingQuantity": 30,
+        "MissionPassDetailMasterId": 36,
+        "IsSp": false
+      },
+      {
+        "Id": 3602,
+        "ThingId": 0,
+        "ThingType": 12,
+        "ThingQuantity": 50000,
+        "MissionPassDetailMasterId": 36,
+        "IsSp": true
+      }
     ]
   },
   {
@@ -943,22 +943,22 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
-      [
-        3701,
-        130062,
-        1,
-        100,
-        37,
-        false
-      ],
-      [
-        3702,
-        0,
-        13,
-        250,
-        37,
-        true
-      ]
+      {
+        "Id": 3701,
+        "ThingId": 130062,
+        "ThingType": 1,
+        "ThingQuantity": 100,
+        "MissionPassDetailMasterId": 37,
+        "IsSp": false
+      },
+      {
+        "Id": 3702,
+        "ThingId": 0,
+        "ThingType": 13,
+        "ThingQuantity": 250,
+        "MissionPassDetailMasterId": 37,
+        "IsSp": true
+      }
     ]
   },
   {
@@ -969,22 +969,22 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
-      [
-        3801,
-        0,
-        12,
-        75000,
-        38,
-        false
-      ],
-      [
-        3802,
-        0,
-        12,
-        50000,
-        38,
-        true
-      ]
+      {
+        "Id": 3801,
+        "ThingId": 0,
+        "ThingType": 12,
+        "ThingQuantity": 75000,
+        "MissionPassDetailMasterId": 38,
+        "IsSp": false
+      },
+      {
+        "Id": 3802,
+        "ThingId": 0,
+        "ThingType": 12,
+        "ThingQuantity": 50000,
+        "MissionPassDetailMasterId": 38,
+        "IsSp": true
+      }
     ]
   },
   {
@@ -995,22 +995,22 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
-      [
-        3901,
-        510001,
-        1,
-        2,
-        39,
-        false
-      ],
-      [
-        3902,
-        0,
-        13,
-        250,
-        39,
-        true
-      ]
+      {
+        "Id": 3901,
+        "ThingId": 510001,
+        "ThingType": 1,
+        "ThingQuantity": 2,
+        "MissionPassDetailMasterId": 39,
+        "IsSp": false
+      },
+      {
+        "Id": 3902,
+        "ThingId": 0,
+        "ThingType": 13,
+        "ThingQuantity": 250,
+        "MissionPassDetailMasterId": 39,
+        "IsSp": true
+      }
     ]
   },
   {
@@ -1021,22 +1021,22 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
-      [
-        4001,
-        0,
-        13,
-        50,
-        40,
-        false
-      ],
-      [
-        4002,
-        0,
-        13,
-        100,
-        40,
-        true
-      ]
+      {
+        "Id": 4001,
+        "ThingId": 0,
+        "ThingType": 13,
+        "ThingQuantity": 50,
+        "MissionPassDetailMasterId": 40,
+        "IsSp": false
+      },
+      {
+        "Id": 4002,
+        "ThingId": 0,
+        "ThingType": 13,
+        "ThingQuantity": 100,
+        "MissionPassDetailMasterId": 40,
+        "IsSp": true
+      }
     ]
   },
   {
@@ -1047,22 +1047,22 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
-      [
-        4101,
-        120003,
-        1,
-        5,
-        41,
-        false
-      ],
-      [
-        4102,
-        0,
-        12,
-        50000,
-        41,
-        true
-      ]
+      {
+        "Id": 4101,
+        "ThingId": 120003,
+        "ThingType": 1,
+        "ThingQuantity": 5,
+        "MissionPassDetailMasterId": 41,
+        "IsSp": false
+      },
+      {
+        "Id": 4102,
+        "ThingId": 0,
+        "ThingType": 12,
+        "ThingQuantity": 50000,
+        "MissionPassDetailMasterId": 41,
+        "IsSp": true
+      }
     ]
   },
   {
@@ -1073,22 +1073,22 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
-      [
-        4201,
-        130043,
-        1,
-        30,
-        42,
-        false
-      ],
-      [
-        4202,
-        0,
-        13,
-        250,
-        42,
-        true
-      ]
+      {
+        "Id": 4201,
+        "ThingId": 130043,
+        "ThingType": 1,
+        "ThingQuantity": 30,
+        "MissionPassDetailMasterId": 42,
+        "IsSp": false
+      },
+      {
+        "Id": 4202,
+        "ThingId": 0,
+        "ThingType": 13,
+        "ThingQuantity": 250,
+        "MissionPassDetailMasterId": 42,
+        "IsSp": true
+      }
     ]
   },
   {
@@ -1099,22 +1099,22 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
-      [
-        4301,
-        0,
-        12,
-        75000,
-        43,
-        false
-      ],
-      [
-        4302,
-        0,
-        12,
-        50000,
-        43,
-        true
-      ]
+      {
+        "Id": 4301,
+        "ThingId": 0,
+        "ThingType": 12,
+        "ThingQuantity": 75000,
+        "MissionPassDetailMasterId": 43,
+        "IsSp": false
+      },
+      {
+        "Id": 4302,
+        "ThingId": 0,
+        "ThingType": 12,
+        "ThingQuantity": 50000,
+        "MissionPassDetailMasterId": 43,
+        "IsSp": true
+      }
     ]
   },
   {
@@ -1125,22 +1125,22 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
-      [
-        4401,
-        510002,
-        1,
-        2,
-        44,
-        false
-      ],
-      [
-        4402,
-        0,
-        13,
-        250,
-        44,
-        true
-      ]
+      {
+        "Id": 4401,
+        "ThingId": 510002,
+        "ThingType": 1,
+        "ThingQuantity": 2,
+        "MissionPassDetailMasterId": 44,
+        "IsSp": false
+      },
+      {
+        "Id": 4402,
+        "ThingId": 0,
+        "ThingType": 13,
+        "ThingQuantity": 250,
+        "MissionPassDetailMasterId": 44,
+        "IsSp": true
+      }
     ]
   },
   {
@@ -1151,22 +1151,22 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
-      [
-        4501,
-        0,
-        13,
-        100,
-        45,
-        false
-      ],
-      [
-        4502,
-        130091,
-        1,
-        50,
-        45,
-        true
-      ]
+      {
+        "Id": 4501,
+        "ThingId": 0,
+        "ThingType": 13,
+        "ThingQuantity": 100,
+        "MissionPassDetailMasterId": 45,
+        "IsSp": false
+      },
+      {
+        "Id": 4502,
+        "ThingId": 130091,
+        "ThingType": 1,
+        "ThingQuantity": 50,
+        "MissionPassDetailMasterId": 45,
+        "IsSp": true
+      }
     ]
   },
   {
@@ -1177,22 +1177,22 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
-      [
-        4601,
-        510003,
-        1,
-        2,
-        46,
-        false
-      ],
-      [
-        4602,
-        0,
-        12,
-        50000,
-        46,
-        true
-      ]
+      {
+        "Id": 4601,
+        "ThingId": 510003,
+        "ThingType": 1,
+        "ThingQuantity": 2,
+        "MissionPassDetailMasterId": 46,
+        "IsSp": false
+      },
+      {
+        "Id": 4602,
+        "ThingId": 0,
+        "ThingType": 12,
+        "ThingQuantity": 50000,
+        "MissionPassDetailMasterId": 46,
+        "IsSp": true
+      }
     ]
   },
   {
@@ -1203,22 +1203,22 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
-      [
-        4701,
-        0,
-        12,
-        75000,
-        47,
-        false
-      ],
-      [
-        4702,
-        0,
-        13,
-        250,
-        47,
-        true
-      ]
+      {
+        "Id": 4701,
+        "ThingId": 0,
+        "ThingType": 12,
+        "ThingQuantity": 75000,
+        "MissionPassDetailMasterId": 47,
+        "IsSp": false
+      },
+      {
+        "Id": 4702,
+        "ThingId": 0,
+        "ThingType": 13,
+        "ThingQuantity": 250,
+        "MissionPassDetailMasterId": 47,
+        "IsSp": true
+      }
     ]
   },
   {
@@ -1229,22 +1229,22 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
-      [
-        4801,
-        130051,
-        1,
-        3,
-        48,
-        false
-      ],
-      [
-        4802,
-        0,
-        12,
-        50000,
-        48,
-        true
-      ]
+      {
+        "Id": 4801,
+        "ThingId": 130051,
+        "ThingType": 1,
+        "ThingQuantity": 3,
+        "MissionPassDetailMasterId": 48,
+        "IsSp": false
+      },
+      {
+        "Id": 4802,
+        "ThingId": 0,
+        "ThingType": 12,
+        "ThingQuantity": 50000,
+        "MissionPassDetailMasterId": 48,
+        "IsSp": true
+      }
     ]
   },
   {
@@ -1255,22 +1255,22 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
-      [
-        4901,
-        130091,
-        1,
-        10,
-        49,
-        false
-      ],
-      [
-        4902,
-        0,
-        13,
-        250,
-        49,
-        true
-      ]
+      {
+        "Id": 4901,
+        "ThingId": 130091,
+        "ThingType": 1,
+        "ThingQuantity": 10,
+        "MissionPassDetailMasterId": 49,
+        "IsSp": false
+      },
+      {
+        "Id": 4902,
+        "ThingId": 0,
+        "ThingType": 13,
+        "ThingQuantity": 250,
+        "MissionPassDetailMasterId": 49,
+        "IsSp": true
+      }
     ]
   },
   {
@@ -1281,22 +1281,22 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2099-12-31T00:00:00.000Z",
     "Rewards": [
-      [
-        5001,
-        130013,
-        1,
-        3,
-        50,
-        false
-      ],
-      [
-        5002,
-        0,
-        13,
-        100,
-        50,
-        true
-      ]
+      {
+        "Id": 5001,
+        "ThingId": 130013,
+        "ThingType": 1,
+        "ThingQuantity": 3,
+        "MissionPassDetailMasterId": 50,
+        "IsSp": false
+      },
+      {
+        "Id": 5002,
+        "ThingId": 0,
+        "ThingType": 13,
+        "ThingQuantity": 100,
+        "MissionPassDetailMasterId": 50,
+        "IsSp": true
+      }
     ]
   },
   {
@@ -1307,22 +1307,22 @@
     "StartDate": "1970-01-01T00:00:00.000Z",
     "EndDate": "1970-01-01T00:00:00.000Z",
     "Rewards": [
-      [
-        12001,
-        0,
-        13,
-        50,
-        120,
-        false
-      ],
-      [
-        12002,
-        1081,
-        5,
-        1,
-        120,
-        true
-      ]
+      {
+        "Id": 12001,
+        "ThingId": 0,
+        "ThingType": 13,
+        "ThingQuantity": 50,
+        "MissionPassDetailMasterId": 120,
+        "IsSp": false
+      },
+      {
+        "Id": 12002,
+        "ThingId": 1081,
+        "ThingType": 5,
+        "ThingQuantity": 1,
+        "MissionPassDetailMasterId": 120,
+        "IsSp": true
+      }
     ]
   },
   {
@@ -1333,22 +1333,22 @@
     "StartDate": "1970-01-01T00:00:00.000Z",
     "EndDate": "1970-01-01T00:00:00.000Z",
     "Rewards": [
-      [
-        13001,
-        0,
-        13,
-        50,
-        130,
-        false
-      ],
-      [
-        13002,
-        1091,
-        5,
-        1,
-        130,
-        true
-      ]
+      {
+        "Id": 13001,
+        "ThingId": 0,
+        "ThingType": 13,
+        "ThingQuantity": 50,
+        "MissionPassDetailMasterId": 130,
+        "IsSp": false
+      },
+      {
+        "Id": 13002,
+        "ThingId": 1091,
+        "ThingType": 5,
+        "ThingQuantity": 1,
+        "MissionPassDetailMasterId": 130,
+        "IsSp": true
+      }
     ]
   },
   {
@@ -1359,22 +1359,22 @@
     "StartDate": "1970-01-01T00:00:00.000Z",
     "EndDate": "1970-01-01T00:00:00.000Z",
     "Rewards": [
-      [
-        14001,
-        0,
-        13,
-        50,
-        140,
-        false
-      ],
-      [
-        14002,
-        1101,
-        5,
-        1,
-        140,
-        true
-      ]
+      {
+        "Id": 14001,
+        "ThingId": 0,
+        "ThingType": 13,
+        "ThingQuantity": 50,
+        "MissionPassDetailMasterId": 140,
+        "IsSp": false
+      },
+      {
+        "Id": 14002,
+        "ThingId": 1101,
+        "ThingType": 5,
+        "ThingQuantity": 1,
+        "MissionPassDetailMasterId": 140,
+        "IsSp": true
+      }
     ]
   },
   {
@@ -1385,22 +1385,22 @@
     "StartDate": "1970-01-01T00:00:00.000Z",
     "EndDate": "1970-01-01T00:00:00.000Z",
     "Rewards": [
-      [
-        15001,
-        130013,
-        1,
-        3,
-        150,
-        false
-      ],
-      [
-        15002,
-        1111,
-        5,
-        1,
-        150,
-        true
-      ]
+      {
+        "Id": 15001,
+        "ThingId": 130013,
+        "ThingType": 1,
+        "ThingQuantity": 3,
+        "MissionPassDetailMasterId": 150,
+        "IsSp": false
+      },
+      {
+        "Id": 15002,
+        "ThingId": 1111,
+        "ThingType": 5,
+        "ThingQuantity": 1,
+        "MissionPassDetailMasterId": 150,
+        "IsSp": true
+      }
     ]
   }
 ]

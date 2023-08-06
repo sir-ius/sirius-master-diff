@@ -58,10 +58,10 @@
     "ReleaseItemGroupId": 1,
     "PronounceName": "ねずみのおんがえし",
     "Costumes": [
-      [
-        0,
-        1061
-      ]
+      {
+        "Phase": 0,
+        "CostumeMasterId": 1061
+      }
     ],
     "AppearanceCharacterBaseMasterIds": [
       103
@@ -459,10 +459,10 @@
     "ReleaseItemGroupId": 1,
     "PronounceName": "ひきこもりのやじゅう",
     "Costumes": [
-      [
-        0,
-        1071
-      ]
+      {
+        "Phase": 0,
+        "CostumeMasterId": 1071
+      }
     ],
     "AppearanceCharacterBaseMasterIds": [
       405
@@ -509,14 +509,14 @@
     "ReleaseItemGroupId": 2,
     "PronounceName": "こいするおとめといばらのあい",
     "Costumes": [
-      [
-        0,
-        1051
-      ],
-      [
-        2,
-        1052
-      ]
+      {
+        "Phase": 0,
+        "CostumeMasterId": 1051
+      },
+      {
+        "Phase": 2,
+        "CostumeMasterId": 1052
+      }
     ],
     "AppearanceCharacterBaseMasterIds": [
       201,
@@ -541,14 +541,14 @@
     "ReleaseItemGroupId": 2,
     "PronounceName": "かるめん",
     "Costumes": [
-      [
-        0,
-        1031
-      ],
-      [
-        2,
-        1032
-      ]
+      {
+        "Phase": 0,
+        "CostumeMasterId": 1031
+      },
+      {
+        "Phase": 2,
+        "CostumeMasterId": 1032
+      }
     ],
     "AppearanceCharacterBaseMasterIds": [
       303,
@@ -752,14 +752,14 @@
     "ReleaseItemGroupId": 2,
     "PronounceName": "ぶれーめんのばんどたい",
     "Costumes": [
-      [
-        0,
-        1041
-      ],
-      [
-        2,
-        1042
-      ]
+      {
+        "Phase": 0,
+        "CostumeMasterId": 1041
+      },
+      {
+        "Phase": 2,
+        "CostumeMasterId": 1042
+      }
     ],
     "AppearanceCharacterBaseMasterIds": [
       403
@@ -968,22 +968,22 @@
     "ReleaseItemGroupId": 3,
     "PronounceName": "いずみのおとしもの",
     "Costumes": [
-      [
-        0,
-        1011
-      ],
-      [
-        1,
-        1012
-      ],
-      [
-        2,
-        1013
-      ],
-      [
-        3,
-        1014
-      ]
+      {
+        "Phase": 0,
+        "CostumeMasterId": 1011
+      },
+      {
+        "Phase": 1,
+        "CostumeMasterId": 1012
+      },
+      {
+        "Phase": 2,
+        "CostumeMasterId": 1013
+      },
+      {
+        "Phase": 3,
+        "CostumeMasterId": 1014
+      }
     ],
     "AppearanceCharacterBaseMasterIds": [
       201,
@@ -1081,22 +1081,22 @@
     "ReleaseItemGroupId": 3,
     "PronounceName": "しんでれらとまほうのけん",
     "Costumes": [
-      [
-        0,
-        1021
-      ],
-      [
-        1,
-        1022
-      ],
-      [
-        2,
-        1023
-      ],
-      [
-        3,
-        1024
-      ]
+      {
+        "Phase": 0,
+        "CostumeMasterId": 1021
+      },
+      {
+        "Phase": 1,
+        "CostumeMasterId": 1022
+      },
+      {
+        "Phase": 2,
+        "CostumeMasterId": 1023
+      },
+      {
+        "Phase": 3,
+        "CostumeMasterId": 1024
+      }
     ],
     "AppearanceCharacterBaseMasterIds": [
       204,
@@ -1122,22 +1122,22 @@
     "ReleaseItemGroupId": 3,
     "PronounceName": "ALICETHEGAMBLER",
     "Costumes": [
-      [
-        0,
-        1001
-      ],
-      [
-        1,
-        1002
-      ],
-      [
-        2,
-        1003
-      ],
-      [
-        3,
-        1004
-      ]
+      {
+        "Phase": 0,
+        "CostumeMasterId": 1001
+      },
+      {
+        "Phase": 1,
+        "CostumeMasterId": 1002
+      },
+      {
+        "Phase": 2,
+        "CostumeMasterId": 1003
+      },
+      {
+        "Phase": 3,
+        "CostumeMasterId": 1004
+      }
     ],
     "AppearanceCharacterBaseMasterIds": [
       204,
@@ -1187,10 +1187,10 @@
     "ReleaseItemGroupId": 4,
     "PronounceName": "しりうす",
     "Costumes": [
-      [
-        2,
-        411
-      ]
+      {
+        "Phase": 2,
+        "CostumeMasterId": 411
+      }
     ],
     "AppearanceCharacterBaseMasterIds": [
       101,
@@ -1219,10 +1219,10 @@
     "ReleaseItemGroupId": 4,
     "PronounceName": "EDEN",
     "Costumes": [
-      [
-        2,
-        421
-      ]
+      {
+        "Phase": 2,
+        "CostumeMasterId": 421
+      }
     ],
     "AppearanceCharacterBaseMasterIds": [
       201,
@@ -1250,10 +1250,10 @@
     "ReleaseItemGroupId": 4,
     "PronounceName": "ぎんがざ",
     "Costumes": [
-      [
-        2,
-        431
-      ]
+      {
+        "Phase": 2,
+        "CostumeMasterId": 431
+      }
     ],
     "AppearanceCharacterBaseMasterIds": [
       301,
@@ -1281,10 +1281,10 @@
     "ReleaseItemGroupId": 4,
     "PronounceName": "げきだんでんき",
     "Costumes": [
-      [
-        2,
-        441
-      ]
+      {
+        "Phase": 2,
+        "CostumeMasterId": 441
+      }
     ],
     "AppearanceCharacterBaseMasterIds": [
       401,
@@ -1312,22 +1312,22 @@
     "ReleaseItemGroupId": 3,
     "PronounceName": "にんぎょひめ",
     "Costumes": [
-      [
-        0,
-        1121
-      ],
-      [
-        1,
-        1122
-      ],
-      [
-        2,
-        1123
-      ],
-      [
-        3,
-        1124
-      ]
+      {
+        "Phase": 0,
+        "CostumeMasterId": 1121
+      },
+      {
+        "Phase": 1,
+        "CostumeMasterId": 1122
+      },
+      {
+        "Phase": 2,
+        "CostumeMasterId": 1123
+      },
+      {
+        "Phase": 3,
+        "CostumeMasterId": 1124
+      }
     ],
     "AppearanceCharacterBaseMasterIds": [
       101
@@ -1351,22 +1351,22 @@
     "ReleaseItemGroupId": 3,
     "PronounceName": "くらきとうのらぷんつぇる",
     "Costumes": [
-      [
-        0,
-        1131
-      ],
-      [
-        1,
-        1132
-      ],
-      [
-        2,
-        1141
-      ],
-      [
-        3,
-        1142
-      ]
+      {
+        "Phase": 0,
+        "CostumeMasterId": 1131
+      },
+      {
+        "Phase": 1,
+        "CostumeMasterId": 1132
+      },
+      {
+        "Phase": 2,
+        "CostumeMasterId": 1141
+      },
+      {
+        "Phase": 3,
+        "CostumeMasterId": 1142
+      }
     ],
     "AppearanceCharacterBaseMasterIds": [
       205

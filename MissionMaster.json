@@ -11,19 +11,19 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        1,
-        1,
-        1,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            120002,
-            1,
-            200
-          ]
+      {
+        "Id": 1,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 1,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 120002,
+            "ThingType": 1,
+            "ThingQuantity": 200
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -38,19 +38,19 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        2,
-        1,
-        1,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            130021,
-            1,
-            500
-          ]
+      {
+        "Id": 2,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 1,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 130021,
+            "ThingType": 1,
+            "ThingQuantity": 500
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -65,19 +65,19 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        3,
-        1,
-        5,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            130022,
-            1,
-            500
-          ]
+      {
+        "Id": 3,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 5,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 130022,
+            "ThingType": 1,
+            "ThingQuantity": 500
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -92,19 +92,19 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        4,
-        1,
-        1,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            130023,
-            1,
-            500
-          ]
+      {
+        "Id": 4,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 1,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 130023,
+            "ThingType": 1,
+            "ThingQuantity": 500
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -119,19 +119,19 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        5,
-        1,
-        500,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            130024,
-            1,
-            500
-          ]
+      {
+        "Id": 5,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 500,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 130024,
+            "ThingType": 1,
+            "ThingQuantity": 500
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -146,19 +146,19 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        6,
-        1,
-        5,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            140010,
-            2,
-            1
-          ]
+      {
+        "Id": 6,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 5,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 140010,
+            "ThingType": 2,
+            "ThingQuantity": 1
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -173,19 +173,19 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        7,
-        1,
-        15,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            110001,
-            1,
-            1
-          ]
+      {
+        "Id": 7,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 15,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 110001,
+            "ThingType": 1,
+            "ThingQuantity": 1
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -200,19 +200,19 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        8,
-        1,
-        1,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            510002,
-            1,
-            2
-          ]
+      {
+        "Id": 8,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 1,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 510002,
+            "ThingType": 1,
+            "ThingQuantity": 2
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -227,19 +227,19 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        9,
-        1,
-        1,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            130001,
-            1,
-            10
-          ]
+      {
+        "Id": 9,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 1,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 130001,
+            "ThingType": 1,
+            "ThingQuantity": 10
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -254,19 +254,19 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        10,
-        1,
-        1,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            130041,
-            1,
-            100
-          ]
+      {
+        "Id": 10,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 1,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 130041,
+            "ThingType": 1,
+            "ThingQuantity": 100
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -281,19 +281,19 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        11,
-        1,
-        1,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            130061,
-            1,
-            100
-          ]
+      {
+        "Id": 11,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 1,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 130061,
+            "ThingType": 1,
+            "ThingQuantity": 100
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -308,19 +308,19 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        12,
-        1,
-        5,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            500
-          ]
+      {
+        "Id": 12,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 5,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 500
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -335,19 +335,19 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        13,
-        1,
-        18,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            120002,
-            1,
-            200
-          ]
+      {
+        "Id": 13,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 18,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 120002,
+            "ThingType": 1,
+            "ThingQuantity": 200
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -362,19 +362,19 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        14,
-        1,
-        1,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            130042,
-            1,
-            100
-          ]
+      {
+        "Id": 14,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 1,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 130042,
+            "ThingType": 1,
+            "ThingQuantity": 100
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -389,19 +389,19 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        15,
-        1,
-        1,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            130062,
-            1,
-            100
-          ]
+      {
+        "Id": 15,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 1,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 130062,
+            "ThingType": 1,
+            "ThingQuantity": 100
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -416,19 +416,19 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        16,
-        1,
-        1,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            130025,
-            1,
-            100
-          ]
+      {
+        "Id": 16,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 1,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 130025,
+            "ThingType": 1,
+            "ThingQuantity": 100
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -443,19 +443,19 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        17,
-        1,
-        1,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            130001,
-            1,
-            10
-          ]
+      {
+        "Id": 17,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 1,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 130001,
+            "ThingType": 1,
+            "ThingQuantity": 10
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -470,19 +470,19 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        18,
-        1,
-        5,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            211101,
-            1,
-            1
-          ]
+      {
+        "Id": 18,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 5,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 211101,
+            "ThingType": 1,
+            "ThingQuantity": 1
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -497,19 +497,19 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        19,
-        1,
-        21,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            110001,
-            1,
-            1
-          ]
+      {
+        "Id": 19,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 21,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 110001,
+            "ThingType": 1,
+            "ThingQuantity": 1
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -524,19 +524,19 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        20,
-        1,
-        10,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            130031,
-            1,
-            300
-          ]
+      {
+        "Id": 20,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 10,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 130031,
+            "ThingType": 1,
+            "ThingQuantity": 300
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -551,19 +551,19 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        21,
-        1,
-        1,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            130032,
-            1,
-            300
-          ]
+      {
+        "Id": 21,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 1,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 130032,
+            "ThingType": 1,
+            "ThingQuantity": 300
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -578,19 +578,19 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        22,
-        1,
-        1,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            130033,
-            1,
-            300
-          ]
+      {
+        "Id": 22,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 1,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 130033,
+            "ThingType": 1,
+            "ThingQuantity": 300
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -605,19 +605,19 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        23,
-        1,
-        1,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            130034,
-            1,
-            300
-          ]
+      {
+        "Id": 23,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 1,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 130034,
+            "ThingType": 1,
+            "ThingQuantity": 300
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -632,19 +632,19 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        24,
-        1,
-        5,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            500
-          ]
+      {
+        "Id": 24,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 5,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 500
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -659,19 +659,19 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        25,
-        1,
-        24,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            120002,
-            1,
-            200
-          ]
+      {
+        "Id": 25,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 24,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 120002,
+            "ThingType": 1,
+            "ThingQuantity": 200
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -686,19 +686,19 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        26,
-        1,
-        1,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            130035,
-            1,
-            50
-          ]
+      {
+        "Id": 26,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 1,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 130035,
+            "ThingType": 1,
+            "ThingQuantity": 50
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -713,19 +713,19 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        27,
-        1,
-        1,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            140000,
-            1,
-            50
-          ]
+      {
+        "Id": 27,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 1,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 140000,
+            "ThingType": 1,
+            "ThingQuantity": 50
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -740,19 +740,19 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        28,
-        1,
-        1,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            130051,
-            1,
-            10
-          ]
+      {
+        "Id": 28,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 1,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 130051,
+            "ThingType": 1,
+            "ThingQuantity": 10
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -767,19 +767,19 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        29,
-        1,
-        200,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            130001,
-            1,
-            10
-          ]
+      {
+        "Id": 29,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 200,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 130001,
+            "ThingType": 1,
+            "ThingQuantity": 10
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -794,19 +794,19 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        30,
-        1,
-        5,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            210101,
-            1,
-            1
-          ]
+      {
+        "Id": 30,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 5,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 210101,
+            "ThingType": 1,
+            "ThingQuantity": 1
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -821,19 +821,19 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        31,
-        1,
-        27,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            110001,
-            1,
-            1
-          ]
+      {
+        "Id": 31,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 27,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 110001,
+            "ThingType": 1,
+            "ThingQuantity": 1
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -848,19 +848,19 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        32,
-        1,
-        1,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            130035,
-            1,
-            50
-          ]
+      {
+        "Id": 32,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 1,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 130035,
+            "ThingType": 1,
+            "ThingQuantity": 50
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -875,19 +875,19 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        33,
-        1,
-        1,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            130063,
-            1,
-            100
-          ]
+      {
+        "Id": 33,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 1,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 130063,
+            "ThingType": 1,
+            "ThingQuantity": 100
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -902,19 +902,19 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        34,
-        1,
-        1,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            144001,
-            1,
-            500
-          ]
+      {
+        "Id": 34,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 1,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 144001,
+            "ThingType": 1,
+            "ThingQuantity": 500
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -929,19 +929,19 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        35,
-        1,
-        1,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            510003,
-            1,
-            1
-          ]
+      {
+        "Id": 35,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 1,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 510003,
+            "ThingType": 1,
+            "ThingQuantity": 1
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -956,19 +956,19 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        36,
-        1,
-        5,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            500
-          ]
+      {
+        "Id": 36,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 5,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 500
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -983,19 +983,19 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        37,
-        1,
-        30,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            110002,
-            1,
-            1
-          ]
+      {
+        "Id": 37,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 30,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 110002,
+            "ThingType": 1,
+            "ThingQuantity": 1
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -1010,19 +1010,19 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        38,
-        1,
-        1,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            130043,
-            1,
-            50
-          ]
+      {
+        "Id": 38,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 1,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 130043,
+            "ThingType": 1,
+            "ThingQuantity": 50
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -1037,19 +1037,19 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        39,
-        1,
-        10000,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            130064,
-            1,
-            50
-          ]
+      {
+        "Id": 39,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 10000,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 130064,
+            "ThingType": 1,
+            "ThingQuantity": 50
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -1064,19 +1064,19 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        40,
-        1,
-        10,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            130091,
-            1,
-            5
-          ]
+      {
+        "Id": 40,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 10,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 130091,
+            "ThingType": 1,
+            "ThingQuantity": 5
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -1091,19 +1091,19 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        41,
-        1,
-        1,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            510004,
-            1,
-            1
-          ]
+      {
+        "Id": 41,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 1,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 510004,
+            "ThingType": 1,
+            "ThingQuantity": 1
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -1118,19 +1118,19 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        42,
-        1,
-        41,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            211201,
-            1,
-            1
-          ]
+      {
+        "Id": 42,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 41,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 211201,
+            "ThingType": 1,
+            "ThingQuantity": 1
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -1145,19 +1145,19 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        111,
-        1,
-        23,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            10103,
-            7,
-            1
-          ]
+      {
+        "Id": 111,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 23,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 10103,
+            "ThingType": 7,
+            "ThingQuantity": 1
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -1172,19 +1172,19 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        121,
-        1,
-        1000,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            10303,
-            7,
-            1
-          ]
+      {
+        "Id": 121,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 1000,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 10303,
+            "ThingType": 7,
+            "ThingQuantity": 1
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -1199,19 +1199,19 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        131,
-        1,
-        15,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            10403,
-            7,
-            1
-          ]
+      {
+        "Id": 131,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 15,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 10403,
+            "ThingType": 7,
+            "ThingQuantity": 1
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -1226,19 +1226,19 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        141,
-        1,
-        3,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            10503,
-            7,
-            1
-          ]
+      {
+        "Id": 141,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 3,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 10503,
+            "ThingType": 7,
+            "ThingQuantity": 1
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -1253,19 +1253,19 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        151,
-        1,
-        1,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            10603,
-            7,
-            1
-          ]
+      {
+        "Id": 151,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 1,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 10603,
+            "ThingType": 7,
+            "ThingQuantity": 1
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -1280,19 +1280,19 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        161,
-        1,
-        5,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            230090,
-            3,
-            1
-          ]
+      {
+        "Id": 161,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 5,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 230090,
+            "ThingType": 3,
+            "ThingQuantity": 1
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -1307,19 +1307,19 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        211,
-        1,
-        20,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            20103,
-            7,
-            1
-          ]
+      {
+        "Id": 211,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 20,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 20103,
+            "ThingType": 7,
+            "ThingQuantity": 1
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -1334,19 +1334,19 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        221,
-        1,
-        1000,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            20203,
-            7,
-            1
-          ]
+      {
+        "Id": 221,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 1000,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 20203,
+            "ThingType": 7,
+            "ThingQuantity": 1
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -1361,19 +1361,19 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        231,
-        1,
-        15,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            20303,
-            7,
-            1
-          ]
+      {
+        "Id": 231,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 15,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 20303,
+            "ThingType": 7,
+            "ThingQuantity": 1
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -1388,19 +1388,19 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        241,
-        1,
-        3,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            20403,
-            7,
-            1
-          ]
+      {
+        "Id": 241,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 3,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 20403,
+            "ThingType": 7,
+            "ThingQuantity": 1
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -1415,19 +1415,19 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        251,
-        1,
-        1,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            20503,
-            7,
-            1
-          ]
+      {
+        "Id": 251,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 1,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 20503,
+            "ThingType": 7,
+            "ThingQuantity": 1
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -1442,19 +1442,19 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        261,
-        1,
-        5,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            230100,
-            3,
-            1
-          ]
+      {
+        "Id": 261,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 5,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 230100,
+            "ThingType": 3,
+            "ThingQuantity": 1
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -1469,19 +1469,19 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        311,
-        1,
-        20,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            30103,
-            7,
-            1
-          ]
+      {
+        "Id": 311,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 20,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 30103,
+            "ThingType": 7,
+            "ThingQuantity": 1
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -1496,19 +1496,19 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        321,
-        1,
-        1000,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            30203,
-            7,
-            1
-          ]
+      {
+        "Id": 321,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 1000,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 30203,
+            "ThingType": 7,
+            "ThingQuantity": 1
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -1523,19 +1523,19 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        331,
-        1,
-        15,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            30303,
-            7,
-            1
-          ]
+      {
+        "Id": 331,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 15,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 30303,
+            "ThingType": 7,
+            "ThingQuantity": 1
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -1550,19 +1550,19 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        341,
-        1,
-        3,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            30403,
-            7,
-            1
-          ]
+      {
+        "Id": 341,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 3,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 30403,
+            "ThingType": 7,
+            "ThingQuantity": 1
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -1577,19 +1577,19 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        351,
-        1,
-        1,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            30503,
-            7,
-            1
-          ]
+      {
+        "Id": 351,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 1,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 30503,
+            "ThingType": 7,
+            "ThingQuantity": 1
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -1604,19 +1604,19 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        361,
-        1,
-        5,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            230110,
-            3,
-            1
-          ]
+      {
+        "Id": 361,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 5,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 230110,
+            "ThingType": 3,
+            "ThingQuantity": 1
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -1631,19 +1631,19 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        411,
-        1,
-        20,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            40103,
-            7,
-            1
-          ]
+      {
+        "Id": 411,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 20,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 40103,
+            "ThingType": 7,
+            "ThingQuantity": 1
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -1658,19 +1658,19 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        421,
-        1,
-        1000,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            40203,
-            7,
-            1
-          ]
+      {
+        "Id": 421,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 1000,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 40203,
+            "ThingType": 7,
+            "ThingQuantity": 1
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -1685,19 +1685,19 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        431,
-        1,
-        15,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            40303,
-            7,
-            1
-          ]
+      {
+        "Id": 431,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 15,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 40303,
+            "ThingType": 7,
+            "ThingQuantity": 1
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -1712,19 +1712,19 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        441,
-        1,
-        3,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            40403,
-            7,
-            1
-          ]
+      {
+        "Id": 441,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 3,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 40403,
+            "ThingType": 7,
+            "ThingQuantity": 1
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -1739,19 +1739,19 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        451,
-        1,
-        1,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            40503,
-            7,
-            1
-          ]
+      {
+        "Id": 451,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 1,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 40503,
+            "ThingType": 7,
+            "ThingQuantity": 1
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -1766,19 +1766,19 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        461,
-        1,
-        5,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            230120,
-            3,
-            1
-          ]
+      {
+        "Id": 461,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 5,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 230120,
+            "ThingType": 3,
+            "ThingQuantity": 1
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -1793,266 +1793,266 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        1001,
-        1,
-        10,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            100
-          ]
+      {
+        "Id": 1001,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 10,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 100
+          }
         ]
-      ],
-      [
-        1002,
-        2,
-        20,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            100
-          ]
+      },
+      {
+        "Id": 1002,
+        "MissionStageOrder": 2,
+        "StageGoalValue": 20,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 100
+          }
         ]
-      ],
-      [
-        1003,
-        3,
-        30,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            100
-          ]
+      },
+      {
+        "Id": 1003,
+        "MissionStageOrder": 3,
+        "StageGoalValue": 30,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 100
+          }
         ]
-      ],
-      [
-        1004,
-        4,
-        40,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            100
-          ]
+      },
+      {
+        "Id": 1004,
+        "MissionStageOrder": 4,
+        "StageGoalValue": 40,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 100
+          }
         ]
-      ],
-      [
-        1005,
-        5,
-        50,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            100
-          ]
+      },
+      {
+        "Id": 1005,
+        "MissionStageOrder": 5,
+        "StageGoalValue": 50,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 100
+          }
         ]
-      ],
-      [
-        1006,
-        6,
-        60,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            100
-          ]
+      },
+      {
+        "Id": 1006,
+        "MissionStageOrder": 6,
+        "StageGoalValue": 60,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 100
+          }
         ]
-      ],
-      [
-        1007,
-        7,
-        70,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            100
-          ]
+      },
+      {
+        "Id": 1007,
+        "MissionStageOrder": 7,
+        "StageGoalValue": 70,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 100
+          }
         ]
-      ],
-      [
-        1008,
-        8,
-        80,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            100
-          ]
+      },
+      {
+        "Id": 1008,
+        "MissionStageOrder": 8,
+        "StageGoalValue": 80,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 100
+          }
         ]
-      ],
-      [
-        1009,
-        9,
-        90,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            100
-          ]
+      },
+      {
+        "Id": 1009,
+        "MissionStageOrder": 9,
+        "StageGoalValue": 90,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 100
+          }
         ]
-      ],
-      [
-        1010,
-        10,
-        100,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            100
-          ]
+      },
+      {
+        "Id": 1010,
+        "MissionStageOrder": 10,
+        "StageGoalValue": 100,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 100
+          }
         ]
-      ],
-      [
-        1011,
-        11,
-        110,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            100
-          ]
+      },
+      {
+        "Id": 1011,
+        "MissionStageOrder": 11,
+        "StageGoalValue": 110,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 100
+          }
         ]
-      ],
-      [
-        1012,
-        12,
-        120,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            100
-          ]
+      },
+      {
+        "Id": 1012,
+        "MissionStageOrder": 12,
+        "StageGoalValue": 120,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 100
+          }
         ]
-      ],
-      [
-        1013,
-        13,
-        130,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            100
-          ]
+      },
+      {
+        "Id": 1013,
+        "MissionStageOrder": 13,
+        "StageGoalValue": 130,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 100
+          }
         ]
-      ],
-      [
-        1014,
-        14,
-        140,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            100
-          ]
+      },
+      {
+        "Id": 1014,
+        "MissionStageOrder": 14,
+        "StageGoalValue": 140,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 100
+          }
         ]
-      ],
-      [
-        1015,
-        15,
-        150,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            100
-          ]
+      },
+      {
+        "Id": 1015,
+        "MissionStageOrder": 15,
+        "StageGoalValue": 150,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 100
+          }
         ]
-      ],
-      [
-        1016,
-        16,
-        160,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            100
-          ]
+      },
+      {
+        "Id": 1016,
+        "MissionStageOrder": 16,
+        "StageGoalValue": 160,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 100
+          }
         ]
-      ],
-      [
-        1017,
-        17,
-        170,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            100
-          ]
+      },
+      {
+        "Id": 1017,
+        "MissionStageOrder": 17,
+        "StageGoalValue": 170,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 100
+          }
         ]
-      ],
-      [
-        1018,
-        18,
-        180,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            100
-          ]
+      },
+      {
+        "Id": 1018,
+        "MissionStageOrder": 18,
+        "StageGoalValue": 180,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 100
+          }
         ]
-      ],
-      [
-        1019,
-        19,
-        190,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            100
-          ]
+      },
+      {
+        "Id": 1019,
+        "MissionStageOrder": 19,
+        "StageGoalValue": 190,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 100
+          }
         ]
-      ],
-      [
-        1020,
-        20,
-        200,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            100
-          ]
+      },
+      {
+        "Id": 1020,
+        "MissionStageOrder": 20,
+        "StageGoalValue": 200,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 100
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -2067,162 +2067,162 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        1100,
-        1,
-        25,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            200201,
-            6,
-            1
-          ]
+      {
+        "Id": 1100,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 25,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 200201,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ],
-      [
-        1101,
-        2,
-        50,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            200202,
-            6,
-            1
-          ]
+      },
+      {
+        "Id": 1101,
+        "MissionStageOrder": 2,
+        "StageGoalValue": 50,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 200202,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ],
-      [
-        1102,
-        3,
-        60,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            200203,
-            6,
-            1
-          ]
+      },
+      {
+        "Id": 1102,
+        "MissionStageOrder": 3,
+        "StageGoalValue": 60,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 200203,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ],
-      [
-        1103,
-        4,
-        70,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            200204,
-            6,
-            1
-          ]
+      },
+      {
+        "Id": 1103,
+        "MissionStageOrder": 4,
+        "StageGoalValue": 70,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 200204,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ],
-      [
-        1104,
-        5,
-        80,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            200205,
-            6,
-            1
-          ]
+      },
+      {
+        "Id": 1104,
+        "MissionStageOrder": 5,
+        "StageGoalValue": 80,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 200205,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ],
-      [
-        1105,
-        6,
-        90,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            200206,
-            6,
-            1
-          ]
+      },
+      {
+        "Id": 1105,
+        "MissionStageOrder": 6,
+        "StageGoalValue": 90,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 200206,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ],
-      [
-        1106,
-        7,
-        100,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            200207,
-            6,
-            1
-          ]
+      },
+      {
+        "Id": 1106,
+        "MissionStageOrder": 7,
+        "StageGoalValue": 100,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 200207,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ],
-      [
-        1107,
-        8,
-        110,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            200208,
-            6,
-            1
-          ]
+      },
+      {
+        "Id": 1107,
+        "MissionStageOrder": 8,
+        "StageGoalValue": 110,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 200208,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ],
-      [
-        1108,
-        9,
-        120,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            200209,
-            6,
-            1
-          ]
+      },
+      {
+        "Id": 1108,
+        "MissionStageOrder": 9,
+        "StageGoalValue": 120,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 200209,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ],
-      [
-        1109,
-        10,
-        130,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            200210,
-            6,
-            1
-          ]
+      },
+      {
+        "Id": 1109,
+        "MissionStageOrder": 10,
+        "StageGoalValue": 130,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 200210,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ],
-      [
-        1110,
-        11,
-        140,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            200211,
-            6,
-            1
-          ]
+      },
+      {
+        "Id": 1110,
+        "MissionStageOrder": 11,
+        "StageGoalValue": 140,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 200211,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ],
-      [
-        1111,
-        12,
-        150,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            200212,
-            6,
-            1
-          ]
+      },
+      {
+        "Id": 1111,
+        "MissionStageOrder": 12,
+        "StageGoalValue": 150,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 200212,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -2237,253 +2237,253 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        1201,
-        1,
-        2000,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
+      {
+        "Id": 1201,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 2000,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
         ]
-      ],
-      [
-        1202,
-        2,
-        3000,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
+      },
+      {
+        "Id": 1202,
+        "MissionStageOrder": 2,
+        "StageGoalValue": 3000,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
         ]
-      ],
-      [
-        1203,
-        3,
-        4000,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
+      },
+      {
+        "Id": 1203,
+        "MissionStageOrder": 3,
+        "StageGoalValue": 4000,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
         ]
-      ],
-      [
-        1204,
-        4,
-        5000,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
+      },
+      {
+        "Id": 1204,
+        "MissionStageOrder": 4,
+        "StageGoalValue": 5000,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
         ]
-      ],
-      [
-        1205,
-        5,
-        6000,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
+      },
+      {
+        "Id": 1205,
+        "MissionStageOrder": 5,
+        "StageGoalValue": 6000,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
         ]
-      ],
-      [
-        1206,
-        6,
-        7000,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
+      },
+      {
+        "Id": 1206,
+        "MissionStageOrder": 6,
+        "StageGoalValue": 7000,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
         ]
-      ],
-      [
-        1207,
-        7,
-        8000,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
+      },
+      {
+        "Id": 1207,
+        "MissionStageOrder": 7,
+        "StageGoalValue": 8000,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
         ]
-      ],
-      [
-        1208,
-        8,
-        9000,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
+      },
+      {
+        "Id": 1208,
+        "MissionStageOrder": 8,
+        "StageGoalValue": 9000,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
         ]
-      ],
-      [
-        1209,
-        9,
-        10000,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
+      },
+      {
+        "Id": 1209,
+        "MissionStageOrder": 9,
+        "StageGoalValue": 10000,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
         ]
-      ],
-      [
-        1210,
-        10,
-        11000,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
+      },
+      {
+        "Id": 1210,
+        "MissionStageOrder": 10,
+        "StageGoalValue": 11000,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
         ]
-      ],
-      [
-        1211,
-        11,
-        12000,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
+      },
+      {
+        "Id": 1211,
+        "MissionStageOrder": 11,
+        "StageGoalValue": 12000,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
         ]
-      ],
-      [
-        1212,
-        12,
-        13000,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
+      },
+      {
+        "Id": 1212,
+        "MissionStageOrder": 12,
+        "StageGoalValue": 13000,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
         ]
-      ],
-      [
-        1213,
-        13,
-        14000,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
+      },
+      {
+        "Id": 1213,
+        "MissionStageOrder": 13,
+        "StageGoalValue": 14000,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
         ]
-      ],
-      [
-        1214,
-        14,
-        15000,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
+      },
+      {
+        "Id": 1214,
+        "MissionStageOrder": 14,
+        "StageGoalValue": 15000,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
         ]
-      ],
-      [
-        1215,
-        15,
-        16000,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
+      },
+      {
+        "Id": 1215,
+        "MissionStageOrder": 15,
+        "StageGoalValue": 16000,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
         ]
-      ],
-      [
-        1216,
-        16,
-        17000,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
+      },
+      {
+        "Id": 1216,
+        "MissionStageOrder": 16,
+        "StageGoalValue": 17000,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
         ]
-      ],
-      [
-        1217,
-        17,
-        18000,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
+      },
+      {
+        "Id": 1217,
+        "MissionStageOrder": 17,
+        "StageGoalValue": 18000,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
         ]
-      ],
-      [
-        1218,
-        18,
-        19000,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
+      },
+      {
+        "Id": 1218,
+        "MissionStageOrder": 18,
+        "StageGoalValue": 19000,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
         ]
-      ],
-      [
-        1219,
-        19,
-        20000,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
+      },
+      {
+        "Id": 1219,
+        "MissionStageOrder": 19,
+        "StageGoalValue": 20000,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -2498,292 +2498,292 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        1301,
-        1,
-        10,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            130071,
-            1,
-            1
-          ]
+      {
+        "Id": 1301,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 10,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 130071,
+            "ThingType": 1,
+            "ThingQuantity": 1
+          }
         ]
-      ],
-      [
-        1302,
-        2,
-        30,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            100
-          ]
+      },
+      {
+        "Id": 1302,
+        "MissionStageOrder": 2,
+        "StageGoalValue": 30,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 100
+          }
         ]
-      ],
-      [
-        1303,
-        3,
-        60,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            130071,
-            1,
-            2
-          ]
+      },
+      {
+        "Id": 1303,
+        "MissionStageOrder": 3,
+        "StageGoalValue": 60,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 130071,
+            "ThingType": 1,
+            "ThingQuantity": 2
+          }
         ]
-      ],
-      [
-        1304,
-        4,
-        100,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            100
-          ]
+      },
+      {
+        "Id": 1304,
+        "MissionStageOrder": 4,
+        "StageGoalValue": 100,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 100
+          }
         ]
-      ],
-      [
-        1305,
-        5,
-        150,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            130071,
-            1,
-            2
-          ]
+      },
+      {
+        "Id": 1305,
+        "MissionStageOrder": 5,
+        "StageGoalValue": 150,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 130071,
+            "ThingType": 1,
+            "ThingQuantity": 2
+          }
         ]
-      ],
-      [
-        1306,
-        6,
-        200,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            100
-          ]
+      },
+      {
+        "Id": 1306,
+        "MissionStageOrder": 6,
+        "StageGoalValue": 200,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 100
+          }
         ]
-      ],
-      [
-        1307,
-        7,
-        250,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            130071,
-            1,
-            2
-          ]
+      },
+      {
+        "Id": 1307,
+        "MissionStageOrder": 7,
+        "StageGoalValue": 250,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 130071,
+            "ThingType": 1,
+            "ThingQuantity": 2
+          }
         ]
-      ],
-      [
-        1308,
-        8,
-        300,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            100
-          ]
+      },
+      {
+        "Id": 1308,
+        "MissionStageOrder": 8,
+        "StageGoalValue": 300,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 100
+          }
         ]
-      ],
-      [
-        1309,
-        9,
-        350,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            130071,
-            1,
-            2
-          ]
+      },
+      {
+        "Id": 1309,
+        "MissionStageOrder": 9,
+        "StageGoalValue": 350,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 130071,
+            "ThingType": 1,
+            "ThingQuantity": 2
+          }
         ]
-      ],
-      [
-        1310,
-        10,
-        400,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            100
-          ]
+      },
+      {
+        "Id": 1310,
+        "MissionStageOrder": 10,
+        "StageGoalValue": 400,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 100
+          }
         ]
-      ],
-      [
-        1311,
-        11,
-        450,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            130071,
-            1,
-            2
-          ]
+      },
+      {
+        "Id": 1311,
+        "MissionStageOrder": 11,
+        "StageGoalValue": 450,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 130071,
+            "ThingType": 1,
+            "ThingQuantity": 2
+          }
         ]
-      ],
-      [
-        1312,
-        12,
-        500,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            100
-          ]
+      },
+      {
+        "Id": 1312,
+        "MissionStageOrder": 12,
+        "StageGoalValue": 500,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 100
+          }
         ]
-      ],
-      [
-        1313,
-        13,
-        550,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            130071,
-            1,
-            2
-          ]
+      },
+      {
+        "Id": 1313,
+        "MissionStageOrder": 13,
+        "StageGoalValue": 550,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 130071,
+            "ThingType": 1,
+            "ThingQuantity": 2
+          }
         ]
-      ],
-      [
-        1314,
-        14,
-        600,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            100
-          ]
+      },
+      {
+        "Id": 1314,
+        "MissionStageOrder": 14,
+        "StageGoalValue": 600,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 100
+          }
         ]
-      ],
-      [
-        1315,
-        15,
-        650,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            130071,
-            1,
-            2
-          ]
+      },
+      {
+        "Id": 1315,
+        "MissionStageOrder": 15,
+        "StageGoalValue": 650,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 130071,
+            "ThingType": 1,
+            "ThingQuantity": 2
+          }
         ]
-      ],
-      [
-        1316,
-        16,
-        700,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            100
-          ]
+      },
+      {
+        "Id": 1316,
+        "MissionStageOrder": 16,
+        "StageGoalValue": 700,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 100
+          }
         ]
-      ],
-      [
-        1317,
-        17,
-        750,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            130071,
-            1,
-            2
-          ]
+      },
+      {
+        "Id": 1317,
+        "MissionStageOrder": 17,
+        "StageGoalValue": 750,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 130071,
+            "ThingType": 1,
+            "ThingQuantity": 2
+          }
         ]
-      ],
-      [
-        1318,
-        18,
-        800,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            100
-          ]
+      },
+      {
+        "Id": 1318,
+        "MissionStageOrder": 18,
+        "StageGoalValue": 800,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 100
+          }
         ]
-      ],
-      [
-        1319,
-        19,
-        850,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            130071,
-            1,
-            2
-          ]
+      },
+      {
+        "Id": 1319,
+        "MissionStageOrder": 19,
+        "StageGoalValue": 850,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 130071,
+            "ThingType": 1,
+            "ThingQuantity": 2
+          }
         ]
-      ],
-      [
-        1320,
-        20,
-        900,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            100
-          ]
+      },
+      {
+        "Id": 1320,
+        "MissionStageOrder": 20,
+        "StageGoalValue": 900,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 100
+          }
         ]
-      ],
-      [
-        1321,
-        21,
-        950,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            130071,
-            1,
-            2
-          ]
+      },
+      {
+        "Id": 1321,
+        "MissionStageOrder": 21,
+        "StageGoalValue": 950,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 130071,
+            "ThingType": 1,
+            "ThingQuantity": 2
+          }
         ]
-      ],
-      [
-        1322,
-        22,
-        1000,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            100
-          ]
+      },
+      {
+        "Id": 1322,
+        "MissionStageOrder": 22,
+        "StageGoalValue": 1000,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 100
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -2798,1306 +2798,1306 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        1601,
-        1,
-        10,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1602,
-        2,
-        30,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1603,
-        3,
-        60,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1604,
-        4,
-        100,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1605,
-        5,
-        150,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1606,
-        6,
-        210,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1607,
-        7,
-        280,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1608,
-        8,
-        360,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1609,
-        9,
-        450,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1610,
-        10,
-        550,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1611,
-        11,
-        660,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1612,
-        12,
-        780,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1613,
-        13,
-        910,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1614,
-        14,
-        1050,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1615,
-        15,
-        1200,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1616,
-        16,
-        1360,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1617,
-        17,
-        1530,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1618,
-        18,
-        1710,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1619,
-        19,
-        1900,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1620,
-        20,
-        2100,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1621,
-        21,
-        2310,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1622,
-        22,
-        2530,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1623,
-        23,
-        2760,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1624,
-        24,
-        3000,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1625,
-        25,
-        3250,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1626,
-        26,
-        3510,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1627,
-        27,
-        3780,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1628,
-        28,
-        4060,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1629,
-        29,
-        4350,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1630,
-        30,
-        4650,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1631,
-        31,
-        4960,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1632,
-        32,
-        5280,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1633,
-        33,
-        5610,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1634,
-        34,
-        5950,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1635,
-        35,
-        6300,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1636,
-        36,
-        6660,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1637,
-        37,
-        7030,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1638,
-        38,
-        7410,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1639,
-        39,
-        7800,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1640,
-        40,
-        8200,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1641,
-        41,
-        8610,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1642,
-        42,
-        9030,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1643,
-        43,
-        9460,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1644,
-        44,
-        9900,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1645,
-        45,
-        10350,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1646,
-        46,
-        10810,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1647,
-        47,
-        11280,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1648,
-        48,
-        11760,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1649,
-        49,
-        12250,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1650,
-        50,
-        12750,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1651,
-        51,
-        13260,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1652,
-        52,
-        13780,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1653,
-        53,
-        14310,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1654,
-        54,
-        14850,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1655,
-        55,
-        15400,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1656,
-        56,
-        15960,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1657,
-        57,
-        16530,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1658,
-        58,
-        17110,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1659,
-        59,
-        17700,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1660,
-        60,
-        18300,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1661,
-        61,
-        18910,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1662,
-        62,
-        19530,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1663,
-        63,
-        20160,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1664,
-        64,
-        20800,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1665,
-        65,
-        21450,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1666,
-        66,
-        22110,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1667,
-        67,
-        22780,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1668,
-        68,
-        23460,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1669,
-        69,
-        24150,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1670,
-        70,
-        24850,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1671,
-        71,
-        25560,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1672,
-        72,
-        26280,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1673,
-        73,
-        27010,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1674,
-        74,
-        27750,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1675,
-        75,
-        28500,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1676,
-        76,
-        29260,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1677,
-        77,
-        30030,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1678,
-        78,
-        30810,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1679,
-        79,
-        31600,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1680,
-        80,
-        32400,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1681,
-        81,
-        33210,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1682,
-        82,
-        34030,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1683,
-        83,
-        34860,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1684,
-        84,
-        35700,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1685,
-        85,
-        36550,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1686,
-        86,
-        37410,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1687,
-        87,
-        38280,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1688,
-        88,
-        39160,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1689,
-        89,
-        40050,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1690,
-        90,
-        40950,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1691,
-        91,
-        41860,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1692,
-        92,
-        42780,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1693,
-        93,
-        43710,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1694,
-        94,
-        44650,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1695,
-        95,
-        45600,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1696,
-        96,
-        46560,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1697,
-        97,
-        47530,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1698,
-        98,
-        48510,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1699,
-        99,
-        49500,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ],
-      [
-        1700,
-        100,
-        50500,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            50
-          ]
-        ]
-      ]
+      {
+        "Id": 1601,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 10,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1602,
+        "MissionStageOrder": 2,
+        "StageGoalValue": 30,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1603,
+        "MissionStageOrder": 3,
+        "StageGoalValue": 60,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1604,
+        "MissionStageOrder": 4,
+        "StageGoalValue": 100,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1605,
+        "MissionStageOrder": 5,
+        "StageGoalValue": 150,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1606,
+        "MissionStageOrder": 6,
+        "StageGoalValue": 210,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1607,
+        "MissionStageOrder": 7,
+        "StageGoalValue": 280,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1608,
+        "MissionStageOrder": 8,
+        "StageGoalValue": 360,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1609,
+        "MissionStageOrder": 9,
+        "StageGoalValue": 450,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1610,
+        "MissionStageOrder": 10,
+        "StageGoalValue": 550,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1611,
+        "MissionStageOrder": 11,
+        "StageGoalValue": 660,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1612,
+        "MissionStageOrder": 12,
+        "StageGoalValue": 780,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1613,
+        "MissionStageOrder": 13,
+        "StageGoalValue": 910,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1614,
+        "MissionStageOrder": 14,
+        "StageGoalValue": 1050,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1615,
+        "MissionStageOrder": 15,
+        "StageGoalValue": 1200,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1616,
+        "MissionStageOrder": 16,
+        "StageGoalValue": 1360,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1617,
+        "MissionStageOrder": 17,
+        "StageGoalValue": 1530,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1618,
+        "MissionStageOrder": 18,
+        "StageGoalValue": 1710,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1619,
+        "MissionStageOrder": 19,
+        "StageGoalValue": 1900,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1620,
+        "MissionStageOrder": 20,
+        "StageGoalValue": 2100,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1621,
+        "MissionStageOrder": 21,
+        "StageGoalValue": 2310,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1622,
+        "MissionStageOrder": 22,
+        "StageGoalValue": 2530,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1623,
+        "MissionStageOrder": 23,
+        "StageGoalValue": 2760,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1624,
+        "MissionStageOrder": 24,
+        "StageGoalValue": 3000,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1625,
+        "MissionStageOrder": 25,
+        "StageGoalValue": 3250,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1626,
+        "MissionStageOrder": 26,
+        "StageGoalValue": 3510,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1627,
+        "MissionStageOrder": 27,
+        "StageGoalValue": 3780,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1628,
+        "MissionStageOrder": 28,
+        "StageGoalValue": 4060,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1629,
+        "MissionStageOrder": 29,
+        "StageGoalValue": 4350,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1630,
+        "MissionStageOrder": 30,
+        "StageGoalValue": 4650,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1631,
+        "MissionStageOrder": 31,
+        "StageGoalValue": 4960,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1632,
+        "MissionStageOrder": 32,
+        "StageGoalValue": 5280,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1633,
+        "MissionStageOrder": 33,
+        "StageGoalValue": 5610,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1634,
+        "MissionStageOrder": 34,
+        "StageGoalValue": 5950,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1635,
+        "MissionStageOrder": 35,
+        "StageGoalValue": 6300,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1636,
+        "MissionStageOrder": 36,
+        "StageGoalValue": 6660,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1637,
+        "MissionStageOrder": 37,
+        "StageGoalValue": 7030,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1638,
+        "MissionStageOrder": 38,
+        "StageGoalValue": 7410,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1639,
+        "MissionStageOrder": 39,
+        "StageGoalValue": 7800,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1640,
+        "MissionStageOrder": 40,
+        "StageGoalValue": 8200,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1641,
+        "MissionStageOrder": 41,
+        "StageGoalValue": 8610,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1642,
+        "MissionStageOrder": 42,
+        "StageGoalValue": 9030,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1643,
+        "MissionStageOrder": 43,
+        "StageGoalValue": 9460,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1644,
+        "MissionStageOrder": 44,
+        "StageGoalValue": 9900,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1645,
+        "MissionStageOrder": 45,
+        "StageGoalValue": 10350,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1646,
+        "MissionStageOrder": 46,
+        "StageGoalValue": 10810,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1647,
+        "MissionStageOrder": 47,
+        "StageGoalValue": 11280,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1648,
+        "MissionStageOrder": 48,
+        "StageGoalValue": 11760,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1649,
+        "MissionStageOrder": 49,
+        "StageGoalValue": 12250,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1650,
+        "MissionStageOrder": 50,
+        "StageGoalValue": 12750,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1651,
+        "MissionStageOrder": 51,
+        "StageGoalValue": 13260,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1652,
+        "MissionStageOrder": 52,
+        "StageGoalValue": 13780,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1653,
+        "MissionStageOrder": 53,
+        "StageGoalValue": 14310,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1654,
+        "MissionStageOrder": 54,
+        "StageGoalValue": 14850,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1655,
+        "MissionStageOrder": 55,
+        "StageGoalValue": 15400,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1656,
+        "MissionStageOrder": 56,
+        "StageGoalValue": 15960,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1657,
+        "MissionStageOrder": 57,
+        "StageGoalValue": 16530,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1658,
+        "MissionStageOrder": 58,
+        "StageGoalValue": 17110,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1659,
+        "MissionStageOrder": 59,
+        "StageGoalValue": 17700,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1660,
+        "MissionStageOrder": 60,
+        "StageGoalValue": 18300,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1661,
+        "MissionStageOrder": 61,
+        "StageGoalValue": 18910,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1662,
+        "MissionStageOrder": 62,
+        "StageGoalValue": 19530,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1663,
+        "MissionStageOrder": 63,
+        "StageGoalValue": 20160,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1664,
+        "MissionStageOrder": 64,
+        "StageGoalValue": 20800,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1665,
+        "MissionStageOrder": 65,
+        "StageGoalValue": 21450,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1666,
+        "MissionStageOrder": 66,
+        "StageGoalValue": 22110,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1667,
+        "MissionStageOrder": 67,
+        "StageGoalValue": 22780,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1668,
+        "MissionStageOrder": 68,
+        "StageGoalValue": 23460,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1669,
+        "MissionStageOrder": 69,
+        "StageGoalValue": 24150,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1670,
+        "MissionStageOrder": 70,
+        "StageGoalValue": 24850,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1671,
+        "MissionStageOrder": 71,
+        "StageGoalValue": 25560,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1672,
+        "MissionStageOrder": 72,
+        "StageGoalValue": 26280,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1673,
+        "MissionStageOrder": 73,
+        "StageGoalValue": 27010,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1674,
+        "MissionStageOrder": 74,
+        "StageGoalValue": 27750,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1675,
+        "MissionStageOrder": 75,
+        "StageGoalValue": 28500,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1676,
+        "MissionStageOrder": 76,
+        "StageGoalValue": 29260,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1677,
+        "MissionStageOrder": 77,
+        "StageGoalValue": 30030,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1678,
+        "MissionStageOrder": 78,
+        "StageGoalValue": 30810,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1679,
+        "MissionStageOrder": 79,
+        "StageGoalValue": 31600,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1680,
+        "MissionStageOrder": 80,
+        "StageGoalValue": 32400,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1681,
+        "MissionStageOrder": 81,
+        "StageGoalValue": 33210,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1682,
+        "MissionStageOrder": 82,
+        "StageGoalValue": 34030,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1683,
+        "MissionStageOrder": 83,
+        "StageGoalValue": 34860,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1684,
+        "MissionStageOrder": 84,
+        "StageGoalValue": 35700,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1685,
+        "MissionStageOrder": 85,
+        "StageGoalValue": 36550,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1686,
+        "MissionStageOrder": 86,
+        "StageGoalValue": 37410,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1687,
+        "MissionStageOrder": 87,
+        "StageGoalValue": 38280,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1688,
+        "MissionStageOrder": 88,
+        "StageGoalValue": 39160,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1689,
+        "MissionStageOrder": 89,
+        "StageGoalValue": 40050,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1690,
+        "MissionStageOrder": 90,
+        "StageGoalValue": 40950,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1691,
+        "MissionStageOrder": 91,
+        "StageGoalValue": 41860,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1692,
+        "MissionStageOrder": 92,
+        "StageGoalValue": 42780,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1693,
+        "MissionStageOrder": 93,
+        "StageGoalValue": 43710,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1694,
+        "MissionStageOrder": 94,
+        "StageGoalValue": 44650,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1695,
+        "MissionStageOrder": 95,
+        "StageGoalValue": 45600,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1696,
+        "MissionStageOrder": 96,
+        "StageGoalValue": 46560,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1697,
+        "MissionStageOrder": 97,
+        "StageGoalValue": 47530,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1698,
+        "MissionStageOrder": 98,
+        "StageGoalValue": 48510,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1699,
+        "MissionStageOrder": 99,
+        "StageGoalValue": 49500,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      },
+      {
+        "Id": 1700,
+        "MissionStageOrder": 100,
+        "StageGoalValue": 50500,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 50
+          }
+        ]
+      }
     ]
   },
   {
@@ -4112,136 +4112,136 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        1801,
-        1,
-        300,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            200401,
-            6,
-            1
-          ]
+      {
+        "Id": 1801,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 300,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 200401,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ],
-      [
-        1802,
-        2,
-        500,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            200402,
-            6,
-            1
-          ]
+      },
+      {
+        "Id": 1802,
+        "MissionStageOrder": 2,
+        "StageGoalValue": 500,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 200402,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ],
-      [
-        1803,
-        3,
-        1000,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            200403,
-            6,
-            1
-          ]
+      },
+      {
+        "Id": 1803,
+        "MissionStageOrder": 3,
+        "StageGoalValue": 1000,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 200403,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ],
-      [
-        1804,
-        4,
-        3000,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            200404,
-            6,
-            1
-          ]
+      },
+      {
+        "Id": 1804,
+        "MissionStageOrder": 4,
+        "StageGoalValue": 3000,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 200404,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ],
-      [
-        1805,
-        5,
-        5000,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            200405,
-            6,
-            1
-          ]
+      },
+      {
+        "Id": 1805,
+        "MissionStageOrder": 5,
+        "StageGoalValue": 5000,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 200405,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ],
-      [
-        1806,
-        6,
-        10000,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            200406,
-            6,
-            1
-          ]
+      },
+      {
+        "Id": 1806,
+        "MissionStageOrder": 6,
+        "StageGoalValue": 10000,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 200406,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ],
-      [
-        1807,
-        7,
-        20000,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            200407,
-            6,
-            1
-          ]
+      },
+      {
+        "Id": 1807,
+        "MissionStageOrder": 7,
+        "StageGoalValue": 20000,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 200407,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ],
-      [
-        1808,
-        8,
-        30000,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            200408,
-            6,
-            1
-          ]
+      },
+      {
+        "Id": 1808,
+        "MissionStageOrder": 8,
+        "StageGoalValue": 30000,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 200408,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ],
-      [
-        1809,
-        9,
-        40000,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            200409,
-            6,
-            1
-          ]
+      },
+      {
+        "Id": 1809,
+        "MissionStageOrder": 9,
+        "StageGoalValue": 40000,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 200409,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ],
-      [
-        1810,
-        10,
-        50000,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            200410,
-            6,
-            1
-          ]
+      },
+      {
+        "Id": 1810,
+        "MissionStageOrder": 10,
+        "StageGoalValue": 50000,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 200410,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -4256,19 +4256,19 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        1901,
-        1,
-        100,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            200501,
-            6,
-            1
-          ]
+      {
+        "Id": 1901,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 100,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 200501,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -4283,71 +4283,71 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        2001,
-        1,
-        10,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            200601,
-            6,
-            1
-          ]
+      {
+        "Id": 2001,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 10,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 200601,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ],
-      [
-        2002,
-        2,
-        20,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            200602,
-            6,
-            1
-          ]
+      },
+      {
+        "Id": 2002,
+        "MissionStageOrder": 2,
+        "StageGoalValue": 20,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 200602,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ],
-      [
-        2003,
-        3,
-        30,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            200603,
-            6,
-            1
-          ]
+      },
+      {
+        "Id": 2003,
+        "MissionStageOrder": 3,
+        "StageGoalValue": 30,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 200603,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ],
-      [
-        2004,
-        4,
-        40,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            200604,
-            6,
-            1
-          ]
+      },
+      {
+        "Id": 2004,
+        "MissionStageOrder": 4,
+        "StageGoalValue": 40,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 200604,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ],
-      [
-        2005,
-        5,
-        50,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            200605,
-            6,
-            1
-          ]
+      },
+      {
+        "Id": 2005,
+        "MissionStageOrder": 5,
+        "StageGoalValue": 50,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 200605,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -4362,71 +4362,71 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        2101,
-        1,
-        10,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            200701,
-            6,
-            1
-          ]
+      {
+        "Id": 2101,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 10,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 200701,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ],
-      [
-        2102,
-        2,
-        20,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            200702,
-            6,
-            1
-          ]
+      },
+      {
+        "Id": 2102,
+        "MissionStageOrder": 2,
+        "StageGoalValue": 20,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 200702,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ],
-      [
-        2103,
-        3,
-        30,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            200703,
-            6,
-            1
-          ]
+      },
+      {
+        "Id": 2103,
+        "MissionStageOrder": 3,
+        "StageGoalValue": 30,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 200703,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ],
-      [
-        2104,
-        4,
-        40,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            200704,
-            6,
-            1
-          ]
+      },
+      {
+        "Id": 2104,
+        "MissionStageOrder": 4,
+        "StageGoalValue": 40,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 200704,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ],
-      [
-        2105,
-        5,
-        50,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            200705,
-            6,
-            1
-          ]
+      },
+      {
+        "Id": 2105,
+        "MissionStageOrder": 5,
+        "StageGoalValue": 50,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 200705,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -4441,71 +4441,71 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        2201,
-        1,
-        10,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            200801,
-            6,
-            1
-          ]
+      {
+        "Id": 2201,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 10,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 200801,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ],
-      [
-        2202,
-        2,
-        20,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            200802,
-            6,
-            1
-          ]
+      },
+      {
+        "Id": 2202,
+        "MissionStageOrder": 2,
+        "StageGoalValue": 20,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 200802,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ],
-      [
-        2203,
-        3,
-        30,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            200803,
-            6,
-            1
-          ]
+      },
+      {
+        "Id": 2203,
+        "MissionStageOrder": 3,
+        "StageGoalValue": 30,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 200803,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ],
-      [
-        2204,
-        4,
-        40,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            200804,
-            6,
-            1
-          ]
+      },
+      {
+        "Id": 2204,
+        "MissionStageOrder": 4,
+        "StageGoalValue": 40,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 200804,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ],
-      [
-        2205,
-        5,
-        50,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            200805,
-            6,
-            1
-          ]
+      },
+      {
+        "Id": 2205,
+        "MissionStageOrder": 5,
+        "StageGoalValue": 50,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 200805,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -4520,71 +4520,71 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        2301,
-        1,
-        10,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            200901,
-            6,
-            1
-          ]
+      {
+        "Id": 2301,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 10,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 200901,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ],
-      [
-        2302,
-        2,
-        20,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            200902,
-            6,
-            1
-          ]
+      },
+      {
+        "Id": 2302,
+        "MissionStageOrder": 2,
+        "StageGoalValue": 20,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 200902,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ],
-      [
-        2303,
-        3,
-        30,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            200903,
-            6,
-            1
-          ]
+      },
+      {
+        "Id": 2303,
+        "MissionStageOrder": 3,
+        "StageGoalValue": 30,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 200903,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ],
-      [
-        2304,
-        4,
-        40,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            200904,
-            6,
-            1
-          ]
+      },
+      {
+        "Id": 2304,
+        "MissionStageOrder": 4,
+        "StageGoalValue": 40,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 200904,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ],
-      [
-        2305,
-        5,
-        50,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            200905,
-            6,
-            1
-          ]
+      },
+      {
+        "Id": 2305,
+        "MissionStageOrder": 5,
+        "StageGoalValue": 50,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 200905,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -4599,19 +4599,19 @@
     "StartDate": "2023-07-29T17:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        2401,
-        1,
-        20,
-        "2023-07-29T17:00:00.000Z",
-        [
-          [
-            201001,
-            6,
-            1
-          ]
+      {
+        "Id": 2401,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 20,
+        "StartDate": "2023-07-29T17:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 201001,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -4626,19 +4626,19 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        2501,
-        1,
-        20,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            201101,
-            6,
-            1
-          ]
+      {
+        "Id": 2501,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 20,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 201101,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -4653,19 +4653,19 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        2601,
-        1,
-        20,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            201201,
-            6,
-            1
-          ]
+      {
+        "Id": 2601,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 20,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 201201,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -4680,19 +4680,19 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        2701,
-        1,
-        20,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            201301,
-            6,
-            1
-          ]
+      {
+        "Id": 2701,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 20,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 201301,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -4707,19 +4707,19 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        2801,
-        1,
-        100000000,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            201401,
-            6,
-            1
-          ]
+      {
+        "Id": 2801,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 100000000,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 201401,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -4734,19 +4734,19 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        2901,
-        1,
-        300,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            201501,
-            6,
-            1
-          ]
+      {
+        "Id": 2901,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 300,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 201501,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -4761,19 +4761,19 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        3001,
-        1,
-        1,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            300
-          ]
+      {
+        "Id": 3001,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 1,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 300
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -4788,19 +4788,19 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        3101,
-        1,
-        10,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            201601,
-            6,
-            1
-          ]
+      {
+        "Id": 3101,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 10,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 201601,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -4815,136 +4815,136 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        3201,
-        1,
-        10000,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            201701,
-            6,
-            1
-          ]
+      {
+        "Id": 3201,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 10000,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 201701,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ],
-      [
-        3202,
-        2,
-        30000,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            201702,
-            6,
-            1
-          ]
+      },
+      {
+        "Id": 3202,
+        "MissionStageOrder": 2,
+        "StageGoalValue": 30000,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 201702,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ],
-      [
-        3203,
-        3,
-        60000,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            201703,
-            6,
-            1
-          ]
+      },
+      {
+        "Id": 3203,
+        "MissionStageOrder": 3,
+        "StageGoalValue": 60000,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 201703,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ],
-      [
-        3204,
-        4,
-        100000,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            201704,
-            6,
-            1
-          ]
+      },
+      {
+        "Id": 3204,
+        "MissionStageOrder": 4,
+        "StageGoalValue": 100000,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 201704,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ],
-      [
-        3205,
-        5,
-        200000,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            201705,
-            6,
-            1
-          ]
+      },
+      {
+        "Id": 3205,
+        "MissionStageOrder": 5,
+        "StageGoalValue": 200000,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 201705,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ],
-      [
-        3206,
-        6,
-        500000,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            201706,
-            6,
-            1
-          ]
+      },
+      {
+        "Id": 3206,
+        "MissionStageOrder": 6,
+        "StageGoalValue": 500000,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 201706,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ],
-      [
-        3207,
-        7,
-        1000000,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            201707,
-            6,
-            1
-          ]
+      },
+      {
+        "Id": 3207,
+        "MissionStageOrder": 7,
+        "StageGoalValue": 1000000,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 201707,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ],
-      [
-        3208,
-        8,
-        2500000,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            201708,
-            6,
-            1
-          ]
+      },
+      {
+        "Id": 3208,
+        "MissionStageOrder": 8,
+        "StageGoalValue": 2500000,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 201708,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ],
-      [
-        3209,
-        9,
-        5000000,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            201709,
-            6,
-            1
-          ]
+      },
+      {
+        "Id": 3209,
+        "MissionStageOrder": 9,
+        "StageGoalValue": 5000000,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 201709,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ],
-      [
-        3210,
-        10,
-        10000000,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            201710,
-            6,
-            1
-          ]
+      },
+      {
+        "Id": 3210,
+        "MissionStageOrder": 10,
+        "StageGoalValue": 10000000,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 201710,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -4959,19 +4959,19 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        3301,
-        1,
-        1,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            201801,
-            6,
-            1
-          ]
+      {
+        "Id": 3301,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 1,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 201801,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -4986,19 +4986,19 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        3401,
-        1,
-        100,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            201901,
-            6,
-            1
-          ]
+      {
+        "Id": 3401,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 100,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 201901,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -5013,19 +5013,19 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        3501,
-        1,
-        1,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            202001,
-            6,
-            1
-          ]
+      {
+        "Id": 3501,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 1,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 202001,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -5040,136 +5040,136 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        3601,
-        1,
-        30000,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            202101,
-            6,
-            1
-          ]
+      {
+        "Id": 3601,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 30000,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 202101,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ],
-      [
-        3602,
-        2,
-        100000,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            202102,
-            6,
-            1
-          ]
+      },
+      {
+        "Id": 3602,
+        "MissionStageOrder": 2,
+        "StageGoalValue": 100000,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 202102,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ],
-      [
-        3603,
-        3,
-        500000,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            202103,
-            6,
-            1
-          ]
+      },
+      {
+        "Id": 3603,
+        "MissionStageOrder": 3,
+        "StageGoalValue": 500000,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 202103,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ],
-      [
-        3604,
-        4,
-        1000000,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            202104,
-            6,
-            1
-          ]
+      },
+      {
+        "Id": 3604,
+        "MissionStageOrder": 4,
+        "StageGoalValue": 1000000,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 202104,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ],
-      [
-        3605,
-        5,
-        5000000,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            202105,
-            6,
-            1
-          ]
+      },
+      {
+        "Id": 3605,
+        "MissionStageOrder": 5,
+        "StageGoalValue": 5000000,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 202105,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ],
-      [
-        3606,
-        6,
-        10000000,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            202106,
-            6,
-            1
-          ]
+      },
+      {
+        "Id": 3606,
+        "MissionStageOrder": 6,
+        "StageGoalValue": 10000000,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 202106,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ],
-      [
-        3607,
-        7,
-        20000000,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            202107,
-            6,
-            1
-          ]
+      },
+      {
+        "Id": 3607,
+        "MissionStageOrder": 7,
+        "StageGoalValue": 20000000,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 202107,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ],
-      [
-        3608,
-        8,
-        30000000,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            202108,
-            6,
-            1
-          ]
+      },
+      {
+        "Id": 3608,
+        "MissionStageOrder": 8,
+        "StageGoalValue": 30000000,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 202108,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ],
-      [
-        3609,
-        9,
-        40000000,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            202109,
-            6,
-            1
-          ]
+      },
+      {
+        "Id": 3609,
+        "MissionStageOrder": 9,
+        "StageGoalValue": 40000000,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 202109,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ],
-      [
-        3610,
-        10,
-        50000000,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            202110,
-            6,
-            1
-          ]
+      },
+      {
+        "Id": 3610,
+        "MissionStageOrder": 10,
+        "StageGoalValue": 50000000,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 202110,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -5184,19 +5184,19 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        3701,
-        1,
-        1,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            202201,
-            6,
-            1
-          ]
+      {
+        "Id": 3701,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 1,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 202201,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -5211,19 +5211,19 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        3801,
-        1,
-        1,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            202301,
-            6,
-            1
-          ]
+      {
+        "Id": 3801,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 1,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 202301,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -5238,71 +5238,71 @@
     "StartDate": "2023-08-09T17:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        3901,
-        1,
-        1,
-        "2023-08-09T17:00:00.000Z",
-        [
-          [
-            202401,
-            6,
-            1
-          ]
+      {
+        "Id": 3901,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 1,
+        "StartDate": "2023-08-09T17:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 202401,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ],
-      [
-        3902,
-        2,
-        3,
-        "2023-08-09T17:00:00.000Z",
-        [
-          [
-            202402,
-            6,
-            1
-          ]
+      },
+      {
+        "Id": 3902,
+        "MissionStageOrder": 2,
+        "StageGoalValue": 3,
+        "StartDate": "2023-08-09T17:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 202402,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ],
-      [
-        3903,
-        3,
-        6,
-        "2023-08-09T17:00:00.000Z",
-        [
-          [
-            202403,
-            6,
-            1
-          ]
+      },
+      {
+        "Id": 3903,
+        "MissionStageOrder": 3,
+        "StageGoalValue": 6,
+        "StartDate": "2023-08-09T17:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 202403,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ],
-      [
-        3904,
-        4,
-        10,
-        "2023-08-09T17:00:00.000Z",
-        [
-          [
-            202404,
-            6,
-            1
-          ]
+      },
+      {
+        "Id": 3904,
+        "MissionStageOrder": 4,
+        "StageGoalValue": 10,
+        "StartDate": "2023-08-09T17:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 202404,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ],
-      [
-        3905,
-        5,
-        20,
-        "2023-08-09T17:00:00.000Z",
-        [
-          [
-            202405,
-            6,
-            1
-          ]
+      },
+      {
+        "Id": 3905,
+        "MissionStageOrder": 5,
+        "StageGoalValue": 20,
+        "StartDate": "2023-08-09T17:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 202405,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -5317,19 +5317,19 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        4001,
-        1,
-        10,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            202501,
-            6,
-            1
-          ]
+      {
+        "Id": 4001,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 10,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 202501,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -5344,71 +5344,71 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        4101,
-        1,
-        5,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            203001,
-            6,
-            1
-          ]
+      {
+        "Id": 4101,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 5,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 203001,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ],
-      [
-        4102,
-        2,
-        10,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            203002,
-            6,
-            1
-          ]
+      },
+      {
+        "Id": 4102,
+        "MissionStageOrder": 2,
+        "StageGoalValue": 10,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 203002,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ],
-      [
-        4103,
-        3,
-        15,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            203003,
-            6,
-            1
-          ]
+      },
+      {
+        "Id": 4103,
+        "MissionStageOrder": 3,
+        "StageGoalValue": 15,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 203003,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ],
-      [
-        4104,
-        4,
-        20,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            203004,
-            6,
-            1
-          ]
+      },
+      {
+        "Id": 4104,
+        "MissionStageOrder": 4,
+        "StageGoalValue": 20,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 203004,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ],
-      [
-        4105,
-        5,
-        25,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            203005,
-            6,
-            1
-          ]
+      },
+      {
+        "Id": 4105,
+        "MissionStageOrder": 5,
+        "StageGoalValue": 25,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 203005,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -5423,19 +5423,19 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        4201,
-        1,
-        10,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            202601,
-            6,
-            1
-          ]
+      {
+        "Id": 4201,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 10,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 202601,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -5450,19 +5450,19 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        4301,
-        1,
-        30,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            202701,
-            6,
-            1
-          ]
+      {
+        "Id": 4301,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 30,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 202701,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -5477,19 +5477,19 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
     "Stages": [
-      [
-        4501,
-        1,
-        100,
-        "2023-01-01T00:00:00.000Z",
-        [
-          [
-            202901,
-            6,
-            1
-          ]
+      {
+        "Id": 4501,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 100,
+        "StartDate": "2023-01-01T00:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 202901,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -5504,19 +5504,19 @@
     "StartDate": "2023-07-29T17:00:00.000Z",
     "EndDate": "2023-09-01T05:00:00.000Z",
     "Stages": [
-      [
-        10101,
-        1,
-        1,
-        "2023-07-29T17:00:00.000Z",
-        [
-          [
-            130041,
-            1,
-            1000
-          ]
+      {
+        "Id": 10101,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 1,
+        "StartDate": "2023-07-29T17:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 130041,
+            "ThingType": 1,
+            "ThingQuantity": 1000
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -5531,19 +5531,19 @@
     "StartDate": "2023-07-29T17:00:00.000Z",
     "EndDate": "2023-09-01T05:00:00.000Z",
     "Stages": [
-      [
-        10201,
-        1,
-        2,
-        "2023-07-29T17:00:00.000Z",
-        [
-          [
-            130061,
-            1,
-            300
-          ]
+      {
+        "Id": 10201,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 2,
+        "StartDate": "2023-07-29T17:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 130061,
+            "ThingType": 1,
+            "ThingQuantity": 300
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -5558,19 +5558,19 @@
     "StartDate": "2023-07-29T17:00:00.000Z",
     "EndDate": "2023-09-01T05:00:00.000Z",
     "Stages": [
-      [
-        10301,
-        1,
-        3,
-        "2023-07-29T17:00:00.000Z",
-        [
-          [
-            510001,
-            1,
-            3
-          ]
+      {
+        "Id": 10301,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 3,
+        "StartDate": "2023-07-29T17:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 510001,
+            "ThingType": 1,
+            "ThingQuantity": 3
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -5585,19 +5585,19 @@
     "StartDate": "2023-07-29T17:00:00.000Z",
     "EndDate": "2023-09-01T05:00:00.000Z",
     "Stages": [
-      [
-        10401,
-        1,
-        4,
-        "2023-07-29T17:00:00.000Z",
-        [
-          [
-            130091,
-            1,
-            15
-          ]
+      {
+        "Id": 10401,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 4,
+        "StartDate": "2023-07-29T17:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 130091,
+            "ThingType": 1,
+            "ThingQuantity": 15
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -5612,19 +5612,19 @@
     "StartDate": "2023-07-29T17:00:00.000Z",
     "EndDate": "2023-09-01T05:00:00.000Z",
     "Stages": [
-      [
-        10501,
-        1,
-        5,
-        "2023-07-29T17:00:00.000Z",
-        [
-          [
-            211001,
-            1,
-            5
-          ]
+      {
+        "Id": 10501,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 5,
+        "StartDate": "2023-07-29T17:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 211001,
+            "ThingType": 1,
+            "ThingQuantity": 5
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -5639,19 +5639,19 @@
     "StartDate": "2023-07-29T17:00:00.000Z",
     "EndDate": "2023-09-01T05:00:00.000Z",
     "Stages": [
-      [
-        10601,
-        1,
-        6,
-        "2023-07-29T17:00:00.000Z",
-        [
-          [
-            130042,
-            1,
-            150
-          ]
+      {
+        "Id": 10601,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 6,
+        "StartDate": "2023-07-29T17:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 130042,
+            "ThingType": 1,
+            "ThingQuantity": 150
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -5666,19 +5666,19 @@
     "StartDate": "2023-07-29T17:00:00.000Z",
     "EndDate": "2023-09-01T05:00:00.000Z",
     "Stages": [
-      [
-        10701,
-        1,
-        7,
-        "2023-07-29T17:00:00.000Z",
-        [
-          [
-            130062,
-            1,
-            200
-          ]
+      {
+        "Id": 10701,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 7,
+        "StartDate": "2023-07-29T17:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 130062,
+            "ThingType": 1,
+            "ThingQuantity": 200
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -5693,19 +5693,19 @@
     "StartDate": "2023-07-29T17:00:00.000Z",
     "EndDate": "2023-09-01T05:00:00.000Z",
     "Stages": [
-      [
-        10801,
-        1,
-        8,
-        "2023-07-29T17:00:00.000Z",
-        [
-          [
-            510002,
-            1,
-            3
-          ]
+      {
+        "Id": 10801,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 8,
+        "StartDate": "2023-07-29T17:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 510002,
+            "ThingType": 1,
+            "ThingQuantity": 3
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -5720,19 +5720,19 @@
     "StartDate": "2023-07-29T17:00:00.000Z",
     "EndDate": "2023-09-01T05:00:00.000Z",
     "Stages": [
-      [
-        10901,
-        1,
-        9,
-        "2023-07-29T17:00:00.000Z",
-        [
-          [
-            130091,
-            1,
-            15
-          ]
+      {
+        "Id": 10901,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 9,
+        "StartDate": "2023-07-29T17:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 130091,
+            "ThingType": 1,
+            "ThingQuantity": 15
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -5747,19 +5747,19 @@
     "StartDate": "2023-07-29T17:00:00.000Z",
     "EndDate": "2023-09-01T05:00:00.000Z",
     "Stages": [
-      [
-        11001,
-        1,
-        10,
-        "2023-07-29T17:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            1000
-          ]
+      {
+        "Id": 11001,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 10,
+        "StartDate": "2023-07-29T17:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 1000
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -5774,19 +5774,19 @@
     "StartDate": "2023-07-29T17:00:00.000Z",
     "EndDate": "2023-09-01T05:00:00.000Z",
     "Stages": [
-      [
-        11101,
-        1,
-        11,
-        "2023-07-29T17:00:00.000Z",
-        [
-          [
-            130042,
-            1,
-            150
-          ]
+      {
+        "Id": 11101,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 11,
+        "StartDate": "2023-07-29T17:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 130042,
+            "ThingType": 1,
+            "ThingQuantity": 150
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -5801,19 +5801,19 @@
     "StartDate": "2023-07-29T17:00:00.000Z",
     "EndDate": "2023-09-01T05:00:00.000Z",
     "Stages": [
-      [
-        11201,
-        1,
-        12,
-        "2023-07-29T17:00:00.000Z",
-        [
-          [
-            130063,
-            1,
-            200
-          ]
+      {
+        "Id": 11201,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 12,
+        "StartDate": "2023-07-29T17:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 130063,
+            "ThingType": 1,
+            "ThingQuantity": 200
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -5828,19 +5828,19 @@
     "StartDate": "2023-07-29T17:00:00.000Z",
     "EndDate": "2023-09-01T05:00:00.000Z",
     "Stages": [
-      [
-        11301,
-        1,
-        13,
-        "2023-07-29T17:00:00.000Z",
-        [
-          [
-            510003,
-            1,
-            3
-          ]
+      {
+        "Id": 11301,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 13,
+        "StartDate": "2023-07-29T17:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 510003,
+            "ThingType": 1,
+            "ThingQuantity": 3
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -5855,19 +5855,19 @@
     "StartDate": "2023-07-29T17:00:00.000Z",
     "EndDate": "2023-09-01T05:00:00.000Z",
     "Stages": [
-      [
-        11401,
-        1,
-        14,
-        "2023-07-29T17:00:00.000Z",
-        [
-          [
-            130091,
-            1,
-            15
-          ]
+      {
+        "Id": 11401,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 14,
+        "StartDate": "2023-07-29T17:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 130091,
+            "ThingType": 1,
+            "ThingQuantity": 15
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -5882,19 +5882,19 @@
     "StartDate": "2023-07-29T17:00:00.000Z",
     "EndDate": "2023-09-01T05:00:00.000Z",
     "Stages": [
-      [
-        11501,
-        1,
-        15,
-        "2023-07-29T17:00:00.000Z",
-        [
-          [
-            211001,
-            1,
-            5
-          ]
+      {
+        "Id": 11501,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 15,
+        "StartDate": "2023-07-29T17:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 211001,
+            "ThingType": 1,
+            "ThingQuantity": 5
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -5909,19 +5909,19 @@
     "StartDate": "2023-07-29T17:00:00.000Z",
     "EndDate": "2023-09-01T05:00:00.000Z",
     "Stages": [
-      [
-        11601,
-        1,
-        16,
-        "2023-07-29T17:00:00.000Z",
-        [
-          [
-            130043,
-            1,
-            150
-          ]
+      {
+        "Id": 11601,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 16,
+        "StartDate": "2023-07-29T17:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 130043,
+            "ThingType": 1,
+            "ThingQuantity": 150
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -5936,19 +5936,19 @@
     "StartDate": "2023-07-29T17:00:00.000Z",
     "EndDate": "2023-09-01T05:00:00.000Z",
     "Stages": [
-      [
-        11701,
-        1,
-        17,
-        "2023-07-29T17:00:00.000Z",
-        [
-          [
-            140000,
-            1,
-            300
-          ]
+      {
+        "Id": 11701,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 17,
+        "StartDate": "2023-07-29T17:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 140000,
+            "ThingType": 1,
+            "ThingQuantity": 300
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -5963,19 +5963,19 @@
     "StartDate": "2023-07-29T17:00:00.000Z",
     "EndDate": "2023-09-01T05:00:00.000Z",
     "Stages": [
-      [
-        11801,
-        1,
-        18,
-        "2023-07-29T17:00:00.000Z",
-        [
-          [
-            510004,
-            1,
-            3
-          ]
+      {
+        "Id": 11801,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 18,
+        "StartDate": "2023-07-29T17:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 510004,
+            "ThingType": 1,
+            "ThingQuantity": 3
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -5990,19 +5990,19 @@
     "StartDate": "2023-07-29T17:00:00.000Z",
     "EndDate": "2023-09-01T05:00:00.000Z",
     "Stages": [
-      [
-        11901,
-        1,
-        19,
-        "2023-07-29T17:00:00.000Z",
-        [
-          [
-            130091,
-            1,
-            15
-          ]
+      {
+        "Id": 11901,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 19,
+        "StartDate": "2023-07-29T17:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 130091,
+            "ThingType": 1,
+            "ThingQuantity": 15
+          }
         ]
-      ]
+      }
     ]
   },
   {
@@ -6017,19 +6017,19 @@
     "StartDate": "2023-07-29T17:00:00.000Z",
     "EndDate": "2023-09-01T05:00:00.000Z",
     "Stages": [
-      [
-        12001,
-        1,
-        20,
-        "2023-07-29T17:00:00.000Z",
-        [
-          [
-            0,
-            13,
-            2000
-          ]
+      {
+        "Id": 12001,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 20,
+        "StartDate": "2023-07-29T17:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": 13,
+            "ThingQuantity": 2000
+          }
         ]
-      ]
+      }
     ]
   }
 ]

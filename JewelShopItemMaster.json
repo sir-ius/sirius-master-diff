@@ -26,13 +26,13 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
     "Lineup": [
-      [
-        10101,
-        101,
-        0,
-        13,
-        120
-      ]
+      {
+        "Id": 10101,
+        "MJewelShopItemId": 101,
+        "ThingId": 0,
+        "ThingType": 13,
+        "ThingQuantity": 120
+      }
     ],
     "ShopItemType": 0,
     "ShopItemValue": null
@@ -64,13 +64,13 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
     "Lineup": [
-      [
-        10201,
-        102,
-        0,
-        13,
-        480
-      ]
+      {
+        "Id": 10201,
+        "MJewelShopItemId": 102,
+        "ThingId": 0,
+        "ThingType": 13,
+        "ThingQuantity": 480
+      }
     ],
     "ShopItemType": 0,
     "ShopItemValue": null
@@ -102,13 +102,13 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
     "Lineup": [
-      [
-        10301,
-        103,
-        0,
-        13,
-        1000
-      ]
+      {
+        "Id": 10301,
+        "MJewelShopItemId": 103,
+        "ThingId": 0,
+        "ThingType": 13,
+        "ThingQuantity": 1000
+      }
     ],
     "ShopItemType": 0,
     "ShopItemValue": null
@@ -140,13 +140,13 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
     "Lineup": [
-      [
-        10401,
-        104,
-        0,
-        13,
-        2000
-      ]
+      {
+        "Id": 10401,
+        "MJewelShopItemId": 104,
+        "ThingId": 0,
+        "ThingType": 13,
+        "ThingQuantity": 2000
+      }
     ],
     "ShopItemType": 0,
     "ShopItemValue": null
@@ -178,13 +178,13 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
     "Lineup": [
-      [
-        10501,
-        105,
-        0,
-        13,
-        3000
-      ]
+      {
+        "Id": 10501,
+        "MJewelShopItemId": 105,
+        "ThingId": 0,
+        "ThingType": 13,
+        "ThingQuantity": 3000
+      }
     ],
     "ShopItemType": 0,
     "ShopItemValue": null
@@ -216,13 +216,13 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
     "Lineup": [
-      [
-        10601,
-        106,
-        0,
-        13,
-        4800
-      ]
+      {
+        "Id": 10601,
+        "MJewelShopItemId": 106,
+        "ThingId": 0,
+        "ThingType": 13,
+        "ThingQuantity": 4800
+      }
     ],
     "ShopItemType": 0,
     "ShopItemValue": null
@@ -254,13 +254,13 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
     "Lineup": [
-      [
-        10701,
-        107,
-        0,
-        13,
-        9800
-      ]
+      {
+        "Id": 10701,
+        "MJewelShopItemId": 107,
+        "ThingId": 0,
+        "ThingType": 13,
+        "ThingQuantity": 9800
+      }
     ],
     "ShopItemType": 0,
     "ShopItemValue": null
@@ -322,13 +322,13 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
     "Lineup": [
-      [
-        11201,
-        112,
-        0,
-        13,
-        10
-      ]
+      {
+        "Id": 11201,
+        "MJewelShopItemId": 112,
+        "ThingId": 0,
+        "ThingType": 13,
+        "ThingQuantity": 10
+      }
     ],
     "ShopItemType": 0,
     "ShopItemValue": null
@@ -360,13 +360,13 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
     "Lineup": [
-      [
-        11301,
-        113,
-        0,
-        13,
-        30
-      ]
+      {
+        "Id": 11301,
+        "MJewelShopItemId": 113,
+        "ThingId": 0,
+        "ThingType": 13,
+        "ThingQuantity": 30
+      }
     ],
     "ShopItemType": 0,
     "ShopItemValue": null
@@ -398,13 +398,13 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
     "Lineup": [
-      [
-        11401,
-        114,
-        0,
-        13,
-        70
-      ]
+      {
+        "Id": 11401,
+        "MJewelShopItemId": 114,
+        "ThingId": 0,
+        "ThingType": 13,
+        "ThingQuantity": 70
+      }
     ],
     "ShopItemType": 0,
     "ShopItemValue": null
@@ -436,13 +436,13 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
     "Lineup": [
-      [
-        11501,
-        115,
-        0,
-        13,
-        120
-      ]
+      {
+        "Id": 11501,
+        "MJewelShopItemId": 115,
+        "ThingId": 0,
+        "ThingType": 13,
+        "ThingQuantity": 120
+      }
     ],
     "ShopItemType": 0,
     "ShopItemValue": null
@@ -474,13 +474,13 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
     "Lineup": [
-      [
-        11601,
-        116,
-        0,
-        13,
-        220
-      ]
+      {
+        "Id": 11601,
+        "MJewelShopItemId": 116,
+        "ThingId": 0,
+        "ThingType": 13,
+        "ThingQuantity": 220
+      }
     ],
     "ShopItemType": 0,
     "ShopItemValue": null
@@ -512,13 +512,13 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
     "Lineup": [
-      [
-        11701,
-        117,
-        0,
-        13,
-        500
-      ]
+      {
+        "Id": 11701,
+        "MJewelShopItemId": 117,
+        "ThingId": 0,
+        "ThingType": 13,
+        "ThingQuantity": 500
+      }
     ],
     "ShopItemType": 0,
     "ShopItemValue": null
@@ -550,13 +550,13 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
     "Lineup": [
-      [
-        20101,
-        201,
-        0,
-        13,
-        4900
-      ]
+      {
+        "Id": 20101,
+        "MJewelShopItemId": 201,
+        "ThingId": 0,
+        "ThingType": 13,
+        "ThingQuantity": 4900
+      }
     ],
     "ShopItemType": 0,
     "ShopItemValue": null
@@ -678,41 +678,41 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
     "Lineup": [
-      [
-        400101,
-        4001,
-        144001,
-        1,
-        500
-      ],
-      [
-        400102,
-        4001,
-        120002,
-        1,
-        300
-      ],
-      [
-        400103,
-        4001,
-        130041,
-        1,
-        180
-      ],
-      [
-        400104,
-        4001,
-        130042,
-        1,
-        130
-      ],
-      [
-        400105,
-        4001,
-        130043,
-        1,
-        30
-      ]
+      {
+        "Id": 400101,
+        "MJewelShopItemId": 4001,
+        "ThingId": 144001,
+        "ThingType": 1,
+        "ThingQuantity": 500
+      },
+      {
+        "Id": 400102,
+        "MJewelShopItemId": 4001,
+        "ThingId": 120002,
+        "ThingType": 1,
+        "ThingQuantity": 300
+      },
+      {
+        "Id": 400103,
+        "MJewelShopItemId": 4001,
+        "ThingId": 130041,
+        "ThingType": 1,
+        "ThingQuantity": 180
+      },
+      {
+        "Id": 400104,
+        "MJewelShopItemId": 4001,
+        "ThingId": 130042,
+        "ThingType": 1,
+        "ThingQuantity": 130
+      },
+      {
+        "Id": 400105,
+        "MJewelShopItemId": 4001,
+        "ThingId": 130043,
+        "ThingType": 1,
+        "ThingQuantity": 30
+      }
     ],
     "ShopItemType": 0,
     "ShopItemValue": null
@@ -744,20 +744,20 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
     "Lineup": [
-      [
-        400201,
-        4002,
-        120002,
-        1,
-        500
-      ],
-      [
-        400202,
-        4002,
-        130051,
-        1,
-        5
-      ]
+      {
+        "Id": 400201,
+        "MJewelShopItemId": 4002,
+        "ThingId": 120002,
+        "ThingType": 1,
+        "ThingQuantity": 500
+      },
+      {
+        "Id": 400202,
+        "MJewelShopItemId": 4002,
+        "ThingId": 130051,
+        "ThingType": 1,
+        "ThingQuantity": 5
+      }
     ],
     "ShopItemType": 0,
     "ShopItemValue": null
@@ -789,20 +789,20 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
     "Lineup": [
-      [
-        400301,
-        4003,
-        210002,
-        1,
-        1
-      ],
-      [
-        400302,
-        4003,
-        210201,
-        1,
-        1
-      ]
+      {
+        "Id": 400301,
+        "MJewelShopItemId": 4003,
+        "ThingId": 210002,
+        "ThingType": 1,
+        "ThingQuantity": 1
+      },
+      {
+        "Id": 400302,
+        "MJewelShopItemId": 4003,
+        "ThingId": 210201,
+        "ThingType": 1,
+        "ThingQuantity": 1
+      }
     ],
     "ShopItemType": 0,
     "ShopItemValue": null
@@ -834,20 +834,20 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
     "Lineup": [
-      [
-        400401,
-        4004,
-        210002,
-        1,
-        1
-      ],
-      [
-        400402,
-        4004,
-        210202,
-        1,
-        1
-      ]
+      {
+        "Id": 400401,
+        "MJewelShopItemId": 4004,
+        "ThingId": 210002,
+        "ThingType": 1,
+        "ThingQuantity": 1
+      },
+      {
+        "Id": 400402,
+        "MJewelShopItemId": 4004,
+        "ThingId": 210202,
+        "ThingType": 1,
+        "ThingQuantity": 1
+      }
     ],
     "ShopItemType": 0,
     "ShopItemValue": null
@@ -879,20 +879,20 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
     "Lineup": [
-      [
-        400501,
-        4005,
-        211002,
-        1,
-        1
-      ],
-      [
-        400502,
-        4005,
-        211202,
-        1,
-        1
-      ]
+      {
+        "Id": 400501,
+        "MJewelShopItemId": 4005,
+        "ThingId": 211002,
+        "ThingType": 1,
+        "ThingQuantity": 1
+      },
+      {
+        "Id": 400502,
+        "MJewelShopItemId": 4005,
+        "ThingId": 211202,
+        "ThingType": 1,
+        "ThingQuantity": 1
+      }
     ],
     "ShopItemType": 0,
     "ShopItemValue": null
@@ -924,34 +924,34 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
     "Lineup": [
-      [
-        400601,
-        4006,
-        210002,
-        1,
-        1
-      ],
-      [
-        400602,
-        4006,
-        210202,
-        1,
-        1
-      ],
-      [
-        400603,
-        4006,
-        211002,
-        1,
-        1
-      ],
-      [
-        400604,
-        4006,
-        211202,
-        1,
-        1
-      ]
+      {
+        "Id": 400601,
+        "MJewelShopItemId": 4006,
+        "ThingId": 210002,
+        "ThingType": 1,
+        "ThingQuantity": 1
+      },
+      {
+        "Id": 400602,
+        "MJewelShopItemId": 4006,
+        "ThingId": 210202,
+        "ThingType": 1,
+        "ThingQuantity": 1
+      },
+      {
+        "Id": 400603,
+        "MJewelShopItemId": 4006,
+        "ThingId": 211002,
+        "ThingType": 1,
+        "ThingQuantity": 1
+      },
+      {
+        "Id": 400604,
+        "MJewelShopItemId": 4006,
+        "ThingId": 211202,
+        "ThingType": 1,
+        "ThingQuantity": 1
+      }
     ],
     "ShopItemType": 0,
     "ShopItemValue": null
@@ -983,20 +983,20 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
     "Lineup": [
-      [
-        410101,
-        4101,
-        0,
-        15,
-        60
-      ],
-      [
-        410102,
-        4101,
-        0,
-        12,
-        10000
-      ]
+      {
+        "Id": 410101,
+        "MJewelShopItemId": 4101,
+        "ThingId": 0,
+        "ThingType": 15,
+        "ThingQuantity": 60
+      },
+      {
+        "Id": 410102,
+        "MJewelShopItemId": 4101,
+        "ThingId": 0,
+        "ThingType": 12,
+        "ThingQuantity": 10000
+      }
     ],
     "ShopItemType": 0,
     "ShopItemValue": null
@@ -1028,48 +1028,48 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
     "Lineup": [
-      [
-        410201,
-        4102,
-        210001,
-        1,
-        6
-      ],
-      [
-        410202,
-        4102,
-        120002,
-        1,
-        500
-      ],
-      [
-        410203,
-        4102,
-        130051,
-        1,
-        10
-      ],
-      [
-        410204,
-        4102,
-        130041,
-        1,
-        100
-      ],
-      [
-        410205,
-        4102,
-        130042,
-        1,
-        100
-      ],
-      [
-        410206,
-        4102,
-        130043,
-        1,
-        100
-      ]
+      {
+        "Id": 410201,
+        "MJewelShopItemId": 4102,
+        "ThingId": 210001,
+        "ThingType": 1,
+        "ThingQuantity": 6
+      },
+      {
+        "Id": 410202,
+        "MJewelShopItemId": 4102,
+        "ThingId": 120002,
+        "ThingType": 1,
+        "ThingQuantity": 500
+      },
+      {
+        "Id": 410203,
+        "MJewelShopItemId": 4102,
+        "ThingId": 130051,
+        "ThingType": 1,
+        "ThingQuantity": 10
+      },
+      {
+        "Id": 410204,
+        "MJewelShopItemId": 4102,
+        "ThingId": 130041,
+        "ThingType": 1,
+        "ThingQuantity": 100
+      },
+      {
+        "Id": 410205,
+        "MJewelShopItemId": 4102,
+        "ThingId": 130042,
+        "ThingType": 1,
+        "ThingQuantity": 100
+      },
+      {
+        "Id": 410206,
+        "MJewelShopItemId": 4102,
+        "ThingId": 130043,
+        "ThingType": 1,
+        "ThingQuantity": 100
+      }
     ],
     "ShopItemType": 0,
     "ShopItemValue": null
@@ -1101,41 +1101,41 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
     "Lineup": [
-      [
-        410301,
-        4103,
-        211001,
-        1,
-        6
-      ],
-      [
-        410302,
-        4103,
-        130061,
-        1,
-        300
-      ],
-      [
-        410303,
-        4103,
-        130062,
-        1,
-        200
-      ],
-      [
-        410304,
-        4103,
-        130063,
-        1,
-        100
-      ],
-      [
-        410305,
-        4103,
-        130064,
-        1,
-        100
-      ]
+      {
+        "Id": 410301,
+        "MJewelShopItemId": 4103,
+        "ThingId": 211001,
+        "ThingType": 1,
+        "ThingQuantity": 6
+      },
+      {
+        "Id": 410302,
+        "MJewelShopItemId": 4103,
+        "ThingId": 130061,
+        "ThingType": 1,
+        "ThingQuantity": 300
+      },
+      {
+        "Id": 410303,
+        "MJewelShopItemId": 4103,
+        "ThingId": 130062,
+        "ThingType": 1,
+        "ThingQuantity": 200
+      },
+      {
+        "Id": 410304,
+        "MJewelShopItemId": 4103,
+        "ThingId": 130063,
+        "ThingType": 1,
+        "ThingQuantity": 100
+      },
+      {
+        "Id": 410305,
+        "MJewelShopItemId": 4103,
+        "ThingId": 130064,
+        "ThingType": 1,
+        "ThingQuantity": 100
+      }
     ],
     "ShopItemType": 0,
     "ShopItemValue": null
@@ -1167,41 +1167,41 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
     "Lineup": [
-      [
-        410401,
-        4104,
-        210001,
-        1,
-        3
-      ],
-      [
-        410402,
-        4104,
-        211001,
-        1,
-        3
-      ],
-      [
-        410403,
-        4104,
-        130025,
-        1,
-        1000
-      ],
-      [
-        410404,
-        4104,
-        130035,
-        1,
-        500
-      ],
-      [
-        410405,
-        4104,
-        130091,
-        1,
-        30
-      ]
+      {
+        "Id": 410401,
+        "MJewelShopItemId": 4104,
+        "ThingId": 210001,
+        "ThingType": 1,
+        "ThingQuantity": 3
+      },
+      {
+        "Id": 410402,
+        "MJewelShopItemId": 4104,
+        "ThingId": 211001,
+        "ThingType": 1,
+        "ThingQuantity": 3
+      },
+      {
+        "Id": 410403,
+        "MJewelShopItemId": 4104,
+        "ThingId": 130025,
+        "ThingType": 1,
+        "ThingQuantity": 1000
+      },
+      {
+        "Id": 410404,
+        "MJewelShopItemId": 4104,
+        "ThingId": 130035,
+        "ThingType": 1,
+        "ThingQuantity": 500
+      },
+      {
+        "Id": 410405,
+        "MJewelShopItemId": 4104,
+        "ThingId": 130091,
+        "ThingType": 1,
+        "ThingQuantity": 30
+      }
     ],
     "ShopItemType": 0,
     "ShopItemValue": null
@@ -1233,27 +1233,27 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
     "Lineup": [
-      [
-        410501,
-        4105,
-        210001,
-        1,
-        1
-      ],
-      [
-        410502,
-        4105,
-        211001,
-        1,
-        1
-      ],
-      [
-        410503,
-        4105,
-        130001,
-        1,
-        10
-      ]
+      {
+        "Id": 410501,
+        "MJewelShopItemId": 4105,
+        "ThingId": 210001,
+        "ThingType": 1,
+        "ThingQuantity": 1
+      },
+      {
+        "Id": 410502,
+        "MJewelShopItemId": 4105,
+        "ThingId": 211001,
+        "ThingType": 1,
+        "ThingQuantity": 1
+      },
+      {
+        "Id": 410503,
+        "MJewelShopItemId": 4105,
+        "ThingId": 130001,
+        "ThingType": 1,
+        "ThingQuantity": 10
+      }
     ],
     "ShopItemType": 0,
     "ShopItemValue": null
@@ -1285,27 +1285,27 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
     "Lineup": [
-      [
-        420101,
-        4201,
-        120002,
-        1,
-        100
-      ],
-      [
-        420102,
-        4201,
-        130011,
-        1,
-        100
-      ],
-      [
-        420103,
-        4201,
-        130051,
-        1,
-        5
-      ]
+      {
+        "Id": 420101,
+        "MJewelShopItemId": 4201,
+        "ThingId": 120002,
+        "ThingType": 1,
+        "ThingQuantity": 100
+      },
+      {
+        "Id": 420102,
+        "MJewelShopItemId": 4201,
+        "ThingId": 130011,
+        "ThingType": 1,
+        "ThingQuantity": 100
+      },
+      {
+        "Id": 420103,
+        "MJewelShopItemId": 4201,
+        "ThingId": 130051,
+        "ThingType": 1,
+        "ThingQuantity": 5
+      }
     ],
     "ShopItemType": 0,
     "ShopItemValue": null
@@ -1337,41 +1337,41 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
     "Lineup": [
-      [
-        420201,
-        4202,
-        120002,
-        1,
-        200
-      ],
-      [
-        420202,
-        4202,
-        130011,
-        1,
-        200
-      ],
-      [
-        420203,
-        4202,
-        130041,
-        1,
-        50
-      ],
-      [
-        420204,
-        4202,
-        130042,
-        1,
-        50
-      ],
-      [
-        420205,
-        4202,
-        130043,
-        1,
-        50
-      ]
+      {
+        "Id": 420201,
+        "MJewelShopItemId": 4202,
+        "ThingId": 120002,
+        "ThingType": 1,
+        "ThingQuantity": 200
+      },
+      {
+        "Id": 420202,
+        "MJewelShopItemId": 4202,
+        "ThingId": 130011,
+        "ThingType": 1,
+        "ThingQuantity": 200
+      },
+      {
+        "Id": 420203,
+        "MJewelShopItemId": 4202,
+        "ThingId": 130041,
+        "ThingType": 1,
+        "ThingQuantity": 50
+      },
+      {
+        "Id": 420204,
+        "MJewelShopItemId": 4202,
+        "ThingId": 130042,
+        "ThingType": 1,
+        "ThingQuantity": 50
+      },
+      {
+        "Id": 420205,
+        "MJewelShopItemId": 4202,
+        "ThingId": 130043,
+        "ThingType": 1,
+        "ThingQuantity": 50
+      }
     ],
     "ShopItemType": 0,
     "ShopItemValue": null
@@ -1403,48 +1403,48 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
     "Lineup": [
-      [
-        420301,
-        4203,
-        120002,
-        1,
-        300
-      ],
-      [
-        420302,
-        4203,
-        130011,
-        1,
-        300
-      ],
-      [
-        420303,
-        4203,
-        130061,
-        1,
-        50
-      ],
-      [
-        420304,
-        4203,
-        130062,
-        1,
-        50
-      ],
-      [
-        420305,
-        4203,
-        130063,
-        1,
-        50
-      ],
-      [
-        420306,
-        4203,
-        130064,
-        1,
-        50
-      ]
+      {
+        "Id": 420301,
+        "MJewelShopItemId": 4203,
+        "ThingId": 120002,
+        "ThingType": 1,
+        "ThingQuantity": 300
+      },
+      {
+        "Id": 420302,
+        "MJewelShopItemId": 4203,
+        "ThingId": 130011,
+        "ThingType": 1,
+        "ThingQuantity": 300
+      },
+      {
+        "Id": 420303,
+        "MJewelShopItemId": 4203,
+        "ThingId": 130061,
+        "ThingType": 1,
+        "ThingQuantity": 50
+      },
+      {
+        "Id": 420304,
+        "MJewelShopItemId": 4203,
+        "ThingId": 130062,
+        "ThingType": 1,
+        "ThingQuantity": 50
+      },
+      {
+        "Id": 420305,
+        "MJewelShopItemId": 4203,
+        "ThingId": 130063,
+        "ThingType": 1,
+        "ThingQuantity": 50
+      },
+      {
+        "Id": 420306,
+        "MJewelShopItemId": 4203,
+        "ThingId": 130064,
+        "ThingType": 1,
+        "ThingQuantity": 50
+      }
     ],
     "ShopItemType": 0,
     "ShopItemValue": null
@@ -1476,41 +1476,41 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
     "Lineup": [
-      [
-        420401,
-        4204,
-        120002,
-        1,
-        400
-      ],
-      [
-        420402,
-        4204,
-        130011,
-        1,
-        400
-      ],
-      [
-        420403,
-        4204,
-        130025,
-        1,
-        300
-      ],
-      [
-        420404,
-        4204,
-        130035,
-        1,
-        300
-      ],
-      [
-        420405,
-        4204,
-        130091,
-        1,
-        30
-      ]
+      {
+        "Id": 420401,
+        "MJewelShopItemId": 4204,
+        "ThingId": 120002,
+        "ThingType": 1,
+        "ThingQuantity": 400
+      },
+      {
+        "Id": 420402,
+        "MJewelShopItemId": 4204,
+        "ThingId": 130011,
+        "ThingType": 1,
+        "ThingQuantity": 400
+      },
+      {
+        "Id": 420403,
+        "MJewelShopItemId": 4204,
+        "ThingId": 130025,
+        "ThingType": 1,
+        "ThingQuantity": 300
+      },
+      {
+        "Id": 420404,
+        "MJewelShopItemId": 4204,
+        "ThingId": 130035,
+        "ThingType": 1,
+        "ThingQuantity": 300
+      },
+      {
+        "Id": 420405,
+        "MJewelShopItemId": 4204,
+        "ThingId": 130091,
+        "ThingType": 1,
+        "ThingQuantity": 30
+      }
     ],
     "ShopItemType": 0,
     "ShopItemValue": null
@@ -1542,27 +1542,27 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
     "Lineup": [
-      [
-        420501,
-        4205,
-        120003,
-        1,
-        50
-      ],
-      [
-        420502,
-        4205,
-        130012,
-        1,
-        50
-      ],
-      [
-        420503,
-        4205,
-        140000,
-        1,
-        500
-      ]
+      {
+        "Id": 420501,
+        "MJewelShopItemId": 4205,
+        "ThingId": 120003,
+        "ThingType": 1,
+        "ThingQuantity": 50
+      },
+      {
+        "Id": 420502,
+        "MJewelShopItemId": 4205,
+        "ThingId": 130012,
+        "ThingType": 1,
+        "ThingQuantity": 50
+      },
+      {
+        "Id": 420503,
+        "MJewelShopItemId": 4205,
+        "ThingId": 140000,
+        "ThingType": 1,
+        "ThingQuantity": 500
+      }
     ],
     "ShopItemType": 0,
     "ShopItemValue": null
@@ -1594,27 +1594,27 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
     "Lineup": [
-      [
-        420601,
-        4206,
-        120003,
-        1,
-        50
-      ],
-      [
-        420602,
-        4206,
-        130012,
-        1,
-        50
-      ],
-      [
-        420603,
-        4206,
-        130071,
-        1,
-        5
-      ]
+      {
+        "Id": 420601,
+        "MJewelShopItemId": 4206,
+        "ThingId": 120003,
+        "ThingType": 1,
+        "ThingQuantity": 50
+      },
+      {
+        "Id": 420602,
+        "MJewelShopItemId": 4206,
+        "ThingId": 130012,
+        "ThingType": 1,
+        "ThingQuantity": 50
+      },
+      {
+        "Id": 420603,
+        "MJewelShopItemId": 4206,
+        "ThingId": 130071,
+        "ThingType": 1,
+        "ThingQuantity": 5
+      }
     ],
     "ShopItemType": 0,
     "ShopItemValue": null
@@ -1646,27 +1646,27 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
     "Lineup": [
-      [
-        420701,
-        4207,
-        120003,
-        1,
-        50
-      ],
-      [
-        420702,
-        4207,
-        130012,
-        1,
-        50
-      ],
-      [
-        420703,
-        4207,
-        140000,
-        1,
-        500
-      ]
+      {
+        "Id": 420701,
+        "MJewelShopItemId": 4207,
+        "ThingId": 120003,
+        "ThingType": 1,
+        "ThingQuantity": 50
+      },
+      {
+        "Id": 420702,
+        "MJewelShopItemId": 4207,
+        "ThingId": 130012,
+        "ThingType": 1,
+        "ThingQuantity": 50
+      },
+      {
+        "Id": 420703,
+        "MJewelShopItemId": 4207,
+        "ThingId": 140000,
+        "ThingType": 1,
+        "ThingQuantity": 500
+      }
     ],
     "ShopItemType": 0,
     "ShopItemValue": null
@@ -1698,27 +1698,27 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
     "Lineup": [
-      [
-        420801,
-        4208,
-        120003,
-        1,
-        50
-      ],
-      [
-        420802,
-        4208,
-        130012,
-        1,
-        50
-      ],
-      [
-        420803,
-        4208,
-        130071,
-        1,
-        5
-      ]
+      {
+        "Id": 420801,
+        "MJewelShopItemId": 4208,
+        "ThingId": 120003,
+        "ThingType": 1,
+        "ThingQuantity": 50
+      },
+      {
+        "Id": 420802,
+        "MJewelShopItemId": 4208,
+        "ThingId": 130012,
+        "ThingType": 1,
+        "ThingQuantity": 50
+      },
+      {
+        "Id": 420803,
+        "MJewelShopItemId": 4208,
+        "ThingId": 130071,
+        "ThingType": 1,
+        "ThingQuantity": 5
+      }
     ],
     "ShopItemType": 0,
     "ShopItemValue": null
@@ -1750,27 +1750,27 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
     "Lineup": [
-      [
-        420901,
-        4209,
-        120003,
-        1,
-        50
-      ],
-      [
-        420902,
-        4209,
-        130012,
-        1,
-        50
-      ],
-      [
-        420903,
-        4209,
-        140000,
-        1,
-        500
-      ]
+      {
+        "Id": 420901,
+        "MJewelShopItemId": 4209,
+        "ThingId": 120003,
+        "ThingType": 1,
+        "ThingQuantity": 50
+      },
+      {
+        "Id": 420902,
+        "MJewelShopItemId": 4209,
+        "ThingId": 130012,
+        "ThingType": 1,
+        "ThingQuantity": 50
+      },
+      {
+        "Id": 420903,
+        "MJewelShopItemId": 4209,
+        "ThingId": 140000,
+        "ThingType": 1,
+        "ThingQuantity": 500
+      }
     ],
     "ShopItemType": 0,
     "ShopItemValue": null
@@ -1802,27 +1802,27 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
     "Lineup": [
-      [
-        421001,
-        4210,
-        120003,
-        1,
-        50
-      ],
-      [
-        421002,
-        4210,
-        130012,
-        1,
-        50
-      ],
-      [
-        421003,
-        4210,
-        130071,
-        1,
-        5
-      ]
+      {
+        "Id": 421001,
+        "MJewelShopItemId": 4210,
+        "ThingId": 120003,
+        "ThingType": 1,
+        "ThingQuantity": 50
+      },
+      {
+        "Id": 421002,
+        "MJewelShopItemId": 4210,
+        "ThingId": 130012,
+        "ThingType": 1,
+        "ThingQuantity": 50
+      },
+      {
+        "Id": 421003,
+        "MJewelShopItemId": 4210,
+        "ThingId": 130071,
+        "ThingType": 1,
+        "ThingQuantity": 5
+      }
     ],
     "ShopItemType": 0,
     "ShopItemValue": null
@@ -1854,20 +1854,20 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
     "Lineup": [
-      [
-        430101,
-        4301,
-        101,
-        9,
-        1
-      ],
-      [
-        430102,
-        4301,
-        0,
-        12,
-        40000
-      ]
+      {
+        "Id": 430101,
+        "MJewelShopItemId": 4301,
+        "ThingId": 101,
+        "ThingType": 9,
+        "ThingQuantity": 1
+      },
+      {
+        "Id": 430102,
+        "MJewelShopItemId": 4301,
+        "ThingId": 0,
+        "ThingType": 12,
+        "ThingQuantity": 40000
+      }
     ],
     "ShopItemType": 0,
     "ShopItemValue": null
@@ -1899,20 +1899,20 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
     "Lineup": [
-      [
-        430201,
-        4302,
-        102,
-        9,
-        1
-      ],
-      [
-        430202,
-        4302,
-        0,
-        12,
-        50000
-      ]
+      {
+        "Id": 430201,
+        "MJewelShopItemId": 4302,
+        "ThingId": 102,
+        "ThingType": 9,
+        "ThingQuantity": 1
+      },
+      {
+        "Id": 430202,
+        "MJewelShopItemId": 4302,
+        "ThingId": 0,
+        "ThingType": 12,
+        "ThingQuantity": 50000
+      }
     ],
     "ShopItemType": 0,
     "ShopItemValue": null
@@ -1944,20 +1944,20 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
     "Lineup": [
-      [
-        430301,
-        4303,
-        103,
-        9,
-        1
-      ],
-      [
-        430302,
-        4303,
-        0,
-        12,
-        60000
-      ]
+      {
+        "Id": 430301,
+        "MJewelShopItemId": 4303,
+        "ThingId": 103,
+        "ThingType": 9,
+        "ThingQuantity": 1
+      },
+      {
+        "Id": 430302,
+        "MJewelShopItemId": 4303,
+        "ThingId": 0,
+        "ThingType": 12,
+        "ThingQuantity": 60000
+      }
     ],
     "ShopItemType": 0,
     "ShopItemValue": null
@@ -1989,20 +1989,20 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
     "Lineup": [
-      [
-        430401,
-        4304,
-        104,
-        9,
-        1
-      ],
-      [
-        430402,
-        4304,
-        0,
-        12,
-        70000
-      ]
+      {
+        "Id": 430401,
+        "MJewelShopItemId": 4304,
+        "ThingId": 104,
+        "ThingType": 9,
+        "ThingQuantity": 1
+      },
+      {
+        "Id": 430402,
+        "MJewelShopItemId": 4304,
+        "ThingId": 0,
+        "ThingType": 12,
+        "ThingQuantity": 70000
+      }
     ],
     "ShopItemType": 0,
     "ShopItemValue": null
@@ -2034,20 +2034,20 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
     "Lineup": [
-      [
-        430501,
-        4305,
-        105,
-        9,
-        1
-      ],
-      [
-        430502,
-        4305,
-        0,
-        12,
-        80000
-      ]
+      {
+        "Id": 430501,
+        "MJewelShopItemId": 4305,
+        "ThingId": 105,
+        "ThingType": 9,
+        "ThingQuantity": 1
+      },
+      {
+        "Id": 430502,
+        "MJewelShopItemId": 4305,
+        "ThingId": 0,
+        "ThingType": 12,
+        "ThingQuantity": 80000
+      }
     ],
     "ShopItemType": 0,
     "ShopItemValue": null
@@ -2079,20 +2079,20 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
     "Lineup": [
-      [
-        430601,
-        4306,
-        106,
-        9,
-        1
-      ],
-      [
-        430602,
-        4306,
-        0,
-        12,
-        90000
-      ]
+      {
+        "Id": 430601,
+        "MJewelShopItemId": 4306,
+        "ThingId": 106,
+        "ThingType": 9,
+        "ThingQuantity": 1
+      },
+      {
+        "Id": 430602,
+        "MJewelShopItemId": 4306,
+        "ThingId": 0,
+        "ThingType": 12,
+        "ThingQuantity": 90000
+      }
     ],
     "ShopItemType": 0,
     "ShopItemValue": null
@@ -2124,20 +2124,20 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
     "Lineup": [
-      [
-        430701,
-        4307,
-        107,
-        9,
-        1
-      ],
-      [
-        430702,
-        4307,
-        0,
-        12,
-        100000
-      ]
+      {
+        "Id": 430701,
+        "MJewelShopItemId": 4307,
+        "ThingId": 107,
+        "ThingType": 9,
+        "ThingQuantity": 1
+      },
+      {
+        "Id": 430702,
+        "MJewelShopItemId": 4307,
+        "ThingId": 0,
+        "ThingType": 12,
+        "ThingQuantity": 100000
+      }
     ],
     "ShopItemType": 0,
     "ShopItemValue": null
@@ -2169,20 +2169,20 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
     "Lineup": [
-      [
-        430801,
-        4308,
-        108,
-        9,
-        1
-      ],
-      [
-        430802,
-        4308,
-        0,
-        12,
-        110000
-      ]
+      {
+        "Id": 430801,
+        "MJewelShopItemId": 4308,
+        "ThingId": 108,
+        "ThingType": 9,
+        "ThingQuantity": 1
+      },
+      {
+        "Id": 430802,
+        "MJewelShopItemId": 4308,
+        "ThingId": 0,
+        "ThingType": 12,
+        "ThingQuantity": 110000
+      }
     ],
     "ShopItemType": 0,
     "ShopItemValue": null
@@ -2214,20 +2214,20 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
     "Lineup": [
-      [
-        430901,
-        4309,
-        109,
-        9,
-        1
-      ],
-      [
-        430902,
-        4309,
-        0,
-        12,
-        120000
-      ]
+      {
+        "Id": 430901,
+        "MJewelShopItemId": 4309,
+        "ThingId": 109,
+        "ThingType": 9,
+        "ThingQuantity": 1
+      },
+      {
+        "Id": 430902,
+        "MJewelShopItemId": 4309,
+        "ThingId": 0,
+        "ThingType": 12,
+        "ThingQuantity": 120000
+      }
     ],
     "ShopItemType": 0,
     "ShopItemValue": null
@@ -2259,20 +2259,20 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
     "Lineup": [
-      [
-        431001,
-        4310,
-        110,
-        9,
-        1
-      ],
-      [
-        431002,
-        4310,
-        0,
-        12,
-        130000
-      ]
+      {
+        "Id": 431001,
+        "MJewelShopItemId": 4310,
+        "ThingId": 110,
+        "ThingType": 9,
+        "ThingQuantity": 1
+      },
+      {
+        "Id": 431002,
+        "MJewelShopItemId": 4310,
+        "ThingId": 0,
+        "ThingType": 12,
+        "ThingQuantity": 130000
+      }
     ],
     "ShopItemType": 0,
     "ShopItemValue": null
@@ -2304,20 +2304,20 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
     "Lineup": [
-      [
-        431101,
-        4311,
-        111,
-        9,
-        1
-      ],
-      [
-        431102,
-        4311,
-        0,
-        12,
-        140000
-      ]
+      {
+        "Id": 431101,
+        "MJewelShopItemId": 4311,
+        "ThingId": 111,
+        "ThingType": 9,
+        "ThingQuantity": 1
+      },
+      {
+        "Id": 431102,
+        "MJewelShopItemId": 4311,
+        "ThingId": 0,
+        "ThingType": 12,
+        "ThingQuantity": 140000
+      }
     ],
     "ShopItemType": 0,
     "ShopItemValue": null
@@ -2349,20 +2349,20 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
     "Lineup": [
-      [
-        431201,
-        4312,
-        112,
-        9,
-        1
-      ],
-      [
-        431202,
-        4312,
-        0,
-        12,
-        150000
-      ]
+      {
+        "Id": 431201,
+        "MJewelShopItemId": 4312,
+        "ThingId": 112,
+        "ThingType": 9,
+        "ThingQuantity": 1
+      },
+      {
+        "Id": 431202,
+        "MJewelShopItemId": 4312,
+        "ThingId": 0,
+        "ThingType": 12,
+        "ThingQuantity": 150000
+      }
     ],
     "ShopItemType": 0,
     "ShopItemValue": null
@@ -2394,20 +2394,20 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
     "Lineup": [
-      [
-        431301,
-        4313,
-        113,
-        9,
-        1
-      ],
-      [
-        431302,
-        4313,
-        0,
-        12,
-        160000
-      ]
+      {
+        "Id": 431301,
+        "MJewelShopItemId": 4313,
+        "ThingId": 113,
+        "ThingType": 9,
+        "ThingQuantity": 1
+      },
+      {
+        "Id": 431302,
+        "MJewelShopItemId": 4313,
+        "ThingId": 0,
+        "ThingType": 12,
+        "ThingQuantity": 160000
+      }
     ],
     "ShopItemType": 0,
     "ShopItemValue": null
@@ -2439,20 +2439,20 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
     "Lineup": [
-      [
-        431401,
-        4314,
-        114,
-        9,
-        1
-      ],
-      [
-        431402,
-        4314,
-        0,
-        12,
-        170000
-      ]
+      {
+        "Id": 431401,
+        "MJewelShopItemId": 4314,
+        "ThingId": 114,
+        "ThingType": 9,
+        "ThingQuantity": 1
+      },
+      {
+        "Id": 431402,
+        "MJewelShopItemId": 4314,
+        "ThingId": 0,
+        "ThingType": 12,
+        "ThingQuantity": 170000
+      }
     ],
     "ShopItemType": 0,
     "ShopItemValue": null
@@ -2484,20 +2484,20 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
     "Lineup": [
-      [
-        431501,
-        4315,
-        115,
-        9,
-        1
-      ],
-      [
-        431502,
-        4315,
-        0,
-        12,
-        180000
-      ]
+      {
+        "Id": 431501,
+        "MJewelShopItemId": 4315,
+        "ThingId": 115,
+        "ThingType": 9,
+        "ThingQuantity": 1
+      },
+      {
+        "Id": 431502,
+        "MJewelShopItemId": 4315,
+        "ThingId": 0,
+        "ThingType": 12,
+        "ThingQuantity": 180000
+      }
     ],
     "ShopItemType": 0,
     "ShopItemValue": null
@@ -2529,20 +2529,20 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
     "Lineup": [
-      [
-        431601,
-        4316,
-        116,
-        9,
-        1
-      ],
-      [
-        431602,
-        4316,
-        0,
-        12,
-        190000
-      ]
+      {
+        "Id": 431601,
+        "MJewelShopItemId": 4316,
+        "ThingId": 116,
+        "ThingType": 9,
+        "ThingQuantity": 1
+      },
+      {
+        "Id": 431602,
+        "MJewelShopItemId": 4316,
+        "ThingId": 0,
+        "ThingType": 12,
+        "ThingQuantity": 190000
+      }
     ],
     "ShopItemType": 0,
     "ShopItemValue": null
@@ -2574,20 +2574,20 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
     "Lineup": [
-      [
-        431701,
-        4317,
-        117,
-        9,
-        1
-      ],
-      [
-        431702,
-        4317,
-        0,
-        12,
-        200000
-      ]
+      {
+        "Id": 431701,
+        "MJewelShopItemId": 4317,
+        "ThingId": 117,
+        "ThingType": 9,
+        "ThingQuantity": 1
+      },
+      {
+        "Id": 431702,
+        "MJewelShopItemId": 4317,
+        "ThingId": 0,
+        "ThingType": 12,
+        "ThingQuantity": 200000
+      }
     ],
     "ShopItemType": 0,
     "ShopItemValue": null
@@ -2619,20 +2619,20 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
     "Lineup": [
-      [
-        440101,
-        4401,
-        210001,
-        1,
-        1
-      ],
-      [
-        440102,
-        4401,
-        130013,
-        1,
-        2
-      ]
+      {
+        "Id": 440101,
+        "MJewelShopItemId": 4401,
+        "ThingId": 210001,
+        "ThingType": 1,
+        "ThingQuantity": 1
+      },
+      {
+        "Id": 440102,
+        "MJewelShopItemId": 4401,
+        "ThingId": 130013,
+        "ThingType": 1,
+        "ThingQuantity": 2
+      }
     ],
     "ShopItemType": 0,
     "ShopItemValue": null
@@ -2664,20 +2664,20 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
     "Lineup": [
-      [
-        440201,
-        4402,
-        211001,
-        1,
-        1
-      ],
-      [
-        440202,
-        4402,
-        130013,
-        1,
-        2
-      ]
+      {
+        "Id": 440201,
+        "MJewelShopItemId": 4402,
+        "ThingId": 211001,
+        "ThingType": 1,
+        "ThingQuantity": 1
+      },
+      {
+        "Id": 440202,
+        "MJewelShopItemId": 4402,
+        "ThingId": 130013,
+        "ThingType": 1,
+        "ThingQuantity": 2
+      }
     ],
     "ShopItemType": 0,
     "ShopItemValue": null
@@ -2709,20 +2709,20 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
     "Lineup": [
-      [
-        440301,
-        4403,
-        210001,
-        1,
-        1
-      ],
-      [
-        440302,
-        4403,
-        130013,
-        1,
-        2
-      ]
+      {
+        "Id": 440301,
+        "MJewelShopItemId": 4403,
+        "ThingId": 210001,
+        "ThingType": 1,
+        "ThingQuantity": 1
+      },
+      {
+        "Id": 440302,
+        "MJewelShopItemId": 4403,
+        "ThingId": 130013,
+        "ThingType": 1,
+        "ThingQuantity": 2
+      }
     ],
     "ShopItemType": 0,
     "ShopItemValue": null
@@ -2754,20 +2754,20 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
     "Lineup": [
-      [
-        440401,
-        4404,
-        211001,
-        1,
-        1
-      ],
-      [
-        440402,
-        4404,
-        130013,
-        1,
-        2
-      ]
+      {
+        "Id": 440401,
+        "MJewelShopItemId": 4404,
+        "ThingId": 211001,
+        "ThingType": 1,
+        "ThingQuantity": 1
+      },
+      {
+        "Id": 440402,
+        "MJewelShopItemId": 4404,
+        "ThingId": 130013,
+        "ThingType": 1,
+        "ThingQuantity": 2
+      }
     ],
     "ShopItemType": 0,
     "ShopItemValue": null
@@ -2799,20 +2799,20 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
     "Lineup": [
-      [
-        440501,
-        4405,
-        210001,
-        1,
-        3
-      ],
-      [
-        440502,
-        4405,
-        130013,
-        1,
-        2
-      ]
+      {
+        "Id": 440501,
+        "MJewelShopItemId": 4405,
+        "ThingId": 210001,
+        "ThingType": 1,
+        "ThingQuantity": 3
+      },
+      {
+        "Id": 440502,
+        "MJewelShopItemId": 4405,
+        "ThingId": 130013,
+        "ThingType": 1,
+        "ThingQuantity": 2
+      }
     ],
     "ShopItemType": 0,
     "ShopItemValue": null
@@ -2844,20 +2844,20 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
     "Lineup": [
-      [
-        440601,
-        4406,
-        211001,
-        1,
-        3
-      ],
-      [
-        440602,
-        4406,
-        130013,
-        1,
-        2
-      ]
+      {
+        "Id": 440601,
+        "MJewelShopItemId": 4406,
+        "ThingId": 211001,
+        "ThingType": 1,
+        "ThingQuantity": 3
+      },
+      {
+        "Id": 440602,
+        "MJewelShopItemId": 4406,
+        "ThingId": 130013,
+        "ThingType": 1,
+        "ThingQuantity": 2
+      }
     ],
     "ShopItemType": 0,
     "ShopItemValue": null
@@ -2889,20 +2889,20 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
     "Lineup": [
-      [
-        440701,
-        4407,
-        210001,
-        1,
-        3
-      ],
-      [
-        440702,
-        4407,
-        130013,
-        1,
-        2
-      ]
+      {
+        "Id": 440701,
+        "MJewelShopItemId": 4407,
+        "ThingId": 210001,
+        "ThingType": 1,
+        "ThingQuantity": 3
+      },
+      {
+        "Id": 440702,
+        "MJewelShopItemId": 4407,
+        "ThingId": 130013,
+        "ThingType": 1,
+        "ThingQuantity": 2
+      }
     ],
     "ShopItemType": 0,
     "ShopItemValue": null
@@ -2934,20 +2934,20 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
     "Lineup": [
-      [
-        440801,
-        4408,
-        211001,
-        1,
-        3
-      ],
-      [
-        440802,
-        4408,
-        130013,
-        1,
-        2
-      ]
+      {
+        "Id": 440801,
+        "MJewelShopItemId": 4408,
+        "ThingId": 211001,
+        "ThingType": 1,
+        "ThingQuantity": 3
+      },
+      {
+        "Id": 440802,
+        "MJewelShopItemId": 4408,
+        "ThingId": 130013,
+        "ThingType": 1,
+        "ThingQuantity": 2
+      }
     ],
     "ShopItemType": 0,
     "ShopItemValue": null
@@ -2979,20 +2979,20 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
     "Lineup": [
-      [
-        440901,
-        4409,
-        210001,
-        1,
-        5
-      ],
-      [
-        440902,
-        4409,
-        130013,
-        1,
-        2
-      ]
+      {
+        "Id": 440901,
+        "MJewelShopItemId": 4409,
+        "ThingId": 210001,
+        "ThingType": 1,
+        "ThingQuantity": 5
+      },
+      {
+        "Id": 440902,
+        "MJewelShopItemId": 4409,
+        "ThingId": 130013,
+        "ThingType": 1,
+        "ThingQuantity": 2
+      }
     ],
     "ShopItemType": 0,
     "ShopItemValue": null
@@ -3024,20 +3024,20 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
     "Lineup": [
-      [
-        441001,
-        4410,
-        211001,
-        1,
-        5
-      ],
-      [
-        441002,
-        4410,
-        130013,
-        1,
-        2
-      ]
+      {
+        "Id": 441001,
+        "MJewelShopItemId": 4410,
+        "ThingId": 211001,
+        "ThingType": 1,
+        "ThingQuantity": 5
+      },
+      {
+        "Id": 441002,
+        "MJewelShopItemId": 4410,
+        "ThingId": 130013,
+        "ThingType": 1,
+        "ThingQuantity": 2
+      }
     ],
     "ShopItemType": 0,
     "ShopItemValue": null
@@ -3069,20 +3069,20 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
     "Lineup": [
-      [
-        441101,
-        4411,
-        210001,
-        1,
-        5
-      ],
-      [
-        441102,
-        4411,
-        130013,
-        1,
-        2
-      ]
+      {
+        "Id": 441101,
+        "MJewelShopItemId": 4411,
+        "ThingId": 210001,
+        "ThingType": 1,
+        "ThingQuantity": 5
+      },
+      {
+        "Id": 441102,
+        "MJewelShopItemId": 4411,
+        "ThingId": 130013,
+        "ThingType": 1,
+        "ThingQuantity": 2
+      }
     ],
     "ShopItemType": 0,
     "ShopItemValue": null
@@ -3114,20 +3114,20 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
     "Lineup": [
-      [
-        441201,
-        4412,
-        211001,
-        1,
-        5
-      ],
-      [
-        441202,
-        4412,
-        130013,
-        1,
-        2
-      ]
+      {
+        "Id": 441201,
+        "MJewelShopItemId": 4412,
+        "ThingId": 211001,
+        "ThingType": 1,
+        "ThingQuantity": 5
+      },
+      {
+        "Id": 441202,
+        "MJewelShopItemId": 4412,
+        "ThingId": 130013,
+        "ThingType": 1,
+        "ThingQuantity": 2
+      }
     ],
     "ShopItemType": 0,
     "ShopItemValue": null
@@ -3159,20 +3159,20 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
     "Lineup": [
-      [
-        441301,
-        4413,
-        210002,
-        1,
-        1
-      ],
-      [
-        441302,
-        4413,
-        130013,
-        1,
-        1
-      ]
+      {
+        "Id": 441301,
+        "MJewelShopItemId": 4413,
+        "ThingId": 210002,
+        "ThingType": 1,
+        "ThingQuantity": 1
+      },
+      {
+        "Id": 441302,
+        "MJewelShopItemId": 4413,
+        "ThingId": 130013,
+        "ThingType": 1,
+        "ThingQuantity": 1
+      }
     ],
     "ShopItemType": 0,
     "ShopItemValue": null
@@ -3204,20 +3204,20 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
     "Lineup": [
-      [
-        441401,
-        4414,
-        211002,
-        1,
-        1
-      ],
-      [
-        441402,
-        4414,
-        130013,
-        1,
-        1
-      ]
+      {
+        "Id": 441401,
+        "MJewelShopItemId": 4414,
+        "ThingId": 211002,
+        "ThingType": 1,
+        "ThingQuantity": 1
+      },
+      {
+        "Id": 441402,
+        "MJewelShopItemId": 4414,
+        "ThingId": 130013,
+        "ThingType": 1,
+        "ThingQuantity": 1
+      }
     ],
     "ShopItemType": 0,
     "ShopItemValue": null
@@ -3249,20 +3249,20 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
     "Lineup": [
-      [
-        441501,
-        4415,
-        210002,
-        1,
-        1
-      ],
-      [
-        441502,
-        4415,
-        130013,
-        1,
-        1
-      ]
+      {
+        "Id": 441501,
+        "MJewelShopItemId": 4415,
+        "ThingId": 210002,
+        "ThingType": 1,
+        "ThingQuantity": 1
+      },
+      {
+        "Id": 441502,
+        "MJewelShopItemId": 4415,
+        "ThingId": 130013,
+        "ThingType": 1,
+        "ThingQuantity": 1
+      }
     ],
     "ShopItemType": 0,
     "ShopItemValue": null
@@ -3294,20 +3294,20 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
     "Lineup": [
-      [
-        441601,
-        4416,
-        211002,
-        1,
-        1
-      ],
-      [
-        441602,
-        4416,
-        130013,
-        1,
-        1
-      ]
+      {
+        "Id": 441601,
+        "MJewelShopItemId": 4416,
+        "ThingId": 211002,
+        "ThingType": 1,
+        "ThingQuantity": 1
+      },
+      {
+        "Id": 441602,
+        "MJewelShopItemId": 4416,
+        "ThingId": 130013,
+        "ThingType": 1,
+        "ThingQuantity": 1
+      }
     ],
     "ShopItemType": 0,
     "ShopItemValue": null
@@ -3339,27 +3339,27 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
     "Lineup": [
-      [
-        441701,
-        4417,
-        210002,
-        1,
-        1
-      ],
-      [
-        441702,
-        4417,
-        211002,
-        1,
-        1
-      ],
-      [
-        441703,
-        4417,
-        130013,
-        1,
-        1
-      ]
+      {
+        "Id": 441701,
+        "MJewelShopItemId": 4417,
+        "ThingId": 210002,
+        "ThingType": 1,
+        "ThingQuantity": 1
+      },
+      {
+        "Id": 441702,
+        "MJewelShopItemId": 4417,
+        "ThingId": 211002,
+        "ThingType": 1,
+        "ThingQuantity": 1
+      },
+      {
+        "Id": 441703,
+        "MJewelShopItemId": 4417,
+        "ThingId": 130013,
+        "ThingType": 1,
+        "ThingQuantity": 1
+      }
     ],
     "ShopItemType": 0,
     "ShopItemValue": null
@@ -3391,13 +3391,13 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
     "Lineup": [
-      [
-        450101,
-        4501,
-        120002,
-        1,
-        500
-      ]
+      {
+        "Id": 450101,
+        "MJewelShopItemId": 4501,
+        "ThingId": 120002,
+        "ThingType": 1,
+        "ThingQuantity": 500
+      }
     ],
     "ShopItemType": 0,
     "ShopItemValue": null
@@ -3429,27 +3429,27 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
     "Lineup": [
-      [
-        450201,
-        4502,
-        130041,
-        1,
-        150
-      ],
-      [
-        450202,
-        4502,
-        130042,
-        1,
-        150
-      ],
-      [
-        450203,
-        4502,
-        130043,
-        1,
-        150
-      ]
+      {
+        "Id": 450201,
+        "MJewelShopItemId": 4502,
+        "ThingId": 130041,
+        "ThingType": 1,
+        "ThingQuantity": 150
+      },
+      {
+        "Id": 450202,
+        "MJewelShopItemId": 4502,
+        "ThingId": 130042,
+        "ThingType": 1,
+        "ThingQuantity": 150
+      },
+      {
+        "Id": 450203,
+        "MJewelShopItemId": 4502,
+        "ThingId": 130043,
+        "ThingType": 1,
+        "ThingQuantity": 150
+      }
     ],
     "ShopItemType": 0,
     "ShopItemValue": null
@@ -3481,34 +3481,34 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
     "Lineup": [
-      [
-        450301,
-        4503,
-        130061,
-        1,
-        150
-      ],
-      [
-        450302,
-        4503,
-        130062,
-        1,
-        150
-      ],
-      [
-        450303,
-        4503,
-        130063,
-        1,
-        150
-      ],
-      [
-        450304,
-        4503,
-        130064,
-        1,
-        150
-      ]
+      {
+        "Id": 450301,
+        "MJewelShopItemId": 4503,
+        "ThingId": 130061,
+        "ThingType": 1,
+        "ThingQuantity": 150
+      },
+      {
+        "Id": 450302,
+        "MJewelShopItemId": 4503,
+        "ThingId": 130062,
+        "ThingType": 1,
+        "ThingQuantity": 150
+      },
+      {
+        "Id": 450303,
+        "MJewelShopItemId": 4503,
+        "ThingId": 130063,
+        "ThingType": 1,
+        "ThingQuantity": 150
+      },
+      {
+        "Id": 450304,
+        "MJewelShopItemId": 4503,
+        "ThingId": 130064,
+        "ThingType": 1,
+        "ThingQuantity": 150
+      }
     ],
     "ShopItemType": 0,
     "ShopItemValue": null
@@ -3540,20 +3540,20 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
     "Lineup": [
-      [
-        450401,
-        4504,
-        0,
-        12,
-        1000000
-      ],
-      [
-        450402,
-        4504,
-        130091,
-        1,
-        100
-      ]
+      {
+        "Id": 450401,
+        "MJewelShopItemId": 4504,
+        "ThingId": 0,
+        "ThingType": 12,
+        "ThingQuantity": 1000000
+      },
+      {
+        "Id": 450402,
+        "MJewelShopItemId": 4504,
+        "ThingId": 130091,
+        "ThingType": 1,
+        "ThingQuantity": 100
+      }
     ],
     "ShopItemType": 0,
     "ShopItemValue": null
@@ -3585,20 +3585,20 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
     "Lineup": [
-      [
-        450501,
-        4505,
-        210201,
-        1,
-        1
-      ],
-      [
-        450502,
-        4505,
-        140000,
-        1,
-        500
-      ]
+      {
+        "Id": 450501,
+        "MJewelShopItemId": 4505,
+        "ThingId": 210201,
+        "ThingType": 1,
+        "ThingQuantity": 1
+      },
+      {
+        "Id": 450502,
+        "MJewelShopItemId": 4505,
+        "ThingId": 140000,
+        "ThingType": 1,
+        "ThingQuantity": 500
+      }
     ],
     "ShopItemType": 0,
     "ShopItemValue": null
@@ -3630,20 +3630,20 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
     "Lineup": [
-      [
-        450601,
-        4506,
-        211201,
-        1,
-        1
-      ],
-      [
-        450602,
-        4506,
-        130071,
-        1,
-        20
-      ]
+      {
+        "Id": 450601,
+        "MJewelShopItemId": 4506,
+        "ThingId": 211201,
+        "ThingType": 1,
+        "ThingQuantity": 1
+      },
+      {
+        "Id": 450602,
+        "MJewelShopItemId": 4506,
+        "ThingId": 130071,
+        "ThingType": 1,
+        "ThingQuantity": 20
+      }
     ],
     "ShopItemType": 0,
     "ShopItemValue": null
@@ -3675,20 +3675,20 @@
     "StartDate": "2023-07-29T17:00:00.000Z",
     "EndDate": "2023-08-08T22:00:00.000Z",
     "Lineup": [
-      [
-        500201,
-        5002,
-        139001,
-        1,
-        1
-      ],
-      [
-        500202,
-        5002,
-        110002,
-        1,
-        75
-      ]
+      {
+        "Id": 500201,
+        "MJewelShopItemId": 5002,
+        "ThingId": 139001,
+        "ThingType": 1,
+        "ThingQuantity": 1
+      },
+      {
+        "Id": 500202,
+        "MJewelShopItemId": 5002,
+        "ThingId": 110002,
+        "ThingType": 1,
+        "ThingQuantity": 75
+      }
     ],
     "ShopItemType": 4,
     "ShopItemValue": 2
@@ -3720,62 +3720,62 @@
     "StartDate": "2023-08-04T00:00:00.000Z",
     "EndDate": "2023-08-14T00:00:00.000Z",
     "Lineup": [
-      [
-        500801,
-        5008,
-        511103,
-        1,
-        1
-      ],
-      [
-        500802,
-        5008,
-        330030,
-        4,
-        1
-      ],
-      [
-        500803,
-        5008,
-        10381,
-        7,
-        1
-      ],
-      [
-        500804,
-        5008,
-        10103,
-        16,
-        1
-      ],
-      [
-        500805,
-        5008,
-        110371,
-        6,
-        1
-      ],
-      [
-        500806,
-        5008,
-        1103,
-        8,
-        1
-      ],
-      [
-        500807,
-        5008,
-        130082,
-        1,
-        120
-      ],
-      [
-        500808,
-        5008,
-        130081,
-        1,
-        600
-      ]
+      {
+        "Id": 500801,
+        "MJewelShopItemId": 5008,
+        "ThingId": 511103,
+        "ThingType": 1,
+        "ThingQuantity": 1
+      },
+      {
+        "Id": 500802,
+        "MJewelShopItemId": 5008,
+        "ThingId": 330030,
+        "ThingType": 4,
+        "ThingQuantity": 1
+      },
+      {
+        "Id": 500803,
+        "MJewelShopItemId": 5008,
+        "ThingId": 10381,
+        "ThingType": 7,
+        "ThingQuantity": 1
+      },
+      {
+        "Id": 500804,
+        "MJewelShopItemId": 5008,
+        "ThingId": 10103,
+        "ThingType": 16,
+        "ThingQuantity": 1
+      },
+      {
+        "Id": 500805,
+        "MJewelShopItemId": 5008,
+        "ThingId": 110371,
+        "ThingType": 6,
+        "ThingQuantity": 1
+      },
+      {
+        "Id": 500806,
+        "MJewelShopItemId": 5008,
+        "ThingId": 1103,
+        "ThingType": 8,
+        "ThingQuantity": 1
+      },
+      {
+        "Id": 500807,
+        "MJewelShopItemId": 5008,
+        "ThingId": 130082,
+        "ThingType": 1,
+        "ThingQuantity": 120
+      },
+      {
+        "Id": 500808,
+        "MJewelShopItemId": 5008,
+        "ThingId": 130081,
+        "ThingType": 1,
+        "ThingQuantity": 600
+      }
     ],
     "ShopItemType": 0,
     "ShopItemValue": null
@@ -3807,13 +3807,13 @@
     "StartDate": "2023-07-31T17:00:00.000Z",
     "EndDate": "2023-08-08T22:00:00.000Z",
     "Lineup": [
-      [
-        550101,
-        5501,
-        0,
-        13,
-        500
-      ]
+      {
+        "Id": 550101,
+        "MJewelShopItemId": 5501,
+        "ThingId": 0,
+        "ThingType": 13,
+        "ThingQuantity": 500
+      }
     ],
     "ShopItemType": 0,
     "ShopItemValue": null

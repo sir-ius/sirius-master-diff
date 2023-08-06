@@ -2,216 +2,216 @@
   {
     "Id": 1,
     "Items": [
-      [
-        1,
-        130041,
-        5
-      ],
-      [
-        2,
-        130041,
-        10
-      ],
-      [
-        3,
-        130041,
-        20
-      ],
-      [
-        4,
-        130041,
-        30
-      ],
-      [
-        4,
-        130042,
-        10
-      ]
+      {
+        "CurrentLevel": 1,
+        "ItemMasterId": 130041,
+        "RequiredQuantity": 5
+      },
+      {
+        "CurrentLevel": 2,
+        "ItemMasterId": 130041,
+        "RequiredQuantity": 10
+      },
+      {
+        "CurrentLevel": 3,
+        "ItemMasterId": 130041,
+        "RequiredQuantity": 20
+      },
+      {
+        "CurrentLevel": 4,
+        "ItemMasterId": 130041,
+        "RequiredQuantity": 30
+      },
+      {
+        "CurrentLevel": 4,
+        "ItemMasterId": 130042,
+        "RequiredQuantity": 10
+      }
     ]
   },
   {
     "Id": 2,
     "Items": [
-      [
-        1,
-        130041,
-        10
-      ],
-      [
-        2,
-        130041,
-        20
-      ],
-      [
-        3,
-        130041,
-        30
-      ],
-      [
-        3,
-        130042,
-        10
-      ],
-      [
-        4,
-        130041,
-        30
-      ],
-      [
-        4,
-        130042,
-        20
-      ]
+      {
+        "CurrentLevel": 1,
+        "ItemMasterId": 130041,
+        "RequiredQuantity": 10
+      },
+      {
+        "CurrentLevel": 2,
+        "ItemMasterId": 130041,
+        "RequiredQuantity": 20
+      },
+      {
+        "CurrentLevel": 3,
+        "ItemMasterId": 130041,
+        "RequiredQuantity": 30
+      },
+      {
+        "CurrentLevel": 3,
+        "ItemMasterId": 130042,
+        "RequiredQuantity": 10
+      },
+      {
+        "CurrentLevel": 4,
+        "ItemMasterId": 130041,
+        "RequiredQuantity": 30
+      },
+      {
+        "CurrentLevel": 4,
+        "ItemMasterId": 130042,
+        "RequiredQuantity": 20
+      }
     ]
   },
   {
     "Id": 3,
     "Items": [
-      [
-        1,
-        130041,
-        30
-      ],
-      [
-        2,
-        130041,
-        50
-      ],
-      [
-        2,
-        130042,
-        30
-      ],
-      [
-        3,
-        130041,
-        50
-      ],
-      [
-        3,
-        130042,
-        50
-      ],
-      [
-        3,
-        130043,
-        10
-      ],
-      [
-        4,
-        130041,
-        50
-      ],
-      [
-        4,
-        130042,
-        50
-      ],
-      [
-        4,
-        130043,
-        20
-      ]
+      {
+        "CurrentLevel": 1,
+        "ItemMasterId": 130041,
+        "RequiredQuantity": 30
+      },
+      {
+        "CurrentLevel": 2,
+        "ItemMasterId": 130041,
+        "RequiredQuantity": 50
+      },
+      {
+        "CurrentLevel": 2,
+        "ItemMasterId": 130042,
+        "RequiredQuantity": 30
+      },
+      {
+        "CurrentLevel": 3,
+        "ItemMasterId": 130041,
+        "RequiredQuantity": 50
+      },
+      {
+        "CurrentLevel": 3,
+        "ItemMasterId": 130042,
+        "RequiredQuantity": 50
+      },
+      {
+        "CurrentLevel": 3,
+        "ItemMasterId": 130043,
+        "RequiredQuantity": 10
+      },
+      {
+        "CurrentLevel": 4,
+        "ItemMasterId": 130041,
+        "RequiredQuantity": 50
+      },
+      {
+        "CurrentLevel": 4,
+        "ItemMasterId": 130042,
+        "RequiredQuantity": 50
+      },
+      {
+        "CurrentLevel": 4,
+        "ItemMasterId": 130043,
+        "RequiredQuantity": 20
+      }
     ]
   },
   {
     "Id": 4,
     "Items": [
-      [
-        1,
-        130041,
-        50
-      ],
-      [
-        2,
-        130041,
-        100
-      ],
-      [
-        2,
-        130042,
-        50
-      ],
-      [
-        3,
-        130041,
-        100
-      ],
-      [
-        3,
-        130042,
-        100
-      ],
-      [
-        3,
-        130043,
-        50
-      ],
-      [
-        4,
-        130041,
-        100
-      ],
-      [
-        4,
-        130042,
-        100
-      ],
-      [
-        4,
-        130043,
-        100
-      ]
+      {
+        "CurrentLevel": 1,
+        "ItemMasterId": 130041,
+        "RequiredQuantity": 50
+      },
+      {
+        "CurrentLevel": 2,
+        "ItemMasterId": 130041,
+        "RequiredQuantity": 100
+      },
+      {
+        "CurrentLevel": 2,
+        "ItemMasterId": 130042,
+        "RequiredQuantity": 50
+      },
+      {
+        "CurrentLevel": 3,
+        "ItemMasterId": 130041,
+        "RequiredQuantity": 100
+      },
+      {
+        "CurrentLevel": 3,
+        "ItemMasterId": 130042,
+        "RequiredQuantity": 100
+      },
+      {
+        "CurrentLevel": 3,
+        "ItemMasterId": 130043,
+        "RequiredQuantity": 50
+      },
+      {
+        "CurrentLevel": 4,
+        "ItemMasterId": 130041,
+        "RequiredQuantity": 100
+      },
+      {
+        "CurrentLevel": 4,
+        "ItemMasterId": 130042,
+        "RequiredQuantity": 100
+      },
+      {
+        "CurrentLevel": 4,
+        "ItemMasterId": 130043,
+        "RequiredQuantity": 100
+      }
     ]
   },
   {
     "Id": 101,
     "Items": [
-      [
-        1,
-        130041,
-        30
-      ],
-      [
-        2,
-        130041,
-        50
-      ],
-      [
-        2,
-        130042,
-        30
-      ],
-      [
-        3,
-        130041,
-        50
-      ],
-      [
-        3,
-        130042,
-        50
-      ],
-      [
-        3,
-        130043,
-        10
-      ],
-      [
-        4,
-        130041,
-        50
-      ],
-      [
-        4,
-        130042,
-        50
-      ],
-      [
-        4,
-        130043,
-        20
-      ]
+      {
+        "CurrentLevel": 1,
+        "ItemMasterId": 130041,
+        "RequiredQuantity": 30
+      },
+      {
+        "CurrentLevel": 2,
+        "ItemMasterId": 130041,
+        "RequiredQuantity": 50
+      },
+      {
+        "CurrentLevel": 2,
+        "ItemMasterId": 130042,
+        "RequiredQuantity": 30
+      },
+      {
+        "CurrentLevel": 3,
+        "ItemMasterId": 130041,
+        "RequiredQuantity": 50
+      },
+      {
+        "CurrentLevel": 3,
+        "ItemMasterId": 130042,
+        "RequiredQuantity": 50
+      },
+      {
+        "CurrentLevel": 3,
+        "ItemMasterId": 130043,
+        "RequiredQuantity": 10
+      },
+      {
+        "CurrentLevel": 4,
+        "ItemMasterId": 130041,
+        "RequiredQuantity": 50
+      },
+      {
+        "CurrentLevel": 4,
+        "ItemMasterId": 130042,
+        "RequiredQuantity": 50
+      },
+      {
+        "CurrentLevel": 4,
+        "ItemMasterId": 130043,
+        "RequiredQuantity": 20
+      }
     ]
   }
 ]
