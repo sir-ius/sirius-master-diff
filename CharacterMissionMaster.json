@@ -2151,7 +2151,7 @@
   },
   {
     "Id": 11,
-    "Title": "[:character]のスタンプを[:param]種類集めよう",
+    "Title": "[:character]のスタンプを[:param]種類集めよう(デフォルトを除く)",
     "JumpType": 2,
     "JumpValue": 2,
     "Stages": [

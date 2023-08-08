@@ -883,6 +883,29 @@
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   },
   {
+    "Id": 220180,
+    "Name": "エレクトリック・サマー・バカンス",
+    "OrganizeRestrictGroupId": null,
+    "Rarity": 2,
+    "LevelPatternGroupMasterId": 2,
+    "SubTitlePositionX1": 161,
+    "SubTitlePositionY1": 1394,
+    "SubTitlePositionX2": 1025,
+    "SubTitlePositionY2": 64,
+    "SubTitlePositionX3": null,
+    "SubTitlePositionY3": null,
+    "ReleaseItemGroupId": 2,
+    "PronounceName": "えれくとりっくさまーばかんす",
+    "Costumes": [],
+    "AppearanceCharacterBaseMasterIds": [
+      403,
+      404
+    ],
+    "IsRestrictItemBreakThrough": false,
+    "DisplayStartAt": "2023-08-10T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
     "Id": 229010,
     "Name": "【SIRIUS】竹取物語",
     "OrganizeRestrictGroupId": null,
@@ -1373,6 +1396,45 @@
     ],
     "IsRestrictItemBreakThrough": false,
     "DisplayStartAt": "2023-07-31T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 230150,
+    "Name": "少女漂流記",
+    "OrganizeRestrictGroupId": null,
+    "Rarity": 3,
+    "LevelPatternGroupMasterId": 3,
+    "SubTitlePositionX1": 655,
+    "SubTitlePositionY1": 32,
+    "SubTitlePositionX2": 3,
+    "SubTitlePositionY2": 1476,
+    "SubTitlePositionX3": 1223,
+    "SubTitlePositionY3": 24,
+    "ReleaseItemGroupId": 3,
+    "PronounceName": "しょうじょひょうりゅうき",
+    "Costumes": [
+      {
+        "Phase": 0,
+        "CostumeMasterId": 1161
+      },
+      {
+        "Phase": 1,
+        "CostumeMasterId": 1162
+      },
+      {
+        "Phase": 2,
+        "CostumeMasterId": 1171
+      },
+      {
+        "Phase": 3,
+        "CostumeMasterId": 1172
+      }
+    ],
+    "AppearanceCharacterBaseMasterIds": [
+      405
+    ],
+    "IsRestrictItemBreakThrough": false,
+    "DisplayStartAt": "2023-08-10T17:00:00.000Z",
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   }
 ]

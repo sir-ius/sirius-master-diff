@@ -9,5 +9,16 @@
     "StartDate": "2023-07-31T17:00:00.000Z",
     "EndDate": "2023-08-08T22:00:00.000Z",
     "ForceEndDate": "2023-08-10T17:00:00.000Z"
+  },
+  {
+    "Id": 20002,
+    "Category": 3,
+    "BonusAttribute": 2,
+    "Title": "エレクトリック・サマー・バカンス",
+    "ExchangeShopMasterId": 20002,
+    "EventPointItemMasterId": 420002,
+    "StartDate": "2023-08-10T17:00:00.000Z",
+    "EndDate": "2023-08-18T22:00:00.000Z",
+    "ForceEndDate": "2023-08-20T17:00:00.000Z"
   }
 ]

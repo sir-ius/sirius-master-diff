@@ -256,6 +256,10 @@
     "CharacterMasterId": 130220
   },
   {
+    "ItemMasterId": 143023,
+    "CharacterMasterId": 130230
+  },
+  {
     "ItemMasterId": 144001,
     "CharacterMasterId": 140010
   },
@@ -318,5 +322,13 @@
   {
     "ItemMasterId": 144016,
     "CharacterMasterId": 140160
+  },
+  {
+    "ItemMasterId": 144017,
+    "CharacterMasterId": 140170
+  },
+  {
+    "ItemMasterId": 144018,
+    "CharacterMasterId": 140180
   }
 ]

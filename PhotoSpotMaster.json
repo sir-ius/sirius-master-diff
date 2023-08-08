@@ -19,5 +19,12 @@
     "ReleasePlayerRank": 25,
     "DisplayStartAt": "2023-01-01T00:00:00.000Z",
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 3006,
+    "Name": "プール",
+    "ReleasePlayerRank": 30,
+    "DisplayStartAt": "2023-08-15T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   }
 ]

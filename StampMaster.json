@@ -7,7 +7,7 @@
     "Type": 1,
     "AssetId": "",
     "VoiceAssetId": null,
-    "Name": "ここな【よろしくね！】"
+    "Name": "ここな【よろしくね】"
   },
   {
     "Id": 10102,
@@ -137,7 +137,7 @@
     "Type": 1,
     "AssetId": "",
     "VoiceAssetId": null,
-    "Name": "カトリナ【ご…ごめんなさい】"
+    "Name": "カトリナ【ご…ごめんなさい…】"
   },
   {
     "Id": 10303,
@@ -167,7 +167,7 @@
     "Type": 1,
     "AssetId": "",
     "VoiceAssetId": null,
-    "Name": "カトリナ【はっ!?】"
+    "Name": "カトリナ【はっ？！】"
   },
   {
     "Id": 10381,
@@ -187,7 +187,7 @@
     "Type": 2,
     "AssetId": "",
     "VoiceAssetId": null,
-    "Name": "カトリナ【超集中！！】"
+    "Name": "カトリナ【超集中！】"
   },
   {
     "Id": 10401,
@@ -197,7 +197,7 @@
     "Type": 1,
     "AssetId": "",
     "VoiceAssetId": null,
-    "Name": "新妻【よろしくお願いします】"
+    "Name": "八恵【よろしくお願いします】"
   },
   {
     "Id": 10402,
@@ -207,7 +207,7 @@
     "Type": 1,
     "AssetId": "",
     "VoiceAssetId": null,
-    "Name": "新妻【お疲れさまでした】"
+    "Name": "八恵【お疲れさまでした】"
   },
   {
     "Id": 10403,
@@ -217,7 +217,7 @@
     "Type": 1,
     "AssetId": "",
     "VoiceAssetId": null,
-    "Name": "新妻【素晴らしいですね】"
+    "Name": "八恵【素晴らしいですね】"
   },
   {
     "Id": 10404,
@@ -227,7 +227,7 @@
     "Type": 1,
     "AssetId": "",
     "VoiceAssetId": null,
-    "Name": "新妻【気にしないでください】"
+    "Name": "八恵【気にしないでください】"
   },
   {
     "Id": 10405,
@@ -237,7 +237,7 @@
     "Type": 1,
     "AssetId": "",
     "VoiceAssetId": null,
-    "Name": "新妻【あれ？】"
+    "Name": "八恵【あれ？】"
   },
   {
     "Id": 10491,
@@ -247,7 +247,7 @@
     "Type": 2,
     "AssetId": "",
     "VoiceAssetId": null,
-    "Name": "新妻【よしよし】"
+    "Name": "八恵【よしよし】"
   },
   {
     "Id": 10501,
@@ -257,7 +257,7 @@
     "Type": 1,
     "AssetId": "",
     "VoiceAssetId": null,
-    "Name": "ぱんだ【よろしくねっ☆】"
+    "Name": "ぱんだ【よろしくねっ】"
   },
   {
     "Id": 10502,
@@ -267,7 +267,7 @@
     "Type": 1,
     "AssetId": "",
     "VoiceAssetId": null,
-    "Name": "ぱんだ【やるじゃん】"
+    "Name": "ぱんだ【やるじゃん…】"
   },
   {
     "Id": 10503,
@@ -287,7 +287,7 @@
     "Type": 1,
     "AssetId": "",
     "VoiceAssetId": null,
-    "Name": "ぱんだ【はぁっ!?】"
+    "Name": "ぱんだ【はぁっ？！】"
   },
   {
     "Id": 10505,
@@ -317,7 +317,7 @@
     "Type": 1,
     "AssetId": "",
     "VoiceAssetId": null,
-    "Name": "流石【よろしくね】"
+    "Name": "知冴【よろしくね】"
   },
   {
     "Id": 10602,
@@ -327,7 +327,7 @@
     "Type": 1,
     "AssetId": "",
     "VoiceAssetId": null,
-    "Name": "流石【キュンときたね】"
+    "Name": "知冴【キュンときたね】"
   },
   {
     "Id": 10603,
@@ -337,7 +337,7 @@
     "Type": 1,
     "AssetId": "",
     "VoiceAssetId": null,
-    "Name": "流石【お見事】"
+    "Name": "知冴【お見事】"
   },
   {
     "Id": 10604,
@@ -347,7 +347,7 @@
     "Type": 1,
     "AssetId": "",
     "VoiceAssetId": null,
-    "Name": "流石【すごいね】"
+    "Name": "知冴【すごいね】"
   },
   {
     "Id": 10605,
@@ -357,7 +357,7 @@
     "Type": 1,
     "AssetId": "",
     "VoiceAssetId": null,
-    "Name": "流石【？】"
+    "Name": "知冴【？】"
   },
   {
     "Id": 10691,
@@ -367,7 +367,7 @@
     "Type": 2,
     "AssetId": "",
     "VoiceAssetId": null,
-    "Name": "流石【大　吉】"
+    "Name": "知冴【大　吉】"
   },
   {
     "Id": 20101,
@@ -457,7 +457,7 @@
     "Type": 1,
     "AssetId": "",
     "VoiceAssetId": null,
-    "Name": "大黒【今に見ていなさい…】"
+    "Name": "大黒【今に見ていなさい…！】"
   },
   {
     "Id": 20204,
@@ -577,7 +577,7 @@
     "Type": 1,
     "AssetId": "",
     "VoiceAssetId": null,
-    "Name": "容【またやろうね～♪】"
+    "Name": "容【またやろうね～！】"
   },
   {
     "Id": 20403,
@@ -607,7 +607,7 @@
     "Type": 1,
     "AssetId": "",
     "VoiceAssetId": null,
-    "Name": "容【いっくよー？】"
+    "Name": "容【いっくよー！】"
   },
   {
     "Id": 20491,
@@ -617,7 +617,7 @@
     "Type": 2,
     "AssetId": "",
     "VoiceAssetId": null,
-    "Name": "容【最っ高ー！！】"
+    "Name": "容【最っ高～！！】"
   },
   {
     "Id": 20501,
@@ -637,7 +637,7 @@
     "Type": 1,
     "AssetId": "",
     "VoiceAssetId": null,
-    "Name": "しぐれ【ふふーん♪】"
+    "Name": "しぐれ【ふふ～ん♪】"
   },
   {
     "Id": 20503,
@@ -707,7 +707,7 @@
     "Type": 1,
     "AssetId": "",
     "VoiceAssetId": null,
-    "Name": "暦【あぁ…素晴らしい…】"
+    "Name": "暦【ああ…素晴らしい…】"
   },
   {
     "Id": 30104,
@@ -777,7 +777,7 @@
     "Type": 1,
     "AssetId": "",
     "VoiceAssetId": null,
-    "Name": "ラモーナ【なにっ！？】"
+    "Name": "ラモーナ【なにっ？！】"
   },
   {
     "Id": 30205,
@@ -827,7 +827,7 @@
     "Type": 1,
     "AssetId": "",
     "VoiceAssetId": null,
-    "Name": "雪【はぁ！？】"
+    "Name": "雪【はぁ？！】"
   },
   {
     "Id": 30304,
@@ -847,7 +847,7 @@
     "Type": 1,
     "AssetId": "",
     "VoiceAssetId": null,
-    "Name": "雪【こらー！！】"
+    "Name": "雪【こらー！】"
   },
   {
     "Id": 30391,
@@ -1037,7 +1037,7 @@
     "Type": 2,
     "AssetId": "",
     "VoiceAssetId": null,
-    "Name": "いろは【やってくれるんですか！？】"
+    "Name": "いろは【やってくれるんですか？！】"
   },
   {
     "Id": 40201,
@@ -1097,7 +1097,7 @@
     "Type": 2,
     "AssetId": "",
     "VoiceAssetId": null,
-    "Name": "美兎【す、、、好きです！】"
+    "Name": "美兎【す…好きです！】"
   },
   {
     "Id": 40301,
@@ -1210,6 +1210,16 @@
     "Name": "蕾【行くぞ、眷属よ】"
   },
   {
+    "Id": 40406,
+    "Order": 40406,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 404,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "蕾【これが組織の陰謀…】"
+  },
+  {
     "Id": 40491,
     "Order": 40491,
     "IsDefault": false,
@@ -1257,7 +1267,7 @@
     "Type": 1,
     "AssetId": "",
     "VoiceAssetId": null,
-    "Name": "叶羽【へー】"
+    "Name": "叶羽【へ～】"
   },
   {
     "Id": 40505,

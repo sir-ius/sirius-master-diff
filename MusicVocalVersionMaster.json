@@ -363,6 +363,17 @@
     "MusicVideoType": 0
   },
   {
+    "Id": 3501,
+    "MusicMasterId": 35,
+    "VocalVersion": 1,
+    "Singer": "リリヤ・クルトベイ、ラモーナ・ウォルフ",
+    "Name": "チューリングラブ",
+    "MusicTimeSecond": 122,
+    "SampleStartSeconds": 0,
+    "SampleEndSeconds": 0,
+    "MusicVideoType": 0
+  },
+  {
     "Id": 3701,
     "MusicMasterId": 37,
     "VocalVersion": 1,
@@ -391,6 +402,17 @@
     "Singer": "柳場ぱんだ",
     "Name": "Realize",
     "MusicTimeSecond": 169,
+    "SampleStartSeconds": 0,
+    "SampleEndSeconds": 0,
+    "MusicVideoType": 0
+  },
+  {
+    "Id": 4001,
+    "MusicMasterId": 40,
+    "VocalVersion": 1,
+    "Singer": "本巣叶羽",
+    "Name": "魔法少女とチョコレゐト",
+    "MusicTimeSecond": 135,
     "SampleStartSeconds": 0,
     "SampleEndSeconds": 0,
     "MusicVideoType": 0
@@ -446,6 +468,17 @@
     "Singer": "カトリナ・グリーベル",
     "Name": "Fernweh",
     "MusicTimeSecond": 102,
+    "SampleStartSeconds": 0,
+    "SampleEndSeconds": 0,
+    "MusicVideoType": 0
+  },
+  {
+    "Id": 4701,
+    "MusicMasterId": 47,
+    "VocalVersion": 1,
+    "Singer": "猫足蕾、阿岐留カミラ",
+    "Name": "サマーバカンス☆アクトレス！",
+    "MusicTimeSecond": 119,
     "SampleStartSeconds": 0,
     "SampleEndSeconds": 0,
     "MusicVideoType": 0

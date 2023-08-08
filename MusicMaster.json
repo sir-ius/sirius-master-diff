@@ -1011,6 +1011,41 @@
     "MusicVideoType": 0
   },
   {
+    "Id": 35,
+    "Name": "チューリングラブ",
+    "Description": "",
+    "RewardRuleMasterId": 1,
+    "PronounceName": "ちゅーりんぐらぶ",
+    "LyricWriter": "ナユタセイジ / ナナヲアカリ",
+    "Composer": "ナユタセイジ",
+    "Arranger": "-",
+    "UnlockText": "楽曲ショップで購入",
+    "IsLongVersion": false,
+    "ReleasedAt": "2023-08-19T17:00:00.000Z",
+    "StaminaConsumption": 30,
+    "MusicTimeSecond": 122,
+    "Invisible": false,
+    "SampleStartSeconds": 0,
+    "SampleEndSeconds": 0,
+    "DelaySeconds": 0,
+    "VocalVersions": [
+      {
+        "Id": 3501,
+        "MusicMasterId": 35,
+        "VocalVersion": 1,
+        "Singer": "リリヤ・クルトベイ、ラモーナ・ウォルフ",
+        "Name": "チューリングラブ",
+        "MusicTimeSecond": 122,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": 0
+      }
+    ],
+    "UnlockConditionType": 10,
+    "UnlockConditionValue": null,
+    "MusicVideoType": 0
+  },
+  {
     "Id": 37,
     "Name": "Shiny Smily Story",
     "Description": "",
@@ -1106,6 +1141,41 @@
         "Singer": "柳場ぱんだ",
         "Name": "Realize",
         "MusicTimeSecond": 169,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": 0
+      }
+    ],
+    "UnlockConditionType": 10,
+    "UnlockConditionValue": null,
+    "MusicVideoType": 0
+  },
+  {
+    "Id": 40,
+    "Name": "魔法少女とチョコレゐト",
+    "Description": "",
+    "RewardRuleMasterId": 1,
+    "PronounceName": "まほうしょうじょとちょこれいと",
+    "LyricWriter": "ピノキオピー",
+    "Composer": "ピノキオピー",
+    "Arranger": "-",
+    "UnlockText": "楽曲ショップで購入",
+    "IsLongVersion": false,
+    "ReleasedAt": "2023-08-14T17:00:00.000Z",
+    "StaminaConsumption": 32,
+    "MusicTimeSecond": 135,
+    "Invisible": false,
+    "SampleStartSeconds": 0,
+    "SampleEndSeconds": 0,
+    "DelaySeconds": 0,
+    "VocalVersions": [
+      {
+        "Id": 4001,
+        "MusicMasterId": 40,
+        "VocalVersion": 1,
+        "Singer": "本巣叶羽",
+        "Name": "魔法少女とチョコレゐト",
+        "MusicTimeSecond": 135,
         "SampleStartSeconds": 0,
         "SampleEndSeconds": 0,
         "MusicVideoType": 0
@@ -1281,6 +1351,41 @@
         "Singer": "カトリナ・グリーベル",
         "Name": "Fernweh",
         "MusicTimeSecond": 102,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": 0
+      }
+    ],
+    "UnlockConditionType": 1,
+    "UnlockConditionValue": null,
+    "MusicVideoType": 0
+  },
+  {
+    "Id": 47,
+    "Name": "サマーバカンス☆アクトレス！",
+    "Description": "",
+    "RewardRuleMasterId": 1,
+    "PronounceName": "さまーばかんすあくとれす",
+    "LyricWriter": "松井洋平",
+    "Composer": "藤井健太郎(HANO)",
+    "Arranger": "藤井健太郎(HANO)",
+    "UnlockText": null,
+    "IsLongVersion": false,
+    "ReleasedAt": "2023-08-10T17:00:00.000Z",
+    "StaminaConsumption": 29,
+    "MusicTimeSecond": 119,
+    "Invisible": false,
+    "SampleStartSeconds": 0,
+    "SampleEndSeconds": 0,
+    "DelaySeconds": 0,
+    "VocalVersions": [
+      {
+        "Id": 4701,
+        "MusicMasterId": 47,
+        "VocalVersion": 1,
+        "Singer": "猫足蕾、阿岐留カミラ",
+        "Name": "サマーバカンス☆アクトレス！",
+        "MusicTimeSecond": 119,
         "SampleStartSeconds": 0,
         "SampleEndSeconds": 0,
         "MusicVideoType": 0

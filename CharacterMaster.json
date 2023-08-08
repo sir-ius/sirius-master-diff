@@ -1600,6 +1600,31 @@
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   },
   {
+    "Id": 130230,
+    "CharacterBaseMasterId": 401,
+    "Name": "最後はBBQ！",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 3,
+    "Attribute": 2,
+    "MinLevelStatus": {
+      "Concentration": 94,
+      "Expression": 94,
+      "Vocal": 82
+    },
+    "StarActMasterId": 130231,
+    "AwakenStarActMasterId": 130231,
+    "SenseMasterId": 130230,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 30913,
+    "SenseEnhanceItemGroupMasterId": 3,
+    "FirstEpisodeReleaseItemGroupId": 321,
+    "SecondEpisodeReleaseItemGroupId": 322,
+    "CharacterAwakeningItemGroupMasterId": 32,
+    "DisplayStartAt": "2023-08-10T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
     "Id": 140010,
     "CharacterBaseMasterId": 101,
     "Name": "悲哀と恋慕の旋律",
@@ -1997,6 +2022,56 @@
     "SecondEpisodeReleaseItemGroupId": 412,
     "CharacterAwakeningItemGroupMasterId": 41,
     "DisplayStartAt": "2023-07-31T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 140170,
+    "CharacterBaseMasterId": 404,
+    "Name": "追想の帰路",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 4,
+    "Attribute": 2,
+    "MinLevelStatus": {
+      "Concentration": 116,
+      "Expression": 125,
+      "Vocal": 104
+    },
+    "StarActMasterId": 140171,
+    "AwakenStarActMasterId": 140171,
+    "SenseMasterId": 140170,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 40017,
+    "SenseEnhanceItemGroupMasterId": 4,
+    "FirstEpisodeReleaseItemGroupId": 421,
+    "SecondEpisodeReleaseItemGroupId": 422,
+    "CharacterAwakeningItemGroupMasterId": 42,
+    "DisplayStartAt": "2023-08-10T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 140180,
+    "CharacterBaseMasterId": 403,
+    "Name": "茜海に満たされて",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 4,
+    "Attribute": 2,
+    "MinLevelStatus": {
+      "Concentration": 108,
+      "Expression": 119,
+      "Vocal": 118
+    },
+    "StarActMasterId": 140181,
+    "AwakenStarActMasterId": 140181,
+    "SenseMasterId": 140180,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 40018,
+    "SenseEnhanceItemGroupMasterId": 4,
+    "FirstEpisodeReleaseItemGroupId": 421,
+    "SecondEpisodeReleaseItemGroupId": 422,
+    "CharacterAwakeningItemGroupMasterId": 42,
+    "DisplayStartAt": "2023-08-10T17:00:00.000Z",
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   }
 ]
