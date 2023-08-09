@@ -2779,7 +2779,14 @@
         "IconPath": "PerformanceUp"
       }
     ],
-    "BloomRewards": []
+    "BloomRewards": [
+      {
+        "ThingId": 511401,
+        "ThingType": 1,
+        "ThingQuantity": 1,
+        "Phase": 5
+      }
+    ]
   },
   {
     "Id": 40012,

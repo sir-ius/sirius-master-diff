@@ -3755,12 +3755,12 @@
     "MJewelShopCategoryId": 5,
     "DialogType": 1,
     "PurchaseType": 1,
-    "PurchaseValue": 1500,
+    "PurchaseValue": 980,
     "SubscriptionFlag": false,
     "GivePaidJewel": null,
     "ReplaceTypes": 0,
     "ReplaceValue": null,
-    "PurchaseLimit": 1,
+    "PurchaseLimit": 2,
     "ExpiredDay": null,
     "CanPurchaseDayOfWeek": "",
     "IsBuyNotDisplay": false,
@@ -3785,6 +3785,13 @@
         "ThingId": 510004,
         "ThingType": 1,
         "ThingQuantity": 10
+      },
+      {
+        "Id": 500703,
+        "MJewelShopItemId": 5007,
+        "ThingId": 0,
+        "ThingType": 12,
+        "ThingQuantity": 1000000
       }
     ],
     "ShopItemType": 0,

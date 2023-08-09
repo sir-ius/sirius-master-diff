@@ -6963,39 +6963,39 @@
       },
       {
         "Level": 2,
-        "Value": 20
+        "Value": 10
       },
       {
         "Level": 3,
-        "Value": 30
+        "Value": 20
       },
       {
         "Level": 4,
-        "Value": 40
+        "Value": 20
       },
       {
         "Level": 5,
-        "Value": 50
+        "Value": 30
       },
       {
         "Level": 6,
-        "Value": 60
+        "Value": 30
       },
       {
         "Level": 7,
-        "Value": 70
+        "Value": 40
       },
       {
         "Level": 8,
-        "Value": 80
+        "Value": 40
       },
       {
         "Level": 9,
-        "Value": 90
+        "Value": 50
       },
       {
         "Level": 10,
-        "Value": 100
+        "Value": 50
       }
     ],
     "Conditions": [],
