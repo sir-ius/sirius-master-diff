@@ -36,7 +36,7 @@
     "StoryEventHighScoreBuffPatternGroupId": 2,
     "EffectMasterId": 80005,
     "EffectName": "砂のお城",
-    "EffectDescription": "劇団電姫に所属するアクター1体につき、プリンシパルゲージの上限値が[:param1]上昇する",
+    "EffectDescription": "劇団電姫に所属するアクター1人につき、プリンシパルゲージの上限値が[:param1]上昇する",
     "IconImagePath": "101"
   },
   {
@@ -60,7 +60,7 @@
     "StoryEventHighScoreBuffPatternGroupId": 2,
     "EffectMasterId": 80008,
     "EffectName": "パラソル",
-    "EffectDescription": "センス発動時、追加で「SP光」を[:param1]個付与する　※阿岐留 カミラのみ対象／レベル10の時に効果発動",
+    "EffectDescription": "センス発動時、追加で「SP光」を[:param1]個付与する（レベル10の時に効果発動／SP光はどの系統の光としても扱われる）※阿岐留 カミラのみ対象",
     "IconImagePath": "104"
   }
 ]
