@@ -14,5 +14,13 @@
     "ListedStartDate": "2023-08-20T17:00:00.000Z",
     "EventStoryListFlags": 8,
     "IsKeyStory": false
+  },
+  {
+    "Id": 20003,
+    "StoryMasterId": 20003,
+    "StoryEventMasterId": 20003,
+    "ListedStartDate": "2023-08-31T17:00:00.000Z",
+    "EventStoryListFlags": 1,
+    "IsKeyStory": false
   }
 ]

@@ -3510,6 +3510,96 @@
     "ConditionValue2": null
   },
   {
+    "Id": 220190,
+    "Name": "隠し味はひとさじのユーモア",
+    "Description": "シリウスに所属するアクターの演技力が[:param11]%上昇",
+    "PosterMasterId": 220190,
+    "Type": 1,
+    "FrameNumber": 1,
+    "ReleaseLevelAt": 0,
+    "Hidden": false,
+    "Branches": [
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 70022100
+          }
+        ],
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 22019001
+      }
+    ],
+    "BranchConditionType1": 0,
+    "ConditionValue1": null,
+    "BranchConditionType2": 0,
+    "ConditionValue2": null
+  },
+  {
+    "Id": 220191,
+    "Name": "歌唱力アップ",
+    "Description": "自身の歌唱力が[:param11]%上昇　◆発動条件：シリウスに所属するアクターが装備",
+    "PosterMasterId": 220190,
+    "Type": 2,
+    "FrameNumber": 1,
+    "ReleaseLevelAt": 0,
+    "Hidden": false,
+    "Branches": [
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10110100
+          }
+        ],
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 22019101
+      }
+    ],
+    "BranchConditionType1": 0,
+    "ConditionValue1": null,
+    "BranchConditionType2": 0,
+    "ConditionValue2": null
+  },
+  {
+    "Id": 220192,
+    "Name": "スコアブースト・歌唱力",
+    "Description": "センス発動直後、自身の歌唱力の[:param11]倍のスコアを獲得　◆発動条件：シリウスに所属するアクターが装備",
+    "PosterMasterId": 220190,
+    "Type": 2,
+    "FrameNumber": 2,
+    "ReleaseLevelAt": 7,
+    "Hidden": false,
+    "Branches": [
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10910100
+          }
+        ],
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 22019201
+      }
+    ],
+    "BranchConditionType1": 0,
+    "ConditionValue1": null,
+    "BranchConditionType2": 0,
+    "ConditionValue2": null
+  },
+  {
     "Id": 229010,
     "Name": "初めての舞台",
     "Description": "<color=#7AC940>彩属性</color>のアクターの演技力が[:param11]%上昇",
@@ -3584,7 +3674,7 @@
         "BranchEffects": [
           {
             "Order": 1,
-            "EffectMasterId": 11210000
+            "EffectMasterId": 11310000
           }
         ],
         "JudgeType1": null,
@@ -3592,6 +3682,96 @@
         "JudgeType2": null,
         "Parameter2": null,
         "Id": 22901201
+      }
+    ],
+    "BranchConditionType1": 0,
+    "ConditionValue1": null,
+    "BranchConditionType2": 0,
+    "ConditionValue2": null
+  },
+  {
+    "Id": 229020,
+    "Name": "自分を信じて",
+    "Description": "<color=#ff679d>憐属性</color>のアクターの演技力が[:param11]%上昇",
+    "PosterMasterId": 229020,
+    "Type": 1,
+    "FrameNumber": 1,
+    "ReleaseLevelAt": 0,
+    "Hidden": false,
+    "Branches": [
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 70041001
+          }
+        ],
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 22902001
+      }
+    ],
+    "BranchConditionType1": 0,
+    "ConditionValue1": null,
+    "BranchConditionType2": 0,
+    "ConditionValue2": null
+  },
+  {
+    "Id": 229021,
+    "Name": "演技力アップⅢ",
+    "Description": "自身の演技力が[:param11]%上昇　◆発動条件：<color=#ff679d>憐属性</color>のアクターが装備",
+    "PosterMasterId": 229020,
+    "Type": 2,
+    "FrameNumber": 1,
+    "ReleaseLevelAt": 0,
+    "Hidden": false,
+    "Branches": [
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10030001
+          }
+        ],
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 22902101
+      }
+    ],
+    "BranchConditionType1": 0,
+    "ConditionValue1": null,
+    "BranchConditionType2": 0,
+    "ConditionValue2": null
+  },
+  {
+    "Id": 229022,
+    "Name": "初期ライフ上昇",
+    "Description": "公演開始時、ライフが[:param11]上昇",
+    "PosterMasterId": 229020,
+    "Type": 2,
+    "FrameNumber": 2,
+    "ReleaseLevelAt": 8,
+    "Hidden": false,
+    "Branches": [
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 11310000
+          }
+        ],
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 22902201
       }
     ],
     "BranchConditionType1": 0,
@@ -5830,6 +6010,126 @@
         "JudgeType2": null,
         "Parameter2": null,
         "Id": 23015301
+      }
+    ],
+    "BranchConditionType1": 0,
+    "ConditionValue1": null,
+    "BranchConditionType2": 0,
+    "ConditionValue2": null
+  },
+  {
+    "Id": 230160,
+    "Name": "四姉妹の絆",
+    "Description": "シリウスに所属するアクターの演技力が[:param11]%上昇",
+    "PosterMasterId": 230160,
+    "Type": 1,
+    "FrameNumber": 1,
+    "ReleaseLevelAt": 0,
+    "Hidden": false,
+    "Branches": [
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 70052100
+          }
+        ],
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23016001
+      }
+    ],
+    "BranchConditionType1": 0,
+    "ConditionValue1": null,
+    "BranchConditionType2": 0,
+    "ConditionValue2": null
+  },
+  {
+    "Id": 230161,
+    "Name": "演技力アップⅢ",
+    "Description": "自身の演技力が[:param11]%上昇",
+    "PosterMasterId": 230160,
+    "Type": 2,
+    "FrameNumber": 1,
+    "ReleaseLevelAt": 0,
+    "Hidden": false,
+    "Branches": [
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10030000
+          }
+        ],
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23016101
+      }
+    ],
+    "BranchConditionType1": 0,
+    "ConditionValue1": null,
+    "BranchConditionType2": 0,
+    "ConditionValue2": null
+  },
+  {
+    "Id": 230162,
+    "Name": "歌唱力アップⅡ",
+    "Description": "自身の歌唱力が[:param11]%上昇　◆発動条件：シリウスに所属するアクターが装備",
+    "PosterMasterId": 230160,
+    "Type": 2,
+    "FrameNumber": 2,
+    "ReleaseLevelAt": 5,
+    "Hidden": false,
+    "Branches": [
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10120100
+          }
+        ],
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23016201
+      }
+    ],
+    "BranchConditionType1": 0,
+    "ConditionValue1": null,
+    "BranchConditionType2": 0,
+    "ConditionValue2": null
+  },
+  {
+    "Id": 230163,
+    "Name": "スコアブースト・歌唱力Ⅱ",
+    "Description": "センス発動直後、自身の歌唱力の[:param11]倍のスコアを獲得　◆発動条件：シリウスに所属するアクターが装備",
+    "PosterMasterId": 230160,
+    "Type": 2,
+    "FrameNumber": 3,
+    "ReleaseLevelAt": 7,
+    "Hidden": false,
+    "Branches": [
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10920100
+          }
+        ],
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23016301
       }
     ],
     "BranchConditionType1": 0,

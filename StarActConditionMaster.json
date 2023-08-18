@@ -744,6 +744,14 @@
     "SpecialLight": 0
   },
   {
+    "Id": 103121,
+    "FreeLight": 0,
+    "SupportLight": 3,
+    "ControlLight": 1,
+    "AmplificationLight": 2,
+    "SpecialLight": 1
+  },
+  {
     "Id": 103200,
     "FreeLight": 0,
     "SupportLight": 3,

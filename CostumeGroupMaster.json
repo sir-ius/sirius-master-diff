@@ -858,5 +858,35 @@
     "IsHairChange": true,
     "DisplayStartAt": "2023-08-10T17:00:00.000Z",
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 122,
+    "Name": "Little Women",
+    "Description": null,
+    "Order": 122,
+    "CostumeMasterIds": [
+      1221,
+      1222
+    ],
+    "CostumeWearableCharacterGroupMasterId": null,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2023-08-20T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 123,
+    "Name": "Little Women",
+    "Description": null,
+    "Order": 123,
+    "CostumeMasterIds": [
+      1231,
+      1232
+    ],
+    "CostumeWearableCharacterGroupMasterId": 101,
+    "PerformanceGroupId": null,
+    "IsHairChange": true,
+    "DisplayStartAt": "2023-08-20T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   }
 ]

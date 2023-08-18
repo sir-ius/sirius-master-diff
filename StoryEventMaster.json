@@ -20,5 +20,16 @@
     "StartDate": "2023-08-10T17:00:00.000Z",
     "EndDate": "2023-08-18T22:00:00.000Z",
     "ForceEndDate": "2023-08-20T17:00:00.000Z"
+  },
+  {
+    "Id": 20003,
+    "Category": 4,
+    "BonusAttribute": 2,
+    "Title": "隠し味はひとさじのユーモア",
+    "ExchangeShopMasterId": 20003,
+    "EventPointItemMasterId": 420003,
+    "StartDate": "2023-08-20T17:00:00.000Z",
+    "EndDate": "2023-08-28T22:00:00.000Z",
+    "ForceEndDate": "2023-08-31T17:00:00.000Z"
   }
 ]

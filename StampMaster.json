@@ -240,6 +240,16 @@
     "Name": "八恵【あれ？】"
   },
   {
+    "Id": 10406,
+    "Order": 10406,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 104,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "八恵【私がついてます】"
+  },
+  {
     "Id": 10491,
     "Order": 10491,
     "IsDefault": false,
@@ -970,6 +980,16 @@
     "Name": "緋花里【ドキドキ…！】"
   },
   {
+    "Id": 30581,
+    "Order": 30581,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 305,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "緋花里【あきらめない！】"
+  },
+  {
     "Id": 30591,
     "Order": 30591,
     "IsDefault": false,
@@ -1087,7 +1107,7 @@
     "Type": 1,
     "AssetId": "",
     "VoiceAssetId": null,
-    "Name": "美兎【一緒に…どう…？】"
+    "Name": "美兎【一緒に…どう？】"
   },
   {
     "Id": 40291,

@@ -159,6 +159,21 @@
     "MaxLevel": 10
   },
   {
+    "Id": 330160,
+    "Name": "ハーバリウム",
+    "Description": "",
+    "Rarity": 3,
+    "AccessoryLevelPatternGroupId": 3,
+    "FixedAccessoryEffects": [
+      330160,
+      330161
+    ],
+    "RandomEffectGroups": [],
+    "PronounceName": "はーばりうむ",
+    "Series": 0,
+    "MaxLevel": 10
+  },
+  {
     "Id": 331010,
     "Name": "竹の花",
     "Description": "",

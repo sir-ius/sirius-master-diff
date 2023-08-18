@@ -6031,5 +6031,32 @@
         ]
       }
     ]
+  },
+  {
+    "Id": 12100,
+    "MissionCategory": 3,
+    "MissionViewOrder": 12100,
+    "Title": "",
+    "Description": "「てぃだんちゅ MEETS てぃんがーら！」を[:param]回クリアしよう",
+    "EventMasterId": null,
+    "JumpType": 6,
+    "JumpTargetId": null,
+    "StartDate": "2023-08-20T17:00:00.000Z",
+    "EndDate": "2023-08-30T00:00:00.000Z",
+    "Stages": [
+      {
+        "Id": 12101,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 5,
+        "StartDate": "2023-08-20T17:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 130571,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
+        ]
+      }
+    ]
   }
 ]
