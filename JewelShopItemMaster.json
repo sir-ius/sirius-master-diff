@@ -4331,7 +4331,7 @@
     "UnlockType": 2,
     "UnlockValue": 2000308,
     "StartDate": "2023-08-20T17:00:00.000Z",
-    "EndDate": "2023-08-28T22:00:00.000Z",
+    "EndDate": "2023-08-31T17:00:00.000Z",
     "Lineup": [
       {
         "Id": 550701,
@@ -4369,7 +4369,7 @@
     "UnlockType": null,
     "UnlockValue": null,
     "StartDate": "2023-08-20T17:00:00.000Z",
-    "EndDate": "2023-08-28T22:00:00.000Z",
+    "EndDate": "2023-08-31T17:00:00.000Z",
     "Lineup": [
       {
         "Id": 550801,
@@ -4407,7 +4407,7 @@
     "UnlockType": null,
     "UnlockValue": null,
     "StartDate": "2023-08-20T17:00:00.000Z",
-    "EndDate": "2023-08-28T22:00:00.000Z",
+    "EndDate": "2023-08-31T17:00:00.000Z",
     "Lineup": [
       {
         "Id": 550901,
@@ -4445,7 +4445,7 @@
     "UnlockType": null,
     "UnlockValue": null,
     "StartDate": "2023-08-20T17:00:00.000Z",
-    "EndDate": "2023-08-28T22:00:00.000Z",
+    "EndDate": "2023-08-31T17:00:00.000Z",
     "Lineup": [
       {
         "Id": 551001,
