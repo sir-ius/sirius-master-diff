@@ -921,7 +921,8 @@
     "PronounceName": "かくしあじはひとさじのゆーもあ",
     "Costumes": [],
     "AppearanceCharacterBaseMasterIds": [
-      104
+      104,
+      105
     ],
     "IsRestrictItemBreakThrough": false,
     "DisplayStartAt": "2023-08-20T17:00:00.000Z",
@@ -942,7 +943,10 @@
     "ReleaseItemGroupId": 3,
     "PronounceName": "たけとりものがたり",
     "Costumes": [],
-    "AppearanceCharacterBaseMasterIds": [],
+    "AppearanceCharacterBaseMasterIds": [
+      101,
+      103
+    ],
     "IsRestrictItemBreakThrough": true,
     "DisplayStartAt": "2023-07-26T00:00:00.000Z",
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
