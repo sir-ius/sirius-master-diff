@@ -1173,6 +1173,19 @@
     "CoolTime": 50
   },
   {
+    "Id": 130250,
+    "Name": "手に入れたいのは……",
+    "Description": "[:score]倍のスコアを獲得／[:gauge]のプリンシパルゲージを獲得",
+    "Type": 1,
+    "PreEffects": [],
+    "Branches": [],
+    "AcquirableGauge": 90,
+    "AcquirableScorePercent": 140,
+    "ScoreUpPerLevel": 50,
+    "LightCount": 1,
+    "CoolTime": 60
+  },
+  {
     "Id": 140010,
     "Name": "悲哀と恋慕の旋律",
     "Description": "[:score]倍のスコアを獲得／ライフを[:param11]回復／ライフが多いほどここなのスコア獲得量UP（最大＋100％）",
@@ -1576,5 +1589,46 @@
     "ScoreUpPerLevel": 0,
     "LightCount": 0,
     "CoolTime": 0
+  },
+  {
+    "Id": 140210,
+    "Name": "夜市の王",
+    "Description": "[:score]倍のスコアを獲得／センス発動後、追加で[:param11]のプリンシパルゲージを獲得",
+    "Type": 3,
+    "PreEffects": [],
+    "Branches": [
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 20082
+          }
+        ],
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 1402101
+      }
+    ],
+    "AcquirableGauge": 0,
+    "AcquirableScorePercent": 600,
+    "ScoreUpPerLevel": 50,
+    "LightCount": 1,
+    "CoolTime": 40
+  },
+  {
+    "Id": 140220,
+    "Name": "妖艶に誘われて",
+    "Description": "[:score]倍のスコアを獲得",
+    "Type": 2,
+    "PreEffects": [],
+    "Branches": [],
+    "AcquirableGauge": 0,
+    "AcquirableScorePercent": 540,
+    "ScoreUpPerLevel": 50,
+    "LightCount": 1,
+    "CoolTime": 35
   }
 ]

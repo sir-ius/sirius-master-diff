@@ -305,22 +305,12 @@
     "LiveSettingMasterId": 14,
     "Rewards": [
       {
-        "ThingId": 331010,
+        "ThingId": 331060,
         "ThingType": 4,
         "ThingQuantity": 0
       },
       {
-        "ThingId": 331020,
-        "ThingType": 4,
-        "ThingQuantity": 0
-      },
-      {
-        "ThingId": 331030,
-        "ThingType": 4,
-        "ThingQuantity": 0
-      },
-      {
-        "ThingId": 331040,
+        "ThingId": 331070,
         "ThingType": 4,
         "ThingQuantity": 0
       },
@@ -334,26 +324,16 @@
   },
   {
     "Id": 1405,
-    "Description": "スタミナを消費 + スコア50,000以上/n(確率で獲得)",
+    "Description": "スタミナを消費 + スコア100,000以上/n(確率で獲得)",
     "LiveSettingMasterId": 14,
     "Rewards": [
       {
-        "ThingId": 331010,
+        "ThingId": 331060,
         "ThingType": 4,
         "ThingQuantity": 0
       },
       {
-        "ThingId": 331020,
-        "ThingType": 4,
-        "ThingQuantity": 0
-      },
-      {
-        "ThingId": 331030,
-        "ThingType": 4,
-        "ThingQuantity": 0
-      },
-      {
-        "ThingId": 331040,
+        "ThingId": 331070,
         "ThingType": 4,
         "ThingQuantity": 0
       },
@@ -367,26 +347,16 @@
   },
   {
     "Id": 1406,
-    "Description": "スタミナを消費 + スコア150,000以上/n(確率で獲得)",
+    "Description": "スタミナを消費 + スコア300,000以上/n(確率で獲得)",
     "LiveSettingMasterId": 14,
     "Rewards": [
       {
-        "ThingId": 331010,
+        "ThingId": 331060,
         "ThingType": 4,
         "ThingQuantity": 0
       },
       {
-        "ThingId": 331020,
-        "ThingType": 4,
-        "ThingQuantity": 0
-      },
-      {
-        "ThingId": 331030,
-        "ThingType": 4,
-        "ThingQuantity": 0
-      },
-      {
-        "ThingId": 331040,
+        "ThingId": 331070,
         "ThingType": 4,
         "ThingQuantity": 0
       },
@@ -400,7 +370,53 @@
   },
   {
     "Id": 1407,
-    "Description": "スタミナを消費 + スコア500,000以上/n(確率で獲得)",
+    "Description": "スタミナを消費 + スコア750,000以上/n(確率で獲得)",
+    "LiveSettingMasterId": 14,
+    "Rewards": [
+      {
+        "ThingId": 331060,
+        "ThingType": 4,
+        "ThingQuantity": 0
+      },
+      {
+        "ThingId": 331070,
+        "ThingType": 4,
+        "ThingQuantity": 0
+      },
+      {
+        "ThingId": 331050,
+        "ThingType": 4,
+        "ThingQuantity": 0
+      }
+    ],
+    "Etcetera": true
+  },
+  {
+    "Id": 1408,
+    "Description": "スタミナを消費 + スコア1,500,000以上/n(確率で獲得)",
+    "LiveSettingMasterId": 14,
+    "Rewards": [
+      {
+        "ThingId": 331060,
+        "ThingType": 4,
+        "ThingQuantity": 0
+      },
+      {
+        "ThingId": 331070,
+        "ThingType": 4,
+        "ThingQuantity": 0
+      },
+      {
+        "ThingId": 331050,
+        "ThingType": 4,
+        "ThingQuantity": 0
+      }
+    ],
+    "Etcetera": true
+  },
+  {
+    "Id": 1409,
+    "Description": "スタミナを消費 + スコア3,000,000以上/n(確率で獲得)",
     "LiveSettingMasterId": 14,
     "Rewards": [
       {
@@ -410,16 +426,6 @@
       },
       {
         "ThingId": 331020,
-        "ThingType": 4,
-        "ThingQuantity": 0
-      },
-      {
-        "ThingId": 331030,
-        "ThingType": 4,
-        "ThingQuantity": 0
-      },
-      {
-        "ThingId": 331040,
         "ThingType": 4,
         "ThingQuantity": 0
       },

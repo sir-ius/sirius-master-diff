@@ -860,6 +860,16 @@
     "Name": "雪【こらー！】"
   },
   {
+    "Id": 30306,
+    "Order": 30306,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 303,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "雪【いいじゃん】"
+  },
+  {
     "Id": 30391,
     "Order": 30391,
     "IsDefault": false,

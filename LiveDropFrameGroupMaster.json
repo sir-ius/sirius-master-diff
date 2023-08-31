@@ -1867,6 +1867,13 @@
             "IsSpecialFallThing": false
           },
           {
+            "ThingId": 320060,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
             "ThingId": 331010,
             "ThingType": 4,
             "ThingQuantity": 1,
@@ -1902,6 +1909,20 @@
             "IsSpecialFallThing": false
           },
           {
+            "ThingId": 331060,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331070,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
             "ThingId": 332010,
             "ThingType": 4,
             "ThingQuantity": 1,
@@ -1931,6 +1952,20 @@
           },
           {
             "ThingId": 332050,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332060,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332070,
             "ThingType": 4,
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
@@ -2011,6 +2046,13 @@
             "IsSpecialFallThing": false
           },
           {
+            "ThingId": 320060,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
             "ThingId": 331010,
             "ThingType": 4,
             "ThingQuantity": 1,
@@ -2040,6 +2082,20 @@
           },
           {
             "ThingId": 331050,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331060,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331070,
             "ThingType": 4,
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
@@ -2079,9 +2135,23 @@
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332060,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332070,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
           }
         ],
-        "FrameLotConditionValue": 50000
+        "FrameLotConditionValue": 100000
       },
       {
         "Id": 1406,
@@ -2155,6 +2225,13 @@
             "IsSpecialFallThing": false
           },
           {
+            "ThingId": 320060,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
             "ThingId": 331010,
             "ThingType": 4,
             "ThingQuantity": 1,
@@ -2184,6 +2261,20 @@
           },
           {
             "ThingId": 331050,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331060,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331070,
             "ThingType": 4,
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
@@ -2223,9 +2314,23 @@
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332060,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332070,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
           }
         ],
-        "FrameLotConditionValue": 150000
+        "FrameLotConditionValue": 300000
       },
       {
         "Id": 1407,
@@ -2299,6 +2404,13 @@
             "IsSpecialFallThing": false
           },
           {
+            "ThingId": 320060,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
             "ThingId": 331010,
             "ThingType": 4,
             "ThingQuantity": 1,
@@ -2328,6 +2440,20 @@
           },
           {
             "ThingId": 331050,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331060,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331070,
             "ThingType": 4,
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
@@ -2367,9 +2493,381 @@
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332060,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332070,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
           }
         ],
-        "FrameLotConditionValue": 500000
+        "FrameLotConditionValue": 750000
+      },
+      {
+        "Id": 1408,
+        "LiveDropFrameGroupMasterId": 14,
+        "Order": 8,
+        "ChangeType": 1,
+        "FrameLotCondition": 2,
+        "UnaffectedIncreaseEffect": true,
+        "Rewards": [
+          {
+            "ThingId": 310010,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 310020,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 310030,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 310040,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320010,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320020,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320030,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320040,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320050,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320060,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331010,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331020,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331030,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331040,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331050,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331060,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331070,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 332010,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332020,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332030,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332040,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332050,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332060,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332070,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          }
+        ],
+        "FrameLotConditionValue": 1500000
+      },
+      {
+        "Id": 1409,
+        "LiveDropFrameGroupMasterId": 14,
+        "Order": 9,
+        "ChangeType": 1,
+        "FrameLotCondition": 2,
+        "UnaffectedIncreaseEffect": true,
+        "Rewards": [
+          {
+            "ThingId": 310010,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 310020,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 310030,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 310040,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320010,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320020,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320030,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320040,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320050,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320060,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331010,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331020,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331030,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331040,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331050,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331060,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331070,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 332010,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332020,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332030,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332040,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332050,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332060,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332070,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          }
+        ],
+        "FrameLotConditionValue": 3000000
       },
       {
         "Id": 1410,

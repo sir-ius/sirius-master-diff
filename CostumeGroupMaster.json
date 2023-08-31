@@ -860,6 +860,62 @@
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   },
   {
+    "Id": 118,
+    "Name": "虹彩蛍舞",
+    "Description": null,
+    "Order": 118,
+    "CostumeMasterIds": [
+      1181
+    ],
+    "CostumeWearableCharacterGroupMasterId": 100,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2023-08-31T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 119,
+    "Name": "涼陰妖狐",
+    "Description": null,
+    "Order": 119,
+    "CostumeMasterIds": [
+      1191
+    ],
+    "CostumeWearableCharacterGroupMasterId": 200,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2023-08-31T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 120,
+    "Name": "胡蝶繚蘭",
+    "Description": null,
+    "Order": 120,
+    "CostumeMasterIds": [
+      1201
+    ],
+    "CostumeWearableCharacterGroupMasterId": 300,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2023-08-31T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 121,
+    "Name": "月影銀兎",
+    "Description": null,
+    "Order": 121,
+    "CostumeMasterIds": [
+      1211
+    ],
+    "CostumeWearableCharacterGroupMasterId": 400,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2023-08-31T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
     "Id": 122,
     "Name": "Little Women",
     "Description": null,
@@ -887,6 +943,53 @@
     "PerformanceGroupId": null,
     "IsHairChange": true,
     "DisplayStartAt": "2023-08-20T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 124,
+    "Name": "妖怪大商祭",
+    "Description": null,
+    "Order": 124,
+    "CostumeMasterIds": [
+      1241,
+      1242
+    ],
+    "CostumeWearableCharacterGroupMasterId": null,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2023-08-31T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 125,
+    "Name": "妖怪大商祭",
+    "Description": null,
+    "Order": 125,
+    "CostumeMasterIds": [
+      1251,
+      1252
+    ],
+    "CostumeWearableCharacterGroupMasterId": 305,
+    "PerformanceGroupId": null,
+    "IsHairChange": true,
+    "DisplayStartAt": "2023-08-31T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 126,
+    "Name": "秋麗",
+    "Description": null,
+    "Order": 126,
+    "CostumeMasterIds": [
+      1261,
+      1262,
+      1263,
+      1264
+    ],
+    "CostumeWearableCharacterGroupMasterId": null,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2023-09-01T05:00:00.000Z",
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   }
 ]

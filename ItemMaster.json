@@ -518,6 +518,20 @@
     "Rarity": 3
   },
   {
+    "Id": 139002,
+    "Name": "劇団電姫のおまもり【～2023年9月8日22時】",
+    "Description": "人気アニメのキャラクターがプリントされたおまもり。電姫空間でシークレットアクセサリーが入手しやすくなる。",
+    "DisplayOrder": 139002,
+    "DisplayEndDate": "2023-09-08T22:00:00.000Z",
+    "MaxStock": 1,
+    "Category": 13,
+    "Consumable": false,
+    "JumpType": 0,
+    "JumpTargetId": null,
+    "TabCategory": 1,
+    "Rarity": 3
+  },
+  {
     "Id": 140000,
     "Name": "ジュゴン像",
     "Description": "ジュゴンをかたどった像。アクターの才能開花に使われる。イベントやミッションなどで入手できる。",
@@ -1456,6 +1470,20 @@
     "Rarity": 3
   },
   {
+    "Id": 143025,
+    "Name": "★3【手に入れたいのは……】ラモーナ・ウォルフのピース",
+    "Description": "★3【手に入れたいのは……】ラモーナ・ウォルフの才能開花に使用できるアイテム。",
+    "DisplayOrder": 143025,
+    "DisplayEndDate": null,
+    "MaxStock": 99999,
+    "Category": 14,
+    "Consumable": false,
+    "JumpType": 0,
+    "JumpTargetId": null,
+    "TabCategory": 4,
+    "Rarity": 3
+  },
+  {
     "Id": 144001,
     "Name": "★4【悲哀と恋慕の旋律】鳳ここなのピース",
     "Description": "★4【悲哀と恋慕の旋律】鳳ここなの才能開花に使用できるアイテム。",
@@ -1736,6 +1764,34 @@
     "Rarity": 3
   },
   {
+    "Id": 144021,
+    "Name": "★4【夜市の王】王雪のピース",
+    "Description": "★4【夜市の王】王雪の才能開花に使用できるアイテム。",
+    "DisplayOrder": 144021,
+    "DisplayEndDate": null,
+    "MaxStock": 99999,
+    "Category": 14,
+    "Consumable": false,
+    "JumpType": 0,
+    "JumpTargetId": null,
+    "TabCategory": 4,
+    "Rarity": 3
+  },
+  {
+    "Id": 144022,
+    "Name": "★4【妖艶に誘われて】リリヤ・クルトベイのピース",
+    "Description": "★4【妖艶に誘われて】リリヤ・クルトベイの才能開花に使用できるアイテム。",
+    "DisplayOrder": 144022,
+    "DisplayEndDate": null,
+    "MaxStock": 99999,
+    "Category": 14,
+    "Consumable": false,
+    "JumpType": 0,
+    "JumpTargetId": null,
+    "TabCategory": 4,
+    "Rarity": 3
+  },
+  {
     "Id": 210001,
     "Name": "アクターガチャチケット",
     "Description": "アクターガチャを引くことができるチケット。",
@@ -2002,6 +2058,20 @@
     "Rarity": 1
   },
   {
+    "Id": 411006,
+    "Name": "ガチャポイント",
+    "Description": "ショップの該当するガチャポイント交換で様々なアイテムと交換できる。",
+    "DisplayOrder": 411006,
+    "DisplayEndDate": "2023-09-10T17:00:00.000Z",
+    "MaxStock": 99999,
+    "Category": 41,
+    "Consumable": false,
+    "JumpType": 0,
+    "JumpTargetId": null,
+    "TabCategory": 0,
+    "Rarity": 1
+  },
+  {
     "Id": 412001,
     "Name": "ガチャポイント",
     "Description": "ショップの該当するガチャポイント交換で様々なアイテムと交換できる。",
@@ -2072,6 +2142,20 @@
     "Rarity": 1
   },
   {
+    "Id": 412006,
+    "Name": "ガチャポイント",
+    "Description": "ショップの該当するガチャポイント交換で様々なアイテムと交換できる。",
+    "DisplayOrder": 412006,
+    "DisplayEndDate": "2023-09-10T17:00:00.000Z",
+    "MaxStock": 99999,
+    "Category": 41,
+    "Consumable": false,
+    "JumpType": 0,
+    "JumpTargetId": null,
+    "TabCategory": 0,
+    "Rarity": 1
+  },
+  {
     "Id": 420001,
     "Name": "イベントポイント",
     "Description": "イベントの交換所から様々なアイテムと交換できる。",
@@ -2114,10 +2198,38 @@
     "Rarity": 1
   },
   {
+    "Id": 420004,
+    "Name": "イベントポイント",
+    "Description": "イベントの交換所から様々なアイテムと交換できる。",
+    "DisplayOrder": 420004,
+    "DisplayEndDate": null,
+    "MaxStock": 1999999999,
+    "Category": 42,
+    "Consumable": false,
+    "JumpType": 0,
+    "JumpTargetId": null,
+    "TabCategory": 0,
+    "Rarity": 1
+  },
+  {
     "Id": 432308,
     "Name": "ミッションパスポイント【2023年8月】",
     "Description": "公演ミッションの報酬獲得に必要なポイント",
     "DisplayOrder": 432308,
+    "DisplayEndDate": null,
+    "MaxStock": 9999999,
+    "Category": 43,
+    "Consumable": false,
+    "JumpType": 0,
+    "JumpTargetId": null,
+    "TabCategory": 0,
+    "Rarity": 1
+  },
+  {
+    "Id": 432309,
+    "Name": "ミッションパスポイント【2023年9月】",
+    "Description": "公演ミッションの報酬獲得に必要なポイント",
+    "DisplayOrder": 432309,
     "DisplayEndDate": null,
     "MaxStock": 9999999,
     "Category": 43,
