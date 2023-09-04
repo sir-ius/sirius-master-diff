@@ -420,12 +420,12 @@
     "LiveSettingMasterId": 14,
     "Rewards": [
       {
-        "ThingId": 331060,
+        "ThingId": 331010,
         "ThingType": 4,
         "ThingQuantity": 0
       },
       {
-        "ThingId": 331070,
+        "ThingId": 331020,
         "ThingType": 4,
         "ThingQuantity": 0
       },
