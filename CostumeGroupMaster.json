@@ -991,5 +991,35 @@
     "IsHairChange": false,
     "DisplayStartAt": "2023-09-01T05:00:00.000Z",
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 127,
+    "Name": "リトル・プリンセスといじわるお嬢",
+    "Description": null,
+    "Order": 127,
+    "CostumeMasterIds": [
+      1271,
+      1272
+    ],
+    "CostumeWearableCharacterGroupMasterId": null,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2023-09-10T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 128,
+    "Name": "リトル・プリンセスといじわるお嬢",
+    "Description": null,
+    "Order": 128,
+    "CostumeMasterIds": [
+      1281,
+      1282
+    ],
+    "CostumeWearableCharacterGroupMasterId": 405,
+    "PerformanceGroupId": null,
+    "IsHairChange": true,
+    "DisplayStartAt": "2023-09-10T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   }
 ]

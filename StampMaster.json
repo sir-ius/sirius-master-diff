@@ -310,6 +310,16 @@
     "Name": "ぱんだ【ごめん！】"
   },
   {
+    "Id": 10581,
+    "Order": 10581,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 105,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "ぱんだ【ぱんだのでばんだ！】"
+  },
+  {
     "Id": 10591,
     "Order": 10591,
     "IsDefault": false,
@@ -498,6 +508,16 @@
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "大黒【許せないわね…】"
+  },
+  {
+    "Id": 20281,
+    "Order": 20281,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 202,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "大黒【あ…ありがとう…】"
   },
   {
     "Id": 20291,
@@ -1118,6 +1138,16 @@
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "美兎【一緒に…どう？】"
+  },
+  {
+    "Id": 40206,
+    "Order": 40206,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 402,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "美兎【ごめんね…】"
   },
   {
     "Id": 40291,

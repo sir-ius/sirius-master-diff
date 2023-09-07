@@ -78,7 +78,7 @@
     "LyricWriter": "志村真白",
     "Composer": "志村真白",
     "Arranger": "志村真白",
-    "UnlockText": "メインストーリーシリウス1章7話を読了後、/n楽曲ショップで購入",
+    "UnlockText": "楽曲ショップで購入",
     "IsLongVersion": false,
     "ReleasedAt": "2023-01-01T00:00:00.000Z",
     "StaminaConsumption": 29,
@@ -111,8 +111,8 @@
         "MusicVideoType": 0
       }
     ],
-    "UnlockConditionType": 11,
-    "UnlockConditionValue": 1010107,
+    "UnlockConditionType": 10,
+    "UnlockConditionValue": null,
     "MusicVideoType": 1
   },
   {
@@ -159,7 +159,7 @@
     "LyricWriter": "志村真白",
     "Composer": "志村真白",
     "Arranger": "志村真白",
-    "UnlockText": "メインストーリー銀河座1章17話を読了後、/n楽曲ショップで購入",
+    "UnlockText": "楽曲ショップで購入",
     "IsLongVersion": false,
     "ReleasedAt": "2023-01-01T00:00:00.000Z",
     "StaminaConsumption": 33,
@@ -181,8 +181,8 @@
         "MusicVideoType": 1
       }
     ],
-    "UnlockConditionType": 11,
-    "UnlockConditionValue": 1030117,
+    "UnlockConditionType": 10,
+    "UnlockConditionValue": null,
     "MusicVideoType": 1
   },
   {
@@ -229,7 +229,7 @@
     "LyricWriter": "大木貢祐",
     "Composer": "藤井健太郎(HANO)",
     "Arranger": "藤井健太郎(HANO)",
-    "UnlockText": "メインストーリーシリウス1章16話を読了後、/n楽曲ショップで購入",
+    "UnlockText": "楽曲ショップで購入",
     "IsLongVersion": false,
     "ReleasedAt": "2023-01-01T00:00:00.000Z",
     "StaminaConsumption": 31,
@@ -251,8 +251,8 @@
         "MusicVideoType": 1
       }
     ],
-    "UnlockConditionType": 11,
-    "UnlockConditionValue": 1010116,
+    "UnlockConditionType": 10,
+    "UnlockConditionValue": null,
     "MusicVideoType": 1
   },
   {
@@ -299,7 +299,7 @@
     "LyricWriter": "大木貢祐",
     "Composer": "ふじそば",
     "Arranger": "ふじそば",
-    "UnlockText": "メインストーリー劇団電姫1章19話を読了後、/n楽曲ショップで購入",
+    "UnlockText": "楽曲ショップで購入",
     "IsLongVersion": false,
     "ReleasedAt": "2023-01-01T00:00:00.000Z",
     "StaminaConsumption": 25,
@@ -321,8 +321,8 @@
         "MusicVideoType": 1
       }
     ],
-    "UnlockConditionType": 11,
-    "UnlockConditionValue": 1040119,
+    "UnlockConditionType": 10,
+    "UnlockConditionValue": null,
     "MusicVideoType": 1
   },
   {
@@ -404,7 +404,7 @@
     "LyricWriter": "唐沢美帆",
     "Composer": "山田竜平",
     "Arranger": "山田竜平",
-    "UnlockText": "メインストーリーシリウス1章23話を読了後、/n楽曲ショップで購入",
+    "UnlockText": "楽曲ショップで購入",
     "IsLongVersion": false,
     "ReleasedAt": "2023-01-01T00:00:00.000Z",
     "StaminaConsumption": 26,
@@ -437,8 +437,8 @@
         "MusicVideoType": 0
       }
     ],
-    "UnlockConditionType": 11,
-    "UnlockConditionValue": 1010123,
+    "UnlockConditionType": 10,
+    "UnlockConditionValue": null,
     "MusicVideoType": 1
   },
   {
@@ -1501,6 +1501,41 @@
     "MusicVideoType": 1
   },
   {
+    "Id": 54,
+    "Name": "ひとりの夜のフィルモグラフィー",
+    "Description": "",
+    "RewardRuleMasterId": 1,
+    "PronounceName": "ひとりのよるのふぃるもぐらふぃー",
+    "LyricWriter": "松井洋平",
+    "Composer": "YAS",
+    "Arranger": "YAS",
+    "UnlockText": null,
+    "IsLongVersion": false,
+    "ReleasedAt": "2023-09-10T17:00:00.000Z",
+    "StaminaConsumption": 34,
+    "MusicTimeSecond": 142,
+    "Invisible": false,
+    "SampleStartSeconds": 0,
+    "SampleEndSeconds": 0,
+    "DelaySeconds": 0,
+    "VocalVersions": [
+      {
+        "Id": 5401,
+        "MusicMasterId": 54,
+        "VocalVersion": 1,
+        "Singer": "白丸美兎",
+        "Name": "ひとりの夜のフィルモグラフィー",
+        "MusicTimeSecond": 142,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": 0
+      }
+    ],
+    "UnlockConditionType": 1,
+    "UnlockConditionValue": null,
+    "MusicVideoType": 0
+  },
+  {
     "Id": 55,
     "Name": "ANIMA",
     "Description": "",
@@ -1532,6 +1567,76 @@
       }
     ],
     "UnlockConditionType": 10,
+    "UnlockConditionValue": null,
+    "MusicVideoType": 0
+  },
+  {
+    "Id": 57,
+    "Name": "Black Diary",
+    "Description": "",
+    "RewardRuleMasterId": 1,
+    "PronounceName": "blackdiary",
+    "LyricWriter": "松井洋平",
+    "Composer": "山本玲史",
+    "Arranger": "山本玲史",
+    "UnlockText": null,
+    "IsLongVersion": false,
+    "ReleasedAt": "2023-09-13T17:00:00.000Z",
+    "StaminaConsumption": 31,
+    "MusicTimeSecond": 130,
+    "Invisible": false,
+    "SampleStartSeconds": 0,
+    "SampleEndSeconds": 0,
+    "DelaySeconds": 0,
+    "VocalVersions": [
+      {
+        "Id": 5701,
+        "MusicMasterId": 57,
+        "VocalVersion": 1,
+        "Singer": "烏森大黒",
+        "Name": "Black Diary",
+        "MusicTimeSecond": 130,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": 0
+      }
+    ],
+    "UnlockConditionType": 1,
+    "UnlockConditionValue": null,
+    "MusicVideoType": 0
+  },
+  {
+    "Id": 58,
+    "Name": "Pandastic Stage!",
+    "Description": "",
+    "RewardRuleMasterId": 1,
+    "PronounceName": "pandasticstage",
+    "LyricWriter": "松井洋平",
+    "Composer": "志村真白",
+    "Arranger": "志村真白",
+    "UnlockText": null,
+    "IsLongVersion": false,
+    "ReleasedAt": "2023-09-13T17:00:00.000Z",
+    "StaminaConsumption": 28,
+    "MusicTimeSecond": 109,
+    "Invisible": false,
+    "SampleStartSeconds": 0,
+    "SampleEndSeconds": 0,
+    "DelaySeconds": 0,
+    "VocalVersions": [
+      {
+        "Id": 5801,
+        "MusicMasterId": 58,
+        "VocalVersion": 1,
+        "Singer": "柳場ぱんだ",
+        "Name": "Pandastic Stage!",
+        "MusicTimeSecond": 109,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": 0
+      }
+    ],
+    "UnlockConditionType": 1,
     "UnlockConditionValue": null,
     "MusicVideoType": 0
   },

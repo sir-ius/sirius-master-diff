@@ -1675,6 +1675,31 @@
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   },
   {
+    "Id": 130260,
+    "CharacterBaseMasterId": 404,
+    "Name": "水晶玉に映る未来",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 3,
+    "Attribute": 1,
+    "MinLevelStatus": {
+      "Concentration": 96,
+      "Expression": 97,
+      "Vocal": 77
+    },
+    "StarActMasterId": 130261,
+    "AwakenStarActMasterId": 130261,
+    "SenseMasterId": 130260,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 30004,
+    "SenseEnhanceItemGroupMasterId": 3,
+    "FirstEpisodeReleaseItemGroupId": 311,
+    "SecondEpisodeReleaseItemGroupId": 312,
+    "CharacterAwakeningItemGroupMasterId": 31,
+    "DisplayStartAt": "2023-09-10T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
     "Id": 140010,
     "CharacterBaseMasterId": 101,
     "Name": "悲哀と恋慕の旋律",
@@ -2222,6 +2247,56 @@
     "SecondEpisodeReleaseItemGroupId": 432,
     "CharacterAwakeningItemGroupMasterId": 43,
     "DisplayStartAt": "2023-08-31T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 140240,
+    "CharacterBaseMasterId": 402,
+    "Name": "光さす世界に",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 4,
+    "Attribute": 1,
+    "MinLevelStatus": {
+      "Concentration": 94,
+      "Expression": 107,
+      "Vocal": 144
+    },
+    "StarActMasterId": 140241,
+    "AwakenStarActMasterId": 140241,
+    "SenseMasterId": 140240,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 40024,
+    "SenseEnhanceItemGroupMasterId": 4,
+    "FirstEpisodeReleaseItemGroupId": 411,
+    "SecondEpisodeReleaseItemGroupId": 412,
+    "CharacterAwakeningItemGroupMasterId": 41,
+    "DisplayStartAt": "2023-09-10T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 140250,
+    "CharacterBaseMasterId": 401,
+    "Name": "移りゆく世界の中で",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 4,
+    "Attribute": 1,
+    "MinLevelStatus": {
+      "Concentration": 149,
+      "Expression": 93,
+      "Vocal": 105
+    },
+    "StarActMasterId": 140251,
+    "AwakenStarActMasterId": 140251,
+    "SenseMasterId": 140250,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 40025,
+    "SenseEnhanceItemGroupMasterId": 4,
+    "FirstEpisodeReleaseItemGroupId": 411,
+    "SecondEpisodeReleaseItemGroupId": 412,
+    "CharacterAwakeningItemGroupMasterId": 41,
+    "DisplayStartAt": "2023-09-10T17:00:00.000Z",
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   }
 ]

@@ -156,7 +156,7 @@
         "ExclusionNoSenseCharacter": false,
         "Order": 1,
         "StageOrder": 17,
-        "GoalCount": 800
+        "GoalCount": 500
       },
       {
         "Id": 60102,
@@ -165,7 +165,7 @@
         "ExclusionNoSenseCharacter": false,
         "Order": 2,
         "StageOrder": 18,
-        "GoalCount": 1000
+        "GoalCount": 600
       },
       {
         "Id": 70101,
@@ -174,7 +174,7 @@
         "ExclusionNoSenseCharacter": false,
         "Order": 1,
         "StageOrder": 19,
-        "GoalCount": 1250
+        "GoalCount": 800
       },
       {
         "Id": 70102,
@@ -183,7 +183,7 @@
         "ExclusionNoSenseCharacter": false,
         "Order": 2,
         "StageOrder": 20,
-        "GoalCount": 1500
+        "GoalCount": 1000
       },
       {
         "Id": 80101,

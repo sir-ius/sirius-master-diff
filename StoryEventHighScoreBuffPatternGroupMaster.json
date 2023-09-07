@@ -4,43 +4,43 @@
     "Patterns": [
       {
         "NextLevel": 1,
-        "RequiredPoint": 50
+        "RequiredPoint": 10
       },
       {
         "NextLevel": 2,
-        "RequiredPoint": 60
+        "RequiredPoint": 11
       },
       {
         "NextLevel": 3,
-        "RequiredPoint": 80
+        "RequiredPoint": 12
       },
       {
         "NextLevel": 4,
-        "RequiredPoint": 130
+        "RequiredPoint": 13
       },
       {
         "NextLevel": 5,
-        "RequiredPoint": 230
+        "RequiredPoint": 16
       },
       {
         "NextLevel": 6,
-        "RequiredPoint": 460
+        "RequiredPoint": 19
       },
       {
         "NextLevel": 7,
-        "RequiredPoint": 920
+        "RequiredPoint": 23
       },
       {
         "NextLevel": 8,
-        "RequiredPoint": 1840
+        "RequiredPoint": 30
       },
       {
         "NextLevel": 9,
-        "RequiredPoint": 5520
+        "RequiredPoint": 42
       },
       {
         "NextLevel": 10,
-        "RequiredPoint": 22080
+        "RequiredPoint": 63
       }
     ]
   },
@@ -49,43 +49,43 @@
     "Patterns": [
       {
         "NextLevel": 1,
-        "RequiredPoint": 100
+        "RequiredPoint": 20
       },
       {
         "NextLevel": 2,
-        "RequiredPoint": 120
+        "RequiredPoint": 22
       },
       {
         "NextLevel": 3,
-        "RequiredPoint": 170
+        "RequiredPoint": 24
       },
       {
         "NextLevel": 4,
-        "RequiredPoint": 270
+        "RequiredPoint": 26
       },
       {
         "NextLevel": 5,
-        "RequiredPoint": 490
+        "RequiredPoint": 31
       },
       {
         "NextLevel": 6,
-        "RequiredPoint": 980
+        "RequiredPoint": 37
       },
       {
         "NextLevel": 7,
-        "RequiredPoint": 1960
+        "RequiredPoint": 44
       },
       {
         "NextLevel": 8,
-        "RequiredPoint": 3920
+        "RequiredPoint": 62
       },
       {
         "NextLevel": 9,
-        "RequiredPoint": 11760
+        "RequiredPoint": 99
       },
       {
         "NextLevel": 10,
-        "RequiredPoint": 47040
+        "RequiredPoint": 178
       }
     ]
   }

@@ -26,5 +26,12 @@
     "ReleasePlayerRank": 30,
     "DisplayStartAt": "2023-08-15T17:00:00.000Z",
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 3007,
+    "Name": "電気街",
+    "ReleasePlayerRank": 30,
+    "DisplayStartAt": "2023-09-19T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   }
 ]

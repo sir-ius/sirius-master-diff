@@ -140,6 +140,20 @@
     "EndDate": "2023-09-10T17:00:00.000Z"
   },
   {
+    "Id": 1007,
+    "Order": 1007,
+    "Name": "脚光が照らすこれからガチャ(アクター)",
+    "JumpType": 4,
+    "JumpPageId": "1007",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": 0,
+    "DeleteConditionValue": null,
+    "ImagePath": "Gacha/1007",
+    "StartDate": "2023-09-10T17:00:00.000Z",
+    "EndDate": "2023-09-20T17:00:00.000Z"
+  },
+  {
     "Id": 2001,
     "Order": 2001,
     "Name": "リリース記念ガチャ(ポスター)",
@@ -224,6 +238,20 @@
     "EndDate": "2023-09-10T17:00:00.000Z"
   },
   {
+    "Id": 2007,
+    "Order": 2007,
+    "Name": "脚光が照らすこれからガチャ(ポスター)",
+    "JumpType": 4,
+    "JumpPageId": "2007",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": 0,
+    "DeleteConditionValue": null,
+    "ImagePath": "Gacha/2007",
+    "StartDate": "2023-09-10T17:00:00.000Z",
+    "EndDate": "2023-09-20T17:00:00.000Z"
+  },
+  {
     "Id": 3001,
     "Order": 3001,
     "Name": "イベント「god is no /w/ here」",
@@ -278,6 +306,20 @@
     "ImagePath": "Event/20004",
     "StartDate": "2023-08-31T17:00:00.000Z",
     "EndDate": "2023-09-10T17:00:00.000Z"
+  },
+  {
+    "Id": 3005,
+    "Order": 3005,
+    "Name": "イベント「脚光が照らすこれから」",
+    "JumpType": 5,
+    "JumpPageId": "20005",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": 0,
+    "DeleteConditionValue": null,
+    "ImagePath": "Event/20005",
+    "StartDate": "2023-09-10T17:00:00.000Z",
+    "EndDate": "2023-09-20T17:00:00.000Z"
   },
   {
     "Id": 5002,
@@ -376,6 +418,48 @@
     "ImagePath": "Home/5014",
     "StartDate": "2023-08-31T17:00:00.000Z",
     "EndDate": "2023-09-08T22:00:00.000Z"
+  },
+  {
+    "Id": 5015,
+    "Order": 5015,
+    "Name": "お誕生日パック【烏森 大黒】",
+    "JumpType": 3,
+    "JumpPageId": "5",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": 1,
+    "DeleteConditionValue": "5015",
+    "ImagePath": "Home/5015",
+    "StartDate": "2023-09-13T00:00:00.000Z",
+    "EndDate": "2023-09-23T00:00:00.000Z"
+  },
+  {
+    "Id": 5016,
+    "Order": 5016,
+    "Name": "お誕生日パック【柳場 ぱんだ】",
+    "JumpType": 3,
+    "JumpPageId": "5",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": 1,
+    "DeleteConditionValue": "5016",
+    "ImagePath": "Home/5016",
+    "StartDate": "2023-09-13T00:00:00.000Z",
+    "EndDate": "2023-09-23T00:00:00.000Z"
+  },
+  {
+    "Id": 5017,
+    "Order": 5017,
+    "Name": "撮影パック",
+    "JumpType": 3,
+    "JumpPageId": "5",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": 1,
+    "DeleteConditionValue": "5017",
+    "ImagePath": "Home/5017",
+    "StartDate": "2023-09-19T17:00:00.000Z",
+    "EndDate": "2023-09-30T17:00:00.000Z"
   },
   {
     "Id": 5019,

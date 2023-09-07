@@ -5493,6 +5493,150 @@
     ]
   },
   {
+    "Id": 4600,
+    "MissionCategory": 2,
+    "MissionViewOrder": 4600,
+    "Title": "",
+    "Description": "ジュゴンの勲章を[:param]個獲得しよう",
+    "EventMasterId": null,
+    "JumpType": 0,
+    "JumpTargetId": null,
+    "StartDate": "2023-09-10T17:00:00.000Z",
+    "EndDate": "2100-01-01T00:00:00.000Z",
+    "Stages": [
+      {
+        "Id": 4601,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 20,
+        "StartDate": "2023-09-10T17:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 204001,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
+        ]
+      },
+      {
+        "Id": 4602,
+        "MissionStageOrder": 2,
+        "StageGoalValue": 40,
+        "StartDate": "2023-09-10T17:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 204002,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
+        ]
+      },
+      {
+        "Id": 4603,
+        "MissionStageOrder": 3,
+        "StageGoalValue": 60,
+        "StartDate": "2023-09-10T17:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 204003,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
+        ]
+      },
+      {
+        "Id": 4604,
+        "MissionStageOrder": 4,
+        "StageGoalValue": 80,
+        "StartDate": "2023-09-10T17:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 204004,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
+        ]
+      },
+      {
+        "Id": 4605,
+        "MissionStageOrder": 5,
+        "StageGoalValue": 100,
+        "StartDate": "2023-09-10T17:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 204005,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
+        ]
+      },
+      {
+        "Id": 4606,
+        "MissionStageOrder": 6,
+        "StageGoalValue": 125,
+        "StartDate": "2023-09-10T17:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 204006,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
+        ]
+      },
+      {
+        "Id": 4607,
+        "MissionStageOrder": 7,
+        "StageGoalValue": 150,
+        "StartDate": "2023-09-10T17:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 204007,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
+        ]
+      },
+      {
+        "Id": 4608,
+        "MissionStageOrder": 8,
+        "StageGoalValue": 175,
+        "StartDate": "2023-09-10T17:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 204008,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
+        ]
+      },
+      {
+        "Id": 4609,
+        "MissionStageOrder": 9,
+        "StageGoalValue": 200,
+        "StartDate": "2023-09-10T17:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 204009,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
+        ]
+      },
+      {
+        "Id": 4610,
+        "MissionStageOrder": 10,
+        "StageGoalValue": 250,
+        "StartDate": "2023-09-10T17:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 204010,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
     "Id": 10100,
     "MissionCategory": 3,
     "MissionViewOrder": 10100,
@@ -6052,6 +6196,60 @@
         "Rewards": [
           {
             "ThingId": 130571,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 12200,
+    "MissionCategory": 3,
+    "MissionViewOrder": 12200,
+    "Title": "",
+    "Description": "「Pandastic Stage!」を[:param]回クリアしよう",
+    "EventMasterId": null,
+    "JumpType": 6,
+    "JumpTargetId": null,
+    "StartDate": "2023-09-13T17:00:00.000Z",
+    "EndDate": "2023-09-23T00:00:00.000Z",
+    "Stages": [
+      {
+        "Id": 12201,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 5,
+        "StartDate": "2023-09-13T17:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 110571,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 12300,
+    "MissionCategory": 3,
+    "MissionViewOrder": 12300,
+    "Title": "",
+    "Description": "「Black Diary」を[:param]回クリアしよう",
+    "EventMasterId": null,
+    "JumpType": 6,
+    "JumpTargetId": null,
+    "StartDate": "2023-09-13T17:00:00.000Z",
+    "EndDate": "2023-09-23T00:00:00.000Z",
+    "Stages": [
+      {
+        "Id": 12301,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 5,
+        "StartDate": "2023-09-13T17:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 120271,
             "ThingType": 6,
             "ThingQuantity": 1
           }
