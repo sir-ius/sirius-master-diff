@@ -1011,6 +1011,22 @@
         "EndDate": "2100-01-01T00:00:00.000Z",
         "RequiredItemMasterId": 130013,
         "RequiredQuantity": 60
+      },
+      {
+        "Id": 13006,
+        "ThingId": 230190,
+        "ThingType": 3,
+        "ThingQuantity": 1,
+        "ExchangeLimit": 1,
+        "Order": 13006,
+        "ReplaceType": null,
+        "IsDisplayLocked": false,
+        "UnlockType": null,
+        "UnlockValue": null,
+        "StartDate": "2023-09-10T17:00:00.000Z",
+        "EndDate": "2100-01-01T00:00:00.000Z",
+        "RequiredItemMasterId": 130013,
+        "RequiredQuantity": 60
       }
     ]
   },

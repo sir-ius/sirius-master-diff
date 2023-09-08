@@ -1299,7 +1299,7 @@
     "Id": 5702,
     "Difficulty": 2,
     "MusicMasterId": 57,
-    "Level": 14
+    "Level": 13
   },
   {
     "Id": 5703,
@@ -1389,13 +1389,13 @@
     "Id": 7202,
     "Difficulty": 2,
     "MusicMasterId": 72,
-    "Level": 17
+    "Level": 14
   },
   {
     "Id": 7203,
     "Difficulty": 3,
     "MusicMasterId": 72,
-    "Level": 23
+    "Level": 24
   },
   {
     "Id": 7204,
