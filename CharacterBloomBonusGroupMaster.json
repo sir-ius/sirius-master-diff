@@ -3642,7 +3642,7 @@
       },
       {
         "BloomBonusType": 0,
-        "Description": "演技力36％UP",
+        "Description": "演技力12％UP",
         "Phase": 3,
         "EffectMasterId": 30012,
         "IconPath": "PerformanceUp"
