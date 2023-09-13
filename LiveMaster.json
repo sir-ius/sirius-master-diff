@@ -1311,13 +1311,13 @@
     "Id": 5704,
     "Difficulty": 4,
     "MusicMasterId": 57,
-    "Level": 25
+    "Level": 26
   },
   {
     "Id": 5705,
     "Difficulty": 5,
     "MusicMasterId": 57,
-    "Level": 107
+    "Level": 108
   },
   {
     "Id": 5801,
@@ -1329,7 +1329,7 @@
     "Id": 5802,
     "Difficulty": 2,
     "MusicMasterId": 58,
-    "Level": 17
+    "Level": 15
   },
   {
     "Id": 5803,
@@ -1341,13 +1341,13 @@
     "Id": 5804,
     "Difficulty": 4,
     "MusicMasterId": 58,
-    "Level": 26
+    "Level": 25
   },
   {
     "Id": 5805,
     "Difficulty": 5,
     "MusicMasterId": 58,
-    "Level": 104
+    "Level": 103
   },
   {
     "Id": 6001,
