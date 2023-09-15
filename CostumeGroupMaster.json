@@ -1021,5 +1021,35 @@
     "IsHairChange": true,
     "DisplayStartAt": "2023-09-10T17:00:00.000Z",
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 131,
+    "Name": "時間を稼げセリヌンティウス",
+    "Description": null,
+    "Order": 131,
+    "CostumeMasterIds": [
+      1311,
+      1312
+    ],
+    "CostumeWearableCharacterGroupMasterId": null,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2023-09-20T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 132,
+    "Name": "時間を稼げセリヌンティウス",
+    "Description": null,
+    "Order": 132,
+    "CostumeMasterIds": [
+      1321,
+      1322
+    ],
+    "CostumeWearableCharacterGroupMasterId": 203,
+    "PerformanceGroupId": null,
+    "IsHairChange": true,
+    "DisplayStartAt": "2023-09-20T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   }
 ]

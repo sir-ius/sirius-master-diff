@@ -1571,6 +1571,41 @@
     "MusicVideoType": 0
   },
   {
+    "Id": 56,
+    "Name": "フレーフレー・ファンファーレ！",
+    "Description": "",
+    "RewardRuleMasterId": 1,
+    "PronounceName": "ふれーふれーふぁんふぁーれ",
+    "LyricWriter": "松井洋平",
+    "Composer": "EFFY",
+    "Arranger": "EFFY",
+    "UnlockText": null,
+    "IsLongVersion": false,
+    "ReleasedAt": "2023-09-20T17:00:00.000Z",
+    "StaminaConsumption": 30,
+    "MusicTimeSecond": 124,
+    "Invisible": false,
+    "SampleStartSeconds": 0,
+    "SampleEndSeconds": 0,
+    "DelaySeconds": 0,
+    "VocalVersions": [
+      {
+        "Id": 5601,
+        "MusicMasterId": 56,
+        "VocalVersion": 1,
+        "Singer": "舎人仁花子、萬容",
+        "Name": "フレーフレー・ファンファーレ！",
+        "MusicTimeSecond": 124,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": 0
+      }
+    ],
+    "UnlockConditionType": 1,
+    "UnlockConditionValue": null,
+    "MusicVideoType": 0
+  },
+  {
     "Id": 57,
     "Name": "Black Diary",
     "Description": "",

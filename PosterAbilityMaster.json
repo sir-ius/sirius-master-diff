@@ -3780,6 +3780,96 @@
     "ConditionValue2": null
   },
   {
+    "Id": 220220,
+    "Name": "歌川高校体育祭！　～応援団長の一日～",
+    "Description": "<color=#7AC940>彩属性</color>のアクターの演技力が[:param11]%上昇",
+    "PosterMasterId": 220220,
+    "Type": 1,
+    "FrameNumber": 1,
+    "ReleaseLevelAt": 0,
+    "Hidden": false,
+    "Branches": [
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 70022003
+          }
+        ],
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 22022001
+      }
+    ],
+    "BranchConditionType1": 0,
+    "ConditionValue1": null,
+    "BranchConditionType2": 0,
+    "ConditionValue2": null
+  },
+  {
+    "Id": 220221,
+    "Name": "演技力アップ＋",
+    "Description": "自身の演技力が[:param11]%上昇　◆発動条件：<color=#7AC940>彩属性</color>のアクターが装備",
+    "PosterMasterId": 220220,
+    "Type": 2,
+    "FrameNumber": 1,
+    "ReleaseLevelAt": 0,
+    "Hidden": false,
+    "Branches": [
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10011003
+          }
+        ],
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 22022101
+      }
+    ],
+    "BranchConditionType1": 0,
+    "ConditionValue1": null,
+    "BranchConditionType2": 0,
+    "ConditionValue2": null
+  },
+  {
+    "Id": 220222,
+    "Name": "初期ライフ上昇＋",
+    "Description": "公演開始時、ライフが[:param11]上昇　◆発動条件：<color=#7AC940>彩属性</color>のアクターが装備",
+    "PosterMasterId": 220220,
+    "Type": 2,
+    "FrameNumber": 2,
+    "ReleaseLevelAt": 7,
+    "Hidden": false,
+    "Branches": [
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 11311003
+          }
+        ],
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 22022201
+      }
+    ],
+    "BranchConditionType1": 0,
+    "ConditionValue1": null,
+    "BranchConditionType2": 0,
+    "ConditionValue2": null
+  },
+  {
     "Id": 229010,
     "Name": "初めての舞台",
     "Description": "<color=#7AC940>彩属性</color>のアクターの演技力が[:param11]%上昇",
@@ -3952,6 +4042,96 @@
         "JudgeType2": null,
         "Parameter2": null,
         "Id": 22902201
+      }
+    ],
+    "BranchConditionType1": 0,
+    "ConditionValue1": null,
+    "BranchConditionType2": 0,
+    "ConditionValue2": null
+  },
+  {
+    "Id": 229030,
+    "Name": "ロミオとジュリエット",
+    "Description": "<color=#FF9314>陽属性</color>のアクターの演技力が[:param11]%上昇",
+    "PosterMasterId": 229030,
+    "Type": 1,
+    "FrameNumber": 1,
+    "ReleaseLevelAt": 0,
+    "Hidden": false,
+    "Branches": [
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 70041004
+          }
+        ],
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 22903001
+      }
+    ],
+    "BranchConditionType1": 0,
+    "ConditionValue1": null,
+    "BranchConditionType2": 0,
+    "ConditionValue2": null
+  },
+  {
+    "Id": 229031,
+    "Name": "演技力アップⅢ",
+    "Description": "自身の演技力が[:param11]%上昇　◆発動条件：<color=#FF9314>陽属性</color>のアクターが装備",
+    "PosterMasterId": 229030,
+    "Type": 2,
+    "FrameNumber": 1,
+    "ReleaseLevelAt": 0,
+    "Hidden": false,
+    "Branches": [
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10030004
+          }
+        ],
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 22903101
+      }
+    ],
+    "BranchConditionType1": 0,
+    "ConditionValue1": null,
+    "BranchConditionType2": 0,
+    "ConditionValue2": null
+  },
+  {
+    "Id": 229032,
+    "Name": "初期ライフ上昇",
+    "Description": "公演開始時、ライフが[:param11]上昇",
+    "PosterMasterId": 229030,
+    "Type": 2,
+    "FrameNumber": 2,
+    "ReleaseLevelAt": 8,
+    "Hidden": false,
+    "Branches": [
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 11310000
+          }
+        ],
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 22903201
       }
     ],
     "BranchConditionType1": 0,
@@ -6500,7 +6680,7 @@
   {
     "Id": 230192,
     "Name": "スコアブースト・集中力Ⅲ",
-    "Description": "センス発動直後、自身の集中力の[:param11]倍のスコアを獲得　◆発動条件：憐属性のアクターが装備",
+    "Description": "センス発動直後、自身の集中力の[:param11]倍のスコアを獲得　◆発動条件：<color=#ff679d>憐属性</color>のアクターが装備",
     "PosterMasterId": 230190,
     "Type": 2,
     "FrameNumber": 2,
@@ -6520,6 +6700,96 @@
         "JudgeType2": null,
         "Parameter2": null,
         "Id": 23019201
+      }
+    ],
+    "BranchConditionType1": 0,
+    "ConditionValue1": null,
+    "BranchConditionType2": 0,
+    "ConditionValue2": null
+  },
+  {
+    "Id": 230200,
+    "Name": "真の友情を見せる時！？",
+    "Description": "<color=#7AC940>彩属性</color>のアクターの演技力が[:param11]%上昇",
+    "PosterMasterId": 230200,
+    "Type": 1,
+    "FrameNumber": 1,
+    "ReleaseLevelAt": 0,
+    "Hidden": false,
+    "Branches": [
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 70052003
+          }
+        ],
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23020001
+      }
+    ],
+    "BranchConditionType1": 0,
+    "ConditionValue1": null,
+    "BranchConditionType2": 0,
+    "ConditionValue2": null
+  },
+  {
+    "Id": 230201,
+    "Name": "表現力アップⅢ＋",
+    "Description": "自身の表現力が[:param11]%上昇",
+    "PosterMasterId": 230200,
+    "Type": 2,
+    "FrameNumber": 1,
+    "ReleaseLevelAt": 0,
+    "Hidden": false,
+    "Branches": [
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10231000
+          }
+        ],
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23020101
+      }
+    ],
+    "BranchConditionType1": 0,
+    "ConditionValue1": null,
+    "BranchConditionType2": 0,
+    "ConditionValue2": null
+  },
+  {
+    "Id": 230202,
+    "Name": "スコアブースト・表現力Ⅲ",
+    "Description": "センス発動直後、自身の表現力の[:param11]倍のスコアを獲得　◆発動条件：<color=#7AC940>彩属性</color>のアクターが装備",
+    "PosterMasterId": 230200,
+    "Type": 2,
+    "FrameNumber": 2,
+    "ReleaseLevelAt": 7,
+    "Hidden": false,
+    "Branches": [
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 11030003
+          }
+        ],
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23020201
       }
     ],
     "BranchConditionType1": 0,

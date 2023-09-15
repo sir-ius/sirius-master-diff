@@ -154,6 +154,20 @@
     "EndDate": "2023-09-20T17:00:00.000Z"
   },
   {
+    "Id": 1009,
+    "Order": 1009,
+    "Name": "歌川高校体育祭！　～応援団長の一日～ガチャ(アクター)",
+    "JumpType": 4,
+    "JumpPageId": "1009",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": 0,
+    "DeleteConditionValue": null,
+    "ImagePath": "Gacha/1009",
+    "StartDate": "2023-09-20T17:00:00.000Z",
+    "EndDate": "2023-09-30T17:00:00.000Z"
+  },
+  {
     "Id": 2001,
     "Order": 2001,
     "Name": "リリース記念ガチャ(ポスター)",
@@ -252,6 +266,20 @@
     "EndDate": "2023-09-20T17:00:00.000Z"
   },
   {
+    "Id": 2009,
+    "Order": 2009,
+    "Name": "歌川高校体育祭！　～応援団長の一日～ガチャ(ポスター)",
+    "JumpType": 4,
+    "JumpPageId": "2009",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": 0,
+    "DeleteConditionValue": null,
+    "ImagePath": "Gacha/2009",
+    "StartDate": "2023-09-20T17:00:00.000Z",
+    "EndDate": "2023-09-30T17:00:00.000Z"
+  },
+  {
     "Id": 3001,
     "Order": 3001,
     "Name": "イベント「god is no /w/ here」",
@@ -320,6 +348,20 @@
     "ImagePath": "Event/20005",
     "StartDate": "2023-09-10T17:00:00.000Z",
     "EndDate": "2023-09-20T17:00:00.000Z"
+  },
+  {
+    "Id": 3006,
+    "Order": 3006,
+    "Name": "イベント「歌川高校体育祭！　～応援団長の一日～」",
+    "JumpType": 5,
+    "JumpPageId": "20006",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": 0,
+    "DeleteConditionValue": null,
+    "ImagePath": "Event/20006",
+    "StartDate": "2023-09-20T17:00:00.000Z",
+    "EndDate": "2023-09-30T17:00:00.000Z"
   },
   {
     "Id": 5002,
@@ -474,5 +516,19 @@
     "ImagePath": "Home/5019",
     "StartDate": "2023-08-25T17:00:00.000Z",
     "EndDate": "2023-09-10T17:00:00.000Z"
+  },
+  {
+    "Id": 5025,
+    "Order": 5025,
+    "Name": "50万DL記念劇ジュエルパックA",
+    "JumpType": 3,
+    "JumpPageId": "5",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": 0,
+    "DeleteConditionValue": null,
+    "ImagePath": "Home/5025",
+    "StartDate": "2023-09-25T17:00:00.000Z",
+    "EndDate": "2023-10-16T17:00:00.000Z"
   }
 ]

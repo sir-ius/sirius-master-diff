@@ -97,5 +97,14 @@
     "ChapterOrder": 0,
     "DisplayStartAt": "2023-09-10T17:00:00.000Z",
     "DisplayEndAt": "2023-09-20T17:00:00.000Z"
+  },
+  {
+    "Id": 20006,
+    "Type": 2,
+    "CompanyMasterId": null,
+    "EventMasterId": 20006,
+    "ChapterOrder": 0,
+    "DisplayStartAt": "2023-09-20T17:00:00.000Z",
+    "DisplayEndAt": "2023-09-30T17:00:00.000Z"
   }
 ]

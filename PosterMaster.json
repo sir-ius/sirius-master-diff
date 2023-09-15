@@ -974,6 +974,28 @@
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   },
   {
+    "Id": 220220,
+    "Name": "歌川高校体育祭！　～応援団長の一日～",
+    "OrganizeRestrictGroupId": null,
+    "Rarity": 2,
+    "LevelPatternGroupMasterId": 2,
+    "SubTitlePositionX1": 16,
+    "SubTitlePositionY1": 1588,
+    "SubTitlePositionX2": 0,
+    "SubTitlePositionY2": 0,
+    "SubTitlePositionX3": null,
+    "SubTitlePositionY3": null,
+    "ReleaseItemGroupId": 2,
+    "PronounceName": "うたがわこうこうたいいくさいおうえんだんちょうのいちにち",
+    "Costumes": [],
+    "AppearanceCharacterBaseMasterIds": [
+      203
+    ],
+    "IsRestrictItemBreakThrough": false,
+    "DisplayStartAt": "2023-09-20T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
     "Id": 229010,
     "Name": "【SIRIUS】竹取物語",
     "OrganizeRestrictGroupId": null,
@@ -1017,6 +1039,29 @@
     ],
     "IsRestrictItemBreakThrough": true,
     "DisplayStartAt": "2023-08-17T00:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 229030,
+    "Name": "【SIRIUS】ロミオとジュリエット",
+    "OrganizeRestrictGroupId": null,
+    "Rarity": 3,
+    "LevelPatternGroupMasterId": 3,
+    "SubTitlePositionX1": 5,
+    "SubTitlePositionY1": 32,
+    "SubTitlePositionX2": null,
+    "SubTitlePositionY2": null,
+    "SubTitlePositionX3": null,
+    "SubTitlePositionY3": null,
+    "ReleaseItemGroupId": 3,
+    "PronounceName": "ろみおとじゅりえっと",
+    "Costumes": [],
+    "AppearanceCharacterBaseMasterIds": [
+      105,
+      106
+    ],
+    "IsRestrictItemBreakThrough": true,
+    "DisplayStartAt": "2023-09-18T00:00:00.000Z",
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   },
   {
@@ -1544,7 +1589,7 @@
     "SubTitlePositionX3": 136,
     "SubTitlePositionY3": 44,
     "ReleaseItemGroupId": 3,
-    "PronounceName": "LittleWoman",
+    "PronounceName": "LittleWomen",
     "Costumes": [
       {
         "Phase": 0,
@@ -1649,6 +1694,47 @@
     ],
     "IsRestrictItemBreakThrough": false,
     "DisplayStartAt": "2023-09-10T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 230200,
+    "Name": "時間を稼げセリヌンティウス",
+    "OrganizeRestrictGroupId": null,
+    "Rarity": 3,
+    "LevelPatternGroupMasterId": 3,
+    "SubTitlePositionX1": 625,
+    "SubTitlePositionY1": 841,
+    "SubTitlePositionX2": 0,
+    "SubTitlePositionY2": 0,
+    "SubTitlePositionX3": 11,
+    "SubTitlePositionY3": 1551,
+    "ReleaseItemGroupId": 3,
+    "PronounceName": "じかんをかせげせりぬんてぃうす",
+    "Costumes": [
+      {
+        "Phase": 0,
+        "CostumeMasterId": 1311
+      },
+      {
+        "Phase": 1,
+        "CostumeMasterId": 1312
+      },
+      {
+        "Phase": 2,
+        "CostumeMasterId": 1321
+      },
+      {
+        "Phase": 3,
+        "CostumeMasterId": 1322
+      }
+    ],
+    "AppearanceCharacterBaseMasterIds": [
+      102,
+      203,
+      204
+    ],
+    "IsRestrictItemBreakThrough": false,
+    "DisplayStartAt": "2023-09-20T17:00:00.000Z",
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   }
 ]

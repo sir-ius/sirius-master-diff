@@ -1214,6 +1214,19 @@
     "CoolTime": 40
   },
   {
+    "Id": 130270,
+    "Name": "負けられない一戦",
+    "Description": "[:score]倍のスコアを獲得",
+    "Type": 4,
+    "PreEffects": [],
+    "Branches": [],
+    "AcquirableGauge": 0,
+    "AcquirableScorePercent": 410,
+    "ScoreUpPerLevel": 40,
+    "LightCount": 1,
+    "CoolTime": 40
+  },
+  {
     "Id": 140010,
     "Name": "悲哀と恋慕の旋律",
     "Description": "[:score]倍のスコアを獲得／ライフを[:param11]回復／ライフが多いほどここなのスコア獲得量UP（最大＋100％）",
@@ -1515,7 +1528,7 @@
         "BranchEffects": [
           {
             "Order": 1,
-            "EffectMasterId": 20054
+            "EffectMasterId": 20044
           }
         ],
         "JudgeType1": null,
@@ -1699,5 +1712,31 @@
     "ScoreUpPerLevel": 0,
     "LightCount": 0,
     "CoolTime": 0
+  },
+  {
+    "Id": 140260,
+    "Name": "アオハル応援団長",
+    "Description": "[:score]倍のスコアを獲得／[:gauge]のプリンシパルゲージを獲得",
+    "Type": 2,
+    "PreEffects": [],
+    "Branches": [],
+    "AcquirableGauge": 120,
+    "AcquirableScorePercent": 190,
+    "ScoreUpPerLevel": 70,
+    "LightCount": 1,
+    "CoolTime": 60
+  },
+  {
+    "Id": 140270,
+    "Name": "Pretty Cheer Girl",
+    "Description": "[:score]倍のスコアを獲得",
+    "Type": 3,
+    "PreEffects": [],
+    "Branches": [],
+    "AcquirableGauge": 0,
+    "AcquirableScorePercent": 600,
+    "ScoreUpPerLevel": 50,
+    "LightCount": 1,
+    "CoolTime": 40
   }
 ]
