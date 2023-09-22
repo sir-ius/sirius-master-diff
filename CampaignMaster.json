@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "Id": 1,
+    "Title": "公演の獲得EXP 50％UP",
+    "Description": "対象：公演、協力公演",
+    "IconImagePath": "4",
+    "Order": 1,
+    "StartDate": "2023-09-25T05:00:00.000Z",
+    "EndDate": "2023-09-30T05:00:00.000Z"
+  },
+  {
+    "Id": 2,
+    "Title": "稽古の獲得SP 50％UP",
+    "Description": "期間：9/30 5:00～10/9 5:00/n対象：稽古",
+    "IconImagePath": "3",
+    "Order": 2,
+    "StartDate": "2023-09-30T05:00:00.000Z",
+    "EndDate": "2023-10-09T05:00:00.000Z"
+  },
+  {
+    "Id": 3,
+    "Title": "公演の報酬量 50%UP",
+    "Description": "期間：10/9 5:00～10/17 5:00/n対象：公演、協力公演",
+    "IconImagePath": "1",
+    "Order": 3,
+    "StartDate": "2023-10-09T05:00:00.000Z",
+    "EndDate": "2023-10-17T05:00:00.000Z"
+  }
+]
