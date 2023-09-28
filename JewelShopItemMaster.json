@@ -4402,6 +4402,51 @@
     "ShopItemValue": null
   },
   {
+    "Id": 5018,
+    "Order": 5018,
+    "AppStoreProductId": "",
+    "GooglePlayProductId": "",
+    "Name": "電姫空間のおまもりパック",
+    "PackText": "",
+    "MJewelShopCategoryId": 5,
+    "DialogType": 1,
+    "PurchaseType": 1,
+    "PurchaseValue": 3000,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": null,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": false,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": false,
+    "UnlockType": null,
+    "UnlockValue": null,
+    "StartDate": "2023-09-30T17:00:00.000Z",
+    "EndDate": "2023-10-08T22:00:00.000Z",
+    "Lineup": [
+      {
+        "Id": 501801,
+        "MJewelShopItemId": 5018,
+        "ThingId": 139003,
+        "ThingType": 1,
+        "ThingQuantity": 1
+      },
+      {
+        "Id": 501802,
+        "MJewelShopItemId": 5018,
+        "ThingId": 110002,
+        "ThingType": 1,
+        "ThingQuantity": 75
+      }
+    ],
+    "ShopItemType": 4,
+    "ShopItemValue": 6
+  },
+  {
     "Id": 5019,
     "Order": 5019,
     "AppStoreProductId": "5019",
@@ -4700,6 +4745,86 @@
         "ThingId": 221001,
         "ThingType": 1,
         "ThingQuantity": 1
+      }
+    ],
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 5029,
+    "Order": 5029,
+    "AppStoreProductId": "5029",
+    "GooglePlayProductId": "5029",
+    "Name": "お誕生日パック【千寿 暦】",
+    "PackText": "",
+    "MJewelShopCategoryId": 5,
+    "DialogType": 1,
+    "PurchaseType": 2,
+    "PurchaseValue": 3000,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": 3000,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": false,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": false,
+    "UnlockType": null,
+    "UnlockValue": null,
+    "StartDate": "2023-10-03T00:00:00.000Z",
+    "EndDate": "2023-10-13T00:00:00.000Z",
+    "Lineup": [
+      {
+        "Id": 502901,
+        "MJewelShopItemId": 5029,
+        "ThingId": 511301,
+        "ThingType": 1,
+        "ThingQuantity": 1
+      },
+      {
+        "Id": 502902,
+        "MJewelShopItemId": 5029,
+        "ThingId": 330120,
+        "ThingType": 4,
+        "ThingQuantity": 1
+      },
+      {
+        "Id": 502903,
+        "MJewelShopItemId": 5029,
+        "ThingId": 30181,
+        "ThingType": 7,
+        "ThingQuantity": 1
+      },
+      {
+        "Id": 502904,
+        "MJewelShopItemId": 5029,
+        "ThingId": 10301,
+        "ThingType": 16,
+        "ThingQuantity": 1
+      },
+      {
+        "Id": 502905,
+        "MJewelShopItemId": 5029,
+        "ThingId": 1301,
+        "ThingType": 8,
+        "ThingQuantity": 1
+      },
+      {
+        "Id": 502906,
+        "MJewelShopItemId": 5029,
+        "ThingId": 130082,
+        "ThingType": 1,
+        "ThingQuantity": 120
+      },
+      {
+        "Id": 502907,
+        "MJewelShopItemId": 5029,
+        "ThingId": 130081,
+        "ThingType": 1,
+        "ThingQuantity": 600
       }
     ],
     "ShopItemType": 0,
@@ -5495,6 +5620,158 @@
       {
         "Id": 552201,
         "MJewelShopItemId": 5522,
+        "ThingId": 0,
+        "ThingType": 13,
+        "ThingQuantity": 4900
+      }
+    ],
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 5523,
+    "Order": 5523,
+    "AppStoreProductId": "",
+    "GooglePlayProductId": "",
+    "Name": "イベント限定ジュエルパック【FREE】",
+    "PackText": "",
+    "MJewelShopCategoryId": 5,
+    "DialogType": 1,
+    "PurchaseType": 3,
+    "PurchaseValue": 0,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": null,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": false,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": true,
+    "UnlockType": 2,
+    "UnlockValue": 2000708,
+    "StartDate": "2023-09-30T17:00:00.000Z",
+    "EndDate": "2023-10-10T17:00:00.000Z",
+    "Lineup": [
+      {
+        "Id": 552301,
+        "MJewelShopItemId": 5523,
+        "ThingId": 0,
+        "ThingType": 13,
+        "ThingQuantity": 100
+      }
+    ],
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 5524,
+    "Order": 5524,
+    "AppStoreProductId": "5524",
+    "GooglePlayProductId": "5524",
+    "Name": "イベント限定ジュエルパックA",
+    "PackText": "",
+    "MJewelShopCategoryId": 5,
+    "DialogType": 1,
+    "PurchaseType": 2,
+    "PurchaseValue": 1500,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": 1500,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": false,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": false,
+    "UnlockType": null,
+    "UnlockValue": null,
+    "StartDate": "2023-09-30T17:00:00.000Z",
+    "EndDate": "2023-10-10T17:00:00.000Z",
+    "Lineup": [
+      {
+        "Id": 552401,
+        "MJewelShopItemId": 5524,
+        "ThingId": 0,
+        "ThingType": 13,
+        "ThingQuantity": 1500
+      }
+    ],
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 5525,
+    "Order": 5525,
+    "AppStoreProductId": "5525",
+    "GooglePlayProductId": "5525",
+    "Name": "イベント限定ジュエルパックB",
+    "PackText": "",
+    "MJewelShopCategoryId": 5,
+    "DialogType": 1,
+    "PurchaseType": 2,
+    "PurchaseValue": 4800,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": 4800,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": false,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": false,
+    "UnlockType": null,
+    "UnlockValue": null,
+    "StartDate": "2023-09-30T17:00:00.000Z",
+    "EndDate": "2023-10-10T17:00:00.000Z",
+    "Lineup": [
+      {
+        "Id": 552501,
+        "MJewelShopItemId": 5525,
+        "ThingId": 0,
+        "ThingType": 13,
+        "ThingQuantity": 3000
+      }
+    ],
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 5526,
+    "Order": 5526,
+    "AppStoreProductId": "5526",
+    "GooglePlayProductId": "5526",
+    "Name": "イベント限定ジュエルパックC",
+    "PackText": "",
+    "MJewelShopCategoryId": 5,
+    "DialogType": 1,
+    "PurchaseType": 2,
+    "PurchaseValue": 9800,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": 9800,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": 2,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": false,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": false,
+    "UnlockType": null,
+    "UnlockValue": null,
+    "StartDate": "2023-09-30T17:00:00.000Z",
+    "EndDate": "2023-10-10T17:00:00.000Z",
+    "Lineup": [
+      {
+        "Id": 552601,
+        "MJewelShopItemId": 5526,
         "ThingId": 0,
         "ThingType": 13,
         "ThingQuantity": 4900

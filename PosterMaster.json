@@ -996,6 +996,28 @@
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   },
   {
+    "Id": 220230,
+    "Name": "FAIR IS FOUL, AND FOUL IS FAIR",
+    "OrganizeRestrictGroupId": null,
+    "Rarity": 2,
+    "LevelPatternGroupMasterId": 2,
+    "SubTitlePositionX1": 595,
+    "SubTitlePositionY1": 1503,
+    "SubTitlePositionX2": 43,
+    "SubTitlePositionY2": 45,
+    "SubTitlePositionX3": null,
+    "SubTitlePositionY3": null,
+    "ReleaseItemGroupId": 2,
+    "PronounceName": "FAIR IS FOUL, AND FOUL IS FAIR",
+    "Costumes": [],
+    "AppearanceCharacterBaseMasterIds": [
+      301
+    ],
+    "IsRestrictItemBreakThrough": false,
+    "DisplayStartAt": "2023-09-30T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
     "Id": 229010,
     "Name": "【SIRIUS】竹取物語",
     "OrganizeRestrictGroupId": null,
@@ -1735,6 +1757,46 @@
     ],
     "IsRestrictItemBreakThrough": false,
     "DisplayStartAt": "2023-09-20T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 230210,
+    "Name": "赤き玉座のマクベス",
+    "OrganizeRestrictGroupId": null,
+    "Rarity": 3,
+    "LevelPatternGroupMasterId": 3,
+    "SubTitlePositionX1": 483,
+    "SubTitlePositionY1": 1139,
+    "SubTitlePositionX2": 38,
+    "SubTitlePositionY2": 65,
+    "SubTitlePositionX3": null,
+    "SubTitlePositionY3": null,
+    "ReleaseItemGroupId": 3,
+    "PronounceName": "あかきぎょくざのまくべす",
+    "Costumes": [
+      {
+        "Phase": 0,
+        "CostumeMasterId": 1331
+      },
+      {
+        "Phase": 1,
+        "CostumeMasterId": 1332
+      },
+      {
+        "Phase": 2,
+        "CostumeMasterId": 1341
+      },
+      {
+        "Phase": 3,
+        "CostumeMasterId": 1342
+      }
+    ],
+    "AppearanceCharacterBaseMasterIds": [
+      201,
+      301
+    ],
+    "IsRestrictItemBreakThrough": false,
+    "DisplayStartAt": "2023-09-30T17:00:00.000Z",
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   }
 ]
