@@ -1051,52 +1051,5 @@
     "IsHairChange": true,
     "DisplayStartAt": "2023-09-20T17:00:00.000Z",
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
-  },
-  {
-    "Id": 133,
-    "Name": "赤き玉座のマクベス",
-    "Description": null,
-    "Order": 133,
-    "CostumeMasterIds": [
-      1331,
-      1332
-    ],
-    "CostumeWearableCharacterGroupMasterId": null,
-    "PerformanceGroupId": null,
-    "IsHairChange": false,
-    "DisplayStartAt": "2023-09-30T17:00:00.000Z",
-    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
-  },
-  {
-    "Id": 134,
-    "Name": "赤き玉座のマクベス",
-    "Description": null,
-    "Order": 134,
-    "CostumeMasterIds": [
-      1341,
-      1342
-    ],
-    "CostumeWearableCharacterGroupMasterId": 301,
-    "PerformanceGroupId": null,
-    "IsHairChange": true,
-    "DisplayStartAt": "2023-09-30T17:00:00.000Z",
-    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
-  },
-  {
-    "Id": 135,
-    "Name": "ハロウィンナイト",
-    "Description": null,
-    "Order": 135,
-    "CostumeMasterIds": [
-      1351,
-      1352,
-      1353,
-      1354
-    ],
-    "CostumeWearableCharacterGroupMasterId": null,
-    "PerformanceGroupId": null,
-    "IsHairChange": false,
-    "DisplayStartAt": "2023-10-01T05:00:00.000Z",
-    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   }
 ]

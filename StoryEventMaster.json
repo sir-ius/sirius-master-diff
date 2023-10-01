@@ -64,16 +64,5 @@
     "StartDate": "2023-09-20T17:00:00.000Z",
     "EndDate": "2023-09-28T22:00:00.000Z",
     "ForceEndDate": "2023-09-30T17:00:00.000Z"
-  },
-  {
-    "Id": 20007,
-    "Category": 1,
-    "BonusAttribute": 4,
-    "Title": "FAIR IS FOUL, AND FOUL IS FAIR",
-    "ExchangeShopMasterId": 20007,
-    "EventPointItemMasterId": 420007,
-    "StartDate": "2023-09-30T17:00:00.000Z",
-    "EndDate": "2023-10-08T22:00:00.000Z",
-    "ForceEndDate": "2023-10-10T17:00:00.000Z"
   }
 ]

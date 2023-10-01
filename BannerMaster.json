@@ -168,20 +168,6 @@
     "EndDate": "2023-09-30T17:00:00.000Z"
   },
   {
-    "Id": 1010,
-    "Order": 1010,
-    "Name": "FAIR IS FOUL, AND FOUL IS FAIRガチャ(アクター)",
-    "JumpType": 4,
-    "JumpPageId": "1010",
-    "WebLinkType": null,
-    "LinkUrl": null,
-    "DeleteConditionType": 0,
-    "DeleteConditionValue": null,
-    "ImagePath": "Gacha/1010",
-    "StartDate": "2023-09-30T17:00:00.000Z",
-    "EndDate": "2023-10-10T17:00:00.000Z"
-  },
-  {
     "Id": 2001,
     "Order": 2001,
     "Name": "リリース記念ガチャ(ポスター)",
@@ -294,20 +280,6 @@
     "EndDate": "2023-09-30T17:00:00.000Z"
   },
   {
-    "Id": 2010,
-    "Order": 2010,
-    "Name": "FAIR IS FOUL, AND FOUL IS FAIRガチャ(ポスター)",
-    "JumpType": 4,
-    "JumpPageId": "2010",
-    "WebLinkType": null,
-    "LinkUrl": null,
-    "DeleteConditionType": 0,
-    "DeleteConditionValue": null,
-    "ImagePath": "Gacha/2010",
-    "StartDate": "2023-09-30T17:00:00.000Z",
-    "EndDate": "2023-10-10T17:00:00.000Z"
-  },
-  {
     "Id": 3001,
     "Order": 3001,
     "Name": "イベント「god is no /w/ here」",
@@ -390,20 +362,6 @@
     "ImagePath": "Event/20006",
     "StartDate": "2023-09-20T17:00:00.000Z",
     "EndDate": "2023-09-30T17:00:00.000Z"
-  },
-  {
-    "Id": 3007,
-    "Order": 3007,
-    "Name": "イベント「FAIR IS FOUL, AND FOUL IS FAIR」",
-    "JumpType": 5,
-    "JumpPageId": "20007",
-    "WebLinkType": null,
-    "LinkUrl": null,
-    "DeleteConditionType": 0,
-    "DeleteConditionValue": null,
-    "ImagePath": "Event/20007",
-    "StartDate": "2023-09-30T17:00:00.000Z",
-    "EndDate": "2023-10-10T17:00:00.000Z"
   },
   {
     "Id": 5002,
@@ -546,20 +504,6 @@
     "EndDate": "2023-09-30T17:00:00.000Z"
   },
   {
-    "Id": 5018,
-    "Order": 5018,
-    "Name": "電姫空間のおまもりパック",
-    "JumpType": 3,
-    "JumpPageId": "5",
-    "WebLinkType": null,
-    "LinkUrl": null,
-    "DeleteConditionType": 1,
-    "DeleteConditionValue": "5018",
-    "ImagePath": "Home/5018",
-    "StartDate": "2023-09-30T17:00:00.000Z",
-    "EndDate": "2023-10-08T22:00:00.000Z"
-  },
-  {
     "Id": 5019,
     "Order": 5019,
     "Name": "リリース1か月記念ジュエルパック",
@@ -586,19 +530,5 @@
     "ImagePath": "Home/5025",
     "StartDate": "2023-09-25T05:00:00.000Z",
     "EndDate": "2023-10-16T17:00:00.000Z"
-  },
-  {
-    "Id": 5029,
-    "Order": 5029,
-    "Name": "お誕生日パック【千寿　暦】",
-    "JumpType": 3,
-    "JumpPageId": "5",
-    "WebLinkType": null,
-    "LinkUrl": null,
-    "DeleteConditionType": 1,
-    "DeleteConditionValue": "5029",
-    "ImagePath": "Home/5029",
-    "StartDate": "2023-10-03T00:00:00.000Z",
-    "EndDate": "2023-10-13T00:00:00.000Z"
   }
 ]

@@ -6258,33 +6258,6 @@
     ]
   },
   {
-    "Id": 12400,
-    "MissionCategory": 3,
-    "MissionViewOrder": 12400,
-    "Title": "",
-    "Description": "「巡る暦の花のように」を[:param]回クリアしよう",
-    "EventMasterId": null,
-    "JumpType": 6,
-    "JumpTargetId": null,
-    "StartDate": "2023-10-03T17:00:00.000Z",
-    "EndDate": "2023-10-13T00:00:00.000Z",
-    "Stages": [
-      {
-        "Id": 12401,
-        "MissionStageOrder": 1,
-        "StageGoalValue": 5,
-        "StartDate": "2023-10-03T17:00:00.000Z",
-        "Rewards": [
-          {
-            "ThingId": 130171,
-            "ThingType": 6,
-            "ThingQuantity": 1
-          }
-        ]
-      }
-    ]
-  },
-  {
     "Id": 100000,
     "MissionCategory": 4,
     "MissionViewOrder": 100000,
