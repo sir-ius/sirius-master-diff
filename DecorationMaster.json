@@ -21,6 +21,13 @@
     "Category": 3
   },
   {
+    "Id": 10301,
+    "Order": 10301,
+    "IsDefault": false,
+    "Name": "四葉の髪飾り",
+    "Category": 3
+  },
+  {
     "Id": 10305,
     "Order": 10305,
     "IsDefault": false,
