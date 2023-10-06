@@ -605,6 +605,28 @@
     "MusicVideoType": 0
   },
   {
+    "Id": 6201,
+    "MusicMasterId": 62,
+    "VocalVersion": 1,
+    "Singer": "柳場ぱんだ、与那国緋花里",
+    "Name": "革命ダンス",
+    "MusicTimeSecond": 124,
+    "SampleStartSeconds": 0,
+    "SampleEndSeconds": 0,
+    "MusicVideoType": 0
+  },
+  {
+    "Id": 6501,
+    "MusicMasterId": 65,
+    "VocalVersion": 1,
+    "Singer": "新妻八恵、本巣叶羽",
+    "Name": "adrenaline!!!",
+    "MusicTimeSecond": 117,
+    "SampleStartSeconds": 0,
+    "SampleEndSeconds": 0,
+    "MusicVideoType": 0
+  },
+  {
     "Id": 7201,
     "MusicMasterId": 72,
     "VocalVersion": 1,
@@ -622,6 +644,17 @@
     "Singer": "萬容",
     "Name": "トウキョウ・シャンディ・ランデヴ",
     "MusicTimeSecond": 126,
+    "SampleStartSeconds": 0,
+    "SampleEndSeconds": 0,
+    "MusicVideoType": 0
+  },
+  {
+    "Id": 8501,
+    "MusicMasterId": 85,
+    "VocalVersion": 1,
+    "Singer": "王雪、与那国緋花里",
+    "Name": "Surges",
+    "MusicTimeSecond": 123,
     "SampleStartSeconds": 0,
     "SampleEndSeconds": 0,
     "MusicVideoType": 0

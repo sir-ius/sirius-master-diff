@@ -1098,5 +1098,35 @@
     "IsHairChange": false,
     "DisplayStartAt": "2023-10-01T05:00:00.000Z",
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 136,
+    "Name": "拝啓、秋月に寄せて",
+    "Description": null,
+    "Order": 136,
+    "CostumeMasterIds": [
+      1361,
+      1362
+    ],
+    "CostumeWearableCharacterGroupMasterId": null,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2023-10-10T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 137,
+    "Name": "拝啓、秋月に寄せて",
+    "Description": null,
+    "Order": 137,
+    "CostumeMasterIds": [
+      1371,
+      1372
+    ],
+    "CostumeWearableCharacterGroupMasterId": 106,
+    "PerformanceGroupId": null,
+    "IsHairChange": true,
+    "DisplayStartAt": "2023-10-10T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   }
 ]

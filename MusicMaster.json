@@ -1781,6 +1781,76 @@
     "MusicVideoType": 0
   },
   {
+    "Id": 62,
+    "Name": "革命ダンス",
+    "Description": "",
+    "RewardRuleMasterId": 1,
+    "PronounceName": "かくめいだんす",
+    "LyricWriter": "志村真白",
+    "Composer": "志村真白",
+    "Arranger": "志村真白",
+    "UnlockText": null,
+    "IsLongVersion": false,
+    "ReleasedAt": "2023-10-10T17:00:00.000Z",
+    "StaminaConsumption": 30,
+    "MusicTimeSecond": 124,
+    "Invisible": false,
+    "SampleStartSeconds": 0,
+    "SampleEndSeconds": 0,
+    "DelaySeconds": 0,
+    "VocalVersions": [
+      {
+        "Id": 6201,
+        "MusicMasterId": 62,
+        "VocalVersion": 1,
+        "Singer": "柳場ぱんだ、与那国緋花里",
+        "Name": "革命ダンス",
+        "MusicTimeSecond": 124,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": 0
+      }
+    ],
+    "UnlockConditionType": 1,
+    "UnlockConditionValue": null,
+    "MusicVideoType": 0
+  },
+  {
+    "Id": 65,
+    "Name": "adrenaline!!!",
+    "Description": "",
+    "RewardRuleMasterId": 1,
+    "PronounceName": "adrenaline",
+    "LyricWriter": "中野領太",
+    "Composer": "中野領太",
+    "Arranger": "-",
+    "UnlockText": "楽曲ショップで購入",
+    "IsLongVersion": false,
+    "ReleasedAt": "2023-10-14T17:00:00.000Z",
+    "StaminaConsumption": 29,
+    "MusicTimeSecond": 117,
+    "Invisible": false,
+    "SampleStartSeconds": 0,
+    "SampleEndSeconds": 0,
+    "DelaySeconds": 0,
+    "VocalVersions": [
+      {
+        "Id": 6501,
+        "MusicMasterId": 65,
+        "VocalVersion": 1,
+        "Singer": "新妻八恵、本巣叶羽",
+        "Name": "adrenaline!!!",
+        "MusicTimeSecond": 117,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": 0
+      }
+    ],
+    "UnlockConditionType": 10,
+    "UnlockConditionValue": null,
+    "MusicVideoType": 0
+  },
+  {
     "Id": 72,
     "Name": "DAYBREAK FRONTLINE",
     "Description": "",
@@ -1841,6 +1911,41 @@
         "Singer": "萬容",
         "Name": "トウキョウ・シャンディ・ランデヴ",
         "MusicTimeSecond": 126,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": 0
+      }
+    ],
+    "UnlockConditionType": 10,
+    "UnlockConditionValue": null,
+    "MusicVideoType": 0
+  },
+  {
+    "Id": 85,
+    "Name": "Surges",
+    "Description": "",
+    "RewardRuleMasterId": 1,
+    "PronounceName": "surges",
+    "LyricWriter": "Orangestar",
+    "Composer": "Orangestar",
+    "Arranger": "-",
+    "UnlockText": "楽曲ショップで購入",
+    "IsLongVersion": false,
+    "ReleasedAt": "2023-10-19T17:00:00.000Z",
+    "StaminaConsumption": 30,
+    "MusicTimeSecond": 123,
+    "Invisible": false,
+    "SampleStartSeconds": 0,
+    "SampleEndSeconds": 0,
+    "DelaySeconds": 0,
+    "VocalVersions": [
+      {
+        "Id": 8501,
+        "MusicMasterId": 85,
+        "VocalVersion": 1,
+        "Singer": "王雪、与那国緋花里",
+        "Name": "Surges",
+        "MusicTimeSecond": 123,
         "SampleStartSeconds": 0,
         "SampleEndSeconds": 0,
         "MusicVideoType": 0

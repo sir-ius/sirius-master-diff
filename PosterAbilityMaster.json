@@ -3900,6 +3900,36 @@
     "ConditionValue2": null
   },
   {
+    "Id": 220240,
+    "Name": "北天のアルビレオ",
+    "Description": "<color=#33B4DF>凛属性</color>のアクターの演技力が[:param11]%上昇",
+    "PosterMasterId": 220240,
+    "Type": 1,
+    "FrameNumber": 1,
+    "ReleaseLevelAt": 0,
+    "Hidden": false,
+    "Branches": [
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 70022002
+          }
+        ],
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 22024001
+      }
+    ],
+    "BranchConditionType1": 0,
+    "ConditionValue1": null,
+    "BranchConditionType2": 0,
+    "ConditionValue2": null
+  },
+  {
     "Id": 229010,
     "Name": "初めての舞台",
     "Description": "<color=#7AC940>彩属性</color>のアクターの演技力が[:param11]%上昇",
@@ -6962,6 +6992,36 @@
     "ConditionValue2": null
   },
   {
+    "Id": 230220,
+    "Name": "とある姉妹の別れ",
+    "Description": "<color=#33B4DF>凛属性</color>のアクターの演技力が[:param11]%上昇",
+    "PosterMasterId": 230220,
+    "Type": 1,
+    "FrameNumber": 1,
+    "ReleaseLevelAt": 0,
+    "Hidden": false,
+    "Branches": [
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 70052002
+          }
+        ],
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23022001
+      }
+    ],
+    "BranchConditionType1": 0,
+    "ConditionValue1": null,
+    "BranchConditionType2": 0,
+    "ConditionValue2": null
+  },
+  {
     "Id": 2202301,
     "Name": "演技力アップ＋",
     "Description": "自身の演技力が[:param11]％上昇　◆発動条件：<color=#FF9314>陽属性</color>のアクターが装備",
@@ -7014,6 +7074,66 @@
         "JudgeType2": null,
         "Parameter2": null,
         "Id": 220230201
+      }
+    ],
+    "BranchConditionType1": 0,
+    "ConditionValue1": null,
+    "BranchConditionType2": 0,
+    "ConditionValue2": null
+  },
+  {
+    "Id": 2202401,
+    "Name": "演技力アップ＋",
+    "Description": "自身の演技力が[:param11]％上昇　◆発動条件：<color=#33B4DF>凛属性</color>のアクターが装備",
+    "PosterMasterId": 220240,
+    "Type": 2,
+    "FrameNumber": 1,
+    "ReleaseLevelAt": 0,
+    "Hidden": false,
+    "Branches": [
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10011002
+          }
+        ],
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 220240101
+      }
+    ],
+    "BranchConditionType1": 0,
+    "ConditionValue1": null,
+    "BranchConditionType2": 0,
+    "ConditionValue2": null
+  },
+  {
+    "Id": 2202402,
+    "Name": "初期ライフ上昇＋",
+    "Description": "公演開始時、ライフが[:param11]上昇　◆発動条件：<color=#33B4DF>凛属性</color>のアクターが装備",
+    "PosterMasterId": 220240,
+    "Type": 2,
+    "FrameNumber": 2,
+    "ReleaseLevelAt": 7,
+    "Hidden": false,
+    "Branches": [
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 11311002
+          }
+        ],
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 220240201
       }
     ],
     "BranchConditionType1": 0,
@@ -7164,6 +7284,66 @@
         "JudgeType2": null,
         "Parameter2": null,
         "Id": 230210501
+      }
+    ],
+    "BranchConditionType1": 0,
+    "ConditionValue1": null,
+    "BranchConditionType2": 0,
+    "ConditionValue2": null
+  },
+  {
+    "Id": 2302201,
+    "Name": "歌唱力アップⅢ＋",
+    "Description": "自身の歌唱力が[:param11]％上昇",
+    "PosterMasterId": 230220,
+    "Type": 2,
+    "FrameNumber": 1,
+    "ReleaseLevelAt": 0,
+    "Hidden": false,
+    "Branches": [
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10131000
+          }
+        ],
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 230220101
+      }
+    ],
+    "BranchConditionType1": 0,
+    "ConditionValue1": null,
+    "BranchConditionType2": 0,
+    "ConditionValue2": null
+  },
+  {
+    "Id": 2302202,
+    "Name": "スコアブースト・歌唱力Ⅲ",
+    "Description": "センス発動直後、自身の歌唱力の[:param11]倍のスコアを獲得　◆発動条件：<color=#33B4DF>凛属性</color>のアクターが装備",
+    "PosterMasterId": 230220,
+    "Type": 2,
+    "FrameNumber": 2,
+    "ReleaseLevelAt": 7,
+    "Hidden": false,
+    "Branches": [
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10930002
+          }
+        ],
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 230220201
       }
     ],
     "BranchConditionType1": 0,

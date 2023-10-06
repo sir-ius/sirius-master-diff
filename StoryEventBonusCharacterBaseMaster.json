@@ -94,5 +94,23 @@
     "StoryEventMasterId": 20007,
     "BonusTargetType": 2,
     "BonusTargetId": 401
+  },
+  {
+    "Id": 2000801,
+    "StoryEventMasterId": 20008,
+    "BonusTargetType": 2,
+    "BonusTargetId": 105
+  },
+  {
+    "Id": 2000802,
+    "StoryEventMasterId": 20008,
+    "BonusTargetType": 2,
+    "BonusTargetId": 305
+  },
+  {
+    "Id": 2000803,
+    "StoryEventMasterId": 20008,
+    "BonusTargetType": 2,
+    "BonusTargetId": 403
   }
 ]

@@ -1470,6 +1470,66 @@
     "Level": 107
   },
   {
+    "Id": 6201,
+    "Difficulty": 1,
+    "MusicMasterId": 62,
+    "Level": 10
+  },
+  {
+    "Id": 6202,
+    "Difficulty": 2,
+    "MusicMasterId": 62,
+    "Level": 17
+  },
+  {
+    "Id": 6203,
+    "Difficulty": 3,
+    "MusicMasterId": 62,
+    "Level": 24
+  },
+  {
+    "Id": 6204,
+    "Difficulty": 4,
+    "MusicMasterId": 62,
+    "Level": 27
+  },
+  {
+    "Id": 6205,
+    "Difficulty": 5,
+    "MusicMasterId": 62,
+    "Level": 105
+  },
+  {
+    "Id": 6501,
+    "Difficulty": 1,
+    "MusicMasterId": 65,
+    "Level": 7
+  },
+  {
+    "Id": 6502,
+    "Difficulty": 2,
+    "MusicMasterId": 65,
+    "Level": 13
+  },
+  {
+    "Id": 6503,
+    "Difficulty": 3,
+    "MusicMasterId": 65,
+    "Level": 20
+  },
+  {
+    "Id": 6504,
+    "Difficulty": 4,
+    "MusicMasterId": 65,
+    "Level": 25
+  },
+  {
+    "Id": 6505,
+    "Difficulty": 5,
+    "MusicMasterId": 65,
+    "Level": 103
+  },
+  {
     "Id": 7201,
     "Difficulty": 1,
     "MusicMasterId": 72,
@@ -1527,6 +1587,36 @@
     "Id": 7805,
     "Difficulty": 5,
     "MusicMasterId": 78,
+    "Level": 105
+  },
+  {
+    "Id": 8501,
+    "Difficulty": 1,
+    "MusicMasterId": 85,
+    "Level": 8
+  },
+  {
+    "Id": 8502,
+    "Difficulty": 2,
+    "MusicMasterId": 85,
+    "Level": 15
+  },
+  {
+    "Id": 8503,
+    "Difficulty": 3,
+    "MusicMasterId": 85,
+    "Level": 22
+  },
+  {
+    "Id": 8504,
+    "Difficulty": 4,
+    "MusicMasterId": 85,
+    "Level": 27
+  },
+  {
+    "Id": 8505,
+    "Difficulty": 5,
+    "MusicMasterId": 85,
     "Level": 105
   },
   {
