@@ -1509,13 +1509,13 @@
     "Id": 6502,
     "Difficulty": 2,
     "MusicMasterId": 65,
-    "Level": 13
+    "Level": 14
   },
   {
     "Id": 6503,
     "Difficulty": 3,
     "MusicMasterId": 65,
-    "Level": 20
+    "Level": 21
   },
   {
     "Id": 6504,
@@ -1599,13 +1599,13 @@
     "Id": 8502,
     "Difficulty": 2,
     "MusicMasterId": 85,
-    "Level": 15
+    "Level": 14
   },
   {
     "Id": 8503,
     "Difficulty": 3,
     "MusicMasterId": 85,
-    "Level": 22
+    "Level": 24
   },
   {
     "Id": 8504,

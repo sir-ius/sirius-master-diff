@@ -1,3 +1,57 @@
 [
-  {}
+  {
+    "Id": 1,
+    "GroupName": "1話～",
+    "Episodes": [
+      {
+        "Id": 101,
+        "Order": 1,
+        "Title": "1話　寝言はうるさめ",
+        "Body": "[{\"Element\":6,\"Data\":\"001ists\"}]",
+        "StartDate": "2023-09-26T17:00:00.000Z"
+      },
+      {
+        "Id": 102,
+        "Order": 2,
+        "Title": "2話　サラブレッドは野菜嫌い",
+        "Body": "[{\"Element\":6,\"Data\":\"006hnaf\"}]",
+        "StartDate": "2023-09-29T17:00:00.000Z"
+      },
+      {
+        "Id": 103,
+        "Order": 3,
+        "Title": "3話　次からは制服にいたします",
+        "Body": "[{\"Element\":6,\"Data\":\"003trtk\"}]",
+        "StartDate": "2023-10-03T17:00:00.000Z"
+      },
+      {
+        "Id": 104,
+        "Order": 4,
+        "Title": "4話　大家族のお姉ちゃん",
+        "Body": "[{\"Element\":6,\"Data\":\"012skth\"}]",
+        "StartDate": "2023-10-06T17:00:00.000Z"
+      },
+      {
+        "Id": 105,
+        "Order": 5,
+        "Title": "5話　茶菓子は最中ね～！",
+        "Body": "[{\"Element\":6,\"Data\":\"015yjnk\"}]",
+        "StartDate": "2023-10-10T17:00:00.000Z"
+      },
+      {
+        "Id": 106,
+        "Order": 6,
+        "Title": "6話　気になるあの子の頭の中は",
+        "Body": "[{\"Element\":6,\"Data\":\"009hska\"}]",
+        "StartDate": "2023-10-13T17:00:00.000Z"
+      },
+      {
+        "Id": 107,
+        "Order": 7,
+        "Title": "7話　飽くなき美への探求？",
+        "Body": "[{\"Element\":6,\"Data\":\"011yjuk\"}]",
+        "StartDate": "2023-10-17T17:00:00.000Z"
+      }
+    ]
+  }
 ]
