@@ -836,6 +836,41 @@
     "MusicVideoType": 0
   },
   {
+    "Id": 28,
+    "Name": "プレイ・マイ・フェイバリット!!",
+    "Description": "",
+    "RewardRuleMasterId": 1,
+    "PronounceName": "ぷれいまいふぇいばりっと",
+    "LyricWriter": "松井洋平",
+    "Composer": "早川博隆",
+    "Arranger": "柿迫ヒカル、早川博隆",
+    "UnlockText": null,
+    "IsLongVersion": false,
+    "ReleasedAt": "2023-10-25T17:00:00.000Z",
+    "StaminaConsumption": 36,
+    "MusicTimeSecond": 153,
+    "Invisible": false,
+    "SampleStartSeconds": 0,
+    "SampleEndSeconds": 0,
+    "DelaySeconds": 0,
+    "VocalVersions": [
+      {
+        "Id": 2801,
+        "MusicMasterId": 28,
+        "VocalVersion": 1,
+        "Singer": "千寿いろは、白丸美兎",
+        "Name": "プレイ・マイ・フェイバリット!!",
+        "MusicTimeSecond": 153,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": 0
+      }
+    ],
+    "UnlockConditionType": 1,
+    "UnlockConditionValue": null,
+    "MusicVideoType": 0
+  },
+  {
     "Id": 29,
     "Name": "幾億の星の空で",
     "Description": "",
@@ -1814,6 +1849,41 @@
     "UnlockConditionType": 1,
     "UnlockConditionValue": null,
     "MusicVideoType": 0
+  },
+  {
+    "Id": 64,
+    "Name": "きらり！マジカリュー・スマイル！",
+    "Description": "",
+    "RewardRuleMasterId": 1,
+    "PronounceName": "きらりまじかりゅーすまいる",
+    "LyricWriter": "松井洋平",
+    "Composer": "光増ハジメ（FirstCall）",
+    "Arranger": "光増ハジメ（FirstCall）",
+    "UnlockText": null,
+    "IsLongVersion": false,
+    "ReleasedAt": "2023-10-20T17:00:00.000Z",
+    "StaminaConsumption": 26,
+    "MusicTimeSecond": 102,
+    "Invisible": false,
+    "SampleStartSeconds": 0,
+    "SampleEndSeconds": 0,
+    "DelaySeconds": 0,
+    "VocalVersions": [
+      {
+        "Id": 6401,
+        "MusicMasterId": 64,
+        "VocalVersion": 1,
+        "Singer": "千寿いろは、白丸美兎、阿岐留カミラ、猫足蕾、本巣叶羽",
+        "Name": "きらり！マジカリュー・スマイル！",
+        "MusicTimeSecond": 102,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": 1
+      }
+    ],
+    "UnlockConditionType": 1,
+    "UnlockConditionValue": null,
+    "MusicVideoType": 1
   },
   {
     "Id": 65,

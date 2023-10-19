@@ -1128,5 +1128,75 @@
     "IsHairChange": true,
     "DisplayStartAt": "2023-10-10T17:00:00.000Z",
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 142,
+    "Name": "魔法少女カリュー",
+    "Description": null,
+    "Order": 142,
+    "CostumeMasterIds": [
+      1421
+    ],
+    "CostumeWearableCharacterGroupMasterId": 401,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2023-10-20T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 143,
+    "Name": "魔法少女マリア・マリオン",
+    "Description": null,
+    "Order": 143,
+    "CostumeMasterIds": [
+      1431
+    ],
+    "CostumeWearableCharacterGroupMasterId": 402,
+    "PerformanceGroupId": null,
+    "IsHairChange": true,
+    "DisplayStartAt": "2023-10-20T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 144,
+    "Name": "魔法少女ティアリエ",
+    "Description": null,
+    "Order": 144,
+    "CostumeMasterIds": [
+      1441
+    ],
+    "CostumeWearableCharacterGroupMasterId": 403,
+    "PerformanceGroupId": null,
+    "IsHairChange": true,
+    "DisplayStartAt": "2023-10-20T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 145,
+    "Name": "魔法少女ノワール",
+    "Description": null,
+    "Order": 145,
+    "CostumeMasterIds": [
+      1451
+    ],
+    "CostumeWearableCharacterGroupMasterId": 404,
+    "PerformanceGroupId": null,
+    "IsHairChange": true,
+    "DisplayStartAt": "2023-10-20T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 146,
+    "Name": "魔法少女ユークリッド",
+    "Description": null,
+    "Order": 146,
+    "CostumeMasterIds": [
+      1461
+    ],
+    "CostumeWearableCharacterGroupMasterId": 405,
+    "PerformanceGroupId": null,
+    "IsHairChange": true,
+    "DisplayStartAt": "2023-10-20T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   }
 ]

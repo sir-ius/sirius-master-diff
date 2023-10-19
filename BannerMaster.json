@@ -196,6 +196,48 @@
     "EndDate": "2023-10-20T17:00:00.000Z"
   },
   {
+    "Id": 1012,
+    "Order": 1012,
+    "Name": "マジカルガール☆ハロウィンガチャ(アクター)",
+    "JumpType": 4,
+    "JumpPageId": "1012",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": 0,
+    "DeleteConditionValue": null,
+    "ImagePath": "Gacha/1012",
+    "StartDate": "2023-10-20T17:00:00.000Z",
+    "EndDate": "2023-10-31T17:00:00.000Z"
+  },
+  {
+    "Id": 1013,
+    "Order": 1013,
+    "Name": "銀河座第2章記念ユメフェス(アクター)",
+    "JumpType": 4,
+    "JumpPageId": "1013",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": 0,
+    "DeleteConditionValue": null,
+    "ImagePath": "Gacha/1013",
+    "StartDate": "2023-10-25T17:00:00.000Z",
+    "EndDate": "2023-10-30T17:00:00.000Z"
+  },
+  {
+    "Id": 1800,
+    "Order": 1800,
+    "Name": "銀河座ピックアップアクターガチャ",
+    "JumpType": 4,
+    "JumpPageId": "1800",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": 0,
+    "DeleteConditionValue": null,
+    "ImagePath": "Gacha/1800",
+    "StartDate": "2023-10-25T17:00:00.000Z",
+    "EndDate": "2023-10-30T17:00:00.000Z"
+  },
+  {
     "Id": 2001,
     "Order": 2001,
     "Name": "リリース記念ガチャ(ポスター)",
@@ -336,6 +378,20 @@
     "EndDate": "2023-10-20T17:00:00.000Z"
   },
   {
+    "Id": 2012,
+    "Order": 2012,
+    "Name": "マジカルガール☆ハロウィンガチャ(ポスター)",
+    "JumpType": 4,
+    "JumpPageId": "2012",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": 0,
+    "DeleteConditionValue": null,
+    "ImagePath": "Gacha/2012",
+    "StartDate": "2023-10-20T17:00:00.000Z",
+    "EndDate": "2023-10-31T17:00:00.000Z"
+  },
+  {
     "Id": 3001,
     "Order": 3001,
     "Name": "イベント「god is no /w/ here」",
@@ -446,6 +502,62 @@
     "ImagePath": "Event/20008",
     "StartDate": "2023-10-10T17:00:00.000Z",
     "EndDate": "2023-10-20T17:00:00.000Z"
+  },
+  {
+    "Id": 3010,
+    "Order": 3010,
+    "Name": "イベント「マジカルガール☆ハロウィン」",
+    "JumpType": 5,
+    "JumpPageId": "20010",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": 0,
+    "DeleteConditionValue": null,
+    "ImagePath": "Event/20010",
+    "StartDate": "2023-10-20T17:00:00.000Z",
+    "EndDate": "2023-10-31T17:00:00.000Z"
+  },
+  {
+    "Id": 4002,
+    "Order": 4002,
+    "Name": "オペラ座第1話追加",
+    "JumpType": 8,
+    "JumpPageId": "1",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": 0,
+    "DeleteConditionValue": null,
+    "ImagePath": "Notification/1004",
+    "StartDate": "2023-10-22T17:00:00.000Z",
+    "EndDate": "2023-10-29T17:00:00.000Z"
+  },
+  {
+    "Id": 4003,
+    "Order": 4003,
+    "Name": "銀河座第2章追加",
+    "JumpType": 9,
+    "JumpPageId": "1",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": 0,
+    "DeleteConditionValue": null,
+    "ImagePath": "Notification/1007",
+    "StartDate": "2023-10-25T17:00:00.000Z",
+    "EndDate": "2023-12-01T05:00:00.000Z"
+  },
+  {
+    "Id": 4004,
+    "Order": 4004,
+    "Name": "オペラ座第2話追加",
+    "JumpType": 8,
+    "JumpPageId": "1",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": 0,
+    "DeleteConditionValue": null,
+    "ImagePath": "Notification/1008",
+    "StartDate": "2023-10-29T17:00:00.000Z",
+    "EndDate": "2023-11-05T17:00:00.000Z"
   },
   {
     "Id": 5002,
@@ -670,5 +782,19 @@
     "ImagePath": "Home/5030",
     "StartDate": "2023-10-15T17:00:00.000Z",
     "EndDate": "2023-10-25T17:00:00.000Z"
+  },
+  {
+    "Id": 5031,
+    "Order": 5031,
+    "Name": "撮影パック",
+    "JumpType": 3,
+    "JumpPageId": "5",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": 1,
+    "DeleteConditionValue": "5031",
+    "ImagePath": "Home/5031",
+    "StartDate": "2023-10-20T17:00:00.000Z",
+    "EndDate": "2023-11-20T17:00:00.000Z"
   }
 ]

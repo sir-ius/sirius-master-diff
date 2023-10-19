@@ -308,6 +308,17 @@
     "MusicVideoType": 0
   },
   {
+    "Id": 2801,
+    "MusicMasterId": 28,
+    "VocalVersion": 1,
+    "Singer": "千寿いろは、白丸美兎",
+    "Name": "プレイ・マイ・フェイバリット!!",
+    "MusicTimeSecond": 153,
+    "SampleStartSeconds": 0,
+    "SampleEndSeconds": 0,
+    "MusicVideoType": 0
+  },
+  {
     "Id": 2901,
     "MusicMasterId": 29,
     "VocalVersion": 1,
@@ -614,6 +625,17 @@
     "SampleStartSeconds": 0,
     "SampleEndSeconds": 0,
     "MusicVideoType": 0
+  },
+  {
+    "Id": 6401,
+    "MusicMasterId": 64,
+    "VocalVersion": 1,
+    "Singer": "千寿いろは、白丸美兎、阿岐留カミラ、猫足蕾、本巣叶羽",
+    "Name": "きらり！マジカリュー・スマイル！",
+    "MusicTimeSecond": 102,
+    "SampleStartSeconds": 0,
+    "SampleEndSeconds": 0,
+    "MusicVideoType": 1
   },
   {
     "Id": 6501,

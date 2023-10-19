@@ -86,5 +86,16 @@
     "StartDate": "2023-10-10T17:00:00.000Z",
     "EndDate": "2023-10-18T22:00:00.000Z",
     "ForceEndDate": "2023-10-20T17:00:00.000Z"
+  },
+  {
+    "Id": 20010,
+    "Category": 1,
+    "BonusAttribute": 3,
+    "Title": "マジカルガール☆ハロウィン",
+    "ExchangeShopMasterId": 20010,
+    "EventPointItemMasterId": 420010,
+    "StartDate": "2023-10-20T17:00:00.000Z",
+    "EndDate": "2023-10-29T22:00:00.000Z",
+    "ForceEndDate": "2023-10-31T17:00:00.000Z"
   }
 ]

@@ -45,6 +45,15 @@
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   },
   {
+    "Id": 10302,
+    "Type": 1,
+    "CompanyMasterId": 3,
+    "EventMasterId": null,
+    "ChapterOrder": 2,
+    "DisplayStartAt": "2023-10-25T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
     "Id": 10401,
     "Type": 1,
     "CompanyMasterId": 4,
@@ -124,5 +133,14 @@
     "ChapterOrder": 0,
     "DisplayStartAt": "2023-10-10T17:00:00.000Z",
     "DisplayEndAt": "2023-10-20T17:00:00.000Z"
+  },
+  {
+    "Id": 20010,
+    "Type": 2,
+    "CompanyMasterId": null,
+    "EventMasterId": 20010,
+    "ChapterOrder": 0,
+    "DisplayStartAt": "2023-10-20T17:00:00.000Z",
+    "DisplayEndAt": "2023-10-31T17:00:00.000Z"
   }
 ]

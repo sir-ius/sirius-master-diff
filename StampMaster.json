@@ -1120,6 +1120,16 @@
     "Name": "いろは【すごいです！】"
   },
   {
+    "Id": 40106,
+    "Order": 40106,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 401,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "いろは【はっ！】"
+  },
+  {
     "Id": 40191,
     "Order": 40191,
     "IsDefault": false,

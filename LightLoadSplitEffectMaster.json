@@ -398,5 +398,10 @@
     "Id": 81,
     "BaseEffect": 10300,
     "LightLoadEffect": 5
+  },
+  {
+    "Id": 82,
+    "BaseEffect": 10310,
+    "LightLoadEffect": 7
   }
 ]
