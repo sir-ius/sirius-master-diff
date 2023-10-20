@@ -368,8 +368,8 @@
         "CostumeMasterId": 1461
       }
     ],
-    "DelaySeconds": 0,
-    "MovieDelaySeconds": 0,
+    "DelaySeconds": 1.0099999904632568,
+    "MovieDelaySeconds": 1,
     "MusicVideoDefaultCostumeGroupMasterId": 1
   }
 ]

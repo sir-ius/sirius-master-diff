@@ -1139,7 +1139,7 @@
     ],
     "CostumeWearableCharacterGroupMasterId": 401,
     "PerformanceGroupId": null,
-    "IsHairChange": false,
+    "IsHairChange": true,
     "DisplayStartAt": "2023-10-20T17:00:00.000Z",
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   },

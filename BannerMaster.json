@@ -1,7 +1,7 @@
 [
   {
     "Id": 1,
-    "Order": 1,
+    "Order": 100000,
     "Name": "初心者ミッション",
     "JumpType": 11,
     "JumpPageId": "1",
@@ -15,7 +15,7 @@
   },
   {
     "Id": 2,
-    "Order": 2,
+    "Order": 99998,
     "Name": "ログインパス",
     "JumpType": 3,
     "JumpPageId": "2",
@@ -29,7 +29,7 @@
   },
   {
     "Id": 3,
-    "Order": 3,
+    "Order": 99997,
     "Name": "スターパス／ダイスターパス",
     "JumpType": 3,
     "JumpPageId": "3",
@@ -43,7 +43,7 @@
   },
   {
     "Id": 6,
-    "Order": 6,
+    "Order": 99999,
     "Name": "スタートダッシュパック",
     "JumpType": 3,
     "JumpPageId": "4",
@@ -57,7 +57,7 @@
   },
   {
     "Id": 1001,
-    "Order": 1001,
+    "Order": 2000,
     "Name": "リリース記念ガチャ(アクター)",
     "JumpType": 4,
     "JumpPageId": "1001",
@@ -71,7 +71,7 @@
   },
   {
     "Id": 1002,
-    "Order": 1002,
+    "Order": 1999,
     "Name": "シリウス第2章ガチャ(アクター)",
     "JumpType": 4,
     "JumpPageId": "1002",
@@ -85,7 +85,7 @@
   },
   {
     "Id": 1003,
-    "Order": 1003,
+    "Order": 1998,
     "Name": "god is no /w/ hereガチャ(アクター)",
     "JumpType": 4,
     "JumpPageId": "1003",
@@ -99,7 +99,7 @@
   },
   {
     "Id": 1004,
-    "Order": 1004,
+    "Order": 1997,
     "Name": "エレクトリック・サマー・バカンスガチャ(アクター)",
     "JumpType": 4,
     "JumpPageId": "1004",
@@ -113,7 +113,7 @@
   },
   {
     "Id": 1005,
-    "Order": 1005,
+    "Order": 1996,
     "Name": "隠し味はひとさじのユーモアガチャ(アクター)",
     "JumpType": 4,
     "JumpPageId": "1005",
@@ -127,7 +127,7 @@
   },
   {
     "Id": 1006,
-    "Order": 1006,
+    "Order": 1995,
     "Name": "泡沫烟花ガチャ(アクター)",
     "JumpType": 4,
     "JumpPageId": "1006",
@@ -141,7 +141,7 @@
   },
   {
     "Id": 1007,
-    "Order": 1007,
+    "Order": 1994,
     "Name": "脚光が照らすこれからガチャ(アクター)",
     "JumpType": 4,
     "JumpPageId": "1007",
@@ -155,7 +155,7 @@
   },
   {
     "Id": 1009,
-    "Order": 1009,
+    "Order": 1992,
     "Name": "歌川高校体育祭！　～応援団長の一日～ガチャ(アクター)",
     "JumpType": 4,
     "JumpPageId": "1009",
@@ -169,7 +169,7 @@
   },
   {
     "Id": 1010,
-    "Order": 1010,
+    "Order": 1991,
     "Name": "FAIR IS FOUL, AND FOUL IS FAIRガチャ(アクター)",
     "JumpType": 4,
     "JumpPageId": "1010",
@@ -183,7 +183,7 @@
   },
   {
     "Id": 1011,
-    "Order": 1011,
+    "Order": 1990,
     "Name": "北天のアルビレオガチャ(アクター)",
     "JumpType": 4,
     "JumpPageId": "1011",
@@ -197,7 +197,7 @@
   },
   {
     "Id": 1012,
-    "Order": 1012,
+    "Order": 1988,
     "Name": "マジカルガール☆ハロウィンガチャ(アクター)",
     "JumpType": 4,
     "JumpPageId": "1012",
@@ -211,7 +211,7 @@
   },
   {
     "Id": 1013,
-    "Order": 1013,
+    "Order": 1987,
     "Name": "銀河座第2章記念ユメフェス(アクター)",
     "JumpType": 4,
     "JumpPageId": "1013",
@@ -225,7 +225,7 @@
   },
   {
     "Id": 1800,
-    "Order": 1800,
+    "Order": 1989,
     "Name": "銀河座ピックアップアクターガチャ",
     "JumpType": 4,
     "JumpPageId": "1800",
@@ -239,7 +239,7 @@
   },
   {
     "Id": 2001,
-    "Order": 2001,
+    "Order": 3000,
     "Name": "リリース記念ガチャ(ポスター)",
     "JumpType": 4,
     "JumpPageId": "2001",
@@ -253,7 +253,7 @@
   },
   {
     "Id": 2002,
-    "Order": 2002,
+    "Order": 2999,
     "Name": "シリウス第2章ガチャ(ポスター)",
     "JumpType": 4,
     "JumpPageId": "2002",
@@ -267,7 +267,7 @@
   },
   {
     "Id": 2003,
-    "Order": 2003,
+    "Order": 2998,
     "Name": "god is no /w/ hereガチャ(ポスター)",
     "JumpType": 4,
     "JumpPageId": "2003",
@@ -281,7 +281,7 @@
   },
   {
     "Id": 2004,
-    "Order": 2004,
+    "Order": 2997,
     "Name": "エレクトリック・サマー・バカンスガチャ(ポスター)",
     "JumpType": 4,
     "JumpPageId": "2004",
@@ -295,7 +295,7 @@
   },
   {
     "Id": 2005,
-    "Order": 2005,
+    "Order": 2996,
     "Name": "隠し味はひとさじのユーモアガチャ(ポスター)",
     "JumpType": 4,
     "JumpPageId": "2005",
@@ -309,7 +309,7 @@
   },
   {
     "Id": 2006,
-    "Order": 2006,
+    "Order": 2995,
     "Name": "泡沫烟花ガチャ(ポスター)",
     "JumpType": 4,
     "JumpPageId": "2006",
@@ -323,7 +323,7 @@
   },
   {
     "Id": 2007,
-    "Order": 2007,
+    "Order": 2994,
     "Name": "脚光が照らすこれからガチャ(ポスター)",
     "JumpType": 4,
     "JumpPageId": "2007",
@@ -337,7 +337,7 @@
   },
   {
     "Id": 2009,
-    "Order": 2009,
+    "Order": 2992,
     "Name": "歌川高校体育祭！　～応援団長の一日～ガチャ(ポスター)",
     "JumpType": 4,
     "JumpPageId": "2009",
@@ -351,7 +351,7 @@
   },
   {
     "Id": 2010,
-    "Order": 2010,
+    "Order": 2991,
     "Name": "FAIR IS FOUL, AND FOUL IS FAIRガチャ(ポスター)",
     "JumpType": 4,
     "JumpPageId": "2010",
@@ -365,7 +365,7 @@
   },
   {
     "Id": 2011,
-    "Order": 2011,
+    "Order": 2990,
     "Name": "北天のアルビレオガチャ(ポスター)",
     "JumpType": 4,
     "JumpPageId": "2011",
@@ -379,7 +379,7 @@
   },
   {
     "Id": 2012,
-    "Order": 2012,
+    "Order": 2989,
     "Name": "マジカルガール☆ハロウィンガチャ(ポスター)",
     "JumpType": 4,
     "JumpPageId": "2012",
@@ -393,7 +393,7 @@
   },
   {
     "Id": 3001,
-    "Order": 3001,
+    "Order": 4000,
     "Name": "イベント「god is no /w/ here」",
     "JumpType": 5,
     "JumpPageId": "20001",
@@ -407,7 +407,7 @@
   },
   {
     "Id": 3002,
-    "Order": 3002,
+    "Order": 3999,
     "Name": "イベント「エレクトリック・サマー・バカンス」",
     "JumpType": 5,
     "JumpPageId": "20002",
@@ -421,7 +421,7 @@
   },
   {
     "Id": 3003,
-    "Order": 3003,
+    "Order": 3998,
     "Name": "イベント「隠し味はひとさじのユーモア」",
     "JumpType": 5,
     "JumpPageId": "20003",
@@ -435,7 +435,7 @@
   },
   {
     "Id": 3004,
-    "Order": 3004,
+    "Order": 3997,
     "Name": "イベント「泡沫烟花」",
     "JumpType": 5,
     "JumpPageId": "20004",
@@ -449,7 +449,7 @@
   },
   {
     "Id": 3005,
-    "Order": 3005,
+    "Order": 3996,
     "Name": "イベント「脚光が照らすこれから」",
     "JumpType": 5,
     "JumpPageId": "20005",
@@ -463,7 +463,7 @@
   },
   {
     "Id": 3006,
-    "Order": 3006,
+    "Order": 3995,
     "Name": "イベント「歌川高校体育祭！　～応援団長の一日～」",
     "JumpType": 5,
     "JumpPageId": "20006",
@@ -477,7 +477,7 @@
   },
   {
     "Id": 3007,
-    "Order": 3007,
+    "Order": 3994,
     "Name": "イベント「FAIR IS FOUL, AND FOUL IS FAIR」",
     "JumpType": 5,
     "JumpPageId": "20007",
@@ -491,7 +491,7 @@
   },
   {
     "Id": 3008,
-    "Order": 3008,
+    "Order": 3993,
     "Name": "イベント「北天のアルビレオ」",
     "JumpType": 5,
     "JumpPageId": "20008",
@@ -505,7 +505,7 @@
   },
   {
     "Id": 3010,
-    "Order": 3010,
+    "Order": 3991,
     "Name": "イベント「マジカルガール☆ハロウィン」",
     "JumpType": 5,
     "JumpPageId": "20010",
@@ -519,7 +519,7 @@
   },
   {
     "Id": 4002,
-    "Order": 4002,
+    "Order": 500,
     "Name": "オペラ座第1話追加",
     "JumpType": 8,
     "JumpPageId": "1",
@@ -533,7 +533,7 @@
   },
   {
     "Id": 4003,
-    "Order": 4003,
+    "Order": 1000,
     "Name": "銀河座第2章追加",
     "JumpType": 9,
     "JumpPageId": "1",
@@ -547,7 +547,7 @@
   },
   {
     "Id": 4004,
-    "Order": 4004,
+    "Order": 499,
     "Name": "オペラ座第2話追加",
     "JumpType": 8,
     "JumpPageId": "1",

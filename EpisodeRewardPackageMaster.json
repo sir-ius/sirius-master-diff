@@ -11424,6 +11424,11 @@
         "ThingId": 0,
         "ThingType": 13,
         "ThingQuantity": 50
+      },
+      {
+        "ThingId": 0,
+        "ThingType": 13,
+        "ThingQuantity": 100
       }
     ]
   }
