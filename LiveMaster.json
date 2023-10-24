@@ -669,13 +669,13 @@
     "Id": 2802,
     "Difficulty": 2,
     "MusicMasterId": 28,
-    "Level": 16
+    "Level": 17
   },
   {
     "Id": 2803,
     "Difficulty": 3,
     "MusicMasterId": 28,
-    "Level": 21
+    "Level": 22
   },
   {
     "Id": 2804,
@@ -687,7 +687,7 @@
     "Id": 2805,
     "Difficulty": 5,
     "MusicMasterId": 28,
-    "Level": 104
+    "Level": 105
   },
   {
     "Id": 2901,

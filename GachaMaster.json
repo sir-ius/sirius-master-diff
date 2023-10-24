@@ -6075,7 +6075,7 @@
   },
   {
     "Id": 1013,
-    "Name": "銀河座第2章ユメフェスガチャ",
+    "Name": "ユメフェスガチャ",
     "CardType": 1,
     "GachaType": 1,
     "GachaTextTemplateMasterId": 1013,
@@ -7253,7 +7253,7 @@
     ],
     "HasMovie": false,
     "StoryEventMasterId": null,
-    "AttentionGachaTextTemplateMasterId": 11001
+    "AttentionGachaTextTemplateMasterId": 11006
   },
   {
     "Id": 1900,
@@ -8525,7 +8525,7 @@
     ],
     "HasMovie": false,
     "StoryEventMasterId": null,
-    "AttentionGachaTextTemplateMasterId": 11002
+    "AttentionGachaTextTemplateMasterId": 11005
   },
   {
     "Id": 2001,
