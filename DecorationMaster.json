@@ -121,6 +121,17 @@
     "MaxWidthPx": 360
   },
   {
+    "Id": 10205,
+    "Order": 10205,
+    "IsDefault": false,
+    "Name": "小悪魔の羽根",
+    "Category": 3,
+    "WidhtPx": 240,
+    "HeightPx": 240,
+    "MinWidthPx": 48,
+    "MaxWidthPx": 360
+  },
+  {
     "Id": 10301,
     "Order": 10301,
     "IsDefault": false,

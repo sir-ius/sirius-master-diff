@@ -2033,6 +2033,13 @@
             "IsSpecialFallThing": false
           },
           {
+            "ThingId": 320080,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
             "ThingId": 331010,
             "ThingType": 4,
             "ThingQuantity": 1,
@@ -2096,6 +2103,20 @@
             "IsSpecialFallThing": false
           },
           {
+            "ThingId": 331100,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331110,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
             "ThingId": 332010,
             "ThingType": 4,
             "ThingQuantity": 1,
@@ -2153,6 +2174,20 @@
           },
           {
             "ThingId": 332090,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332100,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332110,
             "ThingType": 4,
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
@@ -2247,6 +2282,13 @@
             "IsSpecialFallThing": false
           },
           {
+            "ThingId": 320080,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
             "ThingId": 331010,
             "ThingType": 4,
             "ThingQuantity": 1,
@@ -2310,6 +2352,20 @@
             "IsSpecialFallThing": false
           },
           {
+            "ThingId": 331100,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331110,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
             "ThingId": 332010,
             "ThingType": 4,
             "ThingQuantity": 1,
@@ -2367,6 +2423,20 @@
           },
           {
             "ThingId": 332090,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332100,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332110,
             "ThingType": 4,
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
@@ -2461,6 +2531,13 @@
             "IsSpecialFallThing": false
           },
           {
+            "ThingId": 320080,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
             "ThingId": 331010,
             "ThingType": 4,
             "ThingQuantity": 1,
@@ -2524,6 +2601,20 @@
             "IsSpecialFallThing": false
           },
           {
+            "ThingId": 331100,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331110,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
             "ThingId": 332010,
             "ThingType": 4,
             "ThingQuantity": 1,
@@ -2581,6 +2672,20 @@
           },
           {
             "ThingId": 332090,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332100,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332110,
             "ThingType": 4,
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
@@ -2675,6 +2780,13 @@
             "IsSpecialFallThing": false
           },
           {
+            "ThingId": 320080,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
             "ThingId": 331010,
             "ThingType": 4,
             "ThingQuantity": 1,
@@ -2738,6 +2850,20 @@
             "IsSpecialFallThing": false
           },
           {
+            "ThingId": 331100,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331110,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
             "ThingId": 332010,
             "ThingType": 4,
             "ThingQuantity": 1,
@@ -2795,6 +2921,20 @@
           },
           {
             "ThingId": 332090,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332100,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332110,
             "ThingType": 4,
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
@@ -2889,6 +3029,13 @@
             "IsSpecialFallThing": false
           },
           {
+            "ThingId": 320080,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
             "ThingId": 331010,
             "ThingType": 4,
             "ThingQuantity": 1,
@@ -2952,6 +3099,20 @@
             "IsSpecialFallThing": false
           },
           {
+            "ThingId": 331100,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331110,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
             "ThingId": 332010,
             "ThingType": 4,
             "ThingQuantity": 1,
@@ -3009,6 +3170,20 @@
           },
           {
             "ThingId": 332090,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332100,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332110,
             "ThingType": 4,
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
@@ -3103,6 +3278,13 @@
             "IsSpecialFallThing": false
           },
           {
+            "ThingId": 320080,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
             "ThingId": 331010,
             "ThingType": 4,
             "ThingQuantity": 1,
@@ -3166,6 +3348,20 @@
             "IsSpecialFallThing": false
           },
           {
+            "ThingId": 331100,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331110,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
             "ThingId": 332010,
             "ThingType": 4,
             "ThingQuantity": 1,
@@ -3223,6 +3419,20 @@
           },
           {
             "ThingId": 332090,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332100,
+            "ThingType": 4,
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332110,
             "ThingType": 4,
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,

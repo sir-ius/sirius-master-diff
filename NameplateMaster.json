@@ -70,6 +70,16 @@
     "UnlockText": null
   },
   {
+    "Id": 1205,
+    "Name": "しぐれ【BirthDay 2023】",
+    "Description": null,
+    "Order": 1205,
+    "Hidden": true,
+    "IsDefault": false,
+    "Details": [],
+    "UnlockText": null
+  },
+  {
     "Id": 1301,
     "Name": "暦【BirthDay 2023】",
     "Description": null,

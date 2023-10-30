@@ -114,6 +114,12 @@
     "BonusTargetId": 403
   },
   {
+    "Id": 2000901,
+    "StoryEventMasterId": 20009,
+    "BonusTargetType": 1,
+    "BonusTargetId": 1
+  },
+  {
     "Id": 2001001,
     "StoryEventMasterId": 20010,
     "BonusTargetType": 1,

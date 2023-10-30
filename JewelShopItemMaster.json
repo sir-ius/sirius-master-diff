@@ -5298,6 +5298,131 @@
     "ShopItemValue": null
   },
   {
+    "Id": 5033,
+    "Order": 4,
+    "AppStoreProductId": "",
+    "GooglePlayProductId": "",
+    "Name": "電姫空間のおまもりパック",
+    "PackText": "",
+    "MJewelShopCategoryId": 5,
+    "DialogType": 1,
+    "PurchaseType": 1,
+    "PurchaseValue": 3000,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": null,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": false,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": false,
+    "UnlockType": null,
+    "UnlockValue": null,
+    "StartDate": "2023-10-31T17:00:00.000Z",
+    "EndDate": "2023-11-08T22:00:00.000Z",
+    "Lineup": [
+      {
+        "Id": 503301,
+        "MJewelShopItemId": 5033,
+        "ThingId": 139004,
+        "ThingType": 1,
+        "ThingQuantity": 1
+      },
+      {
+        "Id": 503302,
+        "MJewelShopItemId": 5033,
+        "ThingId": 110002,
+        "ThingType": 1,
+        "ThingQuantity": 75
+      }
+    ],
+    "ShopItemType": 4,
+    "ShopItemValue": 8
+  },
+  {
+    "Id": 5034,
+    "Order": 106,
+    "AppStoreProductId": "5034",
+    "GooglePlayProductId": "5034",
+    "Name": "お誕生日パック【筆島 しぐれ】",
+    "PackText": "",
+    "MJewelShopCategoryId": 5,
+    "DialogType": 1,
+    "PurchaseType": 2,
+    "PurchaseValue": 3000,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": 3000,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": false,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": false,
+    "UnlockType": null,
+    "UnlockValue": null,
+    "StartDate": "2023-11-06T00:00:00.000Z",
+    "EndDate": "2023-11-16T00:00:00.000Z",
+    "Lineup": [
+      {
+        "Id": 503401,
+        "MJewelShopItemId": 5034,
+        "ThingId": 511205,
+        "ThingType": 1,
+        "ThingQuantity": 1
+      },
+      {
+        "Id": 503402,
+        "MJewelShopItemId": 5034,
+        "ThingId": 330110,
+        "ThingType": 4,
+        "ThingQuantity": 1
+      },
+      {
+        "Id": 503403,
+        "MJewelShopItemId": 5034,
+        "ThingId": 20581,
+        "ThingType": 7,
+        "ThingQuantity": 1
+      },
+      {
+        "Id": 503404,
+        "MJewelShopItemId": 5034,
+        "ThingId": 10205,
+        "ThingType": 16,
+        "ThingQuantity": 1
+      },
+      {
+        "Id": 503405,
+        "MJewelShopItemId": 5034,
+        "ThingId": 1205,
+        "ThingType": 8,
+        "ThingQuantity": 1
+      },
+      {
+        "Id": 503406,
+        "MJewelShopItemId": 5034,
+        "ThingId": 130082,
+        "ThingType": 1,
+        "ThingQuantity": 120
+      },
+      {
+        "Id": 503407,
+        "MJewelShopItemId": 5034,
+        "ThingId": 130081,
+        "ThingType": 1,
+        "ThingQuantity": 600
+      }
+    ],
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
     "Id": 5401,
     "Order": 201,
     "AppStoreProductId": "5401",
@@ -6727,6 +6852,120 @@
       {
         "Id": 553401,
         "MJewelShopItemId": 5534,
+        "ThingId": 0,
+        "ThingType": 13,
+        "ThingQuantity": 4900
+      }
+    ],
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 5535,
+    "Order": 117,
+    "AppStoreProductId": "5535",
+    "GooglePlayProductId": "5535",
+    "Name": "イベント限定ジュエルパックA",
+    "PackText": "",
+    "MJewelShopCategoryId": 1,
+    "DialogType": 1,
+    "PurchaseType": 2,
+    "PurchaseValue": 1500,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": 1500,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": false,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": false,
+    "UnlockType": null,
+    "UnlockValue": null,
+    "StartDate": "2023-10-31T17:00:00.000Z",
+    "EndDate": "2023-11-10T17:00:00.000Z",
+    "Lineup": [
+      {
+        "Id": 553501,
+        "MJewelShopItemId": 5535,
+        "ThingId": 0,
+        "ThingType": 13,
+        "ThingQuantity": 1500
+      }
+    ],
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 5536,
+    "Order": 118,
+    "AppStoreProductId": "5536",
+    "GooglePlayProductId": "5536",
+    "Name": "イベント限定ジュエルパックB",
+    "PackText": "",
+    "MJewelShopCategoryId": 1,
+    "DialogType": 1,
+    "PurchaseType": 2,
+    "PurchaseValue": 4800,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": 4800,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": false,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": false,
+    "UnlockType": null,
+    "UnlockValue": null,
+    "StartDate": "2023-10-31T17:00:00.000Z",
+    "EndDate": "2023-11-10T17:00:00.000Z",
+    "Lineup": [
+      {
+        "Id": 553601,
+        "MJewelShopItemId": 5536,
+        "ThingId": 0,
+        "ThingType": 13,
+        "ThingQuantity": 3000
+      }
+    ],
+    "ShopItemType": 0,
+    "ShopItemValue": null
+  },
+  {
+    "Id": 5537,
+    "Order": 119,
+    "AppStoreProductId": "5537",
+    "GooglePlayProductId": "5537",
+    "Name": "イベント限定ジュエルパックC",
+    "PackText": "",
+    "MJewelShopCategoryId": 1,
+    "DialogType": 1,
+    "PurchaseType": 2,
+    "PurchaseValue": 9800,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": 9800,
+    "ReplaceTypes": 0,
+    "ReplaceValue": null,
+    "PurchaseLimit": 2,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": false,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": false,
+    "UnlockType": null,
+    "UnlockValue": null,
+    "StartDate": "2023-10-31T17:00:00.000Z",
+    "EndDate": "2023-11-10T17:00:00.000Z",
+    "Lineup": [
+      {
+        "Id": 553701,
+        "MJewelShopItemId": 5537,
         "ThingId": 0,
         "ThingType": 13,
         "ThingQuantity": 4900

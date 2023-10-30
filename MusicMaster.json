@@ -1851,6 +1851,41 @@
     "MusicVideoType": 0
   },
   {
+    "Id": 63,
+    "Name": "マイ・ピクチャー・ストーリー",
+    "Description": "",
+    "RewardRuleMasterId": 1,
+    "PronounceName": "まいぴくちゃーすとーりー",
+    "LyricWriter": "松井洋平",
+    "Composer": "光増ハジメ（FirstCall）",
+    "Arranger": "光増ハジメ（FirstCall）",
+    "UnlockText": null,
+    "IsLongVersion": false,
+    "ReleasedAt": "2023-10-31T17:00:00.000Z",
+    "StaminaConsumption": 28,
+    "MusicTimeSecond": 110,
+    "Invisible": false,
+    "SampleStartSeconds": 0,
+    "SampleEndSeconds": 0,
+    "DelaySeconds": 0,
+    "VocalVersions": [
+      {
+        "Id": 6301,
+        "MusicMasterId": 63,
+        "VocalVersion": 1,
+        "Singer": "鳳ここな",
+        "Name": "マイ・ピクチャー・ストーリー",
+        "MusicTimeSecond": 110,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": 0
+      }
+    ],
+    "UnlockConditionType": 1,
+    "UnlockConditionValue": null,
+    "MusicVideoType": 0
+  },
+  {
     "Id": 64,
     "Name": "きらり！マジカリュー・スマイル！",
     "Description": "",
@@ -1917,6 +1952,41 @@
       }
     ],
     "UnlockConditionType": 10,
+    "UnlockConditionValue": null,
+    "MusicVideoType": 0
+  },
+  {
+    "Id": 66,
+    "Name": "Forbidden Fruit Addiction",
+    "Description": "",
+    "RewardRuleMasterId": 1,
+    "PronounceName": "ForbiddenFruitAddiction",
+    "LyricWriter": "松井洋平",
+    "Composer": "LiCu（FirstCall）",
+    "Arranger": "LiCu（FirstCall）",
+    "UnlockText": null,
+    "IsLongVersion": false,
+    "ReleasedAt": "2023-11-06T17:00:00.000Z",
+    "StaminaConsumption": 27,
+    "MusicTimeSecond": 108,
+    "Invisible": false,
+    "SampleStartSeconds": 0,
+    "SampleEndSeconds": 0,
+    "DelaySeconds": 0,
+    "VocalVersions": [
+      {
+        "Id": 6601,
+        "MusicMasterId": 66,
+        "VocalVersion": 1,
+        "Singer": "筆島しぐれ",
+        "Name": "Forbidden Fruit Addiction",
+        "MusicTimeSecond": 108,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": 0
+      }
+    ],
+    "UnlockConditionType": 1,
     "UnlockConditionValue": null,
     "MusicVideoType": 0
   },

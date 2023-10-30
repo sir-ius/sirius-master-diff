@@ -1130,6 +1130,36 @@
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   },
   {
+    "Id": 138,
+    "Name": "くま",
+    "Description": null,
+    "Order": 138,
+    "CostumeMasterIds": [
+      1381,
+      1382
+    ],
+    "CostumeWearableCharacterGroupMasterId": null,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2023-10-31T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 139,
+    "Name": "くま",
+    "Description": null,
+    "Order": 139,
+    "CostumeMasterIds": [
+      1391,
+      1392
+    ],
+    "CostumeWearableCharacterGroupMasterId": 103,
+    "PerformanceGroupId": null,
+    "IsHairChange": true,
+    "DisplayStartAt": "2023-10-31T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
     "Id": 142,
     "Name": "魔法少女カリュー",
     "Description": null,
@@ -1197,6 +1227,23 @@
     "PerformanceGroupId": null,
     "IsHairChange": true,
     "DisplayStartAt": "2023-10-20T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 147,
+    "Name": "歌劇姑娘",
+    "Description": null,
+    "Order": 147,
+    "CostumeMasterIds": [
+      1471,
+      1472,
+      1473,
+      1474
+    ],
+    "CostumeWearableCharacterGroupMasterId": null,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2023-11-01T05:00:00.000Z",
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   }
 ]

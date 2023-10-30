@@ -3930,6 +3930,36 @@
     "ConditionValue2": null
   },
   {
+    "Id": 220250,
+    "Name": "シリウスは日々是好日で",
+    "Description": "<color=#ff679d>憐属性</color>のアクターの演技力が[:param11]%上昇",
+    "PosterMasterId": 220250,
+    "Type": 1,
+    "FrameNumber": 1,
+    "ReleaseLevelAt": 0,
+    "Hidden": false,
+    "Branches": [
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 70022001
+          }
+        ],
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 22025001
+      }
+    ],
+    "BranchConditionType1": 0,
+    "ConditionValue1": null,
+    "BranchConditionType2": 0,
+    "ConditionValue2": null
+  },
+  {
     "Id": 220260,
     "Name": "マジカルガール☆ハロウィン",
     "Description": "<color=#7AC940>彩属性</color>のアクターの演技力が[:param11]%上昇",
@@ -7232,6 +7262,36 @@
     "ConditionValue2": null
   },
   {
+    "Id": 230230,
+    "Name": "決闘は突然のこと",
+    "Description": "シリウスに所属するアクターの演技力が[:param11]%上昇",
+    "PosterMasterId": 230230,
+    "Type": 1,
+    "FrameNumber": 1,
+    "ReleaseLevelAt": 0,
+    "Hidden": false,
+    "Branches": [
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 70052100
+          }
+        ],
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23023001
+      }
+    ],
+    "BranchConditionType1": 0,
+    "ConditionValue1": null,
+    "BranchConditionType2": 0,
+    "ConditionValue2": null
+  },
+  {
     "Id": 230250,
     "Name": "５人みんなで力を合わせて",
     "Description": "劇団電姫に所属するアクターの演技力が[:param11]%上昇",
@@ -7374,6 +7434,66 @@
         "JudgeType2": null,
         "Parameter2": null,
         "Id": 220240201
+      }
+    ],
+    "BranchConditionType1": 0,
+    "ConditionValue1": null,
+    "BranchConditionType2": 0,
+    "ConditionValue2": null
+  },
+  {
+    "Id": 2202501,
+    "Name": "演技力アップ",
+    "Description": "自身の演技力が[:param11]％上昇　◆発動条件：<color=#ff679d>憐属性</color>のアクターが装備",
+    "PosterMasterId": 220250,
+    "Type": 2,
+    "FrameNumber": 1,
+    "ReleaseLevelAt": 0,
+    "Hidden": false,
+    "Branches": [
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10010001
+          }
+        ],
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 220250101
+      }
+    ],
+    "BranchConditionType1": 0,
+    "ConditionValue1": null,
+    "BranchConditionType2": 0,
+    "ConditionValue2": null
+  },
+  {
+    "Id": 2202502,
+    "Name": "スコアブースト・表現力",
+    "Description": "センス発動直後、自身の表現力の[:param11]倍のスコアを獲得　◆発動条件：<color=#ff679d>憐属性</color>のアクターが装備",
+    "PosterMasterId": 220250,
+    "Type": 2,
+    "FrameNumber": 2,
+    "ReleaseLevelAt": 7,
+    "Hidden": false,
+    "Branches": [
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 11010001
+          }
+        ],
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 220250201
       }
     ],
     "BranchConditionType1": 0,
@@ -7644,6 +7764,96 @@
         "JudgeType2": null,
         "Parameter2": null,
         "Id": 230220201
+      }
+    ],
+    "BranchConditionType1": 0,
+    "ConditionValue1": null,
+    "BranchConditionType2": 0,
+    "ConditionValue2": null
+  },
+  {
+    "Id": 2302301,
+    "Name": "演技力アップⅢ",
+    "Description": "自身の演技力が[:param11]％上昇",
+    "PosterMasterId": 230230,
+    "Type": 2,
+    "FrameNumber": 1,
+    "ReleaseLevelAt": 0,
+    "Hidden": false,
+    "Branches": [
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10030000
+          }
+        ],
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 230230101
+      }
+    ],
+    "BranchConditionType1": 0,
+    "ConditionValue1": null,
+    "BranchConditionType2": 0,
+    "ConditionValue2": null
+  },
+  {
+    "Id": 2302302,
+    "Name": "初期P.ゲージ上昇",
+    "Description": "公演開始時、P.ゲージが[:param11]上昇　◆発動条件：シリウスに所属するアクターが装備",
+    "PosterMasterId": 230230,
+    "Type": 2,
+    "FrameNumber": 2,
+    "ReleaseLevelAt": 5,
+    "Hidden": false,
+    "Branches": [
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 11510100
+          }
+        ],
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 230230201
+      }
+    ],
+    "BranchConditionType1": 0,
+    "ConditionValue1": null,
+    "BranchConditionType2": 0,
+    "ConditionValue2": null
+  },
+  {
+    "Id": 2302303,
+    "Name": "「光」追加（特殊）Ⅱ",
+    "Description": "公演開始時、特殊系の光「<color=#0000ff>*</color>」を[:param11]付与（効果は公演開始時1回のみ発動する）　◆発動条件：シリウスに所属するアクターが装備",
+    "PosterMasterId": 230230,
+    "Type": 2,
+    "FrameNumber": 3,
+    "ReleaseLevelAt": 7,
+    "Hidden": false,
+    "Branches": [
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 12320100
+          }
+        ],
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 230230301
       }
     ],
     "BranchConditionType1": 0,

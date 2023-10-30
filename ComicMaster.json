@@ -74,5 +74,32 @@
         "StartDate": "2023-10-27T17:00:00.000Z"
       }
     ]
+  },
+  {
+    "Id": 2,
+    "GroupName": "11話～",
+    "Episodes": [
+      {
+        "Id": 201,
+        "Order": 1,
+        "Title": "11話　お花も友達",
+        "Body": "[{\"Element\":6,\"Data\":\"020smmk\"}]",
+        "StartDate": "2023-10-31T17:00:00.000Z"
+      },
+      {
+        "Id": 202,
+        "Order": 2,
+        "Title": "12話　趣味は日記",
+        "Body": "[{\"Element\":6,\"Data\":\"018tukw\"}]",
+        "StartDate": "2023-11-03T17:00:00.000Z"
+      },
+      {
+        "Id": 203,
+        "Order": 3,
+        "Title": "13話　三つ子の魂は百まで",
+        "Body": "[{\"Element\":6,\"Data\":\"023tjri\"}]",
+        "StartDate": "2023-11-07T17:00:00.000Z"
+      }
+    ]
   }
 ]

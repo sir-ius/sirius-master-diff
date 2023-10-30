@@ -50,6 +50,16 @@
     "Name": "ここな【すごい…！】"
   },
   {
+    "Id": 10106,
+    "Order": 10106,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 101,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "ここな【いつでもいけるよ！】"
+  },
+  {
     "Id": 10191,
     "Order": 10191,
     "IsDefault": false,
@@ -718,6 +728,16 @@
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "しぐれ【ん？】"
+  },
+  {
+    "Id": 20581,
+    "Order": 20581,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 205,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "しぐれ【じゃーね】"
   },
   {
     "Id": 20591,

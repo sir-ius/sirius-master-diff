@@ -224,6 +224,20 @@
     "EndDate": "2023-10-30T17:00:00.000Z"
   },
   {
+    "Id": 1014,
+    "Order": 1986,
+    "Name": "シリウスは日々是好日でガチャ(アクター)",
+    "JumpType": 4,
+    "JumpPageId": "1014",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": 0,
+    "DeleteConditionValue": null,
+    "ImagePath": "Gacha/1014",
+    "StartDate": "2023-10-31T17:00:00.000Z",
+    "EndDate": "2023-11-10T17:00:00.000Z"
+  },
+  {
     "Id": 1800,
     "Order": 1989,
     "Name": "銀河座ピックアップアクターガチャ",
@@ -392,6 +406,20 @@
     "EndDate": "2023-10-31T17:00:00.000Z"
   },
   {
+    "Id": 2013,
+    "Order": 2988,
+    "Name": "シリウスは日々是好日でガチャ(ポスター)",
+    "JumpType": 4,
+    "JumpPageId": "2013",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": 0,
+    "DeleteConditionValue": null,
+    "ImagePath": "Gacha/2013",
+    "StartDate": "2023-10-31T17:00:00.000Z",
+    "EndDate": "2023-11-10T17:00:00.000Z"
+  },
+  {
     "Id": 3001,
     "Order": 4000,
     "Name": "イベント「god is no /w/ here」",
@@ -504,6 +532,20 @@
     "EndDate": "2023-10-20T17:00:00.000Z"
   },
   {
+    "Id": 3009,
+    "Order": 3992,
+    "Name": "イベント「シリウスは日々是好日で」",
+    "JumpType": 5,
+    "JumpPageId": "20009",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": 0,
+    "DeleteConditionValue": null,
+    "ImagePath": "Event/20009",
+    "StartDate": "2023-10-31T17:00:00.000Z",
+    "EndDate": "2023-11-10T17:00:00.000Z"
+  },
+  {
     "Id": 3010,
     "Order": 3991,
     "Name": "イベント「マジカルガール☆ハロウィン」",
@@ -558,6 +600,20 @@
     "ImagePath": "Notification/1008",
     "StartDate": "2023-10-29T17:00:00.000Z",
     "EndDate": "2023-11-05T17:00:00.000Z"
+  },
+  {
+    "Id": 4005,
+    "Order": 488,
+    "Name": "オペラ座第3話追加",
+    "JumpType": 8,
+    "JumpPageId": "1",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": 0,
+    "DeleteConditionValue": null,
+    "ImagePath": "Notification/1013",
+    "StartDate": "2023-11-05T17:00:00.000Z",
+    "EndDate": "2023-11-12T17:00:00.000Z"
   },
   {
     "Id": 5002,
@@ -796,5 +852,47 @@
     "ImagePath": "Home/5031",
     "StartDate": "2023-10-20T17:00:00.000Z",
     "EndDate": "2023-11-20T17:00:00.000Z"
+  },
+  {
+    "Id": 5033,
+    "Order": 5033,
+    "Name": "劇団電姫のおまもりパック",
+    "JumpType": 3,
+    "JumpPageId": "5",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": 1,
+    "DeleteConditionValue": "5033",
+    "ImagePath": "Home/5033",
+    "StartDate": "2023-10-31T17:00:00.000Z",
+    "EndDate": "2023-11-08T22:00:00.000Z"
+  },
+  {
+    "Id": 5034,
+    "Order": 5034,
+    "Name": "お誕生日パック【筆島 しぐれ】",
+    "JumpType": 3,
+    "JumpPageId": "5",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": 1,
+    "DeleteConditionValue": "5034",
+    "ImagePath": "Home/5034",
+    "StartDate": "2023-11-06T00:00:00.000Z",
+    "EndDate": "2023-11-16T00:00:00.000Z"
+  },
+  {
+    "Id": 9000,
+    "Order": 9000,
+    "Name": "くまSSR確定ステップアップポスターガチャ",
+    "JumpType": 4,
+    "JumpPageId": "9000",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": 0,
+    "DeleteConditionValue": null,
+    "ImagePath": "Gacha/9000",
+    "StartDate": "2023-10-31T17:00:00.000Z",
+    "EndDate": "2023-11-10T17:00:00.000Z"
   }
 ]

@@ -627,6 +627,17 @@
     "MusicVideoType": 0
   },
   {
+    "Id": 6301,
+    "MusicMasterId": 63,
+    "VocalVersion": 1,
+    "Singer": "鳳ここな",
+    "Name": "マイ・ピクチャー・ストーリー",
+    "MusicTimeSecond": 110,
+    "SampleStartSeconds": 0,
+    "SampleEndSeconds": 0,
+    "MusicVideoType": 0
+  },
+  {
     "Id": 6401,
     "MusicMasterId": 64,
     "VocalVersion": 1,
@@ -644,6 +655,17 @@
     "Singer": "新妻八恵、本巣叶羽",
     "Name": "adrenaline!!!",
     "MusicTimeSecond": 117,
+    "SampleStartSeconds": 0,
+    "SampleEndSeconds": 0,
+    "MusicVideoType": 0
+  },
+  {
+    "Id": 6601,
+    "MusicMasterId": 66,
+    "VocalVersion": 1,
+    "Singer": "筆島しぐれ",
+    "Name": "Forbidden Fruit Addiction",
+    "MusicTimeSecond": 108,
     "SampleStartSeconds": 0,
     "SampleEndSeconds": 0,
     "MusicVideoType": 0

@@ -1610,5 +1610,109 @@
         "IsSp": true
       }
     ]
+  },
+  {
+    "Id": 420,
+    "Phase": 20,
+    "MissionPassMasterId": 4,
+    "ClearPoint": 8000,
+    "StartDate": "1970-01-01T00:00:00.000Z",
+    "EndDate": "1970-01-01T00:00:00.000Z",
+    "Rewards": [
+      {
+        "Id": 42001,
+        "ThingId": 0,
+        "ThingType": 13,
+        "ThingQuantity": 100,
+        "MissionPassDetailMasterId": 420,
+        "IsSp": false
+      },
+      {
+        "Id": 42002,
+        "ThingId": 1471,
+        "ThingType": 5,
+        "ThingQuantity": 1,
+        "MissionPassDetailMasterId": 420,
+        "IsSp": true
+      }
+    ]
+  },
+  {
+    "Id": 430,
+    "Phase": 30,
+    "MissionPassMasterId": 4,
+    "ClearPoint": 12000,
+    "StartDate": "1970-01-01T00:00:00.000Z",
+    "EndDate": "1970-01-01T00:00:00.000Z",
+    "Rewards": [
+      {
+        "Id": 43001,
+        "ThingId": 0,
+        "ThingType": 13,
+        "ThingQuantity": 100,
+        "MissionPassDetailMasterId": 430,
+        "IsSp": false
+      },
+      {
+        "Id": 43002,
+        "ThingId": 1472,
+        "ThingType": 5,
+        "ThingQuantity": 1,
+        "MissionPassDetailMasterId": 430,
+        "IsSp": true
+      }
+    ]
+  },
+  {
+    "Id": 440,
+    "Phase": 40,
+    "MissionPassMasterId": 4,
+    "ClearPoint": 16000,
+    "StartDate": "1970-01-01T00:00:00.000Z",
+    "EndDate": "1970-01-01T00:00:00.000Z",
+    "Rewards": [
+      {
+        "Id": 44001,
+        "ThingId": 0,
+        "ThingType": 13,
+        "ThingQuantity": 100,
+        "MissionPassDetailMasterId": 440,
+        "IsSp": false
+      },
+      {
+        "Id": 44002,
+        "ThingId": 1473,
+        "ThingType": 5,
+        "ThingQuantity": 1,
+        "MissionPassDetailMasterId": 440,
+        "IsSp": true
+      }
+    ]
+  },
+  {
+    "Id": 450,
+    "Phase": 50,
+    "MissionPassMasterId": 4,
+    "ClearPoint": 20000,
+    "StartDate": "1970-01-01T00:00:00.000Z",
+    "EndDate": "1970-01-01T00:00:00.000Z",
+    "Rewards": [
+      {
+        "Id": 45001,
+        "ThingId": 130013,
+        "ThingType": 1,
+        "ThingQuantity": 3,
+        "MissionPassDetailMasterId": 450,
+        "IsSp": false
+      },
+      {
+        "Id": 45002,
+        "ThingId": 1474,
+        "ThingType": 5,
+        "ThingQuantity": 1,
+        "MissionPassDetailMasterId": 450,
+        "IsSp": true
+      }
+    ]
   }
 ]
