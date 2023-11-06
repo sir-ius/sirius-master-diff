@@ -15936,7 +15936,7 @@
     "Name": "くまガチャステップ1",
     "CardType": 2,
     "GachaType": 6,
-    "GachaTextTemplateMasterId": 2001,
+    "GachaTextTemplateMasterId": 9001,
     "StartDate": "2023-10-31T17:00:00.000Z",
     "EndDate": "2023-11-10T17:00:00.000Z",
     "BonusThings": [],
@@ -16331,14 +16331,14 @@
     ],
     "HasMovie": false,
     "StoryEventMasterId": null,
-    "AttentionGachaTextTemplateMasterId": 12003
+    "AttentionGachaTextTemplateMasterId": 12004
   },
   {
     "Id": 9002,
     "Name": "くまガチャステップ2",
     "CardType": 2,
     "GachaType": 6,
-    "GachaTextTemplateMasterId": 2001,
+    "GachaTextTemplateMasterId": 9002,
     "StartDate": "2023-10-31T17:00:00.000Z",
     "EndDate": "2023-11-10T17:00:00.000Z",
     "BonusThings": [],
@@ -16733,14 +16733,14 @@
     ],
     "HasMovie": false,
     "StoryEventMasterId": null,
-    "AttentionGachaTextTemplateMasterId": 12003
+    "AttentionGachaTextTemplateMasterId": 12004
   },
   {
     "Id": 9003,
     "Name": "くまガチャステップ3",
     "CardType": 2,
     "GachaType": 6,
-    "GachaTextTemplateMasterId": 2001,
+    "GachaTextTemplateMasterId": 9003,
     "StartDate": "2023-10-31T17:00:00.000Z",
     "EndDate": "2023-11-10T17:00:00.000Z",
     "BonusThings": [],
@@ -17135,14 +17135,14 @@
     ],
     "HasMovie": false,
     "StoryEventMasterId": null,
-    "AttentionGachaTextTemplateMasterId": 12003
+    "AttentionGachaTextTemplateMasterId": 12004
   },
   {
     "Id": 9004,
     "Name": "くまガチャステップ4",
     "CardType": 2,
     "GachaType": 6,
-    "GachaTextTemplateMasterId": 2001,
+    "GachaTextTemplateMasterId": 9004,
     "StartDate": "2023-10-31T17:00:00.000Z",
     "EndDate": "2023-11-10T17:00:00.000Z",
     "BonusThings": [],
@@ -17537,14 +17537,14 @@
     ],
     "HasMovie": false,
     "StoryEventMasterId": null,
-    "AttentionGachaTextTemplateMasterId": 12003
+    "AttentionGachaTextTemplateMasterId": 12004
   },
   {
     "Id": 9005,
     "Name": "くまガチャステップ5",
     "CardType": 2,
     "GachaType": 6,
-    "GachaTextTemplateMasterId": 2001,
+    "GachaTextTemplateMasterId": 9005,
     "StartDate": "2023-10-31T17:00:00.000Z",
     "EndDate": "2023-11-10T17:00:00.000Z",
     "BonusThings": [],
@@ -17939,6 +17939,6 @@
     ],
     "HasMovie": false,
     "StoryEventMasterId": null,
-    "AttentionGachaTextTemplateMasterId": 12003
+    "AttentionGachaTextTemplateMasterId": 12004
   }
 ]
