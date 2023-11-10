@@ -62,5 +62,21 @@
       116
     ],
     "SenseNotationMasterId": 20008
+  },
+  {
+    "Id": 20012,
+    "StoryEventMasterId": 20012,
+    "MusicMasterId": 69,
+    "BuffIds": [
+      11,
+      12,
+      13,
+      14,
+      117,
+      118,
+      119,
+      120
+    ],
+    "SenseNotationMasterId": 20012
   }
 ]

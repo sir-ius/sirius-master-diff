@@ -1825,6 +1825,31 @@
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   },
   {
+    "Id": 130330,
+    "CharacterBaseMasterId": 104,
+    "Name": "いっしょに遊びませんか？",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 3,
+    "Attribute": 4,
+    "MinLevelStatus": {
+      "Concentration": 84,
+      "Expression": 87,
+      "Vocal": 99
+    },
+    "StarActMasterId": 130331,
+    "AwakenStarActMasterId": 130331,
+    "SenseMasterId": 130330,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 30002,
+    "SenseEnhanceItemGroupMasterId": 3,
+    "FirstEpisodeReleaseItemGroupId": 341,
+    "SecondEpisodeReleaseItemGroupId": 342,
+    "CharacterAwakeningItemGroupMasterId": 34,
+    "DisplayStartAt": "2023-11-10T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
     "Id": 140010,
     "CharacterBaseMasterId": 101,
     "Name": "悲哀と恋慕の旋律",
@@ -2722,6 +2747,56 @@
     "SecondEpisodeReleaseItemGroupId": 432,
     "CharacterAwakeningItemGroupMasterId": 43,
     "DisplayStartAt": "2023-10-20T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 140400,
+    "CharacterBaseMasterId": 405,
+    "Name": "夕暮れ時には甘えてみて",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 4,
+    "Attribute": 4,
+    "MinLevelStatus": {
+      "Concentration": 93,
+      "Expression": 100,
+      "Vocal": 155
+    },
+    "StarActMasterId": 140401,
+    "AwakenStarActMasterId": 140401,
+    "SenseMasterId": 140400,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 40040,
+    "SenseEnhanceItemGroupMasterId": 4,
+    "FirstEpisodeReleaseItemGroupId": 441,
+    "SecondEpisodeReleaseItemGroupId": 442,
+    "CharacterAwakeningItemGroupMasterId": 44,
+    "DisplayStartAt": "2023-11-10T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 140410,
+    "CharacterBaseMasterId": 205,
+    "Name": "巡り合わせの落葉",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 4,
+    "Attribute": 4,
+    "MinLevelStatus": {
+      "Concentration": 109,
+      "Expression": 132,
+      "Vocal": 101
+    },
+    "StarActMasterId": 140411,
+    "AwakenStarActMasterId": 140411,
+    "SenseMasterId": 140410,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 40041,
+    "SenseEnhanceItemGroupMasterId": 4,
+    "FirstEpisodeReleaseItemGroupId": 441,
+    "SecondEpisodeReleaseItemGroupId": 442,
+    "CharacterAwakeningItemGroupMasterId": 44,
+    "DisplayStartAt": "2023-11-10T17:00:00.000Z",
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   }
 ]

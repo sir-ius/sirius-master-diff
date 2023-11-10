@@ -3990,6 +3990,36 @@
     "ConditionValue2": null
   },
   {
+    "Id": 220280,
+    "Name": "人には言えないアタシの叫び",
+    "Description": "<color=#FF9314>陽属性</color>のアクターの演技力が[:param11]%上昇",
+    "PosterMasterId": 220280,
+    "Type": 1,
+    "FrameNumber": 1,
+    "ReleaseLevelAt": 0,
+    "Hidden": false,
+    "Branches": [
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 70022004
+          }
+        ],
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 22028001
+      }
+    ],
+    "BranchConditionType1": 0,
+    "ConditionValue1": null,
+    "BranchConditionType2": 0,
+    "ConditionValue2": null
+  },
+  {
     "Id": 229010,
     "Name": "初めての舞台",
     "Description": "<color=#7AC940>彩属性</color>のアクターの演技力が[:param11]%上昇",
@@ -7322,6 +7352,66 @@
     "ConditionValue2": null
   },
   {
+    "Id": 230270,
+    "Name": "夢のステラリウム",
+    "Description": "全アクターの演技力が[:param11]％上昇",
+    "PosterMasterId": 230270,
+    "Type": 1,
+    "FrameNumber": 1,
+    "ReleaseLevelAt": 0,
+    "Hidden": false,
+    "Branches": [
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 70031000
+          }
+        ],
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23027001
+      }
+    ],
+    "BranchConditionType1": 0,
+    "ConditionValue1": null,
+    "BranchConditionType2": 0,
+    "ConditionValue2": null
+  },
+  {
+    "Id": 230280,
+    "Name": "百年のおやすみなさい",
+    "Description": "<color=#FF9314>陽属性</color>のアクターの演技力が[:param11]%上昇",
+    "PosterMasterId": 230280,
+    "Type": 1,
+    "FrameNumber": 1,
+    "ReleaseLevelAt": 0,
+    "Hidden": false,
+    "Branches": [
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 70052004
+          }
+        ],
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23028001
+      }
+    ],
+    "BranchConditionType1": 0,
+    "ConditionValue1": null,
+    "BranchConditionType2": 0,
+    "ConditionValue2": null
+  },
+  {
     "Id": 2202301,
     "Name": "演技力アップ＋",
     "Description": "自身の演技力が[:param11]％上昇　◆発動条件：<color=#FF9314>陽属性</color>のアクターが装備",
@@ -7554,6 +7644,66 @@
         "JudgeType2": null,
         "Parameter2": null,
         "Id": 220260201
+      }
+    ],
+    "BranchConditionType1": 0,
+    "ConditionValue1": null,
+    "BranchConditionType2": 0,
+    "ConditionValue2": null
+  },
+  {
+    "Id": 2202801,
+    "Name": "演技力アップ",
+    "Description": "自身の演技力が[:param11]％上昇　◆発動条件：<color=#FF9314>陽属性</color>のアクターが装備",
+    "PosterMasterId": 220280,
+    "Type": 2,
+    "FrameNumber": 1,
+    "ReleaseLevelAt": 0,
+    "Hidden": false,
+    "Branches": [
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10010004
+          }
+        ],
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 220280101
+      }
+    ],
+    "BranchConditionType1": 0,
+    "ConditionValue1": null,
+    "BranchConditionType2": 0,
+    "ConditionValue2": null
+  },
+  {
+    "Id": 2202802,
+    "Name": "スコアブースト・表現力",
+    "Description": "センス発動直後、自身の表現力の[:param11]倍のスコアを獲得　◆発動条件：<color=#FF9314>陽属性</color>のアクターが装備",
+    "PosterMasterId": 220280,
+    "Type": 2,
+    "FrameNumber": 2,
+    "ReleaseLevelAt": 7,
+    "Hidden": false,
+    "Branches": [
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 11010004
+          }
+        ],
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 220280201
       }
     ],
     "BranchConditionType1": 0,
@@ -7944,6 +8094,126 @@
         "JudgeType2": null,
         "Parameter2": null,
         "Id": 230250301
+      }
+    ],
+    "BranchConditionType1": 0,
+    "ConditionValue1": null,
+    "BranchConditionType2": 0,
+    "ConditionValue2": null
+  },
+  {
+    "Id": 2302701,
+    "Name": "演技力アップⅡ",
+    "Description": "自身の演技力が[:param11]％上昇",
+    "PosterMasterId": 230270,
+    "Type": 2,
+    "FrameNumber": 1,
+    "ReleaseLevelAt": 0,
+    "Hidden": false,
+    "Branches": [
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10020000
+          }
+        ],
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 230270101
+      }
+    ],
+    "BranchConditionType1": 0,
+    "ConditionValue1": null,
+    "BranchConditionType2": 0,
+    "ConditionValue2": null
+  },
+  {
+    "Id": 2302702,
+    "Name": "初期ライフ上昇Ⅱ",
+    "Description": "公演開始時、ライフが[:param11]上昇",
+    "PosterMasterId": 230270,
+    "Type": 2,
+    "FrameNumber": 2,
+    "ReleaseLevelAt": 7,
+    "Hidden": false,
+    "Branches": [
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 11320000
+          }
+        ],
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 230270201
+      }
+    ],
+    "BranchConditionType1": 0,
+    "ConditionValue1": null,
+    "BranchConditionType2": 0,
+    "ConditionValue2": null
+  },
+  {
+    "Id": 2302801,
+    "Name": "集中力アップⅢ＋",
+    "Description": "自身の集中力が[:param11]％上昇",
+    "PosterMasterId": 230280,
+    "Type": 2,
+    "FrameNumber": 1,
+    "ReleaseLevelAt": 0,
+    "Hidden": false,
+    "Branches": [
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10331000
+          }
+        ],
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 230280101
+      }
+    ],
+    "BranchConditionType1": 0,
+    "ConditionValue1": null,
+    "BranchConditionType2": 0,
+    "ConditionValue2": null
+  },
+  {
+    "Id": 2302802,
+    "Name": "スコアブースト・集中力Ⅲ",
+    "Description": "センス発動直後、自身の集中力の[:param11]倍のスコアを獲得　◆発動条件：<color=#FF9314>陽属性</color>のアクターが装備",
+    "PosterMasterId": 230280,
+    "Type": 2,
+    "FrameNumber": 2,
+    "ReleaseLevelAt": 7,
+    "Hidden": false,
+    "Branches": [
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 11130004
+          }
+        ],
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 230280201
       }
     ],
     "BranchConditionType1": 0,

@@ -151,5 +151,14 @@
     "ChapterOrder": 0,
     "DisplayStartAt": "2023-10-20T17:00:00.000Z",
     "DisplayEndAt": "2023-10-31T17:00:00.000Z"
+  },
+  {
+    "Id": 20012,
+    "Type": 2,
+    "CompanyMasterId": null,
+    "EventMasterId": 20012,
+    "ChapterOrder": 0,
+    "DisplayStartAt": "2023-11-10T17:00:00.000Z",
+    "DisplayEndAt": "2023-11-20T17:00:00.000Z"
   }
 ]

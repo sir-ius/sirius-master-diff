@@ -238,6 +238,20 @@
     "EndDate": "2023-11-10T17:00:00.000Z"
   },
   {
+    "Id": 1015,
+    "Order": 1985,
+    "Name": "人には言えないアタシの叫びガチャ(アクター)",
+    "JumpType": 4,
+    "JumpPageId": "1015",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": 0,
+    "DeleteConditionValue": null,
+    "ImagePath": "Gacha/1015",
+    "StartDate": "2023-11-10T17:00:00.000Z",
+    "EndDate": "2023-11-20T17:00:00.000Z"
+  },
+  {
     "Id": 1800,
     "Order": 1989,
     "Name": "銀河座ピックアップアクターガチャ",
@@ -250,6 +264,20 @@
     "ImagePath": "Gacha/1800",
     "StartDate": "2023-10-25T17:00:00.000Z",
     "EndDate": "2023-10-30T17:00:00.000Z"
+  },
+  {
+    "Id": 1801,
+    "Order": 1984,
+    "Name": "「合同音楽公演」記念アクターガチャ",
+    "JumpType": 4,
+    "JumpPageId": "1801",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": 0,
+    "DeleteConditionValue": null,
+    "ImagePath": "Gacha/1801",
+    "StartDate": "2023-11-12T20:00:00.000Z",
+    "EndDate": "2023-11-30T17:00:00.000Z"
   },
   {
     "Id": 2001,
@@ -420,6 +448,20 @@
     "EndDate": "2023-11-10T17:00:00.000Z"
   },
   {
+    "Id": 2014,
+    "Order": 2987,
+    "Name": "人には言えないアタシの叫びガチャ(ポスター)",
+    "JumpType": 4,
+    "JumpPageId": "2014",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": 0,
+    "DeleteConditionValue": null,
+    "ImagePath": "Gacha/2014",
+    "StartDate": "2023-11-10T17:00:00.000Z",
+    "EndDate": "2023-11-20T17:00:00.000Z"
+  },
+  {
     "Id": 3001,
     "Order": 4000,
     "Name": "イベント「god is no /w/ here」",
@@ -560,6 +602,20 @@
     "EndDate": "2023-10-31T17:00:00.000Z"
   },
   {
+    "Id": 3012,
+    "Order": 3989,
+    "Name": "イベント「人には言えないアタシの叫び」",
+    "JumpType": 5,
+    "JumpPageId": "20012",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": 0,
+    "DeleteConditionValue": null,
+    "ImagePath": "Event/20012",
+    "StartDate": "2023-11-10T17:00:00.000Z",
+    "EndDate": "2023-11-20T17:00:00.000Z"
+  },
+  {
     "Id": 4002,
     "Order": 500,
     "Name": "オペラ座第1話追加",
@@ -614,6 +670,34 @@
     "ImagePath": "Notification/1013",
     "StartDate": "2023-11-05T17:00:00.000Z",
     "EndDate": "2023-11-12T17:00:00.000Z"
+  },
+  {
+    "Id": 4007,
+    "Order": 487,
+    "Name": "オペラ座第4話追加",
+    "JumpType": 8,
+    "JumpPageId": "1",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": 0,
+    "DeleteConditionValue": null,
+    "ImagePath": "Notification/1014",
+    "StartDate": "2023-11-12T17:00:00.000Z",
+    "EndDate": "2023-11-19T17:00:00.000Z"
+  },
+  {
+    "Id": 4008,
+    "Order": 486,
+    "Name": "オペラ座第5話追加",
+    "JumpType": 8,
+    "JumpPageId": "1",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": 0,
+    "DeleteConditionValue": null,
+    "ImagePath": "Notification/1015",
+    "StartDate": "2023-11-19T17:00:00.000Z",
+    "EndDate": "2023-11-26T17:00:00.000Z"
   },
   {
     "Id": 5002,
@@ -880,6 +964,34 @@
     "ImagePath": "Home/5034",
     "StartDate": "2023-11-06T00:00:00.000Z",
     "EndDate": "2023-11-16T00:00:00.000Z"
+  },
+  {
+    "Id": 5035,
+    "Order": 5035,
+    "Name": "「合同音楽公演」記念ジュエルパックA",
+    "JumpType": 3,
+    "JumpPageId": "5",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": 0,
+    "DeleteConditionValue": null,
+    "ImagePath": "Home/5035",
+    "StartDate": "2023-11-12T20:00:00.000Z",
+    "EndDate": "2023-11-30T17:00:00.000Z"
+  },
+  {
+    "Id": 5040,
+    "Order": 5040,
+    "Name": "育成もりもりパック",
+    "JumpType": 3,
+    "JumpPageId": "5",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": 1,
+    "DeleteConditionValue": "5040",
+    "ImagePath": "Home/5040",
+    "StartDate": "2023-11-15T17:00:00.000Z",
+    "EndDate": "2023-11-25T17:00:00.000Z"
   },
   {
     "Id": 9000,

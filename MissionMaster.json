@@ -8208,5 +8208,111 @@
         ]
       }
     ]
+  },
+  {
+    "Id": 400000,
+    "MissionCategory": 3,
+    "MissionViewOrder": 400000,
+    "Title": "",
+    "Description": "合同音楽公演のステージ[:param]をクリアしよう",
+    "EventMasterId": null,
+    "JumpType": 0,
+    "JumpTargetId": null,
+    "StartDate": "2023-11-12T20:00:00.000Z",
+    "EndDate": "2023-11-30T17:00:00.000Z",
+    "Stages": [
+      {
+        "Id": 400000,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 3,
+        "StartDate": "2023-11-12T20:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 230270,
+            "ThingType": 3,
+            "ThingQuantity": 1
+          }
+        ]
+      },
+      {
+        "Id": 400001,
+        "MissionStageOrder": 2,
+        "StageGoalValue": 6,
+        "StartDate": "2023-11-12T20:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 230270,
+            "ThingType": 3,
+            "ThingQuantity": 1
+          }
+        ]
+      },
+      {
+        "Id": 400002,
+        "MissionStageOrder": 3,
+        "StageGoalValue": 9,
+        "StartDate": "2023-11-12T20:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 230270,
+            "ThingType": 3,
+            "ThingQuantity": 1
+          }
+        ]
+      },
+      {
+        "Id": 400003,
+        "MissionStageOrder": 4,
+        "StageGoalValue": 12,
+        "StartDate": "2023-11-12T20:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 230270,
+            "ThingType": 3,
+            "ThingQuantity": 1
+          }
+        ]
+      },
+      {
+        "Id": 400004,
+        "MissionStageOrder": 5,
+        "StageGoalValue": 15,
+        "StartDate": "2023-11-12T20:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 230270,
+            "ThingType": 3,
+            "ThingQuantity": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 400010,
+    "MissionCategory": 3,
+    "MissionViewOrder": 400010,
+    "Title": "",
+    "Description": "合同音楽公演を全ステージクリアしよう",
+    "EventMasterId": null,
+    "JumpType": 0,
+    "JumpTargetId": null,
+    "StartDate": "2023-11-12T20:00:00.000Z",
+    "EndDate": "2023-11-30T17:00:00.000Z",
+    "Stages": [
+      {
+        "Id": 400010,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 18,
+        "StartDate": "2023-11-12T20:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 400001,
+            "ThingType": 6,
+            "ThingQuantity": 1
+          }
+        ]
+      }
+    ]
   }
 ]

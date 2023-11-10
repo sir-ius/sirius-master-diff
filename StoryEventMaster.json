@@ -108,5 +108,16 @@
     "StartDate": "2023-10-20T17:00:00.000Z",
     "EndDate": "2023-10-29T22:00:00.000Z",
     "ForceEndDate": "2023-10-31T17:00:00.000Z"
+  },
+  {
+    "Id": 20012,
+    "Category": 3,
+    "BonusAttribute": 4,
+    "Title": "人には言えないアタシの叫び",
+    "ExchangeShopMasterId": 20012,
+    "EventPointItemMasterId": 420012,
+    "StartDate": "2023-11-10T17:00:00.000Z",
+    "EndDate": "2023-11-18T22:00:00.000Z",
+    "ForceEndDate": "2023-11-20T17:00:00.000Z"
   }
 ]

@@ -88,6 +88,17 @@
     "MaxWidthPx": 540
   },
   {
+    "Id": 50,
+    "Order": 50,
+    "IsDefault": true,
+    "Name": "Wanna Be A Star",
+    "Category": 900,
+    "WidhtPx": 360,
+    "HeightPx": 360,
+    "MinWidthPx": 90,
+    "MaxWidthPx": 540
+  },
+  {
     "Id": 10103,
     "Order": 10103,
     "IsDefault": false,

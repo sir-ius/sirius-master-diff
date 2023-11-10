@@ -1245,5 +1245,35 @@
     "IsHairChange": false,
     "DisplayStartAt": "2023-11-01T05:00:00.000Z",
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 150,
+    "Name": "Thorn Princess",
+    "Description": null,
+    "Order": 150,
+    "CostumeMasterIds": [
+      1501,
+      1502
+    ],
+    "CostumeWearableCharacterGroupMasterId": null,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2023-11-10T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 151,
+    "Name": "Thorn Princess",
+    "Description": null,
+    "Order": 151,
+    "CostumeMasterIds": [
+      1511,
+      1512
+    ],
+    "CostumeWearableCharacterGroupMasterId": 104,
+    "PerformanceGroupId": null,
+    "IsHairChange": true,
+    "DisplayStartAt": "2023-11-10T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   }
 ]
