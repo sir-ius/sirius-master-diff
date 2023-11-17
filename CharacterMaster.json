@@ -1825,6 +1825,31 @@
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   },
   {
+    "Id": 130320,
+    "CharacterBaseMasterId": 305,
+    "Name": "ん～っ！　デリシャス！",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 3,
+    "Attribute": 2,
+    "MinLevelStatus": {
+      "Concentration": 99,
+      "Expression": 85,
+      "Vocal": 86
+    },
+    "StarActMasterId": 130321,
+    "AwakenStarActMasterId": 130321,
+    "SenseMasterId": 130320,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 30003,
+    "SenseEnhanceItemGroupMasterId": 3,
+    "FirstEpisodeReleaseItemGroupId": 321,
+    "SecondEpisodeReleaseItemGroupId": 322,
+    "CharacterAwakeningItemGroupMasterId": 32,
+    "DisplayStartAt": "2023-11-20T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
     "Id": 130330,
     "CharacterBaseMasterId": 104,
     "Name": "いっしょに遊びませんか？",
@@ -2747,6 +2772,56 @@
     "SecondEpisodeReleaseItemGroupId": 432,
     "CharacterAwakeningItemGroupMasterId": 43,
     "DisplayStartAt": "2023-10-20T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 140380,
+    "CharacterBaseMasterId": 302,
+    "Name": "名探偵の悲哀",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 4,
+    "Attribute": 2,
+    "MinLevelStatus": {
+      "Concentration": 96,
+      "Expression": 107,
+      "Vocal": 142
+    },
+    "StarActMasterId": 140381,
+    "AwakenStarActMasterId": 140381,
+    "SenseMasterId": 140380,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 40038,
+    "SenseEnhanceItemGroupMasterId": 4,
+    "FirstEpisodeReleaseItemGroupId": 421,
+    "SecondEpisodeReleaseItemGroupId": 422,
+    "CharacterAwakeningItemGroupMasterId": 42,
+    "DisplayStartAt": "2023-11-20T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 140390,
+    "CharacterBaseMasterId": 303,
+    "Name": "本当のギムレット",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": 4,
+    "Attribute": 2,
+    "MinLevelStatus": {
+      "Concentration": 148,
+      "Expression": 94,
+      "Vocal": 104
+    },
+    "StarActMasterId": 140391,
+    "AwakenStarActMasterId": 140391,
+    "SenseMasterId": 140390,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 40039,
+    "SenseEnhanceItemGroupMasterId": 4,
+    "FirstEpisodeReleaseItemGroupId": 421,
+    "SecondEpisodeReleaseItemGroupId": 422,
+    "CharacterAwakeningItemGroupMasterId": 42,
+    "DisplayStartAt": "2023-11-20T17:00:00.000Z",
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   },
   {

@@ -7500,6 +7500,26 @@
     ]
   },
   {
+    "Id": 130321,
+    "Rewards": [
+      {
+        "ThingId": 0,
+        "ThingType": 13,
+        "ThingQuantity": 30
+      }
+    ]
+  },
+  {
+    "Id": 130322,
+    "Rewards": [
+      {
+        "ThingId": 0,
+        "ThingType": 13,
+        "ThingQuantity": 30
+      }
+    ]
+  },
+  {
     "Id": 130331,
     "Rewards": [
       {
@@ -8231,6 +8251,46 @@
   },
   {
     "Id": 140372,
+    "Rewards": [
+      {
+        "ThingId": 0,
+        "ThingType": 13,
+        "ThingQuantity": 30
+      }
+    ]
+  },
+  {
+    "Id": 140381,
+    "Rewards": [
+      {
+        "ThingId": 0,
+        "ThingType": 13,
+        "ThingQuantity": 30
+      }
+    ]
+  },
+  {
+    "Id": 140382,
+    "Rewards": [
+      {
+        "ThingId": 0,
+        "ThingType": 13,
+        "ThingQuantity": 30
+      }
+    ]
+  },
+  {
+    "Id": 140391,
+    "Rewards": [
+      {
+        "ThingId": 0,
+        "ThingType": 13,
+        "ThingQuantity": 30
+      }
+    ]
+  },
+  {
+    "Id": 140392,
     "Rewards": [
       {
         "ThingId": 0,
@@ -11659,6 +11719,131 @@
   },
   {
     "Id": 2001008,
+    "Rewards": [
+      {
+        "ThingId": 130001,
+        "ThingType": 1,
+        "ThingQuantity": 1
+      },
+      {
+        "ThingId": 0,
+        "ThingType": 13,
+        "ThingQuantity": 50
+      },
+      {
+        "ThingId": 0,
+        "ThingType": 13,
+        "ThingQuantity": 100
+      }
+    ]
+  },
+  {
+    "Id": 2001101,
+    "Rewards": [
+      {
+        "ThingId": 130001,
+        "ThingType": 1,
+        "ThingQuantity": 1
+      },
+      {
+        "ThingId": 0,
+        "ThingType": 13,
+        "ThingQuantity": 50
+      }
+    ]
+  },
+  {
+    "Id": 2001102,
+    "Rewards": [
+      {
+        "ThingId": 130001,
+        "ThingType": 1,
+        "ThingQuantity": 1
+      },
+      {
+        "ThingId": 0,
+        "ThingType": 13,
+        "ThingQuantity": 50
+      }
+    ]
+  },
+  {
+    "Id": 2001103,
+    "Rewards": [
+      {
+        "ThingId": 130001,
+        "ThingType": 1,
+        "ThingQuantity": 1
+      },
+      {
+        "ThingId": 0,
+        "ThingType": 13,
+        "ThingQuantity": 50
+      }
+    ]
+  },
+  {
+    "Id": 2001104,
+    "Rewards": [
+      {
+        "ThingId": 130001,
+        "ThingType": 1,
+        "ThingQuantity": 1
+      },
+      {
+        "ThingId": 0,
+        "ThingType": 13,
+        "ThingQuantity": 50
+      }
+    ]
+  },
+  {
+    "Id": 2001105,
+    "Rewards": [
+      {
+        "ThingId": 130001,
+        "ThingType": 1,
+        "ThingQuantity": 1
+      },
+      {
+        "ThingId": 0,
+        "ThingType": 13,
+        "ThingQuantity": 50
+      }
+    ]
+  },
+  {
+    "Id": 2001106,
+    "Rewards": [
+      {
+        "ThingId": 130001,
+        "ThingType": 1,
+        "ThingQuantity": 1
+      },
+      {
+        "ThingId": 0,
+        "ThingType": 13,
+        "ThingQuantity": 50
+      }
+    ]
+  },
+  {
+    "Id": 2001107,
+    "Rewards": [
+      {
+        "ThingId": 130001,
+        "ThingType": 1,
+        "ThingQuantity": 1
+      },
+      {
+        "ThingId": 0,
+        "ThingType": 13,
+        "ThingQuantity": 50
+      }
+    ]
+  },
+  {
+    "Id": 2001108,
     "Rewards": [
       {
         "ThingId": 130001,

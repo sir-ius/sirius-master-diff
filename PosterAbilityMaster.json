@@ -3990,6 +3990,36 @@
     "ConditionValue2": null
   },
   {
+    "Id": 220270,
+    "Name": "ギムレットにお別れを",
+    "Description": "<color=#33B4DF>凛属性</color>のアクターの演技力が[:param11]%上昇",
+    "PosterMasterId": 220270,
+    "Type": 1,
+    "FrameNumber": 1,
+    "ReleaseLevelAt": 0,
+    "Hidden": false,
+    "Branches": [
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 70022002
+          }
+        ],
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 22027001
+      }
+    ],
+    "BranchConditionType1": 0,
+    "ConditionValue1": null,
+    "BranchConditionType2": 0,
+    "ConditionValue2": null
+  },
+  {
     "Id": 220280,
     "Name": "人には言えないアタシの叫び",
     "Description": "<color=#FF9314>陽属性</color>のアクターの演技力が[:param11]%上昇",
@@ -7352,6 +7382,36 @@
     "ConditionValue2": null
   },
   {
+    "Id": 230260,
+    "Name": "ギムレットには早すぎる",
+    "Description": "銀河座に所属するアクターの演技力が[:param11]%上昇",
+    "PosterMasterId": 230260,
+    "Type": 1,
+    "FrameNumber": 1,
+    "ReleaseLevelAt": 0,
+    "Hidden": false,
+    "Branches": [
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 70052300
+          }
+        ],
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23026001
+      }
+    ],
+    "BranchConditionType1": 0,
+    "ConditionValue1": null,
+    "BranchConditionType2": 0,
+    "ConditionValue2": null
+  },
+  {
     "Id": 230270,
     "Name": "夢のステラリウム",
     "Description": "全アクターの演技力が[:param11]％上昇",
@@ -7644,6 +7704,66 @@
         "JudgeType2": null,
         "Parameter2": null,
         "Id": 220260201
+      }
+    ],
+    "BranchConditionType1": 0,
+    "ConditionValue1": null,
+    "BranchConditionType2": 0,
+    "ConditionValue2": null
+  },
+  {
+    "Id": 2202701,
+    "Name": "演技力アップ",
+    "Description": "自身の演技力が[:param11]％上昇　◆発動条件：<color=#33B4DF>凛属性</color>のアクターが装備",
+    "PosterMasterId": 220270,
+    "Type": 2,
+    "FrameNumber": 1,
+    "ReleaseLevelAt": 0,
+    "Hidden": false,
+    "Branches": [
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10010002
+          }
+        ],
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 220270101
+      }
+    ],
+    "BranchConditionType1": 0,
+    "ConditionValue1": null,
+    "BranchConditionType2": 0,
+    "ConditionValue2": null
+  },
+  {
+    "Id": 2202702,
+    "Name": "スコアブースト・集中力",
+    "Description": "センス発動直後、自身の集中力の[:param11]倍のスコアを獲得　◆発動条件：<color=#33B4DF>凛属性</color>のアクターが装備",
+    "PosterMasterId": 220270,
+    "Type": 2,
+    "FrameNumber": 2,
+    "ReleaseLevelAt": 7,
+    "Hidden": false,
+    "Branches": [
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 11110002
+          }
+        ],
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 220270201
       }
     ],
     "BranchConditionType1": 0,
@@ -8094,6 +8214,96 @@
         "JudgeType2": null,
         "Parameter2": null,
         "Id": 230250301
+      }
+    ],
+    "BranchConditionType1": 0,
+    "ConditionValue1": null,
+    "BranchConditionType2": 0,
+    "ConditionValue2": null
+  },
+  {
+    "Id": 2302601,
+    "Name": "演技力アップⅢ",
+    "Description": "自身の演技力が[:param11]％上昇",
+    "PosterMasterId": 230260,
+    "Type": 2,
+    "FrameNumber": 1,
+    "ReleaseLevelAt": 0,
+    "Hidden": false,
+    "Branches": [
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10030000
+          }
+        ],
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 230260101
+      }
+    ],
+    "BranchConditionType1": 0,
+    "ConditionValue1": null,
+    "BranchConditionType2": 0,
+    "ConditionValue2": null
+  },
+  {
+    "Id": 2302602,
+    "Name": "集中力アップⅡ",
+    "Description": "自身の集中力が[:param11]%上昇　◆発動条件：銀河座に所属するアクターが装備",
+    "PosterMasterId": 230260,
+    "Type": 2,
+    "FrameNumber": 2,
+    "ReleaseLevelAt": 5,
+    "Hidden": false,
+    "Branches": [
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10320300
+          }
+        ],
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 230260201
+      }
+    ],
+    "BranchConditionType1": 0,
+    "ConditionValue1": null,
+    "BranchConditionType2": 0,
+    "ConditionValue2": null
+  },
+  {
+    "Id": 2302603,
+    "Name": "スコアブースト・集中力Ⅱ",
+    "Description": "センス発動直後、自身の集中力の[:param11]倍のスコアを獲得　◆発動条件：銀河座に所属するアクターが装備",
+    "PosterMasterId": 230260,
+    "Type": 2,
+    "FrameNumber": 3,
+    "ReleaseLevelAt": 7,
+    "Hidden": false,
+    "Branches": [
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 11120300
+          }
+        ],
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 230260301
       }
     ],
     "BranchConditionType1": 0,

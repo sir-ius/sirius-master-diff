@@ -1279,6 +1279,19 @@
     "CoolTime": 50
   },
   {
+    "Id": 130320,
+    "Name": "ん～っ！　デリシャス！",
+    "Description": "[:score]倍のスコアを獲得",
+    "Type": 3,
+    "PreEffects": [],
+    "Branches": [],
+    "AcquirableGauge": 0,
+    "AcquirableScorePercent": 410,
+    "ScoreUpPerLevel": 40,
+    "LightCount": 1,
+    "CoolTime": 40
+  },
+  {
     "Id": 130330,
     "Name": "いっしょに遊びませんか？",
     "Description": "[:score]倍のスコアを獲得／ライフを[:param11]回復",
@@ -2008,6 +2021,47 @@
     "ScoreUpPerLevel": 70,
     "LightCount": 1,
     "CoolTime": 60
+  },
+  {
+    "Id": 140380,
+    "Name": "名探偵の悲哀",
+    "Description": "[:score]倍のスコアを獲得／ライフを[:param11]回復",
+    "Type": 1,
+    "PreEffects": [],
+    "Branches": [
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 20014
+          }
+        ],
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 1403801
+      }
+    ],
+    "AcquirableGauge": 0,
+    "AcquirableScorePercent": 250,
+    "ScoreUpPerLevel": 60,
+    "LightCount": 1,
+    "CoolTime": 50
+  },
+  {
+    "Id": 140390,
+    "Name": "本当のギムレット",
+    "Description": "[:score]倍のスコアを獲得",
+    "Type": 3,
+    "PreEffects": [],
+    "Branches": [],
+    "AcquirableGauge": 0,
+    "AcquirableScorePercent": 600,
+    "ScoreUpPerLevel": 50,
+    "LightCount": 1,
+    "CoolTime": 40
   },
   {
     "Id": 140400,

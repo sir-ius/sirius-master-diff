@@ -1247,6 +1247,36 @@
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   },
   {
+    "Id": 148,
+    "Name": "The Long Goodbye",
+    "Description": null,
+    "Order": 148,
+    "CostumeMasterIds": [
+      1481,
+      1482
+    ],
+    "CostumeWearableCharacterGroupMasterId": null,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2023-11-20T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 149,
+    "Name": "The Long Goodbye",
+    "Description": null,
+    "Order": 149,
+    "CostumeMasterIds": [
+      1491,
+      1492
+    ],
+    "CostumeWearableCharacterGroupMasterId": 304,
+    "PerformanceGroupId": null,
+    "IsHairChange": true,
+    "DisplayStartAt": "2023-11-20T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
     "Id": 150,
     "Name": "Thorn Princess",
     "Description": null,

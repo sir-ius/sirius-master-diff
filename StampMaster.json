@@ -880,6 +880,16 @@
     "Name": "ラモーナ【すまん…】"
   },
   {
+    "Id": 30206,
+    "Order": 30206,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 302,
+    "Type": 1,
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "ラモーナ【ふっ】"
+  },
+  {
     "Id": 30291,
     "Order": 30291,
     "IsDefault": false,

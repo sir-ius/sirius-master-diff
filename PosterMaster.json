@@ -1086,6 +1086,28 @@
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   },
   {
+    "Id": 220270,
+    "Name": "ギムレットにお別れを",
+    "OrganizeRestrictGroupId": null,
+    "Rarity": 2,
+    "LevelPatternGroupMasterId": 2,
+    "SubTitlePositionX1": 778,
+    "SubTitlePositionY1": 160,
+    "SubTitlePositionX2": null,
+    "SubTitlePositionY2": null,
+    "SubTitlePositionX3": null,
+    "SubTitlePositionY3": null,
+    "ReleaseItemGroupId": 2,
+    "PronounceName": "ぎむれっとにおわかれを",
+    "Costumes": [],
+    "AppearanceCharacterBaseMasterIds": [
+      302
+    ],
+    "IsRestrictItemBreakThrough": false,
+    "DisplayStartAt": "2023-11-20T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
     "Id": 220280,
     "Name": "人には言えないアタシの叫び",
     "OrganizeRestrictGroupId": null,
@@ -2066,6 +2088,47 @@
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   },
   {
+    "Id": 230260,
+    "Name": "The Long Goodbye",
+    "OrganizeRestrictGroupId": null,
+    "Rarity": 3,
+    "LevelPatternGroupMasterId": 3,
+    "SubTitlePositionX1": 30,
+    "SubTitlePositionY1": 1478,
+    "SubTitlePositionX2": 129,
+    "SubTitlePositionY2": 0,
+    "SubTitlePositionX3": null,
+    "SubTitlePositionY3": null,
+    "ReleaseItemGroupId": 3,
+    "PronounceName": "TheLongGoodbye",
+    "Costumes": [
+      {
+        "Phase": 0,
+        "CostumeMasterId": 1481
+      },
+      {
+        "Phase": 1,
+        "CostumeMasterId": 1482
+      },
+      {
+        "Phase": 2,
+        "CostumeMasterId": 1491
+      },
+      {
+        "Phase": 3,
+        "CostumeMasterId": 1492
+      }
+    ],
+    "AppearanceCharacterBaseMasterIds": [
+      302,
+      303,
+      304
+    ],
+    "IsRestrictItemBreakThrough": false,
+    "DisplayStartAt": "2023-11-20T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
     "Id": 230270,
     "Name": "Wanna Be A Star",
     "OrganizeRestrictGroupId": null,
@@ -2085,14 +2148,14 @@
       102,
       103,
       104,
-      401,
-      402,
       105,
       106,
       201,
       203,
       301,
-      302
+      302,
+      401,
+      402
     ],
     "IsRestrictItemBreakThrough": false,
     "DisplayStartAt": "2023-11-12T20:00:00.000Z",
