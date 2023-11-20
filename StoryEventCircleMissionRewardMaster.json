@@ -5,7 +5,7 @@
     "RequiredCirclePoint": 500,
     "RequiredUserPoint": 50,
     "ThingId": 130061,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 200
   },
   {
@@ -14,7 +14,7 @@
     "RequiredCirclePoint": 1000,
     "RequiredUserPoint": 100,
     "ThingId": 0,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingQuantity": 30000
   },
   {
@@ -23,7 +23,7 @@
     "RequiredCirclePoint": 1500,
     "RequiredUserPoint": 150,
     "ThingId": 130022,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 100
   },
   {
@@ -32,7 +32,7 @@
     "RequiredCirclePoint": 2000,
     "RequiredUserPoint": 200,
     "ThingId": 130001,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 5
   },
   {
@@ -41,7 +41,7 @@
     "RequiredCirclePoint": 3000,
     "RequiredUserPoint": 300,
     "ThingId": 220190,
-    "ThingType": 3,
+    "ThingType": "Poster",
     "ThingQuantity": 1
   },
   {
@@ -50,7 +50,7 @@
     "RequiredCirclePoint": 4000,
     "RequiredUserPoint": 400,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 5
   },
   {
@@ -59,7 +59,7 @@
     "RequiredCirclePoint": 5000,
     "RequiredUserPoint": 500,
     "ThingId": 130062,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 100
   },
   {
@@ -68,7 +68,7 @@
     "RequiredCirclePoint": 7000,
     "RequiredUserPoint": 700,
     "ThingId": 220190,
-    "ThingType": 3,
+    "ThingType": "Poster",
     "ThingQuantity": 1
   },
   {
@@ -77,7 +77,7 @@
     "RequiredCirclePoint": 9000,
     "RequiredUserPoint": 900,
     "ThingId": 0,
-    "ThingType": 13,
+    "ThingType": "Jewel",
     "ThingQuantity": 50
   },
   {
@@ -86,7 +86,7 @@
     "RequiredCirclePoint": 11000,
     "RequiredUserPoint": 1100,
     "ThingId": 130240,
-    "ThingType": 2,
+    "ThingType": "Character",
     "ThingQuantity": 1
   },
   {
@@ -95,7 +95,7 @@
     "RequiredCirclePoint": 13000,
     "RequiredUserPoint": 1300,
     "ThingId": 130063,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 50
   },
   {
@@ -104,7 +104,7 @@
     "RequiredCirclePoint": 15000,
     "RequiredUserPoint": 1500,
     "ThingId": 220190,
-    "ThingType": 3,
+    "ThingType": "Poster",
     "ThingQuantity": 1
   },
   {
@@ -113,7 +113,7 @@
     "RequiredCirclePoint": 18000,
     "RequiredUserPoint": 1800,
     "ThingId": 130032,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 50
   },
   {
@@ -122,7 +122,7 @@
     "RequiredCirclePoint": 21000,
     "RequiredUserPoint": 2100,
     "ThingId": 143024,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 20
   },
   {
@@ -131,7 +131,7 @@
     "RequiredCirclePoint": 24000,
     "RequiredUserPoint": 2400,
     "ThingId": 130064,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 50
   },
   {
@@ -140,7 +140,7 @@
     "RequiredCirclePoint": 27000,
     "RequiredUserPoint": 2700,
     "ThingId": 220190,
-    "ThingType": 3,
+    "ThingType": "Poster",
     "ThingQuantity": 1
   },
   {
@@ -149,7 +149,7 @@
     "RequiredCirclePoint": 30000,
     "RequiredUserPoint": 3000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 5
   },
   {
@@ -158,7 +158,7 @@
     "RequiredCirclePoint": 35000,
     "RequiredUserPoint": 3500,
     "ThingId": 130061,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 200
   },
   {
@@ -167,7 +167,7 @@
     "RequiredCirclePoint": 40000,
     "RequiredUserPoint": 4000,
     "ThingId": 130071,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 1
   },
   {
@@ -176,7 +176,7 @@
     "RequiredCirclePoint": 45000,
     "RequiredUserPoint": 4500,
     "ThingId": 130022,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 100
   },
   {
@@ -185,7 +185,7 @@
     "RequiredCirclePoint": 50000,
     "RequiredUserPoint": 5000,
     "ThingId": 220190,
-    "ThingType": 3,
+    "ThingType": "Poster",
     "ThingQuantity": 1
   },
   {
@@ -194,7 +194,7 @@
     "RequiredCirclePoint": 55000,
     "RequiredUserPoint": 5500,
     "ThingId": 130062,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 100
   },
   {
@@ -203,7 +203,7 @@
     "RequiredCirclePoint": 60000,
     "RequiredUserPoint": 6000,
     "ThingId": 130001,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 5
   },
   {
@@ -212,7 +212,7 @@
     "RequiredCirclePoint": 65000,
     "RequiredUserPoint": 6500,
     "ThingId": 0,
-    "ThingType": 13,
+    "ThingType": "Jewel",
     "ThingQuantity": 50
   },
   {
@@ -221,7 +221,7 @@
     "RequiredCirclePoint": 70000,
     "RequiredUserPoint": 7000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 5
   },
   {
@@ -230,7 +230,7 @@
     "RequiredCirclePoint": 75000,
     "RequiredUserPoint": 7500,
     "ThingId": 143024,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 40
   },
   {
@@ -239,7 +239,7 @@
     "RequiredCirclePoint": 80000,
     "RequiredUserPoint": 8000,
     "ThingId": 130064,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 50
   },
   {
@@ -248,7 +248,7 @@
     "RequiredCirclePoint": 85000,
     "RequiredUserPoint": 8500,
     "ThingId": 130032,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 50
   },
   {
@@ -257,7 +257,7 @@
     "RequiredCirclePoint": 90000,
     "RequiredUserPoint": 9000,
     "ThingId": 130063,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 50
   },
   {
@@ -266,7 +266,7 @@
     "RequiredCirclePoint": 95000,
     "RequiredUserPoint": 9500,
     "ThingId": 0,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingQuantity": 50000
   },
   {
@@ -275,7 +275,7 @@
     "RequiredCirclePoint": 100000,
     "RequiredUserPoint": 10000,
     "ThingId": 143024,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 60
   },
   {
@@ -284,7 +284,7 @@
     "RequiredCirclePoint": 110000,
     "RequiredUserPoint": 11000,
     "ThingId": 10406,
-    "ThingType": 7,
+    "ThingType": "Stamp",
     "ThingQuantity": 1
   },
   {
@@ -293,7 +293,7 @@
     "RequiredCirclePoint": 120000,
     "RequiredUserPoint": 12000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 5
   },
   {
@@ -302,7 +302,7 @@
     "RequiredCirclePoint": 130000,
     "RequiredUserPoint": 13000,
     "ThingId": 130061,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 200
   },
   {
@@ -311,7 +311,7 @@
     "RequiredCirclePoint": 140000,
     "RequiredUserPoint": 14000,
     "ThingId": 130022,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 100
   },
   {
@@ -320,7 +320,7 @@
     "RequiredCirclePoint": 150000,
     "RequiredUserPoint": 15000,
     "ThingId": 130062,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 100
   },
   {
@@ -329,7 +329,7 @@
     "RequiredCirclePoint": 160000,
     "RequiredUserPoint": 16000,
     "ThingId": 130032,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 50
   },
   {
@@ -338,7 +338,7 @@
     "RequiredCirclePoint": 170000,
     "RequiredUserPoint": 17000,
     "ThingId": 130063,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 50
   },
   {
@@ -347,7 +347,7 @@
     "RequiredCirclePoint": 180000,
     "RequiredUserPoint": 18000,
     "ThingId": 143024,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 80
   },
   {
@@ -356,7 +356,7 @@
     "RequiredCirclePoint": 190000,
     "RequiredUserPoint": 19000,
     "ThingId": 0,
-    "ThingType": 13,
+    "ThingType": "Jewel",
     "ThingQuantity": 50
   },
   {
@@ -365,7 +365,7 @@
     "RequiredCirclePoint": 200000,
     "RequiredUserPoint": 20000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 5
   },
   {
@@ -374,7 +374,7 @@
     "RequiredCirclePoint": 210000,
     "RequiredUserPoint": 21000,
     "ThingId": 0,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingQuantity": 80000
   },
   {
@@ -383,7 +383,7 @@
     "RequiredCirclePoint": 220000,
     "RequiredUserPoint": 22000,
     "ThingId": 130061,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 200
   },
   {
@@ -392,7 +392,7 @@
     "RequiredCirclePoint": 230000,
     "RequiredUserPoint": 23000,
     "ThingId": 130051,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 5
   },
   {
@@ -401,7 +401,7 @@
     "RequiredCirclePoint": 240000,
     "RequiredUserPoint": 24000,
     "ThingId": 130062,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 100
   },
   {
@@ -410,7 +410,7 @@
     "RequiredCirclePoint": 250000,
     "RequiredUserPoint": 25000,
     "ThingId": 143024,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 100
   },
   {
@@ -419,7 +419,7 @@
     "RequiredCirclePoint": 260000,
     "RequiredUserPoint": 26000,
     "ThingId": 130032,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 50
   },
   {
@@ -428,7 +428,7 @@
     "RequiredCirclePoint": 270000,
     "RequiredUserPoint": 27000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 5
   },
   {
@@ -437,7 +437,7 @@
     "RequiredCirclePoint": 280000,
     "RequiredUserPoint": 28000,
     "ThingId": 0,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingQuantity": 110000
   },
   {
@@ -446,7 +446,7 @@
     "RequiredCirclePoint": 290000,
     "RequiredUserPoint": 29000,
     "ThingId": 130032,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 50
   },
   {
@@ -455,7 +455,7 @@
     "RequiredCirclePoint": 300000,
     "RequiredUserPoint": 30000,
     "ThingId": 130063,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 50
   },
   {
@@ -464,7 +464,7 @@
     "RequiredCirclePoint": 310000,
     "RequiredUserPoint": 31000,
     "ThingId": 130064,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 50
   },
   {
@@ -473,7 +473,7 @@
     "RequiredCirclePoint": 320000,
     "RequiredUserPoint": 32000,
     "ThingId": 130071,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 1
   },
   {
@@ -482,7 +482,7 @@
     "RequiredCirclePoint": 330000,
     "RequiredUserPoint": 33000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 5
   },
   {
@@ -491,7 +491,7 @@
     "RequiredCirclePoint": 340000,
     "RequiredUserPoint": 34000,
     "ThingId": 130061,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 200
   },
   {
@@ -500,7 +500,7 @@
     "RequiredCirclePoint": 350000,
     "RequiredUserPoint": 35000,
     "ThingId": 130062,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 100
   },
   {
@@ -509,7 +509,7 @@
     "RequiredCirclePoint": 360000,
     "RequiredUserPoint": 36000,
     "ThingId": 130063,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 50
   },
   {
@@ -518,7 +518,7 @@
     "RequiredCirclePoint": 370000,
     "RequiredUserPoint": 37000,
     "ThingId": 130022,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 100
   },
   {
@@ -527,7 +527,7 @@
     "RequiredCirclePoint": 380000,
     "RequiredUserPoint": 38000,
     "ThingId": 130032,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 50
   },
   {
@@ -536,7 +536,7 @@
     "RequiredCirclePoint": 390000,
     "RequiredUserPoint": 39000,
     "ThingId": 0,
-    "ThingType": 13,
+    "ThingType": "Jewel",
     "ThingQuantity": 50
   },
   {
@@ -545,7 +545,7 @@
     "RequiredCirclePoint": 400000,
     "RequiredUserPoint": 40000,
     "ThingId": 130051,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 5
   },
   {
@@ -554,7 +554,7 @@
     "RequiredCirclePoint": 410000,
     "RequiredUserPoint": 41000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 5
   },
   {
@@ -563,7 +563,7 @@
     "RequiredCirclePoint": 420000,
     "RequiredUserPoint": 42000,
     "ThingId": 130061,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 500
   },
   {
@@ -572,7 +572,7 @@
     "RequiredCirclePoint": 430000,
     "RequiredUserPoint": 43000,
     "ThingId": 130022,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 300
   },
   {
@@ -581,7 +581,7 @@
     "RequiredCirclePoint": 440000,
     "RequiredUserPoint": 44000,
     "ThingId": 130062,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 250
   },
   {
@@ -590,7 +590,7 @@
     "RequiredCirclePoint": 450000,
     "RequiredUserPoint": 45000,
     "ThingId": 130032,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 200
   },
   {
@@ -599,7 +599,7 @@
     "RequiredCirclePoint": 460000,
     "RequiredUserPoint": 46000,
     "ThingId": 130063,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 50
   },
   {
@@ -608,7 +608,7 @@
     "RequiredCirclePoint": 470000,
     "RequiredUserPoint": 47000,
     "ThingId": 0,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingQuantity": 130000
   },
   {
@@ -617,7 +617,7 @@
     "RequiredCirclePoint": 480000,
     "RequiredUserPoint": 48000,
     "ThingId": 0,
-    "ThingType": 13,
+    "ThingType": "Jewel",
     "ThingQuantity": 100
   },
   {
@@ -626,7 +626,7 @@
     "RequiredCirclePoint": 490000,
     "RequiredUserPoint": 49000,
     "ThingId": 130061,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 500
   },
   {
@@ -635,7 +635,7 @@
     "RequiredCirclePoint": 500000,
     "RequiredUserPoint": 50000,
     "ThingId": 130064,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 50
   },
   {
@@ -644,7 +644,7 @@
     "RequiredCirclePoint": 550000,
     "RequiredUserPoint": 55000,
     "ThingId": 130062,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 250
   },
   {
@@ -653,7 +653,7 @@
     "RequiredCirclePoint": 600000,
     "RequiredUserPoint": 60000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 5
   },
   {
@@ -662,7 +662,7 @@
     "RequiredCirclePoint": 650000,
     "RequiredUserPoint": 65000,
     "ThingId": 130022,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 300
   },
   {
@@ -671,7 +671,7 @@
     "RequiredCirclePoint": 700000,
     "RequiredUserPoint": 70000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 5
   },
   {
@@ -680,7 +680,7 @@
     "RequiredCirclePoint": 750000,
     "RequiredUserPoint": 75000,
     "ThingId": 130071,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 1
   },
   {
@@ -689,7 +689,7 @@
     "RequiredCirclePoint": 800000,
     "RequiredUserPoint": 80000,
     "ThingId": 0,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingQuantity": 150000
   },
   {
@@ -698,7 +698,7 @@
     "RequiredCirclePoint": 850000,
     "RequiredUserPoint": 85000,
     "ThingId": 0,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingQuantity": 150000
   },
   {
@@ -707,7 +707,7 @@
     "RequiredCirclePoint": 900000,
     "RequiredUserPoint": 90000,
     "ThingId": 0,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingQuantity": 150000
   },
   {
@@ -716,7 +716,7 @@
     "RequiredCirclePoint": 950000,
     "RequiredUserPoint": 95000,
     "ThingId": 0,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingQuantity": 150000
   },
   {
@@ -725,7 +725,7 @@
     "RequiredCirclePoint": 1000000,
     "RequiredUserPoint": 100000,
     "ThingId": 130064,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 50
   }
 ]

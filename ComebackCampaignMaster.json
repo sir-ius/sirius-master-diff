@@ -1,3 +1,9 @@
 [
-  {}
+  {
+    "Id": 1,
+    "MissionActiveDays": 30,
+    "JewelShopItemActiveDays": 30,
+    "LoginBonusActiveDays": 14,
+    "BuffCampaignActiveDays": 7
+  }
 ]

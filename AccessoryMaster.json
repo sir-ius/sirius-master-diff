@@ -3,7 +3,7 @@
     "Id": 310010,
     "Name": "光る竹",
     "Description": "",
-    "Rarity": 1,
+    "Rarity": "R",
     "AccessoryLevelPatternGroupId": 1,
     "FixedAccessoryEffects": [
       310010
@@ -19,7 +19,7 @@
     "Id": 310020,
     "Name": "りんご",
     "Description": "",
-    "Rarity": 1,
+    "Rarity": "R",
     "AccessoryLevelPatternGroupId": 1,
     "FixedAccessoryEffects": [
       310020
@@ -35,7 +35,7 @@
     "Id": 310030,
     "Name": "人魚姫の鏡",
     "Description": "",
-    "Rarity": 1,
+    "Rarity": "R",
     "AccessoryLevelPatternGroupId": 1,
     "FixedAccessoryEffects": [
       310030
@@ -51,7 +51,7 @@
     "Id": 310040,
     "Name": "灰かぶりの箒",
     "Description": "",
-    "Rarity": 1,
+    "Rarity": "R",
     "AccessoryLevelPatternGroupId": 1,
     "FixedAccessoryEffects": [
       310040
@@ -67,7 +67,7 @@
     "Id": 320010,
     "Name": "シャムシール",
     "Description": "",
-    "Rarity": 2,
+    "Rarity": "SR",
     "AccessoryLevelPatternGroupId": 2,
     "FixedAccessoryEffects": [
       320010
@@ -83,7 +83,7 @@
     "Id": 320020,
     "Name": "真っ赤なバラ",
     "Description": "",
-    "Rarity": 2,
+    "Rarity": "SR",
     "AccessoryLevelPatternGroupId": 2,
     "FixedAccessoryEffects": [
       320020
@@ -99,7 +99,7 @@
     "Id": 320030,
     "Name": "如意棒",
     "Description": "",
-    "Rarity": 2,
+    "Rarity": "SR",
     "AccessoryLevelPatternGroupId": 2,
     "FixedAccessoryEffects": [
       320030
@@ -115,7 +115,7 @@
     "Id": 320040,
     "Name": "魔法の杖",
     "Description": "",
-    "Rarity": 2,
+    "Rarity": "SR",
     "AccessoryLevelPatternGroupId": 2,
     "FixedAccessoryEffects": [
       320040
@@ -131,7 +131,7 @@
     "Id": 320050,
     "Name": "黄金の鉢",
     "Description": "",
-    "Rarity": 2,
+    "Rarity": "SR",
     "AccessoryLevelPatternGroupId": 2,
     "FixedAccessoryEffects": [
       320050
@@ -147,7 +147,7 @@
     "Id": 320060,
     "Name": "ファントムの楽譜",
     "Description": "",
-    "Rarity": 2,
+    "Rarity": "SR",
     "AccessoryLevelPatternGroupId": 2,
     "FixedAccessoryEffects": [
       320060
@@ -163,7 +163,7 @@
     "Id": 320070,
     "Name": "マッチ箱",
     "Description": "",
-    "Rarity": 2,
+    "Rarity": "SR",
     "AccessoryLevelPatternGroupId": 2,
     "FixedAccessoryEffects": [
       320070
@@ -179,7 +179,7 @@
     "Id": 320080,
     "Name": "チーズ",
     "Description": "",
-    "Rarity": 2,
+    "Rarity": "SR",
     "AccessoryLevelPatternGroupId": 2,
     "FixedAccessoryEffects": [
       320080
@@ -195,7 +195,7 @@
     "Id": 330030,
     "Name": "懐中時計",
     "Description": "",
-    "Rarity": 3,
+    "Rarity": "SSR",
     "AccessoryLevelPatternGroupId": 3,
     "FixedAccessoryEffects": [
       330030,
@@ -210,7 +210,7 @@
     "Id": 330050,
     "Name": "ガラスのブリエット",
     "Description": "",
-    "Rarity": 3,
+    "Rarity": "SSR",
     "AccessoryLevelPatternGroupId": 3,
     "FixedAccessoryEffects": [
       330050,
@@ -225,7 +225,7 @@
     "Id": 330080,
     "Name": "積怨の日記",
     "Description": "",
-    "Rarity": 3,
+    "Rarity": "SSR",
     "AccessoryLevelPatternGroupId": 3,
     "FixedAccessoryEffects": [
       330080,
@@ -240,7 +240,7 @@
     "Id": 330110,
     "Name": "小悪魔リボン",
     "Description": "",
-    "Rarity": 3,
+    "Rarity": "SSR",
     "AccessoryLevelPatternGroupId": 3,
     "FixedAccessoryEffects": [
       330110,
@@ -255,7 +255,7 @@
     "Id": 330120,
     "Name": "蝶のブローチ",
     "Description": "",
-    "Rarity": 3,
+    "Rarity": "SSR",
     "AccessoryLevelPatternGroupId": 3,
     "FixedAccessoryEffects": [
       330120,
@@ -270,7 +270,7 @@
     "Id": 330160,
     "Name": "ハーバリウム",
     "Description": "",
-    "Rarity": 3,
+    "Rarity": "SSR",
     "AccessoryLevelPatternGroupId": 3,
     "FixedAccessoryEffects": [
       330160,
@@ -285,7 +285,7 @@
     "Id": 331010,
     "Name": "竹の花",
     "Description": "",
-    "Rarity": 3,
+    "Rarity": "SSR",
     "AccessoryLevelPatternGroupId": 3,
     "FixedAccessoryEffects": [
       331010
@@ -301,7 +301,7 @@
     "Id": 331020,
     "Name": "天の羽衣",
     "Description": "",
-    "Rarity": 3,
+    "Rarity": "SSR",
     "AccessoryLevelPatternGroupId": 3,
     "FixedAccessoryEffects": [
       331020
@@ -317,7 +317,7 @@
     "Id": 331030,
     "Name": "ガラスの靴",
     "Description": "",
-    "Rarity": 3,
+    "Rarity": "SSR",
     "AccessoryLevelPatternGroupId": 3,
     "FixedAccessoryEffects": [
       331030
@@ -333,7 +333,7 @@
     "Id": 331040,
     "Name": "12時の鐘",
     "Description": "",
-    "Rarity": 3,
+    "Rarity": "SSR",
     "AccessoryLevelPatternGroupId": 3,
     "FixedAccessoryEffects": [
       331040
@@ -349,7 +349,7 @@
     "Id": 331050,
     "Name": "魔法のランプ",
     "Description": "",
-    "Rarity": 3,
+    "Rarity": "SSR",
     "AccessoryLevelPatternGroupId": 3,
     "FixedAccessoryEffects": [
       331050
@@ -365,7 +365,7 @@
     "Id": 331060,
     "Name": "ファントムの仮面",
     "Description": "",
-    "Rarity": 3,
+    "Rarity": "SSR",
     "AccessoryLevelPatternGroupId": 3,
     "FixedAccessoryEffects": [
       331060
@@ -381,7 +381,7 @@
     "Id": 331070,
     "Name": "七星剣",
     "Description": "",
-    "Rarity": 3,
+    "Rarity": "SSR",
     "AccessoryLevelPatternGroupId": 3,
     "FixedAccessoryEffects": [
       331070
@@ -397,7 +397,7 @@
     "Id": 331080,
     "Name": "ジュリエットの指輪",
     "Description": "",
-    "Rarity": 3,
+    "Rarity": "SSR",
     "AccessoryLevelPatternGroupId": 3,
     "FixedAccessoryEffects": [
       331080
@@ -413,7 +413,7 @@
     "Id": 331090,
     "Name": "呪われた茨のムチ",
     "Description": "",
-    "Rarity": 3,
+    "Rarity": "SSR",
     "AccessoryLevelPatternGroupId": 3,
     "FixedAccessoryEffects": [
       331090
@@ -429,7 +429,7 @@
     "Id": 331100,
     "Name": "音楽隊のギター",
     "Description": "",
-    "Rarity": 3,
+    "Rarity": "SSR",
     "AccessoryLevelPatternGroupId": 3,
     "FixedAccessoryEffects": [
       331100
@@ -445,7 +445,7 @@
     "Id": 331110,
     "Name": "魔法のブラシ",
     "Description": "",
-    "Rarity": 3,
+    "Rarity": "SSR",
     "AccessoryLevelPatternGroupId": 3,
     "FixedAccessoryEffects": [
       331110
@@ -461,7 +461,7 @@
     "Id": 332010,
     "Name": "竹の花★",
     "Description": "",
-    "Rarity": 3,
+    "Rarity": "SSR",
     "AccessoryLevelPatternGroupId": 3,
     "FixedAccessoryEffects": [
       331010
@@ -477,7 +477,7 @@
     "Id": 332020,
     "Name": "天の羽衣★",
     "Description": "",
-    "Rarity": 3,
+    "Rarity": "SSR",
     "AccessoryLevelPatternGroupId": 3,
     "FixedAccessoryEffects": [
       331020
@@ -493,7 +493,7 @@
     "Id": 332030,
     "Name": "ガラスの靴★",
     "Description": "",
-    "Rarity": 3,
+    "Rarity": "SSR",
     "AccessoryLevelPatternGroupId": 3,
     "FixedAccessoryEffects": [
       331030
@@ -509,7 +509,7 @@
     "Id": 332040,
     "Name": "12時の鐘★",
     "Description": "",
-    "Rarity": 3,
+    "Rarity": "SSR",
     "AccessoryLevelPatternGroupId": 3,
     "FixedAccessoryEffects": [
       331040
@@ -525,7 +525,7 @@
     "Id": 332050,
     "Name": "魔法のランプ★",
     "Description": "",
-    "Rarity": 3,
+    "Rarity": "SSR",
     "AccessoryLevelPatternGroupId": 3,
     "FixedAccessoryEffects": [
       331050
@@ -541,7 +541,7 @@
     "Id": 332060,
     "Name": "ファントムの仮面★",
     "Description": "",
-    "Rarity": 3,
+    "Rarity": "SSR",
     "AccessoryLevelPatternGroupId": 3,
     "FixedAccessoryEffects": [
       331060
@@ -557,7 +557,7 @@
     "Id": 332070,
     "Name": "七星剣★",
     "Description": "",
-    "Rarity": 3,
+    "Rarity": "SSR",
     "AccessoryLevelPatternGroupId": 3,
     "FixedAccessoryEffects": [
       331070
@@ -573,7 +573,7 @@
     "Id": 332080,
     "Name": "ジュリエットの指輪★",
     "Description": "",
-    "Rarity": 3,
+    "Rarity": "SSR",
     "AccessoryLevelPatternGroupId": 3,
     "FixedAccessoryEffects": [
       331080
@@ -589,7 +589,7 @@
     "Id": 332090,
     "Name": "呪われた茨のムチ★",
     "Description": "",
-    "Rarity": 3,
+    "Rarity": "SSR",
     "AccessoryLevelPatternGroupId": 3,
     "FixedAccessoryEffects": [
       331090
@@ -605,7 +605,7 @@
     "Id": 332100,
     "Name": "音楽隊のギター★",
     "Description": "",
-    "Rarity": 3,
+    "Rarity": "SSR",
     "AccessoryLevelPatternGroupId": 3,
     "FixedAccessoryEffects": [
       331100
@@ -621,7 +621,7 @@
     "Id": 332110,
     "Name": "魔法のブラシ★",
     "Description": "",
-    "Rarity": 3,
+    "Rarity": "SSR",
     "AccessoryLevelPatternGroupId": 3,
     "FixedAccessoryEffects": [
       331110
@@ -637,7 +637,7 @@
     "Id": 430010,
     "Name": "マフラータオル",
     "Description": "",
-    "Rarity": 3,
+    "Rarity": "SSR",
     "AccessoryLevelPatternGroupId": 3,
     "FixedAccessoryEffects": [
       430010,

@@ -8,7 +8,15 @@
     "MusicTimeSecond": 93,
     "SampleStartSeconds": 0,
     "SampleEndSeconds": 0,
-    "MusicVideoType": 0
+    "MusicVideoType": "None",
+    "Characters": [
+      101,
+      102,
+      103,
+      104,
+      105,
+      106
+    ]
   },
   {
     "Id": 201,
@@ -19,7 +27,11 @@
     "MusicTimeSecond": 95,
     "SampleStartSeconds": 0,
     "SampleEndSeconds": 0,
-    "MusicVideoType": 0
+    "MusicVideoType": "None",
+    "Characters": [
+      101,
+      102
+    ]
   },
   {
     "Id": 301,
@@ -30,7 +42,11 @@
     "MusicTimeSecond": 119,
     "SampleStartSeconds": 0,
     "SampleEndSeconds": 0,
-    "MusicVideoType": 1
+    "MusicVideoType": "RealTimeRendering",
+    "Characters": [
+      101,
+      102
+    ]
   },
   {
     "Id": 302,
@@ -41,7 +57,11 @@
     "MusicTimeSecond": 119,
     "SampleStartSeconds": 0,
     "SampleEndSeconds": 0,
-    "MusicVideoType": 0
+    "MusicVideoType": "None",
+    "Characters": [
+      301,
+      302
+    ]
   },
   {
     "Id": 401,
@@ -52,7 +72,10 @@
     "MusicTimeSecond": 133,
     "SampleStartSeconds": 0,
     "SampleEndSeconds": 0,
-    "MusicVideoType": 0
+    "MusicVideoType": "None",
+    "Characters": [
+      104
+    ]
   },
   {
     "Id": 501,
@@ -63,7 +86,10 @@
     "MusicTimeSecond": 137,
     "SampleStartSeconds": 0,
     "SampleEndSeconds": 0,
-    "MusicVideoType": 1
+    "MusicVideoType": "RealTimeRendering",
+    "Characters": [
+      302
+    ]
   },
   {
     "Id": 601,
@@ -74,7 +100,10 @@
     "MusicTimeSecond": 100,
     "SampleStartSeconds": 0,
     "SampleEndSeconds": 0,
-    "MusicVideoType": 0
+    "MusicVideoType": "None",
+    "Characters": [
+      101
+    ]
   },
   {
     "Id": 701,
@@ -85,7 +114,10 @@
     "MusicTimeSecond": 129,
     "SampleStartSeconds": 0,
     "SampleEndSeconds": 0,
-    "MusicVideoType": 1
+    "MusicVideoType": "RealTimeRendering",
+    "Characters": [
+      104
+    ]
   },
   {
     "Id": 801,
@@ -96,7 +128,11 @@
     "MusicTimeSecond": 91,
     "SampleStartSeconds": 0,
     "SampleEndSeconds": 0,
-    "MusicVideoType": 0
+    "MusicVideoType": "None",
+    "Characters": [
+      101,
+      104
+    ]
   },
   {
     "Id": 901,
@@ -107,7 +143,12 @@
     "MusicTimeSecond": 94,
     "SampleStartSeconds": 0,
     "SampleEndSeconds": 0,
-    "MusicVideoType": 1
+    "MusicVideoType": "RealTimeRendering",
+    "Characters": [
+      401,
+      402,
+      405
+    ]
   },
   {
     "Id": 1001,
@@ -118,7 +159,11 @@
     "MusicTimeSecond": 128,
     "SampleStartSeconds": 0,
     "SampleEndSeconds": 0,
-    "MusicVideoType": 0
+    "MusicVideoType": "None",
+    "Characters": [
+      105,
+      106
+    ]
   },
   {
     "Id": 1101,
@@ -129,7 +174,10 @@
     "MusicTimeSecond": 104,
     "SampleStartSeconds": 0,
     "SampleEndSeconds": 0,
-    "MusicVideoType": 0
+    "MusicVideoType": "None",
+    "Characters": [
+      104
+    ]
   },
   {
     "Id": 1201,
@@ -140,7 +188,11 @@
     "MusicTimeSecond": 103,
     "SampleStartSeconds": 0,
     "SampleEndSeconds": 0,
-    "MusicVideoType": 1
+    "MusicVideoType": "RealTimeRendering",
+    "Characters": [
+      101,
+      104
+    ]
   },
   {
     "Id": 1202,
@@ -151,7 +203,11 @@
     "MusicTimeSecond": 103,
     "SampleStartSeconds": 0,
     "SampleEndSeconds": 0,
-    "MusicVideoType": 0
+    "MusicVideoType": "None",
+    "Characters": [
+      201,
+      205
+    ]
   },
   {
     "Id": 1301,
@@ -162,7 +218,10 @@
     "MusicTimeSecond": 97,
     "SampleStartSeconds": 0,
     "SampleEndSeconds": 0,
-    "MusicVideoType": 0
+    "MusicVideoType": "None",
+    "Characters": [
+      104
+    ]
   },
   {
     "Id": 1501,
@@ -173,7 +232,10 @@
     "MusicTimeSecond": 101,
     "SampleStartSeconds": 0,
     "SampleEndSeconds": 0,
-    "MusicVideoType": 1
+    "MusicVideoType": "RealTimeRendering",
+    "Characters": [
+      103
+    ]
   },
   {
     "Id": 1601,
@@ -184,7 +246,11 @@
     "MusicTimeSecond": 106,
     "SampleStartSeconds": 0,
     "SampleEndSeconds": 0,
-    "MusicVideoType": 0
+    "MusicVideoType": "None",
+    "Characters": [
+      302,
+      303
+    ]
   },
   {
     "Id": 1701,
@@ -195,7 +261,15 @@
     "MusicTimeSecond": 118,
     "SampleStartSeconds": 0,
     "SampleEndSeconds": 0,
-    "MusicVideoType": 1
+    "MusicVideoType": "RealTimeRendering",
+    "Characters": [
+      101,
+      102,
+      103,
+      104,
+      105,
+      106
+    ]
   },
   {
     "Id": 1702,
@@ -206,7 +280,15 @@
     "MusicTimeSecond": 254,
     "SampleStartSeconds": 0,
     "SampleEndSeconds": 0,
-    "MusicVideoType": 0
+    "MusicVideoType": "None",
+    "Characters": [
+      101,
+      102,
+      103,
+      104,
+      105,
+      106
+    ]
   },
   {
     "Id": 1901,
@@ -217,7 +299,14 @@
     "MusicTimeSecond": 102,
     "SampleStartSeconds": 0,
     "SampleEndSeconds": 0,
-    "MusicVideoType": 1
+    "MusicVideoType": "RealTimeRendering",
+    "Characters": [
+      201,
+      202,
+      203,
+      204,
+      205
+    ]
   },
   {
     "Id": 1902,
@@ -228,7 +317,14 @@
     "MusicTimeSecond": 261,
     "SampleStartSeconds": 0,
     "SampleEndSeconds": 0,
-    "MusicVideoType": 0
+    "MusicVideoType": "None",
+    "Characters": [
+      201,
+      202,
+      203,
+      204,
+      205
+    ]
   },
   {
     "Id": 2101,
@@ -239,7 +335,14 @@
     "MusicTimeSecond": 96,
     "SampleStartSeconds": 0,
     "SampleEndSeconds": 0,
-    "MusicVideoType": 1
+    "MusicVideoType": "RealTimeRendering",
+    "Characters": [
+      301,
+      302,
+      303,
+      304,
+      305
+    ]
   },
   {
     "Id": 2102,
@@ -250,7 +353,14 @@
     "MusicTimeSecond": 219,
     "SampleStartSeconds": 0,
     "SampleEndSeconds": 0,
-    "MusicVideoType": 0
+    "MusicVideoType": "None",
+    "Characters": [
+      301,
+      302,
+      303,
+      304,
+      305
+    ]
   },
   {
     "Id": 2301,
@@ -261,7 +371,14 @@
     "MusicTimeSecond": 93,
     "SampleStartSeconds": 0,
     "SampleEndSeconds": 0,
-    "MusicVideoType": 1
+    "MusicVideoType": "RealTimeRendering",
+    "Characters": [
+      401,
+      402,
+      403,
+      404,
+      405
+    ]
   },
   {
     "Id": 2302,
@@ -272,7 +389,14 @@
     "MusicTimeSecond": 211,
     "SampleStartSeconds": 0,
     "SampleEndSeconds": 0,
-    "MusicVideoType": 0
+    "MusicVideoType": "None",
+    "Characters": [
+      401,
+      402,
+      403,
+      404,
+      405
+    ]
   },
   {
     "Id": 2501,
@@ -283,7 +407,11 @@
     "MusicTimeSecond": 111,
     "SampleStartSeconds": 0,
     "SampleEndSeconds": 0,
-    "MusicVideoType": 0
+    "MusicVideoType": "None",
+    "Characters": [
+      101,
+      102
+    ]
   },
   {
     "Id": 2601,
@@ -294,7 +422,11 @@
     "MusicTimeSecond": 113,
     "SampleStartSeconds": 0,
     "SampleEndSeconds": 0,
-    "MusicVideoType": 0
+    "MusicVideoType": "None",
+    "Characters": [
+      103,
+      302
+    ]
   },
   {
     "Id": 2701,
@@ -305,7 +437,11 @@
     "MusicTimeSecond": 112,
     "SampleStartSeconds": 0,
     "SampleEndSeconds": 0,
-    "MusicVideoType": 0
+    "MusicVideoType": "None",
+    "Characters": [
+      301,
+      302
+    ]
   },
   {
     "Id": 2801,
@@ -316,7 +452,11 @@
     "MusicTimeSecond": 153,
     "SampleStartSeconds": 0,
     "SampleEndSeconds": 0,
-    "MusicVideoType": 0
+    "MusicVideoType": "None",
+    "Characters": [
+      401,
+      402
+    ]
   },
   {
     "Id": 2901,
@@ -327,7 +467,10 @@
     "MusicTimeSecond": 101,
     "SampleStartSeconds": 0,
     "SampleEndSeconds": 0,
-    "MusicVideoType": 0
+    "MusicVideoType": "None",
+    "Characters": [
+      106
+    ]
   },
   {
     "Id": 3001,
@@ -338,7 +481,11 @@
     "MusicTimeSecond": 137,
     "SampleStartSeconds": 0,
     "SampleEndSeconds": 0,
-    "MusicVideoType": 0
+    "MusicVideoType": "None",
+    "Characters": [
+      201,
+      203
+    ]
   },
   {
     "Id": 3101,
@@ -349,7 +496,10 @@
     "MusicTimeSecond": 128,
     "SampleStartSeconds": 0,
     "SampleEndSeconds": 0,
-    "MusicVideoType": 0
+    "MusicVideoType": "None",
+    "Characters": [
+      301
+    ]
   },
   {
     "Id": 3301,
@@ -360,7 +510,15 @@
     "MusicTimeSecond": 173,
     "SampleStartSeconds": 0,
     "SampleEndSeconds": 0,
-    "MusicVideoType": 0
+    "MusicVideoType": "None",
+    "Characters": [
+      101,
+      102,
+      103,
+      104,
+      105,
+      106
+    ]
   },
   {
     "Id": 3401,
@@ -371,7 +529,10 @@
     "MusicTimeSecond": 124,
     "SampleStartSeconds": 0,
     "SampleEndSeconds": 0,
-    "MusicVideoType": 0
+    "MusicVideoType": "None",
+    "Characters": [
+      203
+    ]
   },
   {
     "Id": 3501,
@@ -382,7 +543,11 @@
     "MusicTimeSecond": 122,
     "SampleStartSeconds": 0,
     "SampleEndSeconds": 0,
-    "MusicVideoType": 0
+    "MusicVideoType": "None",
+    "Characters": [
+      302,
+      304
+    ]
   },
   {
     "Id": 3701,
@@ -393,7 +558,14 @@
     "MusicTimeSecond": 191,
     "SampleStartSeconds": 0,
     "SampleEndSeconds": 0,
-    "MusicVideoType": 0
+    "MusicVideoType": "None",
+    "Characters": [
+      101,
+      102,
+      103,
+      203,
+      204
+    ]
   },
   {
     "Id": 3801,
@@ -404,7 +576,10 @@
     "MusicTimeSecond": 132,
     "SampleStartSeconds": 0,
     "SampleEndSeconds": 0,
-    "MusicVideoType": 0
+    "MusicVideoType": "None",
+    "Characters": [
+      103
+    ]
   },
   {
     "Id": 3901,
@@ -415,7 +590,10 @@
     "MusicTimeSecond": 169,
     "SampleStartSeconds": 0,
     "SampleEndSeconds": 0,
-    "MusicVideoType": 0
+    "MusicVideoType": "None",
+    "Characters": [
+      105
+    ]
   },
   {
     "Id": 4001,
@@ -426,7 +604,10 @@
     "MusicTimeSecond": 135,
     "SampleStartSeconds": 0,
     "SampleEndSeconds": 0,
-    "MusicVideoType": 0
+    "MusicVideoType": "None",
+    "Characters": [
+      405
+    ]
   },
   {
     "Id": 4101,
@@ -437,7 +618,10 @@
     "MusicTimeSecond": 114,
     "SampleStartSeconds": 0,
     "SampleEndSeconds": 0,
-    "MusicVideoType": 0
+    "MusicVideoType": "None",
+    "Characters": [
+      205
+    ]
   },
   {
     "Id": 4201,
@@ -448,7 +632,10 @@
     "MusicTimeSecond": 145,
     "SampleStartSeconds": 0,
     "SampleEndSeconds": 0,
-    "MusicVideoType": 0
+    "MusicVideoType": "None",
+    "Characters": [
+      302
+    ]
   },
   {
     "Id": 4301,
@@ -459,7 +646,10 @@
     "MusicTimeSecond": 152,
     "SampleStartSeconds": 0,
     "SampleEndSeconds": 0,
-    "MusicVideoType": 0
+    "MusicVideoType": "None",
+    "Characters": [
+      404
+    ]
   },
   {
     "Id": 4501,
@@ -470,7 +660,10 @@
     "MusicTimeSecond": 113,
     "SampleStartSeconds": 0,
     "SampleEndSeconds": 0,
-    "MusicVideoType": 1
+    "MusicVideoType": "RealTimeRendering",
+    "Characters": [
+      202
+    ]
   },
   {
     "Id": 4601,
@@ -481,7 +674,10 @@
     "MusicTimeSecond": 102,
     "SampleStartSeconds": 0,
     "SampleEndSeconds": 0,
-    "MusicVideoType": 0
+    "MusicVideoType": "None",
+    "Characters": [
+      103
+    ]
   },
   {
     "Id": 4701,
@@ -492,7 +688,11 @@
     "MusicTimeSecond": 119,
     "SampleStartSeconds": 0,
     "SampleEndSeconds": 0,
-    "MusicVideoType": 0
+    "MusicVideoType": "None",
+    "Characters": [
+      403,
+      404
+    ]
   },
   {
     "Id": 4901,
@@ -503,7 +703,10 @@
     "MusicTimeSecond": 116,
     "SampleStartSeconds": 0,
     "SampleEndSeconds": 0,
-    "MusicVideoType": 0
+    "MusicVideoType": "None",
+    "Characters": [
+      104
+    ]
   },
   {
     "Id": 5001,
@@ -514,7 +717,10 @@
     "MusicTimeSecond": 105,
     "SampleStartSeconds": 0,
     "SampleEndSeconds": 0,
-    "MusicVideoType": 0
+    "MusicVideoType": "None",
+    "Characters": [
+      305
+    ]
   },
   {
     "Id": 5101,
@@ -525,7 +731,11 @@
     "MusicTimeSecond": 114,
     "SampleStartSeconds": 0,
     "SampleEndSeconds": 0,
-    "MusicVideoType": 1
+    "MusicVideoType": "RealTimeRendering",
+    "Characters": [
+      303,
+      304
+    ]
   },
   {
     "Id": 5401,
@@ -536,7 +746,10 @@
     "MusicTimeSecond": 142,
     "SampleStartSeconds": 0,
     "SampleEndSeconds": 0,
-    "MusicVideoType": 0
+    "MusicVideoType": "None",
+    "Characters": [
+      402
+    ]
   },
   {
     "Id": 5501,
@@ -547,7 +760,10 @@
     "MusicTimeSecond": 166,
     "SampleStartSeconds": 0,
     "SampleEndSeconds": 0,
-    "MusicVideoType": 0
+    "MusicVideoType": "None",
+    "Characters": [
+      203
+    ]
   },
   {
     "Id": 5601,
@@ -558,7 +774,11 @@
     "MusicTimeSecond": 124,
     "SampleStartSeconds": 0,
     "SampleEndSeconds": 0,
-    "MusicVideoType": 0
+    "MusicVideoType": "None",
+    "Characters": [
+      203,
+      204
+    ]
   },
   {
     "Id": 5701,
@@ -569,7 +789,10 @@
     "MusicTimeSecond": 130,
     "SampleStartSeconds": 0,
     "SampleEndSeconds": 0,
-    "MusicVideoType": 0
+    "MusicVideoType": "None",
+    "Characters": [
+      202
+    ]
   },
   {
     "Id": 5801,
@@ -580,7 +803,10 @@
     "MusicTimeSecond": 109,
     "SampleStartSeconds": 0,
     "SampleEndSeconds": 0,
-    "MusicVideoType": 0
+    "MusicVideoType": "None",
+    "Characters": [
+      105
+    ]
   },
   {
     "Id": 5901,
@@ -591,7 +817,11 @@
     "MusicTimeSecond": 122,
     "SampleStartSeconds": 0,
     "SampleEndSeconds": 0,
-    "MusicVideoType": 1
+    "MusicVideoType": "RealTimeRendering",
+    "Characters": [
+      201,
+      301
+    ]
   },
   {
     "Id": 6001,
@@ -602,7 +832,11 @@
     "MusicTimeSecond": 129,
     "SampleStartSeconds": 0,
     "SampleEndSeconds": 0,
-    "MusicVideoType": 0
+    "MusicVideoType": "None",
+    "Characters": [
+      305,
+      403
+    ]
   },
   {
     "Id": 6101,
@@ -613,7 +847,10 @@
     "MusicTimeSecond": 110,
     "SampleStartSeconds": 0,
     "SampleEndSeconds": 0,
-    "MusicVideoType": 0
+    "MusicVideoType": "None",
+    "Characters": [
+      301
+    ]
   },
   {
     "Id": 6201,
@@ -624,7 +861,11 @@
     "MusicTimeSecond": 124,
     "SampleStartSeconds": 0,
     "SampleEndSeconds": 0,
-    "MusicVideoType": 0
+    "MusicVideoType": "None",
+    "Characters": [
+      105,
+      305
+    ]
   },
   {
     "Id": 6301,
@@ -635,7 +876,10 @@
     "MusicTimeSecond": 110,
     "SampleStartSeconds": 0,
     "SampleEndSeconds": 0,
-    "MusicVideoType": 0
+    "MusicVideoType": "None",
+    "Characters": [
+      101
+    ]
   },
   {
     "Id": 6401,
@@ -646,7 +890,14 @@
     "MusicTimeSecond": 102,
     "SampleStartSeconds": 0,
     "SampleEndSeconds": 0,
-    "MusicVideoType": 1
+    "MusicVideoType": "RealTimeRendering",
+    "Characters": [
+      401,
+      402,
+      403,
+      404,
+      405
+    ]
   },
   {
     "Id": 6501,
@@ -657,7 +908,11 @@
     "MusicTimeSecond": 117,
     "SampleStartSeconds": 0,
     "SampleEndSeconds": 0,
-    "MusicVideoType": 0
+    "MusicVideoType": "None",
+    "Characters": [
+      104,
+      405
+    ]
   },
   {
     "Id": 6601,
@@ -668,7 +923,10 @@
     "MusicTimeSecond": 108,
     "SampleStartSeconds": 0,
     "SampleEndSeconds": 0,
-    "MusicVideoType": 0
+    "MusicVideoType": "None",
+    "Characters": [
+      205
+    ]
   },
   {
     "Id": 6701,
@@ -679,7 +937,10 @@
     "MusicTimeSecond": 102,
     "SampleStartSeconds": 0,
     "SampleEndSeconds": 0,
-    "MusicVideoType": 0
+    "MusicVideoType": "None",
+    "Characters": [
+      302
+    ]
   },
   {
     "Id": 6801,
@@ -690,7 +951,30 @@
     "MusicTimeSecond": 103,
     "SampleStartSeconds": 0,
     "SampleEndSeconds": 0,
-    "MusicVideoType": 0
+    "MusicVideoType": "None",
+    "Characters": [
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      201,
+      202,
+      203,
+      204,
+      205,
+      301,
+      302,
+      303,
+      304,
+      305,
+      401,
+      402,
+      403,
+      404,
+      405
+    ]
   },
   {
     "Id": 6901,
@@ -701,7 +985,12 @@
     "MusicTimeSecond": 116,
     "SampleStartSeconds": 0,
     "SampleEndSeconds": 0,
-    "MusicVideoType": 0
+    "MusicVideoType": "None",
+    "Characters": [
+      104,
+      205,
+      405
+    ]
   },
   {
     "Id": 7201,
@@ -712,7 +1001,10 @@
     "MusicTimeSecond": 154,
     "SampleStartSeconds": 0,
     "SampleEndSeconds": 0,
-    "MusicVideoType": 0
+    "MusicVideoType": "None",
+    "Characters": [
+      106
+    ]
   },
   {
     "Id": 7801,
@@ -723,7 +1015,10 @@
     "MusicTimeSecond": 126,
     "SampleStartSeconds": 0,
     "SampleEndSeconds": 0,
-    "MusicVideoType": 0
+    "MusicVideoType": "None",
+    "Characters": [
+      204
+    ]
   },
   {
     "Id": 8401,
@@ -734,7 +1029,10 @@
     "MusicTimeSecond": 135,
     "SampleStartSeconds": 0,
     "SampleEndSeconds": 0,
-    "MusicVideoType": 0
+    "MusicVideoType": "None",
+    "Characters": [
+      201
+    ]
   },
   {
     "Id": 8501,
@@ -745,7 +1043,11 @@
     "MusicTimeSecond": 123,
     "SampleStartSeconds": 0,
     "SampleEndSeconds": 0,
-    "MusicVideoType": 0
+    "MusicVideoType": "None",
+    "Characters": [
+      303,
+      305
+    ]
   },
   {
     "Id": 8701,
@@ -756,7 +1058,10 @@
     "MusicTimeSecond": 140,
     "SampleStartSeconds": 0,
     "SampleEndSeconds": 0,
-    "MusicVideoType": 0
+    "MusicVideoType": "None",
+    "Characters": [
+      403
+    ]
   },
   {
     "Id": 8801,
@@ -767,7 +1072,14 @@
     "MusicTimeSecond": 157,
     "SampleStartSeconds": 0,
     "SampleEndSeconds": 0,
-    "MusicVideoType": 0
+    "MusicVideoType": "None",
+    "Characters": [
+      401,
+      402,
+      403,
+      404,
+      405
+    ]
   },
   {
     "Id": 999901,
@@ -778,6 +1090,10 @@
     "MusicTimeSecond": 117,
     "SampleStartSeconds": 0,
     "SampleEndSeconds": 0,
-    "MusicVideoType": 0
+    "MusicVideoType": "None",
+    "Characters": [
+      101,
+      102
+    ]
   }
 ]

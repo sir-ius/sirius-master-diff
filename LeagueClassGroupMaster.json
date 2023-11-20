@@ -12,7 +12,7 @@
         "DownRewardPackageMasterId": null,
         "FirstAchieveRewardPackageMasterId": null,
         "NameplateMasterId": null,
-        "ClassType": 1,
+        "ClassType": "Rookie",
         "LeagueClassGroupMasterId": 1
       },
       {
@@ -25,7 +25,7 @@
         "DownRewardPackageMasterId": null,
         "FirstAchieveRewardPackageMasterId": 20,
         "NameplateMasterId": null,
-        "ClassType": 2,
+        "ClassType": "Hope",
         "LeagueClassGroupMasterId": 1
       },
       {
@@ -38,7 +38,7 @@
         "DownRewardPackageMasterId": 33,
         "FirstAchieveRewardPackageMasterId": 30,
         "NameplateMasterId": null,
-        "ClassType": 3,
+        "ClassType": "Cast",
         "LeagueClassGroupMasterId": 1
       },
       {
@@ -51,7 +51,7 @@
         "DownRewardPackageMasterId": 43,
         "FirstAchieveRewardPackageMasterId": 40,
         "NameplateMasterId": null,
-        "ClassType": 4,
+        "ClassType": "Elite",
         "LeagueClassGroupMasterId": 1
       },
       {
@@ -64,7 +64,7 @@
         "DownRewardPackageMasterId": 53,
         "FirstAchieveRewardPackageMasterId": 50,
         "NameplateMasterId": null,
-        "ClassType": 5,
+        "ClassType": "Veteran",
         "LeagueClassGroupMasterId": 1
       },
       {
@@ -77,7 +77,7 @@
         "DownRewardPackageMasterId": 63,
         "FirstAchieveRewardPackageMasterId": 60,
         "NameplateMasterId": null,
-        "ClassType": 6,
+        "ClassType": "Star",
         "LeagueClassGroupMasterId": 1
       },
       {
@@ -90,7 +90,7 @@
         "DownRewardPackageMasterId": 73,
         "FirstAchieveRewardPackageMasterId": null,
         "NameplateMasterId": null,
-        "ClassType": 7,
+        "ClassType": "DaiStar",
         "LeagueClassGroupMasterId": 1
       }
     ]

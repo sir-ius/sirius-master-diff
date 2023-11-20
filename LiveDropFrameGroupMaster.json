@@ -6,90 +6,90 @@
         "Id": 101,
         "LiveDropFrameGroupMasterId": 1,
         "Order": 1,
-        "ChangeType": 0,
-        "FrameLotCondition": 0,
+        "ChangeType": "None",
+        "FrameLotCondition": "None",
         "UnaffectedIncreaseEffect": false,
         "Rewards": [
           {
             "ThingId": 130021,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130022,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130023,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130024,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130021,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 2,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130022,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 2,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130023,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 2,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130024,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 2,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130021,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 3,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130022,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 3,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130023,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 3,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130024,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 3,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
@@ -101,90 +101,90 @@
         "Id": 102,
         "LiveDropFrameGroupMasterId": 1,
         "Order": 2,
-        "ChangeType": 0,
-        "FrameLotCondition": 0,
+        "ChangeType": "None",
+        "FrameLotCondition": "None",
         "UnaffectedIncreaseEffect": false,
         "Rewards": [
           {
             "ThingId": 130021,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130022,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130023,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130024,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130021,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 2,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130022,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 2,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130023,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 2,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130024,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 2,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130021,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 3,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130022,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 3,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130023,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 3,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130024,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 3,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
@@ -196,27 +196,27 @@
         "Id": 103,
         "LiveDropFrameGroupMasterId": 1,
         "Order": 3,
-        "ChangeType": 0,
-        "FrameLotCondition": 1,
+        "ChangeType": "None",
+        "FrameLotCondition": "ConsumeStamina",
         "UnaffectedIncreaseEffect": false,
         "Rewards": [
           {
             "ThingId": 120001,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 120001,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 2,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 120001,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 3,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
@@ -228,34 +228,34 @@
         "Id": 104,
         "LiveDropFrameGroupMasterId": 1,
         "Order": 4,
-        "ChangeType": 0,
-        "FrameLotCondition": 2,
+        "ChangeType": "None",
+        "FrameLotCondition": "ScoreWithConsumeStamina",
         "UnaffectedIncreaseEffect": false,
         "Rewards": [
           {
             "ThingId": 130041,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130041,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 2,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 120001,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 120001,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 2,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
@@ -267,76 +267,76 @@
         "Id": 105,
         "LiveDropFrameGroupMasterId": 1,
         "Order": 5,
-        "ChangeType": 0,
-        "FrameLotCondition": 2,
+        "ChangeType": "None",
+        "FrameLotCondition": "ScoreWithConsumeStamina",
         "UnaffectedIncreaseEffect": false,
         "Rewards": [
           {
             "ThingId": 130042,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130042,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 2,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130031,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130032,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130033,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130034,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130031,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 2,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130032,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 2,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130033,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 2,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130034,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 2,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
@@ -348,20 +348,20 @@
         "Id": 106,
         "LiveDropFrameGroupMasterId": 1,
         "Order": 6,
-        "ChangeType": 0,
-        "FrameLotCondition": 2,
+        "ChangeType": "None",
+        "FrameLotCondition": "ScoreWithConsumeStamina",
         "UnaffectedIncreaseEffect": false,
         "Rewards": [
           {
             "ThingId": 130081,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130082,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
@@ -373,90 +373,90 @@
         "Id": 107,
         "LiveDropFrameGroupMasterId": 1,
         "Order": 7,
-        "ChangeType": 1,
-        "FrameLotCondition": 2,
+        "ChangeType": "AccessoryFormula",
+        "FrameLotCondition": "ScoreWithConsumeStamina",
         "UnaffectedIncreaseEffect": true,
         "Rewards": [
           {
             "ThingId": 310010,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 310020,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 310030,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 310040,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 320010,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 320020,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 320030,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 320040,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 331010,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 331020,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 331030,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 331040,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
@@ -468,34 +468,34 @@
         "Id": 108,
         "LiveDropFrameGroupMasterId": 1,
         "Order": 8,
-        "ChangeType": 0,
-        "FrameLotCondition": 2,
+        "ChangeType": "None",
+        "FrameLotCondition": "ScoreWithConsumeStamina",
         "UnaffectedIncreaseEffect": false,
         "Rewards": [
           {
             "ThingId": 130061,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130061,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 2,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130062,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130062,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 2,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
@@ -512,13 +512,13 @@
         "Id": 201,
         "LiveDropFrameGroupMasterId": 2,
         "Order": 1,
-        "ChangeType": 0,
-        "FrameLotCondition": 0,
+        "ChangeType": "None",
+        "FrameLotCondition": "None",
         "UnaffectedIncreaseEffect": true,
         "Rewards": [
           {
             "ThingId": 0,
-            "ThingType": 13,
+            "ThingType": "Jewel",
             "ThingQuantity": 30,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
@@ -530,13 +530,13 @@
         "Id": 202,
         "LiveDropFrameGroupMasterId": 2,
         "Order": 2,
-        "ChangeType": 0,
-        "FrameLotCondition": 0,
+        "ChangeType": "None",
+        "FrameLotCondition": "None",
         "UnaffectedIncreaseEffect": true,
         "Rewards": [
           {
             "ThingId": 120002,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 50,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
@@ -548,34 +548,34 @@
         "Id": 203,
         "LiveDropFrameGroupMasterId": 2,
         "Order": 3,
-        "ChangeType": 0,
-        "FrameLotCondition": 0,
+        "ChangeType": "None",
+        "FrameLotCondition": "None",
         "UnaffectedIncreaseEffect": true,
         "Rewards": [
           {
             "ThingId": 130021,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 300,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130022,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 300,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130023,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 300,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130024,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 300,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
@@ -587,34 +587,34 @@
         "Id": 204,
         "LiveDropFrameGroupMasterId": 2,
         "Order": 4,
-        "ChangeType": 0,
-        "FrameLotCondition": 0,
+        "ChangeType": "None",
+        "FrameLotCondition": "None",
         "UnaffectedIncreaseEffect": true,
         "Rewards": [
           {
             "ThingId": 130031,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 100,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130032,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 100,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130033,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 100,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130034,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 100,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
@@ -626,13 +626,13 @@
         "Id": 205,
         "LiveDropFrameGroupMasterId": 2,
         "Order": 5,
-        "ChangeType": 0,
-        "FrameLotCondition": 0,
+        "ChangeType": "None",
+        "FrameLotCondition": "None",
         "UnaffectedIncreaseEffect": true,
         "Rewards": [
           {
             "ThingId": 130051,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
@@ -644,27 +644,27 @@
         "Id": 206,
         "LiveDropFrameGroupMasterId": 2,
         "Order": 6,
-        "ChangeType": 0,
-        "FrameLotCondition": 0,
+        "ChangeType": "None",
+        "FrameLotCondition": "None",
         "UnaffectedIncreaseEffect": true,
         "Rewards": [
           {
             "ThingId": 510001,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 510002,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 510003,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
@@ -676,27 +676,27 @@
         "Id": 207,
         "LiveDropFrameGroupMasterId": 2,
         "Order": 7,
-        "ChangeType": 0,
-        "FrameLotCondition": 0,
+        "ChangeType": "None",
+        "FrameLotCondition": "None",
         "UnaffectedIncreaseEffect": true,
         "Rewards": [
           {
             "ThingId": 510001,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 510002,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 510003,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
@@ -708,13 +708,13 @@
         "Id": 208,
         "LiveDropFrameGroupMasterId": 2,
         "Order": 8,
-        "ChangeType": 0,
-        "FrameLotCondition": 0,
+        "ChangeType": "None",
+        "FrameLotCondition": "None",
         "UnaffectedIncreaseEffect": true,
         "Rewards": [
           {
             "ThingId": 130091,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 2,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
@@ -726,13 +726,13 @@
         "Id": 209,
         "LiveDropFrameGroupMasterId": 2,
         "Order": 9,
-        "ChangeType": 0,
-        "FrameLotCondition": 0,
+        "ChangeType": "None",
+        "FrameLotCondition": "None",
         "UnaffectedIncreaseEffect": true,
         "Rewards": [
           {
             "ThingId": 130012,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
@@ -749,90 +749,90 @@
         "Id": 1101,
         "LiveDropFrameGroupMasterId": 11,
         "Order": 1,
-        "ChangeType": 0,
-        "FrameLotCondition": 0,
+        "ChangeType": "None",
+        "FrameLotCondition": "None",
         "UnaffectedIncreaseEffect": false,
         "Rewards": [
           {
             "ThingId": 130021,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130022,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130023,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130024,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130021,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 2,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130022,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 2,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130023,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 2,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130024,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 2,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130021,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 3,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130022,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 3,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130023,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 3,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130024,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 3,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
@@ -844,90 +844,90 @@
         "Id": 1102,
         "LiveDropFrameGroupMasterId": 11,
         "Order": 2,
-        "ChangeType": 0,
-        "FrameLotCondition": 0,
+        "ChangeType": "None",
+        "FrameLotCondition": "None",
         "UnaffectedIncreaseEffect": false,
         "Rewards": [
           {
             "ThingId": 130021,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130022,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130023,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130024,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130021,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 2,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130022,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 2,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130023,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 2,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130024,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 2,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130021,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 3,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130022,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 3,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130023,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 3,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130024,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 3,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
@@ -939,27 +939,27 @@
         "Id": 1103,
         "LiveDropFrameGroupMasterId": 11,
         "Order": 3,
-        "ChangeType": 0,
-        "FrameLotCondition": 1,
+        "ChangeType": "None",
+        "FrameLotCondition": "ConsumeStamina",
         "UnaffectedIncreaseEffect": false,
         "Rewards": [
           {
             "ThingId": 120001,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 120001,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 2,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 120001,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 3,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
@@ -971,27 +971,27 @@
         "Id": 1104,
         "LiveDropFrameGroupMasterId": 11,
         "Order": 4,
-        "ChangeType": 0,
-        "FrameLotCondition": 2,
+        "ChangeType": "None",
+        "FrameLotCondition": "ScoreWithConsumeStamina",
         "UnaffectedIncreaseEffect": false,
         "Rewards": [
           {
             "ThingId": 120001,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 3,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 120001,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 4,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 120001,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 5,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
@@ -1003,90 +1003,90 @@
         "Id": 1105,
         "LiveDropFrameGroupMasterId": 11,
         "Order": 5,
-        "ChangeType": 0,
-        "FrameLotCondition": 2,
+        "ChangeType": "None",
+        "FrameLotCondition": "ScoreWithConsumeStamina",
         "UnaffectedIncreaseEffect": false,
         "Rewards": [
           {
             "ThingId": 130031,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 2,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130032,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 2,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130033,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 2,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130034,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 2,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130031,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 3,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130032,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 3,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130033,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 3,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130034,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 3,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130031,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 4,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130032,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 4,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130033,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 4,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130034,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 4,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
@@ -1098,83 +1098,83 @@
         "Id": 1106,
         "LiveDropFrameGroupMasterId": 11,
         "Order": 6,
-        "ChangeType": 0,
-        "FrameLotCondition": 2,
+        "ChangeType": "None",
+        "FrameLotCondition": "ScoreWithConsumeStamina",
         "UnaffectedIncreaseEffect": false,
         "Rewards": [
           {
             "ThingId": 130041,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130041,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 2,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130041,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 3,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130031,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130032,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130033,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130034,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130031,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 2,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130032,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 2,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130033,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 2,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130034,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 2,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
@@ -1186,83 +1186,83 @@
         "Id": 1107,
         "LiveDropFrameGroupMasterId": 11,
         "Order": 7,
-        "ChangeType": 0,
-        "FrameLotCondition": 2,
+        "ChangeType": "None",
+        "FrameLotCondition": "ScoreWithConsumeStamina",
         "UnaffectedIncreaseEffect": false,
         "Rewards": [
           {
             "ThingId": 130042,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130042,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 2,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130042,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 3,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130031,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130032,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130033,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130034,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130031,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 2,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130032,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 2,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130033,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 2,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130034,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 2,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
@@ -1274,27 +1274,27 @@
         "Id": 1108,
         "LiveDropFrameGroupMasterId": 11,
         "Order": 8,
-        "ChangeType": 0,
-        "FrameLotCondition": 3,
+        "ChangeType": "None",
+        "FrameLotCondition": "StarActCountWithConsumeStamina",
         "UnaffectedIncreaseEffect": false,
         "Rewards": [
           {
             "ThingId": 120001,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130041,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130042,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
@@ -1311,90 +1311,90 @@
         "Id": 1201,
         "LiveDropFrameGroupMasterId": 12,
         "Order": 1,
-        "ChangeType": 0,
-        "FrameLotCondition": 0,
+        "ChangeType": "None",
+        "FrameLotCondition": "None",
         "UnaffectedIncreaseEffect": false,
         "Rewards": [
           {
             "ThingId": 130021,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130022,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130023,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130024,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130021,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 2,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130022,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 2,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130023,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 2,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130024,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 2,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130021,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 3,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130022,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 3,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130023,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 3,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130024,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 3,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
@@ -1406,90 +1406,90 @@
         "Id": 1202,
         "LiveDropFrameGroupMasterId": 12,
         "Order": 2,
-        "ChangeType": 0,
-        "FrameLotCondition": 0,
+        "ChangeType": "None",
+        "FrameLotCondition": "None",
         "UnaffectedIncreaseEffect": false,
         "Rewards": [
           {
             "ThingId": 130021,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130022,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130023,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130024,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130021,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 2,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130022,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 2,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130023,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 2,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130024,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 2,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130021,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 3,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130022,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 3,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130023,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 3,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130024,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 3,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
@@ -1501,27 +1501,27 @@
         "Id": 1203,
         "LiveDropFrameGroupMasterId": 12,
         "Order": 3,
-        "ChangeType": 0,
-        "FrameLotCondition": 1,
+        "ChangeType": "None",
+        "FrameLotCondition": "ConsumeStamina",
         "UnaffectedIncreaseEffect": false,
         "Rewards": [
           {
             "ThingId": 120001,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 120001,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 2,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 120001,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 3,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
@@ -1533,27 +1533,27 @@
         "Id": 1204,
         "LiveDropFrameGroupMasterId": 12,
         "Order": 4,
-        "ChangeType": 0,
-        "FrameLotCondition": 2,
+        "ChangeType": "None",
+        "FrameLotCondition": "ScoreWithConsumeStamina",
         "UnaffectedIncreaseEffect": false,
         "Rewards": [
           {
             "ThingId": 130061,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130061,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 2,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130061,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 3,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
@@ -1565,48 +1565,48 @@
         "Id": 1205,
         "LiveDropFrameGroupMasterId": 12,
         "Order": 5,
-        "ChangeType": 0,
-        "FrameLotCondition": 2,
+        "ChangeType": "None",
+        "FrameLotCondition": "ScoreWithConsumeStamina",
         "UnaffectedIncreaseEffect": false,
         "Rewards": [
           {
             "ThingId": 130061,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130061,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 2,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130061,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 3,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130062,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130062,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 2,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130062,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 3,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
@@ -1618,69 +1618,69 @@
         "Id": 1206,
         "LiveDropFrameGroupMasterId": 12,
         "Order": 6,
-        "ChangeType": 0,
-        "FrameLotCondition": 2,
+        "ChangeType": "None",
+        "FrameLotCondition": "ScoreWithConsumeStamina",
         "UnaffectedIncreaseEffect": false,
         "Rewards": [
           {
             "ThingId": 130061,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130061,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 2,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130061,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 3,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130062,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130062,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 2,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130062,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 3,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130063,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130063,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 2,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130063,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 3,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
@@ -1692,27 +1692,27 @@
         "Id": 1207,
         "LiveDropFrameGroupMasterId": 12,
         "Order": 7,
-        "ChangeType": 0,
-        "FrameLotCondition": 3,
+        "ChangeType": "None",
+        "FrameLotCondition": "StarActCountWithConsumeStamina",
         "UnaffectedIncreaseEffect": false,
         "Rewards": [
           {
             "ThingId": 120001,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130061,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130062,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
@@ -1729,90 +1729,90 @@
         "Id": 1401,
         "LiveDropFrameGroupMasterId": 14,
         "Order": 1,
-        "ChangeType": 0,
-        "FrameLotCondition": 0,
+        "ChangeType": "None",
+        "FrameLotCondition": "None",
         "UnaffectedIncreaseEffect": false,
         "Rewards": [
           {
             "ThingId": 130021,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130022,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130023,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130024,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130021,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 2,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130022,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 2,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130023,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 2,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130024,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 2,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130021,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 3,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130022,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 3,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130023,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 3,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130024,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 3,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
@@ -1824,90 +1824,90 @@
         "Id": 1402,
         "LiveDropFrameGroupMasterId": 14,
         "Order": 2,
-        "ChangeType": 0,
-        "FrameLotCondition": 0,
+        "ChangeType": "None",
+        "FrameLotCondition": "None",
         "UnaffectedIncreaseEffect": false,
         "Rewards": [
           {
             "ThingId": 130021,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130022,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130023,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130024,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130021,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 2,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130022,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 2,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130023,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 2,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130024,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 2,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130021,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 3,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130022,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 3,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130023,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 3,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130024,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 3,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
@@ -1919,27 +1919,27 @@
         "Id": 1403,
         "LiveDropFrameGroupMasterId": 14,
         "Order": 3,
-        "ChangeType": 0,
-        "FrameLotCondition": 1,
+        "ChangeType": "None",
+        "FrameLotCondition": "ConsumeStamina",
         "UnaffectedIncreaseEffect": false,
         "Rewards": [
           {
             "ThingId": 120001,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 120001,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 2,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 120001,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 3,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
@@ -1951,244 +1951,244 @@
         "Id": 1404,
         "LiveDropFrameGroupMasterId": 14,
         "Order": 4,
-        "ChangeType": 1,
-        "FrameLotCondition": 1,
+        "ChangeType": "AccessoryFormula",
+        "FrameLotCondition": "ConsumeStamina",
         "UnaffectedIncreaseEffect": true,
         "Rewards": [
           {
             "ThingId": 310010,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 310020,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 310030,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 310040,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 320010,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 320020,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 320030,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 320040,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 320050,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 320060,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 320070,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 320080,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 331010,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 331020,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 331030,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 331040,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 331050,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 331060,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 331070,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 331080,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 331090,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 331100,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 331110,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 332010,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": true
           },
           {
             "ThingId": 332020,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": true
           },
           {
             "ThingId": 332030,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": true
           },
           {
             "ThingId": 332040,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": true
           },
           {
             "ThingId": 332050,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": true
           },
           {
             "ThingId": 332060,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": true
           },
           {
             "ThingId": 332070,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": true
           },
           {
             "ThingId": 332080,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": true
           },
           {
             "ThingId": 332090,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": true
           },
           {
             "ThingId": 332100,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": true
           },
           {
             "ThingId": 332110,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": true
@@ -2200,244 +2200,244 @@
         "Id": 1405,
         "LiveDropFrameGroupMasterId": 14,
         "Order": 5,
-        "ChangeType": 1,
-        "FrameLotCondition": 2,
+        "ChangeType": "AccessoryFormula",
+        "FrameLotCondition": "ScoreWithConsumeStamina",
         "UnaffectedIncreaseEffect": true,
         "Rewards": [
           {
             "ThingId": 310010,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 310020,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 310030,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 310040,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 320010,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 320020,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 320030,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 320040,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 320050,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 320060,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 320070,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 320080,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 331010,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 331020,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 331030,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 331040,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 331050,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 331060,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 331070,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 331080,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 331090,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 331100,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 331110,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 332010,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": true
           },
           {
             "ThingId": 332020,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": true
           },
           {
             "ThingId": 332030,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": true
           },
           {
             "ThingId": 332040,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": true
           },
           {
             "ThingId": 332050,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": true
           },
           {
             "ThingId": 332060,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": true
           },
           {
             "ThingId": 332070,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": true
           },
           {
             "ThingId": 332080,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": true
           },
           {
             "ThingId": 332090,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": true
           },
           {
             "ThingId": 332100,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": true
           },
           {
             "ThingId": 332110,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": true
@@ -2449,244 +2449,244 @@
         "Id": 1406,
         "LiveDropFrameGroupMasterId": 14,
         "Order": 6,
-        "ChangeType": 1,
-        "FrameLotCondition": 2,
+        "ChangeType": "AccessoryFormula",
+        "FrameLotCondition": "ScoreWithConsumeStamina",
         "UnaffectedIncreaseEffect": true,
         "Rewards": [
           {
             "ThingId": 310010,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 310020,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 310030,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 310040,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 320010,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 320020,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 320030,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 320040,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 320050,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 320060,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 320070,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 320080,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 331010,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 331020,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 331030,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 331040,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 331050,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 331060,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 331070,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 331080,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 331090,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 331100,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 331110,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 332010,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": true
           },
           {
             "ThingId": 332020,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": true
           },
           {
             "ThingId": 332030,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": true
           },
           {
             "ThingId": 332040,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": true
           },
           {
             "ThingId": 332050,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": true
           },
           {
             "ThingId": 332060,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": true
           },
           {
             "ThingId": 332070,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": true
           },
           {
             "ThingId": 332080,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": true
           },
           {
             "ThingId": 332090,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": true
           },
           {
             "ThingId": 332100,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": true
           },
           {
             "ThingId": 332110,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": true
@@ -2698,244 +2698,244 @@
         "Id": 1407,
         "LiveDropFrameGroupMasterId": 14,
         "Order": 7,
-        "ChangeType": 1,
-        "FrameLotCondition": 2,
+        "ChangeType": "AccessoryFormula",
+        "FrameLotCondition": "ScoreWithConsumeStamina",
         "UnaffectedIncreaseEffect": true,
         "Rewards": [
           {
             "ThingId": 310010,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 310020,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 310030,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 310040,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 320010,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 320020,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 320030,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 320040,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 320050,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 320060,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 320070,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 320080,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 331010,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 331020,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 331030,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 331040,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 331050,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 331060,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 331070,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 331080,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 331090,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 331100,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 331110,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 332010,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": true
           },
           {
             "ThingId": 332020,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": true
           },
           {
             "ThingId": 332030,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": true
           },
           {
             "ThingId": 332040,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": true
           },
           {
             "ThingId": 332050,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": true
           },
           {
             "ThingId": 332060,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": true
           },
           {
             "ThingId": 332070,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": true
           },
           {
             "ThingId": 332080,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": true
           },
           {
             "ThingId": 332090,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": true
           },
           {
             "ThingId": 332100,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": true
           },
           {
             "ThingId": 332110,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": true
@@ -2947,244 +2947,244 @@
         "Id": 1408,
         "LiveDropFrameGroupMasterId": 14,
         "Order": 8,
-        "ChangeType": 1,
-        "FrameLotCondition": 2,
+        "ChangeType": "AccessoryFormula",
+        "FrameLotCondition": "ScoreWithConsumeStamina",
         "UnaffectedIncreaseEffect": true,
         "Rewards": [
           {
             "ThingId": 310010,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 310020,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 310030,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 310040,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 320010,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 320020,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 320030,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 320040,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 320050,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 320060,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 320070,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 320080,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 331010,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 331020,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 331030,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 331040,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 331050,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 331060,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 331070,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 331080,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 331090,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 331100,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 331110,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 332010,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": true
           },
           {
             "ThingId": 332020,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": true
           },
           {
             "ThingId": 332030,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": true
           },
           {
             "ThingId": 332040,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": true
           },
           {
             "ThingId": 332050,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": true
           },
           {
             "ThingId": 332060,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": true
           },
           {
             "ThingId": 332070,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": true
           },
           {
             "ThingId": 332080,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": true
           },
           {
             "ThingId": 332090,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": true
           },
           {
             "ThingId": 332100,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": true
           },
           {
             "ThingId": 332110,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": true
@@ -3196,244 +3196,244 @@
         "Id": 1409,
         "LiveDropFrameGroupMasterId": 14,
         "Order": 9,
-        "ChangeType": 1,
-        "FrameLotCondition": 2,
+        "ChangeType": "AccessoryFormula",
+        "FrameLotCondition": "ScoreWithConsumeStamina",
         "UnaffectedIncreaseEffect": true,
         "Rewards": [
           {
             "ThingId": 310010,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 310020,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 310030,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 310040,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 320010,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 320020,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 320030,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 320040,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 320050,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 320060,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 320070,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 320080,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 331010,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 331020,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 331030,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 331040,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 331050,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 331060,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 331070,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 331080,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 331090,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 331100,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 331110,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 332010,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": true
           },
           {
             "ThingId": 332020,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": true
           },
           {
             "ThingId": 332030,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": true
           },
           {
             "ThingId": 332040,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": true
           },
           {
             "ThingId": 332050,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": true
           },
           {
             "ThingId": 332060,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": true
           },
           {
             "ThingId": 332070,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": true
           },
           {
             "ThingId": 332080,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": true
           },
           {
             "ThingId": 332090,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": true
           },
           {
             "ThingId": 332100,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": true
           },
           {
             "ThingId": 332110,
-            "ThingType": 4,
+            "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
             "IsSpecialFallThing": true
@@ -3445,34 +3445,34 @@
         "Id": 1410,
         "LiveDropFrameGroupMasterId": 14,
         "Order": 10,
-        "ChangeType": 0,
-        "FrameLotCondition": 0,
+        "ChangeType": "None",
+        "FrameLotCondition": "None",
         "UnaffectedIncreaseEffect": false,
         "Rewards": [
           {
             "ThingId": 130081,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130081,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 2,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130082,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130082,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 2,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
@@ -3484,48 +3484,48 @@
         "Id": 1411,
         "LiveDropFrameGroupMasterId": 14,
         "Order": 11,
-        "ChangeType": 0,
-        "FrameLotCondition": 3,
+        "ChangeType": "None",
+        "FrameLotCondition": "StarActCountWithConsumeStamina",
         "UnaffectedIncreaseEffect": false,
         "Rewards": [
           {
             "ThingId": 130081,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130081,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 2,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130081,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 3,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130082,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130082,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 2,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false
           },
           {
             "ThingId": 130082,
-            "ThingType": 1,
+            "ThingType": "Item",
             "ThingQuantity": 3,
             "IsSpecialFallCountUpThing": false,
             "IsSpecialFallThing": false

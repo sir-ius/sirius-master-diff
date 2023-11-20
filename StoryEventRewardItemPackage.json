@@ -4,17 +4,17 @@
     "Rewards": [
       {
         "ThingId": 2000101,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 2000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -24,17 +24,17 @@
     "Rewards": [
       {
         "ThingId": 2000102,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 2000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -44,17 +44,17 @@
     "Rewards": [
       {
         "ThingId": 2000103,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 2000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -64,17 +64,17 @@
     "Rewards": [
       {
         "ThingId": 2000104,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 2000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -84,17 +84,17 @@
     "Rewards": [
       {
         "ThingId": 2000105,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -104,17 +104,17 @@
     "Rewards": [
       {
         "ThingId": 2000106,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -124,17 +124,17 @@
     "Rewards": [
       {
         "ThingId": 2000107,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -144,17 +144,17 @@
     "Rewards": [
       {
         "ThingId": 2000108,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -164,17 +164,17 @@
     "Rewards": [
       {
         "ThingId": 2000109,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1200
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -184,17 +184,17 @@
     "Rewards": [
       {
         "ThingId": 2000110,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -204,17 +204,17 @@
     "Rewards": [
       {
         "ThingId": 2000111,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -224,17 +224,17 @@
     "Rewards": [
       {
         "ThingId": 2000112,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -244,17 +244,17 @@
     "Rewards": [
       {
         "ThingId": 2000113,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -264,17 +264,17 @@
     "Rewards": [
       {
         "ThingId": 2000114,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 750
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 80
       }
     ]
@@ -284,17 +284,17 @@
     "Rewards": [
       {
         "ThingId": 2000115,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 60
       }
     ]
@@ -304,17 +304,17 @@
     "Rewards": [
       {
         "ThingId": 2000116,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 60
       }
     ]
@@ -324,17 +324,17 @@
     "Rewards": [
       {
         "ThingId": 2000117,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 60
       }
     ]
@@ -344,17 +344,17 @@
     "Rewards": [
       {
         "ThingId": 2000118,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 60
       }
     ]
@@ -364,17 +364,17 @@
     "Rewards": [
       {
         "ThingId": 2000119,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 400
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 40
       }
     ]
@@ -384,17 +384,17 @@
     "Rewards": [
       {
         "ThingId": 2000120,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 300
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 20
       }
     ]
@@ -404,17 +404,17 @@
     "Rewards": [
       {
         "ThingId": 2000121,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 300
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 20
       }
     ]
@@ -424,17 +424,17 @@
     "Rewards": [
       {
         "ThingId": 2000122,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 300
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 20
       }
     ]
@@ -444,17 +444,17 @@
     "Rewards": [
       {
         "ThingId": 2000123,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 300
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 20
       }
     ]
@@ -464,12 +464,12 @@
     "Rewards": [
       {
         "ThingId": 2000124,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 250
       }
     ]
@@ -479,7 +479,7 @@
     "Rewards": [
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 200
       }
     ]
@@ -489,7 +489,7 @@
     "Rewards": [
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 100
       }
     ]
@@ -499,17 +499,17 @@
     "Rewards": [
       {
         "ThingId": 2000201,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 2000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -519,17 +519,17 @@
     "Rewards": [
       {
         "ThingId": 2000202,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 2000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -539,17 +539,17 @@
     "Rewards": [
       {
         "ThingId": 2000203,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 2000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -559,17 +559,17 @@
     "Rewards": [
       {
         "ThingId": 2000204,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 2000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -579,17 +579,17 @@
     "Rewards": [
       {
         "ThingId": 2000205,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -599,17 +599,17 @@
     "Rewards": [
       {
         "ThingId": 2000206,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -619,17 +619,17 @@
     "Rewards": [
       {
         "ThingId": 2000207,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -639,17 +639,17 @@
     "Rewards": [
       {
         "ThingId": 2000208,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -659,17 +659,17 @@
     "Rewards": [
       {
         "ThingId": 2000209,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1200
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -679,17 +679,17 @@
     "Rewards": [
       {
         "ThingId": 2000210,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -699,17 +699,17 @@
     "Rewards": [
       {
         "ThingId": 2000211,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -719,17 +719,17 @@
     "Rewards": [
       {
         "ThingId": 2000212,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -739,17 +739,17 @@
     "Rewards": [
       {
         "ThingId": 2000213,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -759,17 +759,17 @@
     "Rewards": [
       {
         "ThingId": 2000214,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 750
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 80
       }
     ]
@@ -779,17 +779,17 @@
     "Rewards": [
       {
         "ThingId": 2000215,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 60
       }
     ]
@@ -799,17 +799,17 @@
     "Rewards": [
       {
         "ThingId": 2000216,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 60
       }
     ]
@@ -819,17 +819,17 @@
     "Rewards": [
       {
         "ThingId": 2000217,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 60
       }
     ]
@@ -839,17 +839,17 @@
     "Rewards": [
       {
         "ThingId": 2000218,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 60
       }
     ]
@@ -859,17 +859,17 @@
     "Rewards": [
       {
         "ThingId": 2000219,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 400
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 40
       }
     ]
@@ -879,17 +879,17 @@
     "Rewards": [
       {
         "ThingId": 2000220,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 300
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 20
       }
     ]
@@ -899,17 +899,17 @@
     "Rewards": [
       {
         "ThingId": 2000221,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 300
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 20
       }
     ]
@@ -919,17 +919,17 @@
     "Rewards": [
       {
         "ThingId": 2000222,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 300
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 20
       }
     ]
@@ -939,17 +939,17 @@
     "Rewards": [
       {
         "ThingId": 2000223,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 300
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 20
       }
     ]
@@ -959,12 +959,12 @@
     "Rewards": [
       {
         "ThingId": 2000224,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 250
       }
     ]
@@ -974,7 +974,7 @@
     "Rewards": [
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 200
       }
     ]
@@ -984,7 +984,7 @@
     "Rewards": [
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 100
       }
     ]
@@ -994,17 +994,17 @@
     "Rewards": [
       {
         "ThingId": 2000301,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 2000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -1014,17 +1014,17 @@
     "Rewards": [
       {
         "ThingId": 2000302,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 2000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -1034,17 +1034,17 @@
     "Rewards": [
       {
         "ThingId": 2000303,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 2000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -1054,17 +1054,17 @@
     "Rewards": [
       {
         "ThingId": 2000304,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 2000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -1074,17 +1074,17 @@
     "Rewards": [
       {
         "ThingId": 2000305,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -1094,17 +1094,17 @@
     "Rewards": [
       {
         "ThingId": 2000306,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -1114,17 +1114,17 @@
     "Rewards": [
       {
         "ThingId": 2000307,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -1134,17 +1134,17 @@
     "Rewards": [
       {
         "ThingId": 2000308,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -1154,17 +1154,17 @@
     "Rewards": [
       {
         "ThingId": 2000309,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1200
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -1174,17 +1174,17 @@
     "Rewards": [
       {
         "ThingId": 2000310,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -1194,17 +1194,17 @@
     "Rewards": [
       {
         "ThingId": 2000311,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -1214,17 +1214,17 @@
     "Rewards": [
       {
         "ThingId": 2000312,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -1234,17 +1234,17 @@
     "Rewards": [
       {
         "ThingId": 2000313,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -1254,17 +1254,17 @@
     "Rewards": [
       {
         "ThingId": 2000314,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 750
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 80
       }
     ]
@@ -1274,17 +1274,17 @@
     "Rewards": [
       {
         "ThingId": 2000315,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 60
       }
     ]
@@ -1294,17 +1294,17 @@
     "Rewards": [
       {
         "ThingId": 2000316,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 60
       }
     ]
@@ -1314,17 +1314,17 @@
     "Rewards": [
       {
         "ThingId": 2000317,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 60
       }
     ]
@@ -1334,17 +1334,17 @@
     "Rewards": [
       {
         "ThingId": 2000318,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 60
       }
     ]
@@ -1354,17 +1354,17 @@
     "Rewards": [
       {
         "ThingId": 2000319,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 400
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 40
       }
     ]
@@ -1374,17 +1374,17 @@
     "Rewards": [
       {
         "ThingId": 2000320,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 300
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 20
       }
     ]
@@ -1394,17 +1394,17 @@
     "Rewards": [
       {
         "ThingId": 2000321,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 300
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 20
       }
     ]
@@ -1414,17 +1414,17 @@
     "Rewards": [
       {
         "ThingId": 2000322,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 300
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 20
       }
     ]
@@ -1434,17 +1434,17 @@
     "Rewards": [
       {
         "ThingId": 2000323,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 300
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 20
       }
     ]
@@ -1454,12 +1454,12 @@
     "Rewards": [
       {
         "ThingId": 2000324,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 250
       }
     ]
@@ -1469,7 +1469,7 @@
     "Rewards": [
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 200
       }
     ]
@@ -1479,7 +1479,7 @@
     "Rewards": [
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 100
       }
     ]
@@ -1489,17 +1489,17 @@
     "Rewards": [
       {
         "ThingId": 2000401,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 2000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -1509,17 +1509,17 @@
     "Rewards": [
       {
         "ThingId": 2000402,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 2000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -1529,17 +1529,17 @@
     "Rewards": [
       {
         "ThingId": 2000403,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 2000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -1549,17 +1549,17 @@
     "Rewards": [
       {
         "ThingId": 2000404,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 2000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -1569,17 +1569,17 @@
     "Rewards": [
       {
         "ThingId": 2000405,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -1589,17 +1589,17 @@
     "Rewards": [
       {
         "ThingId": 2000406,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -1609,17 +1609,17 @@
     "Rewards": [
       {
         "ThingId": 2000407,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -1629,17 +1629,17 @@
     "Rewards": [
       {
         "ThingId": 2000408,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -1649,17 +1649,17 @@
     "Rewards": [
       {
         "ThingId": 2000409,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1200
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -1669,17 +1669,17 @@
     "Rewards": [
       {
         "ThingId": 2000410,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -1689,17 +1689,17 @@
     "Rewards": [
       {
         "ThingId": 2000411,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -1709,17 +1709,17 @@
     "Rewards": [
       {
         "ThingId": 2000412,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -1729,17 +1729,17 @@
     "Rewards": [
       {
         "ThingId": 2000413,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -1749,17 +1749,17 @@
     "Rewards": [
       {
         "ThingId": 2000414,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 750
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 80
       }
     ]
@@ -1769,17 +1769,17 @@
     "Rewards": [
       {
         "ThingId": 2000415,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 60
       }
     ]
@@ -1789,17 +1789,17 @@
     "Rewards": [
       {
         "ThingId": 2000416,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 60
       }
     ]
@@ -1809,17 +1809,17 @@
     "Rewards": [
       {
         "ThingId": 2000417,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 60
       }
     ]
@@ -1829,17 +1829,17 @@
     "Rewards": [
       {
         "ThingId": 2000418,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 60
       }
     ]
@@ -1849,17 +1849,17 @@
     "Rewards": [
       {
         "ThingId": 2000419,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 400
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 40
       }
     ]
@@ -1869,17 +1869,17 @@
     "Rewards": [
       {
         "ThingId": 2000420,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 300
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 20
       }
     ]
@@ -1889,17 +1889,17 @@
     "Rewards": [
       {
         "ThingId": 2000421,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 300
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 20
       }
     ]
@@ -1909,17 +1909,17 @@
     "Rewards": [
       {
         "ThingId": 2000422,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 300
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 20
       }
     ]
@@ -1929,17 +1929,17 @@
     "Rewards": [
       {
         "ThingId": 2000423,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 300
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 20
       }
     ]
@@ -1949,12 +1949,12 @@
     "Rewards": [
       {
         "ThingId": 2000424,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 250
       }
     ]
@@ -1964,7 +1964,7 @@
     "Rewards": [
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 200
       }
     ]
@@ -1974,7 +1974,7 @@
     "Rewards": [
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 100
       }
     ]
@@ -1984,17 +1984,17 @@
     "Rewards": [
       {
         "ThingId": 2000501,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 2000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -2004,17 +2004,17 @@
     "Rewards": [
       {
         "ThingId": 2000502,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 2000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -2024,17 +2024,17 @@
     "Rewards": [
       {
         "ThingId": 2000503,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 2000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -2044,17 +2044,17 @@
     "Rewards": [
       {
         "ThingId": 2000504,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 2000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -2064,17 +2064,17 @@
     "Rewards": [
       {
         "ThingId": 2000505,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -2084,17 +2084,17 @@
     "Rewards": [
       {
         "ThingId": 2000506,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -2104,17 +2104,17 @@
     "Rewards": [
       {
         "ThingId": 2000507,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -2124,17 +2124,17 @@
     "Rewards": [
       {
         "ThingId": 2000508,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -2144,17 +2144,17 @@
     "Rewards": [
       {
         "ThingId": 2000509,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1200
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -2164,17 +2164,17 @@
     "Rewards": [
       {
         "ThingId": 2000510,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -2184,17 +2184,17 @@
     "Rewards": [
       {
         "ThingId": 2000511,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -2204,17 +2204,17 @@
     "Rewards": [
       {
         "ThingId": 2000512,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -2224,17 +2224,17 @@
     "Rewards": [
       {
         "ThingId": 2000513,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -2244,17 +2244,17 @@
     "Rewards": [
       {
         "ThingId": 2000514,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 750
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 80
       }
     ]
@@ -2264,17 +2264,17 @@
     "Rewards": [
       {
         "ThingId": 2000515,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 60
       }
     ]
@@ -2284,17 +2284,17 @@
     "Rewards": [
       {
         "ThingId": 2000516,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 60
       }
     ]
@@ -2304,17 +2304,17 @@
     "Rewards": [
       {
         "ThingId": 2000517,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 60
       }
     ]
@@ -2324,17 +2324,17 @@
     "Rewards": [
       {
         "ThingId": 2000518,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 60
       }
     ]
@@ -2344,17 +2344,17 @@
     "Rewards": [
       {
         "ThingId": 2000519,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 400
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 40
       }
     ]
@@ -2364,17 +2364,17 @@
     "Rewards": [
       {
         "ThingId": 2000520,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 300
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 20
       }
     ]
@@ -2384,17 +2384,17 @@
     "Rewards": [
       {
         "ThingId": 2000521,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 300
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 20
       }
     ]
@@ -2404,17 +2404,17 @@
     "Rewards": [
       {
         "ThingId": 2000522,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 300
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 20
       }
     ]
@@ -2424,17 +2424,17 @@
     "Rewards": [
       {
         "ThingId": 2000523,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 300
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 20
       }
     ]
@@ -2444,12 +2444,12 @@
     "Rewards": [
       {
         "ThingId": 2000524,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 250
       }
     ]
@@ -2459,7 +2459,7 @@
     "Rewards": [
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 200
       }
     ]
@@ -2469,7 +2469,7 @@
     "Rewards": [
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 100
       }
     ]
@@ -2479,17 +2479,17 @@
     "Rewards": [
       {
         "ThingId": 2000601,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 2000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -2499,17 +2499,17 @@
     "Rewards": [
       {
         "ThingId": 2000602,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 2000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -2519,17 +2519,17 @@
     "Rewards": [
       {
         "ThingId": 2000603,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 2000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -2539,17 +2539,17 @@
     "Rewards": [
       {
         "ThingId": 2000604,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 2000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -2559,17 +2559,17 @@
     "Rewards": [
       {
         "ThingId": 2000605,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -2579,17 +2579,17 @@
     "Rewards": [
       {
         "ThingId": 2000606,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -2599,17 +2599,17 @@
     "Rewards": [
       {
         "ThingId": 2000607,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -2619,17 +2619,17 @@
     "Rewards": [
       {
         "ThingId": 2000608,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -2639,17 +2639,17 @@
     "Rewards": [
       {
         "ThingId": 2000609,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1200
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -2659,17 +2659,17 @@
     "Rewards": [
       {
         "ThingId": 2000610,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -2679,17 +2679,17 @@
     "Rewards": [
       {
         "ThingId": 2000611,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -2699,17 +2699,17 @@
     "Rewards": [
       {
         "ThingId": 2000612,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -2719,17 +2719,17 @@
     "Rewards": [
       {
         "ThingId": 2000613,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -2739,17 +2739,17 @@
     "Rewards": [
       {
         "ThingId": 2000614,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 750
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 80
       }
     ]
@@ -2759,17 +2759,17 @@
     "Rewards": [
       {
         "ThingId": 2000615,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 60
       }
     ]
@@ -2779,17 +2779,17 @@
     "Rewards": [
       {
         "ThingId": 2000616,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 60
       }
     ]
@@ -2799,17 +2799,17 @@
     "Rewards": [
       {
         "ThingId": 2000617,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 60
       }
     ]
@@ -2819,17 +2819,17 @@
     "Rewards": [
       {
         "ThingId": 2000618,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 60
       }
     ]
@@ -2839,17 +2839,17 @@
     "Rewards": [
       {
         "ThingId": 2000619,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 400
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 40
       }
     ]
@@ -2859,17 +2859,17 @@
     "Rewards": [
       {
         "ThingId": 2000620,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 300
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 20
       }
     ]
@@ -2879,17 +2879,17 @@
     "Rewards": [
       {
         "ThingId": 2000621,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 300
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 20
       }
     ]
@@ -2899,17 +2899,17 @@
     "Rewards": [
       {
         "ThingId": 2000622,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 300
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 20
       }
     ]
@@ -2919,17 +2919,17 @@
     "Rewards": [
       {
         "ThingId": 2000623,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 300
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 20
       }
     ]
@@ -2939,12 +2939,12 @@
     "Rewards": [
       {
         "ThingId": 2000624,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 250
       }
     ]
@@ -2954,7 +2954,7 @@
     "Rewards": [
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 200
       }
     ]
@@ -2964,7 +2964,7 @@
     "Rewards": [
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 100
       }
     ]
@@ -2974,17 +2974,17 @@
     "Rewards": [
       {
         "ThingId": 2000701,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 2000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -2994,17 +2994,17 @@
     "Rewards": [
       {
         "ThingId": 2000702,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 2000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -3014,17 +3014,17 @@
     "Rewards": [
       {
         "ThingId": 2000703,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 2000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -3034,17 +3034,17 @@
     "Rewards": [
       {
         "ThingId": 2000704,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 2000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -3054,17 +3054,17 @@
     "Rewards": [
       {
         "ThingId": 2000705,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -3074,17 +3074,17 @@
     "Rewards": [
       {
         "ThingId": 2000706,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -3094,17 +3094,17 @@
     "Rewards": [
       {
         "ThingId": 2000707,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -3114,17 +3114,17 @@
     "Rewards": [
       {
         "ThingId": 2000708,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -3134,17 +3134,17 @@
     "Rewards": [
       {
         "ThingId": 2000709,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1200
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -3154,17 +3154,17 @@
     "Rewards": [
       {
         "ThingId": 2000710,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -3174,17 +3174,17 @@
     "Rewards": [
       {
         "ThingId": 2000711,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -3194,17 +3194,17 @@
     "Rewards": [
       {
         "ThingId": 2000712,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -3214,17 +3214,17 @@
     "Rewards": [
       {
         "ThingId": 2000713,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -3234,17 +3234,17 @@
     "Rewards": [
       {
         "ThingId": 2000714,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 750
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 80
       }
     ]
@@ -3254,17 +3254,17 @@
     "Rewards": [
       {
         "ThingId": 2000715,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 60
       }
     ]
@@ -3274,17 +3274,17 @@
     "Rewards": [
       {
         "ThingId": 2000716,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 60
       }
     ]
@@ -3294,17 +3294,17 @@
     "Rewards": [
       {
         "ThingId": 2000717,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 60
       }
     ]
@@ -3314,17 +3314,17 @@
     "Rewards": [
       {
         "ThingId": 2000718,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 60
       }
     ]
@@ -3334,17 +3334,17 @@
     "Rewards": [
       {
         "ThingId": 2000719,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 400
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 40
       }
     ]
@@ -3354,17 +3354,17 @@
     "Rewards": [
       {
         "ThingId": 2000720,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 300
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 20
       }
     ]
@@ -3374,17 +3374,17 @@
     "Rewards": [
       {
         "ThingId": 2000721,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 300
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 20
       }
     ]
@@ -3394,17 +3394,17 @@
     "Rewards": [
       {
         "ThingId": 2000722,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 300
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 20
       }
     ]
@@ -3414,17 +3414,17 @@
     "Rewards": [
       {
         "ThingId": 2000723,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 300
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 20
       }
     ]
@@ -3434,12 +3434,12 @@
     "Rewards": [
       {
         "ThingId": 2000724,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 250
       }
     ]
@@ -3449,7 +3449,7 @@
     "Rewards": [
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 200
       }
     ]
@@ -3459,7 +3459,7 @@
     "Rewards": [
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 100
       }
     ]
@@ -3469,17 +3469,17 @@
     "Rewards": [
       {
         "ThingId": 2000801,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 2000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -3489,17 +3489,17 @@
     "Rewards": [
       {
         "ThingId": 2000802,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 2000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -3509,17 +3509,17 @@
     "Rewards": [
       {
         "ThingId": 2000803,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 2000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -3529,17 +3529,17 @@
     "Rewards": [
       {
         "ThingId": 2000804,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 2000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -3549,17 +3549,17 @@
     "Rewards": [
       {
         "ThingId": 2000805,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -3569,17 +3569,17 @@
     "Rewards": [
       {
         "ThingId": 2000806,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -3589,17 +3589,17 @@
     "Rewards": [
       {
         "ThingId": 2000807,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -3609,17 +3609,17 @@
     "Rewards": [
       {
         "ThingId": 2000808,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -3629,17 +3629,17 @@
     "Rewards": [
       {
         "ThingId": 2000809,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1200
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -3649,17 +3649,17 @@
     "Rewards": [
       {
         "ThingId": 2000810,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -3669,17 +3669,17 @@
     "Rewards": [
       {
         "ThingId": 2000811,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -3689,17 +3689,17 @@
     "Rewards": [
       {
         "ThingId": 2000812,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -3709,17 +3709,17 @@
     "Rewards": [
       {
         "ThingId": 2000813,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -3729,17 +3729,17 @@
     "Rewards": [
       {
         "ThingId": 2000814,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 750
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 80
       }
     ]
@@ -3749,17 +3749,17 @@
     "Rewards": [
       {
         "ThingId": 2000815,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 60
       }
     ]
@@ -3769,17 +3769,17 @@
     "Rewards": [
       {
         "ThingId": 2000816,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 60
       }
     ]
@@ -3789,17 +3789,17 @@
     "Rewards": [
       {
         "ThingId": 2000817,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 60
       }
     ]
@@ -3809,17 +3809,17 @@
     "Rewards": [
       {
         "ThingId": 2000818,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 60
       }
     ]
@@ -3829,17 +3829,17 @@
     "Rewards": [
       {
         "ThingId": 2000819,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 400
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 40
       }
     ]
@@ -3849,17 +3849,17 @@
     "Rewards": [
       {
         "ThingId": 2000820,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 300
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 20
       }
     ]
@@ -3869,17 +3869,17 @@
     "Rewards": [
       {
         "ThingId": 2000821,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 300
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 20
       }
     ]
@@ -3889,17 +3889,17 @@
     "Rewards": [
       {
         "ThingId": 2000822,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 300
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 20
       }
     ]
@@ -3909,17 +3909,17 @@
     "Rewards": [
       {
         "ThingId": 2000823,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 300
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 20
       }
     ]
@@ -3929,12 +3929,12 @@
     "Rewards": [
       {
         "ThingId": 2000824,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 250
       }
     ]
@@ -3944,7 +3944,7 @@
     "Rewards": [
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 200
       }
     ]
@@ -3954,7 +3954,7 @@
     "Rewards": [
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 100
       }
     ]
@@ -3964,17 +3964,17 @@
     "Rewards": [
       {
         "ThingId": 2000901,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 2000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -3984,17 +3984,17 @@
     "Rewards": [
       {
         "ThingId": 2000902,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 2000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -4004,17 +4004,17 @@
     "Rewards": [
       {
         "ThingId": 2000903,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 2000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -4024,17 +4024,17 @@
     "Rewards": [
       {
         "ThingId": 2000904,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 2000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -4044,17 +4044,17 @@
     "Rewards": [
       {
         "ThingId": 2000905,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -4064,17 +4064,17 @@
     "Rewards": [
       {
         "ThingId": 2000906,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -4084,17 +4084,17 @@
     "Rewards": [
       {
         "ThingId": 2000907,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -4104,17 +4104,17 @@
     "Rewards": [
       {
         "ThingId": 2000908,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -4124,17 +4124,17 @@
     "Rewards": [
       {
         "ThingId": 2000909,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1200
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -4144,17 +4144,17 @@
     "Rewards": [
       {
         "ThingId": 2000910,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -4164,17 +4164,17 @@
     "Rewards": [
       {
         "ThingId": 2000911,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -4184,17 +4184,17 @@
     "Rewards": [
       {
         "ThingId": 2000912,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -4204,17 +4204,17 @@
     "Rewards": [
       {
         "ThingId": 2000913,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -4224,17 +4224,17 @@
     "Rewards": [
       {
         "ThingId": 2000914,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 750
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 80
       }
     ]
@@ -4244,17 +4244,17 @@
     "Rewards": [
       {
         "ThingId": 2000915,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 60
       }
     ]
@@ -4264,17 +4264,17 @@
     "Rewards": [
       {
         "ThingId": 2000916,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 60
       }
     ]
@@ -4284,17 +4284,17 @@
     "Rewards": [
       {
         "ThingId": 2000917,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 60
       }
     ]
@@ -4304,17 +4304,17 @@
     "Rewards": [
       {
         "ThingId": 2000918,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 60
       }
     ]
@@ -4324,17 +4324,17 @@
     "Rewards": [
       {
         "ThingId": 2000919,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 400
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 40
       }
     ]
@@ -4344,17 +4344,17 @@
     "Rewards": [
       {
         "ThingId": 2000920,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 300
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 20
       }
     ]
@@ -4364,17 +4364,17 @@
     "Rewards": [
       {
         "ThingId": 2000921,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 300
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 20
       }
     ]
@@ -4384,17 +4384,17 @@
     "Rewards": [
       {
         "ThingId": 2000922,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 300
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 20
       }
     ]
@@ -4404,17 +4404,17 @@
     "Rewards": [
       {
         "ThingId": 2000923,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 300
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 20
       }
     ]
@@ -4424,12 +4424,12 @@
     "Rewards": [
       {
         "ThingId": 2000924,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 250
       }
     ]
@@ -4439,7 +4439,7 @@
     "Rewards": [
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 200
       }
     ]
@@ -4449,7 +4449,7 @@
     "Rewards": [
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 100
       }
     ]
@@ -4459,17 +4459,17 @@
     "Rewards": [
       {
         "ThingId": 2001001,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 2000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -4479,17 +4479,17 @@
     "Rewards": [
       {
         "ThingId": 2001002,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 2000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -4499,17 +4499,17 @@
     "Rewards": [
       {
         "ThingId": 2001003,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 2000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -4519,17 +4519,17 @@
     "Rewards": [
       {
         "ThingId": 2001004,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 2000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -4539,17 +4539,17 @@
     "Rewards": [
       {
         "ThingId": 2001005,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -4559,17 +4559,17 @@
     "Rewards": [
       {
         "ThingId": 2001006,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -4579,17 +4579,17 @@
     "Rewards": [
       {
         "ThingId": 2001007,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -4599,17 +4599,17 @@
     "Rewards": [
       {
         "ThingId": 2001008,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -4619,17 +4619,17 @@
     "Rewards": [
       {
         "ThingId": 2001009,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1200
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -4639,17 +4639,17 @@
     "Rewards": [
       {
         "ThingId": 2001010,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -4659,17 +4659,17 @@
     "Rewards": [
       {
         "ThingId": 2001011,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -4679,17 +4679,17 @@
     "Rewards": [
       {
         "ThingId": 2001012,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -4699,17 +4699,17 @@
     "Rewards": [
       {
         "ThingId": 2001013,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -4719,17 +4719,17 @@
     "Rewards": [
       {
         "ThingId": 2001014,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 750
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 80
       }
     ]
@@ -4739,17 +4739,17 @@
     "Rewards": [
       {
         "ThingId": 2001015,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 60
       }
     ]
@@ -4759,17 +4759,17 @@
     "Rewards": [
       {
         "ThingId": 2001016,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 60
       }
     ]
@@ -4779,17 +4779,17 @@
     "Rewards": [
       {
         "ThingId": 2001017,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 60
       }
     ]
@@ -4799,17 +4799,17 @@
     "Rewards": [
       {
         "ThingId": 2001018,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 60
       }
     ]
@@ -4819,17 +4819,17 @@
     "Rewards": [
       {
         "ThingId": 2001019,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 400
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 40
       }
     ]
@@ -4839,17 +4839,17 @@
     "Rewards": [
       {
         "ThingId": 2001020,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 300
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 20
       }
     ]
@@ -4859,17 +4859,17 @@
     "Rewards": [
       {
         "ThingId": 2001021,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 300
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 20
       }
     ]
@@ -4879,17 +4879,17 @@
     "Rewards": [
       {
         "ThingId": 2001022,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 300
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 20
       }
     ]
@@ -4899,17 +4899,17 @@
     "Rewards": [
       {
         "ThingId": 2001023,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 300
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 20
       }
     ]
@@ -4919,12 +4919,12 @@
     "Rewards": [
       {
         "ThingId": 2001024,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 250
       }
     ]
@@ -4934,7 +4934,7 @@
     "Rewards": [
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 200
       }
     ]
@@ -4944,7 +4944,7 @@
     "Rewards": [
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 100
       }
     ]
@@ -4954,17 +4954,17 @@
     "Rewards": [
       {
         "ThingId": 2001101,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 2000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -4974,17 +4974,17 @@
     "Rewards": [
       {
         "ThingId": 2001102,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 2000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -4994,17 +4994,17 @@
     "Rewards": [
       {
         "ThingId": 2001103,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 2000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -5014,17 +5014,17 @@
     "Rewards": [
       {
         "ThingId": 2001104,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 2000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -5034,17 +5034,17 @@
     "Rewards": [
       {
         "ThingId": 2001105,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -5054,17 +5054,17 @@
     "Rewards": [
       {
         "ThingId": 2001106,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -5074,17 +5074,17 @@
     "Rewards": [
       {
         "ThingId": 2001107,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -5094,17 +5094,17 @@
     "Rewards": [
       {
         "ThingId": 2001108,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -5114,17 +5114,17 @@
     "Rewards": [
       {
         "ThingId": 2001109,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1200
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -5134,17 +5134,17 @@
     "Rewards": [
       {
         "ThingId": 2001110,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -5154,17 +5154,17 @@
     "Rewards": [
       {
         "ThingId": 2001111,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -5174,17 +5174,17 @@
     "Rewards": [
       {
         "ThingId": 2001112,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -5194,17 +5194,17 @@
     "Rewards": [
       {
         "ThingId": 2001113,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -5214,17 +5214,17 @@
     "Rewards": [
       {
         "ThingId": 2001114,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 750
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 80
       }
     ]
@@ -5234,17 +5234,17 @@
     "Rewards": [
       {
         "ThingId": 2001115,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 60
       }
     ]
@@ -5254,17 +5254,17 @@
     "Rewards": [
       {
         "ThingId": 2001116,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 60
       }
     ]
@@ -5274,17 +5274,17 @@
     "Rewards": [
       {
         "ThingId": 2001117,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 60
       }
     ]
@@ -5294,17 +5294,17 @@
     "Rewards": [
       {
         "ThingId": 2001118,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 60
       }
     ]
@@ -5314,17 +5314,17 @@
     "Rewards": [
       {
         "ThingId": 2001119,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 400
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 40
       }
     ]
@@ -5334,17 +5334,17 @@
     "Rewards": [
       {
         "ThingId": 2001120,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 300
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 20
       }
     ]
@@ -5354,17 +5354,17 @@
     "Rewards": [
       {
         "ThingId": 2001121,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 300
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 20
       }
     ]
@@ -5374,17 +5374,17 @@
     "Rewards": [
       {
         "ThingId": 2001122,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 300
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 20
       }
     ]
@@ -5394,17 +5394,17 @@
     "Rewards": [
       {
         "ThingId": 2001123,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 300
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 20
       }
     ]
@@ -5414,12 +5414,12 @@
     "Rewards": [
       {
         "ThingId": 2001124,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 250
       }
     ]
@@ -5429,7 +5429,7 @@
     "Rewards": [
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 200
       }
     ]
@@ -5439,7 +5439,7 @@
     "Rewards": [
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 100
       }
     ]
@@ -5449,17 +5449,17 @@
     "Rewards": [
       {
         "ThingId": 2001201,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 2000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -5469,17 +5469,17 @@
     "Rewards": [
       {
         "ThingId": 2001202,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 2000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -5489,17 +5489,17 @@
     "Rewards": [
       {
         "ThingId": 2001203,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 2000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -5509,17 +5509,17 @@
     "Rewards": [
       {
         "ThingId": 2001204,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 2000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -5529,17 +5529,17 @@
     "Rewards": [
       {
         "ThingId": 2001205,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -5549,17 +5549,17 @@
     "Rewards": [
       {
         "ThingId": 2001206,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -5569,17 +5569,17 @@
     "Rewards": [
       {
         "ThingId": 2001207,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -5589,17 +5589,17 @@
     "Rewards": [
       {
         "ThingId": 2001208,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -5609,17 +5609,17 @@
     "Rewards": [
       {
         "ThingId": 2001209,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1200
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -5629,17 +5629,17 @@
     "Rewards": [
       {
         "ThingId": 2001210,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -5649,17 +5649,17 @@
     "Rewards": [
       {
         "ThingId": 2001211,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -5669,17 +5669,17 @@
     "Rewards": [
       {
         "ThingId": 2001212,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -5689,17 +5689,17 @@
     "Rewards": [
       {
         "ThingId": 2001213,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1000
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -5709,17 +5709,17 @@
     "Rewards": [
       {
         "ThingId": 2001214,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 750
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 80
       }
     ]
@@ -5729,17 +5729,17 @@
     "Rewards": [
       {
         "ThingId": 2001215,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 60
       }
     ]
@@ -5749,17 +5749,17 @@
     "Rewards": [
       {
         "ThingId": 2001216,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 60
       }
     ]
@@ -5769,17 +5769,17 @@
     "Rewards": [
       {
         "ThingId": 2001217,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 60
       }
     ]
@@ -5789,17 +5789,17 @@
     "Rewards": [
       {
         "ThingId": 2001218,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 500
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 60
       }
     ]
@@ -5809,17 +5809,17 @@
     "Rewards": [
       {
         "ThingId": 2001219,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 400
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 40
       }
     ]
@@ -5829,17 +5829,17 @@
     "Rewards": [
       {
         "ThingId": 2001220,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 300
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 20
       }
     ]
@@ -5849,17 +5849,17 @@
     "Rewards": [
       {
         "ThingId": 2001221,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 300
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 20
       }
     ]
@@ -5869,17 +5869,17 @@
     "Rewards": [
       {
         "ThingId": 2001222,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 300
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 20
       }
     ]
@@ -5889,17 +5889,17 @@
     "Rewards": [
       {
         "ThingId": 2001223,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 300
       },
       {
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 20
       }
     ]
@@ -5909,12 +5909,12 @@
     "Rewards": [
       {
         "ThingId": 2001224,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 250
       }
     ]
@@ -5924,7 +5924,7 @@
     "Rewards": [
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 200
       }
     ]
@@ -5934,7 +5934,7 @@
     "Rewards": [
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 100
       }
     ]

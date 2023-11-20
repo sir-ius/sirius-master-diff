@@ -4,27 +4,27 @@
     "Rewards": [
       {
         "ThingId": 130011,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 50
       },
       {
         "ThingId": 144001,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 50
       },
       {
         "ThingId": 110002,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 1
       },
       {
         "ThingId": 130041,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       },
       {
         "ThingId": 130042,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 50
       }
     ]
@@ -34,22 +34,22 @@
     "Rewards": [
       {
         "ThingId": 130011,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 50
       },
       {
         "ThingId": 144001,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 50
       },
       {
         "ThingId": 110002,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 1
       },
       {
         "ThingId": 130061,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -59,22 +59,22 @@
     "Rewards": [
       {
         "ThingId": 130011,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 50
       },
       {
         "ThingId": 144001,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 50
       },
       {
         "ThingId": 110002,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 1
       },
       {
         "ThingId": 130062,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -84,22 +84,22 @@
     "Rewards": [
       {
         "ThingId": 130011,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 50
       },
       {
         "ThingId": 144001,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 50
       },
       {
         "ThingId": 110002,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 1
       },
       {
         "ThingId": 130063,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -109,27 +109,27 @@
     "Rewards": [
       {
         "ThingId": 130011,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 100
       },
       {
         "ThingId": 130051,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 10
       },
       {
         "ThingId": 510003,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 1
       },
       {
         "ThingId": 144001,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 50
       }
     ]
@@ -139,22 +139,22 @@
     "Rewards": [
       {
         "ThingId": 130011,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 50
       },
       {
         "ThingId": 110002,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 1
       },
       {
         "ThingId": 130041,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       },
       {
         "ThingId": 130042,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 50
       }
     ]
@@ -164,17 +164,17 @@
     "Rewards": [
       {
         "ThingId": 130011,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 50
       },
       {
         "ThingId": 110002,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 1
       },
       {
         "ThingId": 130061,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -184,17 +184,17 @@
     "Rewards": [
       {
         "ThingId": 130011,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 50
       },
       {
         "ThingId": 110002,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 1
       },
       {
         "ThingId": 130062,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -204,17 +204,17 @@
     "Rewards": [
       {
         "ThingId": 130011,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 50
       },
       {
         "ThingId": 110002,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 1
       },
       {
         "ThingId": 130063,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -224,22 +224,22 @@
     "Rewards": [
       {
         "ThingId": 130011,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 100
       },
       {
         "ThingId": 130051,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 10
       },
       {
         "ThingId": 510003,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 1
       }
     ]
@@ -249,17 +249,17 @@
     "Rewards": [
       {
         "ThingId": 130011,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       },
       {
         "ThingId": 610001,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 1
       },
       {
         "ThingId": 140000,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 10
       }
     ]
@@ -269,27 +269,27 @@
     "Rewards": [
       {
         "ThingId": 130011,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 200
       },
       {
         "ThingId": 610001,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 1
       },
       {
         "ThingId": 220101,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 1
       },
       {
         "ThingId": 510004,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 1
       },
       {
         "ThingId": 130064,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -299,27 +299,27 @@
     "Rewards": [
       {
         "ThingId": 130011,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 200
       },
       {
         "ThingId": 610001,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 1
       },
       {
         "ThingId": 221101,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 1
       },
       {
         "ThingId": 510004,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 1
       },
       {
         "ThingId": 130064,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -329,22 +329,22 @@
     "Rewards": [
       {
         "ThingId": 130011,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 200
       },
       {
         "ThingId": 610001,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 1
       },
       {
         "ThingId": 510004,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 2
       },
       {
         "ThingId": 130064,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]
@@ -354,17 +354,17 @@
     "Rewards": [
       {
         "ThingId": 130012,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 50
       },
       {
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 200
       },
       {
         "ThingId": 140000,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ]

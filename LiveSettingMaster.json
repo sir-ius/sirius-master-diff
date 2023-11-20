@@ -2,31 +2,31 @@
   {
     "Id": 1,
     "Name": "公演",
-    "LiveType": 1,
+    "LiveType": "Normal",
     "LiveDropFrameGroupMasterId": 1
   },
   {
     "Id": 2,
     "Name": "稽古",
-    "LiveType": 3,
+    "LiveType": "Lesson",
     "LiveDropFrameGroupMasterId": 2
   },
   {
     "Id": 11,
     "Name": "シリウス劇場",
-    "LiveType": 2,
+    "LiveType": "Multi",
     "LiveDropFrameGroupMasterId": 11
   },
   {
     "Id": 12,
     "Name": "Edenホール",
-    "LiveType": 2,
+    "LiveType": "Multi",
     "LiveDropFrameGroupMasterId": 12
   },
   {
     "Id": 14,
     "Name": "電姫空間",
-    "LiveType": 2,
+    "LiveType": "Multi",
     "LiveDropFrameGroupMasterId": 14
   }
 ]

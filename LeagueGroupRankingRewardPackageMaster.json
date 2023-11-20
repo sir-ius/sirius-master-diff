@@ -4,11 +4,11 @@
     "Rewards": [
       {
         "ThingId": 130011,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 300
       }
     ],
-    "ClassType": 1,
+    "ClassType": "Rookie",
     "MinRank": 1,
     "MaxRank": 1,
     "RewardTitle": null
@@ -18,11 +18,11 @@
     "Rewards": [
       {
         "ThingId": 130011,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 250
       }
     ],
-    "ClassType": 1,
+    "ClassType": "Rookie",
     "MinRank": 2,
     "MaxRank": 2,
     "RewardTitle": null
@@ -32,11 +32,11 @@
     "Rewards": [
       {
         "ThingId": 130011,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 200
       }
     ],
-    "ClassType": 1,
+    "ClassType": "Rookie",
     "MinRank": 3,
     "MaxRank": 3,
     "RewardTitle": null
@@ -46,11 +46,11 @@
     "Rewards": [
       {
         "ThingId": 130011,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 160
       }
     ],
-    "ClassType": 1,
+    "ClassType": "Rookie",
     "MinRank": 5,
     "MaxRank": 4,
     "RewardTitle": null
@@ -60,11 +60,11 @@
     "Rewards": [
       {
         "ThingId": 130011,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 120
       }
     ],
-    "ClassType": 1,
+    "ClassType": "Rookie",
     "MinRank": 10,
     "MaxRank": 6,
     "RewardTitle": null
@@ -74,11 +74,11 @@
     "Rewards": [
       {
         "ThingId": 130011,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 80
       }
     ],
-    "ClassType": 1,
+    "ClassType": "Rookie",
     "MinRank": 30,
     "MaxRank": 11,
     "RewardTitle": null
@@ -88,11 +88,11 @@
     "Rewards": [
       {
         "ThingId": 130011,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 50
       }
     ],
-    "ClassType": 1,
+    "ClassType": "Rookie",
     "MinRank": 50,
     "MaxRank": 31,
     "RewardTitle": null
@@ -102,11 +102,11 @@
     "Rewards": [
       {
         "ThingId": 130011,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 30
       }
     ],
-    "ClassType": 1,
+    "ClassType": "Rookie",
     "MinRank": 999,
     "MaxRank": 51,
     "RewardTitle": null
@@ -116,11 +116,11 @@
     "Rewards": [
       {
         "ThingId": 130011,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 350
       }
     ],
-    "ClassType": 2,
+    "ClassType": "Hope",
     "MinRank": 1,
     "MaxRank": 1,
     "RewardTitle": null
@@ -130,11 +130,11 @@
     "Rewards": [
       {
         "ThingId": 130011,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 300
       }
     ],
-    "ClassType": 2,
+    "ClassType": "Hope",
     "MinRank": 2,
     "MaxRank": 2,
     "RewardTitle": null
@@ -144,11 +144,11 @@
     "Rewards": [
       {
         "ThingId": 130011,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 250
       }
     ],
-    "ClassType": 2,
+    "ClassType": "Hope",
     "MinRank": 3,
     "MaxRank": 3,
     "RewardTitle": null
@@ -158,11 +158,11 @@
     "Rewards": [
       {
         "ThingId": 130011,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 200
       }
     ],
-    "ClassType": 2,
+    "ClassType": "Hope",
     "MinRank": 5,
     "MaxRank": 4,
     "RewardTitle": null
@@ -172,11 +172,11 @@
     "Rewards": [
       {
         "ThingId": 130011,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 160
       }
     ],
-    "ClassType": 2,
+    "ClassType": "Hope",
     "MinRank": 10,
     "MaxRank": 6,
     "RewardTitle": null
@@ -186,11 +186,11 @@
     "Rewards": [
       {
         "ThingId": 130011,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 120
       }
     ],
-    "ClassType": 2,
+    "ClassType": "Hope",
     "MinRank": 30,
     "MaxRank": 11,
     "RewardTitle": null
@@ -200,11 +200,11 @@
     "Rewards": [
       {
         "ThingId": 130011,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 80
       }
     ],
-    "ClassType": 2,
+    "ClassType": "Hope",
     "MinRank": 50,
     "MaxRank": 31,
     "RewardTitle": null
@@ -214,11 +214,11 @@
     "Rewards": [
       {
         "ThingId": 130011,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 50
       }
     ],
-    "ClassType": 2,
+    "ClassType": "Hope",
     "MinRank": 999,
     "MaxRank": 51,
     "RewardTitle": null
@@ -228,11 +228,11 @@
     "Rewards": [
       {
         "ThingId": 130011,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 400
       }
     ],
-    "ClassType": 3,
+    "ClassType": "Cast",
     "MinRank": 1,
     "MaxRank": 1,
     "RewardTitle": null
@@ -242,11 +242,11 @@
     "Rewards": [
       {
         "ThingId": 130011,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 350
       }
     ],
-    "ClassType": 3,
+    "ClassType": "Cast",
     "MinRank": 2,
     "MaxRank": 2,
     "RewardTitle": null
@@ -256,11 +256,11 @@
     "Rewards": [
       {
         "ThingId": 130011,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 300
       }
     ],
-    "ClassType": 3,
+    "ClassType": "Cast",
     "MinRank": 3,
     "MaxRank": 3,
     "RewardTitle": null
@@ -270,11 +270,11 @@
     "Rewards": [
       {
         "ThingId": 130011,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 250
       }
     ],
-    "ClassType": 3,
+    "ClassType": "Cast",
     "MinRank": 5,
     "MaxRank": 4,
     "RewardTitle": null
@@ -284,11 +284,11 @@
     "Rewards": [
       {
         "ThingId": 130011,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 200
       }
     ],
-    "ClassType": 3,
+    "ClassType": "Cast",
     "MinRank": 10,
     "MaxRank": 6,
     "RewardTitle": null
@@ -298,11 +298,11 @@
     "Rewards": [
       {
         "ThingId": 130011,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 160
       }
     ],
-    "ClassType": 3,
+    "ClassType": "Cast",
     "MinRank": 30,
     "MaxRank": 11,
     "RewardTitle": null
@@ -312,11 +312,11 @@
     "Rewards": [
       {
         "ThingId": 130011,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 120
       }
     ],
-    "ClassType": 3,
+    "ClassType": "Cast",
     "MinRank": 50,
     "MaxRank": 31,
     "RewardTitle": null
@@ -326,11 +326,11 @@
     "Rewards": [
       {
         "ThingId": 130011,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 80
       }
     ],
-    "ClassType": 3,
+    "ClassType": "Cast",
     "MinRank": 999,
     "MaxRank": 51,
     "RewardTitle": null
@@ -340,11 +340,11 @@
     "Rewards": [
       {
         "ThingId": 130011,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 450
       }
     ],
-    "ClassType": 4,
+    "ClassType": "Elite",
     "MinRank": 1,
     "MaxRank": 1,
     "RewardTitle": null
@@ -354,11 +354,11 @@
     "Rewards": [
       {
         "ThingId": 130011,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 400
       }
     ],
-    "ClassType": 4,
+    "ClassType": "Elite",
     "MinRank": 2,
     "MaxRank": 2,
     "RewardTitle": null
@@ -368,11 +368,11 @@
     "Rewards": [
       {
         "ThingId": 130011,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 350
       }
     ],
-    "ClassType": 4,
+    "ClassType": "Elite",
     "MinRank": 3,
     "MaxRank": 3,
     "RewardTitle": null
@@ -382,11 +382,11 @@
     "Rewards": [
       {
         "ThingId": 130011,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 300
       }
     ],
-    "ClassType": 4,
+    "ClassType": "Elite",
     "MinRank": 5,
     "MaxRank": 4,
     "RewardTitle": null
@@ -396,11 +396,11 @@
     "Rewards": [
       {
         "ThingId": 130011,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 250
       }
     ],
-    "ClassType": 4,
+    "ClassType": "Elite",
     "MinRank": 10,
     "MaxRank": 6,
     "RewardTitle": null
@@ -410,11 +410,11 @@
     "Rewards": [
       {
         "ThingId": 130011,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 200
       }
     ],
-    "ClassType": 4,
+    "ClassType": "Elite",
     "MinRank": 30,
     "MaxRank": 11,
     "RewardTitle": null
@@ -424,11 +424,11 @@
     "Rewards": [
       {
         "ThingId": 130011,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 160
       }
     ],
-    "ClassType": 4,
+    "ClassType": "Elite",
     "MinRank": 50,
     "MaxRank": 31,
     "RewardTitle": null
@@ -438,11 +438,11 @@
     "Rewards": [
       {
         "ThingId": 130011,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 120
       }
     ],
-    "ClassType": 4,
+    "ClassType": "Elite",
     "MinRank": 999,
     "MaxRank": 51,
     "RewardTitle": null
@@ -452,11 +452,11 @@
     "Rewards": [
       {
         "ThingId": 130011,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 500
       }
     ],
-    "ClassType": 5,
+    "ClassType": "Veteran",
     "MinRank": 1,
     "MaxRank": 1,
     "RewardTitle": null
@@ -466,11 +466,11 @@
     "Rewards": [
       {
         "ThingId": 130011,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 450
       }
     ],
-    "ClassType": 5,
+    "ClassType": "Veteran",
     "MinRank": 2,
     "MaxRank": 2,
     "RewardTitle": null
@@ -480,11 +480,11 @@
     "Rewards": [
       {
         "ThingId": 130011,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 400
       }
     ],
-    "ClassType": 5,
+    "ClassType": "Veteran",
     "MinRank": 3,
     "MaxRank": 3,
     "RewardTitle": null
@@ -494,11 +494,11 @@
     "Rewards": [
       {
         "ThingId": 130011,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 350
       }
     ],
-    "ClassType": 5,
+    "ClassType": "Veteran",
     "MinRank": 5,
     "MaxRank": 4,
     "RewardTitle": null
@@ -508,11 +508,11 @@
     "Rewards": [
       {
         "ThingId": 130011,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 300
       }
     ],
-    "ClassType": 5,
+    "ClassType": "Veteran",
     "MinRank": 10,
     "MaxRank": 6,
     "RewardTitle": null
@@ -522,11 +522,11 @@
     "Rewards": [
       {
         "ThingId": 130011,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 250
       }
     ],
-    "ClassType": 5,
+    "ClassType": "Veteran",
     "MinRank": 30,
     "MaxRank": 11,
     "RewardTitle": null
@@ -536,11 +536,11 @@
     "Rewards": [
       {
         "ThingId": 130011,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 200
       }
     ],
-    "ClassType": 5,
+    "ClassType": "Veteran",
     "MinRank": 50,
     "MaxRank": 31,
     "RewardTitle": null
@@ -550,11 +550,11 @@
     "Rewards": [
       {
         "ThingId": 130011,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 160
       }
     ],
-    "ClassType": 5,
+    "ClassType": "Veteran",
     "MinRank": 999,
     "MaxRank": 51,
     "RewardTitle": null
@@ -564,11 +564,11 @@
     "Rewards": [
       {
         "ThingId": 130011,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 700
       }
     ],
-    "ClassType": 6,
+    "ClassType": "Star",
     "MinRank": 1,
     "MaxRank": 1,
     "RewardTitle": null
@@ -578,11 +578,11 @@
     "Rewards": [
       {
         "ThingId": 130011,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 600
       }
     ],
-    "ClassType": 6,
+    "ClassType": "Star",
     "MinRank": 2,
     "MaxRank": 2,
     "RewardTitle": null
@@ -592,11 +592,11 @@
     "Rewards": [
       {
         "ThingId": 130011,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 550
       }
     ],
-    "ClassType": 6,
+    "ClassType": "Star",
     "MinRank": 3,
     "MaxRank": 3,
     "RewardTitle": null
@@ -606,11 +606,11 @@
     "Rewards": [
       {
         "ThingId": 130011,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 500
       }
     ],
-    "ClassType": 6,
+    "ClassType": "Star",
     "MinRank": 5,
     "MaxRank": 4,
     "RewardTitle": null
@@ -620,11 +620,11 @@
     "Rewards": [
       {
         "ThingId": 130011,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 400
       }
     ],
-    "ClassType": 6,
+    "ClassType": "Star",
     "MinRank": 10,
     "MaxRank": 6,
     "RewardTitle": null
@@ -634,11 +634,11 @@
     "Rewards": [
       {
         "ThingId": 130011,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 350
       }
     ],
-    "ClassType": 6,
+    "ClassType": "Star",
     "MinRank": 30,
     "MaxRank": 11,
     "RewardTitle": null
@@ -648,11 +648,11 @@
     "Rewards": [
       {
         "ThingId": 130011,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 300
       }
     ],
-    "ClassType": 6,
+    "ClassType": "Star",
     "MinRank": 50,
     "MaxRank": 31,
     "RewardTitle": null
@@ -662,11 +662,11 @@
     "Rewards": [
       {
         "ThingId": 130011,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 250
       }
     ],
-    "ClassType": 6,
+    "ClassType": "Star",
     "MinRank": 999,
     "MaxRank": 51,
     "RewardTitle": null
@@ -676,11 +676,11 @@
     "Rewards": [
       {
         "ThingId": 130011,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 1000
       }
     ],
-    "ClassType": 7,
+    "ClassType": "DaiStar",
     "MinRank": 1,
     "MaxRank": 1,
     "RewardTitle": null
@@ -690,11 +690,11 @@
     "Rewards": [
       {
         "ThingId": 130011,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 900
       }
     ],
-    "ClassType": 7,
+    "ClassType": "DaiStar",
     "MinRank": 2,
     "MaxRank": 2,
     "RewardTitle": null
@@ -704,11 +704,11 @@
     "Rewards": [
       {
         "ThingId": 130011,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 800
       }
     ],
-    "ClassType": 7,
+    "ClassType": "DaiStar",
     "MinRank": 3,
     "MaxRank": 3,
     "RewardTitle": null
@@ -718,11 +718,11 @@
     "Rewards": [
       {
         "ThingId": 130011,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 700
       }
     ],
-    "ClassType": 7,
+    "ClassType": "DaiStar",
     "MinRank": 5,
     "MaxRank": 4,
     "RewardTitle": null
@@ -732,11 +732,11 @@
     "Rewards": [
       {
         "ThingId": 130011,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 600
       }
     ],
-    "ClassType": 7,
+    "ClassType": "DaiStar",
     "MinRank": 10,
     "MaxRank": 6,
     "RewardTitle": null
@@ -746,11 +746,11 @@
     "Rewards": [
       {
         "ThingId": 130011,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 550
       }
     ],
-    "ClassType": 7,
+    "ClassType": "DaiStar",
     "MinRank": 30,
     "MaxRank": 11,
     "RewardTitle": null
@@ -760,11 +760,11 @@
     "Rewards": [
       {
         "ThingId": 130011,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 500
       }
     ],
-    "ClassType": 7,
+    "ClassType": "DaiStar",
     "MinRank": 50,
     "MaxRank": 31,
     "RewardTitle": null
@@ -774,11 +774,11 @@
     "Rewards": [
       {
         "ThingId": 130011,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 400
       }
     ],
-    "ClassType": 7,
+    "ClassType": "DaiStar",
     "MinRank": 999,
     "MaxRank": 51,
     "RewardTitle": null

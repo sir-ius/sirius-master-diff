@@ -1,7 +1,7 @@
 [
   {
     "Id": 10000,
-    "Type": 1,
+    "Type": "Main",
     "CompanyMasterId": 999,
     "EventMasterId": null,
     "ChapterOrder": 0,
@@ -10,7 +10,7 @@
   },
   {
     "Id": 10101,
-    "Type": 1,
+    "Type": "Main",
     "CompanyMasterId": 1,
     "EventMasterId": null,
     "ChapterOrder": 1,
@@ -19,7 +19,7 @@
   },
   {
     "Id": 10102,
-    "Type": 1,
+    "Type": "Main",
     "CompanyMasterId": 1,
     "EventMasterId": null,
     "ChapterOrder": 2,
@@ -28,7 +28,7 @@
   },
   {
     "Id": 10201,
-    "Type": 1,
+    "Type": "Main",
     "CompanyMasterId": 2,
     "EventMasterId": null,
     "ChapterOrder": 1,
@@ -37,7 +37,7 @@
   },
   {
     "Id": 10301,
-    "Type": 1,
+    "Type": "Main",
     "CompanyMasterId": 3,
     "EventMasterId": null,
     "ChapterOrder": 1,
@@ -46,7 +46,7 @@
   },
   {
     "Id": 10302,
-    "Type": 1,
+    "Type": "Main",
     "CompanyMasterId": 3,
     "EventMasterId": null,
     "ChapterOrder": 2,
@@ -55,7 +55,7 @@
   },
   {
     "Id": 10401,
-    "Type": 1,
+    "Type": "Main",
     "CompanyMasterId": 4,
     "EventMasterId": null,
     "ChapterOrder": 1,
@@ -64,7 +64,7 @@
   },
   {
     "Id": 20001,
-    "Type": 2,
+    "Type": "Event",
     "CompanyMasterId": null,
     "EventMasterId": 20001,
     "ChapterOrder": 0,
@@ -73,7 +73,7 @@
   },
   {
     "Id": 20002,
-    "Type": 2,
+    "Type": "Event",
     "CompanyMasterId": null,
     "EventMasterId": 20002,
     "ChapterOrder": 0,
@@ -82,7 +82,7 @@
   },
   {
     "Id": 20003,
-    "Type": 2,
+    "Type": "Event",
     "CompanyMasterId": null,
     "EventMasterId": 20003,
     "ChapterOrder": 0,
@@ -91,7 +91,7 @@
   },
   {
     "Id": 20004,
-    "Type": 2,
+    "Type": "Event",
     "CompanyMasterId": null,
     "EventMasterId": 20004,
     "ChapterOrder": 0,
@@ -100,7 +100,7 @@
   },
   {
     "Id": 20005,
-    "Type": 2,
+    "Type": "Event",
     "CompanyMasterId": null,
     "EventMasterId": 20005,
     "ChapterOrder": 0,
@@ -109,7 +109,7 @@
   },
   {
     "Id": 20006,
-    "Type": 2,
+    "Type": "Event",
     "CompanyMasterId": null,
     "EventMasterId": 20006,
     "ChapterOrder": 0,
@@ -118,7 +118,7 @@
   },
   {
     "Id": 20007,
-    "Type": 2,
+    "Type": "Event",
     "CompanyMasterId": null,
     "EventMasterId": 20007,
     "ChapterOrder": 0,
@@ -127,7 +127,7 @@
   },
   {
     "Id": 20008,
-    "Type": 2,
+    "Type": "Event",
     "CompanyMasterId": null,
     "EventMasterId": 20008,
     "ChapterOrder": 0,
@@ -136,7 +136,7 @@
   },
   {
     "Id": 20009,
-    "Type": 2,
+    "Type": "Event",
     "CompanyMasterId": null,
     "EventMasterId": 20009,
     "ChapterOrder": 0,
@@ -145,7 +145,7 @@
   },
   {
     "Id": 20010,
-    "Type": 2,
+    "Type": "Event",
     "CompanyMasterId": null,
     "EventMasterId": 20010,
     "ChapterOrder": 0,
@@ -154,7 +154,7 @@
   },
   {
     "Id": 20011,
-    "Type": 2,
+    "Type": "Event",
     "CompanyMasterId": null,
     "EventMasterId": 20011,
     "ChapterOrder": 0,
@@ -163,7 +163,7 @@
   },
   {
     "Id": 20012,
-    "Type": 2,
+    "Type": "Event",
     "CompanyMasterId": null,
     "EventMasterId": 20012,
     "ChapterOrder": 0,

@@ -4,7 +4,7 @@
     "Order": 10101,
     "IsDefault": true,
     "CharacterBaseMasterId": 101,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "ここな【よろしくね】"
@@ -14,7 +14,7 @@
     "Order": 10102,
     "IsDefault": false,
     "CharacterBaseMasterId": 101,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "ここな【みんなお疲れさま！】"
@@ -24,7 +24,7 @@
     "Order": 10103,
     "IsDefault": false,
     "CharacterBaseMasterId": 101,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "ここな【大成功だね！】"
@@ -34,7 +34,7 @@
     "Order": 10104,
     "IsDefault": false,
     "CharacterBaseMasterId": 101,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "ここな【ごめんなさい】"
@@ -44,7 +44,7 @@
     "Order": 10105,
     "IsDefault": false,
     "CharacterBaseMasterId": 101,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "ここな【すごい…！】"
@@ -54,7 +54,7 @@
     "Order": 10106,
     "IsDefault": false,
     "CharacterBaseMasterId": 101,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "ここな【いつでもいけるよ！】"
@@ -64,7 +64,7 @@
     "Order": 10191,
     "IsDefault": false,
     "CharacterBaseMasterId": 101,
-    "Type": 2,
+    "Type": "Animation",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "ここな【私が守るよ】"
@@ -74,7 +74,7 @@
     "Order": 10201,
     "IsDefault": true,
     "CharacterBaseMasterId": 102,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "静香【よろしく】"
@@ -84,7 +84,7 @@
     "Order": 10202,
     "IsDefault": false,
     "CharacterBaseMasterId": 102,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "静香【よく頑張ったわね】"
@@ -94,7 +94,7 @@
     "Order": 10203,
     "IsDefault": false,
     "CharacterBaseMasterId": 102,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "静香【私と一緒に行こう】"
@@ -104,7 +104,7 @@
     "Order": 10204,
     "IsDefault": false,
     "CharacterBaseMasterId": 102,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "静香【私たちならできる】"
@@ -114,7 +114,7 @@
     "Order": 10205,
     "IsDefault": false,
     "CharacterBaseMasterId": 102,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "静香【ごくり…】"
@@ -124,7 +124,7 @@
     "Order": 10291,
     "IsDefault": false,
     "CharacterBaseMasterId": 102,
-    "Type": 2,
+    "Type": "Animation",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "静香【そろそろ休んだら？】"
@@ -134,7 +134,7 @@
     "Order": 10301,
     "IsDefault": true,
     "CharacterBaseMasterId": 103,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "カトリナ【…よろしく】"
@@ -144,7 +144,7 @@
     "Order": 10302,
     "IsDefault": false,
     "CharacterBaseMasterId": 103,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "カトリナ【ご…ごめんなさい…】"
@@ -154,7 +154,7 @@
     "Order": 10303,
     "IsDefault": false,
     "CharacterBaseMasterId": 103,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "カトリナ【なんてこと…】"
@@ -164,7 +164,7 @@
     "Order": 10304,
     "IsDefault": false,
     "CharacterBaseMasterId": 103,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "カトリナ【正々堂々と勝負よ！】"
@@ -174,7 +174,7 @@
     "Order": 10305,
     "IsDefault": false,
     "CharacterBaseMasterId": 103,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "カトリナ【はっ？！】"
@@ -184,7 +184,7 @@
     "Order": 10381,
     "IsDefault": false,
     "CharacterBaseMasterId": 103,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "カトリナ【負けてられないわね…】"
@@ -194,7 +194,7 @@
     "Order": 10391,
     "IsDefault": false,
     "CharacterBaseMasterId": 103,
-    "Type": 2,
+    "Type": "Animation",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "カトリナ【超集中！】"
@@ -204,7 +204,7 @@
     "Order": 10401,
     "IsDefault": true,
     "CharacterBaseMasterId": 104,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "八恵【よろしくお願いします】"
@@ -214,7 +214,7 @@
     "Order": 10402,
     "IsDefault": false,
     "CharacterBaseMasterId": 104,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "八恵【お疲れさまでした】"
@@ -224,7 +224,7 @@
     "Order": 10403,
     "IsDefault": false,
     "CharacterBaseMasterId": 104,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "八恵【素晴らしいですね】"
@@ -234,7 +234,7 @@
     "Order": 10404,
     "IsDefault": false,
     "CharacterBaseMasterId": 104,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "八恵【気にしないでください】"
@@ -244,7 +244,7 @@
     "Order": 10405,
     "IsDefault": false,
     "CharacterBaseMasterId": 104,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "八恵【あれ？】"
@@ -254,7 +254,7 @@
     "Order": 10406,
     "IsDefault": false,
     "CharacterBaseMasterId": 104,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "八恵【私がついてます】"
@@ -264,7 +264,7 @@
     "Order": 10491,
     "IsDefault": false,
     "CharacterBaseMasterId": 104,
-    "Type": 2,
+    "Type": "Animation",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "八恵【よしよし】"
@@ -274,7 +274,7 @@
     "Order": 10501,
     "IsDefault": true,
     "CharacterBaseMasterId": 105,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "ぱんだ【よろしくねっ】"
@@ -284,7 +284,7 @@
     "Order": 10502,
     "IsDefault": false,
     "CharacterBaseMasterId": 105,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "ぱんだ【やるじゃん…】"
@@ -294,7 +294,7 @@
     "Order": 10503,
     "IsDefault": false,
     "CharacterBaseMasterId": 105,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "ぱんだ【準備バッチリ！】"
@@ -304,7 +304,7 @@
     "Order": 10504,
     "IsDefault": false,
     "CharacterBaseMasterId": 105,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "ぱんだ【はぁっ？！】"
@@ -314,7 +314,7 @@
     "Order": 10505,
     "IsDefault": false,
     "CharacterBaseMasterId": 105,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "ぱんだ【ごめん！】"
@@ -324,7 +324,7 @@
     "Order": 10506,
     "IsDefault": false,
     "CharacterBaseMasterId": 105,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "ぱんだ【ぱんだの可愛さ見せてやんよ！】"
@@ -334,7 +334,7 @@
     "Order": 10581,
     "IsDefault": false,
     "CharacterBaseMasterId": 105,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "ぱんだ【ぱんだのでばんだ！】"
@@ -344,7 +344,7 @@
     "Order": 10591,
     "IsDefault": false,
     "CharacterBaseMasterId": 105,
-    "Type": 2,
+    "Type": "Animation",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "ぱんだ【今日もかわいいな！】"
@@ -354,7 +354,7 @@
     "Order": 10601,
     "IsDefault": true,
     "CharacterBaseMasterId": 106,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "知冴【よろしくね】"
@@ -364,7 +364,7 @@
     "Order": 10602,
     "IsDefault": false,
     "CharacterBaseMasterId": 106,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "知冴【キュンときたね】"
@@ -374,7 +374,7 @@
     "Order": 10603,
     "IsDefault": false,
     "CharacterBaseMasterId": 106,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "知冴【お見事】"
@@ -384,7 +384,7 @@
     "Order": 10604,
     "IsDefault": false,
     "CharacterBaseMasterId": 106,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "知冴【すごいね】"
@@ -394,7 +394,7 @@
     "Order": 10605,
     "IsDefault": false,
     "CharacterBaseMasterId": 106,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "知冴【？】"
@@ -404,7 +404,7 @@
     "Order": 10691,
     "IsDefault": false,
     "CharacterBaseMasterId": 106,
-    "Type": 2,
+    "Type": "Animation",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "知冴【大　吉】"
@@ -414,7 +414,7 @@
     "Order": 20101,
     "IsDefault": true,
     "CharacterBaseMasterId": 201,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "初魅【よろしくな】"
@@ -424,7 +424,7 @@
     "Order": 20102,
     "IsDefault": false,
     "CharacterBaseMasterId": 201,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "初魅【ざっとこんなもんか】"
@@ -434,7 +434,7 @@
     "Order": 20103,
     "IsDefault": false,
     "CharacterBaseMasterId": 201,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "初魅【私と共に来い】"
@@ -444,7 +444,7 @@
     "Order": 20104,
     "IsDefault": false,
     "CharacterBaseMasterId": 201,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "初魅【なっ…！】"
@@ -454,7 +454,7 @@
     "Order": 20105,
     "IsDefault": false,
     "CharacterBaseMasterId": 201,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "初魅【ダメだったか…】"
@@ -464,7 +464,7 @@
     "Order": 20191,
     "IsDefault": false,
     "CharacterBaseMasterId": 201,
-    "Type": 2,
+    "Type": "Animation",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "初魅【フフ…】"
@@ -474,7 +474,7 @@
     "Order": 20201,
     "IsDefault": true,
     "CharacterBaseMasterId": 202,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "大黒【よろしく】"
@@ -484,7 +484,7 @@
     "Order": 20202,
     "IsDefault": false,
     "CharacterBaseMasterId": 202,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "大黒【フフフ…】"
@@ -494,7 +494,7 @@
     "Order": 20203,
     "IsDefault": false,
     "CharacterBaseMasterId": 202,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "大黒【今に見ていなさい…！】"
@@ -504,7 +504,7 @@
     "Order": 20204,
     "IsDefault": false,
     "CharacterBaseMasterId": 202,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "大黒【もう１回よ…！】"
@@ -514,7 +514,7 @@
     "Order": 20205,
     "IsDefault": false,
     "CharacterBaseMasterId": 202,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "大黒【私だって…！】"
@@ -524,7 +524,7 @@
     "Order": 20206,
     "IsDefault": false,
     "CharacterBaseMasterId": 202,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "大黒【許せないわね…】"
@@ -534,7 +534,7 @@
     "Order": 20281,
     "IsDefault": false,
     "CharacterBaseMasterId": 202,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "大黒【あ…ありがとう…】"
@@ -544,7 +544,7 @@
     "Order": 20291,
     "IsDefault": false,
     "CharacterBaseMasterId": 202,
-    "Type": 2,
+    "Type": "Animation",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "大黒【じー…】"
@@ -554,7 +554,7 @@
     "Order": 20301,
     "IsDefault": true,
     "CharacterBaseMasterId": 203,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "仁花子【よろしくね！】"
@@ -564,7 +564,7 @@
     "Order": 20302,
     "IsDefault": false,
     "CharacterBaseMasterId": 203,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "仁花子【良かったよ】"
@@ -574,7 +574,7 @@
     "Order": 20303,
     "IsDefault": false,
     "CharacterBaseMasterId": 203,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "仁花子【さすが！】"
@@ -584,7 +584,7 @@
     "Order": 20304,
     "IsDefault": false,
     "CharacterBaseMasterId": 203,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "仁花子【そんな！？】"
@@ -594,7 +594,7 @@
     "Order": 20305,
     "IsDefault": false,
     "CharacterBaseMasterId": 203,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "仁花子【ずーん…】"
@@ -604,7 +604,7 @@
     "Order": 20306,
     "IsDefault": false,
     "CharacterBaseMasterId": 203,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "仁花子【私にも教えてください！】"
@@ -614,7 +614,7 @@
     "Order": 20391,
     "IsDefault": false,
     "CharacterBaseMasterId": 203,
-    "Type": 2,
+    "Type": "Animation",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "仁花子【うぅぅ…】"
@@ -624,7 +624,7 @@
     "Order": 20401,
     "IsDefault": true,
     "CharacterBaseMasterId": 204,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "容【よろしく～】"
@@ -634,7 +634,7 @@
     "Order": 20402,
     "IsDefault": false,
     "CharacterBaseMasterId": 204,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "容【またやろうね～！】"
@@ -644,7 +644,7 @@
     "Order": 20403,
     "IsDefault": false,
     "CharacterBaseMasterId": 204,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "容【いけいけー！】"
@@ -654,7 +654,7 @@
     "Order": 20404,
     "IsDefault": false,
     "CharacterBaseMasterId": 204,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "容【しょんぼり…】"
@@ -664,7 +664,7 @@
     "Order": 20405,
     "IsDefault": false,
     "CharacterBaseMasterId": 204,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "容【いっくよー！】"
@@ -674,7 +674,7 @@
     "Order": 20491,
     "IsDefault": false,
     "CharacterBaseMasterId": 204,
-    "Type": 2,
+    "Type": "Animation",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "容【最っ高～！！】"
@@ -684,7 +684,7 @@
     "Order": 20501,
     "IsDefault": true,
     "CharacterBaseMasterId": 205,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "しぐれ【よろしく～】"
@@ -694,7 +694,7 @@
     "Order": 20502,
     "IsDefault": false,
     "CharacterBaseMasterId": 205,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "しぐれ【ふふ～ん♪】"
@@ -704,7 +704,7 @@
     "Order": 20503,
     "IsDefault": false,
     "CharacterBaseMasterId": 205,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "しぐれ【やだやだぁー！】"
@@ -714,7 +714,7 @@
     "Order": 20504,
     "IsDefault": false,
     "CharacterBaseMasterId": 205,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "しぐれ【つ、つかれた…】"
@@ -724,7 +724,7 @@
     "Order": 20505,
     "IsDefault": false,
     "CharacterBaseMasterId": 205,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "しぐれ【ん？】"
@@ -734,7 +734,7 @@
     "Order": 20581,
     "IsDefault": false,
     "CharacterBaseMasterId": 205,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "しぐれ【じゃーね】"
@@ -744,7 +744,7 @@
     "Order": 20591,
     "IsDefault": false,
     "CharacterBaseMasterId": 205,
-    "Type": 2,
+    "Type": "Animation",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "しぐれ【ぷ～くすくす】"
@@ -754,7 +754,7 @@
     "Order": 30101,
     "IsDefault": true,
     "CharacterBaseMasterId": 301,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "暦【ごきげんよう】"
@@ -764,7 +764,7 @@
     "Order": 30102,
     "IsDefault": false,
     "CharacterBaseMasterId": 301,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "暦【やりますわね】"
@@ -774,7 +774,7 @@
     "Order": 30103,
     "IsDefault": false,
     "CharacterBaseMasterId": 301,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "暦【ああ…素晴らしい…】"
@@ -784,7 +784,7 @@
     "Order": 30104,
     "IsDefault": false,
     "CharacterBaseMasterId": 301,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "暦【いきますわよ！】"
@@ -794,7 +794,7 @@
     "Order": 30105,
     "IsDefault": false,
     "CharacterBaseMasterId": 301,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "暦【あら…？】"
@@ -804,7 +804,7 @@
     "Order": 30106,
     "IsDefault": false,
     "CharacterBaseMasterId": 301,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "暦【たまりませんわ！】"
@@ -814,7 +814,7 @@
     "Order": 30181,
     "IsDefault": false,
     "CharacterBaseMasterId": 301,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "暦【お疲れさま】"
@@ -824,7 +824,7 @@
     "Order": 30191,
     "IsDefault": false,
     "CharacterBaseMasterId": 301,
-    "Type": 2,
+    "Type": "Animation",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "暦【はぁはぁ】"
@@ -834,7 +834,7 @@
     "Order": 30201,
     "IsDefault": true,
     "CharacterBaseMasterId": 302,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "ラモーナ【よろしくな】"
@@ -844,7 +844,7 @@
     "Order": 30202,
     "IsDefault": false,
     "CharacterBaseMasterId": 302,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "ラモーナ【感謝する】"
@@ -854,7 +854,7 @@
     "Order": 30203,
     "IsDefault": false,
     "CharacterBaseMasterId": 302,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "ラモーナ【共に行こう】"
@@ -864,7 +864,7 @@
     "Order": 30204,
     "IsDefault": false,
     "CharacterBaseMasterId": 302,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "ラモーナ【なにっ？！】"
@@ -874,7 +874,7 @@
     "Order": 30205,
     "IsDefault": false,
     "CharacterBaseMasterId": 302,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "ラモーナ【すまん…】"
@@ -884,7 +884,7 @@
     "Order": 30206,
     "IsDefault": false,
     "CharacterBaseMasterId": 302,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "ラモーナ【ふっ】"
@@ -894,7 +894,7 @@
     "Order": 30291,
     "IsDefault": false,
     "CharacterBaseMasterId": 302,
-    "Type": 2,
+    "Type": "Animation",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "ラモーナ【任務完了】"
@@ -904,7 +904,7 @@
     "Order": 30301,
     "IsDefault": true,
     "CharacterBaseMasterId": 303,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "雪【よろしく】"
@@ -914,7 +914,7 @@
     "Order": 30302,
     "IsDefault": false,
     "CharacterBaseMasterId": 303,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "雪【あ、ありがとう】"
@@ -924,7 +924,7 @@
     "Order": 30303,
     "IsDefault": false,
     "CharacterBaseMasterId": 303,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "雪【はぁ？！】"
@@ -934,7 +934,7 @@
     "Order": 30304,
     "IsDefault": false,
     "CharacterBaseMasterId": 303,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "雪【またね】"
@@ -944,7 +944,7 @@
     "Order": 30305,
     "IsDefault": false,
     "CharacterBaseMasterId": 303,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "雪【こらー！】"
@@ -954,7 +954,7 @@
     "Order": 30306,
     "IsDefault": false,
     "CharacterBaseMasterId": 303,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "雪【いいじゃん】"
@@ -964,7 +964,7 @@
     "Order": 30391,
     "IsDefault": false,
     "CharacterBaseMasterId": 303,
-    "Type": 2,
+    "Type": "Animation",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "雪【うぅ…】"
@@ -974,7 +974,7 @@
     "Order": 30401,
     "IsDefault": true,
     "CharacterBaseMasterId": 304,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "リリヤ【よろしく】"
@@ -984,7 +984,7 @@
     "Order": 30402,
     "IsDefault": false,
     "CharacterBaseMasterId": 304,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "リリヤ【じゃあね】"
@@ -994,7 +994,7 @@
     "Order": 30403,
     "IsDefault": false,
     "CharacterBaseMasterId": 304,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "リリヤ【すごいね】"
@@ -1004,7 +1004,7 @@
     "Order": 30404,
     "IsDefault": false,
     "CharacterBaseMasterId": 304,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "リリヤ【そんな…】"
@@ -1014,7 +1014,7 @@
     "Order": 30405,
     "IsDefault": false,
     "CharacterBaseMasterId": 304,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "リリヤ【ありがとう】"
@@ -1024,7 +1024,7 @@
     "Order": 30491,
     "IsDefault": false,
     "CharacterBaseMasterId": 304,
-    "Type": 2,
+    "Type": "Animation",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "リリヤ【あぁ…気持ちいい…】"
@@ -1034,7 +1034,7 @@
     "Order": 30501,
     "IsDefault": true,
     "CharacterBaseMasterId": 305,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "緋花里【はいたい！】"
@@ -1044,7 +1044,7 @@
     "Order": 30502,
     "IsDefault": false,
     "CharacterBaseMasterId": 305,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "緋花里【ありがとうね】"
@@ -1054,7 +1054,7 @@
     "Order": 30503,
     "IsDefault": false,
     "CharacterBaseMasterId": 305,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "緋花里【なんくるないさ～】"
@@ -1064,7 +1064,7 @@
     "Order": 30504,
     "IsDefault": false,
     "CharacterBaseMasterId": 305,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "緋花里【す、すごい…！】"
@@ -1074,7 +1074,7 @@
     "Order": 30505,
     "IsDefault": false,
     "CharacterBaseMasterId": 305,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "緋花里【ドキドキ…！】"
@@ -1084,7 +1084,7 @@
     "Order": 30581,
     "IsDefault": false,
     "CharacterBaseMasterId": 305,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "緋花里【あきらめない！】"
@@ -1094,7 +1094,7 @@
     "Order": 30591,
     "IsDefault": false,
     "CharacterBaseMasterId": 305,
-    "Type": 2,
+    "Type": "Animation",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "緋花里【まだやれるさ…！】"
@@ -1104,7 +1104,7 @@
     "Order": 40101,
     "IsDefault": true,
     "CharacterBaseMasterId": 401,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "いろは【よろしくお願いします】"
@@ -1114,7 +1114,7 @@
     "Order": 40102,
     "IsDefault": false,
     "CharacterBaseMasterId": 401,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "いろは【がんばりましょう！】"
@@ -1124,7 +1124,7 @@
     "Order": 40103,
     "IsDefault": false,
     "CharacterBaseMasterId": 401,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "いろは【好きですっ】"
@@ -1134,7 +1134,7 @@
     "Order": 40104,
     "IsDefault": false,
     "CharacterBaseMasterId": 401,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "いろは【ありがとうございます】"
@@ -1144,7 +1144,7 @@
     "Order": 40105,
     "IsDefault": false,
     "CharacterBaseMasterId": 401,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "いろは【すごいです！】"
@@ -1154,7 +1154,7 @@
     "Order": 40106,
     "IsDefault": false,
     "CharacterBaseMasterId": 401,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "いろは【はっ！】"
@@ -1164,7 +1164,7 @@
     "Order": 40191,
     "IsDefault": false,
     "CharacterBaseMasterId": 401,
-    "Type": 2,
+    "Type": "Animation",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "いろは【やってくれるんですか？！】"
@@ -1174,7 +1174,7 @@
     "Order": 40201,
     "IsDefault": true,
     "CharacterBaseMasterId": 402,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "美兎【よろしくね…】"
@@ -1184,7 +1184,7 @@
     "Order": 40202,
     "IsDefault": false,
     "CharacterBaseMasterId": 402,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "美兎【す、すごいね】"
@@ -1194,7 +1194,7 @@
     "Order": 40203,
     "IsDefault": false,
     "CharacterBaseMasterId": 402,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "美兎【ドキドキ…】"
@@ -1204,7 +1204,7 @@
     "Order": 40204,
     "IsDefault": false,
     "CharacterBaseMasterId": 402,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "美兎【え…】"
@@ -1214,7 +1214,7 @@
     "Order": 40205,
     "IsDefault": false,
     "CharacterBaseMasterId": 402,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "美兎【一緒に…どう？】"
@@ -1224,7 +1224,7 @@
     "Order": 40206,
     "IsDefault": false,
     "CharacterBaseMasterId": 402,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "美兎【ごめんね…】"
@@ -1234,7 +1234,7 @@
     "Order": 40291,
     "IsDefault": false,
     "CharacterBaseMasterId": 402,
-    "Type": 2,
+    "Type": "Animation",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "美兎【す…好きです！】"
@@ -1244,7 +1244,7 @@
     "Order": 40301,
     "IsDefault": true,
     "CharacterBaseMasterId": 403,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "カミラ【よろ〜！】"
@@ -1254,7 +1254,7 @@
     "Order": 40302,
     "IsDefault": false,
     "CharacterBaseMasterId": 403,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "カミラ【おつ〜！】"
@@ -1264,7 +1264,7 @@
     "Order": 40303,
     "IsDefault": false,
     "CharacterBaseMasterId": 403,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "カミラ【ガチ神！】"
@@ -1274,7 +1274,7 @@
     "Order": 40304,
     "IsDefault": false,
     "CharacterBaseMasterId": 403,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "カミラ【ごめん！】"
@@ -1284,7 +1284,7 @@
     "Order": 40305,
     "IsDefault": false,
     "CharacterBaseMasterId": 403,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "カミラ【やるねー！】"
@@ -1294,7 +1294,7 @@
     "Order": 40391,
     "IsDefault": false,
     "CharacterBaseMasterId": 403,
-    "Type": 2,
+    "Type": "Animation",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "カミラ【大慶至極！】"
@@ -1304,7 +1304,7 @@
     "Order": 40401,
     "IsDefault": true,
     "CharacterBaseMasterId": 404,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "蕾【…よろしく】"
@@ -1314,7 +1314,7 @@
     "Order": 40402,
     "IsDefault": false,
     "CharacterBaseMasterId": 404,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "蕾【眠りにつこう】"
@@ -1324,7 +1324,7 @@
     "Order": 40403,
     "IsDefault": false,
     "CharacterBaseMasterId": 404,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "蕾【晩餐といこう】"
@@ -1334,7 +1334,7 @@
     "Order": 40404,
     "IsDefault": false,
     "CharacterBaseMasterId": 404,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "蕾【正気？】"
@@ -1344,7 +1344,7 @@
     "Order": 40405,
     "IsDefault": false,
     "CharacterBaseMasterId": 404,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "蕾【行くぞ、眷属よ】"
@@ -1354,7 +1354,7 @@
     "Order": 40406,
     "IsDefault": false,
     "CharacterBaseMasterId": 404,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "蕾【これが組織の陰謀…】"
@@ -1364,7 +1364,7 @@
     "Order": 40491,
     "IsDefault": false,
     "CharacterBaseMasterId": 404,
-    "Type": 2,
+    "Type": "Animation",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "蕾【占ってあげる】"
@@ -1374,7 +1374,7 @@
     "Order": 40501,
     "IsDefault": true,
     "CharacterBaseMasterId": 405,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "叶羽【よろしくー】"
@@ -1384,7 +1384,7 @@
     "Order": 40502,
     "IsDefault": false,
     "CharacterBaseMasterId": 405,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "叶羽【やるじゃん】"
@@ -1394,7 +1394,7 @@
     "Order": 40503,
     "IsDefault": false,
     "CharacterBaseMasterId": 405,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "叶羽【無理無理無理〜！】"
@@ -1404,7 +1404,7 @@
     "Order": 40504,
     "IsDefault": false,
     "CharacterBaseMasterId": 405,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "叶羽【へ～】"
@@ -1414,7 +1414,7 @@
     "Order": 40505,
     "IsDefault": false,
     "CharacterBaseMasterId": 405,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "叶羽【頑張れるわよね？】"
@@ -1424,7 +1424,7 @@
     "Order": 40506,
     "IsDefault": false,
     "CharacterBaseMasterId": 405,
-    "Type": 1,
+    "Type": "Default",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "叶羽【完・敗】"
@@ -1434,7 +1434,7 @@
     "Order": 40591,
     "IsDefault": false,
     "CharacterBaseMasterId": 405,
-    "Type": 2,
+    "Type": "Animation",
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "叶羽【ZZZ…】"

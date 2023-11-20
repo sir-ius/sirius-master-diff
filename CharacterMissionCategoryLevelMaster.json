@@ -1,7 +1,7 @@
 [
   {
     "Id": 101,
-    "CategoryType": 1,
+    "CategoryType": "Live",
     "Level": 1,
     "GiveStarPoint": 60,
     "StartDate": "2023-01-01T00:00:00.000Z",
@@ -9,7 +9,7 @@
   },
   {
     "Id": 102,
-    "CategoryType": 2,
+    "CategoryType": "Enhancement",
     "Level": 1,
     "GiveStarPoint": 60,
     "StartDate": "2023-01-01T00:00:00.000Z",
@@ -17,7 +17,7 @@
   },
   {
     "Id": 103,
-    "CategoryType": 3,
+    "CategoryType": "TalentBloom",
     "Level": 1,
     "GiveStarPoint": 60,
     "StartDate": "2023-01-01T00:00:00.000Z",
@@ -25,7 +25,7 @@
   },
   {
     "Id": 104,
-    "CategoryType": 4,
+    "CategoryType": "Poster",
     "Level": 1,
     "GiveStarPoint": 60,
     "StartDate": "2023-01-01T00:00:00.000Z",
@@ -33,7 +33,7 @@
   },
   {
     "Id": 105,
-    "CategoryType": 5,
+    "CategoryType": "Other",
     "Level": 1,
     "GiveStarPoint": 60,
     "StartDate": "2023-01-01T00:00:00.000Z",
@@ -41,7 +41,7 @@
   },
   {
     "Id": 201,
-    "CategoryType": 1,
+    "CategoryType": "Live",
     "Level": 2,
     "GiveStarPoint": 120,
     "StartDate": "2023-01-01T00:00:00.000Z",
@@ -49,7 +49,7 @@
   },
   {
     "Id": 202,
-    "CategoryType": 2,
+    "CategoryType": "Enhancement",
     "Level": 2,
     "GiveStarPoint": 120,
     "StartDate": "2023-01-01T00:00:00.000Z",
@@ -57,7 +57,7 @@
   },
   {
     "Id": 203,
-    "CategoryType": 3,
+    "CategoryType": "TalentBloom",
     "Level": 2,
     "GiveStarPoint": 120,
     "StartDate": "2023-01-01T00:00:00.000Z",
@@ -65,7 +65,7 @@
   },
   {
     "Id": 204,
-    "CategoryType": 4,
+    "CategoryType": "Poster",
     "Level": 2,
     "GiveStarPoint": 120,
     "StartDate": "2023-01-01T00:00:00.000Z",
@@ -73,7 +73,7 @@
   },
   {
     "Id": 205,
-    "CategoryType": 5,
+    "CategoryType": "Other",
     "Level": 2,
     "GiveStarPoint": 120,
     "StartDate": "2023-01-01T00:00:00.000Z",
@@ -81,7 +81,7 @@
   },
   {
     "Id": 301,
-    "CategoryType": 1,
+    "CategoryType": "Live",
     "Level": 3,
     "GiveStarPoint": 180,
     "StartDate": "2023-01-01T00:00:00.000Z",
@@ -89,7 +89,7 @@
   },
   {
     "Id": 302,
-    "CategoryType": 2,
+    "CategoryType": "Enhancement",
     "Level": 3,
     "GiveStarPoint": 180,
     "StartDate": "2023-01-01T00:00:00.000Z",
@@ -97,7 +97,7 @@
   },
   {
     "Id": 303,
-    "CategoryType": 3,
+    "CategoryType": "TalentBloom",
     "Level": 3,
     "GiveStarPoint": 180,
     "StartDate": "2023-01-01T00:00:00.000Z",
@@ -105,7 +105,7 @@
   },
   {
     "Id": 304,
-    "CategoryType": 4,
+    "CategoryType": "Poster",
     "Level": 3,
     "GiveStarPoint": 180,
     "StartDate": "2023-01-01T00:00:00.000Z",
@@ -113,7 +113,7 @@
   },
   {
     "Id": 305,
-    "CategoryType": 5,
+    "CategoryType": "Other",
     "Level": 3,
     "GiveStarPoint": 180,
     "StartDate": "2023-01-01T00:00:00.000Z",
@@ -121,7 +121,7 @@
   },
   {
     "Id": 401,
-    "CategoryType": 1,
+    "CategoryType": "Live",
     "Level": 4,
     "GiveStarPoint": 240,
     "StartDate": "2023-01-01T00:00:00.000Z",
@@ -129,7 +129,7 @@
   },
   {
     "Id": 402,
-    "CategoryType": 2,
+    "CategoryType": "Enhancement",
     "Level": 4,
     "GiveStarPoint": 240,
     "StartDate": "2023-01-01T00:00:00.000Z",
@@ -137,7 +137,7 @@
   },
   {
     "Id": 403,
-    "CategoryType": 3,
+    "CategoryType": "TalentBloom",
     "Level": 4,
     "GiveStarPoint": 240,
     "StartDate": "2023-01-01T00:00:00.000Z",
@@ -145,7 +145,7 @@
   },
   {
     "Id": 404,
-    "CategoryType": 4,
+    "CategoryType": "Poster",
     "Level": 4,
     "GiveStarPoint": 240,
     "StartDate": "2023-01-01T00:00:00.000Z",
@@ -153,7 +153,7 @@
   },
   {
     "Id": 405,
-    "CategoryType": 5,
+    "CategoryType": "Other",
     "Level": 4,
     "GiveStarPoint": 240,
     "StartDate": "2023-01-01T00:00:00.000Z",
@@ -161,7 +161,7 @@
   },
   {
     "Id": 501,
-    "CategoryType": 1,
+    "CategoryType": "Live",
     "Level": 5,
     "GiveStarPoint": 300,
     "StartDate": "2023-01-01T00:00:00.000Z",
@@ -169,7 +169,7 @@
   },
   {
     "Id": 502,
-    "CategoryType": 2,
+    "CategoryType": "Enhancement",
     "Level": 5,
     "GiveStarPoint": 300,
     "StartDate": "2023-01-01T00:00:00.000Z",
@@ -177,7 +177,7 @@
   },
   {
     "Id": 503,
-    "CategoryType": 3,
+    "CategoryType": "TalentBloom",
     "Level": 5,
     "GiveStarPoint": 300,
     "StartDate": "2023-01-01T00:00:00.000Z",
@@ -185,7 +185,7 @@
   },
   {
     "Id": 504,
-    "CategoryType": 4,
+    "CategoryType": "Poster",
     "Level": 5,
     "GiveStarPoint": 300,
     "StartDate": "2023-01-01T00:00:00.000Z",
@@ -193,7 +193,7 @@
   },
   {
     "Id": 505,
-    "CategoryType": 5,
+    "CategoryType": "Other",
     "Level": 5,
     "GiveStarPoint": 300,
     "StartDate": "2023-01-01T00:00:00.000Z",
@@ -201,7 +201,7 @@
   },
   {
     "Id": 601,
-    "CategoryType": 1,
+    "CategoryType": "Live",
     "Level": 6,
     "GiveStarPoint": 360,
     "StartDate": "2023-01-01T00:00:00.000Z",
@@ -209,7 +209,7 @@
   },
   {
     "Id": 602,
-    "CategoryType": 2,
+    "CategoryType": "Enhancement",
     "Level": 6,
     "GiveStarPoint": 360,
     "StartDate": "2023-01-01T00:00:00.000Z",
@@ -217,7 +217,7 @@
   },
   {
     "Id": 603,
-    "CategoryType": 3,
+    "CategoryType": "TalentBloom",
     "Level": 6,
     "GiveStarPoint": 360,
     "StartDate": "2023-01-01T00:00:00.000Z",
@@ -225,7 +225,7 @@
   },
   {
     "Id": 604,
-    "CategoryType": 4,
+    "CategoryType": "Poster",
     "Level": 6,
     "GiveStarPoint": 360,
     "StartDate": "2023-01-01T00:00:00.000Z",
@@ -233,7 +233,7 @@
   },
   {
     "Id": 605,
-    "CategoryType": 5,
+    "CategoryType": "Other",
     "Level": 6,
     "GiveStarPoint": 360,
     "StartDate": "2023-01-01T00:00:00.000Z",
@@ -241,7 +241,7 @@
   },
   {
     "Id": 701,
-    "CategoryType": 1,
+    "CategoryType": "Live",
     "Level": 7,
     "GiveStarPoint": 420,
     "StartDate": "2023-01-01T00:00:00.000Z",
@@ -249,7 +249,7 @@
   },
   {
     "Id": 702,
-    "CategoryType": 2,
+    "CategoryType": "Enhancement",
     "Level": 7,
     "GiveStarPoint": 420,
     "StartDate": "2023-01-01T00:00:00.000Z",
@@ -257,7 +257,7 @@
   },
   {
     "Id": 703,
-    "CategoryType": 3,
+    "CategoryType": "TalentBloom",
     "Level": 7,
     "GiveStarPoint": 420,
     "StartDate": "2023-01-01T00:00:00.000Z",
@@ -265,7 +265,7 @@
   },
   {
     "Id": 704,
-    "CategoryType": 4,
+    "CategoryType": "Poster",
     "Level": 7,
     "GiveStarPoint": 420,
     "StartDate": "2023-01-01T00:00:00.000Z",
@@ -273,7 +273,7 @@
   },
   {
     "Id": 705,
-    "CategoryType": 5,
+    "CategoryType": "Other",
     "Level": 7,
     "GiveStarPoint": 420,
     "StartDate": "2023-01-01T00:00:00.000Z",
@@ -281,7 +281,7 @@
   },
   {
     "Id": 801,
-    "CategoryType": 1,
+    "CategoryType": "Live",
     "Level": 8,
     "GiveStarPoint": 480,
     "StartDate": "2023-01-01T00:00:00.000Z",
@@ -289,7 +289,7 @@
   },
   {
     "Id": 802,
-    "CategoryType": 2,
+    "CategoryType": "Enhancement",
     "Level": 8,
     "GiveStarPoint": 480,
     "StartDate": "2023-01-01T00:00:00.000Z",
@@ -297,7 +297,7 @@
   },
   {
     "Id": 803,
-    "CategoryType": 3,
+    "CategoryType": "TalentBloom",
     "Level": 8,
     "GiveStarPoint": 480,
     "StartDate": "2023-01-01T00:00:00.000Z",
@@ -305,7 +305,7 @@
   },
   {
     "Id": 804,
-    "CategoryType": 4,
+    "CategoryType": "Poster",
     "Level": 8,
     "GiveStarPoint": 480,
     "StartDate": "2023-01-01T00:00:00.000Z",
@@ -313,7 +313,7 @@
   },
   {
     "Id": 805,
-    "CategoryType": 5,
+    "CategoryType": "Other",
     "Level": 8,
     "GiveStarPoint": 480,
     "StartDate": "2023-01-01T00:00:00.000Z",
@@ -321,7 +321,7 @@
   },
   {
     "Id": 901,
-    "CategoryType": 1,
+    "CategoryType": "Live",
     "Level": 9,
     "GiveStarPoint": 540,
     "StartDate": "2023-01-01T00:00:00.000Z",
@@ -329,7 +329,7 @@
   },
   {
     "Id": 902,
-    "CategoryType": 2,
+    "CategoryType": "Enhancement",
     "Level": 9,
     "GiveStarPoint": 540,
     "StartDate": "2023-01-01T00:00:00.000Z",
@@ -337,7 +337,7 @@
   },
   {
     "Id": 903,
-    "CategoryType": 3,
+    "CategoryType": "TalentBloom",
     "Level": 9,
     "GiveStarPoint": 540,
     "StartDate": "2023-01-01T00:00:00.000Z",
@@ -345,7 +345,7 @@
   },
   {
     "Id": 904,
-    "CategoryType": 4,
+    "CategoryType": "Poster",
     "Level": 9,
     "GiveStarPoint": 540,
     "StartDate": "2023-01-01T00:00:00.000Z",
@@ -353,7 +353,7 @@
   },
   {
     "Id": 905,
-    "CategoryType": 5,
+    "CategoryType": "Other",
     "Level": 9,
     "GiveStarPoint": 540,
     "StartDate": "2023-01-01T00:00:00.000Z",
@@ -361,7 +361,7 @@
   },
   {
     "Id": 1001,
-    "CategoryType": 1,
+    "CategoryType": "Live",
     "Level": 10,
     "GiveStarPoint": 600,
     "StartDate": "2023-01-01T00:00:00.000Z",
@@ -369,7 +369,7 @@
   },
   {
     "Id": 1002,
-    "CategoryType": 2,
+    "CategoryType": "Enhancement",
     "Level": 10,
     "GiveStarPoint": 600,
     "StartDate": "2023-01-01T00:00:00.000Z",
@@ -377,7 +377,7 @@
   },
   {
     "Id": 1003,
-    "CategoryType": 3,
+    "CategoryType": "TalentBloom",
     "Level": 10,
     "GiveStarPoint": 600,
     "StartDate": "2023-01-01T00:00:00.000Z",
@@ -385,7 +385,7 @@
   },
   {
     "Id": 1004,
-    "CategoryType": 4,
+    "CategoryType": "Poster",
     "Level": 10,
     "GiveStarPoint": 600,
     "StartDate": "2023-01-01T00:00:00.000Z",
@@ -393,7 +393,7 @@
   },
   {
     "Id": 1005,
-    "CategoryType": 5,
+    "CategoryType": "Other",
     "Level": 10,
     "GiveStarPoint": 600,
     "StartDate": "2023-01-01T00:00:00.000Z",

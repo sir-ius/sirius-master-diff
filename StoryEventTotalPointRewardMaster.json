@@ -3,7 +3,7 @@
     "Id": 2000801,
     "StoryEventMasterId": 20008,
     "RequiredTotalPoint": 1000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130011,
     "ThingQuantity": 30
   },
@@ -11,7 +11,7 @@
     "Id": 2000802,
     "StoryEventMasterId": 20008,
     "RequiredTotalPoint": 3000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130011,
     "ThingQuantity": 30
   },
@@ -19,7 +19,7 @@
     "Id": 2000803,
     "StoryEventMasterId": 20008,
     "RequiredTotalPoint": 6000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130011,
     "ThingQuantity": 30
   },
@@ -27,7 +27,7 @@
     "Id": 2000804,
     "StoryEventMasterId": 20008,
     "RequiredTotalPoint": 10000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130012,
     "ThingQuantity": 1
   },
@@ -35,7 +35,7 @@
     "Id": 2000805,
     "StoryEventMasterId": 20008,
     "RequiredTotalPoint": 15000,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingId": 0,
     "ThingQuantity": 200000
   },
@@ -43,7 +43,7 @@
     "Id": 2000806,
     "StoryEventMasterId": 20008,
     "RequiredTotalPoint": 20000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130012,
     "ThingQuantity": 1
   },
@@ -51,7 +51,7 @@
     "Id": 2000807,
     "StoryEventMasterId": 20008,
     "RequiredTotalPoint": 25000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130011,
     "ThingQuantity": 40
   },
@@ -59,7 +59,7 @@
     "Id": 2000808,
     "StoryEventMasterId": 20008,
     "RequiredTotalPoint": 30000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130012,
     "ThingQuantity": 1
   },
@@ -67,7 +67,7 @@
     "Id": 2000809,
     "StoryEventMasterId": 20008,
     "RequiredTotalPoint": 35000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130011,
     "ThingQuantity": 40
   },
@@ -75,7 +75,7 @@
     "Id": 2000810,
     "StoryEventMasterId": 20008,
     "RequiredTotalPoint": 40000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130012,
     "ThingQuantity": 1
   },
@@ -83,7 +83,7 @@
     "Id": 2000811,
     "StoryEventMasterId": 20008,
     "RequiredTotalPoint": 45000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 211001,
     "ThingQuantity": 1
   },
@@ -91,7 +91,7 @@
     "Id": 2000812,
     "StoryEventMasterId": 20008,
     "RequiredTotalPoint": 50000,
-    "ThingType": 13,
+    "ThingType": "Jewel",
     "ThingId": 0,
     "ThingQuantity": 100
   },
@@ -99,7 +99,7 @@
     "Id": 2000813,
     "StoryEventMasterId": 20008,
     "RequiredTotalPoint": 60000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130012,
     "ThingQuantity": 1
   },
@@ -107,7 +107,7 @@
     "Id": 2000814,
     "StoryEventMasterId": 20008,
     "RequiredTotalPoint": 70000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130011,
     "ThingQuantity": 50
   },
@@ -115,7 +115,7 @@
     "Id": 2000815,
     "StoryEventMasterId": 20008,
     "RequiredTotalPoint": 80000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 111002,
     "ThingQuantity": 5
   },
@@ -123,7 +123,7 @@
     "Id": 2000816,
     "StoryEventMasterId": 20008,
     "RequiredTotalPoint": 90000,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingId": 0,
     "ThingQuantity": 300000
   },
@@ -131,7 +131,7 @@
     "Id": 2000817,
     "StoryEventMasterId": 20008,
     "RequiredTotalPoint": 100000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130012,
     "ThingQuantity": 1
   },
@@ -139,7 +139,7 @@
     "Id": 2000818,
     "StoryEventMasterId": 20008,
     "RequiredTotalPoint": 110000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130011,
     "ThingQuantity": 50
   },
@@ -147,7 +147,7 @@
     "Id": 2000819,
     "StoryEventMasterId": 20008,
     "RequiredTotalPoint": 120000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 111002,
     "ThingQuantity": 5
   },
@@ -155,7 +155,7 @@
     "Id": 2000820,
     "StoryEventMasterId": 20008,
     "RequiredTotalPoint": 130000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130011,
     "ThingQuantity": 50
   },
@@ -163,7 +163,7 @@
     "Id": 2000821,
     "StoryEventMasterId": 20008,
     "RequiredTotalPoint": 140000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130012,
     "ThingQuantity": 1
   },
@@ -171,7 +171,7 @@
     "Id": 2000822,
     "StoryEventMasterId": 20008,
     "RequiredTotalPoint": 150000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 211001,
     "ThingQuantity": 1
   },
@@ -179,7 +179,7 @@
     "Id": 2000823,
     "StoryEventMasterId": 20008,
     "RequiredTotalPoint": 160000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 111002,
     "ThingQuantity": 5
   },
@@ -187,7 +187,7 @@
     "Id": 2000824,
     "StoryEventMasterId": 20008,
     "RequiredTotalPoint": 170000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130011,
     "ThingQuantity": 80
   },
@@ -195,7 +195,7 @@
     "Id": 2000825,
     "StoryEventMasterId": 20008,
     "RequiredTotalPoint": 180000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130012,
     "ThingQuantity": 1
   },
@@ -203,7 +203,7 @@
     "Id": 2000826,
     "StoryEventMasterId": 20008,
     "RequiredTotalPoint": 190000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130011,
     "ThingQuantity": 100
   },
@@ -211,7 +211,7 @@
     "Id": 2000827,
     "StoryEventMasterId": 20008,
     "RequiredTotalPoint": 200000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130013,
     "ThingQuantity": 1
   },
@@ -219,7 +219,7 @@
     "Id": 2000828,
     "StoryEventMasterId": 20008,
     "RequiredTotalPoint": 220000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 211001,
     "ThingQuantity": 1
   },
@@ -227,7 +227,7 @@
     "Id": 2000829,
     "StoryEventMasterId": 20008,
     "RequiredTotalPoint": 240000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130012,
     "ThingQuantity": 2
   },
@@ -235,7 +235,7 @@
     "Id": 2000830,
     "StoryEventMasterId": 20008,
     "RequiredTotalPoint": 260000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130064,
     "ThingQuantity": 20
   },
@@ -243,7 +243,7 @@
     "Id": 2000831,
     "StoryEventMasterId": 20008,
     "RequiredTotalPoint": 280000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130012,
     "ThingQuantity": 2
   },
@@ -251,7 +251,7 @@
     "Id": 2000832,
     "StoryEventMasterId": 20008,
     "RequiredTotalPoint": 300000,
-    "ThingType": 13,
+    "ThingType": "Jewel",
     "ThingId": 0,
     "ThingQuantity": 500
   },
@@ -259,7 +259,7 @@
     "Id": 2000833,
     "StoryEventMasterId": 20008,
     "RequiredTotalPoint": 350000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130072,
     "ThingQuantity": 5
   },
@@ -267,7 +267,7 @@
     "Id": 2000834,
     "StoryEventMasterId": 20008,
     "RequiredTotalPoint": 400000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 140000,
     "ThingQuantity": 100
   },
@@ -275,7 +275,7 @@
     "Id": 2000835,
     "StoryEventMasterId": 20008,
     "RequiredTotalPoint": 450000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130064,
     "ThingQuantity": 30
   },
@@ -283,7 +283,7 @@
     "Id": 2000836,
     "StoryEventMasterId": 20008,
     "RequiredTotalPoint": 500000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130013,
     "ThingQuantity": 1
   },
@@ -291,7 +291,7 @@
     "Id": 2000837,
     "StoryEventMasterId": 20008,
     "RequiredTotalPoint": 600000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130072,
     "ThingQuantity": 5
   },
@@ -299,7 +299,7 @@
     "Id": 2000838,
     "StoryEventMasterId": 20008,
     "RequiredTotalPoint": 700000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130012,
     "ThingQuantity": 3
   },
@@ -307,7 +307,7 @@
     "Id": 2000839,
     "StoryEventMasterId": 20008,
     "RequiredTotalPoint": 800000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130064,
     "ThingQuantity": 50
   },
@@ -315,7 +315,7 @@
     "Id": 2000840,
     "StoryEventMasterId": 20008,
     "RequiredTotalPoint": 900000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130012,
     "ThingQuantity": 5
   },
@@ -323,7 +323,7 @@
     "Id": 2000841,
     "StoryEventMasterId": 20008,
     "RequiredTotalPoint": 1000000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130071,
     "ThingQuantity": 1
   },
@@ -331,7 +331,7 @@
     "Id": 2000842,
     "StoryEventMasterId": 20008,
     "RequiredTotalPoint": 1200000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130072,
     "ThingQuantity": 2
   },
@@ -339,7 +339,7 @@
     "Id": 2000843,
     "StoryEventMasterId": 20008,
     "RequiredTotalPoint": 1400000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130072,
     "ThingQuantity": 2
   },
@@ -347,7 +347,7 @@
     "Id": 2000844,
     "StoryEventMasterId": 20008,
     "RequiredTotalPoint": 1600000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130072,
     "ThingQuantity": 2
   },
@@ -355,7 +355,7 @@
     "Id": 2000845,
     "StoryEventMasterId": 20008,
     "RequiredTotalPoint": 1800000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130072,
     "ThingQuantity": 2
   },
@@ -363,7 +363,7 @@
     "Id": 2000846,
     "StoryEventMasterId": 20008,
     "RequiredTotalPoint": 2000000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130072,
     "ThingQuantity": 2
   },
@@ -371,7 +371,7 @@
     "Id": 2000901,
     "StoryEventMasterId": 20009,
     "RequiredTotalPoint": 1000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130011,
     "ThingQuantity": 30
   },
@@ -379,7 +379,7 @@
     "Id": 2000902,
     "StoryEventMasterId": 20009,
     "RequiredTotalPoint": 3000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130011,
     "ThingQuantity": 30
   },
@@ -387,7 +387,7 @@
     "Id": 2000903,
     "StoryEventMasterId": 20009,
     "RequiredTotalPoint": 6000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130011,
     "ThingQuantity": 30
   },
@@ -395,7 +395,7 @@
     "Id": 2000904,
     "StoryEventMasterId": 20009,
     "RequiredTotalPoint": 10000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130012,
     "ThingQuantity": 1
   },
@@ -403,7 +403,7 @@
     "Id": 2000905,
     "StoryEventMasterId": 20009,
     "RequiredTotalPoint": 15000,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingId": 0,
     "ThingQuantity": 200000
   },
@@ -411,7 +411,7 @@
     "Id": 2000906,
     "StoryEventMasterId": 20009,
     "RequiredTotalPoint": 20000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130012,
     "ThingQuantity": 1
   },
@@ -419,7 +419,7 @@
     "Id": 2000907,
     "StoryEventMasterId": 20009,
     "RequiredTotalPoint": 25000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130011,
     "ThingQuantity": 40
   },
@@ -427,7 +427,7 @@
     "Id": 2000908,
     "StoryEventMasterId": 20009,
     "RequiredTotalPoint": 30000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130012,
     "ThingQuantity": 1
   },
@@ -435,7 +435,7 @@
     "Id": 2000909,
     "StoryEventMasterId": 20009,
     "RequiredTotalPoint": 35000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130011,
     "ThingQuantity": 40
   },
@@ -443,7 +443,7 @@
     "Id": 2000910,
     "StoryEventMasterId": 20009,
     "RequiredTotalPoint": 40000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130012,
     "ThingQuantity": 1
   },
@@ -451,7 +451,7 @@
     "Id": 2000911,
     "StoryEventMasterId": 20009,
     "RequiredTotalPoint": 45000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 211001,
     "ThingQuantity": 1
   },
@@ -459,7 +459,7 @@
     "Id": 2000912,
     "StoryEventMasterId": 20009,
     "RequiredTotalPoint": 50000,
-    "ThingType": 13,
+    "ThingType": "Jewel",
     "ThingId": 0,
     "ThingQuantity": 100
   },
@@ -467,7 +467,7 @@
     "Id": 2000913,
     "StoryEventMasterId": 20009,
     "RequiredTotalPoint": 60000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130012,
     "ThingQuantity": 1
   },
@@ -475,7 +475,7 @@
     "Id": 2000914,
     "StoryEventMasterId": 20009,
     "RequiredTotalPoint": 70000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130011,
     "ThingQuantity": 50
   },
@@ -483,7 +483,7 @@
     "Id": 2000915,
     "StoryEventMasterId": 20009,
     "RequiredTotalPoint": 80000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 111003,
     "ThingQuantity": 5
   },
@@ -491,7 +491,7 @@
     "Id": 2000916,
     "StoryEventMasterId": 20009,
     "RequiredTotalPoint": 90000,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingId": 0,
     "ThingQuantity": 300000
   },
@@ -499,7 +499,7 @@
     "Id": 2000917,
     "StoryEventMasterId": 20009,
     "RequiredTotalPoint": 100000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130012,
     "ThingQuantity": 1
   },
@@ -507,7 +507,7 @@
     "Id": 2000918,
     "StoryEventMasterId": 20009,
     "RequiredTotalPoint": 110000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130011,
     "ThingQuantity": 50
   },
@@ -515,7 +515,7 @@
     "Id": 2000919,
     "StoryEventMasterId": 20009,
     "RequiredTotalPoint": 120000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 111003,
     "ThingQuantity": 5
   },
@@ -523,7 +523,7 @@
     "Id": 2000920,
     "StoryEventMasterId": 20009,
     "RequiredTotalPoint": 130000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130011,
     "ThingQuantity": 50
   },
@@ -531,7 +531,7 @@
     "Id": 2000921,
     "StoryEventMasterId": 20009,
     "RequiredTotalPoint": 140000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130012,
     "ThingQuantity": 1
   },
@@ -539,7 +539,7 @@
     "Id": 2000922,
     "StoryEventMasterId": 20009,
     "RequiredTotalPoint": 150000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 211001,
     "ThingQuantity": 1
   },
@@ -547,7 +547,7 @@
     "Id": 2000923,
     "StoryEventMasterId": 20009,
     "RequiredTotalPoint": 160000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 111003,
     "ThingQuantity": 5
   },
@@ -555,7 +555,7 @@
     "Id": 2000924,
     "StoryEventMasterId": 20009,
     "RequiredTotalPoint": 170000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130011,
     "ThingQuantity": 80
   },
@@ -563,7 +563,7 @@
     "Id": 2000925,
     "StoryEventMasterId": 20009,
     "RequiredTotalPoint": 180000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130012,
     "ThingQuantity": 1
   },
@@ -571,7 +571,7 @@
     "Id": 2000926,
     "StoryEventMasterId": 20009,
     "RequiredTotalPoint": 190000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130011,
     "ThingQuantity": 100
   },
@@ -579,7 +579,7 @@
     "Id": 2000927,
     "StoryEventMasterId": 20009,
     "RequiredTotalPoint": 200000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130013,
     "ThingQuantity": 1
   },
@@ -587,7 +587,7 @@
     "Id": 2000928,
     "StoryEventMasterId": 20009,
     "RequiredTotalPoint": 220000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130064,
     "ThingQuantity": 20
   },
@@ -595,7 +595,7 @@
     "Id": 2000929,
     "StoryEventMasterId": 20009,
     "RequiredTotalPoint": 240000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130012,
     "ThingQuantity": 2
   },
@@ -603,7 +603,7 @@
     "Id": 2000930,
     "StoryEventMasterId": 20009,
     "RequiredTotalPoint": 260000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130064,
     "ThingQuantity": 30
   },
@@ -611,7 +611,7 @@
     "Id": 2000931,
     "StoryEventMasterId": 20009,
     "RequiredTotalPoint": 280000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130012,
     "ThingQuantity": 2
   },
@@ -619,7 +619,7 @@
     "Id": 2000932,
     "StoryEventMasterId": 20009,
     "RequiredTotalPoint": 300000,
-    "ThingType": 13,
+    "ThingType": "Jewel",
     "ThingId": 0,
     "ThingQuantity": 500
   },
@@ -627,7 +627,7 @@
     "Id": 2000933,
     "StoryEventMasterId": 20009,
     "RequiredTotalPoint": 350000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130072,
     "ThingQuantity": 5
   },
@@ -635,7 +635,7 @@
     "Id": 2000934,
     "StoryEventMasterId": 20009,
     "RequiredTotalPoint": 400000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 140000,
     "ThingQuantity": 100
   },
@@ -643,7 +643,7 @@
     "Id": 2000935,
     "StoryEventMasterId": 20009,
     "RequiredTotalPoint": 450000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 211002,
     "ThingQuantity": 1
   },
@@ -651,7 +651,7 @@
     "Id": 2000936,
     "StoryEventMasterId": 20009,
     "RequiredTotalPoint": 500000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130013,
     "ThingQuantity": 1
   },
@@ -659,7 +659,7 @@
     "Id": 2000937,
     "StoryEventMasterId": 20009,
     "RequiredTotalPoint": 600000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130072,
     "ThingQuantity": 5
   },
@@ -667,7 +667,7 @@
     "Id": 2000938,
     "StoryEventMasterId": 20009,
     "RequiredTotalPoint": 700000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130012,
     "ThingQuantity": 3
   },
@@ -675,7 +675,7 @@
     "Id": 2000939,
     "StoryEventMasterId": 20009,
     "RequiredTotalPoint": 800000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130064,
     "ThingQuantity": 50
   },
@@ -683,7 +683,7 @@
     "Id": 2000940,
     "StoryEventMasterId": 20009,
     "RequiredTotalPoint": 900000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130012,
     "ThingQuantity": 5
   },
@@ -691,7 +691,7 @@
     "Id": 2000941,
     "StoryEventMasterId": 20009,
     "RequiredTotalPoint": 1000000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130071,
     "ThingQuantity": 1
   },
@@ -699,7 +699,7 @@
     "Id": 2000942,
     "StoryEventMasterId": 20009,
     "RequiredTotalPoint": 1200000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130072,
     "ThingQuantity": 2
   },
@@ -707,7 +707,7 @@
     "Id": 2000943,
     "StoryEventMasterId": 20009,
     "RequiredTotalPoint": 1400000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130072,
     "ThingQuantity": 2
   },
@@ -715,7 +715,7 @@
     "Id": 2000944,
     "StoryEventMasterId": 20009,
     "RequiredTotalPoint": 1600000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130072,
     "ThingQuantity": 2
   },
@@ -723,7 +723,7 @@
     "Id": 2000945,
     "StoryEventMasterId": 20009,
     "RequiredTotalPoint": 1800000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130072,
     "ThingQuantity": 2
   },
@@ -731,7 +731,7 @@
     "Id": 2000946,
     "StoryEventMasterId": 20009,
     "RequiredTotalPoint": 2000000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130072,
     "ThingQuantity": 2
   },
@@ -739,7 +739,7 @@
     "Id": 2001001,
     "StoryEventMasterId": 20010,
     "RequiredTotalPoint": 1000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130011,
     "ThingQuantity": 30
   },
@@ -747,7 +747,7 @@
     "Id": 2001002,
     "StoryEventMasterId": 20010,
     "RequiredTotalPoint": 3000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130011,
     "ThingQuantity": 30
   },
@@ -755,7 +755,7 @@
     "Id": 2001003,
     "StoryEventMasterId": 20010,
     "RequiredTotalPoint": 6000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130011,
     "ThingQuantity": 30
   },
@@ -763,7 +763,7 @@
     "Id": 2001004,
     "StoryEventMasterId": 20010,
     "RequiredTotalPoint": 10000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130012,
     "ThingQuantity": 1
   },
@@ -771,7 +771,7 @@
     "Id": 2001005,
     "StoryEventMasterId": 20010,
     "RequiredTotalPoint": 15000,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingId": 0,
     "ThingQuantity": 200000
   },
@@ -779,7 +779,7 @@
     "Id": 2001006,
     "StoryEventMasterId": 20010,
     "RequiredTotalPoint": 20000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130012,
     "ThingQuantity": 1
   },
@@ -787,7 +787,7 @@
     "Id": 2001007,
     "StoryEventMasterId": 20010,
     "RequiredTotalPoint": 25000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130011,
     "ThingQuantity": 40
   },
@@ -795,7 +795,7 @@
     "Id": 2001008,
     "StoryEventMasterId": 20010,
     "RequiredTotalPoint": 30000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130012,
     "ThingQuantity": 1
   },
@@ -803,7 +803,7 @@
     "Id": 2001009,
     "StoryEventMasterId": 20010,
     "RequiredTotalPoint": 35000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130011,
     "ThingQuantity": 40
   },
@@ -811,7 +811,7 @@
     "Id": 2001010,
     "StoryEventMasterId": 20010,
     "RequiredTotalPoint": 40000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130012,
     "ThingQuantity": 1
   },
@@ -819,7 +819,7 @@
     "Id": 2001011,
     "StoryEventMasterId": 20010,
     "RequiredTotalPoint": 45000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 211001,
     "ThingQuantity": 1
   },
@@ -827,7 +827,7 @@
     "Id": 2001012,
     "StoryEventMasterId": 20010,
     "RequiredTotalPoint": 50000,
-    "ThingType": 13,
+    "ThingType": "Jewel",
     "ThingId": 0,
     "ThingQuantity": 100
   },
@@ -835,7 +835,7 @@
     "Id": 2001013,
     "StoryEventMasterId": 20010,
     "RequiredTotalPoint": 60000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130012,
     "ThingQuantity": 1
   },
@@ -843,7 +843,7 @@
     "Id": 2001014,
     "StoryEventMasterId": 20010,
     "RequiredTotalPoint": 70000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130011,
     "ThingQuantity": 50
   },
@@ -851,7 +851,7 @@
     "Id": 2001015,
     "StoryEventMasterId": 20010,
     "RequiredTotalPoint": 80000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 111004,
     "ThingQuantity": 5
   },
@@ -859,7 +859,7 @@
     "Id": 2001016,
     "StoryEventMasterId": 20010,
     "RequiredTotalPoint": 90000,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingId": 0,
     "ThingQuantity": 300000
   },
@@ -867,7 +867,7 @@
     "Id": 2001017,
     "StoryEventMasterId": 20010,
     "RequiredTotalPoint": 100000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130012,
     "ThingQuantity": 1
   },
@@ -875,7 +875,7 @@
     "Id": 2001018,
     "StoryEventMasterId": 20010,
     "RequiredTotalPoint": 110000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130011,
     "ThingQuantity": 50
   },
@@ -883,7 +883,7 @@
     "Id": 2001019,
     "StoryEventMasterId": 20010,
     "RequiredTotalPoint": 120000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 111004,
     "ThingQuantity": 5
   },
@@ -891,7 +891,7 @@
     "Id": 2001020,
     "StoryEventMasterId": 20010,
     "RequiredTotalPoint": 130000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130011,
     "ThingQuantity": 50
   },
@@ -899,7 +899,7 @@
     "Id": 2001021,
     "StoryEventMasterId": 20010,
     "RequiredTotalPoint": 140000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130012,
     "ThingQuantity": 1
   },
@@ -907,7 +907,7 @@
     "Id": 2001022,
     "StoryEventMasterId": 20010,
     "RequiredTotalPoint": 150000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 211001,
     "ThingQuantity": 1
   },
@@ -915,7 +915,7 @@
     "Id": 2001023,
     "StoryEventMasterId": 20010,
     "RequiredTotalPoint": 160000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 111004,
     "ThingQuantity": 5
   },
@@ -923,7 +923,7 @@
     "Id": 2001024,
     "StoryEventMasterId": 20010,
     "RequiredTotalPoint": 170000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130011,
     "ThingQuantity": 80
   },
@@ -931,7 +931,7 @@
     "Id": 2001025,
     "StoryEventMasterId": 20010,
     "RequiredTotalPoint": 180000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130012,
     "ThingQuantity": 1
   },
@@ -939,7 +939,7 @@
     "Id": 2001026,
     "StoryEventMasterId": 20010,
     "RequiredTotalPoint": 190000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130011,
     "ThingQuantity": 100
   },
@@ -947,7 +947,7 @@
     "Id": 2001027,
     "StoryEventMasterId": 20010,
     "RequiredTotalPoint": 200000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130013,
     "ThingQuantity": 1
   },
@@ -955,7 +955,7 @@
     "Id": 2001028,
     "StoryEventMasterId": 20010,
     "RequiredTotalPoint": 220000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130064,
     "ThingQuantity": 20
   },
@@ -963,7 +963,7 @@
     "Id": 2001029,
     "StoryEventMasterId": 20010,
     "RequiredTotalPoint": 240000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130012,
     "ThingQuantity": 2
   },
@@ -971,7 +971,7 @@
     "Id": 2001030,
     "StoryEventMasterId": 20010,
     "RequiredTotalPoint": 260000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130064,
     "ThingQuantity": 30
   },
@@ -979,7 +979,7 @@
     "Id": 2001031,
     "StoryEventMasterId": 20010,
     "RequiredTotalPoint": 280000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130012,
     "ThingQuantity": 2
   },
@@ -987,7 +987,7 @@
     "Id": 2001032,
     "StoryEventMasterId": 20010,
     "RequiredTotalPoint": 300000,
-    "ThingType": 13,
+    "ThingType": "Jewel",
     "ThingId": 0,
     "ThingQuantity": 500
   },
@@ -995,7 +995,7 @@
     "Id": 2001033,
     "StoryEventMasterId": 20010,
     "RequiredTotalPoint": 350000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130072,
     "ThingQuantity": 5
   },
@@ -1003,7 +1003,7 @@
     "Id": 2001034,
     "StoryEventMasterId": 20010,
     "RequiredTotalPoint": 400000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 140000,
     "ThingQuantity": 100
   },
@@ -1011,7 +1011,7 @@
     "Id": 2001035,
     "StoryEventMasterId": 20010,
     "RequiredTotalPoint": 450000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 211002,
     "ThingQuantity": 1
   },
@@ -1019,7 +1019,7 @@
     "Id": 2001036,
     "StoryEventMasterId": 20010,
     "RequiredTotalPoint": 500000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130013,
     "ThingQuantity": 1
   },
@@ -1027,7 +1027,7 @@
     "Id": 2001037,
     "StoryEventMasterId": 20010,
     "RequiredTotalPoint": 600000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130072,
     "ThingQuantity": 5
   },
@@ -1035,7 +1035,7 @@
     "Id": 2001038,
     "StoryEventMasterId": 20010,
     "RequiredTotalPoint": 700000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130012,
     "ThingQuantity": 3
   },
@@ -1043,7 +1043,7 @@
     "Id": 2001039,
     "StoryEventMasterId": 20010,
     "RequiredTotalPoint": 800000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130064,
     "ThingQuantity": 50
   },
@@ -1051,7 +1051,7 @@
     "Id": 2001040,
     "StoryEventMasterId": 20010,
     "RequiredTotalPoint": 900000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130012,
     "ThingQuantity": 5
   },
@@ -1059,7 +1059,7 @@
     "Id": 2001041,
     "StoryEventMasterId": 20010,
     "RequiredTotalPoint": 1000000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130071,
     "ThingQuantity": 1
   },
@@ -1067,7 +1067,7 @@
     "Id": 2001042,
     "StoryEventMasterId": 20010,
     "RequiredTotalPoint": 1200000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130072,
     "ThingQuantity": 2
   },
@@ -1075,7 +1075,7 @@
     "Id": 2001043,
     "StoryEventMasterId": 20010,
     "RequiredTotalPoint": 1400000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130072,
     "ThingQuantity": 2
   },
@@ -1083,7 +1083,7 @@
     "Id": 2001044,
     "StoryEventMasterId": 20010,
     "RequiredTotalPoint": 1600000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130072,
     "ThingQuantity": 2
   },
@@ -1091,7 +1091,7 @@
     "Id": 2001045,
     "StoryEventMasterId": 20010,
     "RequiredTotalPoint": 1800000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130072,
     "ThingQuantity": 2
   },
@@ -1099,7 +1099,7 @@
     "Id": 2001046,
     "StoryEventMasterId": 20010,
     "RequiredTotalPoint": 2000000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130072,
     "ThingQuantity": 2
   },
@@ -1107,7 +1107,7 @@
     "Id": 2001101,
     "StoryEventMasterId": 20011,
     "RequiredTotalPoint": 1000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130011,
     "ThingQuantity": 30
   },
@@ -1115,7 +1115,7 @@
     "Id": 2001102,
     "StoryEventMasterId": 20011,
     "RequiredTotalPoint": 3000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130011,
     "ThingQuantity": 30
   },
@@ -1123,7 +1123,7 @@
     "Id": 2001103,
     "StoryEventMasterId": 20011,
     "RequiredTotalPoint": 6000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130011,
     "ThingQuantity": 30
   },
@@ -1131,7 +1131,7 @@
     "Id": 2001104,
     "StoryEventMasterId": 20011,
     "RequiredTotalPoint": 10000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130012,
     "ThingQuantity": 1
   },
@@ -1139,7 +1139,7 @@
     "Id": 2001105,
     "StoryEventMasterId": 20011,
     "RequiredTotalPoint": 15000,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingId": 0,
     "ThingQuantity": 200000
   },
@@ -1147,7 +1147,7 @@
     "Id": 2001106,
     "StoryEventMasterId": 20011,
     "RequiredTotalPoint": 20000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130012,
     "ThingQuantity": 1
   },
@@ -1155,7 +1155,7 @@
     "Id": 2001107,
     "StoryEventMasterId": 20011,
     "RequiredTotalPoint": 25000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130011,
     "ThingQuantity": 40
   },
@@ -1163,7 +1163,7 @@
     "Id": 2001108,
     "StoryEventMasterId": 20011,
     "RequiredTotalPoint": 30000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130012,
     "ThingQuantity": 1
   },
@@ -1171,7 +1171,7 @@
     "Id": 2001109,
     "StoryEventMasterId": 20011,
     "RequiredTotalPoint": 35000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130011,
     "ThingQuantity": 40
   },
@@ -1179,7 +1179,7 @@
     "Id": 2001110,
     "StoryEventMasterId": 20011,
     "RequiredTotalPoint": 40000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130012,
     "ThingQuantity": 1
   },
@@ -1187,7 +1187,7 @@
     "Id": 2001111,
     "StoryEventMasterId": 20011,
     "RequiredTotalPoint": 45000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 211001,
     "ThingQuantity": 1
   },
@@ -1195,7 +1195,7 @@
     "Id": 2001112,
     "StoryEventMasterId": 20011,
     "RequiredTotalPoint": 50000,
-    "ThingType": 13,
+    "ThingType": "Jewel",
     "ThingId": 0,
     "ThingQuantity": 100
   },
@@ -1203,7 +1203,7 @@
     "Id": 2001113,
     "StoryEventMasterId": 20011,
     "RequiredTotalPoint": 60000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130012,
     "ThingQuantity": 1
   },
@@ -1211,7 +1211,7 @@
     "Id": 2001114,
     "StoryEventMasterId": 20011,
     "RequiredTotalPoint": 70000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130011,
     "ThingQuantity": 50
   },
@@ -1219,7 +1219,7 @@
     "Id": 2001115,
     "StoryEventMasterId": 20011,
     "RequiredTotalPoint": 80000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 111005,
     "ThingQuantity": 5
   },
@@ -1227,7 +1227,7 @@
     "Id": 2001116,
     "StoryEventMasterId": 20011,
     "RequiredTotalPoint": 90000,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingId": 0,
     "ThingQuantity": 300000
   },
@@ -1235,7 +1235,7 @@
     "Id": 2001117,
     "StoryEventMasterId": 20011,
     "RequiredTotalPoint": 100000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130012,
     "ThingQuantity": 1
   },
@@ -1243,7 +1243,7 @@
     "Id": 2001118,
     "StoryEventMasterId": 20011,
     "RequiredTotalPoint": 110000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130011,
     "ThingQuantity": 50
   },
@@ -1251,7 +1251,7 @@
     "Id": 2001119,
     "StoryEventMasterId": 20011,
     "RequiredTotalPoint": 120000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 111005,
     "ThingQuantity": 5
   },
@@ -1259,7 +1259,7 @@
     "Id": 2001120,
     "StoryEventMasterId": 20011,
     "RequiredTotalPoint": 130000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130011,
     "ThingQuantity": 50
   },
@@ -1267,7 +1267,7 @@
     "Id": 2001121,
     "StoryEventMasterId": 20011,
     "RequiredTotalPoint": 140000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130012,
     "ThingQuantity": 1
   },
@@ -1275,7 +1275,7 @@
     "Id": 2001122,
     "StoryEventMasterId": 20011,
     "RequiredTotalPoint": 150000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 211001,
     "ThingQuantity": 1
   },
@@ -1283,7 +1283,7 @@
     "Id": 2001123,
     "StoryEventMasterId": 20011,
     "RequiredTotalPoint": 160000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 111005,
     "ThingQuantity": 5
   },
@@ -1291,7 +1291,7 @@
     "Id": 2001124,
     "StoryEventMasterId": 20011,
     "RequiredTotalPoint": 170000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130011,
     "ThingQuantity": 80
   },
@@ -1299,7 +1299,7 @@
     "Id": 2001125,
     "StoryEventMasterId": 20011,
     "RequiredTotalPoint": 180000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130012,
     "ThingQuantity": 1
   },
@@ -1307,7 +1307,7 @@
     "Id": 2001126,
     "StoryEventMasterId": 20011,
     "RequiredTotalPoint": 190000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130011,
     "ThingQuantity": 100
   },
@@ -1315,7 +1315,7 @@
     "Id": 2001127,
     "StoryEventMasterId": 20011,
     "RequiredTotalPoint": 200000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130013,
     "ThingQuantity": 1
   },
@@ -1323,7 +1323,7 @@
     "Id": 2001128,
     "StoryEventMasterId": 20011,
     "RequiredTotalPoint": 220000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130064,
     "ThingQuantity": 20
   },
@@ -1331,7 +1331,7 @@
     "Id": 2001129,
     "StoryEventMasterId": 20011,
     "RequiredTotalPoint": 240000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130012,
     "ThingQuantity": 2
   },
@@ -1339,7 +1339,7 @@
     "Id": 2001130,
     "StoryEventMasterId": 20011,
     "RequiredTotalPoint": 260000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130064,
     "ThingQuantity": 30
   },
@@ -1347,7 +1347,7 @@
     "Id": 2001131,
     "StoryEventMasterId": 20011,
     "RequiredTotalPoint": 280000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130012,
     "ThingQuantity": 2
   },
@@ -1355,7 +1355,7 @@
     "Id": 2001132,
     "StoryEventMasterId": 20011,
     "RequiredTotalPoint": 300000,
-    "ThingType": 13,
+    "ThingType": "Jewel",
     "ThingId": 0,
     "ThingQuantity": 500
   },
@@ -1363,7 +1363,7 @@
     "Id": 2001133,
     "StoryEventMasterId": 20011,
     "RequiredTotalPoint": 350000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130072,
     "ThingQuantity": 5
   },
@@ -1371,7 +1371,7 @@
     "Id": 2001134,
     "StoryEventMasterId": 20011,
     "RequiredTotalPoint": 400000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 140000,
     "ThingQuantity": 100
   },
@@ -1379,7 +1379,7 @@
     "Id": 2001135,
     "StoryEventMasterId": 20011,
     "RequiredTotalPoint": 450000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 211002,
     "ThingQuantity": 1
   },
@@ -1387,7 +1387,7 @@
     "Id": 2001136,
     "StoryEventMasterId": 20011,
     "RequiredTotalPoint": 500000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130013,
     "ThingQuantity": 1
   },
@@ -1395,7 +1395,7 @@
     "Id": 2001137,
     "StoryEventMasterId": 20011,
     "RequiredTotalPoint": 600000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130072,
     "ThingQuantity": 5
   },
@@ -1403,7 +1403,7 @@
     "Id": 2001138,
     "StoryEventMasterId": 20011,
     "RequiredTotalPoint": 700000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130012,
     "ThingQuantity": 3
   },
@@ -1411,7 +1411,7 @@
     "Id": 2001139,
     "StoryEventMasterId": 20011,
     "RequiredTotalPoint": 800000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130064,
     "ThingQuantity": 50
   },
@@ -1419,7 +1419,7 @@
     "Id": 2001140,
     "StoryEventMasterId": 20011,
     "RequiredTotalPoint": 900000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130012,
     "ThingQuantity": 5
   },
@@ -1427,7 +1427,7 @@
     "Id": 2001141,
     "StoryEventMasterId": 20011,
     "RequiredTotalPoint": 1000000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130071,
     "ThingQuantity": 1
   },
@@ -1435,7 +1435,7 @@
     "Id": 2001142,
     "StoryEventMasterId": 20011,
     "RequiredTotalPoint": 1200000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130072,
     "ThingQuantity": 2
   },
@@ -1443,7 +1443,7 @@
     "Id": 2001143,
     "StoryEventMasterId": 20011,
     "RequiredTotalPoint": 1400000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130072,
     "ThingQuantity": 2
   },
@@ -1451,7 +1451,7 @@
     "Id": 2001144,
     "StoryEventMasterId": 20011,
     "RequiredTotalPoint": 1600000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130072,
     "ThingQuantity": 2
   },
@@ -1459,7 +1459,7 @@
     "Id": 2001145,
     "StoryEventMasterId": 20011,
     "RequiredTotalPoint": 1800000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130072,
     "ThingQuantity": 2
   },
@@ -1467,7 +1467,7 @@
     "Id": 2001146,
     "StoryEventMasterId": 20011,
     "RequiredTotalPoint": 2000000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130072,
     "ThingQuantity": 2
   },
@@ -1475,7 +1475,7 @@
     "Id": 2001201,
     "StoryEventMasterId": 20012,
     "RequiredTotalPoint": 1000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130011,
     "ThingQuantity": 30
   },
@@ -1483,7 +1483,7 @@
     "Id": 2001202,
     "StoryEventMasterId": 20012,
     "RequiredTotalPoint": 3000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130011,
     "ThingQuantity": 30
   },
@@ -1491,7 +1491,7 @@
     "Id": 2001203,
     "StoryEventMasterId": 20012,
     "RequiredTotalPoint": 6000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130011,
     "ThingQuantity": 30
   },
@@ -1499,7 +1499,7 @@
     "Id": 2001204,
     "StoryEventMasterId": 20012,
     "RequiredTotalPoint": 10000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130012,
     "ThingQuantity": 1
   },
@@ -1507,7 +1507,7 @@
     "Id": 2001205,
     "StoryEventMasterId": 20012,
     "RequiredTotalPoint": 15000,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingId": 0,
     "ThingQuantity": 200000
   },
@@ -1515,7 +1515,7 @@
     "Id": 2001206,
     "StoryEventMasterId": 20012,
     "RequiredTotalPoint": 20000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130012,
     "ThingQuantity": 1
   },
@@ -1523,7 +1523,7 @@
     "Id": 2001207,
     "StoryEventMasterId": 20012,
     "RequiredTotalPoint": 25000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130011,
     "ThingQuantity": 40
   },
@@ -1531,7 +1531,7 @@
     "Id": 2001208,
     "StoryEventMasterId": 20012,
     "RequiredTotalPoint": 30000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130012,
     "ThingQuantity": 1
   },
@@ -1539,7 +1539,7 @@
     "Id": 2001209,
     "StoryEventMasterId": 20012,
     "RequiredTotalPoint": 35000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130011,
     "ThingQuantity": 40
   },
@@ -1547,7 +1547,7 @@
     "Id": 2001210,
     "StoryEventMasterId": 20012,
     "RequiredTotalPoint": 40000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130012,
     "ThingQuantity": 1
   },
@@ -1555,7 +1555,7 @@
     "Id": 2001211,
     "StoryEventMasterId": 20012,
     "RequiredTotalPoint": 45000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 211001,
     "ThingQuantity": 1
   },
@@ -1563,7 +1563,7 @@
     "Id": 2001212,
     "StoryEventMasterId": 20012,
     "RequiredTotalPoint": 50000,
-    "ThingType": 13,
+    "ThingType": "Jewel",
     "ThingId": 0,
     "ThingQuantity": 100
   },
@@ -1571,7 +1571,7 @@
     "Id": 2001213,
     "StoryEventMasterId": 20012,
     "RequiredTotalPoint": 60000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130012,
     "ThingQuantity": 1
   },
@@ -1579,7 +1579,7 @@
     "Id": 2001214,
     "StoryEventMasterId": 20012,
     "RequiredTotalPoint": 70000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130011,
     "ThingQuantity": 50
   },
@@ -1587,7 +1587,7 @@
     "Id": 2001215,
     "StoryEventMasterId": 20012,
     "RequiredTotalPoint": 80000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 111006,
     "ThingQuantity": 5
   },
@@ -1595,7 +1595,7 @@
     "Id": 2001216,
     "StoryEventMasterId": 20012,
     "RequiredTotalPoint": 90000,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingId": 0,
     "ThingQuantity": 300000
   },
@@ -1603,7 +1603,7 @@
     "Id": 2001217,
     "StoryEventMasterId": 20012,
     "RequiredTotalPoint": 100000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130012,
     "ThingQuantity": 1
   },
@@ -1611,7 +1611,7 @@
     "Id": 2001218,
     "StoryEventMasterId": 20012,
     "RequiredTotalPoint": 110000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130011,
     "ThingQuantity": 50
   },
@@ -1619,7 +1619,7 @@
     "Id": 2001219,
     "StoryEventMasterId": 20012,
     "RequiredTotalPoint": 120000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 111006,
     "ThingQuantity": 5
   },
@@ -1627,7 +1627,7 @@
     "Id": 2001220,
     "StoryEventMasterId": 20012,
     "RequiredTotalPoint": 130000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130011,
     "ThingQuantity": 50
   },
@@ -1635,7 +1635,7 @@
     "Id": 2001221,
     "StoryEventMasterId": 20012,
     "RequiredTotalPoint": 140000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130012,
     "ThingQuantity": 1
   },
@@ -1643,7 +1643,7 @@
     "Id": 2001222,
     "StoryEventMasterId": 20012,
     "RequiredTotalPoint": 150000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 211001,
     "ThingQuantity": 1
   },
@@ -1651,7 +1651,7 @@
     "Id": 2001223,
     "StoryEventMasterId": 20012,
     "RequiredTotalPoint": 160000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 111006,
     "ThingQuantity": 5
   },
@@ -1659,7 +1659,7 @@
     "Id": 2001224,
     "StoryEventMasterId": 20012,
     "RequiredTotalPoint": 170000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130011,
     "ThingQuantity": 80
   },
@@ -1667,7 +1667,7 @@
     "Id": 2001225,
     "StoryEventMasterId": 20012,
     "RequiredTotalPoint": 180000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130012,
     "ThingQuantity": 1
   },
@@ -1675,7 +1675,7 @@
     "Id": 2001226,
     "StoryEventMasterId": 20012,
     "RequiredTotalPoint": 190000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130011,
     "ThingQuantity": 100
   },
@@ -1683,7 +1683,7 @@
     "Id": 2001227,
     "StoryEventMasterId": 20012,
     "RequiredTotalPoint": 200000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130013,
     "ThingQuantity": 1
   },
@@ -1691,7 +1691,7 @@
     "Id": 2001228,
     "StoryEventMasterId": 20012,
     "RequiredTotalPoint": 220000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130064,
     "ThingQuantity": 20
   },
@@ -1699,7 +1699,7 @@
     "Id": 2001229,
     "StoryEventMasterId": 20012,
     "RequiredTotalPoint": 240000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130012,
     "ThingQuantity": 2
   },
@@ -1707,7 +1707,7 @@
     "Id": 2001230,
     "StoryEventMasterId": 20012,
     "RequiredTotalPoint": 260000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130064,
     "ThingQuantity": 30
   },
@@ -1715,7 +1715,7 @@
     "Id": 2001231,
     "StoryEventMasterId": 20012,
     "RequiredTotalPoint": 280000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130012,
     "ThingQuantity": 2
   },
@@ -1723,7 +1723,7 @@
     "Id": 2001232,
     "StoryEventMasterId": 20012,
     "RequiredTotalPoint": 300000,
-    "ThingType": 13,
+    "ThingType": "Jewel",
     "ThingId": 0,
     "ThingQuantity": 500
   },
@@ -1731,7 +1731,7 @@
     "Id": 2001233,
     "StoryEventMasterId": 20012,
     "RequiredTotalPoint": 350000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130072,
     "ThingQuantity": 5
   },
@@ -1739,7 +1739,7 @@
     "Id": 2001234,
     "StoryEventMasterId": 20012,
     "RequiredTotalPoint": 400000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 140000,
     "ThingQuantity": 100
   },
@@ -1747,7 +1747,7 @@
     "Id": 2001235,
     "StoryEventMasterId": 20012,
     "RequiredTotalPoint": 450000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 211002,
     "ThingQuantity": 1
   },
@@ -1755,7 +1755,7 @@
     "Id": 2001236,
     "StoryEventMasterId": 20012,
     "RequiredTotalPoint": 500000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130013,
     "ThingQuantity": 1
   },
@@ -1763,7 +1763,7 @@
     "Id": 2001237,
     "StoryEventMasterId": 20012,
     "RequiredTotalPoint": 600000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130072,
     "ThingQuantity": 5
   },
@@ -1771,7 +1771,7 @@
     "Id": 2001238,
     "StoryEventMasterId": 20012,
     "RequiredTotalPoint": 700000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130012,
     "ThingQuantity": 3
   },
@@ -1779,7 +1779,7 @@
     "Id": 2001239,
     "StoryEventMasterId": 20012,
     "RequiredTotalPoint": 800000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130064,
     "ThingQuantity": 50
   },
@@ -1787,7 +1787,7 @@
     "Id": 2001240,
     "StoryEventMasterId": 20012,
     "RequiredTotalPoint": 900000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130012,
     "ThingQuantity": 5
   },
@@ -1795,7 +1795,7 @@
     "Id": 2001241,
     "StoryEventMasterId": 20012,
     "RequiredTotalPoint": 1000000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130071,
     "ThingQuantity": 1
   },
@@ -1803,7 +1803,7 @@
     "Id": 2001242,
     "StoryEventMasterId": 20012,
     "RequiredTotalPoint": 1200000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130072,
     "ThingQuantity": 2
   },
@@ -1811,7 +1811,7 @@
     "Id": 2001243,
     "StoryEventMasterId": 20012,
     "RequiredTotalPoint": 1400000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130072,
     "ThingQuantity": 2
   },
@@ -1819,7 +1819,7 @@
     "Id": 2001244,
     "StoryEventMasterId": 20012,
     "RequiredTotalPoint": 1600000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130072,
     "ThingQuantity": 2
   },
@@ -1827,7 +1827,7 @@
     "Id": 2001245,
     "StoryEventMasterId": 20012,
     "RequiredTotalPoint": 1800000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130072,
     "ThingQuantity": 2
   },
@@ -1835,7 +1835,7 @@
     "Id": 2001246,
     "StoryEventMasterId": 20012,
     "RequiredTotalPoint": 2000000,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingId": 130072,
     "ThingQuantity": 2
   }

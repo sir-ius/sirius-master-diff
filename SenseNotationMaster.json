@@ -46,7 +46,7 @@
     "Buffs": [
       {
         "Id": 1,
-        "Type": 2,
+        "Type": "Company",
         "TargetValue": 1,
         "BuffValue": 50
       }
@@ -99,7 +99,7 @@
     "Buffs": [
       {
         "Id": 2,
-        "Type": 2,
+        "Type": "Company",
         "TargetValue": 1,
         "BuffValue": 50
       }
@@ -162,7 +162,7 @@
     "Buffs": [
       {
         "Id": 3,
-        "Type": 2,
+        "Type": "Company",
         "TargetValue": 1,
         "BuffValue": 50
       }
@@ -215,7 +215,7 @@
     "Buffs": [
       {
         "Id": 4,
-        "Type": 2,
+        "Type": "Company",
         "TargetValue": 1,
         "BuffValue": 50
       }
@@ -313,7 +313,7 @@
     "Buffs": [
       {
         "Id": 5,
-        "Type": 2,
+        "Type": "Company",
         "TargetValue": 1,
         "BuffValue": 50
       }
@@ -371,7 +371,7 @@
     "Buffs": [
       {
         "Id": 6,
-        "Type": 2,
+        "Type": "Company",
         "TargetValue": 2,
         "BuffValue": 50
       }
@@ -429,7 +429,7 @@
     "Buffs": [
       {
         "Id": 7,
-        "Type": 2,
+        "Type": "Company",
         "TargetValue": 2,
         "BuffValue": 50
       }
@@ -472,7 +472,7 @@
     "Buffs": [
       {
         "Id": 8,
-        "Type": 2,
+        "Type": "Company",
         "TargetValue": 2,
         "BuffValue": 50
       }
@@ -520,7 +520,7 @@
     "Buffs": [
       {
         "Id": 9,
-        "Type": 2,
+        "Type": "Company",
         "TargetValue": 2,
         "BuffValue": 50
       }
@@ -593,7 +593,7 @@
     "Buffs": [
       {
         "Id": 10,
-        "Type": 2,
+        "Type": "Company",
         "TargetValue": 2,
         "BuffValue": 50
       }
@@ -656,7 +656,7 @@
     "Buffs": [
       {
         "Id": 11,
-        "Type": 2,
+        "Type": "Company",
         "TargetValue": 3,
         "BuffValue": 50
       }
@@ -729,7 +729,7 @@
     "Buffs": [
       {
         "Id": 12,
-        "Type": 2,
+        "Type": "Company",
         "TargetValue": 3,
         "BuffValue": 50
       }
@@ -792,7 +792,7 @@
     "Buffs": [
       {
         "Id": 13,
-        "Type": 2,
+        "Type": "Company",
         "TargetValue": 3,
         "BuffValue": 50
       }
@@ -840,7 +840,7 @@
     "Buffs": [
       {
         "Id": 14,
-        "Type": 2,
+        "Type": "Company",
         "TargetValue": 3,
         "BuffValue": 50
       }
@@ -913,7 +913,7 @@
     "Buffs": [
       {
         "Id": 15,
-        "Type": 2,
+        "Type": "Company",
         "TargetValue": 3,
         "BuffValue": 50
       }
@@ -966,7 +966,7 @@
     "Buffs": [
       {
         "Id": 16,
-        "Type": 2,
+        "Type": "Company",
         "TargetValue": 4,
         "BuffValue": 50
       }
@@ -1019,7 +1019,7 @@
     "Buffs": [
       {
         "Id": 17,
-        "Type": 2,
+        "Type": "Company",
         "TargetValue": 4,
         "BuffValue": 50
       }
@@ -1107,7 +1107,7 @@
     "Buffs": [
       {
         "Id": 18,
-        "Type": 2,
+        "Type": "Company",
         "TargetValue": 4,
         "BuffValue": 50
       }
@@ -1150,7 +1150,7 @@
     "Buffs": [
       {
         "Id": 19,
-        "Type": 2,
+        "Type": "Company",
         "TargetValue": 4,
         "BuffValue": 50
       }
@@ -1248,7 +1248,7 @@
     "Buffs": [
       {
         "Id": 20,
-        "Type": 2,
+        "Type": "Company",
         "TargetValue": 4,
         "BuffValue": 50
       }
@@ -1296,7 +1296,7 @@
     "Buffs": [
       {
         "Id": 21,
-        "Type": 2,
+        "Type": "Company",
         "TargetValue": 1,
         "BuffValue": 50
       }
@@ -1349,7 +1349,7 @@
     "Buffs": [
       {
         "Id": 22,
-        "Type": 2,
+        "Type": "Company",
         "TargetValue": 1,
         "BuffValue": 50
       }
@@ -1417,7 +1417,7 @@
     "Buffs": [
       {
         "Id": 23,
-        "Type": 2,
+        "Type": "Company",
         "TargetValue": 1,
         "BuffValue": 50
       }
@@ -1460,7 +1460,7 @@
     "Buffs": [
       {
         "Id": 24,
-        "Type": 2,
+        "Type": "Company",
         "TargetValue": 1,
         "BuffValue": 50
       }
@@ -1528,7 +1528,7 @@
     "Buffs": [
       {
         "Id": 25,
-        "Type": 2,
+        "Type": "Company",
         "TargetValue": 1,
         "BuffValue": 50
       }
@@ -1601,7 +1601,7 @@
     "Buffs": [
       {
         "Id": 26,
-        "Type": 2,
+        "Type": "Company",
         "TargetValue": 2,
         "BuffValue": 50
       }
@@ -1639,7 +1639,7 @@
     "Buffs": [
       {
         "Id": 27,
-        "Type": 2,
+        "Type": "Company",
         "TargetValue": 2,
         "BuffValue": 50
       }
@@ -1697,7 +1697,7 @@
     "Buffs": [
       {
         "Id": 28,
-        "Type": 2,
+        "Type": "Company",
         "TargetValue": 2,
         "BuffValue": 50
       }
@@ -1780,7 +1780,7 @@
     "Buffs": [
       {
         "Id": 29,
-        "Type": 2,
+        "Type": "Company",
         "TargetValue": 2,
         "BuffValue": 50
       }
@@ -1873,7 +1873,7 @@
     "Buffs": [
       {
         "Id": 30,
-        "Type": 2,
+        "Type": "Company",
         "TargetValue": 2,
         "BuffValue": 50
       }
@@ -1956,7 +1956,7 @@
     "Buffs": [
       {
         "Id": 31,
-        "Type": 2,
+        "Type": "Company",
         "TargetValue": 3,
         "BuffValue": 50
       }
@@ -2019,7 +2019,7 @@
     "Buffs": [
       {
         "Id": 32,
-        "Type": 2,
+        "Type": "Company",
         "TargetValue": 3,
         "BuffValue": 50
       }
@@ -2082,7 +2082,7 @@
     "Buffs": [
       {
         "Id": 33,
-        "Type": 2,
+        "Type": "Company",
         "TargetValue": 3,
         "BuffValue": 50
       }
@@ -2140,7 +2140,7 @@
     "Buffs": [
       {
         "Id": 34,
-        "Type": 2,
+        "Type": "Company",
         "TargetValue": 3,
         "BuffValue": 50
       }
@@ -2213,7 +2213,7 @@
     "Buffs": [
       {
         "Id": 35,
-        "Type": 2,
+        "Type": "Company",
         "TargetValue": 3,
         "BuffValue": 50
       }
@@ -2271,7 +2271,7 @@
     "Buffs": [
       {
         "Id": 36,
-        "Type": 2,
+        "Type": "Company",
         "TargetValue": 4,
         "BuffValue": 50
       }
@@ -2369,7 +2369,7 @@
     "Buffs": [
       {
         "Id": 37,
-        "Type": 2,
+        "Type": "Company",
         "TargetValue": 4,
         "BuffValue": 50
       }
@@ -2422,7 +2422,7 @@
     "Buffs": [
       {
         "Id": 38,
-        "Type": 2,
+        "Type": "Company",
         "TargetValue": 4,
         "BuffValue": 50
       }
@@ -2480,7 +2480,7 @@
     "Buffs": [
       {
         "Id": 39,
-        "Type": 2,
+        "Type": "Company",
         "TargetValue": 4,
         "BuffValue": 50
       }
@@ -2543,7 +2543,7 @@
     "Buffs": [
       {
         "Id": 40,
-        "Type": 2,
+        "Type": "Company",
         "TargetValue": 4,
         "BuffValue": 50
       }
@@ -2586,7 +2586,7 @@
     "Buffs": [
       {
         "Id": 41,
-        "Type": 2,
+        "Type": "Company",
         "TargetValue": 1,
         "BuffValue": 50
       }
@@ -2634,7 +2634,7 @@
     "Buffs": [
       {
         "Id": 42,
-        "Type": 2,
+        "Type": "Company",
         "TargetValue": 1,
         "BuffValue": 50
       }
@@ -2682,7 +2682,7 @@
     "Buffs": [
       {
         "Id": 43,
-        "Type": 2,
+        "Type": "Company",
         "TargetValue": 1,
         "BuffValue": 50
       }
@@ -2715,7 +2715,7 @@
     "Buffs": [
       {
         "Id": 44,
-        "Type": 2,
+        "Type": "Company",
         "TargetValue": 1,
         "BuffValue": 50
       }
@@ -2773,7 +2773,7 @@
     "Buffs": [
       {
         "Id": 45,
-        "Type": 2,
+        "Type": "Company",
         "TargetValue": 1,
         "BuffValue": 50
       }
@@ -2826,7 +2826,7 @@
     "Buffs": [
       {
         "Id": 46,
-        "Type": 2,
+        "Type": "Company",
         "TargetValue": 2,
         "BuffValue": 50
       }
@@ -2874,7 +2874,7 @@
     "Buffs": [
       {
         "Id": 47,
-        "Type": 2,
+        "Type": "Company",
         "TargetValue": 2,
         "BuffValue": 50
       }
@@ -2932,7 +2932,7 @@
     "Buffs": [
       {
         "Id": 48,
-        "Type": 2,
+        "Type": "Company",
         "TargetValue": 2,
         "BuffValue": 50
       }
@@ -2975,7 +2975,7 @@
     "Buffs": [
       {
         "Id": 49,
-        "Type": 2,
+        "Type": "Company",
         "TargetValue": 2,
         "BuffValue": 50
       }
@@ -3038,7 +3038,7 @@
     "Buffs": [
       {
         "Id": 50,
-        "Type": 2,
+        "Type": "Company",
         "TargetValue": 2,
         "BuffValue": 50
       }
@@ -3086,7 +3086,7 @@
     "Buffs": [
       {
         "Id": 51,
-        "Type": 2,
+        "Type": "Company",
         "TargetValue": 3,
         "BuffValue": 50
       }
@@ -3139,7 +3139,7 @@
     "Buffs": [
       {
         "Id": 52,
-        "Type": 2,
+        "Type": "Company",
         "TargetValue": 3,
         "BuffValue": 50
       }
@@ -3187,7 +3187,7 @@
     "Buffs": [
       {
         "Id": 53,
-        "Type": 2,
+        "Type": "Company",
         "TargetValue": 3,
         "BuffValue": 50
       }
@@ -3245,7 +3245,7 @@
     "Buffs": [
       {
         "Id": 54,
-        "Type": 2,
+        "Type": "Company",
         "TargetValue": 3,
         "BuffValue": 50
       }
@@ -3323,7 +3323,7 @@
     "Buffs": [
       {
         "Id": 55,
-        "Type": 2,
+        "Type": "Company",
         "TargetValue": 3,
         "BuffValue": 50
       }
@@ -3381,7 +3381,7 @@
     "Buffs": [
       {
         "Id": 56,
-        "Type": 2,
+        "Type": "Company",
         "TargetValue": 4,
         "BuffValue": 50
       }
@@ -3444,7 +3444,7 @@
     "Buffs": [
       {
         "Id": 57,
-        "Type": 2,
+        "Type": "Company",
         "TargetValue": 4,
         "BuffValue": 50
       }
@@ -3482,7 +3482,7 @@
     "Buffs": [
       {
         "Id": 58,
-        "Type": 2,
+        "Type": "Company",
         "TargetValue": 4,
         "BuffValue": 50
       }
@@ -3545,7 +3545,7 @@
     "Buffs": [
       {
         "Id": 59,
-        "Type": 2,
+        "Type": "Company",
         "TargetValue": 4,
         "BuffValue": 50
       }
@@ -3628,7 +3628,7 @@
     "Buffs": [
       {
         "Id": 60,
-        "Type": 2,
+        "Type": "Company",
         "TargetValue": 4,
         "BuffValue": 50
       }
@@ -3751,7 +3751,7 @@
     "Buffs": [
       {
         "Id": 1001,
-        "Type": 2,
+        "Type": "Company",
         "TargetValue": 1,
         "BuffValue": 50
       }
@@ -3874,7 +3874,7 @@
     "Buffs": [
       {
         "Id": 1002,
-        "Type": 2,
+        "Type": "Company",
         "TargetValue": 2,
         "BuffValue": 50
       }
@@ -3972,7 +3972,7 @@
     "Buffs": [
       {
         "Id": 1003,
-        "Type": 2,
+        "Type": "Company",
         "TargetValue": 4,
         "BuffValue": 50
       }
@@ -4075,7 +4075,7 @@
     "Buffs": [
       {
         "Id": 1004,
-        "Type": 2,
+        "Type": "Company",
         "TargetValue": 3,
         "BuffValue": 50
       }
@@ -4188,7 +4188,7 @@
     "Buffs": [
       {
         "Id": 1005,
-        "Type": 2,
+        "Type": "Company",
         "TargetValue": 1,
         "BuffValue": 100
       }
@@ -4296,7 +4296,7 @@
     "Buffs": [
       {
         "Id": 1006,
-        "Type": 2,
+        "Type": "Company",
         "TargetValue": 2,
         "BuffValue": 100
       }
@@ -4434,7 +4434,7 @@
     "Buffs": [
       {
         "Id": 1007,
-        "Type": 2,
+        "Type": "Company",
         "TargetValue": 3,
         "BuffValue": 100
       }
@@ -4552,7 +4552,7 @@
     "Buffs": [
       {
         "Id": 1008,
-        "Type": 2,
+        "Type": "Company",
         "TargetValue": 4,
         "BuffValue": 100
       }
@@ -4660,7 +4660,7 @@
     "Buffs": [
       {
         "Id": 1009,
-        "Type": 2,
+        "Type": "Company",
         "TargetValue": 1,
         "BuffValue": 100
       }
@@ -4773,7 +4773,7 @@
     "Buffs": [
       {
         "Id": 1010,
-        "Type": 2,
+        "Type": "Company",
         "TargetValue": 2,
         "BuffValue": 100
       }
@@ -4891,7 +4891,7 @@
     "Buffs": [
       {
         "Id": 1011,
-        "Type": 2,
+        "Type": "Company",
         "TargetValue": 3,
         "BuffValue": 100
       }
@@ -5004,7 +5004,7 @@
     "Buffs": [
       {
         "Id": 1012,
-        "Type": 2,
+        "Type": "Company",
         "TargetValue": 4,
         "BuffValue": 100
       }
@@ -5117,7 +5117,7 @@
     "Buffs": [
       {
         "Id": 1013,
-        "Type": 2,
+        "Type": "Company",
         "TargetValue": 1,
         "BuffValue": 100
       }
@@ -5225,7 +5225,7 @@
     "Buffs": [
       {
         "Id": 1014,
-        "Type": 2,
+        "Type": "Company",
         "TargetValue": 2,
         "BuffValue": 100
       }
@@ -5338,7 +5338,7 @@
     "Buffs": [
       {
         "Id": 1015,
-        "Type": 2,
+        "Type": "Company",
         "TargetValue": 3,
         "BuffValue": 100
       }
@@ -5441,7 +5441,7 @@
     "Buffs": [
       {
         "Id": 1016,
-        "Type": 2,
+        "Type": "Company",
         "TargetValue": 4,
         "BuffValue": 100
       }
@@ -5569,7 +5569,7 @@
     "Buffs": [
       {
         "Id": 1017,
-        "Type": 2,
+        "Type": "Company",
         "TargetValue": 1,
         "BuffValue": 100
       }
@@ -5707,7 +5707,7 @@
     "Buffs": [
       {
         "Id": 1018,
-        "Type": 2,
+        "Type": "Company",
         "TargetValue": 2,
         "BuffValue": 100
       }
@@ -5835,7 +5835,7 @@
     "Buffs": [
       {
         "Id": 1019,
-        "Type": 2,
+        "Type": "Company",
         "TargetValue": 3,
         "BuffValue": 100
       }
@@ -5928,7 +5928,7 @@
     "Buffs": [
       {
         "Id": 20002,
-        "Type": 2,
+        "Type": "Company",
         "TargetValue": 4,
         "BuffValue": 50
       }
@@ -6001,7 +6001,7 @@
     "Buffs": [
       {
         "Id": 20005,
-        "Type": 1,
+        "Type": "Attribute",
         "TargetValue": 1,
         "BuffValue": 50
       }
@@ -6074,7 +6074,7 @@
     "Buffs": [
       {
         "Id": 20006,
-        "Type": 1,
+        "Type": "Attribute",
         "TargetValue": 3,
         "BuffValue": 50
       }
@@ -6147,7 +6147,7 @@
     "Buffs": [
       {
         "Id": 20008,
-        "Type": 1,
+        "Type": "Attribute",
         "TargetValue": 2,
         "BuffValue": 50
       }
@@ -6220,7 +6220,7 @@
     "Buffs": [
       {
         "Id": 20012,
-        "Type": 1,
+        "Type": "Attribute",
         "TargetValue": 4,
         "BuffValue": 50
       }

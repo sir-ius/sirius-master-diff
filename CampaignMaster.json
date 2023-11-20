@@ -6,7 +6,8 @@
     "IconImagePath": "4",
     "Order": 1,
     "StartDate": "2023-09-25T05:00:00.000Z",
-    "EndDate": "2023-09-30T05:00:00.000Z"
+    "EndDate": "2023-09-30T05:00:00.000Z",
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 2,
@@ -15,7 +16,8 @@
     "IconImagePath": "3",
     "Order": 2,
     "StartDate": "2023-09-30T05:00:00.000Z",
-    "EndDate": "2023-10-09T05:00:00.000Z"
+    "EndDate": "2023-10-09T05:00:00.000Z",
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 3,
@@ -24,7 +26,8 @@
     "IconImagePath": "1",
     "Order": 3,
     "StartDate": "2023-10-09T05:00:00.000Z",
-    "EndDate": "2023-10-17T05:00:00.000Z"
+    "EndDate": "2023-10-17T05:00:00.000Z",
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 1000,
@@ -33,7 +36,8 @@
     "IconImagePath": "4",
     "Order": 1000,
     "StartDate": "2023-10-20T05:00:00.000Z",
-    "EndDate": "2100-01-01T00:00:00.000Z"
+    "EndDate": "2100-01-01T00:00:00.000Z",
+    "ComebackCampaignMasterId": 1
   },
   {
     "Id": 1001,
@@ -42,6 +46,7 @@
     "IconImagePath": "1001",
     "Order": 1001,
     "StartDate": "2023-10-20T05:00:00.000Z",
-    "EndDate": "2100-01-01T00:00:00.000Z"
+    "EndDate": "2100-01-01T00:00:00.000Z",
+    "ComebackCampaignMasterId": 1
   }
 ]

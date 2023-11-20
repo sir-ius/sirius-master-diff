@@ -4,7 +4,7 @@
     "StoryEventMasterId": 20002,
     "Score": 30000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 5
   },
   {
@@ -12,7 +12,7 @@
     "StoryEventMasterId": 20002,
     "Score": 60000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 5
   },
   {
@@ -20,7 +20,7 @@
     "StoryEventMasterId": 20002,
     "Score": 100000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 5
   },
   {
@@ -28,7 +28,7 @@
     "StoryEventMasterId": 20002,
     "Score": 150000,
     "ThingId": 510003,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 2
   },
   {
@@ -36,7 +36,7 @@
     "StoryEventMasterId": 20002,
     "Score": 200000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 5
   },
   {
@@ -44,7 +44,7 @@
     "StoryEventMasterId": 20002,
     "Score": 300000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 5
   },
   {
@@ -52,7 +52,7 @@
     "StoryEventMasterId": 20002,
     "Score": 400000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 5
   },
   {
@@ -60,7 +60,7 @@
     "StoryEventMasterId": 20002,
     "Score": 500000,
     "ThingId": 510004,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 1
   },
   {
@@ -68,7 +68,7 @@
     "StoryEventMasterId": 20002,
     "Score": 600000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 5
   },
   {
@@ -76,7 +76,7 @@
     "StoryEventMasterId": 20002,
     "Score": 700000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 5
   },
   {
@@ -84,7 +84,7 @@
     "StoryEventMasterId": 20002,
     "Score": 800000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 5
   },
   {
@@ -92,7 +92,7 @@
     "StoryEventMasterId": 20002,
     "Score": 900000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 5
   },
   {
@@ -100,7 +100,7 @@
     "StoryEventMasterId": 20002,
     "Score": 1000000,
     "ThingId": 510003,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 3
   },
   {
@@ -108,7 +108,7 @@
     "StoryEventMasterId": 20002,
     "Score": 1250000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 5
   },
   {
@@ -116,7 +116,7 @@
     "StoryEventMasterId": 20002,
     "Score": 1500000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 5
   },
   {
@@ -124,7 +124,7 @@
     "StoryEventMasterId": 20002,
     "Score": 2000000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 5
   },
   {
@@ -132,7 +132,7 @@
     "StoryEventMasterId": 20002,
     "Score": 2500000,
     "ThingId": 510004,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 1
   },
   {
@@ -140,7 +140,7 @@
     "StoryEventMasterId": 20002,
     "Score": 3000000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 10
   },
   {
@@ -148,7 +148,7 @@
     "StoryEventMasterId": 20002,
     "Score": 4000000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 10
   },
   {
@@ -156,7 +156,7 @@
     "StoryEventMasterId": 20002,
     "Score": 5000000,
     "ThingId": 510005,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 1
   },
   {
@@ -164,7 +164,7 @@
     "StoryEventMasterId": 20002,
     "Score": 6000000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 10
   },
   {
@@ -172,7 +172,7 @@
     "StoryEventMasterId": 20002,
     "Score": 7000000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 10
   },
   {
@@ -180,7 +180,7 @@
     "StoryEventMasterId": 20002,
     "Score": 8000000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 10
   },
   {
@@ -188,7 +188,7 @@
     "StoryEventMasterId": 20002,
     "Score": 9000000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 10
   },
   {
@@ -196,7 +196,7 @@
     "StoryEventMasterId": 20002,
     "Score": 10000000,
     "ThingId": 510004,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 2
   },
   {
@@ -204,7 +204,7 @@
     "StoryEventMasterId": 20002,
     "Score": 12500000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 5
   },
   {
@@ -212,7 +212,7 @@
     "StoryEventMasterId": 20002,
     "Score": 15000000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 5
   },
   {
@@ -220,7 +220,7 @@
     "StoryEventMasterId": 20002,
     "Score": 17500000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 5
   },
   {
@@ -228,7 +228,7 @@
     "StoryEventMasterId": 20002,
     "Score": 20000000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 5
   },
   {
@@ -236,7 +236,7 @@
     "StoryEventMasterId": 20002,
     "Score": 25000000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 5
   },
   {
@@ -244,7 +244,7 @@
     "StoryEventMasterId": 20002,
     "Score": 30000000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 5
   },
   {
@@ -252,7 +252,7 @@
     "StoryEventMasterId": 20002,
     "Score": 35000000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 5
   },
   {
@@ -260,7 +260,7 @@
     "StoryEventMasterId": 20002,
     "Score": 40000000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 5
   },
   {
@@ -268,7 +268,7 @@
     "StoryEventMasterId": 20002,
     "Score": 50000000,
     "ThingId": 510006,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 1
   },
   {
@@ -276,7 +276,7 @@
     "StoryEventMasterId": 20002,
     "Score": 55000000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 5
   },
   {
@@ -284,7 +284,7 @@
     "StoryEventMasterId": 20002,
     "Score": 60000000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 5
   },
   {
@@ -292,7 +292,7 @@
     "StoryEventMasterId": 20002,
     "Score": 65000000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 5
   },
   {
@@ -300,7 +300,7 @@
     "StoryEventMasterId": 20002,
     "Score": 70000000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 5
   },
   {
@@ -308,7 +308,7 @@
     "StoryEventMasterId": 20002,
     "Score": 75000000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 5
   },
   {
@@ -316,7 +316,7 @@
     "StoryEventMasterId": 20002,
     "Score": 80000000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 5
   },
   {
@@ -324,7 +324,7 @@
     "StoryEventMasterId": 20002,
     "Score": 85000000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 5
   },
   {
@@ -332,7 +332,7 @@
     "StoryEventMasterId": 20002,
     "Score": 90000000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 5
   },
   {
@@ -340,7 +340,7 @@
     "StoryEventMasterId": 20002,
     "Score": 95000000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 5
   },
   {
@@ -348,7 +348,7 @@
     "StoryEventMasterId": 20002,
     "Score": 100000000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 5
   },
   {
@@ -356,7 +356,7 @@
     "StoryEventMasterId": 20002,
     "Score": 110000000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 5
   },
   {
@@ -364,7 +364,7 @@
     "StoryEventMasterId": 20002,
     "Score": 120000000,
     "ThingId": 510006,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 1
   },
   {
@@ -372,7 +372,7 @@
     "StoryEventMasterId": 20002,
     "Score": 130000000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 5
   },
   {
@@ -380,7 +380,7 @@
     "StoryEventMasterId": 20002,
     "Score": 140000000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 5
   },
   {
@@ -388,7 +388,7 @@
     "StoryEventMasterId": 20002,
     "Score": 150000000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 5
   },
   {
@@ -396,7 +396,7 @@
     "StoryEventMasterId": 20005,
     "Score": 30000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 3
   },
   {
@@ -404,7 +404,7 @@
     "StoryEventMasterId": 20005,
     "Score": 60000,
     "ThingId": 0,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingQuantity": 10000
   },
   {
@@ -412,7 +412,7 @@
     "StoryEventMasterId": 20005,
     "Score": 100000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 4
   },
   {
@@ -420,7 +420,7 @@
     "StoryEventMasterId": 20005,
     "Score": 150000,
     "ThingId": 0,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingQuantity": 30000
   },
   {
@@ -428,7 +428,7 @@
     "StoryEventMasterId": 20005,
     "Score": 200000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 5
   },
   {
@@ -436,7 +436,7 @@
     "StoryEventMasterId": 20005,
     "Score": 300000,
     "ThingId": 0,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingQuantity": 50000
   },
   {
@@ -444,7 +444,7 @@
     "StoryEventMasterId": 20005,
     "Score": 400000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 7
   },
   {
@@ -452,7 +452,7 @@
     "StoryEventMasterId": 20005,
     "Score": 500000,
     "ThingId": 0,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingQuantity": 80000
   },
   {
@@ -460,7 +460,7 @@
     "StoryEventMasterId": 20005,
     "Score": 600000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 9
   },
   {
@@ -468,7 +468,7 @@
     "StoryEventMasterId": 20005,
     "Score": 700000,
     "ThingId": 0,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingQuantity": 120000
   },
   {
@@ -476,7 +476,7 @@
     "StoryEventMasterId": 20005,
     "Score": 800000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 11
   },
   {
@@ -484,7 +484,7 @@
     "StoryEventMasterId": 20005,
     "Score": 900000,
     "ThingId": 0,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingQuantity": 160000
   },
   {
@@ -492,7 +492,7 @@
     "StoryEventMasterId": 20005,
     "Score": 1000000,
     "ThingId": 510004,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 1
   },
   {
@@ -500,7 +500,7 @@
     "StoryEventMasterId": 20005,
     "Score": 1250000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 13
   },
   {
@@ -508,7 +508,7 @@
     "StoryEventMasterId": 20005,
     "Score": 1500000,
     "ThingId": 0,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingQuantity": 200000
   },
   {
@@ -516,7 +516,7 @@
     "StoryEventMasterId": 20005,
     "Score": 2000000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 15
   },
   {
@@ -524,7 +524,7 @@
     "StoryEventMasterId": 20005,
     "Score": 2500000,
     "ThingId": 510004,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 1
   },
   {
@@ -532,7 +532,7 @@
     "StoryEventMasterId": 20005,
     "Score": 3000000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 18
   },
   {
@@ -540,7 +540,7 @@
     "StoryEventMasterId": 20005,
     "Score": 4000000,
     "ThingId": 0,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingQuantity": 250000
   },
   {
@@ -548,7 +548,7 @@
     "StoryEventMasterId": 20005,
     "Score": 5000000,
     "ThingId": 510005,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 1
   },
   {
@@ -556,7 +556,7 @@
     "StoryEventMasterId": 20005,
     "Score": 6000000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 20
   },
   {
@@ -564,7 +564,7 @@
     "StoryEventMasterId": 20005,
     "Score": 7000000,
     "ThingId": 0,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingQuantity": 300000
   },
   {
@@ -572,7 +572,7 @@
     "StoryEventMasterId": 20005,
     "Score": 8000000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 20
   },
   {
@@ -580,7 +580,7 @@
     "StoryEventMasterId": 20005,
     "Score": 9000000,
     "ThingId": 0,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingQuantity": 300000
   },
   {
@@ -588,7 +588,7 @@
     "StoryEventMasterId": 20005,
     "Score": 10000000,
     "ThingId": 510004,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 2
   },
   {
@@ -596,7 +596,7 @@
     "StoryEventMasterId": 20005,
     "Score": 12500000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 10
   },
   {
@@ -604,7 +604,7 @@
     "StoryEventMasterId": 20005,
     "Score": 15000000,
     "ThingId": 0,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingQuantity": 150000
   },
   {
@@ -612,7 +612,7 @@
     "StoryEventMasterId": 20005,
     "Score": 17500000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 10
   },
   {
@@ -620,7 +620,7 @@
     "StoryEventMasterId": 20005,
     "Score": 20000000,
     "ThingId": 510006,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 1
   },
   {
@@ -628,7 +628,7 @@
     "StoryEventMasterId": 20005,
     "Score": 25000000,
     "ThingId": 0,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingQuantity": 150000
   },
   {
@@ -636,7 +636,7 @@
     "StoryEventMasterId": 20005,
     "Score": 30000000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 10
   },
   {
@@ -644,7 +644,7 @@
     "StoryEventMasterId": 20005,
     "Score": 35000000,
     "ThingId": 0,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingQuantity": 150000
   },
   {
@@ -652,7 +652,7 @@
     "StoryEventMasterId": 20005,
     "Score": 40000000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 10
   },
   {
@@ -660,7 +660,7 @@
     "StoryEventMasterId": 20005,
     "Score": 50000000,
     "ThingId": 0,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingQuantity": 150000
   },
   {
@@ -668,7 +668,7 @@
     "StoryEventMasterId": 20005,
     "Score": 55000000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 10
   },
   {
@@ -676,7 +676,7 @@
     "StoryEventMasterId": 20005,
     "Score": 60000000,
     "ThingId": 510006,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 1
   },
   {
@@ -684,7 +684,7 @@
     "StoryEventMasterId": 20005,
     "Score": 65000000,
     "ThingId": 0,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingQuantity": 150000
   },
   {
@@ -692,7 +692,7 @@
     "StoryEventMasterId": 20005,
     "Score": 70000000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 10
   },
   {
@@ -700,7 +700,7 @@
     "StoryEventMasterId": 20005,
     "Score": 75000000,
     "ThingId": 0,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingQuantity": 150000
   },
   {
@@ -708,7 +708,7 @@
     "StoryEventMasterId": 20005,
     "Score": 80000000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 10
   },
   {
@@ -716,7 +716,7 @@
     "StoryEventMasterId": 20005,
     "Score": 85000000,
     "ThingId": 0,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingQuantity": 150000
   },
   {
@@ -724,7 +724,7 @@
     "StoryEventMasterId": 20005,
     "Score": 90000000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 10
   },
   {
@@ -732,7 +732,7 @@
     "StoryEventMasterId": 20005,
     "Score": 95000000,
     "ThingId": 0,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingQuantity": 150000
   },
   {
@@ -740,7 +740,7 @@
     "StoryEventMasterId": 20005,
     "Score": 100000000,
     "ThingId": 138001,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 2
   },
   {
@@ -748,7 +748,7 @@
     "StoryEventMasterId": 20005,
     "Score": 110000000,
     "ThingId": 0,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingQuantity": 150000
   },
   {
@@ -756,7 +756,7 @@
     "StoryEventMasterId": 20005,
     "Score": 120000000,
     "ThingId": 138001,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 1
   },
   {
@@ -764,7 +764,7 @@
     "StoryEventMasterId": 20005,
     "Score": 130000000,
     "ThingId": 0,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingQuantity": 150000
   },
   {
@@ -772,7 +772,7 @@
     "StoryEventMasterId": 20005,
     "Score": 140000000,
     "ThingId": 138001,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 1
   },
   {
@@ -780,7 +780,7 @@
     "StoryEventMasterId": 20005,
     "Score": 150000000,
     "ThingId": 0,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingQuantity": 150000
   },
   {
@@ -788,7 +788,7 @@
     "StoryEventMasterId": 20005,
     "Score": 160000000,
     "ThingId": 138001,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 1
   },
   {
@@ -796,7 +796,7 @@
     "StoryEventMasterId": 20005,
     "Score": 170000000,
     "ThingId": 0,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingQuantity": 150000
   },
   {
@@ -804,7 +804,7 @@
     "StoryEventMasterId": 20005,
     "Score": 180000000,
     "ThingId": 138001,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 1
   },
   {
@@ -812,7 +812,7 @@
     "StoryEventMasterId": 20005,
     "Score": 190000000,
     "ThingId": 0,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingQuantity": 150000
   },
   {
@@ -820,7 +820,7 @@
     "StoryEventMasterId": 20005,
     "Score": 200000000,
     "ThingId": 138001,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 2
   },
   {
@@ -828,7 +828,7 @@
     "StoryEventMasterId": 20005,
     "Score": 220000000,
     "ThingId": 138001,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 1
   },
   {
@@ -836,7 +836,7 @@
     "StoryEventMasterId": 20005,
     "Score": 240000000,
     "ThingId": 138001,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 1
   },
   {
@@ -844,7 +844,7 @@
     "StoryEventMasterId": 20005,
     "Score": 260000000,
     "ThingId": 138001,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 1
   },
   {
@@ -852,7 +852,7 @@
     "StoryEventMasterId": 20005,
     "Score": 280000000,
     "ThingId": 138001,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 1
   },
   {
@@ -860,7 +860,7 @@
     "StoryEventMasterId": 20005,
     "Score": 300000000,
     "ThingId": 138001,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 2
   },
   {
@@ -868,7 +868,7 @@
     "StoryEventMasterId": 20006,
     "Score": 30000,
     "ThingId": 130072,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 1
   },
   {
@@ -876,7 +876,7 @@
     "StoryEventMasterId": 20006,
     "Score": 60000,
     "ThingId": 130072,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 1
   },
   {
@@ -884,7 +884,7 @@
     "StoryEventMasterId": 20006,
     "Score": 100000,
     "ThingId": 130072,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 1
   },
   {
@@ -892,7 +892,7 @@
     "StoryEventMasterId": 20006,
     "Score": 150000,
     "ThingId": 130072,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 1
   },
   {
@@ -900,7 +900,7 @@
     "StoryEventMasterId": 20006,
     "Score": 200000,
     "ThingId": 130072,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 1
   },
   {
@@ -908,7 +908,7 @@
     "StoryEventMasterId": 20006,
     "Score": 300000,
     "ThingId": 130072,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 1
   },
   {
@@ -916,7 +916,7 @@
     "StoryEventMasterId": 20006,
     "Score": 400000,
     "ThingId": 130072,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 1
   },
   {
@@ -924,7 +924,7 @@
     "StoryEventMasterId": 20006,
     "Score": 500000,
     "ThingId": 130064,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 50
   },
   {
@@ -932,7 +932,7 @@
     "StoryEventMasterId": 20006,
     "Score": 600000,
     "ThingId": 130072,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 2
   },
   {
@@ -940,7 +940,7 @@
     "StoryEventMasterId": 20006,
     "Score": 700000,
     "ThingId": 130072,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 2
   },
   {
@@ -948,7 +948,7 @@
     "StoryEventMasterId": 20006,
     "Score": 800000,
     "ThingId": 130072,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 2
   },
   {
@@ -956,7 +956,7 @@
     "StoryEventMasterId": 20006,
     "Score": 900000,
     "ThingId": 130072,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 2
   },
   {
@@ -964,7 +964,7 @@
     "StoryEventMasterId": 20006,
     "Score": 1000000,
     "ThingId": 130072,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 2
   },
   {
@@ -972,7 +972,7 @@
     "StoryEventMasterId": 20006,
     "Score": 1250000,
     "ThingId": 130072,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 2
   },
   {
@@ -980,7 +980,7 @@
     "StoryEventMasterId": 20006,
     "Score": 1500000,
     "ThingId": 130072,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 2
   },
   {
@@ -988,7 +988,7 @@
     "StoryEventMasterId": 20006,
     "Score": 2000000,
     "ThingId": 130072,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 2
   },
   {
@@ -996,7 +996,7 @@
     "StoryEventMasterId": 20006,
     "Score": 2500000,
     "ThingId": 130072,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 2
   },
   {
@@ -1004,7 +1004,7 @@
     "StoryEventMasterId": 20006,
     "Score": 3000000,
     "ThingId": 130064,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 50
   },
   {
@@ -1012,7 +1012,7 @@
     "StoryEventMasterId": 20006,
     "Score": 4000000,
     "ThingId": 130072,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 3
   },
   {
@@ -1020,7 +1020,7 @@
     "StoryEventMasterId": 20006,
     "Score": 5000000,
     "ThingId": 130071,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 1
   },
   {
@@ -1028,7 +1028,7 @@
     "StoryEventMasterId": 20006,
     "Score": 6000000,
     "ThingId": 130072,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 3
   },
   {
@@ -1036,7 +1036,7 @@
     "StoryEventMasterId": 20006,
     "Score": 7000000,
     "ThingId": 130072,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 3
   },
   {
@@ -1044,7 +1044,7 @@
     "StoryEventMasterId": 20006,
     "Score": 8000000,
     "ThingId": 130072,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 3
   },
   {
@@ -1052,7 +1052,7 @@
     "StoryEventMasterId": 20006,
     "Score": 9000000,
     "ThingId": 130072,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 3
   },
   {
@@ -1060,7 +1060,7 @@
     "StoryEventMasterId": 20006,
     "Score": 10000000,
     "ThingId": 130064,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 50
   },
   {
@@ -1068,7 +1068,7 @@
     "StoryEventMasterId": 20006,
     "Score": 12500000,
     "ThingId": 130072,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 1
   },
   {
@@ -1076,7 +1076,7 @@
     "StoryEventMasterId": 20006,
     "Score": 15000000,
     "ThingId": 130072,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 1
   },
   {
@@ -1084,7 +1084,7 @@
     "StoryEventMasterId": 20006,
     "Score": 17500000,
     "ThingId": 130072,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 1
   },
   {
@@ -1092,7 +1092,7 @@
     "StoryEventMasterId": 20006,
     "Score": 20000000,
     "ThingId": 130071,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 1
   },
   {
@@ -1100,7 +1100,7 @@
     "StoryEventMasterId": 20006,
     "Score": 25000000,
     "ThingId": 130072,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 1
   },
   {
@@ -1108,7 +1108,7 @@
     "StoryEventMasterId": 20006,
     "Score": 30000000,
     "ThingId": 130072,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 1
   },
   {
@@ -1116,7 +1116,7 @@
     "StoryEventMasterId": 20006,
     "Score": 35000000,
     "ThingId": 130072,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 1
   },
   {
@@ -1124,7 +1124,7 @@
     "StoryEventMasterId": 20006,
     "Score": 40000000,
     "ThingId": 130072,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 1
   },
   {
@@ -1132,7 +1132,7 @@
     "StoryEventMasterId": 20006,
     "Score": 50000000,
     "ThingId": 130064,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 50
   },
   {
@@ -1140,7 +1140,7 @@
     "StoryEventMasterId": 20006,
     "Score": 55000000,
     "ThingId": 130072,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 1
   },
   {
@@ -1148,7 +1148,7 @@
     "StoryEventMasterId": 20006,
     "Score": 60000000,
     "ThingId": 130071,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 1
   },
   {
@@ -1156,7 +1156,7 @@
     "StoryEventMasterId": 20006,
     "Score": 65000000,
     "ThingId": 130072,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 1
   },
   {
@@ -1164,7 +1164,7 @@
     "StoryEventMasterId": 20006,
     "Score": 70000000,
     "ThingId": 130072,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 1
   },
   {
@@ -1172,7 +1172,7 @@
     "StoryEventMasterId": 20006,
     "Score": 75000000,
     "ThingId": 130072,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 1
   },
   {
@@ -1180,7 +1180,7 @@
     "StoryEventMasterId": 20006,
     "Score": 80000000,
     "ThingId": 130072,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 1
   },
   {
@@ -1188,7 +1188,7 @@
     "StoryEventMasterId": 20006,
     "Score": 85000000,
     "ThingId": 130072,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 1
   },
   {
@@ -1196,7 +1196,7 @@
     "StoryEventMasterId": 20006,
     "Score": 90000000,
     "ThingId": 130072,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 1
   },
   {
@@ -1204,7 +1204,7 @@
     "StoryEventMasterId": 20006,
     "Score": 95000000,
     "ThingId": 130072,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 1
   },
   {
@@ -1212,7 +1212,7 @@
     "StoryEventMasterId": 20006,
     "Score": 100000000,
     "ThingId": 138001,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 2
   },
   {
@@ -1220,7 +1220,7 @@
     "StoryEventMasterId": 20006,
     "Score": 110000000,
     "ThingId": 130064,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 10
   },
   {
@@ -1228,7 +1228,7 @@
     "StoryEventMasterId": 20006,
     "Score": 120000000,
     "ThingId": 138001,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 1
   },
   {
@@ -1236,7 +1236,7 @@
     "StoryEventMasterId": 20006,
     "Score": 130000000,
     "ThingId": 130064,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 10
   },
   {
@@ -1244,7 +1244,7 @@
     "StoryEventMasterId": 20006,
     "Score": 140000000,
     "ThingId": 138001,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 1
   },
   {
@@ -1252,7 +1252,7 @@
     "StoryEventMasterId": 20006,
     "Score": 150000000,
     "ThingId": 130064,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 10
   },
   {
@@ -1260,7 +1260,7 @@
     "StoryEventMasterId": 20006,
     "Score": 160000000,
     "ThingId": 138001,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 1
   },
   {
@@ -1268,7 +1268,7 @@
     "StoryEventMasterId": 20006,
     "Score": 170000000,
     "ThingId": 130064,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 10
   },
   {
@@ -1276,7 +1276,7 @@
     "StoryEventMasterId": 20006,
     "Score": 180000000,
     "ThingId": 138001,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 1
   },
   {
@@ -1284,7 +1284,7 @@
     "StoryEventMasterId": 20006,
     "Score": 190000000,
     "ThingId": 130064,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 10
   },
   {
@@ -1292,7 +1292,7 @@
     "StoryEventMasterId": 20006,
     "Score": 200000000,
     "ThingId": 138001,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 2
   },
   {
@@ -1300,7 +1300,7 @@
     "StoryEventMasterId": 20006,
     "Score": 220000000,
     "ThingId": 138001,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 1
   },
   {
@@ -1308,7 +1308,7 @@
     "StoryEventMasterId": 20006,
     "Score": 240000000,
     "ThingId": 138001,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 1
   },
   {
@@ -1316,7 +1316,7 @@
     "StoryEventMasterId": 20006,
     "Score": 260000000,
     "ThingId": 138001,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 1
   },
   {
@@ -1324,7 +1324,7 @@
     "StoryEventMasterId": 20006,
     "Score": 280000000,
     "ThingId": 138001,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 1
   },
   {
@@ -1332,7 +1332,7 @@
     "StoryEventMasterId": 20006,
     "Score": 300000000,
     "ThingId": 138001,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 2
   },
   {
@@ -1340,7 +1340,7 @@
     "StoryEventMasterId": 20008,
     "Score": 30000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 3
   },
   {
@@ -1348,7 +1348,7 @@
     "StoryEventMasterId": 20008,
     "Score": 60000,
     "ThingId": 0,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingQuantity": 10000
   },
   {
@@ -1356,7 +1356,7 @@
     "StoryEventMasterId": 20008,
     "Score": 100000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 4
   },
   {
@@ -1364,7 +1364,7 @@
     "StoryEventMasterId": 20008,
     "Score": 150000,
     "ThingId": 0,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingQuantity": 30000
   },
   {
@@ -1372,7 +1372,7 @@
     "StoryEventMasterId": 20008,
     "Score": 200000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 5
   },
   {
@@ -1380,7 +1380,7 @@
     "StoryEventMasterId": 20008,
     "Score": 300000,
     "ThingId": 0,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingQuantity": 50000
   },
   {
@@ -1388,7 +1388,7 @@
     "StoryEventMasterId": 20008,
     "Score": 400000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 7
   },
   {
@@ -1396,7 +1396,7 @@
     "StoryEventMasterId": 20008,
     "Score": 500000,
     "ThingId": 0,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingQuantity": 80000
   },
   {
@@ -1404,7 +1404,7 @@
     "StoryEventMasterId": 20008,
     "Score": 600000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 9
   },
   {
@@ -1412,7 +1412,7 @@
     "StoryEventMasterId": 20008,
     "Score": 700000,
     "ThingId": 0,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingQuantity": 120000
   },
   {
@@ -1420,7 +1420,7 @@
     "StoryEventMasterId": 20008,
     "Score": 800000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 11
   },
   {
@@ -1428,7 +1428,7 @@
     "StoryEventMasterId": 20008,
     "Score": 900000,
     "ThingId": 0,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingQuantity": 160000
   },
   {
@@ -1436,7 +1436,7 @@
     "StoryEventMasterId": 20008,
     "Score": 1000000,
     "ThingId": 510004,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 1
   },
   {
@@ -1444,7 +1444,7 @@
     "StoryEventMasterId": 20008,
     "Score": 1250000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 13
   },
   {
@@ -1452,7 +1452,7 @@
     "StoryEventMasterId": 20008,
     "Score": 1500000,
     "ThingId": 0,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingQuantity": 200000
   },
   {
@@ -1460,7 +1460,7 @@
     "StoryEventMasterId": 20008,
     "Score": 2000000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 15
   },
   {
@@ -1468,7 +1468,7 @@
     "StoryEventMasterId": 20008,
     "Score": 2500000,
     "ThingId": 510004,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 1
   },
   {
@@ -1476,7 +1476,7 @@
     "StoryEventMasterId": 20008,
     "Score": 3000000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 18
   },
   {
@@ -1484,7 +1484,7 @@
     "StoryEventMasterId": 20008,
     "Score": 4000000,
     "ThingId": 0,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingQuantity": 250000
   },
   {
@@ -1492,7 +1492,7 @@
     "StoryEventMasterId": 20008,
     "Score": 5000000,
     "ThingId": 510005,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 1
   },
   {
@@ -1500,7 +1500,7 @@
     "StoryEventMasterId": 20008,
     "Score": 6000000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 20
   },
   {
@@ -1508,7 +1508,7 @@
     "StoryEventMasterId": 20008,
     "Score": 7000000,
     "ThingId": 0,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingQuantity": 300000
   },
   {
@@ -1516,7 +1516,7 @@
     "StoryEventMasterId": 20008,
     "Score": 8000000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 20
   },
   {
@@ -1524,7 +1524,7 @@
     "StoryEventMasterId": 20008,
     "Score": 9000000,
     "ThingId": 0,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingQuantity": 300000
   },
   {
@@ -1532,7 +1532,7 @@
     "StoryEventMasterId": 20008,
     "Score": 10000000,
     "ThingId": 510004,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 2
   },
   {
@@ -1540,7 +1540,7 @@
     "StoryEventMasterId": 20008,
     "Score": 12500000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 10
   },
   {
@@ -1548,7 +1548,7 @@
     "StoryEventMasterId": 20008,
     "Score": 15000000,
     "ThingId": 0,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingQuantity": 150000
   },
   {
@@ -1556,7 +1556,7 @@
     "StoryEventMasterId": 20008,
     "Score": 17500000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 10
   },
   {
@@ -1564,7 +1564,7 @@
     "StoryEventMasterId": 20008,
     "Score": 20000000,
     "ThingId": 510006,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 1
   },
   {
@@ -1572,7 +1572,7 @@
     "StoryEventMasterId": 20008,
     "Score": 25000000,
     "ThingId": 0,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingQuantity": 150000
   },
   {
@@ -1580,7 +1580,7 @@
     "StoryEventMasterId": 20008,
     "Score": 30000000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 10
   },
   {
@@ -1588,7 +1588,7 @@
     "StoryEventMasterId": 20008,
     "Score": 35000000,
     "ThingId": 0,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingQuantity": 150000
   },
   {
@@ -1596,7 +1596,7 @@
     "StoryEventMasterId": 20008,
     "Score": 40000000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 10
   },
   {
@@ -1604,7 +1604,7 @@
     "StoryEventMasterId": 20008,
     "Score": 50000000,
     "ThingId": 0,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingQuantity": 150000
   },
   {
@@ -1612,7 +1612,7 @@
     "StoryEventMasterId": 20008,
     "Score": 55000000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 10
   },
   {
@@ -1620,7 +1620,7 @@
     "StoryEventMasterId": 20008,
     "Score": 60000000,
     "ThingId": 510006,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 1
   },
   {
@@ -1628,7 +1628,7 @@
     "StoryEventMasterId": 20008,
     "Score": 65000000,
     "ThingId": 0,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingQuantity": 150000
   },
   {
@@ -1636,7 +1636,7 @@
     "StoryEventMasterId": 20008,
     "Score": 70000000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 10
   },
   {
@@ -1644,7 +1644,7 @@
     "StoryEventMasterId": 20008,
     "Score": 75000000,
     "ThingId": 0,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingQuantity": 150000
   },
   {
@@ -1652,7 +1652,7 @@
     "StoryEventMasterId": 20008,
     "Score": 80000000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 10
   },
   {
@@ -1660,7 +1660,7 @@
     "StoryEventMasterId": 20008,
     "Score": 85000000,
     "ThingId": 0,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingQuantity": 150000
   },
   {
@@ -1668,7 +1668,7 @@
     "StoryEventMasterId": 20008,
     "Score": 90000000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 10
   },
   {
@@ -1676,7 +1676,7 @@
     "StoryEventMasterId": 20008,
     "Score": 95000000,
     "ThingId": 0,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingQuantity": 150000
   },
   {
@@ -1684,7 +1684,7 @@
     "StoryEventMasterId": 20008,
     "Score": 100000000,
     "ThingId": 138001,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 2
   },
   {
@@ -1692,7 +1692,7 @@
     "StoryEventMasterId": 20008,
     "Score": 110000000,
     "ThingId": 0,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingQuantity": 150000
   },
   {
@@ -1700,7 +1700,7 @@
     "StoryEventMasterId": 20008,
     "Score": 120000000,
     "ThingId": 138001,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 1
   },
   {
@@ -1708,7 +1708,7 @@
     "StoryEventMasterId": 20008,
     "Score": 130000000,
     "ThingId": 0,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingQuantity": 150000
   },
   {
@@ -1716,7 +1716,7 @@
     "StoryEventMasterId": 20008,
     "Score": 140000000,
     "ThingId": 138001,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 1
   },
   {
@@ -1724,7 +1724,7 @@
     "StoryEventMasterId": 20008,
     "Score": 150000000,
     "ThingId": 0,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingQuantity": 150000
   },
   {
@@ -1732,7 +1732,7 @@
     "StoryEventMasterId": 20008,
     "Score": 160000000,
     "ThingId": 138001,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 1
   },
   {
@@ -1740,7 +1740,7 @@
     "StoryEventMasterId": 20008,
     "Score": 170000000,
     "ThingId": 0,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingQuantity": 150000
   },
   {
@@ -1748,7 +1748,7 @@
     "StoryEventMasterId": 20008,
     "Score": 180000000,
     "ThingId": 138001,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 1
   },
   {
@@ -1756,7 +1756,7 @@
     "StoryEventMasterId": 20008,
     "Score": 190000000,
     "ThingId": 0,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingQuantity": 150000
   },
   {
@@ -1764,7 +1764,7 @@
     "StoryEventMasterId": 20008,
     "Score": 200000000,
     "ThingId": 138001,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 2
   },
   {
@@ -1772,7 +1772,7 @@
     "StoryEventMasterId": 20008,
     "Score": 220000000,
     "ThingId": 138001,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 1
   },
   {
@@ -1780,7 +1780,7 @@
     "StoryEventMasterId": 20008,
     "Score": 240000000,
     "ThingId": 138001,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 1
   },
   {
@@ -1788,7 +1788,7 @@
     "StoryEventMasterId": 20008,
     "Score": 260000000,
     "ThingId": 138001,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 1
   },
   {
@@ -1796,7 +1796,7 @@
     "StoryEventMasterId": 20008,
     "Score": 280000000,
     "ThingId": 138001,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 1
   },
   {
@@ -1804,7 +1804,7 @@
     "StoryEventMasterId": 20008,
     "Score": 300000000,
     "ThingId": 138001,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 2
   },
   {
@@ -1812,7 +1812,7 @@
     "StoryEventMasterId": 20012,
     "Score": 30000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 3
   },
   {
@@ -1820,7 +1820,7 @@
     "StoryEventMasterId": 20012,
     "Score": 60000,
     "ThingId": 0,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingQuantity": 10000
   },
   {
@@ -1828,7 +1828,7 @@
     "StoryEventMasterId": 20012,
     "Score": 100000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 4
   },
   {
@@ -1836,7 +1836,7 @@
     "StoryEventMasterId": 20012,
     "Score": 150000,
     "ThingId": 0,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingQuantity": 30000
   },
   {
@@ -1844,7 +1844,7 @@
     "StoryEventMasterId": 20012,
     "Score": 200000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 5
   },
   {
@@ -1852,7 +1852,7 @@
     "StoryEventMasterId": 20012,
     "Score": 300000,
     "ThingId": 0,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingQuantity": 50000
   },
   {
@@ -1860,7 +1860,7 @@
     "StoryEventMasterId": 20012,
     "Score": 400000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 7
   },
   {
@@ -1868,7 +1868,7 @@
     "StoryEventMasterId": 20012,
     "Score": 500000,
     "ThingId": 0,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingQuantity": 80000
   },
   {
@@ -1876,7 +1876,7 @@
     "StoryEventMasterId": 20012,
     "Score": 600000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 9
   },
   {
@@ -1884,7 +1884,7 @@
     "StoryEventMasterId": 20012,
     "Score": 700000,
     "ThingId": 0,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingQuantity": 120000
   },
   {
@@ -1892,7 +1892,7 @@
     "StoryEventMasterId": 20012,
     "Score": 800000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 11
   },
   {
@@ -1900,7 +1900,7 @@
     "StoryEventMasterId": 20012,
     "Score": 900000,
     "ThingId": 0,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingQuantity": 160000
   },
   {
@@ -1908,7 +1908,7 @@
     "StoryEventMasterId": 20012,
     "Score": 1000000,
     "ThingId": 510004,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 1
   },
   {
@@ -1916,7 +1916,7 @@
     "StoryEventMasterId": 20012,
     "Score": 1250000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 13
   },
   {
@@ -1924,7 +1924,7 @@
     "StoryEventMasterId": 20012,
     "Score": 1500000,
     "ThingId": 0,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingQuantity": 200000
   },
   {
@@ -1932,7 +1932,7 @@
     "StoryEventMasterId": 20012,
     "Score": 2000000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 15
   },
   {
@@ -1940,7 +1940,7 @@
     "StoryEventMasterId": 20012,
     "Score": 2500000,
     "ThingId": 510004,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 1
   },
   {
@@ -1948,7 +1948,7 @@
     "StoryEventMasterId": 20012,
     "Score": 3000000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 18
   },
   {
@@ -1956,7 +1956,7 @@
     "StoryEventMasterId": 20012,
     "Score": 4000000,
     "ThingId": 0,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingQuantity": 250000
   },
   {
@@ -1964,7 +1964,7 @@
     "StoryEventMasterId": 20012,
     "Score": 5000000,
     "ThingId": 510005,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 1
   },
   {
@@ -1972,7 +1972,7 @@
     "StoryEventMasterId": 20012,
     "Score": 6000000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 20
   },
   {
@@ -1980,7 +1980,7 @@
     "StoryEventMasterId": 20012,
     "Score": 7000000,
     "ThingId": 0,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingQuantity": 300000
   },
   {
@@ -1988,7 +1988,7 @@
     "StoryEventMasterId": 20012,
     "Score": 8000000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 20
   },
   {
@@ -1996,7 +1996,7 @@
     "StoryEventMasterId": 20012,
     "Score": 9000000,
     "ThingId": 0,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingQuantity": 300000
   },
   {
@@ -2004,7 +2004,7 @@
     "StoryEventMasterId": 20012,
     "Score": 10000000,
     "ThingId": 510004,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 2
   },
   {
@@ -2012,7 +2012,7 @@
     "StoryEventMasterId": 20012,
     "Score": 12500000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 10
   },
   {
@@ -2020,7 +2020,7 @@
     "StoryEventMasterId": 20012,
     "Score": 15000000,
     "ThingId": 0,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingQuantity": 150000
   },
   {
@@ -2028,7 +2028,7 @@
     "StoryEventMasterId": 20012,
     "Score": 17500000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 10
   },
   {
@@ -2036,7 +2036,7 @@
     "StoryEventMasterId": 20012,
     "Score": 20000000,
     "ThingId": 510006,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 1
   },
   {
@@ -2044,7 +2044,7 @@
     "StoryEventMasterId": 20012,
     "Score": 25000000,
     "ThingId": 0,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingQuantity": 150000
   },
   {
@@ -2052,7 +2052,7 @@
     "StoryEventMasterId": 20012,
     "Score": 30000000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 10
   },
   {
@@ -2060,7 +2060,7 @@
     "StoryEventMasterId": 20012,
     "Score": 35000000,
     "ThingId": 0,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingQuantity": 150000
   },
   {
@@ -2068,7 +2068,7 @@
     "StoryEventMasterId": 20012,
     "Score": 40000000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 10
   },
   {
@@ -2076,7 +2076,7 @@
     "StoryEventMasterId": 20012,
     "Score": 50000000,
     "ThingId": 0,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingQuantity": 150000
   },
   {
@@ -2084,7 +2084,7 @@
     "StoryEventMasterId": 20012,
     "Score": 55000000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 10
   },
   {
@@ -2092,7 +2092,7 @@
     "StoryEventMasterId": 20012,
     "Score": 60000000,
     "ThingId": 510006,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 1
   },
   {
@@ -2100,7 +2100,7 @@
     "StoryEventMasterId": 20012,
     "Score": 65000000,
     "ThingId": 0,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingQuantity": 150000
   },
   {
@@ -2108,7 +2108,7 @@
     "StoryEventMasterId": 20012,
     "Score": 70000000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 10
   },
   {
@@ -2116,7 +2116,7 @@
     "StoryEventMasterId": 20012,
     "Score": 75000000,
     "ThingId": 0,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingQuantity": 150000
   },
   {
@@ -2124,7 +2124,7 @@
     "StoryEventMasterId": 20012,
     "Score": 80000000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 10
   },
   {
@@ -2132,7 +2132,7 @@
     "StoryEventMasterId": 20012,
     "Score": 85000000,
     "ThingId": 0,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingQuantity": 150000
   },
   {
@@ -2140,7 +2140,7 @@
     "StoryEventMasterId": 20012,
     "Score": 90000000,
     "ThingId": 130091,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 10
   },
   {
@@ -2148,7 +2148,7 @@
     "StoryEventMasterId": 20012,
     "Score": 95000000,
     "ThingId": 0,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingQuantity": 150000
   },
   {
@@ -2156,7 +2156,7 @@
     "StoryEventMasterId": 20012,
     "Score": 100000000,
     "ThingId": 138001,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 2
   },
   {
@@ -2164,7 +2164,7 @@
     "StoryEventMasterId": 20012,
     "Score": 110000000,
     "ThingId": 0,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingQuantity": 150000
   },
   {
@@ -2172,7 +2172,7 @@
     "StoryEventMasterId": 20012,
     "Score": 120000000,
     "ThingId": 138001,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 1
   },
   {
@@ -2180,7 +2180,7 @@
     "StoryEventMasterId": 20012,
     "Score": 130000000,
     "ThingId": 0,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingQuantity": 150000
   },
   {
@@ -2188,7 +2188,7 @@
     "StoryEventMasterId": 20012,
     "Score": 140000000,
     "ThingId": 138001,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 1
   },
   {
@@ -2196,7 +2196,7 @@
     "StoryEventMasterId": 20012,
     "Score": 150000000,
     "ThingId": 0,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingQuantity": 150000
   },
   {
@@ -2204,7 +2204,7 @@
     "StoryEventMasterId": 20012,
     "Score": 160000000,
     "ThingId": 138001,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 1
   },
   {
@@ -2212,7 +2212,7 @@
     "StoryEventMasterId": 20012,
     "Score": 170000000,
     "ThingId": 0,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingQuantity": 150000
   },
   {
@@ -2220,7 +2220,7 @@
     "StoryEventMasterId": 20012,
     "Score": 180000000,
     "ThingId": 138001,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 1
   },
   {
@@ -2228,7 +2228,7 @@
     "StoryEventMasterId": 20012,
     "Score": 190000000,
     "ThingId": 0,
-    "ThingType": 12,
+    "ThingType": "Coin",
     "ThingQuantity": 150000
   },
   {
@@ -2236,7 +2236,7 @@
     "StoryEventMasterId": 20012,
     "Score": 200000000,
     "ThingId": 138001,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 2
   },
   {
@@ -2244,7 +2244,7 @@
     "StoryEventMasterId": 20012,
     "Score": 220000000,
     "ThingId": 138001,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 1
   },
   {
@@ -2252,7 +2252,7 @@
     "StoryEventMasterId": 20012,
     "Score": 240000000,
     "ThingId": 138001,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 1
   },
   {
@@ -2260,7 +2260,7 @@
     "StoryEventMasterId": 20012,
     "Score": 260000000,
     "ThingId": 138001,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 1
   },
   {
@@ -2268,7 +2268,7 @@
     "StoryEventMasterId": 20012,
     "Score": 280000000,
     "ThingId": 138001,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 1
   },
   {
@@ -2276,7 +2276,7 @@
     "StoryEventMasterId": 20012,
     "Score": 300000000,
     "ThingId": 138001,
-    "ThingType": 1,
+    "ThingType": "Item",
     "ThingQuantity": 2
   }
 ]

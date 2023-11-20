@@ -70,7 +70,7 @@
     "EpisodeRewardPackageMasterId": 1010106,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 1,
         "Value2": null,
         "Value3": null
@@ -86,7 +86,7 @@
     "EpisodeRewardPackageMasterId": 1010107,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 2,
         "Value2": null,
         "Value3": null
@@ -102,7 +102,7 @@
     "EpisodeRewardPackageMasterId": 1010108,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 3,
         "Value2": null,
         "Value3": null
@@ -118,7 +118,7 @@
     "EpisodeRewardPackageMasterId": 1010109,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 4,
         "Value2": null,
         "Value3": null
@@ -134,7 +134,7 @@
     "EpisodeRewardPackageMasterId": 1010110,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 5,
         "Value2": null,
         "Value3": null
@@ -150,7 +150,7 @@
     "EpisodeRewardPackageMasterId": 1010111,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 6,
         "Value2": null,
         "Value3": null
@@ -166,7 +166,7 @@
     "EpisodeRewardPackageMasterId": 1010112,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 7,
         "Value2": null,
         "Value3": null
@@ -182,7 +182,7 @@
     "EpisodeRewardPackageMasterId": 1010113,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 8,
         "Value2": null,
         "Value3": null
@@ -198,7 +198,7 @@
     "EpisodeRewardPackageMasterId": 1010114,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 9,
         "Value2": null,
         "Value3": null
@@ -214,7 +214,7 @@
     "EpisodeRewardPackageMasterId": 1010115,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 10,
         "Value2": null,
         "Value3": null
@@ -230,7 +230,7 @@
     "EpisodeRewardPackageMasterId": 1010116,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 12,
         "Value2": null,
         "Value3": null
@@ -246,7 +246,7 @@
     "EpisodeRewardPackageMasterId": 1010117,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 14,
         "Value2": null,
         "Value3": null
@@ -262,7 +262,7 @@
     "EpisodeRewardPackageMasterId": 1010118,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 16,
         "Value2": null,
         "Value3": null
@@ -278,7 +278,7 @@
     "EpisodeRewardPackageMasterId": 1010119,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 18,
         "Value2": null,
         "Value3": null
@@ -294,7 +294,7 @@
     "EpisodeRewardPackageMasterId": 1010120,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 20,
         "Value2": null,
         "Value3": null
@@ -310,7 +310,7 @@
     "EpisodeRewardPackageMasterId": 1010121,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 22,
         "Value2": null,
         "Value3": null
@@ -326,7 +326,7 @@
     "EpisodeRewardPackageMasterId": 1010122,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 24,
         "Value2": null,
         "Value3": null
@@ -342,7 +342,7 @@
     "EpisodeRewardPackageMasterId": 1010123,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 26,
         "Value2": null,
         "Value3": null
@@ -358,7 +358,7 @@
     "EpisodeRewardPackageMasterId": 1010201,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 28,
         "Value2": null,
         "Value3": null
@@ -374,7 +374,7 @@
     "EpisodeRewardPackageMasterId": 1010202,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 29,
         "Value2": null,
         "Value3": null
@@ -390,7 +390,7 @@
     "EpisodeRewardPackageMasterId": 1010203,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 30,
         "Value2": null,
         "Value3": null
@@ -406,7 +406,7 @@
     "EpisodeRewardPackageMasterId": 1010204,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 31,
         "Value2": null,
         "Value3": null
@@ -422,7 +422,7 @@
     "EpisodeRewardPackageMasterId": 1010205,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 32,
         "Value2": null,
         "Value3": null
@@ -438,7 +438,7 @@
     "EpisodeRewardPackageMasterId": 1010206,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 33,
         "Value2": null,
         "Value3": null
@@ -454,7 +454,7 @@
     "EpisodeRewardPackageMasterId": 1010207,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 34,
         "Value2": null,
         "Value3": null
@@ -470,7 +470,7 @@
     "EpisodeRewardPackageMasterId": 1010208,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 35,
         "Value2": null,
         "Value3": null
@@ -486,7 +486,7 @@
     "EpisodeRewardPackageMasterId": 1010209,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 36,
         "Value2": null,
         "Value3": null
@@ -502,7 +502,7 @@
     "EpisodeRewardPackageMasterId": 1010210,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 37,
         "Value2": null,
         "Value3": null
@@ -518,7 +518,7 @@
     "EpisodeRewardPackageMasterId": 1010211,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 38,
         "Value2": null,
         "Value3": null
@@ -534,7 +534,7 @@
     "EpisodeRewardPackageMasterId": 1010212,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 39,
         "Value2": null,
         "Value3": null
@@ -550,7 +550,7 @@
     "EpisodeRewardPackageMasterId": 1010213,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 40,
         "Value2": null,
         "Value3": null
@@ -566,7 +566,7 @@
     "EpisodeRewardPackageMasterId": 1010214,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 41,
         "Value2": null,
         "Value3": null
@@ -582,7 +582,7 @@
     "EpisodeRewardPackageMasterId": 1010215,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 42,
         "Value2": null,
         "Value3": null
@@ -598,7 +598,7 @@
     "EpisodeRewardPackageMasterId": 1010216,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 43,
         "Value2": null,
         "Value3": null
@@ -614,7 +614,7 @@
     "EpisodeRewardPackageMasterId": 1010217,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 44,
         "Value2": null,
         "Value3": null
@@ -630,7 +630,7 @@
     "EpisodeRewardPackageMasterId": 1010218,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 45,
         "Value2": null,
         "Value3": null
@@ -646,7 +646,7 @@
     "EpisodeRewardPackageMasterId": 1010219,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 46,
         "Value2": null,
         "Value3": null
@@ -662,7 +662,7 @@
     "EpisodeRewardPackageMasterId": 1010220,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 47,
         "Value2": null,
         "Value3": null
@@ -723,7 +723,7 @@
     "EpisodeRewardPackageMasterId": 1020106,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 1,
         "Value2": null,
         "Value3": null
@@ -739,7 +739,7 @@
     "EpisodeRewardPackageMasterId": 1020107,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 2,
         "Value2": null,
         "Value3": null
@@ -755,7 +755,7 @@
     "EpisodeRewardPackageMasterId": 1020108,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 3,
         "Value2": null,
         "Value3": null
@@ -771,7 +771,7 @@
     "EpisodeRewardPackageMasterId": 1020109,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 4,
         "Value2": null,
         "Value3": null
@@ -787,7 +787,7 @@
     "EpisodeRewardPackageMasterId": 1020110,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 5,
         "Value2": null,
         "Value3": null
@@ -803,7 +803,7 @@
     "EpisodeRewardPackageMasterId": 1020111,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 6,
         "Value2": null,
         "Value3": null
@@ -819,7 +819,7 @@
     "EpisodeRewardPackageMasterId": 1020112,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 7,
         "Value2": null,
         "Value3": null
@@ -835,7 +835,7 @@
     "EpisodeRewardPackageMasterId": 1020113,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 8,
         "Value2": null,
         "Value3": null
@@ -851,7 +851,7 @@
     "EpisodeRewardPackageMasterId": 1020114,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 9,
         "Value2": null,
         "Value3": null
@@ -867,7 +867,7 @@
     "EpisodeRewardPackageMasterId": 1020115,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 10,
         "Value2": null,
         "Value3": null
@@ -883,7 +883,7 @@
     "EpisodeRewardPackageMasterId": 1020116,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 11,
         "Value2": null,
         "Value3": null
@@ -899,7 +899,7 @@
     "EpisodeRewardPackageMasterId": 1020117,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 12,
         "Value2": null,
         "Value3": null
@@ -915,7 +915,7 @@
     "EpisodeRewardPackageMasterId": 1020118,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 13,
         "Value2": null,
         "Value3": null
@@ -931,7 +931,7 @@
     "EpisodeRewardPackageMasterId": 1020119,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 14,
         "Value2": null,
         "Value3": null
@@ -947,7 +947,7 @@
     "EpisodeRewardPackageMasterId": 1020120,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 15,
         "Value2": null,
         "Value3": null
@@ -1008,7 +1008,7 @@
     "EpisodeRewardPackageMasterId": 1030106,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 1,
         "Value2": null,
         "Value3": null
@@ -1024,7 +1024,7 @@
     "EpisodeRewardPackageMasterId": 1030107,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 2,
         "Value2": null,
         "Value3": null
@@ -1040,7 +1040,7 @@
     "EpisodeRewardPackageMasterId": 1030108,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 3,
         "Value2": null,
         "Value3": null
@@ -1056,7 +1056,7 @@
     "EpisodeRewardPackageMasterId": 1030109,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 4,
         "Value2": null,
         "Value3": null
@@ -1072,7 +1072,7 @@
     "EpisodeRewardPackageMasterId": 1030110,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 5,
         "Value2": null,
         "Value3": null
@@ -1088,7 +1088,7 @@
     "EpisodeRewardPackageMasterId": 1030111,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 6,
         "Value2": null,
         "Value3": null
@@ -1104,7 +1104,7 @@
     "EpisodeRewardPackageMasterId": 1030112,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 7,
         "Value2": null,
         "Value3": null
@@ -1120,7 +1120,7 @@
     "EpisodeRewardPackageMasterId": 1030113,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 8,
         "Value2": null,
         "Value3": null
@@ -1136,7 +1136,7 @@
     "EpisodeRewardPackageMasterId": 1030114,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 9,
         "Value2": null,
         "Value3": null
@@ -1152,7 +1152,7 @@
     "EpisodeRewardPackageMasterId": 1030115,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 10,
         "Value2": null,
         "Value3": null
@@ -1168,7 +1168,7 @@
     "EpisodeRewardPackageMasterId": 1030116,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 11,
         "Value2": null,
         "Value3": null
@@ -1184,7 +1184,7 @@
     "EpisodeRewardPackageMasterId": 1030117,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 12,
         "Value2": null,
         "Value3": null
@@ -1200,7 +1200,7 @@
     "EpisodeRewardPackageMasterId": 1030118,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 13,
         "Value2": null,
         "Value3": null
@@ -1216,7 +1216,7 @@
     "EpisodeRewardPackageMasterId": 1030119,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 14,
         "Value2": null,
         "Value3": null
@@ -1232,7 +1232,7 @@
     "EpisodeRewardPackageMasterId": 1030120,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 15,
         "Value2": null,
         "Value3": null
@@ -1248,7 +1248,7 @@
     "EpisodeRewardPackageMasterId": 1030201,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 16,
         "Value2": null,
         "Value3": null
@@ -1264,7 +1264,7 @@
     "EpisodeRewardPackageMasterId": 1030202,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 16,
         "Value2": null,
         "Value3": null
@@ -1280,7 +1280,7 @@
     "EpisodeRewardPackageMasterId": 1030203,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 17,
         "Value2": null,
         "Value3": null
@@ -1296,7 +1296,7 @@
     "EpisodeRewardPackageMasterId": 1030204,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 17,
         "Value2": null,
         "Value3": null
@@ -1312,7 +1312,7 @@
     "EpisodeRewardPackageMasterId": 1030205,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 18,
         "Value2": null,
         "Value3": null
@@ -1328,7 +1328,7 @@
     "EpisodeRewardPackageMasterId": 1030206,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 18,
         "Value2": null,
         "Value3": null
@@ -1344,7 +1344,7 @@
     "EpisodeRewardPackageMasterId": 1030207,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 19,
         "Value2": null,
         "Value3": null
@@ -1360,7 +1360,7 @@
     "EpisodeRewardPackageMasterId": 1030208,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 19,
         "Value2": null,
         "Value3": null
@@ -1376,7 +1376,7 @@
     "EpisodeRewardPackageMasterId": 1030209,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 20,
         "Value2": null,
         "Value3": null
@@ -1392,7 +1392,7 @@
     "EpisodeRewardPackageMasterId": 1030210,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 20,
         "Value2": null,
         "Value3": null
@@ -1408,7 +1408,7 @@
     "EpisodeRewardPackageMasterId": 1030211,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 21,
         "Value2": null,
         "Value3": null
@@ -1424,7 +1424,7 @@
     "EpisodeRewardPackageMasterId": 1030212,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 21,
         "Value2": null,
         "Value3": null
@@ -1440,7 +1440,7 @@
     "EpisodeRewardPackageMasterId": 1030213,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 22,
         "Value2": null,
         "Value3": null
@@ -1456,7 +1456,7 @@
     "EpisodeRewardPackageMasterId": 1030214,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 22,
         "Value2": null,
         "Value3": null
@@ -1472,7 +1472,7 @@
     "EpisodeRewardPackageMasterId": 1030215,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 23,
         "Value2": null,
         "Value3": null
@@ -1488,7 +1488,7 @@
     "EpisodeRewardPackageMasterId": 1030216,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 23,
         "Value2": null,
         "Value3": null
@@ -1504,7 +1504,7 @@
     "EpisodeRewardPackageMasterId": 1030217,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 24,
         "Value2": null,
         "Value3": null
@@ -1520,7 +1520,7 @@
     "EpisodeRewardPackageMasterId": 1030218,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 24,
         "Value2": null,
         "Value3": null
@@ -1536,7 +1536,7 @@
     "EpisodeRewardPackageMasterId": 1030219,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 25,
         "Value2": null,
         "Value3": null
@@ -1552,7 +1552,7 @@
     "EpisodeRewardPackageMasterId": 1030220,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 25,
         "Value2": null,
         "Value3": null
@@ -1613,7 +1613,7 @@
     "EpisodeRewardPackageMasterId": 1040106,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 1,
         "Value2": null,
         "Value3": null
@@ -1629,7 +1629,7 @@
     "EpisodeRewardPackageMasterId": 1040107,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 2,
         "Value2": null,
         "Value3": null
@@ -1645,7 +1645,7 @@
     "EpisodeRewardPackageMasterId": 1040108,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 3,
         "Value2": null,
         "Value3": null
@@ -1661,7 +1661,7 @@
     "EpisodeRewardPackageMasterId": 1040109,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 4,
         "Value2": null,
         "Value3": null
@@ -1677,7 +1677,7 @@
     "EpisodeRewardPackageMasterId": 1040110,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 5,
         "Value2": null,
         "Value3": null
@@ -1693,7 +1693,7 @@
     "EpisodeRewardPackageMasterId": 1040111,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 6,
         "Value2": null,
         "Value3": null
@@ -1709,7 +1709,7 @@
     "EpisodeRewardPackageMasterId": 1040112,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 7,
         "Value2": null,
         "Value3": null
@@ -1725,7 +1725,7 @@
     "EpisodeRewardPackageMasterId": 1040113,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 8,
         "Value2": null,
         "Value3": null
@@ -1741,7 +1741,7 @@
     "EpisodeRewardPackageMasterId": 1040114,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 9,
         "Value2": null,
         "Value3": null
@@ -1757,7 +1757,7 @@
     "EpisodeRewardPackageMasterId": 1040115,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 10,
         "Value2": null,
         "Value3": null
@@ -1773,7 +1773,7 @@
     "EpisodeRewardPackageMasterId": 1040116,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 11,
         "Value2": null,
         "Value3": null
@@ -1789,7 +1789,7 @@
     "EpisodeRewardPackageMasterId": 1040117,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 12,
         "Value2": null,
         "Value3": null
@@ -1805,7 +1805,7 @@
     "EpisodeRewardPackageMasterId": 1040118,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 13,
         "Value2": null,
         "Value3": null
@@ -1821,7 +1821,7 @@
     "EpisodeRewardPackageMasterId": 1040119,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 14,
         "Value2": null,
         "Value3": null
@@ -1837,7 +1837,7 @@
     "EpisodeRewardPackageMasterId": 1040120,
     "Conditions": [
       {
-        "ConditionType": 1,
+        "ConditionType": "TotalRankInCompany",
         "Value1": 15,
         "Value2": null,
         "Value3": null

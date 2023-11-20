@@ -120,19 +120,19 @@
       {
         "Id": 9701,
         "Name": "ダイスター1",
-        "ClassType": 0,
+        "ClassType": "None",
         "EnrollCount": 0
       },
       {
         "Id": 9702,
         "Name": "ダイスター2",
-        "ClassType": 0,
+        "ClassType": "None",
         "EnrollCount": 4
       },
       {
         "Id": 9703,
         "Name": "ダイスター3",
-        "ClassType": 0,
+        "ClassType": "None",
         "EnrollCount": 8
       }
     ],

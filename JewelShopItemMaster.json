@@ -8,11 +8,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 1,
     "DialogType": 1,
-    "PurchaseType": 2,
+    "PurchaseType": "Money",
     "PurchaseValue": 120,
     "SubscriptionFlag": false,
     "GivePaidJewel": 120,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -30,12 +30,13 @@
         "Id": 10101,
         "MJewelShopItemId": 101,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 120
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 102,
@@ -46,11 +47,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 1,
     "DialogType": 1,
-    "PurchaseType": 2,
+    "PurchaseType": "Money",
     "PurchaseValue": 480,
     "SubscriptionFlag": false,
     "GivePaidJewel": 480,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -68,12 +69,13 @@
         "Id": 10201,
         "MJewelShopItemId": 102,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 480
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 103,
@@ -84,11 +86,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 1,
     "DialogType": 1,
-    "PurchaseType": 2,
+    "PurchaseType": "Money",
     "PurchaseValue": 1000,
     "SubscriptionFlag": false,
     "GivePaidJewel": 1000,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -106,12 +108,13 @@
         "Id": 10301,
         "MJewelShopItemId": 103,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1000
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 104,
@@ -122,11 +125,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 1,
     "DialogType": 1,
-    "PurchaseType": 2,
+    "PurchaseType": "Money",
     "PurchaseValue": 2000,
     "SubscriptionFlag": false,
     "GivePaidJewel": 2000,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -144,12 +147,13 @@
         "Id": 10401,
         "MJewelShopItemId": 104,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 2000
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 105,
@@ -160,11 +164,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 1,
     "DialogType": 1,
-    "PurchaseType": 2,
+    "PurchaseType": "Money",
     "PurchaseValue": 3000,
     "SubscriptionFlag": false,
     "GivePaidJewel": 3000,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -182,12 +186,13 @@
         "Id": 10501,
         "MJewelShopItemId": 105,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 3000
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 106,
@@ -198,11 +203,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 1,
     "DialogType": 1,
-    "PurchaseType": 2,
+    "PurchaseType": "Money",
     "PurchaseValue": 4800,
     "SubscriptionFlag": false,
     "GivePaidJewel": 4800,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -220,12 +225,13 @@
         "Id": 10601,
         "MJewelShopItemId": 106,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 4800
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 107,
@@ -236,11 +242,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 1,
     "DialogType": 1,
-    "PurchaseType": 2,
+    "PurchaseType": "Money",
     "PurchaseValue": 9800,
     "SubscriptionFlag": false,
     "GivePaidJewel": 9800,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -258,12 +264,13 @@
         "Id": 10701,
         "MJewelShopItemId": 107,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 9800
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 111,
@@ -274,11 +281,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 1,
     "DialogType": 1,
-    "PurchaseType": 2,
+    "PurchaseType": "Money",
     "PurchaseValue": 120,
     "SubscriptionFlag": false,
     "GivePaidJewel": 120,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": null,
     "ExpiredDay": null,
@@ -287,13 +294,14 @@
     "SaleType": null,
     "SaleValue": null,
     "IsDisplayLocking": true,
-    "UnlockType": 15,
+    "UnlockType": "BuyJewelShopItem",
     "UnlockValue": 101,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
     "Lineup": [],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 112,
@@ -304,11 +312,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 1,
     "DialogType": 1,
-    "PurchaseType": 2,
+    "PurchaseType": "Money",
     "PurchaseValue": 480,
     "SubscriptionFlag": false,
     "GivePaidJewel": 480,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": null,
     "ExpiredDay": null,
@@ -317,7 +325,7 @@
     "SaleType": null,
     "SaleValue": null,
     "IsDisplayLocking": true,
-    "UnlockType": 15,
+    "UnlockType": "BuyJewelShopItem",
     "UnlockValue": 102,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
@@ -326,12 +334,13 @@
         "Id": 11201,
         "MJewelShopItemId": 112,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 10
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 113,
@@ -342,11 +351,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 1,
     "DialogType": 1,
-    "PurchaseType": 2,
+    "PurchaseType": "Money",
     "PurchaseValue": 1000,
     "SubscriptionFlag": false,
     "GivePaidJewel": 1000,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": null,
     "ExpiredDay": null,
@@ -355,7 +364,7 @@
     "SaleType": null,
     "SaleValue": null,
     "IsDisplayLocking": true,
-    "UnlockType": 15,
+    "UnlockType": "BuyJewelShopItem",
     "UnlockValue": 103,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
@@ -364,12 +373,13 @@
         "Id": 11301,
         "MJewelShopItemId": 113,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 30
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 114,
@@ -380,11 +390,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 1,
     "DialogType": 1,
-    "PurchaseType": 2,
+    "PurchaseType": "Money",
     "PurchaseValue": 2000,
     "SubscriptionFlag": false,
     "GivePaidJewel": 2000,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": null,
     "ExpiredDay": null,
@@ -393,7 +403,7 @@
     "SaleType": null,
     "SaleValue": null,
     "IsDisplayLocking": true,
-    "UnlockType": 15,
+    "UnlockType": "BuyJewelShopItem",
     "UnlockValue": 104,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
@@ -402,12 +412,13 @@
         "Id": 11401,
         "MJewelShopItemId": 114,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 70
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 115,
@@ -418,11 +429,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 1,
     "DialogType": 1,
-    "PurchaseType": 2,
+    "PurchaseType": "Money",
     "PurchaseValue": 3000,
     "SubscriptionFlag": false,
     "GivePaidJewel": 3000,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": null,
     "ExpiredDay": null,
@@ -431,7 +442,7 @@
     "SaleType": null,
     "SaleValue": null,
     "IsDisplayLocking": true,
-    "UnlockType": 15,
+    "UnlockType": "BuyJewelShopItem",
     "UnlockValue": 105,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
@@ -440,12 +451,13 @@
         "Id": 11501,
         "MJewelShopItemId": 115,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 120
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 116,
@@ -456,11 +468,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 1,
     "DialogType": 1,
-    "PurchaseType": 2,
+    "PurchaseType": "Money",
     "PurchaseValue": 4800,
     "SubscriptionFlag": false,
     "GivePaidJewel": 4800,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": null,
     "ExpiredDay": null,
@@ -469,7 +481,7 @@
     "SaleType": null,
     "SaleValue": null,
     "IsDisplayLocking": true,
-    "UnlockType": 15,
+    "UnlockType": "BuyJewelShopItem",
     "UnlockValue": 106,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
@@ -478,12 +490,13 @@
         "Id": 11601,
         "MJewelShopItemId": 116,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 220
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 117,
@@ -494,11 +507,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 1,
     "DialogType": 1,
-    "PurchaseType": 2,
+    "PurchaseType": "Money",
     "PurchaseValue": 9800,
     "SubscriptionFlag": false,
     "GivePaidJewel": 9800,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": null,
     "ExpiredDay": null,
@@ -507,7 +520,7 @@
     "SaleType": null,
     "SaleValue": null,
     "IsDisplayLocking": true,
-    "UnlockType": 15,
+    "UnlockType": "BuyJewelShopItem",
     "UnlockValue": 107,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
@@ -516,12 +529,13 @@
         "Id": 11701,
         "MJewelShopItemId": 117,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 500
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 201,
@@ -532,11 +546,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 1,
     "DialogType": 1,
-    "PurchaseType": 2,
+    "PurchaseType": "Money",
     "PurchaseValue": 9800,
     "SubscriptionFlag": false,
     "GivePaidJewel": 9800,
-    "ReplaceTypes": 3,
+    "ReplaceTypes": "Monthly",
     "ReplaceValue": null,
     "PurchaseLimit": 3,
     "ExpiredDay": null,
@@ -554,12 +568,13 @@
         "Id": 20101,
         "MJewelShopItemId": 201,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 4900
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 2001,
@@ -570,11 +585,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 2,
     "DialogType": 2,
-    "PurchaseType": 2,
+    "PurchaseType": "Money",
     "PurchaseValue": 480,
     "SubscriptionFlag": false,
     "GivePaidJewel": 480,
-    "ReplaceTypes": 10,
+    "ReplaceTypes": "DailyPassExpired",
     "ReplaceValue": 7,
     "PurchaseLimit": 1,
     "ExpiredDay": 30,
@@ -588,8 +603,9 @@
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
     "Lineup": [],
-    "ShopItemType": 1,
-    "ShopItemValue": null
+    "ShopItemType": "LoginPass",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 3003,
@@ -600,11 +616,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 3,
     "DialogType": 2,
-    "PurchaseType": 2,
+    "PurchaseType": "Money",
     "PurchaseValue": 480,
     "SubscriptionFlag": false,
     "GivePaidJewel": 480,
-    "ReplaceTypes": 3,
+    "ReplaceTypes": "Monthly",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -618,8 +634,9 @@
     "StartDate": "2023-08-01T05:00:00.000Z",
     "EndDate": null,
     "Lineup": [],
-    "ShopItemType": 2,
-    "ShopItemValue": null
+    "ShopItemType": "StarPass",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 3004,
@@ -630,11 +647,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 3,
     "DialogType": 2,
-    "PurchaseType": 2,
+    "PurchaseType": "Money",
     "PurchaseValue": 1600,
     "SubscriptionFlag": false,
     "GivePaidJewel": 1600,
-    "ReplaceTypes": 3,
+    "ReplaceTypes": "Monthly",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -648,8 +665,9 @@
     "StartDate": "2023-08-01T05:00:00.000Z",
     "EndDate": null,
     "Lineup": [],
-    "ShopItemType": 3,
-    "ShopItemValue": null
+    "ShopItemType": "DaiStarPass",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 4001,
@@ -660,11 +678,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 4,
     "DialogType": 1,
-    "PurchaseType": 2,
+    "PurchaseType": "Money",
     "PurchaseValue": 120,
     "SubscriptionFlag": false,
     "GivePaidJewel": 120,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -682,40 +700,41 @@
         "Id": 400101,
         "MJewelShopItemId": 4001,
         "ThingId": 144001,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 500
       },
       {
         "Id": 400102,
         "MJewelShopItemId": 4001,
         "ThingId": 120002,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 300
       },
       {
         "Id": 400103,
         "MJewelShopItemId": 4001,
         "ThingId": 130041,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 180
       },
       {
         "Id": 400104,
         "MJewelShopItemId": 4001,
         "ThingId": 130042,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 130
       },
       {
         "Id": 400105,
         "MJewelShopItemId": 4001,
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 30
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 4002,
@@ -726,11 +745,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 4,
     "DialogType": 1,
-    "PurchaseType": 1,
+    "PurchaseType": "Paid",
     "PurchaseValue": 300,
     "SubscriptionFlag": false,
     "GivePaidJewel": null,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -748,19 +767,20 @@
         "Id": 400201,
         "MJewelShopItemId": 4002,
         "ThingId": 120002,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 500
       },
       {
         "Id": 400202,
         "MJewelShopItemId": 4002,
         "ThingId": 130051,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 5
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 4003,
@@ -771,11 +791,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 4,
     "DialogType": 1,
-    "PurchaseType": 1,
+    "PurchaseType": "Paid",
     "PurchaseValue": 3000,
     "SubscriptionFlag": false,
     "GivePaidJewel": null,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -793,19 +813,20 @@
         "Id": 400301,
         "MJewelShopItemId": 4003,
         "ThingId": 210002,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 1
       },
       {
         "Id": 400302,
         "MJewelShopItemId": 4003,
         "ThingId": 210201,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 1
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 4004,
@@ -816,11 +837,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 4,
     "DialogType": 1,
-    "PurchaseType": 1,
+    "PurchaseType": "Paid",
     "PurchaseValue": 4800,
     "SubscriptionFlag": false,
     "GivePaidJewel": null,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -838,19 +859,20 @@
         "Id": 400401,
         "MJewelShopItemId": 4004,
         "ThingId": 210002,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 1
       },
       {
         "Id": 400402,
         "MJewelShopItemId": 4004,
         "ThingId": 210202,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 1
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 4005,
@@ -861,11 +883,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 4,
     "DialogType": 1,
-    "PurchaseType": 1,
+    "PurchaseType": "Paid",
     "PurchaseValue": 4800,
     "SubscriptionFlag": false,
     "GivePaidJewel": null,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -883,19 +905,20 @@
         "Id": 400501,
         "MJewelShopItemId": 4005,
         "ThingId": 211002,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 1
       },
       {
         "Id": 400502,
         "MJewelShopItemId": 4005,
         "ThingId": 211202,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 1
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 4006,
@@ -906,11 +929,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 4,
     "DialogType": 1,
-    "PurchaseType": 1,
+    "PurchaseType": "Paid",
     "PurchaseValue": 9800,
     "SubscriptionFlag": false,
     "GivePaidJewel": null,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -928,33 +951,34 @@
         "Id": 400601,
         "MJewelShopItemId": 4006,
         "ThingId": 210002,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 1
       },
       {
         "Id": 400602,
         "MJewelShopItemId": 4006,
         "ThingId": 210202,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 1
       },
       {
         "Id": 400603,
         "MJewelShopItemId": 4006,
         "ThingId": 211002,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 1
       },
       {
         "Id": 400604,
         "MJewelShopItemId": 4006,
         "ThingId": 211202,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 1
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 4101,
@@ -965,11 +989,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 4,
     "DialogType": 1,
-    "PurchaseType": 3,
+    "PurchaseType": "Free",
     "PurchaseValue": 0,
     "SubscriptionFlag": false,
     "GivePaidJewel": null,
-    "ReplaceTypes": 1,
+    "ReplaceTypes": "Daily",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -987,19 +1011,20 @@
         "Id": 410101,
         "MJewelShopItemId": 4101,
         "ThingId": 0,
-        "ThingType": 15,
+        "ThingType": "Stamina",
         "ThingQuantity": 60
       },
       {
         "Id": 410102,
         "MJewelShopItemId": 4101,
         "ThingId": 0,
-        "ThingType": 12,
+        "ThingType": "Coin",
         "ThingQuantity": 10000
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 4102,
@@ -1010,11 +1035,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 4,
     "DialogType": 1,
-    "PurchaseType": 1,
+    "PurchaseType": "Paid",
     "PurchaseValue": 1800,
     "SubscriptionFlag": false,
     "GivePaidJewel": null,
-    "ReplaceTypes": 3,
+    "ReplaceTypes": "Monthly",
     "ReplaceValue": null,
     "PurchaseLimit": 3,
     "ExpiredDay": null,
@@ -1032,47 +1057,48 @@
         "Id": 410201,
         "MJewelShopItemId": 4102,
         "ThingId": 210001,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 6
       },
       {
         "Id": 410202,
         "MJewelShopItemId": 4102,
         "ThingId": 120002,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 500
       },
       {
         "Id": 410203,
         "MJewelShopItemId": 4102,
         "ThingId": 130051,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 10
       },
       {
         "Id": 410204,
         "MJewelShopItemId": 4102,
         "ThingId": 130041,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       },
       {
         "Id": 410205,
         "MJewelShopItemId": 4102,
         "ThingId": 130042,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       },
       {
         "Id": 410206,
         "MJewelShopItemId": 4102,
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 4103,
@@ -1083,11 +1109,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 4,
     "DialogType": 1,
-    "PurchaseType": 1,
+    "PurchaseType": "Paid",
     "PurchaseValue": 1800,
     "SubscriptionFlag": false,
     "GivePaidJewel": null,
-    "ReplaceTypes": 3,
+    "ReplaceTypes": "Monthly",
     "ReplaceValue": null,
     "PurchaseLimit": 3,
     "ExpiredDay": null,
@@ -1105,40 +1131,41 @@
         "Id": 410301,
         "MJewelShopItemId": 4103,
         "ThingId": 211001,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 6
       },
       {
         "Id": 410302,
         "MJewelShopItemId": 4103,
         "ThingId": 130061,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 300
       },
       {
         "Id": 410303,
         "MJewelShopItemId": 4103,
         "ThingId": 130062,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 200
       },
       {
         "Id": 410304,
         "MJewelShopItemId": 4103,
         "ThingId": 130063,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       },
       {
         "Id": 410305,
         "MJewelShopItemId": 4103,
         "ThingId": 130064,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 4104,
@@ -1149,11 +1176,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 4,
     "DialogType": 1,
-    "PurchaseType": 1,
+    "PurchaseType": "Paid",
     "PurchaseValue": 1800,
     "SubscriptionFlag": false,
     "GivePaidJewel": null,
-    "ReplaceTypes": 3,
+    "ReplaceTypes": "Monthly",
     "ReplaceValue": null,
     "PurchaseLimit": 3,
     "ExpiredDay": null,
@@ -1171,40 +1198,41 @@
         "Id": 410401,
         "MJewelShopItemId": 4104,
         "ThingId": 210001,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 3
       },
       {
         "Id": 410402,
         "MJewelShopItemId": 4104,
         "ThingId": 211001,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 3
       },
       {
         "Id": 410403,
         "MJewelShopItemId": 4104,
         "ThingId": 130025,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 1000
       },
       {
         "Id": 410404,
         "MJewelShopItemId": 4104,
         "ThingId": 130035,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 500
       },
       {
         "Id": 410405,
         "MJewelShopItemId": 4104,
         "ThingId": 130091,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 30
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 4105,
@@ -1215,11 +1243,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 4,
     "DialogType": 1,
-    "PurchaseType": 1,
+    "PurchaseType": "Paid",
     "PurchaseValue": 600,
     "SubscriptionFlag": false,
     "GivePaidJewel": null,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": null,
     "ExpiredDay": null,
@@ -1237,26 +1265,27 @@
         "Id": 410501,
         "MJewelShopItemId": 4105,
         "ThingId": 210001,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 1
       },
       {
         "Id": 410502,
         "MJewelShopItemId": 4105,
         "ThingId": 211001,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 1
       },
       {
         "Id": 410503,
         "MJewelShopItemId": 4105,
         "ThingId": 130001,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 10
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 4201,
@@ -1267,11 +1296,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 4,
     "DialogType": 1,
-    "PurchaseType": 1,
+    "PurchaseType": "Paid",
     "PurchaseValue": 200,
     "SubscriptionFlag": false,
     "GivePaidJewel": null,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -1280,7 +1309,7 @@
     "SaleType": null,
     "SaleValue": null,
     "IsDisplayLocking": true,
-    "UnlockType": 16,
+    "UnlockType": "PlayerRank",
     "UnlockValue": 10,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
@@ -1289,26 +1318,27 @@
         "Id": 420101,
         "MJewelShopItemId": 4201,
         "ThingId": 120002,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       },
       {
         "Id": 420102,
         "MJewelShopItemId": 4201,
         "ThingId": 130011,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       },
       {
         "Id": 420103,
         "MJewelShopItemId": 4201,
         "ThingId": 130051,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 5
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 4202,
@@ -1319,11 +1349,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 4,
     "DialogType": 1,
-    "PurchaseType": 1,
+    "PurchaseType": "Paid",
     "PurchaseValue": 400,
     "SubscriptionFlag": false,
     "GivePaidJewel": null,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -1332,7 +1362,7 @@
     "SaleType": null,
     "SaleValue": null,
     "IsDisplayLocking": true,
-    "UnlockType": 16,
+    "UnlockType": "PlayerRank",
     "UnlockValue": 20,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
@@ -1341,40 +1371,41 @@
         "Id": 420201,
         "MJewelShopItemId": 4202,
         "ThingId": 120002,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 200
       },
       {
         "Id": 420202,
         "MJewelShopItemId": 4202,
         "ThingId": 130011,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 200
       },
       {
         "Id": 420203,
         "MJewelShopItemId": 4202,
         "ThingId": 130041,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 50
       },
       {
         "Id": 420204,
         "MJewelShopItemId": 4202,
         "ThingId": 130042,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 50
       },
       {
         "Id": 420205,
         "MJewelShopItemId": 4202,
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 50
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 4203,
@@ -1385,11 +1416,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 4,
     "DialogType": 1,
-    "PurchaseType": 1,
+    "PurchaseType": "Paid",
     "PurchaseValue": 600,
     "SubscriptionFlag": false,
     "GivePaidJewel": null,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -1398,7 +1429,7 @@
     "SaleType": null,
     "SaleValue": null,
     "IsDisplayLocking": true,
-    "UnlockType": 16,
+    "UnlockType": "PlayerRank",
     "UnlockValue": 30,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
@@ -1407,47 +1438,48 @@
         "Id": 420301,
         "MJewelShopItemId": 4203,
         "ThingId": 120002,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 300
       },
       {
         "Id": 420302,
         "MJewelShopItemId": 4203,
         "ThingId": 130011,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 300
       },
       {
         "Id": 420303,
         "MJewelShopItemId": 4203,
         "ThingId": 130061,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 50
       },
       {
         "Id": 420304,
         "MJewelShopItemId": 4203,
         "ThingId": 130062,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 50
       },
       {
         "Id": 420305,
         "MJewelShopItemId": 4203,
         "ThingId": 130063,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 50
       },
       {
         "Id": 420306,
         "MJewelShopItemId": 4203,
         "ThingId": 130064,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 50
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 4204,
@@ -1458,11 +1490,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 4,
     "DialogType": 1,
-    "PurchaseType": 1,
+    "PurchaseType": "Paid",
     "PurchaseValue": 800,
     "SubscriptionFlag": false,
     "GivePaidJewel": null,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -1471,7 +1503,7 @@
     "SaleType": null,
     "SaleValue": null,
     "IsDisplayLocking": true,
-    "UnlockType": 16,
+    "UnlockType": "PlayerRank",
     "UnlockValue": 40,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
@@ -1480,40 +1512,41 @@
         "Id": 420401,
         "MJewelShopItemId": 4204,
         "ThingId": 120002,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 400
       },
       {
         "Id": 420402,
         "MJewelShopItemId": 4204,
         "ThingId": 130011,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 400
       },
       {
         "Id": 420403,
         "MJewelShopItemId": 4204,
         "ThingId": 130025,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 300
       },
       {
         "Id": 420404,
         "MJewelShopItemId": 4204,
         "ThingId": 130035,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 300
       },
       {
         "Id": 420405,
         "MJewelShopItemId": 4204,
         "ThingId": 130091,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 30
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 4205,
@@ -1524,11 +1557,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 4,
     "DialogType": 1,
-    "PurchaseType": 1,
+    "PurchaseType": "Paid",
     "PurchaseValue": 1000,
     "SubscriptionFlag": false,
     "GivePaidJewel": null,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -1537,7 +1570,7 @@
     "SaleType": null,
     "SaleValue": null,
     "IsDisplayLocking": true,
-    "UnlockType": 16,
+    "UnlockType": "PlayerRank",
     "UnlockValue": 50,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
@@ -1546,26 +1579,27 @@
         "Id": 420501,
         "MJewelShopItemId": 4205,
         "ThingId": 120003,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 50
       },
       {
         "Id": 420502,
         "MJewelShopItemId": 4205,
         "ThingId": 130012,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 50
       },
       {
         "Id": 420503,
         "MJewelShopItemId": 4205,
         "ThingId": 140000,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 500
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 4206,
@@ -1576,11 +1610,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 4,
     "DialogType": 1,
-    "PurchaseType": 1,
+    "PurchaseType": "Paid",
     "PurchaseValue": 1000,
     "SubscriptionFlag": false,
     "GivePaidJewel": null,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -1589,7 +1623,7 @@
     "SaleType": null,
     "SaleValue": null,
     "IsDisplayLocking": true,
-    "UnlockType": 16,
+    "UnlockType": "PlayerRank",
     "UnlockValue": 60,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
@@ -1598,26 +1632,27 @@
         "Id": 420601,
         "MJewelShopItemId": 4206,
         "ThingId": 120003,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 50
       },
       {
         "Id": 420602,
         "MJewelShopItemId": 4206,
         "ThingId": 130012,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 50
       },
       {
         "Id": 420603,
         "MJewelShopItemId": 4206,
         "ThingId": 130071,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 5
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 4207,
@@ -1628,11 +1663,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 4,
     "DialogType": 1,
-    "PurchaseType": 1,
+    "PurchaseType": "Paid",
     "PurchaseValue": 1000,
     "SubscriptionFlag": false,
     "GivePaidJewel": null,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -1641,7 +1676,7 @@
     "SaleType": null,
     "SaleValue": null,
     "IsDisplayLocking": true,
-    "UnlockType": 16,
+    "UnlockType": "PlayerRank",
     "UnlockValue": 70,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
@@ -1650,26 +1685,27 @@
         "Id": 420701,
         "MJewelShopItemId": 4207,
         "ThingId": 120003,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 50
       },
       {
         "Id": 420702,
         "MJewelShopItemId": 4207,
         "ThingId": 130012,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 50
       },
       {
         "Id": 420703,
         "MJewelShopItemId": 4207,
         "ThingId": 140000,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 500
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 4208,
@@ -1680,11 +1716,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 4,
     "DialogType": 1,
-    "PurchaseType": 1,
+    "PurchaseType": "Paid",
     "PurchaseValue": 1000,
     "SubscriptionFlag": false,
     "GivePaidJewel": null,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -1693,7 +1729,7 @@
     "SaleType": null,
     "SaleValue": null,
     "IsDisplayLocking": true,
-    "UnlockType": 16,
+    "UnlockType": "PlayerRank",
     "UnlockValue": 80,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
@@ -1702,26 +1738,27 @@
         "Id": 420801,
         "MJewelShopItemId": 4208,
         "ThingId": 120003,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 50
       },
       {
         "Id": 420802,
         "MJewelShopItemId": 4208,
         "ThingId": 130012,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 50
       },
       {
         "Id": 420803,
         "MJewelShopItemId": 4208,
         "ThingId": 130071,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 5
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 4209,
@@ -1732,11 +1769,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 4,
     "DialogType": 1,
-    "PurchaseType": 1,
+    "PurchaseType": "Paid",
     "PurchaseValue": 1000,
     "SubscriptionFlag": false,
     "GivePaidJewel": null,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -1745,7 +1782,7 @@
     "SaleType": null,
     "SaleValue": null,
     "IsDisplayLocking": true,
-    "UnlockType": 16,
+    "UnlockType": "PlayerRank",
     "UnlockValue": 90,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
@@ -1754,26 +1791,27 @@
         "Id": 420901,
         "MJewelShopItemId": 4209,
         "ThingId": 120003,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 50
       },
       {
         "Id": 420902,
         "MJewelShopItemId": 4209,
         "ThingId": 130012,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 50
       },
       {
         "Id": 420903,
         "MJewelShopItemId": 4209,
         "ThingId": 140000,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 500
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 4210,
@@ -1784,11 +1822,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 4,
     "DialogType": 1,
-    "PurchaseType": 1,
+    "PurchaseType": "Paid",
     "PurchaseValue": 1000,
     "SubscriptionFlag": false,
     "GivePaidJewel": null,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -1797,7 +1835,7 @@
     "SaleType": null,
     "SaleValue": null,
     "IsDisplayLocking": true,
-    "UnlockType": 16,
+    "UnlockType": "PlayerRank",
     "UnlockValue": 100,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
@@ -1806,26 +1844,80 @@
         "Id": 421001,
         "MJewelShopItemId": 4210,
         "ThingId": 120003,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 50
       },
       {
         "Id": 421002,
         "MJewelShopItemId": 4210,
         "ThingId": 130012,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 50
       },
       {
         "Id": 421003,
         "MJewelShopItemId": 4210,
         "ThingId": 130071,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 5
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
+  },
+  {
+    "Id": 4211,
+    "Order": 811,
+    "AppStoreProductId": "",
+    "GooglePlayProductId": "",
+    "Name": "育成パック【ランク110】",
+    "PackText": "",
+    "MJewelShopCategoryId": 4,
+    "DialogType": 1,
+    "PurchaseType": "Paid",
+    "PurchaseValue": 1200,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": null,
+    "ReplaceTypes": "None",
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": true,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": true,
+    "UnlockType": "PlayerRank",
+    "UnlockValue": 110,
+    "StartDate": "2023-01-01T00:00:00.000Z",
+    "EndDate": null,
+    "Lineup": [
+      {
+        "Id": 421101,
+        "MJewelShopItemId": 4211,
+        "ThingId": 120003,
+        "ThingType": "Item",
+        "ThingQuantity": 60
+      },
+      {
+        "Id": 421102,
+        "MJewelShopItemId": 4211,
+        "ThingId": 130012,
+        "ThingType": "Item",
+        "ThingQuantity": 60
+      },
+      {
+        "Id": 421103,
+        "MJewelShopItemId": 4211,
+        "ThingId": 140000,
+        "ThingType": "Item",
+        "ThingQuantity": 750
+      }
+    ],
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 4301,
@@ -1836,11 +1928,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 4,
     "DialogType": 1,
-    "PurchaseType": 3,
+    "PurchaseType": "Free",
     "PurchaseValue": 0,
     "SubscriptionFlag": false,
     "GivePaidJewel": null,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -1849,7 +1941,7 @@
     "SaleType": null,
     "SaleValue": null,
     "IsDisplayLocking": true,
-    "UnlockType": 8,
+    "UnlockType": "RateReached",
     "UnlockValue": 200,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
@@ -1858,19 +1950,20 @@
         "Id": 430101,
         "MJewelShopItemId": 4301,
         "ThingId": 101,
-        "ThingType": 9,
+        "ThingType": "NameColor",
         "ThingQuantity": 1
       },
       {
         "Id": 430102,
         "MJewelShopItemId": 4301,
         "ThingId": 0,
-        "ThingType": 12,
+        "ThingType": "Coin",
         "ThingQuantity": 40000
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 4302,
@@ -1881,11 +1974,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 4,
     "DialogType": 1,
-    "PurchaseType": 3,
+    "PurchaseType": "Free",
     "PurchaseValue": 0,
     "SubscriptionFlag": false,
     "GivePaidJewel": null,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -1894,7 +1987,7 @@
     "SaleType": null,
     "SaleValue": null,
     "IsDisplayLocking": true,
-    "UnlockType": 8,
+    "UnlockType": "RateReached",
     "UnlockValue": 250,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
@@ -1903,19 +1996,20 @@
         "Id": 430201,
         "MJewelShopItemId": 4302,
         "ThingId": 102,
-        "ThingType": 9,
+        "ThingType": "NameColor",
         "ThingQuantity": 1
       },
       {
         "Id": 430202,
         "MJewelShopItemId": 4302,
         "ThingId": 0,
-        "ThingType": 12,
+        "ThingType": "Coin",
         "ThingQuantity": 50000
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 4303,
@@ -1926,11 +2020,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 4,
     "DialogType": 1,
-    "PurchaseType": 3,
+    "PurchaseType": "Free",
     "PurchaseValue": 0,
     "SubscriptionFlag": false,
     "GivePaidJewel": null,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -1939,7 +2033,7 @@
     "SaleType": null,
     "SaleValue": null,
     "IsDisplayLocking": true,
-    "UnlockType": 8,
+    "UnlockType": "RateReached",
     "UnlockValue": 300,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
@@ -1948,19 +2042,20 @@
         "Id": 430301,
         "MJewelShopItemId": 4303,
         "ThingId": 103,
-        "ThingType": 9,
+        "ThingType": "NameColor",
         "ThingQuantity": 1
       },
       {
         "Id": 430302,
         "MJewelShopItemId": 4303,
         "ThingId": 0,
-        "ThingType": 12,
+        "ThingType": "Coin",
         "ThingQuantity": 60000
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 4304,
@@ -1971,11 +2066,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 4,
     "DialogType": 1,
-    "PurchaseType": 3,
+    "PurchaseType": "Free",
     "PurchaseValue": 0,
     "SubscriptionFlag": false,
     "GivePaidJewel": null,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -1984,7 +2079,7 @@
     "SaleType": null,
     "SaleValue": null,
     "IsDisplayLocking": true,
-    "UnlockType": 8,
+    "UnlockType": "RateReached",
     "UnlockValue": 350,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
@@ -1993,19 +2088,20 @@
         "Id": 430401,
         "MJewelShopItemId": 4304,
         "ThingId": 104,
-        "ThingType": 9,
+        "ThingType": "NameColor",
         "ThingQuantity": 1
       },
       {
         "Id": 430402,
         "MJewelShopItemId": 4304,
         "ThingId": 0,
-        "ThingType": 12,
+        "ThingType": "Coin",
         "ThingQuantity": 70000
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 4305,
@@ -2016,11 +2112,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 4,
     "DialogType": 1,
-    "PurchaseType": 3,
+    "PurchaseType": "Free",
     "PurchaseValue": 0,
     "SubscriptionFlag": false,
     "GivePaidJewel": null,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -2029,7 +2125,7 @@
     "SaleType": null,
     "SaleValue": null,
     "IsDisplayLocking": true,
-    "UnlockType": 8,
+    "UnlockType": "RateReached",
     "UnlockValue": 400,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
@@ -2038,19 +2134,20 @@
         "Id": 430501,
         "MJewelShopItemId": 4305,
         "ThingId": 105,
-        "ThingType": 9,
+        "ThingType": "NameColor",
         "ThingQuantity": 1
       },
       {
         "Id": 430502,
         "MJewelShopItemId": 4305,
         "ThingId": 0,
-        "ThingType": 12,
+        "ThingType": "Coin",
         "ThingQuantity": 80000
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 4306,
@@ -2061,11 +2158,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 4,
     "DialogType": 1,
-    "PurchaseType": 3,
+    "PurchaseType": "Free",
     "PurchaseValue": 0,
     "SubscriptionFlag": false,
     "GivePaidJewel": null,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -2074,7 +2171,7 @@
     "SaleType": null,
     "SaleValue": null,
     "IsDisplayLocking": true,
-    "UnlockType": 8,
+    "UnlockType": "RateReached",
     "UnlockValue": 450,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
@@ -2083,19 +2180,20 @@
         "Id": 430601,
         "MJewelShopItemId": 4306,
         "ThingId": 106,
-        "ThingType": 9,
+        "ThingType": "NameColor",
         "ThingQuantity": 1
       },
       {
         "Id": 430602,
         "MJewelShopItemId": 4306,
         "ThingId": 0,
-        "ThingType": 12,
+        "ThingType": "Coin",
         "ThingQuantity": 90000
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 4307,
@@ -2106,11 +2204,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 4,
     "DialogType": 1,
-    "PurchaseType": 3,
+    "PurchaseType": "Free",
     "PurchaseValue": 0,
     "SubscriptionFlag": false,
     "GivePaidJewel": null,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -2119,7 +2217,7 @@
     "SaleType": null,
     "SaleValue": null,
     "IsDisplayLocking": true,
-    "UnlockType": 8,
+    "UnlockType": "RateReached",
     "UnlockValue": 500,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
@@ -2128,19 +2226,20 @@
         "Id": 430701,
         "MJewelShopItemId": 4307,
         "ThingId": 107,
-        "ThingType": 9,
+        "ThingType": "NameColor",
         "ThingQuantity": 1
       },
       {
         "Id": 430702,
         "MJewelShopItemId": 4307,
         "ThingId": 0,
-        "ThingType": 12,
+        "ThingType": "Coin",
         "ThingQuantity": 100000
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 4308,
@@ -2151,11 +2250,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 4,
     "DialogType": 1,
-    "PurchaseType": 3,
+    "PurchaseType": "Free",
     "PurchaseValue": 0,
     "SubscriptionFlag": false,
     "GivePaidJewel": null,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -2164,7 +2263,7 @@
     "SaleType": null,
     "SaleValue": null,
     "IsDisplayLocking": true,
-    "UnlockType": 8,
+    "UnlockType": "RateReached",
     "UnlockValue": 550,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
@@ -2173,19 +2272,20 @@
         "Id": 430801,
         "MJewelShopItemId": 4308,
         "ThingId": 108,
-        "ThingType": 9,
+        "ThingType": "NameColor",
         "ThingQuantity": 1
       },
       {
         "Id": 430802,
         "MJewelShopItemId": 4308,
         "ThingId": 0,
-        "ThingType": 12,
+        "ThingType": "Coin",
         "ThingQuantity": 110000
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 4309,
@@ -2196,11 +2296,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 4,
     "DialogType": 1,
-    "PurchaseType": 3,
+    "PurchaseType": "Free",
     "PurchaseValue": 0,
     "SubscriptionFlag": false,
     "GivePaidJewel": null,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -2209,7 +2309,7 @@
     "SaleType": null,
     "SaleValue": null,
     "IsDisplayLocking": true,
-    "UnlockType": 8,
+    "UnlockType": "RateReached",
     "UnlockValue": 600,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
@@ -2218,19 +2318,20 @@
         "Id": 430901,
         "MJewelShopItemId": 4309,
         "ThingId": 109,
-        "ThingType": 9,
+        "ThingType": "NameColor",
         "ThingQuantity": 1
       },
       {
         "Id": 430902,
         "MJewelShopItemId": 4309,
         "ThingId": 0,
-        "ThingType": 12,
+        "ThingType": "Coin",
         "ThingQuantity": 120000
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 4310,
@@ -2241,11 +2342,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 4,
     "DialogType": 1,
-    "PurchaseType": 3,
+    "PurchaseType": "Free",
     "PurchaseValue": 0,
     "SubscriptionFlag": false,
     "GivePaidJewel": null,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -2254,7 +2355,7 @@
     "SaleType": null,
     "SaleValue": null,
     "IsDisplayLocking": true,
-    "UnlockType": 8,
+    "UnlockType": "RateReached",
     "UnlockValue": 650,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
@@ -2263,19 +2364,20 @@
         "Id": 431001,
         "MJewelShopItemId": 4310,
         "ThingId": 110,
-        "ThingType": 9,
+        "ThingType": "NameColor",
         "ThingQuantity": 1
       },
       {
         "Id": 431002,
         "MJewelShopItemId": 4310,
         "ThingId": 0,
-        "ThingType": 12,
+        "ThingType": "Coin",
         "ThingQuantity": 130000
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 4311,
@@ -2286,11 +2388,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 4,
     "DialogType": 1,
-    "PurchaseType": 3,
+    "PurchaseType": "Free",
     "PurchaseValue": 0,
     "SubscriptionFlag": false,
     "GivePaidJewel": null,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -2299,7 +2401,7 @@
     "SaleType": null,
     "SaleValue": null,
     "IsDisplayLocking": true,
-    "UnlockType": 8,
+    "UnlockType": "RateReached",
     "UnlockValue": 700,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
@@ -2308,19 +2410,20 @@
         "Id": 431101,
         "MJewelShopItemId": 4311,
         "ThingId": 111,
-        "ThingType": 9,
+        "ThingType": "NameColor",
         "ThingQuantity": 1
       },
       {
         "Id": 431102,
         "MJewelShopItemId": 4311,
         "ThingId": 0,
-        "ThingType": 12,
+        "ThingType": "Coin",
         "ThingQuantity": 140000
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 4312,
@@ -2331,11 +2434,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 4,
     "DialogType": 1,
-    "PurchaseType": 3,
+    "PurchaseType": "Free",
     "PurchaseValue": 0,
     "SubscriptionFlag": false,
     "GivePaidJewel": null,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -2344,7 +2447,7 @@
     "SaleType": null,
     "SaleValue": null,
     "IsDisplayLocking": true,
-    "UnlockType": 8,
+    "UnlockType": "RateReached",
     "UnlockValue": 750,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
@@ -2353,19 +2456,20 @@
         "Id": 431201,
         "MJewelShopItemId": 4312,
         "ThingId": 112,
-        "ThingType": 9,
+        "ThingType": "NameColor",
         "ThingQuantity": 1
       },
       {
         "Id": 431202,
         "MJewelShopItemId": 4312,
         "ThingId": 0,
-        "ThingType": 12,
+        "ThingType": "Coin",
         "ThingQuantity": 150000
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 4313,
@@ -2376,11 +2480,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 4,
     "DialogType": 1,
-    "PurchaseType": 3,
+    "PurchaseType": "Free",
     "PurchaseValue": 0,
     "SubscriptionFlag": false,
     "GivePaidJewel": null,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -2389,7 +2493,7 @@
     "SaleType": null,
     "SaleValue": null,
     "IsDisplayLocking": true,
-    "UnlockType": 8,
+    "UnlockType": "RateReached",
     "UnlockValue": 800,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
@@ -2398,19 +2502,20 @@
         "Id": 431301,
         "MJewelShopItemId": 4313,
         "ThingId": 113,
-        "ThingType": 9,
+        "ThingType": "NameColor",
         "ThingQuantity": 1
       },
       {
         "Id": 431302,
         "MJewelShopItemId": 4313,
         "ThingId": 0,
-        "ThingType": 12,
+        "ThingType": "Coin",
         "ThingQuantity": 160000
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 4314,
@@ -2421,11 +2526,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 4,
     "DialogType": 1,
-    "PurchaseType": 3,
+    "PurchaseType": "Free",
     "PurchaseValue": 0,
     "SubscriptionFlag": false,
     "GivePaidJewel": null,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -2434,7 +2539,7 @@
     "SaleType": null,
     "SaleValue": null,
     "IsDisplayLocking": true,
-    "UnlockType": 8,
+    "UnlockType": "RateReached",
     "UnlockValue": 850,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
@@ -2443,19 +2548,20 @@
         "Id": 431401,
         "MJewelShopItemId": 4314,
         "ThingId": 114,
-        "ThingType": 9,
+        "ThingType": "NameColor",
         "ThingQuantity": 1
       },
       {
         "Id": 431402,
         "MJewelShopItemId": 4314,
         "ThingId": 0,
-        "ThingType": 12,
+        "ThingType": "Coin",
         "ThingQuantity": 170000
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 4315,
@@ -2466,11 +2572,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 4,
     "DialogType": 1,
-    "PurchaseType": 3,
+    "PurchaseType": "Free",
     "PurchaseValue": 0,
     "SubscriptionFlag": false,
     "GivePaidJewel": null,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -2479,7 +2585,7 @@
     "SaleType": null,
     "SaleValue": null,
     "IsDisplayLocking": true,
-    "UnlockType": 8,
+    "UnlockType": "RateReached",
     "UnlockValue": 900,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
@@ -2488,19 +2594,20 @@
         "Id": 431501,
         "MJewelShopItemId": 4315,
         "ThingId": 115,
-        "ThingType": 9,
+        "ThingType": "NameColor",
         "ThingQuantity": 1
       },
       {
         "Id": 431502,
         "MJewelShopItemId": 4315,
         "ThingId": 0,
-        "ThingType": 12,
+        "ThingType": "Coin",
         "ThingQuantity": 180000
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 4316,
@@ -2511,11 +2618,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 4,
     "DialogType": 1,
-    "PurchaseType": 3,
+    "PurchaseType": "Free",
     "PurchaseValue": 0,
     "SubscriptionFlag": false,
     "GivePaidJewel": null,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -2524,7 +2631,7 @@
     "SaleType": null,
     "SaleValue": null,
     "IsDisplayLocking": true,
-    "UnlockType": 8,
+    "UnlockType": "RateReached",
     "UnlockValue": 950,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
@@ -2533,19 +2640,20 @@
         "Id": 431601,
         "MJewelShopItemId": 4316,
         "ThingId": 116,
-        "ThingType": 9,
+        "ThingType": "NameColor",
         "ThingQuantity": 1
       },
       {
         "Id": 431602,
         "MJewelShopItemId": 4316,
         "ThingId": 0,
-        "ThingType": 12,
+        "ThingType": "Coin",
         "ThingQuantity": 190000
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 4317,
@@ -2556,11 +2664,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 4,
     "DialogType": 1,
-    "PurchaseType": 3,
+    "PurchaseType": "Free",
     "PurchaseValue": 0,
     "SubscriptionFlag": false,
     "GivePaidJewel": null,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -2569,7 +2677,7 @@
     "SaleType": null,
     "SaleValue": null,
     "IsDisplayLocking": true,
-    "UnlockType": 8,
+    "UnlockType": "RateReached",
     "UnlockValue": 1000,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
@@ -2578,19 +2686,20 @@
         "Id": 431701,
         "MJewelShopItemId": 4317,
         "ThingId": 117,
-        "ThingType": 9,
+        "ThingType": "NameColor",
         "ThingQuantity": 1
       },
       {
         "Id": 431702,
         "MJewelShopItemId": 4317,
         "ThingId": 0,
-        "ThingType": 12,
+        "ThingType": "Coin",
         "ThingQuantity": 200000
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 4401,
@@ -2601,11 +2710,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 4,
     "DialogType": 1,
-    "PurchaseType": 1,
+    "PurchaseType": "Paid",
     "PurchaseValue": 100,
     "SubscriptionFlag": false,
     "GivePaidJewel": null,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -2614,7 +2723,7 @@
     "SaleType": null,
     "SaleValue": null,
     "IsDisplayLocking": true,
-    "UnlockType": 8,
+    "UnlockType": "RateReached",
     "UnlockValue": 200,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
@@ -2623,19 +2732,20 @@
         "Id": 440101,
         "MJewelShopItemId": 4401,
         "ThingId": 210001,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 1
       },
       {
         "Id": 440102,
         "MJewelShopItemId": 4401,
         "ThingId": 130013,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 2
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 4402,
@@ -2646,11 +2756,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 4,
     "DialogType": 1,
-    "PurchaseType": 1,
+    "PurchaseType": "Paid",
     "PurchaseValue": 100,
     "SubscriptionFlag": false,
     "GivePaidJewel": null,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -2659,7 +2769,7 @@
     "SaleType": null,
     "SaleValue": null,
     "IsDisplayLocking": true,
-    "UnlockType": 8,
+    "UnlockType": "RateReached",
     "UnlockValue": 250,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
@@ -2668,19 +2778,20 @@
         "Id": 440201,
         "MJewelShopItemId": 4402,
         "ThingId": 211001,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 1
       },
       {
         "Id": 440202,
         "MJewelShopItemId": 4402,
         "ThingId": 130013,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 2
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 4403,
@@ -2691,11 +2802,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 4,
     "DialogType": 1,
-    "PurchaseType": 1,
+    "PurchaseType": "Paid",
     "PurchaseValue": 100,
     "SubscriptionFlag": false,
     "GivePaidJewel": null,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -2704,7 +2815,7 @@
     "SaleType": null,
     "SaleValue": null,
     "IsDisplayLocking": true,
-    "UnlockType": 8,
+    "UnlockType": "RateReached",
     "UnlockValue": 300,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
@@ -2713,19 +2824,20 @@
         "Id": 440301,
         "MJewelShopItemId": 4403,
         "ThingId": 210001,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 1
       },
       {
         "Id": 440302,
         "MJewelShopItemId": 4403,
         "ThingId": 130013,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 2
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 4404,
@@ -2736,11 +2848,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 4,
     "DialogType": 1,
-    "PurchaseType": 1,
+    "PurchaseType": "Paid",
     "PurchaseValue": 100,
     "SubscriptionFlag": false,
     "GivePaidJewel": null,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -2749,7 +2861,7 @@
     "SaleType": null,
     "SaleValue": null,
     "IsDisplayLocking": true,
-    "UnlockType": 8,
+    "UnlockType": "RateReached",
     "UnlockValue": 350,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
@@ -2758,19 +2870,20 @@
         "Id": 440401,
         "MJewelShopItemId": 4404,
         "ThingId": 211001,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 1
       },
       {
         "Id": 440402,
         "MJewelShopItemId": 4404,
         "ThingId": 130013,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 2
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 4405,
@@ -2781,11 +2894,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 4,
     "DialogType": 1,
-    "PurchaseType": 1,
+    "PurchaseType": "Paid",
     "PurchaseValue": 350,
     "SubscriptionFlag": false,
     "GivePaidJewel": null,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -2794,7 +2907,7 @@
     "SaleType": null,
     "SaleValue": null,
     "IsDisplayLocking": true,
-    "UnlockType": 8,
+    "UnlockType": "RateReached",
     "UnlockValue": 400,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
@@ -2803,19 +2916,20 @@
         "Id": 440501,
         "MJewelShopItemId": 4405,
         "ThingId": 210001,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 3
       },
       {
         "Id": 440502,
         "MJewelShopItemId": 4405,
         "ThingId": 130013,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 2
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 4406,
@@ -2826,11 +2940,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 4,
     "DialogType": 1,
-    "PurchaseType": 1,
+    "PurchaseType": "Paid",
     "PurchaseValue": 350,
     "SubscriptionFlag": false,
     "GivePaidJewel": null,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -2839,7 +2953,7 @@
     "SaleType": null,
     "SaleValue": null,
     "IsDisplayLocking": true,
-    "UnlockType": 8,
+    "UnlockType": "RateReached",
     "UnlockValue": 450,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
@@ -2848,19 +2962,20 @@
         "Id": 440601,
         "MJewelShopItemId": 4406,
         "ThingId": 211001,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 3
       },
       {
         "Id": 440602,
         "MJewelShopItemId": 4406,
         "ThingId": 130013,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 2
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 4407,
@@ -2871,11 +2986,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 4,
     "DialogType": 1,
-    "PurchaseType": 1,
+    "PurchaseType": "Paid",
     "PurchaseValue": 350,
     "SubscriptionFlag": false,
     "GivePaidJewel": null,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -2884,7 +2999,7 @@
     "SaleType": null,
     "SaleValue": null,
     "IsDisplayLocking": true,
-    "UnlockType": 8,
+    "UnlockType": "RateReached",
     "UnlockValue": 500,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
@@ -2893,19 +3008,20 @@
         "Id": 440701,
         "MJewelShopItemId": 4407,
         "ThingId": 210001,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 3
       },
       {
         "Id": 440702,
         "MJewelShopItemId": 4407,
         "ThingId": 130013,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 2
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 4408,
@@ -2916,11 +3032,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 4,
     "DialogType": 1,
-    "PurchaseType": 1,
+    "PurchaseType": "Paid",
     "PurchaseValue": 350,
     "SubscriptionFlag": false,
     "GivePaidJewel": null,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -2929,7 +3045,7 @@
     "SaleType": null,
     "SaleValue": null,
     "IsDisplayLocking": true,
-    "UnlockType": 8,
+    "UnlockType": "RateReached",
     "UnlockValue": 550,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
@@ -2938,19 +3054,20 @@
         "Id": 440801,
         "MJewelShopItemId": 4408,
         "ThingId": 211001,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 3
       },
       {
         "Id": 440802,
         "MJewelShopItemId": 4408,
         "ThingId": 130013,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 2
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 4409,
@@ -2961,11 +3078,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 4,
     "DialogType": 1,
-    "PurchaseType": 1,
+    "PurchaseType": "Paid",
     "PurchaseValue": 600,
     "SubscriptionFlag": false,
     "GivePaidJewel": null,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -2974,7 +3091,7 @@
     "SaleType": null,
     "SaleValue": null,
     "IsDisplayLocking": true,
-    "UnlockType": 8,
+    "UnlockType": "RateReached",
     "UnlockValue": 600,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
@@ -2983,19 +3100,20 @@
         "Id": 440901,
         "MJewelShopItemId": 4409,
         "ThingId": 210001,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 5
       },
       {
         "Id": 440902,
         "MJewelShopItemId": 4409,
         "ThingId": 130013,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 2
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 4410,
@@ -3006,11 +3124,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 4,
     "DialogType": 1,
-    "PurchaseType": 1,
+    "PurchaseType": "Paid",
     "PurchaseValue": 600,
     "SubscriptionFlag": false,
     "GivePaidJewel": null,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -3019,7 +3137,7 @@
     "SaleType": null,
     "SaleValue": null,
     "IsDisplayLocking": true,
-    "UnlockType": 8,
+    "UnlockType": "RateReached",
     "UnlockValue": 650,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
@@ -3028,19 +3146,20 @@
         "Id": 441001,
         "MJewelShopItemId": 4410,
         "ThingId": 211001,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 5
       },
       {
         "Id": 441002,
         "MJewelShopItemId": 4410,
         "ThingId": 130013,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 2
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 4411,
@@ -3051,11 +3170,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 4,
     "DialogType": 1,
-    "PurchaseType": 1,
+    "PurchaseType": "Paid",
     "PurchaseValue": 600,
     "SubscriptionFlag": false,
     "GivePaidJewel": null,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -3064,7 +3183,7 @@
     "SaleType": null,
     "SaleValue": null,
     "IsDisplayLocking": true,
-    "UnlockType": 8,
+    "UnlockType": "RateReached",
     "UnlockValue": 700,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
@@ -3073,19 +3192,20 @@
         "Id": 441101,
         "MJewelShopItemId": 4411,
         "ThingId": 210001,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 5
       },
       {
         "Id": 441102,
         "MJewelShopItemId": 4411,
         "ThingId": 130013,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 2
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 4412,
@@ -3096,11 +3216,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 4,
     "DialogType": 1,
-    "PurchaseType": 1,
+    "PurchaseType": "Paid",
     "PurchaseValue": 600,
     "SubscriptionFlag": false,
     "GivePaidJewel": null,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -3109,7 +3229,7 @@
     "SaleType": null,
     "SaleValue": null,
     "IsDisplayLocking": true,
-    "UnlockType": 8,
+    "UnlockType": "RateReached",
     "UnlockValue": 750,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
@@ -3118,19 +3238,20 @@
         "Id": 441201,
         "MJewelShopItemId": 4412,
         "ThingId": 211001,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 5
       },
       {
         "Id": 441202,
         "MJewelShopItemId": 4412,
         "ThingId": 130013,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 2
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 4413,
@@ -3141,11 +3262,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 4,
     "DialogType": 1,
-    "PurchaseType": 1,
+    "PurchaseType": "Paid",
     "PurchaseValue": 1500,
     "SubscriptionFlag": false,
     "GivePaidJewel": null,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -3154,7 +3275,7 @@
     "SaleType": null,
     "SaleValue": null,
     "IsDisplayLocking": true,
-    "UnlockType": 8,
+    "UnlockType": "RateReached",
     "UnlockValue": 800,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
@@ -3163,19 +3284,20 @@
         "Id": 441301,
         "MJewelShopItemId": 4413,
         "ThingId": 210002,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 1
       },
       {
         "Id": 441302,
         "MJewelShopItemId": 4413,
         "ThingId": 130013,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 1
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 4414,
@@ -3186,11 +3308,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 4,
     "DialogType": 1,
-    "PurchaseType": 1,
+    "PurchaseType": "Paid",
     "PurchaseValue": 1500,
     "SubscriptionFlag": false,
     "GivePaidJewel": null,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -3199,7 +3321,7 @@
     "SaleType": null,
     "SaleValue": null,
     "IsDisplayLocking": true,
-    "UnlockType": 8,
+    "UnlockType": "RateReached",
     "UnlockValue": 850,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
@@ -3208,19 +3330,20 @@
         "Id": 441401,
         "MJewelShopItemId": 4414,
         "ThingId": 211002,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 1
       },
       {
         "Id": 441402,
         "MJewelShopItemId": 4414,
         "ThingId": 130013,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 1
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 4415,
@@ -3231,11 +3354,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 4,
     "DialogType": 1,
-    "PurchaseType": 1,
+    "PurchaseType": "Paid",
     "PurchaseValue": 1500,
     "SubscriptionFlag": false,
     "GivePaidJewel": null,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -3244,7 +3367,7 @@
     "SaleType": null,
     "SaleValue": null,
     "IsDisplayLocking": true,
-    "UnlockType": 8,
+    "UnlockType": "RateReached",
     "UnlockValue": 900,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
@@ -3253,19 +3376,20 @@
         "Id": 441501,
         "MJewelShopItemId": 4415,
         "ThingId": 210002,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 1
       },
       {
         "Id": 441502,
         "MJewelShopItemId": 4415,
         "ThingId": 130013,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 1
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 4416,
@@ -3276,11 +3400,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 4,
     "DialogType": 1,
-    "PurchaseType": 1,
+    "PurchaseType": "Paid",
     "PurchaseValue": 1500,
     "SubscriptionFlag": false,
     "GivePaidJewel": null,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -3289,7 +3413,7 @@
     "SaleType": null,
     "SaleValue": null,
     "IsDisplayLocking": true,
-    "UnlockType": 8,
+    "UnlockType": "RateReached",
     "UnlockValue": 950,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
@@ -3298,19 +3422,20 @@
         "Id": 441601,
         "MJewelShopItemId": 4416,
         "ThingId": 211002,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 1
       },
       {
         "Id": 441602,
         "MJewelShopItemId": 4416,
         "ThingId": 130013,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 1
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 4417,
@@ -3321,11 +3446,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 4,
     "DialogType": 1,
-    "PurchaseType": 1,
+    "PurchaseType": "Paid",
     "PurchaseValue": 3000,
     "SubscriptionFlag": false,
     "GivePaidJewel": null,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -3334,7 +3459,7 @@
     "SaleType": null,
     "SaleValue": null,
     "IsDisplayLocking": true,
-    "UnlockType": 8,
+    "UnlockType": "RateReached",
     "UnlockValue": 1000,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
@@ -3343,26 +3468,27 @@
         "Id": 441701,
         "MJewelShopItemId": 4417,
         "ThingId": 210002,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 1
       },
       {
         "Id": 441702,
         "MJewelShopItemId": 4417,
         "ThingId": 211002,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 1
       },
       {
         "Id": 441703,
         "MJewelShopItemId": 4417,
         "ThingId": 130013,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 1
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 4501,
@@ -3373,11 +3499,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 4,
     "DialogType": 1,
-    "PurchaseType": 2,
+    "PurchaseType": "Money",
     "PurchaseValue": 1000,
     "SubscriptionFlag": false,
     "GivePaidJewel": 1000,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -3386,7 +3512,7 @@
     "SaleType": null,
     "SaleValue": null,
     "IsDisplayLocking": true,
-    "UnlockType": 9,
+    "UnlockType": "ClassReached",
     "UnlockValue": 2,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
@@ -3395,12 +3521,13 @@
         "Id": 450101,
         "MJewelShopItemId": 4501,
         "ThingId": 120002,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 500
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 4502,
@@ -3411,11 +3538,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 4,
     "DialogType": 1,
-    "PurchaseType": 2,
+    "PurchaseType": "Money",
     "PurchaseValue": 2000,
     "SubscriptionFlag": false,
     "GivePaidJewel": 2000,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -3424,7 +3551,7 @@
     "SaleType": null,
     "SaleValue": null,
     "IsDisplayLocking": true,
-    "UnlockType": 9,
+    "UnlockType": "ClassReached",
     "UnlockValue": 3,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
@@ -3433,26 +3560,27 @@
         "Id": 450201,
         "MJewelShopItemId": 4502,
         "ThingId": 130041,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 150
       },
       {
         "Id": 450202,
         "MJewelShopItemId": 4502,
         "ThingId": 130042,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 150
       },
       {
         "Id": 450203,
         "MJewelShopItemId": 4502,
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 150
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 4503,
@@ -3463,11 +3591,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 4,
     "DialogType": 1,
-    "PurchaseType": 2,
+    "PurchaseType": "Money",
     "PurchaseValue": 2000,
     "SubscriptionFlag": false,
     "GivePaidJewel": 2000,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -3476,7 +3604,7 @@
     "SaleType": null,
     "SaleValue": null,
     "IsDisplayLocking": true,
-    "UnlockType": 9,
+    "UnlockType": "ClassReached",
     "UnlockValue": 4,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
@@ -3485,33 +3613,34 @@
         "Id": 450301,
         "MJewelShopItemId": 4503,
         "ThingId": 130061,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 150
       },
       {
         "Id": 450302,
         "MJewelShopItemId": 4503,
         "ThingId": 130062,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 150
       },
       {
         "Id": 450303,
         "MJewelShopItemId": 4503,
         "ThingId": 130063,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 150
       },
       {
         "Id": 450304,
         "MJewelShopItemId": 4503,
         "ThingId": 130064,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 150
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 4504,
@@ -3522,11 +3651,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 4,
     "DialogType": 1,
-    "PurchaseType": 2,
+    "PurchaseType": "Money",
     "PurchaseValue": 3000,
     "SubscriptionFlag": false,
     "GivePaidJewel": 3000,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -3535,7 +3664,7 @@
     "SaleType": null,
     "SaleValue": null,
     "IsDisplayLocking": true,
-    "UnlockType": 9,
+    "UnlockType": "ClassReached",
     "UnlockValue": 5,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
@@ -3544,19 +3673,20 @@
         "Id": 450401,
         "MJewelShopItemId": 4504,
         "ThingId": 0,
-        "ThingType": 12,
+        "ThingType": "Coin",
         "ThingQuantity": 1000000
       },
       {
         "Id": 450402,
         "MJewelShopItemId": 4504,
         "ThingId": 130091,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 4505,
@@ -3567,11 +3697,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 4,
     "DialogType": 1,
-    "PurchaseType": 2,
+    "PurchaseType": "Money",
     "PurchaseValue": 4800,
     "SubscriptionFlag": false,
     "GivePaidJewel": 4800,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -3580,7 +3710,7 @@
     "SaleType": null,
     "SaleValue": null,
     "IsDisplayLocking": true,
-    "UnlockType": 9,
+    "UnlockType": "ClassReached",
     "UnlockValue": 6,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
@@ -3589,19 +3719,20 @@
         "Id": 450501,
         "MJewelShopItemId": 4505,
         "ThingId": 210201,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 1
       },
       {
         "Id": 450502,
         "MJewelShopItemId": 4505,
         "ThingId": 140000,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 500
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 4506,
@@ -3612,11 +3743,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 4,
     "DialogType": 1,
-    "PurchaseType": 2,
+    "PurchaseType": "Money",
     "PurchaseValue": 4800,
     "SubscriptionFlag": false,
     "GivePaidJewel": 4800,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -3625,7 +3756,7 @@
     "SaleType": null,
     "SaleValue": null,
     "IsDisplayLocking": true,
-    "UnlockType": 9,
+    "UnlockType": "ClassReached",
     "UnlockValue": 7,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": null,
@@ -3634,19 +3765,20 @@
         "Id": 450601,
         "MJewelShopItemId": 4506,
         "ThingId": 211201,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 1
       },
       {
         "Id": 450602,
         "MJewelShopItemId": 4506,
         "ThingId": 130071,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 20
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 5002,
@@ -3657,11 +3789,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 5,
     "DialogType": 1,
-    "PurchaseType": 1,
+    "PurchaseType": "Paid",
     "PurchaseValue": 3000,
     "SubscriptionFlag": false,
     "GivePaidJewel": null,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -3679,19 +3811,20 @@
         "Id": 500201,
         "MJewelShopItemId": 5002,
         "ThingId": 139001,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 1
       },
       {
         "Id": 500202,
         "MJewelShopItemId": 5002,
         "ThingId": 110002,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 75
       }
     ],
-    "ShopItemType": 4,
-    "ShopItemValue": 2
+    "ShopItemType": "MultiLiveDropBoost",
+    "ShopItemValue": 2,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 5003,
@@ -3702,11 +3835,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 5,
     "DialogType": 1,
-    "PurchaseType": 1,
+    "PurchaseType": "Paid",
     "PurchaseValue": 2700,
     "SubscriptionFlag": false,
     "GivePaidJewel": null,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -3724,26 +3857,27 @@
         "Id": 500301,
         "MJewelShopItemId": 5003,
         "ThingId": 1151,
-        "ThingType": 5,
+        "ThingType": "Costume",
         "ThingQuantity": 1
       },
       {
         "Id": 500302,
         "MJewelShopItemId": 5003,
         "ThingId": 1152,
-        "ThingType": 5,
+        "ThingType": "Costume",
         "ThingQuantity": 1
       },
       {
         "Id": 500303,
         "MJewelShopItemId": 5003,
         "ThingId": 210002,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 1
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 5007,
@@ -3754,11 +3888,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 5,
     "DialogType": 1,
-    "PurchaseType": 1,
+    "PurchaseType": "Paid",
     "PurchaseValue": 980,
     "SubscriptionFlag": false,
     "GivePaidJewel": null,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 2,
     "ExpiredDay": null,
@@ -3776,26 +3910,27 @@
         "Id": 500701,
         "MJewelShopItemId": 5007,
         "ThingId": 510006,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 1
       },
       {
         "Id": 500702,
         "MJewelShopItemId": 5007,
         "ThingId": 510004,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 10
       },
       {
         "Id": 500703,
         "MJewelShopItemId": 5007,
         "ThingId": 0,
-        "ThingType": 12,
+        "ThingType": "Coin",
         "ThingQuantity": 1000000
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 5008,
@@ -3806,11 +3941,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 5,
     "DialogType": 1,
-    "PurchaseType": 2,
+    "PurchaseType": "Money",
     "PurchaseValue": 3000,
     "SubscriptionFlag": false,
     "GivePaidJewel": 3000,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -3828,61 +3963,62 @@
         "Id": 500801,
         "MJewelShopItemId": 5008,
         "ThingId": 511103,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 1
       },
       {
         "Id": 500802,
         "MJewelShopItemId": 5008,
         "ThingId": 330030,
-        "ThingType": 4,
+        "ThingType": "Accessory",
         "ThingQuantity": 1
       },
       {
         "Id": 500803,
         "MJewelShopItemId": 5008,
         "ThingId": 10381,
-        "ThingType": 7,
+        "ThingType": "Stamp",
         "ThingQuantity": 1
       },
       {
         "Id": 500804,
         "MJewelShopItemId": 5008,
         "ThingId": 10103,
-        "ThingType": 16,
+        "ThingType": "Decoration",
         "ThingQuantity": 1
       },
       {
         "Id": 500805,
         "MJewelShopItemId": 5008,
         "ThingId": 110371,
-        "ThingType": 6,
+        "ThingType": "Trophy",
         "ThingQuantity": 1
       },
       {
         "Id": 500806,
         "MJewelShopItemId": 5008,
         "ThingId": 1103,
-        "ThingType": 8,
+        "ThingType": "Nameplate",
         "ThingQuantity": 1
       },
       {
         "Id": 500807,
         "MJewelShopItemId": 5008,
         "ThingId": 130082,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 120
       },
       {
         "Id": 500808,
         "MJewelShopItemId": 5008,
         "ThingId": 130081,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 600
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 5009,
@@ -3893,11 +4029,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 5,
     "DialogType": 1,
-    "PurchaseType": 1,
+    "PurchaseType": "Paid",
     "PurchaseValue": 2700,
     "SubscriptionFlag": false,
     "GivePaidJewel": null,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -3915,19 +4051,20 @@
         "Id": 500901,
         "MJewelShopItemId": 5009,
         "ThingId": 1181,
-        "ThingType": 5,
+        "ThingType": "Costume",
         "ThingQuantity": 1
       },
       {
         "Id": 500902,
         "MJewelShopItemId": 5009,
         "ThingId": 210002,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 1
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 5010,
@@ -3938,11 +4075,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 5,
     "DialogType": 1,
-    "PurchaseType": 1,
+    "PurchaseType": "Paid",
     "PurchaseValue": 2700,
     "SubscriptionFlag": false,
     "GivePaidJewel": null,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -3960,19 +4097,20 @@
         "Id": 501001,
         "MJewelShopItemId": 5010,
         "ThingId": 1191,
-        "ThingType": 5,
+        "ThingType": "Costume",
         "ThingQuantity": 1
       },
       {
         "Id": 501002,
         "MJewelShopItemId": 5010,
         "ThingId": 210002,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 1
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 5011,
@@ -3983,11 +4121,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 5,
     "DialogType": 1,
-    "PurchaseType": 1,
+    "PurchaseType": "Paid",
     "PurchaseValue": 2700,
     "SubscriptionFlag": false,
     "GivePaidJewel": null,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -4005,19 +4143,20 @@
         "Id": 501101,
         "MJewelShopItemId": 5011,
         "ThingId": 1201,
-        "ThingType": 5,
+        "ThingType": "Costume",
         "ThingQuantity": 1
       },
       {
         "Id": 501102,
         "MJewelShopItemId": 5011,
         "ThingId": 210002,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 1
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 5012,
@@ -4028,11 +4167,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 5,
     "DialogType": 1,
-    "PurchaseType": 1,
+    "PurchaseType": "Paid",
     "PurchaseValue": 2700,
     "SubscriptionFlag": false,
     "GivePaidJewel": null,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -4050,19 +4189,20 @@
         "Id": 501201,
         "MJewelShopItemId": 5012,
         "ThingId": 1211,
-        "ThingType": 5,
+        "ThingType": "Costume",
         "ThingQuantity": 1
       },
       {
         "Id": 501202,
         "MJewelShopItemId": 5012,
         "ThingId": 210002,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 1
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 5013,
@@ -4073,11 +4213,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 5,
     "DialogType": 1,
-    "PurchaseType": 2,
+    "PurchaseType": "Money",
     "PurchaseValue": 3000,
     "SubscriptionFlag": false,
     "GivePaidJewel": 3000,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -4095,54 +4235,55 @@
         "Id": 501301,
         "MJewelShopItemId": 5013,
         "ThingId": 511305,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 1
       },
       {
         "Id": 501302,
         "MJewelShopItemId": 5013,
         "ThingId": 330160,
-        "ThingType": 4,
+        "ThingType": "Accessory",
         "ThingQuantity": 1
       },
       {
         "Id": 501303,
         "MJewelShopItemId": 5013,
         "ThingId": 30581,
-        "ThingType": 7,
+        "ThingType": "Stamp",
         "ThingQuantity": 1
       },
       {
         "Id": 501304,
         "MJewelShopItemId": 5013,
         "ThingId": 10305,
-        "ThingType": 16,
+        "ThingType": "Decoration",
         "ThingQuantity": 1
       },
       {
         "Id": 501305,
         "MJewelShopItemId": 5013,
         "ThingId": 1305,
-        "ThingType": 8,
+        "ThingType": "Nameplate",
         "ThingQuantity": 1
       },
       {
         "Id": 501306,
         "MJewelShopItemId": 5013,
         "ThingId": 130082,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 120
       },
       {
         "Id": 501307,
         "MJewelShopItemId": 5013,
         "ThingId": 130081,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 600
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 5014,
@@ -4153,11 +4294,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 5,
     "DialogType": 1,
-    "PurchaseType": 1,
+    "PurchaseType": "Paid",
     "PurchaseValue": 3000,
     "SubscriptionFlag": false,
     "GivePaidJewel": null,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -4175,19 +4316,20 @@
         "Id": 501401,
         "MJewelShopItemId": 5014,
         "ThingId": 139002,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 1
       },
       {
         "Id": 501402,
         "MJewelShopItemId": 5014,
         "ThingId": 110002,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 75
       }
     ],
-    "ShopItemType": 4,
-    "ShopItemValue": 4
+    "ShopItemType": "MultiLiveDropBoost",
+    "ShopItemValue": 4,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 5015,
@@ -4198,11 +4340,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 5,
     "DialogType": 1,
-    "PurchaseType": 2,
+    "PurchaseType": "Money",
     "PurchaseValue": 3000,
     "SubscriptionFlag": false,
     "GivePaidJewel": 3000,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -4220,54 +4362,55 @@
         "Id": 501501,
         "MJewelShopItemId": 5015,
         "ThingId": 511202,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 1
       },
       {
         "Id": 501502,
         "MJewelShopItemId": 5015,
         "ThingId": 330080,
-        "ThingType": 4,
+        "ThingType": "Accessory",
         "ThingQuantity": 1
       },
       {
         "Id": 501503,
         "MJewelShopItemId": 5015,
         "ThingId": 20281,
-        "ThingType": 7,
+        "ThingType": "Stamp",
         "ThingQuantity": 1
       },
       {
         "Id": 501504,
         "MJewelShopItemId": 5015,
         "ThingId": 10202,
-        "ThingType": 16,
+        "ThingType": "Decoration",
         "ThingQuantity": 1
       },
       {
         "Id": 501505,
         "MJewelShopItemId": 5015,
         "ThingId": 1202,
-        "ThingType": 8,
+        "ThingType": "Nameplate",
         "ThingQuantity": 1
       },
       {
         "Id": 501506,
         "MJewelShopItemId": 5015,
         "ThingId": 130082,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 120
       },
       {
         "Id": 501507,
         "MJewelShopItemId": 5015,
         "ThingId": 130081,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 600
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 5016,
@@ -4278,11 +4421,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 5,
     "DialogType": 1,
-    "PurchaseType": 2,
+    "PurchaseType": "Money",
     "PurchaseValue": 3000,
     "SubscriptionFlag": false,
     "GivePaidJewel": 3000,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -4300,54 +4443,55 @@
         "Id": 501601,
         "MJewelShopItemId": 5016,
         "ThingId": 511105,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 1
       },
       {
         "Id": 501602,
         "MJewelShopItemId": 5016,
         "ThingId": 330050,
-        "ThingType": 4,
+        "ThingType": "Accessory",
         "ThingQuantity": 1
       },
       {
         "Id": 501603,
         "MJewelShopItemId": 5016,
         "ThingId": 10581,
-        "ThingType": 7,
+        "ThingType": "Stamp",
         "ThingQuantity": 1
       },
       {
         "Id": 501604,
         "MJewelShopItemId": 5016,
         "ThingId": 10105,
-        "ThingType": 16,
+        "ThingType": "Decoration",
         "ThingQuantity": 1
       },
       {
         "Id": 501605,
         "MJewelShopItemId": 5016,
         "ThingId": 1105,
-        "ThingType": 8,
+        "ThingType": "Nameplate",
         "ThingQuantity": 1
       },
       {
         "Id": 501606,
         "MJewelShopItemId": 5016,
         "ThingId": 130082,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 120
       },
       {
         "Id": 501607,
         "MJewelShopItemId": 5016,
         "ThingId": 130081,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 600
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 5017,
@@ -4358,11 +4502,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 5,
     "DialogType": 1,
-    "PurchaseType": 1,
+    "PurchaseType": "Paid",
     "PurchaseValue": 980,
     "SubscriptionFlag": false,
     "GivePaidJewel": null,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 2,
     "ExpiredDay": null,
@@ -4380,26 +4524,27 @@
         "Id": 501701,
         "MJewelShopItemId": 5017,
         "ThingId": 510006,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 1
       },
       {
         "Id": 501702,
         "MJewelShopItemId": 5017,
         "ThingId": 510004,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 10
       },
       {
         "Id": 501703,
         "MJewelShopItemId": 5017,
         "ThingId": 0,
-        "ThingType": 12,
+        "ThingType": "Coin",
         "ThingQuantity": 1000000
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 5018,
@@ -4410,11 +4555,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 5,
     "DialogType": 1,
-    "PurchaseType": 1,
+    "PurchaseType": "Paid",
     "PurchaseValue": 3000,
     "SubscriptionFlag": false,
     "GivePaidJewel": null,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -4432,19 +4577,20 @@
         "Id": 501801,
         "MJewelShopItemId": 5018,
         "ThingId": 139003,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 1
       },
       {
         "Id": 501802,
         "MJewelShopItemId": 5018,
         "ThingId": 110002,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 75
       }
     ],
-    "ShopItemType": 4,
-    "ShopItemValue": 6
+    "ShopItemType": "MultiLiveDropBoost",
+    "ShopItemValue": 6,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 5019,
@@ -4455,11 +4601,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 5,
     "DialogType": 1,
-    "PurchaseType": 2,
+    "PurchaseType": "Money",
     "PurchaseValue": 500,
     "SubscriptionFlag": false,
     "GivePaidJewel": 500,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -4477,12 +4623,13 @@
         "Id": 501901,
         "MJewelShopItemId": 5019,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1000
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 5020,
@@ -4493,11 +4640,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 5,
     "DialogType": 1,
-    "PurchaseType": 2,
+    "PurchaseType": "Money",
     "PurchaseValue": 1000,
     "SubscriptionFlag": false,
     "GivePaidJewel": 1000,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -4515,12 +4662,13 @@
         "Id": 502001,
         "MJewelShopItemId": 5020,
         "ThingId": 110002,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 30
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 5021,
@@ -4531,11 +4679,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 5,
     "DialogType": 1,
-    "PurchaseType": 2,
+    "PurchaseType": "Money",
     "PurchaseValue": 4800,
     "SubscriptionFlag": false,
     "GivePaidJewel": 4800,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -4553,12 +4701,13 @@
         "Id": 502101,
         "MJewelShopItemId": 5021,
         "ThingId": 140000,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 500
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 5022,
@@ -4569,11 +4718,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 5,
     "DialogType": 1,
-    "PurchaseType": 2,
+    "PurchaseType": "Money",
     "PurchaseValue": 9800,
     "SubscriptionFlag": false,
     "GivePaidJewel": 9800,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -4591,12 +4740,13 @@
         "Id": 502201,
         "MJewelShopItemId": 5022,
         "ThingId": 130071,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 20
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 5023,
@@ -4607,11 +4757,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 5,
     "DialogType": 1,
-    "PurchaseType": 1,
+    "PurchaseType": "Paid",
     "PurchaseValue": 480,
     "SubscriptionFlag": false,
     "GivePaidJewel": null,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -4629,145 +4779,146 @@
         "Id": 502301,
         "MJewelShopItemId": 5023,
         "ThingId": 201021,
-        "ThingType": 16,
+        "ThingType": "Decoration",
         "ThingQuantity": 1
       },
       {
         "Id": 502302,
         "MJewelShopItemId": 5023,
         "ThingId": 201022,
-        "ThingType": 16,
+        "ThingType": "Decoration",
         "ThingQuantity": 1
       },
       {
         "Id": 502303,
         "MJewelShopItemId": 5023,
         "ThingId": 201023,
-        "ThingType": 16,
+        "ThingType": "Decoration",
         "ThingQuantity": 1
       },
       {
         "Id": 502304,
         "MJewelShopItemId": 5023,
         "ThingId": 201024,
-        "ThingType": 16,
+        "ThingType": "Decoration",
         "ThingQuantity": 1
       },
       {
         "Id": 502305,
         "MJewelShopItemId": 5023,
         "ThingId": 202020,
-        "ThingType": 16,
+        "ThingType": "Decoration",
         "ThingQuantity": 1
       },
       {
         "Id": 502306,
         "MJewelShopItemId": 5023,
         "ThingId": 203011,
-        "ThingType": 16,
+        "ThingType": "Decoration",
         "ThingQuantity": 1
       },
       {
         "Id": 502307,
         "MJewelShopItemId": 5023,
         "ThingId": 203012,
-        "ThingType": 16,
+        "ThingType": "Decoration",
         "ThingQuantity": 1
       },
       {
         "Id": 502308,
         "MJewelShopItemId": 5023,
         "ThingId": 203013,
-        "ThingType": 16,
+        "ThingType": "Decoration",
         "ThingQuantity": 1
       },
       {
         "Id": 502309,
         "MJewelShopItemId": 5023,
         "ThingId": 203014,
-        "ThingType": 16,
+        "ThingType": "Decoration",
         "ThingQuantity": 1
       },
       {
         "Id": 502310,
         "MJewelShopItemId": 5023,
         "ThingId": 205011,
-        "ThingType": 16,
+        "ThingType": "Decoration",
         "ThingQuantity": 1
       },
       {
         "Id": 502311,
         "MJewelShopItemId": 5023,
         "ThingId": 205012,
-        "ThingType": 16,
+        "ThingType": "Decoration",
         "ThingQuantity": 1
       },
       {
         "Id": 502312,
         "MJewelShopItemId": 5023,
         "ThingId": 205013,
-        "ThingType": 16,
+        "ThingType": "Decoration",
         "ThingQuantity": 1
       },
       {
         "Id": 502313,
         "MJewelShopItemId": 5023,
         "ThingId": 205014,
-        "ThingType": 16,
+        "ThingType": "Decoration",
         "ThingQuantity": 1
       },
       {
         "Id": 502314,
         "MJewelShopItemId": 5023,
         "ThingId": 290011,
-        "ThingType": 16,
+        "ThingType": "Decoration",
         "ThingQuantity": 1
       },
       {
         "Id": 502315,
         "MJewelShopItemId": 5023,
         "ThingId": 290012,
-        "ThingType": 16,
+        "ThingType": "Decoration",
         "ThingQuantity": 1
       },
       {
         "Id": 502316,
         "MJewelShopItemId": 5023,
         "ThingId": 290013,
-        "ThingType": 16,
+        "ThingType": "Decoration",
         "ThingQuantity": 1
       },
       {
         "Id": 502317,
         "MJewelShopItemId": 5023,
         "ThingId": 290014,
-        "ThingType": 16,
+        "ThingType": "Decoration",
         "ThingQuantity": 1
       },
       {
         "Id": 502318,
         "MJewelShopItemId": 5023,
         "ThingId": 601010,
-        "ThingType": 16,
+        "ThingType": "Decoration",
         "ThingQuantity": 1
       },
       {
         "Id": 502319,
         "MJewelShopItemId": 5023,
         "ThingId": 602010,
-        "ThingType": 16,
+        "ThingType": "Decoration",
         "ThingQuantity": 1
       },
       {
         "Id": 502320,
         "MJewelShopItemId": 5023,
         "ThingId": 602020,
-        "ThingType": 16,
+        "ThingType": "Decoration",
         "ThingQuantity": 1
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 5024,
@@ -4778,11 +4929,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 5,
     "DialogType": 1,
-    "PurchaseType": 1,
+    "PurchaseType": "Paid",
     "PurchaseValue": 480,
     "SubscriptionFlag": false,
     "GivePaidJewel": null,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -4800,110 +4951,111 @@
         "Id": 502401,
         "MJewelShopItemId": 5024,
         "ThingId": 301010,
-        "ThingType": 16,
+        "ThingType": "Decoration",
         "ThingQuantity": 1
       },
       {
         "Id": 502402,
         "MJewelShopItemId": 5024,
         "ThingId": 301020,
-        "ThingType": 16,
+        "ThingType": "Decoration",
         "ThingQuantity": 1
       },
       {
         "Id": 502403,
         "MJewelShopItemId": 5024,
         "ThingId": 301030,
-        "ThingType": 16,
+        "ThingType": "Decoration",
         "ThingQuantity": 1
       },
       {
         "Id": 502404,
         "MJewelShopItemId": 5024,
         "ThingId": 380010,
-        "ThingType": 16,
+        "ThingType": "Decoration",
         "ThingQuantity": 1
       },
       {
         "Id": 502405,
         "MJewelShopItemId": 5024,
         "ThingId": 380020,
-        "ThingType": 16,
+        "ThingType": "Decoration",
         "ThingQuantity": 1
       },
       {
         "Id": 502406,
         "MJewelShopItemId": 5024,
         "ThingId": 380030,
-        "ThingType": 16,
+        "ThingType": "Decoration",
         "ThingQuantity": 1
       },
       {
         "Id": 502407,
         "MJewelShopItemId": 5024,
         "ThingId": 380040,
-        "ThingType": 16,
+        "ThingType": "Decoration",
         "ThingQuantity": 1
       },
       {
         "Id": 502408,
         "MJewelShopItemId": 5024,
         "ThingId": 390010,
-        "ThingType": 16,
+        "ThingType": "Decoration",
         "ThingQuantity": 1
       },
       {
         "Id": 502409,
         "MJewelShopItemId": 5024,
         "ThingId": 501010,
-        "ThingType": 16,
+        "ThingType": "Decoration",
         "ThingQuantity": 1
       },
       {
         "Id": 502410,
         "MJewelShopItemId": 5024,
         "ThingId": 501020,
-        "ThingType": 16,
+        "ThingType": "Decoration",
         "ThingQuantity": 1
       },
       {
         "Id": 502411,
         "MJewelShopItemId": 5024,
         "ThingId": 502010,
-        "ThingType": 16,
+        "ThingType": "Decoration",
         "ThingQuantity": 1
       },
       {
         "Id": 502412,
         "MJewelShopItemId": 5024,
         "ThingId": 580010,
-        "ThingType": 16,
+        "ThingType": "Decoration",
         "ThingQuantity": 1
       },
       {
         "Id": 502413,
         "MJewelShopItemId": 5024,
         "ThingId": 701010,
-        "ThingType": 16,
+        "ThingType": "Decoration",
         "ThingQuantity": 1
       },
       {
         "Id": 502414,
         "MJewelShopItemId": 5024,
         "ThingId": 780010,
-        "ThingType": 16,
+        "ThingType": "Decoration",
         "ThingQuantity": 1
       },
       {
         "Id": 502415,
         "MJewelShopItemId": 5024,
         "ThingId": 901010,
-        "ThingType": 16,
+        "ThingType": "Decoration",
         "ThingQuantity": 1
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 5025,
@@ -4914,11 +5066,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 5,
     "DialogType": 1,
-    "PurchaseType": 2,
+    "PurchaseType": "Money",
     "PurchaseValue": 1500,
     "SubscriptionFlag": false,
     "GivePaidJewel": 1500,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -4936,12 +5088,13 @@
         "Id": 502501,
         "MJewelShopItemId": 5025,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1500
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 5026,
@@ -4952,11 +5105,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 5,
     "DialogType": 1,
-    "PurchaseType": 2,
+    "PurchaseType": "Money",
     "PurchaseValue": 4800,
     "SubscriptionFlag": false,
     "GivePaidJewel": 4800,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -4974,12 +5127,13 @@
         "Id": 502601,
         "MJewelShopItemId": 5026,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 4800
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 5027,
@@ -4990,11 +5144,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 5,
     "DialogType": 1,
-    "PurchaseType": 2,
+    "PurchaseType": "Money",
     "PurchaseValue": 9800,
     "SubscriptionFlag": false,
     "GivePaidJewel": 9800,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -5012,12 +5166,13 @@
         "Id": 502701,
         "MJewelShopItemId": 5027,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 9800
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 5028,
@@ -5028,11 +5183,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 5,
     "DialogType": 1,
-    "PurchaseType": 2,
+    "PurchaseType": "Money",
     "PurchaseValue": 3000,
     "SubscriptionFlag": false,
     "GivePaidJewel": 3000,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -5050,12 +5205,13 @@
         "Id": 502801,
         "MJewelShopItemId": 5028,
         "ThingId": 221001,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 1
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 5029,
@@ -5066,11 +5222,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 5,
     "DialogType": 1,
-    "PurchaseType": 2,
+    "PurchaseType": "Money",
     "PurchaseValue": 3000,
     "SubscriptionFlag": false,
     "GivePaidJewel": 3000,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -5088,54 +5244,55 @@
         "Id": 502901,
         "MJewelShopItemId": 5029,
         "ThingId": 511301,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 1
       },
       {
         "Id": 502902,
         "MJewelShopItemId": 5029,
         "ThingId": 330120,
-        "ThingType": 4,
+        "ThingType": "Accessory",
         "ThingQuantity": 1
       },
       {
         "Id": 502903,
         "MJewelShopItemId": 5029,
         "ThingId": 30181,
-        "ThingType": 7,
+        "ThingType": "Stamp",
         "ThingQuantity": 1
       },
       {
         "Id": 502904,
         "MJewelShopItemId": 5029,
         "ThingId": 10301,
-        "ThingType": 16,
+        "ThingType": "Decoration",
         "ThingQuantity": 1
       },
       {
         "Id": 502905,
         "MJewelShopItemId": 5029,
         "ThingId": 1301,
-        "ThingType": 8,
+        "ThingType": "Nameplate",
         "ThingQuantity": 1
       },
       {
         "Id": 502906,
         "MJewelShopItemId": 5029,
         "ThingId": 130082,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 120
       },
       {
         "Id": 502907,
         "MJewelShopItemId": 5029,
         "ThingId": 130081,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 600
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 5030,
@@ -5146,11 +5303,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 5,
     "DialogType": 1,
-    "PurchaseType": 2,
+    "PurchaseType": "Money",
     "PurchaseValue": 2400,
     "SubscriptionFlag": false,
     "GivePaidJewel": 2400,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -5168,82 +5325,83 @@
         "Id": 503001,
         "MJewelShopItemId": 5030,
         "ThingId": 120002,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 500
       },
       {
         "Id": 503002,
         "MJewelShopItemId": 5030,
         "ThingId": 130051,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 10
       },
       {
         "Id": 503003,
         "MJewelShopItemId": 5030,
         "ThingId": 130041,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 180
       },
       {
         "Id": 503004,
         "MJewelShopItemId": 5030,
         "ThingId": 130042,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 130
       },
       {
         "Id": 503005,
         "MJewelShopItemId": 5030,
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 50
       },
       {
         "Id": 503006,
         "MJewelShopItemId": 5030,
         "ThingId": 130061,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 850
       },
       {
         "Id": 503007,
         "MJewelShopItemId": 5030,
         "ThingId": 130062,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 450
       },
       {
         "Id": 503008,
         "MJewelShopItemId": 5030,
         "ThingId": 130063,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 250
       },
       {
         "Id": 503009,
         "MJewelShopItemId": 5030,
         "ThingId": 130064,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 50
       },
       {
         "Id": 503010,
         "MJewelShopItemId": 5030,
         "ThingId": 130081,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 600
       },
       {
         "Id": 503011,
         "MJewelShopItemId": 5030,
         "ThingId": 130082,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 120
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 5031,
@@ -5254,11 +5412,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 5,
     "DialogType": 1,
-    "PurchaseType": 1,
+    "PurchaseType": "Paid",
     "PurchaseValue": 980,
     "SubscriptionFlag": false,
     "GivePaidJewel": null,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 2,
     "ExpiredDay": null,
@@ -5276,26 +5434,27 @@
         "Id": 503101,
         "MJewelShopItemId": 5031,
         "ThingId": 510006,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 1
       },
       {
         "Id": 503102,
         "MJewelShopItemId": 5031,
         "ThingId": 510004,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 10
       },
       {
         "Id": 503103,
         "MJewelShopItemId": 5031,
         "ThingId": 0,
-        "ThingType": 12,
+        "ThingType": "Coin",
         "ThingQuantity": 1000000
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 5033,
@@ -5306,11 +5465,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 5,
     "DialogType": 1,
-    "PurchaseType": 1,
+    "PurchaseType": "Paid",
     "PurchaseValue": 3000,
     "SubscriptionFlag": false,
     "GivePaidJewel": null,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -5328,19 +5487,20 @@
         "Id": 503301,
         "MJewelShopItemId": 5033,
         "ThingId": 139004,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 1
       },
       {
         "Id": 503302,
         "MJewelShopItemId": 5033,
         "ThingId": 110002,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 75
       }
     ],
-    "ShopItemType": 4,
-    "ShopItemValue": 8
+    "ShopItemType": "MultiLiveDropBoost",
+    "ShopItemValue": 8,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 5034,
@@ -5351,11 +5511,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 5,
     "DialogType": 1,
-    "PurchaseType": 2,
+    "PurchaseType": "Money",
     "PurchaseValue": 3000,
     "SubscriptionFlag": false,
     "GivePaidJewel": 3000,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -5373,54 +5533,55 @@
         "Id": 503401,
         "MJewelShopItemId": 5034,
         "ThingId": 511205,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 1
       },
       {
         "Id": 503402,
         "MJewelShopItemId": 5034,
         "ThingId": 330110,
-        "ThingType": 4,
+        "ThingType": "Accessory",
         "ThingQuantity": 1
       },
       {
         "Id": 503403,
         "MJewelShopItemId": 5034,
         "ThingId": 20581,
-        "ThingType": 7,
+        "ThingType": "Stamp",
         "ThingQuantity": 1
       },
       {
         "Id": 503404,
         "MJewelShopItemId": 5034,
         "ThingId": 10205,
-        "ThingType": 16,
+        "ThingType": "Decoration",
         "ThingQuantity": 1
       },
       {
         "Id": 503405,
         "MJewelShopItemId": 5034,
         "ThingId": 1205,
-        "ThingType": 8,
+        "ThingType": "Nameplate",
         "ThingQuantity": 1
       },
       {
         "Id": 503406,
         "MJewelShopItemId": 5034,
         "ThingId": 130082,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 120
       },
       {
         "Id": 503407,
         "MJewelShopItemId": 5034,
         "ThingId": 130081,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 600
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 5035,
@@ -5431,11 +5592,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 5,
     "DialogType": 1,
-    "PurchaseType": 2,
+    "PurchaseType": "Money",
     "PurchaseValue": 120,
     "SubscriptionFlag": false,
     "GivePaidJewel": 120,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -5453,12 +5614,13 @@
         "Id": 503501,
         "MJewelShopItemId": 5035,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 120
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 5036,
@@ -5469,11 +5631,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 5,
     "DialogType": 1,
-    "PurchaseType": 2,
+    "PurchaseType": "Money",
     "PurchaseValue": 480,
     "SubscriptionFlag": false,
     "GivePaidJewel": 480,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -5491,12 +5653,13 @@
         "Id": 503601,
         "MJewelShopItemId": 5036,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 480
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 5037,
@@ -5507,11 +5670,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 5,
     "DialogType": 1,
-    "PurchaseType": 2,
+    "PurchaseType": "Money",
     "PurchaseValue": 1000,
     "SubscriptionFlag": false,
     "GivePaidJewel": 1000,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -5529,12 +5692,13 @@
         "Id": 503701,
         "MJewelShopItemId": 5037,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1000
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 5038,
@@ -5545,11 +5709,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 5,
     "DialogType": 1,
-    "PurchaseType": 2,
+    "PurchaseType": "Money",
     "PurchaseValue": 2000,
     "SubscriptionFlag": false,
     "GivePaidJewel": 2000,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -5567,12 +5731,13 @@
         "Id": 503801,
         "MJewelShopItemId": 5038,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 2000
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 5040,
@@ -5583,11 +5748,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 5,
     "DialogType": 1,
-    "PurchaseType": 2,
+    "PurchaseType": "Money",
     "PurchaseValue": 3000,
     "SubscriptionFlag": false,
     "GivePaidJewel": 3000,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -5605,82 +5770,83 @@
         "Id": 504001,
         "MJewelShopItemId": 5040,
         "ThingId": 120002,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 650
       },
       {
         "Id": 504002,
         "MJewelShopItemId": 5040,
         "ThingId": 130051,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 20
       },
       {
         "Id": 504003,
         "MJewelShopItemId": 5040,
         "ThingId": 130041,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 250
       },
       {
         "Id": 504004,
         "MJewelShopItemId": 5040,
         "ThingId": 130042,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 200
       },
       {
         "Id": 504005,
         "MJewelShopItemId": 5040,
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       },
       {
         "Id": 504006,
         "MJewelShopItemId": 5040,
         "ThingId": 130061,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 1000
       },
       {
         "Id": 504007,
         "MJewelShopItemId": 5040,
         "ThingId": 130062,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 650
       },
       {
         "Id": 504008,
         "MJewelShopItemId": 5040,
         "ThingId": 130063,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 350
       },
       {
         "Id": 504009,
         "MJewelShopItemId": 5040,
         "ThingId": 130064,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100
       },
       {
         "Id": 504010,
         "MJewelShopItemId": 5040,
         "ThingId": 130081,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 750
       },
       {
         "Id": 504011,
         "MJewelShopItemId": 5040,
         "ThingId": 130082,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 150
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 5041,
@@ -5691,11 +5857,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 5,
     "DialogType": 1,
-    "PurchaseType": 1,
+    "PurchaseType": "Paid",
     "PurchaseValue": 980,
     "SubscriptionFlag": false,
     "GivePaidJewel": null,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 2,
     "ExpiredDay": null,
@@ -5713,26 +5879,27 @@
         "Id": 504101,
         "MJewelShopItemId": 5041,
         "ThingId": 510006,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 1
       },
       {
         "Id": 504102,
         "MJewelShopItemId": 5041,
         "ThingId": 510004,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 10
       },
       {
         "Id": 504103,
         "MJewelShopItemId": 5041,
         "ThingId": 0,
-        "ThingType": 12,
+        "ThingType": "Coin",
         "ThingQuantity": 1000000
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 5401,
@@ -5743,11 +5910,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 5,
     "DialogType": 1,
-    "PurchaseType": 2,
+    "PurchaseType": "Money",
     "PurchaseValue": 1500,
     "SubscriptionFlag": false,
     "GivePaidJewel": 1500,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -5765,12 +5932,13 @@
         "Id": 540101,
         "MJewelShopItemId": 5401,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1500
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": 1
   },
   {
     "Id": 5402,
@@ -5781,11 +5949,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 5,
     "DialogType": 1,
-    "PurchaseType": 2,
+    "PurchaseType": "Money",
     "PurchaseValue": 4800,
     "SubscriptionFlag": false,
     "GivePaidJewel": 4800,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -5803,12 +5971,13 @@
         "Id": 540201,
         "MJewelShopItemId": 5402,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 4800
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": 1
   },
   {
     "Id": 5403,
@@ -5819,11 +5988,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 5,
     "DialogType": 1,
-    "PurchaseType": 2,
+    "PurchaseType": "Money",
     "PurchaseValue": 9800,
     "SubscriptionFlag": false,
     "GivePaidJewel": 9800,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -5841,12 +6010,13 @@
         "Id": 540301,
         "MJewelShopItemId": 5403,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 9800
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": 1
   },
   {
     "Id": 5404,
@@ -5857,11 +6027,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 5,
     "DialogType": 1,
-    "PurchaseType": 2,
+    "PurchaseType": "Money",
     "PurchaseValue": 2400,
     "SubscriptionFlag": false,
     "GivePaidJewel": 2400,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -5879,82 +6049,83 @@
         "Id": 540401,
         "MJewelShopItemId": 5404,
         "ThingId": 120002,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 500
       },
       {
         "Id": 540402,
         "MJewelShopItemId": 5404,
         "ThingId": 130051,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 10
       },
       {
         "Id": 540403,
         "MJewelShopItemId": 5404,
         "ThingId": 130041,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 180
       },
       {
         "Id": 540404,
         "MJewelShopItemId": 5404,
         "ThingId": 130042,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 130
       },
       {
         "Id": 540405,
         "MJewelShopItemId": 5404,
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 50
       },
       {
         "Id": 540406,
         "MJewelShopItemId": 5404,
         "ThingId": 130061,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 850
       },
       {
         "Id": 540407,
         "MJewelShopItemId": 5404,
         "ThingId": 130062,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 450
       },
       {
         "Id": 540408,
         "MJewelShopItemId": 5404,
         "ThingId": 130063,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 250
       },
       {
         "Id": 540409,
         "MJewelShopItemId": 5404,
         "ThingId": 130064,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 50
       },
       {
         "Id": 540410,
         "MJewelShopItemId": 5404,
         "ThingId": 130081,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 600
       },
       {
         "Id": 540411,
         "MJewelShopItemId": 5404,
         "ThingId": 130082,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 120
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": 1
   },
   {
     "Id": 5501,
@@ -5965,11 +6136,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 5,
     "DialogType": 1,
-    "PurchaseType": 2,
+    "PurchaseType": "Money",
     "PurchaseValue": 1500,
     "SubscriptionFlag": false,
     "GivePaidJewel": 1500,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -5978,7 +6149,7 @@
     "SaleType": null,
     "SaleValue": null,
     "IsDisplayLocking": true,
-    "UnlockType": 2,
+    "UnlockType": "ReadStory",
     "UnlockValue": 2000108,
     "StartDate": "2023-07-31T17:00:00.000Z",
     "EndDate": "2023-08-08T22:00:00.000Z",
@@ -5987,12 +6158,13 @@
         "Id": 550101,
         "MJewelShopItemId": 5501,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 500
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 5503,
@@ -6003,11 +6175,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 5,
     "DialogType": 1,
-    "PurchaseType": 3,
+    "PurchaseType": "Free",
     "PurchaseValue": 0,
     "SubscriptionFlag": false,
     "GivePaidJewel": null,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -6016,7 +6188,7 @@
     "SaleType": null,
     "SaleValue": null,
     "IsDisplayLocking": true,
-    "UnlockType": 2,
+    "UnlockType": "ReadStory",
     "UnlockValue": 2000208,
     "StartDate": "2023-08-10T17:00:00.000Z",
     "EndDate": "2023-08-18T22:00:00.000Z",
@@ -6025,12 +6197,13 @@
         "Id": 550301,
         "MJewelShopItemId": 5503,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 100
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 5504,
@@ -6041,11 +6214,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 5,
     "DialogType": 1,
-    "PurchaseType": 2,
+    "PurchaseType": "Money",
     "PurchaseValue": 1500,
     "SubscriptionFlag": false,
     "GivePaidJewel": 1500,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -6063,12 +6236,13 @@
         "Id": 550401,
         "MJewelShopItemId": 5504,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1500
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 5505,
@@ -6079,11 +6253,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 5,
     "DialogType": 1,
-    "PurchaseType": 2,
+    "PurchaseType": "Money",
     "PurchaseValue": 4800,
     "SubscriptionFlag": false,
     "GivePaidJewel": 4800,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -6101,12 +6275,13 @@
         "Id": 550501,
         "MJewelShopItemId": 5505,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 3000
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 5506,
@@ -6117,11 +6292,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 5,
     "DialogType": 1,
-    "PurchaseType": 2,
+    "PurchaseType": "Money",
     "PurchaseValue": 9800,
     "SubscriptionFlag": false,
     "GivePaidJewel": 9800,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 2,
     "ExpiredDay": null,
@@ -6139,12 +6314,13 @@
         "Id": 550601,
         "MJewelShopItemId": 5506,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 4900
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 5507,
@@ -6155,11 +6331,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 5,
     "DialogType": 1,
-    "PurchaseType": 3,
+    "PurchaseType": "Free",
     "PurchaseValue": 0,
     "SubscriptionFlag": false,
     "GivePaidJewel": null,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -6168,7 +6344,7 @@
     "SaleType": null,
     "SaleValue": null,
     "IsDisplayLocking": true,
-    "UnlockType": 2,
+    "UnlockType": "ReadStory",
     "UnlockValue": 2000308,
     "StartDate": "2023-08-20T17:00:00.000Z",
     "EndDate": "2023-08-31T17:00:00.000Z",
@@ -6177,12 +6353,13 @@
         "Id": 550701,
         "MJewelShopItemId": 5507,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 100
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 5508,
@@ -6193,11 +6370,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 5,
     "DialogType": 1,
-    "PurchaseType": 2,
+    "PurchaseType": "Money",
     "PurchaseValue": 1500,
     "SubscriptionFlag": false,
     "GivePaidJewel": 1500,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -6215,12 +6392,13 @@
         "Id": 550801,
         "MJewelShopItemId": 5508,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1500
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 5509,
@@ -6231,11 +6409,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 5,
     "DialogType": 1,
-    "PurchaseType": 2,
+    "PurchaseType": "Money",
     "PurchaseValue": 4800,
     "SubscriptionFlag": false,
     "GivePaidJewel": 4800,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -6253,12 +6431,13 @@
         "Id": 550901,
         "MJewelShopItemId": 5509,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 3000
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 5510,
@@ -6269,11 +6448,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 5,
     "DialogType": 1,
-    "PurchaseType": 2,
+    "PurchaseType": "Money",
     "PurchaseValue": 9800,
     "SubscriptionFlag": false,
     "GivePaidJewel": 9800,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 2,
     "ExpiredDay": null,
@@ -6291,12 +6470,13 @@
         "Id": 551001,
         "MJewelShopItemId": 5510,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 4900
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 5511,
@@ -6307,11 +6487,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 5,
     "DialogType": 1,
-    "PurchaseType": 3,
+    "PurchaseType": "Free",
     "PurchaseValue": 0,
     "SubscriptionFlag": false,
     "GivePaidJewel": null,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -6320,7 +6500,7 @@
     "SaleType": null,
     "SaleValue": null,
     "IsDisplayLocking": true,
-    "UnlockType": 2,
+    "UnlockType": "ReadStory",
     "UnlockValue": 2000408,
     "StartDate": "2023-08-31T17:00:00.000Z",
     "EndDate": "2023-09-10T17:00:00.000Z",
@@ -6329,12 +6509,13 @@
         "Id": 551101,
         "MJewelShopItemId": 5511,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 100
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 5512,
@@ -6345,11 +6526,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 5,
     "DialogType": 1,
-    "PurchaseType": 2,
+    "PurchaseType": "Money",
     "PurchaseValue": 1500,
     "SubscriptionFlag": false,
     "GivePaidJewel": 1500,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -6367,12 +6548,13 @@
         "Id": 551201,
         "MJewelShopItemId": 5512,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1500
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 5513,
@@ -6383,11 +6565,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 5,
     "DialogType": 1,
-    "PurchaseType": 2,
+    "PurchaseType": "Money",
     "PurchaseValue": 4800,
     "SubscriptionFlag": false,
     "GivePaidJewel": 4800,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -6405,12 +6587,13 @@
         "Id": 551301,
         "MJewelShopItemId": 5513,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 3000
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 5514,
@@ -6421,11 +6604,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 5,
     "DialogType": 1,
-    "PurchaseType": 2,
+    "PurchaseType": "Money",
     "PurchaseValue": 9800,
     "SubscriptionFlag": false,
     "GivePaidJewel": 9800,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 2,
     "ExpiredDay": null,
@@ -6443,12 +6626,13 @@
         "Id": 551401,
         "MJewelShopItemId": 5514,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 4900
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 5515,
@@ -6459,11 +6643,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 5,
     "DialogType": 1,
-    "PurchaseType": 3,
+    "PurchaseType": "Free",
     "PurchaseValue": 0,
     "SubscriptionFlag": false,
     "GivePaidJewel": null,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -6472,7 +6656,7 @@
     "SaleType": null,
     "SaleValue": null,
     "IsDisplayLocking": true,
-    "UnlockType": 2,
+    "UnlockType": "ReadStory",
     "UnlockValue": 2000508,
     "StartDate": "2023-09-10T17:00:00.000Z",
     "EndDate": "2023-09-20T17:00:00.000Z",
@@ -6481,12 +6665,13 @@
         "Id": 551501,
         "MJewelShopItemId": 5515,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 100
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 5516,
@@ -6497,11 +6682,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 5,
     "DialogType": 1,
-    "PurchaseType": 2,
+    "PurchaseType": "Money",
     "PurchaseValue": 1500,
     "SubscriptionFlag": false,
     "GivePaidJewel": 1500,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -6519,12 +6704,13 @@
         "Id": 551601,
         "MJewelShopItemId": 5516,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1500
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 5517,
@@ -6535,11 +6721,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 5,
     "DialogType": 1,
-    "PurchaseType": 2,
+    "PurchaseType": "Money",
     "PurchaseValue": 4800,
     "SubscriptionFlag": false,
     "GivePaidJewel": 4800,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -6557,12 +6743,13 @@
         "Id": 551701,
         "MJewelShopItemId": 5517,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 3000
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 5518,
@@ -6573,11 +6760,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 5,
     "DialogType": 1,
-    "PurchaseType": 2,
+    "PurchaseType": "Money",
     "PurchaseValue": 9800,
     "SubscriptionFlag": false,
     "GivePaidJewel": 9800,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 2,
     "ExpiredDay": null,
@@ -6595,12 +6782,13 @@
         "Id": 551801,
         "MJewelShopItemId": 5518,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 4900
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 5519,
@@ -6611,11 +6799,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 5,
     "DialogType": 1,
-    "PurchaseType": 3,
+    "PurchaseType": "Free",
     "PurchaseValue": 0,
     "SubscriptionFlag": false,
     "GivePaidJewel": null,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -6624,7 +6812,7 @@
     "SaleType": null,
     "SaleValue": null,
     "IsDisplayLocking": true,
-    "UnlockType": 2,
+    "UnlockType": "ReadStory",
     "UnlockValue": 2000608,
     "StartDate": "2023-09-20T17:00:00.000Z",
     "EndDate": "2023-09-30T17:00:00.000Z",
@@ -6633,12 +6821,13 @@
         "Id": 551901,
         "MJewelShopItemId": 5519,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 100
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 5520,
@@ -6649,11 +6838,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 5,
     "DialogType": 1,
-    "PurchaseType": 2,
+    "PurchaseType": "Money",
     "PurchaseValue": 1500,
     "SubscriptionFlag": false,
     "GivePaidJewel": 1500,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -6671,12 +6860,13 @@
         "Id": 552001,
         "MJewelShopItemId": 5520,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1500
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 5521,
@@ -6687,11 +6877,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 5,
     "DialogType": 1,
-    "PurchaseType": 2,
+    "PurchaseType": "Money",
     "PurchaseValue": 4800,
     "SubscriptionFlag": false,
     "GivePaidJewel": 4800,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -6709,12 +6899,13 @@
         "Id": 552101,
         "MJewelShopItemId": 5521,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 3000
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 5522,
@@ -6725,11 +6916,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 5,
     "DialogType": 1,
-    "PurchaseType": 2,
+    "PurchaseType": "Money",
     "PurchaseValue": 9800,
     "SubscriptionFlag": false,
     "GivePaidJewel": 9800,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 2,
     "ExpiredDay": null,
@@ -6747,12 +6938,13 @@
         "Id": 552201,
         "MJewelShopItemId": 5522,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 4900
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 5523,
@@ -6763,11 +6955,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 5,
     "DialogType": 1,
-    "PurchaseType": 3,
+    "PurchaseType": "Free",
     "PurchaseValue": 0,
     "SubscriptionFlag": false,
     "GivePaidJewel": null,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -6776,7 +6968,7 @@
     "SaleType": null,
     "SaleValue": null,
     "IsDisplayLocking": true,
-    "UnlockType": 2,
+    "UnlockType": "ReadStory",
     "UnlockValue": 2000708,
     "StartDate": "2023-09-30T17:00:00.000Z",
     "EndDate": "2023-10-10T17:00:00.000Z",
@@ -6785,12 +6977,13 @@
         "Id": 552301,
         "MJewelShopItemId": 5523,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 100
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 5524,
@@ -6801,11 +6994,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 5,
     "DialogType": 1,
-    "PurchaseType": 2,
+    "PurchaseType": "Money",
     "PurchaseValue": 1500,
     "SubscriptionFlag": false,
     "GivePaidJewel": 1500,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -6823,12 +7016,13 @@
         "Id": 552401,
         "MJewelShopItemId": 5524,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1500
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 5525,
@@ -6839,11 +7033,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 5,
     "DialogType": 1,
-    "PurchaseType": 2,
+    "PurchaseType": "Money",
     "PurchaseValue": 4800,
     "SubscriptionFlag": false,
     "GivePaidJewel": 4800,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -6861,12 +7055,13 @@
         "Id": 552501,
         "MJewelShopItemId": 5525,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 3000
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 5526,
@@ -6877,11 +7072,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 5,
     "DialogType": 1,
-    "PurchaseType": 2,
+    "PurchaseType": "Money",
     "PurchaseValue": 9800,
     "SubscriptionFlag": false,
     "GivePaidJewel": 9800,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 2,
     "ExpiredDay": null,
@@ -6899,12 +7094,13 @@
         "Id": 552601,
         "MJewelShopItemId": 5526,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 4900
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 5527,
@@ -6915,11 +7111,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 5,
     "DialogType": 1,
-    "PurchaseType": 3,
+    "PurchaseType": "Free",
     "PurchaseValue": 0,
     "SubscriptionFlag": false,
     "GivePaidJewel": null,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -6928,7 +7124,7 @@
     "SaleType": null,
     "SaleValue": null,
     "IsDisplayLocking": true,
-    "UnlockType": 2,
+    "UnlockType": "ReadStory",
     "UnlockValue": 2000808,
     "StartDate": "2023-10-10T17:00:00.000Z",
     "EndDate": "2023-10-20T17:00:00.000Z",
@@ -6937,12 +7133,13 @@
         "Id": 552701,
         "MJewelShopItemId": 5527,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 100
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 5528,
@@ -6953,11 +7150,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 1,
     "DialogType": 1,
-    "PurchaseType": 2,
+    "PurchaseType": "Money",
     "PurchaseValue": 1500,
     "SubscriptionFlag": false,
     "GivePaidJewel": 1500,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -6975,12 +7172,13 @@
         "Id": 552801,
         "MJewelShopItemId": 5528,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1500
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 5529,
@@ -6991,11 +7189,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 1,
     "DialogType": 1,
-    "PurchaseType": 2,
+    "PurchaseType": "Money",
     "PurchaseValue": 4800,
     "SubscriptionFlag": false,
     "GivePaidJewel": 4800,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -7013,12 +7211,13 @@
         "Id": 552901,
         "MJewelShopItemId": 5529,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 3000
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 5530,
@@ -7029,11 +7228,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 1,
     "DialogType": 1,
-    "PurchaseType": 2,
+    "PurchaseType": "Money",
     "PurchaseValue": 9800,
     "SubscriptionFlag": false,
     "GivePaidJewel": 9800,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 2,
     "ExpiredDay": null,
@@ -7051,12 +7250,13 @@
         "Id": 553001,
         "MJewelShopItemId": 5530,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 4900
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 5531,
@@ -7067,11 +7267,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 1,
     "DialogType": 1,
-    "PurchaseType": 2,
+    "PurchaseType": "Money",
     "PurchaseValue": 1500,
     "SubscriptionFlag": false,
     "GivePaidJewel": 1500,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -7089,12 +7289,13 @@
         "Id": 553101,
         "MJewelShopItemId": 5531,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1500
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 5532,
@@ -7105,11 +7306,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 1,
     "DialogType": 1,
-    "PurchaseType": 2,
+    "PurchaseType": "Money",
     "PurchaseValue": 4800,
     "SubscriptionFlag": false,
     "GivePaidJewel": 4800,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -7127,12 +7328,13 @@
         "Id": 553201,
         "MJewelShopItemId": 5532,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 3000
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 5534,
@@ -7143,11 +7345,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 1,
     "DialogType": 1,
-    "PurchaseType": 2,
+    "PurchaseType": "Money",
     "PurchaseValue": 9800,
     "SubscriptionFlag": false,
     "GivePaidJewel": 9800,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 2,
     "ExpiredDay": null,
@@ -7165,12 +7367,13 @@
         "Id": 553401,
         "MJewelShopItemId": 5534,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 4900
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 5535,
@@ -7181,11 +7384,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 1,
     "DialogType": 1,
-    "PurchaseType": 2,
+    "PurchaseType": "Money",
     "PurchaseValue": 1500,
     "SubscriptionFlag": false,
     "GivePaidJewel": 1500,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -7203,12 +7406,13 @@
         "Id": 553501,
         "MJewelShopItemId": 5535,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1500
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 5536,
@@ -7219,11 +7423,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 1,
     "DialogType": 1,
-    "PurchaseType": 2,
+    "PurchaseType": "Money",
     "PurchaseValue": 4800,
     "SubscriptionFlag": false,
     "GivePaidJewel": 4800,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -7241,12 +7445,13 @@
         "Id": 553601,
         "MJewelShopItemId": 5536,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 3000
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 5537,
@@ -7257,11 +7462,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 1,
     "DialogType": 1,
-    "PurchaseType": 2,
+    "PurchaseType": "Money",
     "PurchaseValue": 9800,
     "SubscriptionFlag": false,
     "GivePaidJewel": 9800,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 2,
     "ExpiredDay": null,
@@ -7279,12 +7484,13 @@
         "Id": 553701,
         "MJewelShopItemId": 5537,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 4900
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 5538,
@@ -7295,11 +7501,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 1,
     "DialogType": 1,
-    "PurchaseType": 2,
+    "PurchaseType": "Money",
     "PurchaseValue": 1500,
     "SubscriptionFlag": false,
     "GivePaidJewel": 1500,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -7317,12 +7523,13 @@
         "Id": 553801,
         "MJewelShopItemId": 5538,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1500
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 5539,
@@ -7333,11 +7540,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 1,
     "DialogType": 1,
-    "PurchaseType": 2,
+    "PurchaseType": "Money",
     "PurchaseValue": 4800,
     "SubscriptionFlag": false,
     "GivePaidJewel": 4800,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -7355,12 +7562,13 @@
         "Id": 553901,
         "MJewelShopItemId": 5539,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 3000
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 5540,
@@ -7371,11 +7579,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 1,
     "DialogType": 1,
-    "PurchaseType": 2,
+    "PurchaseType": "Money",
     "PurchaseValue": 9800,
     "SubscriptionFlag": false,
     "GivePaidJewel": 9800,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 2,
     "ExpiredDay": null,
@@ -7393,12 +7601,13 @@
         "Id": 554001,
         "MJewelShopItemId": 5540,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 4900
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 5541,
@@ -7409,11 +7618,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 1,
     "DialogType": 1,
-    "PurchaseType": 2,
+    "PurchaseType": "Money",
     "PurchaseValue": 1500,
     "SubscriptionFlag": false,
     "GivePaidJewel": 1500,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -7431,12 +7640,13 @@
         "Id": 554101,
         "MJewelShopItemId": 5541,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 1500
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 5542,
@@ -7447,11 +7657,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 1,
     "DialogType": 1,
-    "PurchaseType": 2,
+    "PurchaseType": "Money",
     "PurchaseValue": 4800,
     "SubscriptionFlag": false,
     "GivePaidJewel": 4800,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 1,
     "ExpiredDay": null,
@@ -7469,12 +7679,13 @@
         "Id": 554201,
         "MJewelShopItemId": 5542,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 3000
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   },
   {
     "Id": 5543,
@@ -7485,11 +7696,11 @@
     "PackText": "",
     "MJewelShopCategoryId": 1,
     "DialogType": 1,
-    "PurchaseType": 2,
+    "PurchaseType": "Money",
     "PurchaseValue": 9800,
     "SubscriptionFlag": false,
     "GivePaidJewel": 9800,
-    "ReplaceTypes": 0,
+    "ReplaceTypes": "None",
     "ReplaceValue": null,
     "PurchaseLimit": 2,
     "ExpiredDay": null,
@@ -7507,11 +7718,12 @@
         "Id": 554301,
         "MJewelShopItemId": 5543,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 4900
       }
     ],
-    "ShopItemType": 0,
-    "ShopItemValue": null
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
   }
 ]

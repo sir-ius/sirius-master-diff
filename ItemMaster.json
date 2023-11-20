@@ -6,12 +6,12 @@
     "DisplayOrder": 110001,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 11,
+    "Category": "StaminaRecovery",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 1,
-    "Rarity": 1
+    "TabCategory": "Normal",
+    "Rarity": "R"
   },
   {
     "Id": 110002,
@@ -20,12 +20,12 @@
     "DisplayOrder": 110002,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 11,
+    "Category": "StaminaRecovery",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 1,
-    "Rarity": 1
+    "TabCategory": "Normal",
+    "Rarity": "R"
   },
   {
     "Id": 110003,
@@ -34,12 +34,12 @@
     "DisplayOrder": 110003,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 11,
+    "Category": "StaminaRecovery",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 1,
-    "Rarity": 3
+    "TabCategory": "Normal",
+    "Rarity": "SSR"
   },
   {
     "Id": 111001,
@@ -48,12 +48,12 @@
     "DisplayOrder": 1,
     "DisplayEndDate": "2023-10-10T17:00:00.000Z",
     "MaxStock": 99999,
-    "Category": 11,
+    "Category": "StaminaRecovery",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 1,
-    "Rarity": 1
+    "TabCategory": "Normal",
+    "Rarity": "R"
   },
   {
     "Id": 111002,
@@ -62,12 +62,12 @@
     "DisplayOrder": 2,
     "DisplayEndDate": "2023-10-20T17:00:00.000Z",
     "MaxStock": 99999,
-    "Category": 11,
+    "Category": "StaminaRecovery",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 1,
-    "Rarity": 1
+    "TabCategory": "Normal",
+    "Rarity": "R"
   },
   {
     "Id": 111003,
@@ -76,12 +76,12 @@
     "DisplayOrder": 3,
     "DisplayEndDate": "2023-11-10T17:00:00.000Z",
     "MaxStock": 99999,
-    "Category": 11,
+    "Category": "StaminaRecovery",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 1,
-    "Rarity": 1
+    "TabCategory": "Normal",
+    "Rarity": "R"
   },
   {
     "Id": 111004,
@@ -90,12 +90,12 @@
     "DisplayOrder": 4,
     "DisplayEndDate": "2023-10-31T17:00:00.000Z",
     "MaxStock": 99999,
-    "Category": 11,
+    "Category": "StaminaRecovery",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 1,
-    "Rarity": 1
+    "TabCategory": "Normal",
+    "Rarity": "R"
   },
   {
     "Id": 111005,
@@ -104,12 +104,12 @@
     "DisplayOrder": 5,
     "DisplayEndDate": "2023-11-30T17:00:00.000Z",
     "MaxStock": 99999,
-    "Category": 11,
+    "Category": "StaminaRecovery",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 1,
-    "Rarity": 1
+    "TabCategory": "Normal",
+    "Rarity": "R"
   },
   {
     "Id": 111006,
@@ -118,12 +118,12 @@
     "DisplayOrder": 6,
     "DisplayEndDate": "2023-11-20T17:00:00.000Z",
     "MaxStock": 99999,
-    "Category": 11,
+    "Category": "StaminaRecovery",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 1,
-    "Rarity": 1
+    "TabCategory": "Normal",
+    "Rarity": "R"
   },
   {
     "Id": 120001,
@@ -132,12 +132,12 @@
     "DisplayOrder": 120001,
     "DisplayEndDate": null,
     "MaxStock": 99999999,
-    "Category": 12,
+    "Category": "CharacterLevel",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 2,
-    "Rarity": 1
+    "TabCategory": "Raise",
+    "Rarity": "R"
   },
   {
     "Id": 120002,
@@ -146,12 +146,12 @@
     "DisplayOrder": 120002,
     "DisplayEndDate": null,
     "MaxStock": 99999999,
-    "Category": 12,
+    "Category": "CharacterLevel",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 2,
-    "Rarity": 1
+    "TabCategory": "Raise",
+    "Rarity": "R"
   },
   {
     "Id": 120003,
@@ -160,12 +160,12 @@
     "DisplayOrder": 120003,
     "DisplayEndDate": null,
     "MaxStock": 99999999,
-    "Category": 12,
+    "Category": "CharacterLevel",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 2,
-    "Rarity": 3
+    "TabCategory": "Raise",
+    "Rarity": "SSR"
   },
   {
     "Id": 130001,
@@ -174,12 +174,12 @@
     "DisplayOrder": 130001,
     "DisplayEndDate": null,
     "MaxStock": 99999999,
-    "Category": 13,
+    "Category": "ConsumeItem",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 1,
-    "Rarity": 1
+    "TabCategory": "Normal",
+    "Rarity": "R"
   },
   {
     "Id": 130002,
@@ -188,12 +188,12 @@
     "DisplayOrder": 130002,
     "DisplayEndDate": null,
     "MaxStock": 99999999,
-    "Category": 13,
+    "Category": "ConsumeItem",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 1,
-    "Rarity": 1
+    "TabCategory": "Normal",
+    "Rarity": "R"
   },
   {
     "Id": 130011,
@@ -202,12 +202,12 @@
     "DisplayOrder": 130011,
     "DisplayEndDate": null,
     "MaxStock": 99999999,
-    "Category": 13,
+    "Category": "ConsumeItem",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 1,
-    "Rarity": 1
+    "TabCategory": "Normal",
+    "Rarity": "R"
   },
   {
     "Id": 130012,
@@ -216,12 +216,12 @@
     "DisplayOrder": 130012,
     "DisplayEndDate": null,
     "MaxStock": 99999999,
-    "Category": 13,
+    "Category": "ConsumeItem",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 1,
-    "Rarity": 3
+    "TabCategory": "Normal",
+    "Rarity": "SSR"
   },
   {
     "Id": 130013,
@@ -230,12 +230,12 @@
     "DisplayOrder": 130013,
     "DisplayEndDate": null,
     "MaxStock": 99999999,
-    "Category": 13,
+    "Category": "ConsumeItem",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 1,
-    "Rarity": 3
+    "TabCategory": "Normal",
+    "Rarity": "SSR"
   },
   {
     "Id": 130014,
@@ -244,12 +244,12 @@
     "DisplayOrder": 130014,
     "DisplayEndDate": null,
     "MaxStock": 99999999,
-    "Category": 13,
+    "Category": "ConsumeItem",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 1,
-    "Rarity": 3
+    "TabCategory": "Normal",
+    "Rarity": "SSR"
   },
   {
     "Id": 130021,
@@ -258,12 +258,12 @@
     "DisplayOrder": 130021,
     "DisplayEndDate": null,
     "MaxStock": 99999999,
-    "Category": 13,
+    "Category": "ConsumeItem",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 2,
-    "Rarity": 1
+    "TabCategory": "Raise",
+    "Rarity": "R"
   },
   {
     "Id": 130022,
@@ -272,12 +272,12 @@
     "DisplayOrder": 130022,
     "DisplayEndDate": null,
     "MaxStock": 99999999,
-    "Category": 13,
+    "Category": "ConsumeItem",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 2,
-    "Rarity": 1
+    "TabCategory": "Raise",
+    "Rarity": "R"
   },
   {
     "Id": 130023,
@@ -286,12 +286,12 @@
     "DisplayOrder": 130023,
     "DisplayEndDate": null,
     "MaxStock": 99999999,
-    "Category": 13,
+    "Category": "ConsumeItem",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 2,
-    "Rarity": 1
+    "TabCategory": "Raise",
+    "Rarity": "R"
   },
   {
     "Id": 130024,
@@ -300,12 +300,12 @@
     "DisplayOrder": 130024,
     "DisplayEndDate": null,
     "MaxStock": 99999999,
-    "Category": 13,
+    "Category": "ConsumeItem",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 2,
-    "Rarity": 1
+    "TabCategory": "Raise",
+    "Rarity": "R"
   },
   {
     "Id": 130025,
@@ -314,12 +314,12 @@
     "DisplayOrder": 130025,
     "DisplayEndDate": null,
     "MaxStock": 99999999,
-    "Category": 13,
+    "Category": "ConsumeItem",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 2,
-    "Rarity": 3
+    "TabCategory": "Raise",
+    "Rarity": "SSR"
   },
   {
     "Id": 130031,
@@ -328,12 +328,12 @@
     "DisplayOrder": 130031,
     "DisplayEndDate": null,
     "MaxStock": 99999999,
-    "Category": 13,
+    "Category": "ConsumeItem",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 2,
-    "Rarity": 1
+    "TabCategory": "Raise",
+    "Rarity": "R"
   },
   {
     "Id": 130032,
@@ -342,12 +342,12 @@
     "DisplayOrder": 130032,
     "DisplayEndDate": null,
     "MaxStock": 99999999,
-    "Category": 13,
+    "Category": "ConsumeItem",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 2,
-    "Rarity": 1
+    "TabCategory": "Raise",
+    "Rarity": "R"
   },
   {
     "Id": 130033,
@@ -356,12 +356,12 @@
     "DisplayOrder": 130033,
     "DisplayEndDate": null,
     "MaxStock": 99999999,
-    "Category": 13,
+    "Category": "ConsumeItem",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 2,
-    "Rarity": 1
+    "TabCategory": "Raise",
+    "Rarity": "R"
   },
   {
     "Id": 130034,
@@ -370,12 +370,12 @@
     "DisplayOrder": 130034,
     "DisplayEndDate": null,
     "MaxStock": 99999999,
-    "Category": 13,
+    "Category": "ConsumeItem",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 2,
-    "Rarity": 1
+    "TabCategory": "Raise",
+    "Rarity": "R"
   },
   {
     "Id": 130035,
@@ -384,12 +384,12 @@
     "DisplayOrder": 130035,
     "DisplayEndDate": null,
     "MaxStock": 99999999,
-    "Category": 13,
+    "Category": "ConsumeItem",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 2,
-    "Rarity": 3
+    "TabCategory": "Raise",
+    "Rarity": "SSR"
   },
   {
     "Id": 130041,
@@ -398,12 +398,12 @@
     "DisplayOrder": 130041,
     "DisplayEndDate": null,
     "MaxStock": 99999999,
-    "Category": 13,
+    "Category": "ConsumeItem",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 2,
-    "Rarity": 1
+    "TabCategory": "Raise",
+    "Rarity": "R"
   },
   {
     "Id": 130042,
@@ -412,12 +412,12 @@
     "DisplayOrder": 130042,
     "DisplayEndDate": null,
     "MaxStock": 99999999,
-    "Category": 13,
+    "Category": "ConsumeItem",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 2,
-    "Rarity": 1
+    "TabCategory": "Raise",
+    "Rarity": "R"
   },
   {
     "Id": 130043,
@@ -426,12 +426,12 @@
     "DisplayOrder": 130043,
     "DisplayEndDate": null,
     "MaxStock": 99999999,
-    "Category": 13,
+    "Category": "ConsumeItem",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 2,
-    "Rarity": 3
+    "TabCategory": "Raise",
+    "Rarity": "SSR"
   },
   {
     "Id": 130051,
@@ -440,12 +440,12 @@
     "DisplayOrder": 130051,
     "DisplayEndDate": null,
     "MaxStock": 99999999,
-    "Category": 13,
+    "Category": "ConsumeItem",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 1,
-    "Rarity": 3
+    "TabCategory": "Normal",
+    "Rarity": "SSR"
   },
   {
     "Id": 130061,
@@ -454,12 +454,12 @@
     "DisplayOrder": 130061,
     "DisplayEndDate": null,
     "MaxStock": 99999999,
-    "Category": 13,
+    "Category": "ConsumeItem",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 2,
-    "Rarity": 1
+    "TabCategory": "Raise",
+    "Rarity": "R"
   },
   {
     "Id": 130062,
@@ -468,12 +468,12 @@
     "DisplayOrder": 130062,
     "DisplayEndDate": null,
     "MaxStock": 99999999,
-    "Category": 13,
+    "Category": "ConsumeItem",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 2,
-    "Rarity": 1
+    "TabCategory": "Raise",
+    "Rarity": "R"
   },
   {
     "Id": 130063,
@@ -482,12 +482,12 @@
     "DisplayOrder": 130063,
     "DisplayEndDate": null,
     "MaxStock": 99999999,
-    "Category": 13,
+    "Category": "ConsumeItem",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 2,
-    "Rarity": 1
+    "TabCategory": "Raise",
+    "Rarity": "R"
   },
   {
     "Id": 130064,
@@ -496,12 +496,12 @@
     "DisplayOrder": 130064,
     "DisplayEndDate": null,
     "MaxStock": 99999999,
-    "Category": 13,
+    "Category": "ConsumeItem",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 2,
-    "Rarity": 3
+    "TabCategory": "Raise",
+    "Rarity": "SSR"
   },
   {
     "Id": 130065,
@@ -510,12 +510,12 @@
     "DisplayOrder": 130065,
     "DisplayEndDate": null,
     "MaxStock": 99999999,
-    "Category": 13,
+    "Category": "ConsumeItem",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 2,
-    "Rarity": 3
+    "TabCategory": "Raise",
+    "Rarity": "SSR"
   },
   {
     "Id": 130071,
@@ -524,12 +524,12 @@
     "DisplayOrder": 130071,
     "DisplayEndDate": null,
     "MaxStock": 99999999,
-    "Category": 13,
+    "Category": "ConsumeItem",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 2,
-    "Rarity": 3
+    "TabCategory": "Raise",
+    "Rarity": "SSR"
   },
   {
     "Id": 130072,
@@ -538,12 +538,12 @@
     "DisplayOrder": 130072,
     "DisplayEndDate": null,
     "MaxStock": 99999999,
-    "Category": 13,
+    "Category": "ConsumeItem",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 2,
-    "Rarity": 3
+    "TabCategory": "Raise",
+    "Rarity": "SSR"
   },
   {
     "Id": 130081,
@@ -552,12 +552,12 @@
     "DisplayOrder": 130081,
     "DisplayEndDate": null,
     "MaxStock": 99999999,
-    "Category": 13,
+    "Category": "ConsumeItem",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 2,
-    "Rarity": 1
+    "TabCategory": "Raise",
+    "Rarity": "R"
   },
   {
     "Id": 130082,
@@ -566,12 +566,12 @@
     "DisplayOrder": 130082,
     "DisplayEndDate": null,
     "MaxStock": 99999999,
-    "Category": 13,
+    "Category": "ConsumeItem",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 2,
-    "Rarity": 3
+    "TabCategory": "Raise",
+    "Rarity": "SSR"
   },
   {
     "Id": 130091,
@@ -580,12 +580,12 @@
     "DisplayOrder": 130091,
     "DisplayEndDate": null,
     "MaxStock": 99999999,
-    "Category": 13,
+    "Category": "ConsumeItem",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 2,
-    "Rarity": 3
+    "TabCategory": "Raise",
+    "Rarity": "SSR"
   },
   {
     "Id": 138001,
@@ -594,12 +594,12 @@
     "DisplayOrder": 138001,
     "DisplayEndDate": null,
     "MaxStock": 99999999,
-    "Category": 13,
+    "Category": "ConsumeItem",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 1,
-    "Rarity": 3
+    "TabCategory": "Normal",
+    "Rarity": "SSR"
   },
   {
     "Id": 139001,
@@ -608,12 +608,12 @@
     "DisplayOrder": 139001,
     "DisplayEndDate": "2023-08-08T22:00:00.000Z",
     "MaxStock": 1,
-    "Category": 13,
+    "Category": "ConsumeItem",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 1,
-    "Rarity": 3
+    "TabCategory": "Normal",
+    "Rarity": "SSR"
   },
   {
     "Id": 139002,
@@ -622,12 +622,12 @@
     "DisplayOrder": 139002,
     "DisplayEndDate": "2023-09-08T22:00:00.000Z",
     "MaxStock": 1,
-    "Category": 13,
+    "Category": "ConsumeItem",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 1,
-    "Rarity": 3
+    "TabCategory": "Normal",
+    "Rarity": "SSR"
   },
   {
     "Id": 139003,
@@ -636,12 +636,12 @@
     "DisplayOrder": 139003,
     "DisplayEndDate": "2023-10-08T22:00:00.000Z",
     "MaxStock": 1,
-    "Category": 13,
+    "Category": "ConsumeItem",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 1,
-    "Rarity": 3
+    "TabCategory": "Normal",
+    "Rarity": "SSR"
   },
   {
     "Id": 139004,
@@ -650,12 +650,12 @@
     "DisplayOrder": 139004,
     "DisplayEndDate": "2023-11-08T22:00:00.000Z",
     "MaxStock": 1,
-    "Category": 13,
+    "Category": "ConsumeItem",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 1,
-    "Rarity": 3
+    "TabCategory": "Normal",
+    "Rarity": "SSR"
   },
   {
     "Id": 140000,
@@ -664,12 +664,12 @@
     "DisplayOrder": 140000,
     "DisplayEndDate": null,
     "MaxStock": 9999999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 2,
-    "Rarity": 3
+    "TabCategory": "Raise",
+    "Rarity": "SSR"
   },
   {
     "Id": 141001,
@@ -678,12 +678,12 @@
     "DisplayOrder": 141001,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 141002,
@@ -692,12 +692,12 @@
     "DisplayOrder": 141002,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 141003,
@@ -706,12 +706,12 @@
     "DisplayOrder": 141003,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 141004,
@@ -720,12 +720,12 @@
     "DisplayOrder": 141004,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 141005,
@@ -734,12 +734,12 @@
     "DisplayOrder": 141005,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 141006,
@@ -748,12 +748,12 @@
     "DisplayOrder": 141006,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 141007,
@@ -762,12 +762,12 @@
     "DisplayOrder": 141007,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 141008,
@@ -776,12 +776,12 @@
     "DisplayOrder": 141008,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 141009,
@@ -790,12 +790,12 @@
     "DisplayOrder": 141009,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 141010,
@@ -804,12 +804,12 @@
     "DisplayOrder": 141010,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 141011,
@@ -818,12 +818,12 @@
     "DisplayOrder": 141011,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 141012,
@@ -832,12 +832,12 @@
     "DisplayOrder": 141012,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 141013,
@@ -846,12 +846,12 @@
     "DisplayOrder": 141013,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 141014,
@@ -860,12 +860,12 @@
     "DisplayOrder": 141014,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 141015,
@@ -874,12 +874,12 @@
     "DisplayOrder": 141015,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 141016,
@@ -888,12 +888,12 @@
     "DisplayOrder": 141016,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 141017,
@@ -902,12 +902,12 @@
     "DisplayOrder": 141017,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 141018,
@@ -916,12 +916,12 @@
     "DisplayOrder": 141018,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 141019,
@@ -930,12 +930,12 @@
     "DisplayOrder": 141019,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 141020,
@@ -944,12 +944,12 @@
     "DisplayOrder": 141020,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 141021,
@@ -958,12 +958,12 @@
     "DisplayOrder": 141021,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 142001,
@@ -972,12 +972,12 @@
     "DisplayOrder": 142001,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 142002,
@@ -986,12 +986,12 @@
     "DisplayOrder": 142002,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 142003,
@@ -1000,12 +1000,12 @@
     "DisplayOrder": 142003,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 142004,
@@ -1014,12 +1014,12 @@
     "DisplayOrder": 142004,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 142005,
@@ -1028,12 +1028,12 @@
     "DisplayOrder": 142005,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 142006,
@@ -1042,12 +1042,12 @@
     "DisplayOrder": 142006,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 142007,
@@ -1056,12 +1056,12 @@
     "DisplayOrder": 142007,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 142008,
@@ -1070,12 +1070,12 @@
     "DisplayOrder": 142008,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 142009,
@@ -1084,12 +1084,12 @@
     "DisplayOrder": 142009,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 142010,
@@ -1098,12 +1098,12 @@
     "DisplayOrder": 142010,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 142011,
@@ -1112,12 +1112,12 @@
     "DisplayOrder": 142011,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 142012,
@@ -1126,12 +1126,12 @@
     "DisplayOrder": 142012,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 142013,
@@ -1140,12 +1140,12 @@
     "DisplayOrder": 142013,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 142014,
@@ -1154,12 +1154,12 @@
     "DisplayOrder": 142014,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 142015,
@@ -1168,12 +1168,12 @@
     "DisplayOrder": 142015,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 142016,
@@ -1182,12 +1182,12 @@
     "DisplayOrder": 142016,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 142017,
@@ -1196,12 +1196,12 @@
     "DisplayOrder": 142017,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 142018,
@@ -1210,12 +1210,12 @@
     "DisplayOrder": 142018,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 142019,
@@ -1224,12 +1224,12 @@
     "DisplayOrder": 142019,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 142020,
@@ -1238,12 +1238,12 @@
     "DisplayOrder": 142020,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 142021,
@@ -1252,12 +1252,12 @@
     "DisplayOrder": 142021,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 143001,
@@ -1266,12 +1266,12 @@
     "DisplayOrder": 143001,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 143002,
@@ -1280,12 +1280,12 @@
     "DisplayOrder": 143002,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 143003,
@@ -1294,12 +1294,12 @@
     "DisplayOrder": 143003,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 143004,
@@ -1308,12 +1308,12 @@
     "DisplayOrder": 143004,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 143005,
@@ -1322,12 +1322,12 @@
     "DisplayOrder": 143005,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 143006,
@@ -1336,12 +1336,12 @@
     "DisplayOrder": 143006,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 143007,
@@ -1350,12 +1350,12 @@
     "DisplayOrder": 143007,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 143008,
@@ -1364,12 +1364,12 @@
     "DisplayOrder": 143008,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 143009,
@@ -1378,12 +1378,12 @@
     "DisplayOrder": 143009,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 143010,
@@ -1392,12 +1392,12 @@
     "DisplayOrder": 143010,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 143011,
@@ -1406,12 +1406,12 @@
     "DisplayOrder": 143011,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 143012,
@@ -1420,12 +1420,12 @@
     "DisplayOrder": 143012,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 143013,
@@ -1434,12 +1434,12 @@
     "DisplayOrder": 143013,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 143014,
@@ -1448,12 +1448,12 @@
     "DisplayOrder": 143014,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 143015,
@@ -1462,12 +1462,12 @@
     "DisplayOrder": 143015,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 143016,
@@ -1476,12 +1476,12 @@
     "DisplayOrder": 143016,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 143017,
@@ -1490,12 +1490,12 @@
     "DisplayOrder": 143017,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 143018,
@@ -1504,12 +1504,12 @@
     "DisplayOrder": 143018,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 143019,
@@ -1518,12 +1518,12 @@
     "DisplayOrder": 143019,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 143020,
@@ -1532,12 +1532,12 @@
     "DisplayOrder": 143020,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 143021,
@@ -1546,12 +1546,12 @@
     "DisplayOrder": 143021,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 143022,
@@ -1560,12 +1560,12 @@
     "DisplayOrder": 143022,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 143023,
@@ -1574,12 +1574,12 @@
     "DisplayOrder": 143023,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 143024,
@@ -1588,12 +1588,12 @@
     "DisplayOrder": 143024,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 143025,
@@ -1602,12 +1602,12 @@
     "DisplayOrder": 143025,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 143026,
@@ -1616,12 +1616,12 @@
     "DisplayOrder": 143026,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 143027,
@@ -1630,12 +1630,12 @@
     "DisplayOrder": 143027,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 143028,
@@ -1644,12 +1644,12 @@
     "DisplayOrder": 143028,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 143029,
@@ -1658,12 +1658,12 @@
     "DisplayOrder": 143029,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 143030,
@@ -1672,12 +1672,12 @@
     "DisplayOrder": 143030,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 143031,
@@ -1686,12 +1686,12 @@
     "DisplayOrder": 143031,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 143032,
@@ -1700,12 +1700,12 @@
     "DisplayOrder": 143032,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 143033,
@@ -1714,12 +1714,12 @@
     "DisplayOrder": 143033,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 144001,
@@ -1728,12 +1728,12 @@
     "DisplayOrder": 144001,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 144002,
@@ -1742,12 +1742,12 @@
     "DisplayOrder": 144002,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 144003,
@@ -1756,12 +1756,12 @@
     "DisplayOrder": 144003,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 144004,
@@ -1770,12 +1770,12 @@
     "DisplayOrder": 144004,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 144005,
@@ -1784,12 +1784,12 @@
     "DisplayOrder": 144005,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 144006,
@@ -1798,12 +1798,12 @@
     "DisplayOrder": 144006,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 144007,
@@ -1812,12 +1812,12 @@
     "DisplayOrder": 144007,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 144008,
@@ -1826,12 +1826,12 @@
     "DisplayOrder": 144008,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 144009,
@@ -1840,12 +1840,12 @@
     "DisplayOrder": 144009,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 144010,
@@ -1854,12 +1854,12 @@
     "DisplayOrder": 144010,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 144011,
@@ -1868,12 +1868,12 @@
     "DisplayOrder": 144011,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 144012,
@@ -1882,12 +1882,12 @@
     "DisplayOrder": 144012,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 144013,
@@ -1896,12 +1896,12 @@
     "DisplayOrder": 144013,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 144014,
@@ -1910,12 +1910,12 @@
     "DisplayOrder": 144014,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 144015,
@@ -1924,12 +1924,12 @@
     "DisplayOrder": 144015,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 144016,
@@ -1938,12 +1938,12 @@
     "DisplayOrder": 144016,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 144017,
@@ -1952,12 +1952,12 @@
     "DisplayOrder": 144017,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 144018,
@@ -1966,12 +1966,12 @@
     "DisplayOrder": 144018,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 144019,
@@ -1980,12 +1980,12 @@
     "DisplayOrder": 144019,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 144020,
@@ -1994,12 +1994,12 @@
     "DisplayOrder": 144020,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 144021,
@@ -2008,12 +2008,12 @@
     "DisplayOrder": 144021,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 144022,
@@ -2022,12 +2022,12 @@
     "DisplayOrder": 144022,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 144024,
@@ -2036,12 +2036,12 @@
     "DisplayOrder": 144024,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 144025,
@@ -2050,12 +2050,12 @@
     "DisplayOrder": 144025,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 144026,
@@ -2064,12 +2064,12 @@
     "DisplayOrder": 144026,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 144027,
@@ -2078,12 +2078,12 @@
     "DisplayOrder": 144027,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 144028,
@@ -2092,12 +2092,12 @@
     "DisplayOrder": 144028,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 144029,
@@ -2106,12 +2106,12 @@
     "DisplayOrder": 144029,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 144030,
@@ -2120,12 +2120,12 @@
     "DisplayOrder": 144030,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 144031,
@@ -2134,12 +2134,12 @@
     "DisplayOrder": 144031,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 144032,
@@ -2148,12 +2148,12 @@
     "DisplayOrder": 144032,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 144033,
@@ -2162,12 +2162,12 @@
     "DisplayOrder": 144033,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 144034,
@@ -2176,12 +2176,12 @@
     "DisplayOrder": 144034,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 144035,
@@ -2190,12 +2190,12 @@
     "DisplayOrder": 144035,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 144036,
@@ -2204,12 +2204,12 @@
     "DisplayOrder": 144036,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 144037,
@@ -2218,12 +2218,12 @@
     "DisplayOrder": 144037,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 144038,
@@ -2232,12 +2232,12 @@
     "DisplayOrder": 144038,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 144039,
@@ -2246,12 +2246,12 @@
     "DisplayOrder": 144039,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 144040,
@@ -2260,12 +2260,12 @@
     "DisplayOrder": 144040,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 144041,
@@ -2274,12 +2274,12 @@
     "DisplayOrder": 144041,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 14,
+    "Category": "TalentBloom",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 4,
-    "Rarity": 3
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
   },
   {
     "Id": 210001,
@@ -2288,12 +2288,12 @@
     "DisplayOrder": 210001,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 21,
+    "Category": "GachaTicket",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 3,
-    "Rarity": 1
+    "TabCategory": "Ticket",
+    "Rarity": "R"
   },
   {
     "Id": 210002,
@@ -2302,12 +2302,12 @@
     "DisplayOrder": 210002,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 21,
+    "Category": "GachaTicket",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 3,
-    "Rarity": 1
+    "TabCategory": "Ticket",
+    "Rarity": "R"
   },
   {
     "Id": 210101,
@@ -2316,12 +2316,12 @@
     "DisplayOrder": 210101,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 21,
+    "Category": "GachaTicket",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 3,
-    "Rarity": 1
+    "TabCategory": "Ticket",
+    "Rarity": "R"
   },
   {
     "Id": 210201,
@@ -2330,12 +2330,12 @@
     "DisplayOrder": 210201,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 21,
+    "Category": "GachaTicket",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 3,
-    "Rarity": 3
+    "TabCategory": "Ticket",
+    "Rarity": "SSR"
   },
   {
     "Id": 210202,
@@ -2344,12 +2344,12 @@
     "DisplayOrder": 210202,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 21,
+    "Category": "GachaTicket",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 3,
-    "Rarity": 3
+    "TabCategory": "Ticket",
+    "Rarity": "SSR"
   },
   {
     "Id": 210401,
@@ -2358,12 +2358,12 @@
     "DisplayOrder": 210401,
     "DisplayEndDate": "2023-11-20T17:00:00.000Z",
     "MaxStock": 99999,
-    "Category": 21,
+    "Category": "GachaTicket",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 3,
-    "Rarity": 1
+    "TabCategory": "Ticket",
+    "Rarity": "R"
   },
   {
     "Id": 211001,
@@ -2372,12 +2372,12 @@
     "DisplayOrder": 211001,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 21,
+    "Category": "GachaTicket",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 3,
-    "Rarity": 1
+    "TabCategory": "Ticket",
+    "Rarity": "R"
   },
   {
     "Id": 211002,
@@ -2386,12 +2386,12 @@
     "DisplayOrder": 211002,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 21,
+    "Category": "GachaTicket",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 3,
-    "Rarity": 1
+    "TabCategory": "Ticket",
+    "Rarity": "R"
   },
   {
     "Id": 211101,
@@ -2400,12 +2400,12 @@
     "DisplayOrder": 211101,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 21,
+    "Category": "GachaTicket",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 3,
-    "Rarity": 1
+    "TabCategory": "Ticket",
+    "Rarity": "R"
   },
   {
     "Id": 211201,
@@ -2414,12 +2414,12 @@
     "DisplayOrder": 211201,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 21,
+    "Category": "GachaTicket",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 3,
-    "Rarity": 3
+    "TabCategory": "Ticket",
+    "Rarity": "SSR"
   },
   {
     "Id": 211202,
@@ -2428,12 +2428,12 @@
     "DisplayOrder": 211202,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 21,
+    "Category": "GachaTicket",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 3,
-    "Rarity": 3
+    "TabCategory": "Ticket",
+    "Rarity": "SSR"
   },
   {
     "Id": 211301,
@@ -2442,12 +2442,12 @@
     "DisplayOrder": 211301,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 21,
+    "Category": "GachaTicket",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 3,
-    "Rarity": 3
+    "TabCategory": "Ticket",
+    "Rarity": "SSR"
   },
   {
     "Id": 211401,
@@ -2456,12 +2456,12 @@
     "DisplayOrder": 211401,
     "DisplayEndDate": "2023-11-20T17:00:00.000Z",
     "MaxStock": 99999,
-    "Category": 21,
+    "Category": "GachaTicket",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 3,
-    "Rarity": 1
+    "TabCategory": "Ticket",
+    "Rarity": "R"
   },
   {
     "Id": 220001,
@@ -2470,12 +2470,12 @@
     "DisplayOrder": 220001,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 22,
+    "Category": "ExchangeTicket",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 3,
-    "Rarity": 3
+    "TabCategory": "Ticket",
+    "Rarity": "SSR"
   },
   {
     "Id": 220101,
@@ -2484,12 +2484,12 @@
     "DisplayOrder": 220101,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 22,
+    "Category": "ExchangeTicket",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 3,
-    "Rarity": 1
+    "TabCategory": "Ticket",
+    "Rarity": "R"
   },
   {
     "Id": 221001,
@@ -2498,12 +2498,12 @@
     "DisplayOrder": 221001,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 22,
+    "Category": "ExchangeTicket",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 3,
-    "Rarity": 3
+    "TabCategory": "Ticket",
+    "Rarity": "SSR"
   },
   {
     "Id": 221101,
@@ -2512,12 +2512,12 @@
     "DisplayOrder": 221101,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 22,
+    "Category": "ExchangeTicket",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 3,
-    "Rarity": 1
+    "TabCategory": "Ticket",
+    "Rarity": "R"
   },
   {
     "Id": 411001,
@@ -2526,12 +2526,12 @@
     "DisplayOrder": 411001,
     "DisplayEndDate": "2023-07-31T17:00:00.000Z",
     "MaxStock": 99999,
-    "Category": 41,
+    "Category": "GachaPoint",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 0,
-    "Rarity": 1
+    "TabCategory": "Hidden",
+    "Rarity": "R"
   },
   {
     "Id": 411002,
@@ -2540,12 +2540,12 @@
     "DisplayOrder": 411002,
     "DisplayEndDate": "2023-08-10T17:00:00.000Z",
     "MaxStock": 99999,
-    "Category": 41,
+    "Category": "GachaPoint",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 0,
-    "Rarity": 1
+    "TabCategory": "Hidden",
+    "Rarity": "R"
   },
   {
     "Id": 411003,
@@ -2554,12 +2554,12 @@
     "DisplayOrder": 411003,
     "DisplayEndDate": "2023-08-10T17:00:00.000Z",
     "MaxStock": 99999,
-    "Category": 41,
+    "Category": "GachaPoint",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 0,
-    "Rarity": 1
+    "TabCategory": "Hidden",
+    "Rarity": "R"
   },
   {
     "Id": 411004,
@@ -2568,12 +2568,12 @@
     "DisplayOrder": 411004,
     "DisplayEndDate": "2023-08-20T17:00:00.000Z",
     "MaxStock": 99999,
-    "Category": 41,
+    "Category": "GachaPoint",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 0,
-    "Rarity": 1
+    "TabCategory": "Hidden",
+    "Rarity": "R"
   },
   {
     "Id": 411005,
@@ -2582,12 +2582,12 @@
     "DisplayOrder": 411005,
     "DisplayEndDate": "2023-08-31T17:00:00.000Z",
     "MaxStock": 99999,
-    "Category": 41,
+    "Category": "GachaPoint",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 0,
-    "Rarity": 1
+    "TabCategory": "Hidden",
+    "Rarity": "R"
   },
   {
     "Id": 411006,
@@ -2596,12 +2596,12 @@
     "DisplayOrder": 411006,
     "DisplayEndDate": "2023-09-10T17:00:00.000Z",
     "MaxStock": 99999,
-    "Category": 41,
+    "Category": "GachaPoint",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 0,
-    "Rarity": 1
+    "TabCategory": "Hidden",
+    "Rarity": "R"
   },
   {
     "Id": 411007,
@@ -2610,12 +2610,12 @@
     "DisplayOrder": 411007,
     "DisplayEndDate": "2023-09-20T17:00:00.000Z",
     "MaxStock": 99999,
-    "Category": 41,
+    "Category": "GachaPoint",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 0,
-    "Rarity": 1
+    "TabCategory": "Hidden",
+    "Rarity": "R"
   },
   {
     "Id": 411009,
@@ -2624,12 +2624,12 @@
     "DisplayOrder": 411009,
     "DisplayEndDate": "2023-09-30T17:00:00.000Z",
     "MaxStock": 99999,
-    "Category": 41,
+    "Category": "GachaPoint",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 0,
-    "Rarity": 1
+    "TabCategory": "Hidden",
+    "Rarity": "R"
   },
   {
     "Id": 411010,
@@ -2638,12 +2638,12 @@
     "DisplayOrder": 411010,
     "DisplayEndDate": "2023-10-10T17:00:00.000Z",
     "MaxStock": 99999,
-    "Category": 41,
+    "Category": "GachaPoint",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 0,
-    "Rarity": 1
+    "TabCategory": "Hidden",
+    "Rarity": "R"
   },
   {
     "Id": 411011,
@@ -2652,12 +2652,12 @@
     "DisplayOrder": 411011,
     "DisplayEndDate": "2023-10-20T17:00:00.000Z",
     "MaxStock": 99999,
-    "Category": 41,
+    "Category": "GachaPoint",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 0,
-    "Rarity": 1
+    "TabCategory": "Hidden",
+    "Rarity": "R"
   },
   {
     "Id": 411012,
@@ -2666,12 +2666,12 @@
     "DisplayOrder": 411012,
     "DisplayEndDate": "2023-10-31T17:00:00.000Z",
     "MaxStock": 99999,
-    "Category": 41,
+    "Category": "GachaPoint",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 0,
-    "Rarity": 1
+    "TabCategory": "Hidden",
+    "Rarity": "R"
   },
   {
     "Id": 411013,
@@ -2680,12 +2680,12 @@
     "DisplayOrder": 411013,
     "DisplayEndDate": "2023-10-30T17:00:00.000Z",
     "MaxStock": 99999,
-    "Category": 41,
+    "Category": "GachaPoint",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 0,
-    "Rarity": 1
+    "TabCategory": "Hidden",
+    "Rarity": "R"
   },
   {
     "Id": 411014,
@@ -2694,12 +2694,12 @@
     "DisplayOrder": 411014,
     "DisplayEndDate": "2023-11-10T17:00:00.000Z",
     "MaxStock": 99999,
-    "Category": 41,
+    "Category": "GachaPoint",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 0,
-    "Rarity": 1
+    "TabCategory": "Hidden",
+    "Rarity": "R"
   },
   {
     "Id": 411015,
@@ -2708,12 +2708,12 @@
     "DisplayOrder": 411015,
     "DisplayEndDate": "2023-11-20T17:00:00.000Z",
     "MaxStock": 99999,
-    "Category": 41,
+    "Category": "GachaPoint",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 0,
-    "Rarity": 1
+    "TabCategory": "Hidden",
+    "Rarity": "R"
   },
   {
     "Id": 411017,
@@ -2722,12 +2722,12 @@
     "DisplayOrder": 411017,
     "DisplayEndDate": "2023-11-30T17:00:00.000Z",
     "MaxStock": 99999,
-    "Category": 41,
+    "Category": "GachaPoint",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 0,
-    "Rarity": 1
+    "TabCategory": "Hidden",
+    "Rarity": "R"
   },
   {
     "Id": 411800,
@@ -2736,12 +2736,12 @@
     "DisplayOrder": 411800,
     "DisplayEndDate": "2023-10-30T17:00:00.000Z",
     "MaxStock": 99999,
-    "Category": 41,
+    "Category": "GachaPoint",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 0,
-    "Rarity": 1
+    "TabCategory": "Hidden",
+    "Rarity": "R"
   },
   {
     "Id": 412001,
@@ -2750,12 +2750,12 @@
     "DisplayOrder": 412001,
     "DisplayEndDate": "2023-07-31T17:00:00.000Z",
     "MaxStock": 99999,
-    "Category": 41,
+    "Category": "GachaPoint",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 0,
-    "Rarity": 1
+    "TabCategory": "Hidden",
+    "Rarity": "R"
   },
   {
     "Id": 412002,
@@ -2764,12 +2764,12 @@
     "DisplayOrder": 412002,
     "DisplayEndDate": "2023-08-10T17:00:00.000Z",
     "MaxStock": 99999,
-    "Category": 41,
+    "Category": "GachaPoint",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 0,
-    "Rarity": 1
+    "TabCategory": "Hidden",
+    "Rarity": "R"
   },
   {
     "Id": 412003,
@@ -2778,12 +2778,12 @@
     "DisplayOrder": 412003,
     "DisplayEndDate": "2023-08-10T17:00:00.000Z",
     "MaxStock": 99999,
-    "Category": 41,
+    "Category": "GachaPoint",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 0,
-    "Rarity": 1
+    "TabCategory": "Hidden",
+    "Rarity": "R"
   },
   {
     "Id": 412004,
@@ -2792,12 +2792,12 @@
     "DisplayOrder": 412004,
     "DisplayEndDate": "2023-08-20T17:00:00.000Z",
     "MaxStock": 99999,
-    "Category": 41,
+    "Category": "GachaPoint",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 0,
-    "Rarity": 1
+    "TabCategory": "Hidden",
+    "Rarity": "R"
   },
   {
     "Id": 412005,
@@ -2806,12 +2806,12 @@
     "DisplayOrder": 412005,
     "DisplayEndDate": "2023-08-31T17:00:00.000Z",
     "MaxStock": 99999,
-    "Category": 41,
+    "Category": "GachaPoint",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 0,
-    "Rarity": 1
+    "TabCategory": "Hidden",
+    "Rarity": "R"
   },
   {
     "Id": 412006,
@@ -2820,12 +2820,12 @@
     "DisplayOrder": 412006,
     "DisplayEndDate": "2023-09-10T17:00:00.000Z",
     "MaxStock": 99999,
-    "Category": 41,
+    "Category": "GachaPoint",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 0,
-    "Rarity": 1
+    "TabCategory": "Hidden",
+    "Rarity": "R"
   },
   {
     "Id": 412007,
@@ -2834,12 +2834,12 @@
     "DisplayOrder": 412007,
     "DisplayEndDate": "2023-09-20T17:00:00.000Z",
     "MaxStock": 99999,
-    "Category": 41,
+    "Category": "GachaPoint",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 0,
-    "Rarity": 1
+    "TabCategory": "Hidden",
+    "Rarity": "R"
   },
   {
     "Id": 412009,
@@ -2848,12 +2848,12 @@
     "DisplayOrder": 412009,
     "DisplayEndDate": "2023-09-30T17:00:00.000Z",
     "MaxStock": 99999,
-    "Category": 41,
+    "Category": "GachaPoint",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 0,
-    "Rarity": 1
+    "TabCategory": "Hidden",
+    "Rarity": "R"
   },
   {
     "Id": 412010,
@@ -2862,12 +2862,12 @@
     "DisplayOrder": 412010,
     "DisplayEndDate": "2023-10-10T17:00:00.000Z",
     "MaxStock": 99999,
-    "Category": 41,
+    "Category": "GachaPoint",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 0,
-    "Rarity": 1
+    "TabCategory": "Hidden",
+    "Rarity": "R"
   },
   {
     "Id": 412011,
@@ -2876,12 +2876,12 @@
     "DisplayOrder": 412011,
     "DisplayEndDate": "2023-10-20T17:00:00.000Z",
     "MaxStock": 99999,
-    "Category": 41,
+    "Category": "GachaPoint",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 0,
-    "Rarity": 1
+    "TabCategory": "Hidden",
+    "Rarity": "R"
   },
   {
     "Id": 412012,
@@ -2890,12 +2890,12 @@
     "DisplayOrder": 412012,
     "DisplayEndDate": "2023-10-31T17:00:00.000Z",
     "MaxStock": 99999,
-    "Category": 41,
+    "Category": "GachaPoint",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 0,
-    "Rarity": 1
+    "TabCategory": "Hidden",
+    "Rarity": "R"
   },
   {
     "Id": 412013,
@@ -2904,12 +2904,12 @@
     "DisplayOrder": 412013,
     "DisplayEndDate": "2023-11-10T17:00:00.000Z",
     "MaxStock": 99999,
-    "Category": 41,
+    "Category": "GachaPoint",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 0,
-    "Rarity": 1
+    "TabCategory": "Hidden",
+    "Rarity": "R"
   },
   {
     "Id": 412014,
@@ -2918,12 +2918,12 @@
     "DisplayOrder": 412014,
     "DisplayEndDate": "2023-11-20T17:00:00.000Z",
     "MaxStock": 99999,
-    "Category": 41,
+    "Category": "GachaPoint",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 0,
-    "Rarity": 1
+    "TabCategory": "Hidden",
+    "Rarity": "R"
   },
   {
     "Id": 412016,
@@ -2932,12 +2932,12 @@
     "DisplayOrder": 412016,
     "DisplayEndDate": "2023-11-30T17:00:00.000Z",
     "MaxStock": 99999,
-    "Category": 41,
+    "Category": "GachaPoint",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 0,
-    "Rarity": 1
+    "TabCategory": "Hidden",
+    "Rarity": "R"
   },
   {
     "Id": 420001,
@@ -2946,12 +2946,12 @@
     "DisplayOrder": 420001,
     "DisplayEndDate": null,
     "MaxStock": 1999999999,
-    "Category": 42,
+    "Category": "EventPoint",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 0,
-    "Rarity": 1
+    "TabCategory": "Hidden",
+    "Rarity": "R"
   },
   {
     "Id": 420002,
@@ -2960,12 +2960,12 @@
     "DisplayOrder": 420002,
     "DisplayEndDate": null,
     "MaxStock": 1999999999,
-    "Category": 42,
+    "Category": "EventPoint",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 0,
-    "Rarity": 1
+    "TabCategory": "Hidden",
+    "Rarity": "R"
   },
   {
     "Id": 420003,
@@ -2974,12 +2974,12 @@
     "DisplayOrder": 420003,
     "DisplayEndDate": null,
     "MaxStock": 1999999999,
-    "Category": 42,
+    "Category": "EventPoint",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 0,
-    "Rarity": 1
+    "TabCategory": "Hidden",
+    "Rarity": "R"
   },
   {
     "Id": 420004,
@@ -2988,12 +2988,12 @@
     "DisplayOrder": 420004,
     "DisplayEndDate": null,
     "MaxStock": 1999999999,
-    "Category": 42,
+    "Category": "EventPoint",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 0,
-    "Rarity": 1
+    "TabCategory": "Hidden",
+    "Rarity": "R"
   },
   {
     "Id": 420005,
@@ -3002,12 +3002,12 @@
     "DisplayOrder": 420005,
     "DisplayEndDate": null,
     "MaxStock": 1999999999,
-    "Category": 42,
+    "Category": "EventPoint",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 0,
-    "Rarity": 1
+    "TabCategory": "Hidden",
+    "Rarity": "R"
   },
   {
     "Id": 420006,
@@ -3016,12 +3016,12 @@
     "DisplayOrder": 420006,
     "DisplayEndDate": null,
     "MaxStock": 1999999999,
-    "Category": 42,
+    "Category": "EventPoint",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 0,
-    "Rarity": 1
+    "TabCategory": "Hidden",
+    "Rarity": "R"
   },
   {
     "Id": 420007,
@@ -3030,12 +3030,12 @@
     "DisplayOrder": 420007,
     "DisplayEndDate": null,
     "MaxStock": 1999999999,
-    "Category": 42,
+    "Category": "EventPoint",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 0,
-    "Rarity": 1
+    "TabCategory": "Hidden",
+    "Rarity": "R"
   },
   {
     "Id": 420008,
@@ -3044,12 +3044,12 @@
     "DisplayOrder": 420008,
     "DisplayEndDate": null,
     "MaxStock": 1999999999,
-    "Category": 42,
+    "Category": "EventPoint",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 0,
-    "Rarity": 1
+    "TabCategory": "Hidden",
+    "Rarity": "R"
   },
   {
     "Id": 420009,
@@ -3058,12 +3058,12 @@
     "DisplayOrder": 420009,
     "DisplayEndDate": null,
     "MaxStock": 1999999999,
-    "Category": 42,
+    "Category": "EventPoint",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 0,
-    "Rarity": 1
+    "TabCategory": "Hidden",
+    "Rarity": "R"
   },
   {
     "Id": 420010,
@@ -3072,12 +3072,12 @@
     "DisplayOrder": 420010,
     "DisplayEndDate": null,
     "MaxStock": 1999999999,
-    "Category": 42,
+    "Category": "EventPoint",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 0,
-    "Rarity": 1
+    "TabCategory": "Hidden",
+    "Rarity": "R"
   },
   {
     "Id": 420011,
@@ -3086,12 +3086,12 @@
     "DisplayOrder": 420011,
     "DisplayEndDate": null,
     "MaxStock": 1999999999,
-    "Category": 42,
+    "Category": "EventPoint",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 0,
-    "Rarity": 1
+    "TabCategory": "Hidden",
+    "Rarity": "R"
   },
   {
     "Id": 420012,
@@ -3100,12 +3100,12 @@
     "DisplayOrder": 420012,
     "DisplayEndDate": null,
     "MaxStock": 1999999999,
-    "Category": 42,
+    "Category": "EventPoint",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 0,
-    "Rarity": 1
+    "TabCategory": "Hidden",
+    "Rarity": "R"
   },
   {
     "Id": 432308,
@@ -3114,12 +3114,12 @@
     "DisplayOrder": 432308,
     "DisplayEndDate": null,
     "MaxStock": 9999999,
-    "Category": 43,
+    "Category": "MissionPassPoint",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 0,
-    "Rarity": 1
+    "TabCategory": "Hidden",
+    "Rarity": "R"
   },
   {
     "Id": 432309,
@@ -3128,12 +3128,12 @@
     "DisplayOrder": 432309,
     "DisplayEndDate": null,
     "MaxStock": 9999999,
-    "Category": 43,
+    "Category": "MissionPassPoint",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 0,
-    "Rarity": 1
+    "TabCategory": "Hidden",
+    "Rarity": "R"
   },
   {
     "Id": 432310,
@@ -3142,12 +3142,12 @@
     "DisplayOrder": 432310,
     "DisplayEndDate": null,
     "MaxStock": 9999999,
-    "Category": 43,
+    "Category": "MissionPassPoint",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 0,
-    "Rarity": 1
+    "TabCategory": "Hidden",
+    "Rarity": "R"
   },
   {
     "Id": 432311,
@@ -3156,12 +3156,12 @@
     "DisplayOrder": 432311,
     "DisplayEndDate": null,
     "MaxStock": 9999999,
-    "Category": 43,
+    "Category": "MissionPassPoint",
     "Consumable": false,
-    "JumpType": 0,
+    "JumpType": "None",
     "JumpTargetId": null,
-    "TabCategory": 0,
-    "Rarity": 1
+    "TabCategory": "Hidden",
+    "Rarity": "R"
   },
   {
     "Id": 510001,
@@ -3170,12 +3170,12 @@
     "DisplayOrder": 510001,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 51,
+    "Category": "Film",
     "Consumable": false,
     "JumpType": null,
     "JumpTargetId": null,
-    "TabCategory": 1,
-    "Rarity": 1
+    "TabCategory": "Normal",
+    "Rarity": "R"
   },
   {
     "Id": 510002,
@@ -3184,12 +3184,12 @@
     "DisplayOrder": 510002,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 51,
+    "Category": "Film",
     "Consumable": false,
     "JumpType": null,
     "JumpTargetId": null,
-    "TabCategory": 1,
-    "Rarity": 1
+    "TabCategory": "Normal",
+    "Rarity": "R"
   },
   {
     "Id": 510003,
@@ -3198,12 +3198,12 @@
     "DisplayOrder": 510003,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 51,
+    "Category": "Film",
     "Consumable": false,
     "JumpType": null,
     "JumpTargetId": null,
-    "TabCategory": 1,
-    "Rarity": 1
+    "TabCategory": "Normal",
+    "Rarity": "R"
   },
   {
     "Id": 510004,
@@ -3212,12 +3212,12 @@
     "DisplayOrder": 510004,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 51,
+    "Category": "Film",
     "Consumable": false,
     "JumpType": null,
     "JumpTargetId": null,
-    "TabCategory": 1,
-    "Rarity": 3
+    "TabCategory": "Normal",
+    "Rarity": "SSR"
   },
   {
     "Id": 510005,
@@ -3226,12 +3226,12 @@
     "DisplayOrder": 510005,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 51,
+    "Category": "Film",
     "Consumable": false,
     "JumpType": null,
     "JumpTargetId": null,
-    "TabCategory": 1,
-    "Rarity": 3
+    "TabCategory": "Normal",
+    "Rarity": "SSR"
   },
   {
     "Id": 510006,
@@ -3240,12 +3240,12 @@
     "DisplayOrder": 510006,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 51,
+    "Category": "Film",
     "Consumable": false,
     "JumpType": null,
     "JumpTargetId": null,
-    "TabCategory": 1,
-    "Rarity": 3
+    "TabCategory": "Normal",
+    "Rarity": "SSR"
   },
   {
     "Id": 511101,
@@ -3254,12 +3254,12 @@
     "DisplayOrder": 511101,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 51,
+    "Category": "Film",
     "Consumable": false,
     "JumpType": null,
     "JumpTargetId": null,
-    "TabCategory": 1,
-    "Rarity": 3
+    "TabCategory": "Normal",
+    "Rarity": "SSR"
   },
   {
     "Id": 511102,
@@ -3268,12 +3268,12 @@
     "DisplayOrder": 511102,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 51,
+    "Category": "Film",
     "Consumable": false,
     "JumpType": null,
     "JumpTargetId": null,
-    "TabCategory": 1,
-    "Rarity": 3
+    "TabCategory": "Normal",
+    "Rarity": "SSR"
   },
   {
     "Id": 511103,
@@ -3282,12 +3282,12 @@
     "DisplayOrder": 511103,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 51,
+    "Category": "Film",
     "Consumable": false,
     "JumpType": null,
     "JumpTargetId": null,
-    "TabCategory": 1,
-    "Rarity": 3
+    "TabCategory": "Normal",
+    "Rarity": "SSR"
   },
   {
     "Id": 511104,
@@ -3296,12 +3296,12 @@
     "DisplayOrder": 511104,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 51,
+    "Category": "Film",
     "Consumable": false,
     "JumpType": null,
     "JumpTargetId": null,
-    "TabCategory": 1,
-    "Rarity": 3
+    "TabCategory": "Normal",
+    "Rarity": "SSR"
   },
   {
     "Id": 511105,
@@ -3310,12 +3310,12 @@
     "DisplayOrder": 511105,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 51,
+    "Category": "Film",
     "Consumable": false,
     "JumpType": null,
     "JumpTargetId": null,
-    "TabCategory": 1,
-    "Rarity": 3
+    "TabCategory": "Normal",
+    "Rarity": "SSR"
   },
   {
     "Id": 511106,
@@ -3324,12 +3324,12 @@
     "DisplayOrder": 511106,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 51,
+    "Category": "Film",
     "Consumable": false,
     "JumpType": null,
     "JumpTargetId": null,
-    "TabCategory": 1,
-    "Rarity": 3
+    "TabCategory": "Normal",
+    "Rarity": "SSR"
   },
   {
     "Id": 511201,
@@ -3338,12 +3338,12 @@
     "DisplayOrder": 511201,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 51,
+    "Category": "Film",
     "Consumable": false,
     "JumpType": null,
     "JumpTargetId": null,
-    "TabCategory": 1,
-    "Rarity": 3
+    "TabCategory": "Normal",
+    "Rarity": "SSR"
   },
   {
     "Id": 511202,
@@ -3352,12 +3352,12 @@
     "DisplayOrder": 511202,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 51,
+    "Category": "Film",
     "Consumable": false,
     "JumpType": null,
     "JumpTargetId": null,
-    "TabCategory": 1,
-    "Rarity": 3
+    "TabCategory": "Normal",
+    "Rarity": "SSR"
   },
   {
     "Id": 511203,
@@ -3366,12 +3366,12 @@
     "DisplayOrder": 511203,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 51,
+    "Category": "Film",
     "Consumable": false,
     "JumpType": null,
     "JumpTargetId": null,
-    "TabCategory": 1,
-    "Rarity": 3
+    "TabCategory": "Normal",
+    "Rarity": "SSR"
   },
   {
     "Id": 511204,
@@ -3380,12 +3380,12 @@
     "DisplayOrder": 511204,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 51,
+    "Category": "Film",
     "Consumable": false,
     "JumpType": null,
     "JumpTargetId": null,
-    "TabCategory": 1,
-    "Rarity": 3
+    "TabCategory": "Normal",
+    "Rarity": "SSR"
   },
   {
     "Id": 511205,
@@ -3394,12 +3394,12 @@
     "DisplayOrder": 511205,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 51,
+    "Category": "Film",
     "Consumable": false,
     "JumpType": null,
     "JumpTargetId": null,
-    "TabCategory": 1,
-    "Rarity": 3
+    "TabCategory": "Normal",
+    "Rarity": "SSR"
   },
   {
     "Id": 511301,
@@ -3408,12 +3408,12 @@
     "DisplayOrder": 511301,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 51,
+    "Category": "Film",
     "Consumable": false,
     "JumpType": null,
     "JumpTargetId": null,
-    "TabCategory": 1,
-    "Rarity": 3
+    "TabCategory": "Normal",
+    "Rarity": "SSR"
   },
   {
     "Id": 511302,
@@ -3422,12 +3422,12 @@
     "DisplayOrder": 511302,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 51,
+    "Category": "Film",
     "Consumable": false,
     "JumpType": null,
     "JumpTargetId": null,
-    "TabCategory": 1,
-    "Rarity": 3
+    "TabCategory": "Normal",
+    "Rarity": "SSR"
   },
   {
     "Id": 511303,
@@ -3436,12 +3436,12 @@
     "DisplayOrder": 511303,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 51,
+    "Category": "Film",
     "Consumable": false,
     "JumpType": null,
     "JumpTargetId": null,
-    "TabCategory": 1,
-    "Rarity": 3
+    "TabCategory": "Normal",
+    "Rarity": "SSR"
   },
   {
     "Id": 511304,
@@ -3450,12 +3450,12 @@
     "DisplayOrder": 511304,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 51,
+    "Category": "Film",
     "Consumable": false,
     "JumpType": null,
     "JumpTargetId": null,
-    "TabCategory": 1,
-    "Rarity": 3
+    "TabCategory": "Normal",
+    "Rarity": "SSR"
   },
   {
     "Id": 511305,
@@ -3464,12 +3464,12 @@
     "DisplayOrder": 511305,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 51,
+    "Category": "Film",
     "Consumable": false,
     "JumpType": null,
     "JumpTargetId": null,
-    "TabCategory": 1,
-    "Rarity": 3
+    "TabCategory": "Normal",
+    "Rarity": "SSR"
   },
   {
     "Id": 511401,
@@ -3478,12 +3478,12 @@
     "DisplayOrder": 511401,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 51,
+    "Category": "Film",
     "Consumable": false,
     "JumpType": null,
     "JumpTargetId": null,
-    "TabCategory": 1,
-    "Rarity": 3
+    "TabCategory": "Normal",
+    "Rarity": "SSR"
   },
   {
     "Id": 511402,
@@ -3492,12 +3492,12 @@
     "DisplayOrder": 511402,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 51,
+    "Category": "Film",
     "Consumable": false,
     "JumpType": null,
     "JumpTargetId": null,
-    "TabCategory": 1,
-    "Rarity": 3
+    "TabCategory": "Normal",
+    "Rarity": "SSR"
   },
   {
     "Id": 511403,
@@ -3506,12 +3506,12 @@
     "DisplayOrder": 511403,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 51,
+    "Category": "Film",
     "Consumable": false,
     "JumpType": null,
     "JumpTargetId": null,
-    "TabCategory": 1,
-    "Rarity": 3
+    "TabCategory": "Normal",
+    "Rarity": "SSR"
   },
   {
     "Id": 511404,
@@ -3520,12 +3520,12 @@
     "DisplayOrder": 511404,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 51,
+    "Category": "Film",
     "Consumable": false,
     "JumpType": null,
     "JumpTargetId": null,
-    "TabCategory": 1,
-    "Rarity": 3
+    "TabCategory": "Normal",
+    "Rarity": "SSR"
   },
   {
     "Id": 511405,
@@ -3534,12 +3534,12 @@
     "DisplayOrder": 511405,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 51,
+    "Category": "Film",
     "Consumable": false,
     "JumpType": null,
     "JumpTargetId": null,
-    "TabCategory": 1,
-    "Rarity": 3
+    "TabCategory": "Normal",
+    "Rarity": "SSR"
   },
   {
     "Id": 610001,
@@ -3548,12 +3548,12 @@
     "DisplayOrder": 610001,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 61,
+    "Category": "PlayerRankAwakening",
     "Consumable": false,
     "JumpType": null,
     "JumpTargetId": null,
-    "TabCategory": 0,
-    "Rarity": 1
+    "TabCategory": "Hidden",
+    "Rarity": "R"
   },
   {
     "Id": 610101,
@@ -3562,12 +3562,12 @@
     "DisplayOrder": 610101,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 61,
+    "Category": "PlayerRankAwakening",
     "Consumable": false,
     "JumpType": null,
     "JumpTargetId": null,
-    "TabCategory": 0,
-    "Rarity": 1
+    "TabCategory": "Hidden",
+    "Rarity": "R"
   },
   {
     "Id": 610102,
@@ -3576,12 +3576,12 @@
     "DisplayOrder": 610102,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 61,
+    "Category": "PlayerRankAwakening",
     "Consumable": false,
     "JumpType": null,
     "JumpTargetId": null,
-    "TabCategory": 0,
-    "Rarity": 1
+    "TabCategory": "Hidden",
+    "Rarity": "R"
   },
   {
     "Id": 610103,
@@ -3590,12 +3590,12 @@
     "DisplayOrder": 610103,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 61,
+    "Category": "PlayerRankAwakening",
     "Consumable": false,
     "JumpType": null,
     "JumpTargetId": null,
-    "TabCategory": 0,
-    "Rarity": 1
+    "TabCategory": "Hidden",
+    "Rarity": "R"
   },
   {
     "Id": 610104,
@@ -3604,12 +3604,12 @@
     "DisplayOrder": 610104,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 61,
+    "Category": "PlayerRankAwakening",
     "Consumable": false,
     "JumpType": null,
     "JumpTargetId": null,
-    "TabCategory": 0,
-    "Rarity": 1
+    "TabCategory": "Hidden",
+    "Rarity": "R"
   },
   {
     "Id": 610105,
@@ -3618,12 +3618,12 @@
     "DisplayOrder": 610105,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 61,
+    "Category": "PlayerRankAwakening",
     "Consumable": false,
     "JumpType": null,
     "JumpTargetId": null,
-    "TabCategory": 0,
-    "Rarity": 1
+    "TabCategory": "Hidden",
+    "Rarity": "R"
   },
   {
     "Id": 610106,
@@ -3632,12 +3632,12 @@
     "DisplayOrder": 610106,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 61,
+    "Category": "PlayerRankAwakening",
     "Consumable": false,
     "JumpType": null,
     "JumpTargetId": null,
-    "TabCategory": 0,
-    "Rarity": 1
+    "TabCategory": "Hidden",
+    "Rarity": "R"
   },
   {
     "Id": 610107,
@@ -3646,12 +3646,12 @@
     "DisplayOrder": 610107,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 61,
+    "Category": "PlayerRankAwakening",
     "Consumable": false,
     "JumpType": null,
     "JumpTargetId": null,
-    "TabCategory": 0,
-    "Rarity": 1
+    "TabCategory": "Hidden",
+    "Rarity": "R"
   },
   {
     "Id": 610108,
@@ -3660,12 +3660,12 @@
     "DisplayOrder": 610108,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 61,
+    "Category": "PlayerRankAwakening",
     "Consumable": false,
     "JumpType": null,
     "JumpTargetId": null,
-    "TabCategory": 0,
-    "Rarity": 1
+    "TabCategory": "Hidden",
+    "Rarity": "R"
   },
   {
     "Id": 610109,
@@ -3674,12 +3674,12 @@
     "DisplayOrder": 610109,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 61,
+    "Category": "PlayerRankAwakening",
     "Consumable": false,
     "JumpType": null,
     "JumpTargetId": null,
-    "TabCategory": 0,
-    "Rarity": 1
+    "TabCategory": "Hidden",
+    "Rarity": "R"
   },
   {
     "Id": 610110,
@@ -3688,12 +3688,12 @@
     "DisplayOrder": 610110,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 61,
+    "Category": "PlayerRankAwakening",
     "Consumable": false,
     "JumpType": null,
     "JumpTargetId": null,
-    "TabCategory": 0,
-    "Rarity": 1
+    "TabCategory": "Hidden",
+    "Rarity": "R"
   },
   {
     "Id": 610111,
@@ -3702,12 +3702,12 @@
     "DisplayOrder": 610111,
     "DisplayEndDate": null,
     "MaxStock": 99999,
-    "Category": 61,
+    "Category": "PlayerRankAwakening",
     "Consumable": false,
     "JumpType": null,
     "JumpTargetId": null,
-    "TabCategory": 0,
-    "Rarity": 1
+    "TabCategory": "Hidden",
+    "Rarity": "R"
   },
   {
     "Id": 620101,
@@ -3716,12 +3716,12 @@
     "DisplayOrder": 620101,
     "DisplayEndDate": null,
     "MaxStock": 4,
-    "Category": 62,
+    "Category": "LessonPartyQuantityLimitRelease",
     "Consumable": false,
     "JumpType": null,
     "JumpTargetId": null,
-    "TabCategory": 0,
-    "Rarity": 1
+    "TabCategory": "Hidden",
+    "Rarity": "R"
   },
   {
     "Id": 620102,
@@ -3730,12 +3730,12 @@
     "DisplayOrder": 620102,
     "DisplayEndDate": null,
     "MaxStock": 4,
-    "Category": 62,
+    "Category": "LessonPartyQuantityLimitRelease",
     "Consumable": false,
     "JumpType": null,
     "JumpTargetId": null,
-    "TabCategory": 0,
-    "Rarity": 1
+    "TabCategory": "Hidden",
+    "Rarity": "R"
   },
   {
     "Id": 620103,
@@ -3744,12 +3744,12 @@
     "DisplayOrder": 620103,
     "DisplayEndDate": null,
     "MaxStock": 4,
-    "Category": 62,
+    "Category": "LessonPartyQuantityLimitRelease",
     "Consumable": false,
     "JumpType": null,
     "JumpTargetId": null,
-    "TabCategory": 0,
-    "Rarity": 1
+    "TabCategory": "Hidden",
+    "Rarity": "R"
   },
   {
     "Id": 620104,
@@ -3758,12 +3758,12 @@
     "DisplayOrder": 620104,
     "DisplayEndDate": null,
     "MaxStock": 4,
-    "Category": 62,
+    "Category": "LessonPartyQuantityLimitRelease",
     "Consumable": false,
     "JumpType": null,
     "JumpTargetId": null,
-    "TabCategory": 0,
-    "Rarity": 1
+    "TabCategory": "Hidden",
+    "Rarity": "R"
   },
   {
     "Id": 620105,
@@ -3772,12 +3772,12 @@
     "DisplayOrder": 620105,
     "DisplayEndDate": null,
     "MaxStock": 4,
-    "Category": 62,
+    "Category": "LessonPartyQuantityLimitRelease",
     "Consumable": false,
     "JumpType": null,
     "JumpTargetId": null,
-    "TabCategory": 0,
-    "Rarity": 1
+    "TabCategory": "Hidden",
+    "Rarity": "R"
   },
   {
     "Id": 620106,
@@ -3786,12 +3786,12 @@
     "DisplayOrder": 620106,
     "DisplayEndDate": null,
     "MaxStock": 4,
-    "Category": 62,
+    "Category": "LessonPartyQuantityLimitRelease",
     "Consumable": false,
     "JumpType": null,
     "JumpTargetId": null,
-    "TabCategory": 0,
-    "Rarity": 1
+    "TabCategory": "Hidden",
+    "Rarity": "R"
   },
   {
     "Id": 620201,
@@ -3800,12 +3800,12 @@
     "DisplayOrder": 620201,
     "DisplayEndDate": null,
     "MaxStock": 4,
-    "Category": 62,
+    "Category": "LessonPartyQuantityLimitRelease",
     "Consumable": false,
     "JumpType": null,
     "JumpTargetId": null,
-    "TabCategory": 0,
-    "Rarity": 1
+    "TabCategory": "Hidden",
+    "Rarity": "R"
   },
   {
     "Id": 620202,
@@ -3814,12 +3814,12 @@
     "DisplayOrder": 620202,
     "DisplayEndDate": null,
     "MaxStock": 4,
-    "Category": 62,
+    "Category": "LessonPartyQuantityLimitRelease",
     "Consumable": false,
     "JumpType": null,
     "JumpTargetId": null,
-    "TabCategory": 0,
-    "Rarity": 1
+    "TabCategory": "Hidden",
+    "Rarity": "R"
   },
   {
     "Id": 620203,
@@ -3828,12 +3828,12 @@
     "DisplayOrder": 620203,
     "DisplayEndDate": null,
     "MaxStock": 4,
-    "Category": 62,
+    "Category": "LessonPartyQuantityLimitRelease",
     "Consumable": false,
     "JumpType": null,
     "JumpTargetId": null,
-    "TabCategory": 0,
-    "Rarity": 1
+    "TabCategory": "Hidden",
+    "Rarity": "R"
   },
   {
     "Id": 620204,
@@ -3842,12 +3842,12 @@
     "DisplayOrder": 620204,
     "DisplayEndDate": null,
     "MaxStock": 4,
-    "Category": 62,
+    "Category": "LessonPartyQuantityLimitRelease",
     "Consumable": false,
     "JumpType": null,
     "JumpTargetId": null,
-    "TabCategory": 0,
-    "Rarity": 1
+    "TabCategory": "Hidden",
+    "Rarity": "R"
   },
   {
     "Id": 620205,
@@ -3856,12 +3856,12 @@
     "DisplayOrder": 620205,
     "DisplayEndDate": null,
     "MaxStock": 4,
-    "Category": 62,
+    "Category": "LessonPartyQuantityLimitRelease",
     "Consumable": false,
     "JumpType": null,
     "JumpTargetId": null,
-    "TabCategory": 0,
-    "Rarity": 1
+    "TabCategory": "Hidden",
+    "Rarity": "R"
   },
   {
     "Id": 620301,
@@ -3870,12 +3870,12 @@
     "DisplayOrder": 620301,
     "DisplayEndDate": null,
     "MaxStock": 4,
-    "Category": 62,
+    "Category": "LessonPartyQuantityLimitRelease",
     "Consumable": false,
     "JumpType": null,
     "JumpTargetId": null,
-    "TabCategory": 0,
-    "Rarity": 1
+    "TabCategory": "Hidden",
+    "Rarity": "R"
   },
   {
     "Id": 620302,
@@ -3884,12 +3884,12 @@
     "DisplayOrder": 620302,
     "DisplayEndDate": null,
     "MaxStock": 4,
-    "Category": 62,
+    "Category": "LessonPartyQuantityLimitRelease",
     "Consumable": false,
     "JumpType": null,
     "JumpTargetId": null,
-    "TabCategory": 0,
-    "Rarity": 1
+    "TabCategory": "Hidden",
+    "Rarity": "R"
   },
   {
     "Id": 620303,
@@ -3898,12 +3898,12 @@
     "DisplayOrder": 620303,
     "DisplayEndDate": null,
     "MaxStock": 4,
-    "Category": 62,
+    "Category": "LessonPartyQuantityLimitRelease",
     "Consumable": false,
     "JumpType": null,
     "JumpTargetId": null,
-    "TabCategory": 0,
-    "Rarity": 1
+    "TabCategory": "Hidden",
+    "Rarity": "R"
   },
   {
     "Id": 620304,
@@ -3912,12 +3912,12 @@
     "DisplayOrder": 620304,
     "DisplayEndDate": null,
     "MaxStock": 4,
-    "Category": 62,
+    "Category": "LessonPartyQuantityLimitRelease",
     "Consumable": false,
     "JumpType": null,
     "JumpTargetId": null,
-    "TabCategory": 0,
-    "Rarity": 1
+    "TabCategory": "Hidden",
+    "Rarity": "R"
   },
   {
     "Id": 620305,
@@ -3926,12 +3926,12 @@
     "DisplayOrder": 620305,
     "DisplayEndDate": null,
     "MaxStock": 4,
-    "Category": 62,
+    "Category": "LessonPartyQuantityLimitRelease",
     "Consumable": false,
     "JumpType": null,
     "JumpTargetId": null,
-    "TabCategory": 0,
-    "Rarity": 1
+    "TabCategory": "Hidden",
+    "Rarity": "R"
   },
   {
     "Id": 620401,
@@ -3940,12 +3940,12 @@
     "DisplayOrder": 620401,
     "DisplayEndDate": null,
     "MaxStock": 4,
-    "Category": 62,
+    "Category": "LessonPartyQuantityLimitRelease",
     "Consumable": false,
     "JumpType": null,
     "JumpTargetId": null,
-    "TabCategory": 0,
-    "Rarity": 1
+    "TabCategory": "Hidden",
+    "Rarity": "R"
   },
   {
     "Id": 620402,
@@ -3954,12 +3954,12 @@
     "DisplayOrder": 620402,
     "DisplayEndDate": null,
     "MaxStock": 4,
-    "Category": 62,
+    "Category": "LessonPartyQuantityLimitRelease",
     "Consumable": false,
     "JumpType": null,
     "JumpTargetId": null,
-    "TabCategory": 0,
-    "Rarity": 1
+    "TabCategory": "Hidden",
+    "Rarity": "R"
   },
   {
     "Id": 620403,
@@ -3968,12 +3968,12 @@
     "DisplayOrder": 620403,
     "DisplayEndDate": null,
     "MaxStock": 4,
-    "Category": 62,
+    "Category": "LessonPartyQuantityLimitRelease",
     "Consumable": false,
     "JumpType": null,
     "JumpTargetId": null,
-    "TabCategory": 0,
-    "Rarity": 1
+    "TabCategory": "Hidden",
+    "Rarity": "R"
   },
   {
     "Id": 620404,
@@ -3982,12 +3982,12 @@
     "DisplayOrder": 620404,
     "DisplayEndDate": null,
     "MaxStock": 4,
-    "Category": 62,
+    "Category": "LessonPartyQuantityLimitRelease",
     "Consumable": false,
     "JumpType": null,
     "JumpTargetId": null,
-    "TabCategory": 0,
-    "Rarity": 1
+    "TabCategory": "Hidden",
+    "Rarity": "R"
   },
   {
     "Id": 620405,
@@ -3996,11 +3996,11 @@
     "DisplayOrder": 620405,
     "DisplayEndDate": null,
     "MaxStock": 4,
-    "Category": 62,
+    "Category": "LessonPartyQuantityLimitRelease",
     "Consumable": false,
     "JumpType": null,
     "JumpTargetId": null,
-    "TabCategory": 0,
-    "Rarity": 1
+    "TabCategory": "Hidden",
+    "Rarity": "R"
   }
 ]

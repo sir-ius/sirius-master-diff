@@ -2,151 +2,151 @@
   {
     "Id": 2000101,
     "StoryEventMasterId": 20001,
-    "BonusTargetType": 2,
+    "BonusTargetType": "CharacterBase",
     "BonusTargetId": 201
   },
   {
     "Id": 2000102,
     "StoryEventMasterId": 20001,
-    "BonusTargetType": 2,
+    "BonusTargetType": "CharacterBase",
     "BonusTargetId": 202
   },
   {
     "Id": 2000103,
     "StoryEventMasterId": 20001,
-    "BonusTargetType": 2,
+    "BonusTargetType": "CharacterBase",
     "BonusTargetId": 204
   },
   {
     "Id": 2000104,
     "StoryEventMasterId": 20001,
-    "BonusTargetType": 2,
+    "BonusTargetType": "CharacterBase",
     "BonusTargetId": 205
   },
   {
     "Id": 2000201,
     "StoryEventMasterId": 20002,
-    "BonusTargetType": 1,
+    "BonusTargetType": "Company",
     "BonusTargetId": 4
   },
   {
     "Id": 2000301,
     "StoryEventMasterId": 20003,
-    "BonusTargetType": 1,
+    "BonusTargetType": "Company",
     "BonusTargetId": 1
   },
   {
     "Id": 2000401,
     "StoryEventMasterId": 20004,
-    "BonusTargetType": 1,
+    "BonusTargetType": "Company",
     "BonusTargetId": 3
   },
   {
     "Id": 2000501,
     "StoryEventMasterId": 20005,
-    "BonusTargetType": 1,
+    "BonusTargetType": "Company",
     "BonusTargetId": 4
   },
   {
     "Id": 2000601,
     "StoryEventMasterId": 20006,
-    "BonusTargetType": 2,
+    "BonusTargetType": "CharacterBase",
     "BonusTargetId": 203
   },
   {
     "Id": 2000602,
     "StoryEventMasterId": 20006,
-    "BonusTargetType": 2,
+    "BonusTargetType": "CharacterBase",
     "BonusTargetId": 204
   },
   {
     "Id": 2000603,
     "StoryEventMasterId": 20006,
-    "BonusTargetType": 2,
+    "BonusTargetType": "CharacterBase",
     "BonusTargetId": 101
   },
   {
     "Id": 2000604,
     "StoryEventMasterId": 20006,
-    "BonusTargetType": 2,
+    "BonusTargetType": "CharacterBase",
     "BonusTargetId": 102
   },
   {
     "Id": 2000605,
     "StoryEventMasterId": 20006,
-    "BonusTargetType": 2,
+    "BonusTargetType": "CharacterBase",
     "BonusTargetId": 103
   },
   {
     "Id": 2000701,
     "StoryEventMasterId": 20007,
-    "BonusTargetType": 2,
+    "BonusTargetType": "CharacterBase",
     "BonusTargetId": 301
   },
   {
     "Id": 2000702,
     "StoryEventMasterId": 20007,
-    "BonusTargetType": 2,
+    "BonusTargetType": "CharacterBase",
     "BonusTargetId": 201
   },
   {
     "Id": 2000703,
     "StoryEventMasterId": 20007,
-    "BonusTargetType": 2,
+    "BonusTargetType": "CharacterBase",
     "BonusTargetId": 401
   },
   {
     "Id": 2000801,
     "StoryEventMasterId": 20008,
-    "BonusTargetType": 2,
+    "BonusTargetType": "CharacterBase",
     "BonusTargetId": 105
   },
   {
     "Id": 2000802,
     "StoryEventMasterId": 20008,
-    "BonusTargetType": 2,
+    "BonusTargetType": "CharacterBase",
     "BonusTargetId": 305
   },
   {
     "Id": 2000803,
     "StoryEventMasterId": 20008,
-    "BonusTargetType": 2,
+    "BonusTargetType": "CharacterBase",
     "BonusTargetId": 403
   },
   {
     "Id": 2000901,
     "StoryEventMasterId": 20009,
-    "BonusTargetType": 1,
+    "BonusTargetType": "Company",
     "BonusTargetId": 1
   },
   {
     "Id": 2001001,
     "StoryEventMasterId": 20010,
-    "BonusTargetType": 1,
+    "BonusTargetType": "Company",
     "BonusTargetId": 4
   },
   {
     "Id": 2001101,
     "StoryEventMasterId": 20011,
-    "BonusTargetType": 1,
+    "BonusTargetType": "Company",
     "BonusTargetId": 3
   },
   {
     "Id": 2001201,
     "StoryEventMasterId": 20012,
-    "BonusTargetType": 2,
+    "BonusTargetType": "CharacterBase",
     "BonusTargetId": 405
   },
   {
     "Id": 2001202,
     "StoryEventMasterId": 20012,
-    "BonusTargetType": 2,
+    "BonusTargetType": "CharacterBase",
     "BonusTargetId": 205
   },
   {
     "Id": 2001203,
     "StoryEventMasterId": 20012,
-    "BonusTargetType": 2,
+    "BonusTargetType": "CharacterBase",
     "BonusTargetId": 104
   }
 ]

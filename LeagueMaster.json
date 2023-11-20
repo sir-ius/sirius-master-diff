@@ -2,7 +2,7 @@
   {
     "Id": 1,
     "MusicMasterId": 17,
-    "MaxDifficulty": 3,
+    "MaxDifficulty": "Extra",
     "DisplayStartAt": "2023-07-26T05:00:00.000Z",
     "CountingStartAt": "2023-07-31T00:00:00.000Z",
     "DisplayEndAt": "2023-08-01T05:00:00.000Z",
@@ -13,7 +13,7 @@
   {
     "Id": 2,
     "MusicMasterId": 19,
-    "MaxDifficulty": 3,
+    "MaxDifficulty": "Extra",
     "DisplayStartAt": "2023-08-01T05:00:00.000Z",
     "CountingStartAt": "2023-08-07T00:00:00.000Z",
     "DisplayEndAt": "2023-08-08T05:00:00.000Z",
@@ -24,7 +24,7 @@
   {
     "Id": 3,
     "MusicMasterId": 21,
-    "MaxDifficulty": 3,
+    "MaxDifficulty": "Extra",
     "DisplayStartAt": "2023-08-08T05:00:00.000Z",
     "CountingStartAt": "2023-08-14T00:00:00.000Z",
     "DisplayEndAt": "2023-08-15T05:00:00.000Z",
@@ -35,7 +35,7 @@
   {
     "Id": 4,
     "MusicMasterId": 23,
-    "MaxDifficulty": 3,
+    "MaxDifficulty": "Extra",
     "DisplayStartAt": "2023-08-15T05:00:00.000Z",
     "CountingStartAt": "2023-08-21T00:00:00.000Z",
     "DisplayEndAt": "2023-08-22T05:00:00.000Z",
@@ -46,7 +46,7 @@
   {
     "Id": 5,
     "MusicMasterId": 17,
-    "MaxDifficulty": 3,
+    "MaxDifficulty": "Extra",
     "DisplayStartAt": "2023-08-22T05:00:00.000Z",
     "CountingStartAt": "2023-08-28T00:00:00.000Z",
     "DisplayEndAt": "2023-08-29T05:00:00.000Z",
@@ -57,7 +57,7 @@
   {
     "Id": 6,
     "MusicMasterId": 19,
-    "MaxDifficulty": 3,
+    "MaxDifficulty": "Extra",
     "DisplayStartAt": "2023-08-29T05:00:00.000Z",
     "CountingStartAt": "2023-09-04T00:00:00.000Z",
     "DisplayEndAt": "2023-09-05T05:00:00.000Z",
@@ -68,7 +68,7 @@
   {
     "Id": 7,
     "MusicMasterId": 21,
-    "MaxDifficulty": 3,
+    "MaxDifficulty": "Extra",
     "DisplayStartAt": "2023-09-05T05:00:00.000Z",
     "CountingStartAt": "2023-09-11T00:00:00.000Z",
     "DisplayEndAt": "2023-09-12T05:00:00.000Z",
@@ -79,7 +79,7 @@
   {
     "Id": 8,
     "MusicMasterId": 23,
-    "MaxDifficulty": 3,
+    "MaxDifficulty": "Extra",
     "DisplayStartAt": "2023-09-12T05:00:00.000Z",
     "CountingStartAt": "2023-09-18T00:00:00.000Z",
     "DisplayEndAt": "2023-09-19T05:00:00.000Z",
@@ -90,7 +90,7 @@
   {
     "Id": 9,
     "MusicMasterId": 17,
-    "MaxDifficulty": 3,
+    "MaxDifficulty": "Extra",
     "DisplayStartAt": "2023-09-19T05:00:00.000Z",
     "CountingStartAt": "2023-09-25T00:00:00.000Z",
     "DisplayEndAt": "2023-09-26T05:00:00.000Z",
@@ -101,7 +101,7 @@
   {
     "Id": 10,
     "MusicMasterId": 19,
-    "MaxDifficulty": 3,
+    "MaxDifficulty": "Extra",
     "DisplayStartAt": "2023-09-26T05:00:00.000Z",
     "CountingStartAt": "2023-10-02T00:00:00.000Z",
     "DisplayEndAt": "2023-10-03T05:00:00.000Z",
@@ -112,7 +112,7 @@
   {
     "Id": 11,
     "MusicMasterId": 21,
-    "MaxDifficulty": 3,
+    "MaxDifficulty": "Extra",
     "DisplayStartAt": "2023-10-03T05:00:00.000Z",
     "CountingStartAt": "2023-10-09T00:00:00.000Z",
     "DisplayEndAt": "2023-10-10T05:00:00.000Z",
@@ -123,7 +123,7 @@
   {
     "Id": 12,
     "MusicMasterId": 23,
-    "MaxDifficulty": 3,
+    "MaxDifficulty": "Extra",
     "DisplayStartAt": "2023-10-10T05:00:00.000Z",
     "CountingStartAt": "2023-10-16T00:00:00.000Z",
     "DisplayEndAt": "2023-10-17T05:00:00.000Z",
@@ -134,7 +134,7 @@
   {
     "Id": 13,
     "MusicMasterId": 17,
-    "MaxDifficulty": 3,
+    "MaxDifficulty": "Extra",
     "DisplayStartAt": "2023-10-17T05:00:00.000Z",
     "CountingStartAt": "2023-10-23T00:00:00.000Z",
     "DisplayEndAt": "2023-10-24T05:00:00.000Z",
@@ -145,7 +145,7 @@
   {
     "Id": 14,
     "MusicMasterId": 19,
-    "MaxDifficulty": 3,
+    "MaxDifficulty": "Extra",
     "DisplayStartAt": "2023-10-24T05:00:00.000Z",
     "CountingStartAt": "2023-10-30T00:00:00.000Z",
     "DisplayEndAt": "2023-10-31T05:00:00.000Z",
@@ -156,7 +156,7 @@
   {
     "Id": 15,
     "MusicMasterId": 21,
-    "MaxDifficulty": 3,
+    "MaxDifficulty": "Extra",
     "DisplayStartAt": "2023-10-31T05:00:00.000Z",
     "CountingStartAt": "2023-11-06T00:00:00.000Z",
     "DisplayEndAt": "2023-11-07T05:00:00.000Z",
@@ -167,7 +167,7 @@
   {
     "Id": 16,
     "MusicMasterId": 23,
-    "MaxDifficulty": 3,
+    "MaxDifficulty": "Extra",
     "DisplayStartAt": "2023-11-07T05:00:00.000Z",
     "CountingStartAt": "2023-11-13T00:00:00.000Z",
     "DisplayEndAt": "2023-11-14T05:00:00.000Z",
@@ -178,7 +178,7 @@
   {
     "Id": 17,
     "MusicMasterId": 17,
-    "MaxDifficulty": 3,
+    "MaxDifficulty": "Extra",
     "DisplayStartAt": "2023-11-14T05:00:00.000Z",
     "CountingStartAt": "2023-11-20T00:00:00.000Z",
     "DisplayEndAt": "2023-11-21T05:00:00.000Z",
@@ -189,7 +189,7 @@
   {
     "Id": 18,
     "MusicMasterId": 19,
-    "MaxDifficulty": 3,
+    "MaxDifficulty": "Extra",
     "DisplayStartAt": "2023-11-21T05:00:00.000Z",
     "CountingStartAt": "2023-11-27T00:00:00.000Z",
     "DisplayEndAt": "2023-11-28T05:00:00.000Z",
@@ -200,7 +200,7 @@
   {
     "Id": 19,
     "MusicMasterId": 21,
-    "MaxDifficulty": 3,
+    "MaxDifficulty": "Extra",
     "DisplayStartAt": "2023-11-28T05:00:00.000Z",
     "CountingStartAt": "2023-12-04T00:00:00.000Z",
     "DisplayEndAt": "2023-12-05T05:00:00.000Z",

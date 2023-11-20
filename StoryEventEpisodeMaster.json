@@ -5,7 +5,8 @@
     "RequiredTotalAcquiredPoint": 0,
     "Title": "憎しみのはじまりは……",
     "Order": 1,
-    "RequiredReadEpisodeMasterId": null
+    "RequiredReadEpisodeMasterId": null,
+    "EpisodeRewardPackageMasterId": 2000101
   },
   {
     "Id": 2000102,
@@ -13,7 +14,8 @@
     "RequiredTotalAcquiredPoint": 2000,
     "Title": "悩みの先の新たな道筋",
     "Order": 2,
-    "RequiredReadEpisodeMasterId": 2000101
+    "RequiredReadEpisodeMasterId": 2000101,
+    "EpisodeRewardPackageMasterId": 2000102
   },
   {
     "Id": 2000103,
@@ -21,7 +23,8 @@
     "RequiredTotalAcquiredPoint": 4000,
     "Title": "私が輝く場所",
     "Order": 3,
-    "RequiredReadEpisodeMasterId": 2000102
+    "RequiredReadEpisodeMasterId": 2000102,
+    "EpisodeRewardPackageMasterId": 2000103
   },
   {
     "Id": 2000104,
@@ -29,7 +32,8 @@
     "RequiredTotalAcquiredPoint": 8000,
     "Title": "理想の真似事",
     "Order": 4,
-    "RequiredReadEpisodeMasterId": 2000103
+    "RequiredReadEpisodeMasterId": 2000103,
+    "EpisodeRewardPackageMasterId": 2000104
   },
   {
     "Id": 2000105,
@@ -37,7 +41,8 @@
     "RequiredTotalAcquiredPoint": 16000,
     "Title": "舞台の主役",
     "Order": 5,
-    "RequiredReadEpisodeMasterId": 2000104
+    "RequiredReadEpisodeMasterId": 2000104,
+    "EpisodeRewardPackageMasterId": 2000105
   },
   {
     "Id": 2000106,
@@ -45,7 +50,8 @@
     "RequiredTotalAcquiredPoint": 32000,
     "Title": "お前は誰だ",
     "Order": 6,
-    "RequiredReadEpisodeMasterId": 2000105
+    "RequiredReadEpisodeMasterId": 2000105,
+    "EpisodeRewardPackageMasterId": 2000106
   },
   {
     "Id": 2000107,
@@ -53,7 +59,8 @@
     "RequiredTotalAcquiredPoint": 64000,
     "Title": "魂の叫びをさらけ出せ",
     "Order": 7,
-    "RequiredReadEpisodeMasterId": 2000106
+    "RequiredReadEpisodeMasterId": 2000106,
+    "EpisodeRewardPackageMasterId": 2000107
   },
   {
     "Id": 2000108,
@@ -61,7 +68,8 @@
     "RequiredTotalAcquiredPoint": 128000,
     "Title": "憎しみは果てしなく",
     "Order": 8,
-    "RequiredReadEpisodeMasterId": 2000107
+    "RequiredReadEpisodeMasterId": 2000107,
+    "EpisodeRewardPackageMasterId": 2000108
   },
   {
     "Id": 2000201,
@@ -69,7 +77,8 @@
     "RequiredTotalAcquiredPoint": 0,
     "Title": "海行こー！",
     "Order": 1,
-    "RequiredReadEpisodeMasterId": null
+    "RequiredReadEpisodeMasterId": null,
+    "EpisodeRewardPackageMasterId": 2000201
   },
   {
     "Id": 2000202,
@@ -77,7 +86,8 @@
     "RequiredTotalAcquiredPoint": 2000,
     "Title": "水着選びのお姫様",
     "Order": 2,
-    "RequiredReadEpisodeMasterId": 2000201
+    "RequiredReadEpisodeMasterId": 2000201,
+    "EpisodeRewardPackageMasterId": 2000202
   },
   {
     "Id": 2000203,
@@ -85,7 +95,8 @@
     "RequiredTotalAcquiredPoint": 4000,
     "Title": "海水浴、当日！",
     "Order": 3,
-    "RequiredReadEpisodeMasterId": 2000202
+    "RequiredReadEpisodeMasterId": 2000202,
+    "EpisodeRewardPackageMasterId": 2000203
   },
   {
     "Id": 2000204,
@@ -93,7 +104,8 @@
     "RequiredTotalAcquiredPoint": 8000,
     "Title": "蕾、開花",
     "Order": 4,
-    "RequiredReadEpisodeMasterId": 2000203
+    "RequiredReadEpisodeMasterId": 2000203,
+    "EpisodeRewardPackageMasterId": 2000204
   },
   {
     "Id": 2000205,
@@ -101,7 +113,8 @@
     "RequiredTotalAcquiredPoint": 16000,
     "Title": "解放されし、真の姿",
     "Order": 5,
-    "RequiredReadEpisodeMasterId": 2000204
+    "RequiredReadEpisodeMasterId": 2000204,
+    "EpisodeRewardPackageMasterId": 2000205
   },
   {
     "Id": 2000206,
@@ -109,7 +122,8 @@
     "RequiredTotalAcquiredPoint": 32000,
     "Title": "記念撮影♪",
     "Order": 6,
-    "RequiredReadEpisodeMasterId": 2000205
+    "RequiredReadEpisodeMasterId": 2000205,
+    "EpisodeRewardPackageMasterId": 2000206
   },
   {
     "Id": 2000207,
@@ -117,7 +131,8 @@
     "RequiredTotalAcquiredPoint": 64000,
     "Title": "楽しい日はまだ続く",
     "Order": 7,
-    "RequiredReadEpisodeMasterId": 2000206
+    "RequiredReadEpisodeMasterId": 2000206,
+    "EpisodeRewardPackageMasterId": 2000207
   },
   {
     "Id": 2000208,
@@ -125,7 +140,8 @@
     "RequiredTotalAcquiredPoint": 128000,
     "Title": "夜、電車、お話",
     "Order": 8,
-    "RequiredReadEpisodeMasterId": 2000207
+    "RequiredReadEpisodeMasterId": 2000207,
+    "EpisodeRewardPackageMasterId": 2000208
   },
   {
     "Id": 2000301,
@@ -133,7 +149,8 @@
     "RequiredTotalAcquiredPoint": 0,
     "Title": "幕が下りたその後で",
     "Order": 1,
-    "RequiredReadEpisodeMasterId": null
+    "RequiredReadEpisodeMasterId": null,
+    "EpisodeRewardPackageMasterId": 2000301
   },
   {
     "Id": 2000302,
@@ -141,7 +158,8 @@
     "RequiredTotalAcquiredPoint": 2000,
     "Title": "ダイスター",
     "Order": 2,
-    "RequiredReadEpisodeMasterId": 2000301
+    "RequiredReadEpisodeMasterId": 2000301,
+    "EpisodeRewardPackageMasterId": 2000302
   },
   {
     "Id": 2000303,
@@ -149,7 +167,8 @@
     "RequiredTotalAcquiredPoint": 4000,
     "Title": "対等コミュニケーション",
     "Order": 3,
-    "RequiredReadEpisodeMasterId": 2000302
+    "RequiredReadEpisodeMasterId": 2000302,
+    "EpisodeRewardPackageMasterId": 2000303
   },
   {
     "Id": 2000304,
@@ -157,7 +176,8 @@
     "RequiredTotalAcquiredPoint": 8000,
     "Title": "笑いのセンスが通じない！",
     "Order": 4,
-    "RequiredReadEpisodeMasterId": 2000303
+    "RequiredReadEpisodeMasterId": 2000303,
+    "EpisodeRewardPackageMasterId": 2000304
   },
   {
     "Id": 2000305,
@@ -165,7 +185,8 @@
     "RequiredTotalAcquiredPoint": 16000,
     "Title": "からまわり",
     "Order": 5,
-    "RequiredReadEpisodeMasterId": 2000304
+    "RequiredReadEpisodeMasterId": 2000304,
+    "EpisodeRewardPackageMasterId": 2000305
   },
   {
     "Id": 2000306,
@@ -173,7 +194,8 @@
     "RequiredTotalAcquiredPoint": 32000,
     "Title": "先輩からのアドバイス",
     "Order": 6,
-    "RequiredReadEpisodeMasterId": 2000305
+    "RequiredReadEpisodeMasterId": 2000305,
+    "EpisodeRewardPackageMasterId": 2000306
   },
   {
     "Id": 2000307,
@@ -181,7 +203,8 @@
     "RequiredTotalAcquiredPoint": 64000,
     "Title": "配役は妹",
     "Order": 7,
-    "RequiredReadEpisodeMasterId": 2000306
+    "RequiredReadEpisodeMasterId": 2000306,
+    "EpisodeRewardPackageMasterId": 2000307
   },
   {
     "Id": 2000308,
@@ -189,7 +212,8 @@
     "RequiredTotalAcquiredPoint": 128000,
     "Title": "残された課題……！",
     "Order": 8,
-    "RequiredReadEpisodeMasterId": 2000307
+    "RequiredReadEpisodeMasterId": 2000307,
+    "EpisodeRewardPackageMasterId": 2000308
   },
   {
     "Id": 2000401,
@@ -197,7 +221,8 @@
     "RequiredTotalAcquiredPoint": 0,
     "Title": "絶好のタイミング",
     "Order": 1,
-    "RequiredReadEpisodeMasterId": null
+    "RequiredReadEpisodeMasterId": null,
+    "EpisodeRewardPackageMasterId": 2000401
   },
   {
     "Id": 2000402,
@@ -205,7 +230,8 @@
     "RequiredTotalAcquiredPoint": 2000,
     "Title": "下のきょうだいを持つ同士",
     "Order": 2,
-    "RequiredReadEpisodeMasterId": 2000401
+    "RequiredReadEpisodeMasterId": 2000401,
+    "EpisodeRewardPackageMasterId": 2000402
   },
   {
     "Id": 2000403,
@@ -213,7 +239,8 @@
     "RequiredTotalAcquiredPoint": 4000,
     "Title": "レンズ越しの夏祭り",
     "Order": 3,
-    "RequiredReadEpisodeMasterId": 2000402
+    "RequiredReadEpisodeMasterId": 2000402,
+    "EpisodeRewardPackageMasterId": 2000403
   },
   {
     "Id": 2000404,
@@ -221,7 +248,8 @@
     "RequiredTotalAcquiredPoint": 8000,
     "Title": "フィルムの外のありがとう",
     "Order": 4,
-    "RequiredReadEpisodeMasterId": 2000403
+    "RequiredReadEpisodeMasterId": 2000403,
+    "EpisodeRewardPackageMasterId": 2000404
   },
   {
     "Id": 2000405,
@@ -229,7 +257,8 @@
     "RequiredTotalAcquiredPoint": 16000,
     "Title": "きょうだいの面影",
     "Order": 5,
-    "RequiredReadEpisodeMasterId": 2000404
+    "RequiredReadEpisodeMasterId": 2000404,
+    "EpisodeRewardPackageMasterId": 2000405
   },
   {
     "Id": 2000406,
@@ -237,7 +266,8 @@
     "RequiredTotalAcquiredPoint": 32000,
     "Title": "居心地の良い場所",
     "Order": 6,
-    "RequiredReadEpisodeMasterId": 2000405
+    "RequiredReadEpisodeMasterId": 2000405,
+    "EpisodeRewardPackageMasterId": 2000406
   },
   {
     "Id": 2000407,
@@ -245,7 +275,8 @@
     "RequiredTotalAcquiredPoint": 64000,
     "Title": "打ち上げ花火",
     "Order": 7,
-    "RequiredReadEpisodeMasterId": 2000406
+    "RequiredReadEpisodeMasterId": 2000406,
+    "EpisodeRewardPackageMasterId": 2000407
   },
   {
     "Id": 2000408,
@@ -253,7 +284,8 @@
     "RequiredTotalAcquiredPoint": 128000,
     "Title": "祭りのあと",
     "Order": 8,
-    "RequiredReadEpisodeMasterId": 2000407
+    "RequiredReadEpisodeMasterId": 2000407,
+    "EpisodeRewardPackageMasterId": 2000408
   },
   {
     "Id": 2000501,
@@ -261,7 +293,8 @@
     "RequiredTotalAcquiredPoint": 0,
     "Title": "白丸美兎の異変",
     "Order": 1,
-    "RequiredReadEpisodeMasterId": null
+    "RequiredReadEpisodeMasterId": null,
+    "EpisodeRewardPackageMasterId": 2000501
   },
   {
     "Id": 2000502,
@@ -269,7 +302,8 @@
     "RequiredTotalAcquiredPoint": 2000,
     "Title": "素敵な映画",
     "Order": 2,
-    "RequiredReadEpisodeMasterId": 2000501
+    "RequiredReadEpisodeMasterId": 2000501,
+    "EpisodeRewardPackageMasterId": 2000502
   },
   {
     "Id": 2000503,
@@ -277,7 +311,8 @@
     "RequiredTotalAcquiredPoint": 4000,
     "Title": "白丸美兎の苦悩",
     "Order": 3,
-    "RequiredReadEpisodeMasterId": 2000502
+    "RequiredReadEpisodeMasterId": 2000502,
+    "EpisodeRewardPackageMasterId": 2000503
   },
   {
     "Id": 2000504,
@@ -285,7 +320,8 @@
     "RequiredTotalAcquiredPoint": 8000,
     "Title": "力になりたい、なのに",
     "Order": 4,
-    "RequiredReadEpisodeMasterId": 2000503
+    "RequiredReadEpisodeMasterId": 2000503,
+    "EpisodeRewardPackageMasterId": 2000504
   },
   {
     "Id": 2000505,
@@ -293,7 +329,8 @@
     "RequiredTotalAcquiredPoint": 16000,
     "Title": "白丸美兎の過去（前編）",
     "Order": 5,
-    "RequiredReadEpisodeMasterId": 2000504
+    "RequiredReadEpisodeMasterId": 2000504,
+    "EpisodeRewardPackageMasterId": 2000505
   },
   {
     "Id": 2000506,
@@ -301,7 +338,8 @@
     "RequiredTotalAcquiredPoint": 32000,
     "Title": "白丸美兎の過去（後編）",
     "Order": 6,
-    "RequiredReadEpisodeMasterId": 2000505
+    "RequiredReadEpisodeMasterId": 2000505,
+    "EpisodeRewardPackageMasterId": 2000506
   },
   {
     "Id": 2000507,
@@ -309,7 +347,8 @@
     "RequiredTotalAcquiredPoint": 64000,
     "Title": "白丸美兎の現在",
     "Order": 7,
-    "RequiredReadEpisodeMasterId": 2000506
+    "RequiredReadEpisodeMasterId": 2000506,
+    "EpisodeRewardPackageMasterId": 2000507
   },
   {
     "Id": 2000508,
@@ -317,7 +356,8 @@
     "RequiredTotalAcquiredPoint": 128000,
     "Title": "白丸美兎のこれから",
     "Order": 8,
-    "RequiredReadEpisodeMasterId": 2000507
+    "RequiredReadEpisodeMasterId": 2000507,
+    "EpisodeRewardPackageMasterId": 2000508
   },
   {
     "Id": 2000601,
@@ -325,7 +365,8 @@
     "RequiredTotalAcquiredPoint": 0,
     "Title": "気合入れてこー！",
     "Order": 1,
-    "RequiredReadEpisodeMasterId": null
+    "RequiredReadEpisodeMasterId": null,
+    "EpisodeRewardPackageMasterId": 2000601
   },
   {
     "Id": 2000602,
@@ -333,7 +374,8 @@
     "RequiredTotalAcquiredPoint": 2000,
     "Title": "開会宣言！",
     "Order": 2,
-    "RequiredReadEpisodeMasterId": 2000601
+    "RequiredReadEpisodeMasterId": 2000601,
+    "EpisodeRewardPackageMasterId": 2000602
   },
   {
     "Id": 2000603,
@@ -341,7 +383,8 @@
     "RequiredTotalAcquiredPoint": 4000,
     "Title": "本気の勝負！",
     "Order": 3,
-    "RequiredReadEpisodeMasterId": 2000602
+    "RequiredReadEpisodeMasterId": 2000602,
+    "EpisodeRewardPackageMasterId": 2000603
   },
   {
     "Id": 2000604,
@@ -349,7 +392,8 @@
     "RequiredTotalAcquiredPoint": 8000,
     "Title": "つかの間の休息！",
     "Order": 4,
-    "RequiredReadEpisodeMasterId": 2000603
+    "RequiredReadEpisodeMasterId": 2000603,
+    "EpisodeRewardPackageMasterId": 2000604
   },
   {
     "Id": 2000605,
@@ -357,7 +401,8 @@
     "RequiredTotalAcquiredPoint": 16000,
     "Title": "応援合戦！",
     "Order": 5,
-    "RequiredReadEpisodeMasterId": 2000604
+    "RequiredReadEpisodeMasterId": 2000604,
+    "EpisodeRewardPackageMasterId": 2000605
   },
   {
     "Id": 2000606,
@@ -365,7 +410,8 @@
     "RequiredTotalAcquiredPoint": 32000,
     "Title": "負けられない！",
     "Order": 6,
-    "RequiredReadEpisodeMasterId": 2000605
+    "RequiredReadEpisodeMasterId": 2000605,
+    "EpisodeRewardPackageMasterId": 2000606
   },
   {
     "Id": 2000607,
@@ -373,7 +419,8 @@
     "RequiredTotalAcquiredPoint": 64000,
     "Title": "勝ちたい！！",
     "Order": 7,
-    "RequiredReadEpisodeMasterId": 2000606
+    "RequiredReadEpisodeMasterId": 2000606,
+    "EpisodeRewardPackageMasterId": 2000607
   },
   {
     "Id": 2000608,
@@ -381,7 +428,8 @@
     "RequiredTotalAcquiredPoint": 128000,
     "Title": "閉会宣言！",
     "Order": 8,
-    "RequiredReadEpisodeMasterId": 2000607
+    "RequiredReadEpisodeMasterId": 2000607,
+    "EpisodeRewardPackageMasterId": 2000608
   },
   {
     "Id": 2000701,
@@ -389,7 +437,8 @@
     "RequiredTotalAcquiredPoint": 0,
     "Title": "面倒見の良い先輩",
     "Order": 1,
-    "RequiredReadEpisodeMasterId": null
+    "RequiredReadEpisodeMasterId": null,
+    "EpisodeRewardPackageMasterId": 2000701
   },
   {
     "Id": 2000702,
@@ -397,7 +446,8 @@
     "RequiredTotalAcquiredPoint": 2000,
     "Title": "一緒の舞台に",
     "Order": 2,
-    "RequiredReadEpisodeMasterId": 2000701
+    "RequiredReadEpisodeMasterId": 2000701,
+    "EpisodeRewardPackageMasterId": 2000702
   },
   {
     "Id": 2000703,
@@ -405,7 +455,8 @@
     "RequiredTotalAcquiredPoint": 4000,
     "Title": "銀河座の役者",
     "Order": 3,
-    "RequiredReadEpisodeMasterId": 2000702
+    "RequiredReadEpisodeMasterId": 2000702,
+    "EpisodeRewardPackageMasterId": 2000703
   },
   {
     "Id": 2000704,
@@ -413,7 +464,8 @@
     "RequiredTotalAcquiredPoint": 8000,
     "Title": "窮屈な舞台",
     "Order": 4,
-    "RequiredReadEpisodeMasterId": 2000703
+    "RequiredReadEpisodeMasterId": 2000703,
+    "EpisodeRewardPackageMasterId": 2000704
   },
   {
     "Id": 2000705,
@@ -421,7 +473,8 @@
     "RequiredTotalAcquiredPoint": 16000,
     "Title": "きれいはきたない",
     "Order": 5,
-    "RequiredReadEpisodeMasterId": 2000704
+    "RequiredReadEpisodeMasterId": 2000704,
+    "EpisodeRewardPackageMasterId": 2000705
   },
   {
     "Id": 2000706,
@@ -429,7 +482,8 @@
     "RequiredTotalAcquiredPoint": 32000,
     "Title": "眠りを殺したマクベス",
     "Order": 6,
-    "RequiredReadEpisodeMasterId": 2000705
+    "RequiredReadEpisodeMasterId": 2000705,
+    "EpisodeRewardPackageMasterId": 2000706
   },
   {
     "Id": 2000707,
@@ -437,7 +491,8 @@
     "RequiredTotalAcquiredPoint": 64000,
     "Title": "決裂",
     "Order": 7,
-    "RequiredReadEpisodeMasterId": 2000706
+    "RequiredReadEpisodeMasterId": 2000706,
+    "EpisodeRewardPackageMasterId": 2000707
   },
   {
     "Id": 2000708,
@@ -445,7 +500,8 @@
     "RequiredTotalAcquiredPoint": 128000,
     "Title": "互いのいるべき場所で",
     "Order": 8,
-    "RequiredReadEpisodeMasterId": 2000707
+    "RequiredReadEpisodeMasterId": 2000707,
+    "EpisodeRewardPackageMasterId": 2000708
   },
   {
     "Id": 2000801,
@@ -453,7 +509,8 @@
     "RequiredTotalAcquiredPoint": 0,
     "Title": "決めてみた",
     "Order": 1,
-    "RequiredReadEpisodeMasterId": null
+    "RequiredReadEpisodeMasterId": null,
+    "EpisodeRewardPackageMasterId": 2000801
   },
   {
     "Id": 2000802,
@@ -461,7 +518,8 @@
     "RequiredTotalAcquiredPoint": 2000,
     "Title": "行ってみた",
     "Order": 2,
-    "RequiredReadEpisodeMasterId": 2000801
+    "RequiredReadEpisodeMasterId": 2000801,
+    "EpisodeRewardPackageMasterId": 2000802
   },
   {
     "Id": 2000803,
@@ -469,7 +527,8 @@
     "RequiredTotalAcquiredPoint": 4000,
     "Title": "聞いてみた",
     "Order": 3,
-    "RequiredReadEpisodeMasterId": 2000802
+    "RequiredReadEpisodeMasterId": 2000802,
+    "EpisodeRewardPackageMasterId": 2000803
   },
   {
     "Id": 2000804,
@@ -477,7 +536,8 @@
     "RequiredTotalAcquiredPoint": 8000,
     "Title": "撮ってみた",
     "Order": 4,
-    "RequiredReadEpisodeMasterId": 2000803
+    "RequiredReadEpisodeMasterId": 2000803,
+    "EpisodeRewardPackageMasterId": 2000804
   },
   {
     "Id": 2000805,
@@ -485,7 +545,8 @@
     "RequiredTotalAcquiredPoint": 16000,
     "Title": "調べてみた",
     "Order": 5,
-    "RequiredReadEpisodeMasterId": 2000804
+    "RequiredReadEpisodeMasterId": 2000804,
+    "EpisodeRewardPackageMasterId": 2000805
   },
   {
     "Id": 2000806,
@@ -493,7 +554,8 @@
     "RequiredTotalAcquiredPoint": 32000,
     "Title": "迷っちゃった",
     "Order": 6,
-    "RequiredReadEpisodeMasterId": 2000805
+    "RequiredReadEpisodeMasterId": 2000805,
+    "EpisodeRewardPackageMasterId": 2000806
   },
   {
     "Id": 2000807,
@@ -501,7 +563,8 @@
     "RequiredTotalAcquiredPoint": 64000,
     "Title": "編集してみた",
     "Order": 7,
-    "RequiredReadEpisodeMasterId": 2000806
+    "RequiredReadEpisodeMasterId": 2000806,
+    "EpisodeRewardPackageMasterId": 2000807
   },
   {
     "Id": 2000808,
@@ -509,7 +572,8 @@
     "RequiredTotalAcquiredPoint": 128000,
     "Title": "想像、してみた",
     "Order": 8,
-    "RequiredReadEpisodeMasterId": 2000807
+    "RequiredReadEpisodeMasterId": 2000807,
+    "EpisodeRewardPackageMasterId": 2000808
   },
   {
     "Id": 2000901,
@@ -517,7 +581,8 @@
     "RequiredTotalAcquiredPoint": 0,
     "Title": "明日遊び行かない？",
     "Order": 1,
-    "RequiredReadEpisodeMasterId": null
+    "RequiredReadEpisodeMasterId": null,
+    "EpisodeRewardPackageMasterId": 2000901
   },
   {
     "Id": 2000902,
@@ -525,7 +590,8 @@
     "RequiredTotalAcquiredPoint": 2000,
     "Title": "頑張っちゃいますんで",
     "Order": 2,
-    "RequiredReadEpisodeMasterId": 2000901
+    "RequiredReadEpisodeMasterId": 2000901,
+    "EpisodeRewardPackageMasterId": 2000902
   },
   {
     "Id": 2000903,
@@ -533,7 +599,8 @@
     "RequiredTotalAcquiredPoint": 4000,
     "Title": "ぱんだにお任せください",
     "Order": 3,
-    "RequiredReadEpisodeMasterId": 2000902
+    "RequiredReadEpisodeMasterId": 2000902,
+    "EpisodeRewardPackageMasterId": 2000903
   },
   {
     "Id": 2000904,
@@ -541,7 +608,8 @@
     "RequiredTotalAcquiredPoint": 8000,
     "Title": "いっちゃいましょう！",
     "Order": 4,
-    "RequiredReadEpisodeMasterId": 2000903
+    "RequiredReadEpisodeMasterId": 2000903,
+    "EpisodeRewardPackageMasterId": 2000904
   },
   {
     "Id": 2000905,
@@ -549,7 +617,8 @@
     "RequiredTotalAcquiredPoint": 16000,
     "Title": "ガールズトーク",
     "Order": 5,
-    "RequiredReadEpisodeMasterId": 2000904
+    "RequiredReadEpisodeMasterId": 2000904,
+    "EpisodeRewardPackageMasterId": 2000905
   },
   {
     "Id": 2000906,
@@ -557,7 +626,8 @@
     "RequiredTotalAcquiredPoint": 32000,
     "Title": "人生はさまよう影法師",
     "Order": 6,
-    "RequiredReadEpisodeMasterId": 2000905
+    "RequiredReadEpisodeMasterId": 2000905,
+    "EpisodeRewardPackageMasterId": 2000906
   },
   {
     "Id": 2000907,
@@ -565,7 +635,8 @@
     "RequiredTotalAcquiredPoint": 64000,
     "Title": "知ってる？",
     "Order": 7,
-    "RequiredReadEpisodeMasterId": 2000906
+    "RequiredReadEpisodeMasterId": 2000906,
+    "EpisodeRewardPackageMasterId": 2000907
   },
   {
     "Id": 2000908,
@@ -573,7 +644,8 @@
     "RequiredTotalAcquiredPoint": 128000,
     "Title": "今日はどんな一日だった？",
     "Order": 8,
-    "RequiredReadEpisodeMasterId": 2000907
+    "RequiredReadEpisodeMasterId": 2000907,
+    "EpisodeRewardPackageMasterId": 2000908
   },
   {
     "Id": 2001001,
@@ -581,7 +653,8 @@
     "RequiredTotalAcquiredPoint": 0,
     "Title": "特別なイベント",
     "Order": 1,
-    "RequiredReadEpisodeMasterId": null
+    "RequiredReadEpisodeMasterId": null,
+    "EpisodeRewardPackageMasterId": 2001001
   },
   {
     "Id": 2001002,
@@ -589,7 +662,8 @@
     "RequiredTotalAcquiredPoint": 2000,
     "Title": "このメンバーで",
     "Order": 2,
-    "RequiredReadEpisodeMasterId": 2001001
+    "RequiredReadEpisodeMasterId": 2001001,
+    "EpisodeRewardPackageMasterId": 2001002
   },
   {
     "Id": 2001003,
@@ -597,7 +671,8 @@
     "RequiredTotalAcquiredPoint": 4000,
     "Title": "ヒートアップ",
     "Order": 3,
-    "RequiredReadEpisodeMasterId": 2001002
+    "RequiredReadEpisodeMasterId": 2001002,
+    "EpisodeRewardPackageMasterId": 2001003
   },
   {
     "Id": 2001004,
@@ -605,7 +680,8 @@
     "RequiredTotalAcquiredPoint": 8000,
     "Title": "５人じゃないと",
     "Order": 4,
-    "RequiredReadEpisodeMasterId": 2001003
+    "RequiredReadEpisodeMasterId": 2001003,
+    "EpisodeRewardPackageMasterId": 2001004
   },
   {
     "Id": 2001005,
@@ -613,7 +689,8 @@
     "RequiredTotalAcquiredPoint": 16000,
     "Title": "熱くなる理由",
     "Order": 5,
-    "RequiredReadEpisodeMasterId": 2001004
+    "RequiredReadEpisodeMasterId": 2001004,
+    "EpisodeRewardPackageMasterId": 2001005
   },
   {
     "Id": 2001006,
@@ -621,7 +698,8 @@
     "RequiredTotalAcquiredPoint": 32000,
     "Title": "コンテスト当日",
     "Order": 6,
-    "RequiredReadEpisodeMasterId": 2001005
+    "RequiredReadEpisodeMasterId": 2001005,
+    "EpisodeRewardPackageMasterId": 2001006
   },
   {
     "Id": 2001007,
@@ -629,7 +707,8 @@
     "RequiredTotalAcquiredPoint": 64000,
     "Title": "全力で",
     "Order": 7,
-    "RequiredReadEpisodeMasterId": 2001006
+    "RequiredReadEpisodeMasterId": 2001006,
+    "EpisodeRewardPackageMasterId": 2001007
   },
   {
     "Id": 2001008,
@@ -637,7 +716,8 @@
     "RequiredTotalAcquiredPoint": 128000,
     "Title": "みんながいたから",
     "Order": 8,
-    "RequiredReadEpisodeMasterId": 2001007
+    "RequiredReadEpisodeMasterId": 2001007,
+    "EpisodeRewardPackageMasterId": 2001008
   },
   {
     "Id": 2001101,
@@ -645,7 +725,8 @@
     "RequiredTotalAcquiredPoint": 0,
     "Title": "さらば、愛しき……",
     "Order": 1,
-    "RequiredReadEpisodeMasterId": null
+    "RequiredReadEpisodeMasterId": null,
+    "EpisodeRewardPackageMasterId": 2001101
   },
   {
     "Id": 2001102,
@@ -653,7 +734,8 @@
     "RequiredTotalAcquiredPoint": 2000,
     "Title": "渦中の女",
     "Order": 2,
-    "RequiredReadEpisodeMasterId": 2001101
+    "RequiredReadEpisodeMasterId": 2001101,
+    "EpisodeRewardPackageMasterId": 2001102
   },
   {
     "Id": 2001103,
@@ -661,7 +743,8 @@
     "RequiredTotalAcquiredPoint": 4000,
     "Title": "タフでなければ生きていけない",
     "Order": 3,
-    "RequiredReadEpisodeMasterId": 2001102
+    "RequiredReadEpisodeMasterId": 2001102,
+    "EpisodeRewardPackageMasterId": 2001103
   },
   {
     "Id": 2001104,
@@ -669,7 +752,8 @@
     "RequiredTotalAcquiredPoint": 8000,
     "Title": "自分で自分に仕掛ける罠",
     "Order": 4,
-    "RequiredReadEpisodeMasterId": 2001103
+    "RequiredReadEpisodeMasterId": 2001103,
+    "EpisodeRewardPackageMasterId": 2001104
   },
   {
     "Id": 2001105,
@@ -677,7 +761,8 @@
     "RequiredTotalAcquiredPoint": 16000,
     "Title": "リトルシスター",
     "Order": 5,
-    "RequiredReadEpisodeMasterId": 2001104
+    "RequiredReadEpisodeMasterId": 2001104,
+    "EpisodeRewardPackageMasterId": 2001105
   },
   {
     "Id": 2001106,
@@ -685,7 +770,8 @@
     "RequiredTotalAcquiredPoint": 32000,
     "Title": "プレイバック",
     "Order": 6,
-    "RequiredReadEpisodeMasterId": 2001105
+    "RequiredReadEpisodeMasterId": 2001105,
+    "EpisodeRewardPackageMasterId": 2001106
   },
   {
     "Id": 2001107,
@@ -693,7 +779,8 @@
     "RequiredTotalAcquiredPoint": 64000,
     "Title": "優しくなれなければ",
     "Order": 7,
-    "RequiredReadEpisodeMasterId": 2001106
+    "RequiredReadEpisodeMasterId": 2001106,
+    "EpisodeRewardPackageMasterId": 2001107
   },
   {
     "Id": 2001108,
@@ -701,7 +788,8 @@
     "RequiredTotalAcquiredPoint": 128000,
     "Title": "ギムレットには早すぎる",
     "Order": 8,
-    "RequiredReadEpisodeMasterId": 2001107
+    "RequiredReadEpisodeMasterId": 2001107,
+    "EpisodeRewardPackageMasterId": 2001108
   },
   {
     "Id": 2001201,
@@ -709,7 +797,8 @@
     "RequiredTotalAcquiredPoint": 0,
     "Title": "器用でかっこいい女の子",
     "Order": 1,
-    "RequiredReadEpisodeMasterId": null
+    "RequiredReadEpisodeMasterId": null,
+    "EpisodeRewardPackageMasterId": 2001201
   },
   {
     "Id": 2001202,
@@ -717,7 +806,8 @@
     "RequiredTotalAcquiredPoint": 2000,
     "Title": "手がつけられない女の子",
     "Order": 2,
-    "RequiredReadEpisodeMasterId": 2001201
+    "RequiredReadEpisodeMasterId": 2001201,
+    "EpisodeRewardPackageMasterId": 2001202
   },
   {
     "Id": 2001203,
@@ -725,7 +815,8 @@
     "RequiredTotalAcquiredPoint": 4000,
     "Title": "先生よりも大人な女の子",
     "Order": 3,
-    "RequiredReadEpisodeMasterId": 2001202
+    "RequiredReadEpisodeMasterId": 2001202,
+    "EpisodeRewardPackageMasterId": 2001203
   },
   {
     "Id": 2001204,
@@ -733,7 +824,8 @@
     "RequiredTotalAcquiredPoint": 8000,
     "Title": "ごーどーれく",
     "Order": 4,
-    "RequiredReadEpisodeMasterId": 2001203
+    "RequiredReadEpisodeMasterId": 2001203,
+    "EpisodeRewardPackageMasterId": 2001204
   },
   {
     "Id": 2001205,
@@ -741,7 +833,8 @@
     "RequiredTotalAcquiredPoint": 16000,
     "Title": "もしかしていける？",
     "Order": 5,
-    "RequiredReadEpisodeMasterId": 2001204
+    "RequiredReadEpisodeMasterId": 2001204,
+    "EpisodeRewardPackageMasterId": 2001205
   },
   {
     "Id": 2001206,
@@ -749,7 +842,8 @@
     "RequiredTotalAcquiredPoint": 32000,
     "Title": "せめてもう一回くらいは",
     "Order": 6,
-    "RequiredReadEpisodeMasterId": 2001205
+    "RequiredReadEpisodeMasterId": 2001205,
+    "EpisodeRewardPackageMasterId": 2001206
   },
   {
     "Id": 2001207,
@@ -757,7 +851,8 @@
     "RequiredTotalAcquiredPoint": 64000,
     "Title": "バカうさぎ",
     "Order": 7,
-    "RequiredReadEpisodeMasterId": 2001206
+    "RequiredReadEpisodeMasterId": 2001206,
+    "EpisodeRewardPackageMasterId": 2001207
   },
   {
     "Id": 2001208,
@@ -765,6 +860,7 @@
     "RequiredTotalAcquiredPoint": 128000,
     "Title": "叫びたいかも",
     "Order": 8,
-    "RequiredReadEpisodeMasterId": 2001207
+    "RequiredReadEpisodeMasterId": 2001207,
+    "EpisodeRewardPackageMasterId": 2001208
   }
 ]

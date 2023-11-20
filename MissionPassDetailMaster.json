@@ -10,7 +10,7 @@
       {
         "Id": 101,
         "ThingId": 130021,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 500,
         "MissionPassDetailMasterId": 1,
         "IsSp": false
@@ -18,7 +18,7 @@
       {
         "Id": 102,
         "ThingId": 0,
-        "ThingType": 12,
+        "ThingType": "Coin",
         "ThingQuantity": 50000,
         "MissionPassDetailMasterId": 1,
         "IsSp": true
@@ -36,7 +36,7 @@
       {
         "Id": 201,
         "ThingId": 130031,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 250,
         "MissionPassDetailMasterId": 2,
         "IsSp": false
@@ -44,7 +44,7 @@
       {
         "Id": 202,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 250,
         "MissionPassDetailMasterId": 2,
         "IsSp": true
@@ -62,7 +62,7 @@
       {
         "Id": 301,
         "ThingId": 130041,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 200,
         "MissionPassDetailMasterId": 3,
         "IsSp": false
@@ -70,7 +70,7 @@
       {
         "Id": 302,
         "ThingId": 0,
-        "ThingType": 12,
+        "ThingType": "Coin",
         "ThingQuantity": 50000,
         "MissionPassDetailMasterId": 3,
         "IsSp": true
@@ -88,7 +88,7 @@
       {
         "Id": 401,
         "ThingId": 130001,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 5,
         "MissionPassDetailMasterId": 4,
         "IsSp": false
@@ -96,7 +96,7 @@
       {
         "Id": 402,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 250,
         "MissionPassDetailMasterId": 4,
         "IsSp": true
@@ -114,7 +114,7 @@
       {
         "Id": 501,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 50,
         "MissionPassDetailMasterId": 5,
         "IsSp": false
@@ -122,7 +122,7 @@
       {
         "Id": 502,
         "ThingId": 211001,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 5,
         "MissionPassDetailMasterId": 5,
         "IsSp": true
@@ -140,7 +140,7 @@
       {
         "Id": 601,
         "ThingId": 130022,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 500,
         "MissionPassDetailMasterId": 6,
         "IsSp": false
@@ -148,7 +148,7 @@
       {
         "Id": 602,
         "ThingId": 0,
-        "ThingType": 12,
+        "ThingType": "Coin",
         "ThingQuantity": 50000,
         "MissionPassDetailMasterId": 6,
         "IsSp": true
@@ -166,7 +166,7 @@
       {
         "Id": 701,
         "ThingId": 130032,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 250,
         "MissionPassDetailMasterId": 7,
         "IsSp": false
@@ -174,7 +174,7 @@
       {
         "Id": 702,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 250,
         "MissionPassDetailMasterId": 7,
         "IsSp": true
@@ -192,7 +192,7 @@
       {
         "Id": 801,
         "ThingId": 130061,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 300,
         "MissionPassDetailMasterId": 8,
         "IsSp": false
@@ -200,7 +200,7 @@
       {
         "Id": 802,
         "ThingId": 0,
-        "ThingType": 12,
+        "ThingType": "Coin",
         "ThingQuantity": 50000,
         "MissionPassDetailMasterId": 8,
         "IsSp": true
@@ -218,7 +218,7 @@
       {
         "Id": 901,
         "ThingId": 130001,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 5,
         "MissionPassDetailMasterId": 9,
         "IsSp": false
@@ -226,7 +226,7 @@
       {
         "Id": 902,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 250,
         "MissionPassDetailMasterId": 9,
         "IsSp": true
@@ -244,7 +244,7 @@
       {
         "Id": 1001,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 50,
         "MissionPassDetailMasterId": 10,
         "IsSp": false
@@ -252,7 +252,7 @@
       {
         "Id": 1002,
         "ThingId": 130051,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 20,
         "MissionPassDetailMasterId": 10,
         "IsSp": true
@@ -270,7 +270,7 @@
       {
         "Id": 1101,
         "ThingId": 130023,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 500,
         "MissionPassDetailMasterId": 11,
         "IsSp": false
@@ -278,7 +278,7 @@
       {
         "Id": 1102,
         "ThingId": 0,
-        "ThingType": 12,
+        "ThingType": "Coin",
         "ThingQuantity": 50000,
         "MissionPassDetailMasterId": 11,
         "IsSp": true
@@ -296,7 +296,7 @@
       {
         "Id": 1201,
         "ThingId": 130033,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 250,
         "MissionPassDetailMasterId": 12,
         "IsSp": false
@@ -304,7 +304,7 @@
       {
         "Id": 1202,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 250,
         "MissionPassDetailMasterId": 12,
         "IsSp": true
@@ -322,7 +322,7 @@
       {
         "Id": 1301,
         "ThingId": 130042,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 50,
         "MissionPassDetailMasterId": 13,
         "IsSp": false
@@ -330,7 +330,7 @@
       {
         "Id": 1302,
         "ThingId": 0,
-        "ThingType": 12,
+        "ThingType": "Coin",
         "ThingQuantity": 50000,
         "MissionPassDetailMasterId": 13,
         "IsSp": true
@@ -348,7 +348,7 @@
       {
         "Id": 1401,
         "ThingId": 0,
-        "ThingType": 12,
+        "ThingType": "Coin",
         "ThingQuantity": 50000,
         "MissionPassDetailMasterId": 14,
         "IsSp": false
@@ -356,7 +356,7 @@
       {
         "Id": 1402,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 250,
         "MissionPassDetailMasterId": 14,
         "IsSp": true
@@ -374,7 +374,7 @@
       {
         "Id": 1501,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 50,
         "MissionPassDetailMasterId": 15,
         "IsSp": false
@@ -382,7 +382,7 @@
       {
         "Id": 1502,
         "ThingId": 211001,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 5,
         "MissionPassDetailMasterId": 15,
         "IsSp": true
@@ -400,7 +400,7 @@
       {
         "Id": 1601,
         "ThingId": 130024,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 500,
         "MissionPassDetailMasterId": 16,
         "IsSp": false
@@ -408,7 +408,7 @@
       {
         "Id": 1602,
         "ThingId": 0,
-        "ThingType": 12,
+        "ThingType": "Coin",
         "ThingQuantity": 50000,
         "MissionPassDetailMasterId": 16,
         "IsSp": true
@@ -426,7 +426,7 @@
       {
         "Id": 1701,
         "ThingId": 130034,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 250,
         "MissionPassDetailMasterId": 17,
         "IsSp": false
@@ -434,7 +434,7 @@
       {
         "Id": 1702,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 250,
         "MissionPassDetailMasterId": 17,
         "IsSp": true
@@ -452,7 +452,7 @@
       {
         "Id": 1801,
         "ThingId": 130062,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100,
         "MissionPassDetailMasterId": 18,
         "IsSp": false
@@ -460,7 +460,7 @@
       {
         "Id": 1802,
         "ThingId": 0,
-        "ThingType": 12,
+        "ThingType": "Coin",
         "ThingQuantity": 50000,
         "MissionPassDetailMasterId": 18,
         "IsSp": true
@@ -478,7 +478,7 @@
       {
         "Id": 1901,
         "ThingId": 0,
-        "ThingType": 12,
+        "ThingType": "Coin",
         "ThingQuantity": 50000,
         "MissionPassDetailMasterId": 19,
         "IsSp": false
@@ -486,7 +486,7 @@
       {
         "Id": 1902,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 250,
         "MissionPassDetailMasterId": 19,
         "IsSp": true
@@ -504,7 +504,7 @@
       {
         "Id": 2001,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 50,
         "MissionPassDetailMasterId": 20,
         "IsSp": false
@@ -512,7 +512,7 @@
       {
         "Id": 2002,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 100,
         "MissionPassDetailMasterId": 20,
         "IsSp": true
@@ -530,7 +530,7 @@
       {
         "Id": 2101,
         "ThingId": 120002,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 30,
         "MissionPassDetailMasterId": 21,
         "IsSp": false
@@ -538,7 +538,7 @@
       {
         "Id": 2102,
         "ThingId": 0,
-        "ThingType": 12,
+        "ThingType": "Coin",
         "ThingQuantity": 50000,
         "MissionPassDetailMasterId": 21,
         "IsSp": true
@@ -556,7 +556,7 @@
       {
         "Id": 2201,
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 20,
         "MissionPassDetailMasterId": 22,
         "IsSp": false
@@ -564,7 +564,7 @@
       {
         "Id": 2202,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 250,
         "MissionPassDetailMasterId": 22,
         "IsSp": true
@@ -582,7 +582,7 @@
       {
         "Id": 2301,
         "ThingId": 0,
-        "ThingType": 12,
+        "ThingType": "Coin",
         "ThingQuantity": 50000,
         "MissionPassDetailMasterId": 23,
         "IsSp": false
@@ -590,7 +590,7 @@
       {
         "Id": 2302,
         "ThingId": 0,
-        "ThingType": 12,
+        "ThingType": "Coin",
         "ThingQuantity": 50000,
         "MissionPassDetailMasterId": 23,
         "IsSp": true
@@ -608,7 +608,7 @@
       {
         "Id": 2401,
         "ThingId": 510001,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 2,
         "MissionPassDetailMasterId": 24,
         "IsSp": false
@@ -616,7 +616,7 @@
       {
         "Id": 2402,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 250,
         "MissionPassDetailMasterId": 24,
         "IsSp": true
@@ -634,7 +634,7 @@
       {
         "Id": 2501,
         "ThingId": 130013,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 2,
         "MissionPassDetailMasterId": 25,
         "IsSp": false
@@ -642,7 +642,7 @@
       {
         "Id": 2502,
         "ThingId": 211001,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 5,
         "MissionPassDetailMasterId": 25,
         "IsSp": true
@@ -660,7 +660,7 @@
       {
         "Id": 2601,
         "ThingId": 120003,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 5,
         "MissionPassDetailMasterId": 26,
         "IsSp": false
@@ -668,7 +668,7 @@
       {
         "Id": 2602,
         "ThingId": 0,
-        "ThingType": 12,
+        "ThingType": "Coin",
         "ThingQuantity": 50000,
         "MissionPassDetailMasterId": 26,
         "IsSp": true
@@ -686,7 +686,7 @@
       {
         "Id": 2701,
         "ThingId": 130063,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100,
         "MissionPassDetailMasterId": 27,
         "IsSp": false
@@ -694,7 +694,7 @@
       {
         "Id": 2702,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 250,
         "MissionPassDetailMasterId": 27,
         "IsSp": true
@@ -712,7 +712,7 @@
       {
         "Id": 2801,
         "ThingId": 0,
-        "ThingType": 12,
+        "ThingType": "Coin",
         "ThingQuantity": 50000,
         "MissionPassDetailMasterId": 28,
         "IsSp": false
@@ -720,7 +720,7 @@
       {
         "Id": 2802,
         "ThingId": 0,
-        "ThingType": 12,
+        "ThingType": "Coin",
         "ThingQuantity": 50000,
         "MissionPassDetailMasterId": 28,
         "IsSp": true
@@ -738,7 +738,7 @@
       {
         "Id": 2901,
         "ThingId": 510002,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 2,
         "MissionPassDetailMasterId": 29,
         "IsSp": false
@@ -746,7 +746,7 @@
       {
         "Id": 2902,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 250,
         "MissionPassDetailMasterId": 29,
         "IsSp": true
@@ -764,7 +764,7 @@
       {
         "Id": 3001,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 50,
         "MissionPassDetailMasterId": 30,
         "IsSp": false
@@ -772,7 +772,7 @@
       {
         "Id": 3002,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 100,
         "MissionPassDetailMasterId": 30,
         "IsSp": true
@@ -790,7 +790,7 @@
       {
         "Id": 3101,
         "ThingId": 130042,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 50,
         "MissionPassDetailMasterId": 31,
         "IsSp": false
@@ -798,7 +798,7 @@
       {
         "Id": 3102,
         "ThingId": 0,
-        "ThingType": 12,
+        "ThingType": "Coin",
         "ThingQuantity": 50000,
         "MissionPassDetailMasterId": 31,
         "IsSp": true
@@ -816,7 +816,7 @@
       {
         "Id": 3201,
         "ThingId": 0,
-        "ThingType": 12,
+        "ThingType": "Coin",
         "ThingQuantity": 75000,
         "MissionPassDetailMasterId": 32,
         "IsSp": false
@@ -824,7 +824,7 @@
       {
         "Id": 3202,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 250,
         "MissionPassDetailMasterId": 32,
         "IsSp": true
@@ -842,7 +842,7 @@
       {
         "Id": 3301,
         "ThingId": 130051,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 2,
         "MissionPassDetailMasterId": 33,
         "IsSp": false
@@ -850,7 +850,7 @@
       {
         "Id": 3302,
         "ThingId": 0,
-        "ThingType": 12,
+        "ThingType": "Coin",
         "ThingQuantity": 50000,
         "MissionPassDetailMasterId": 33,
         "IsSp": true
@@ -868,7 +868,7 @@
       {
         "Id": 3401,
         "ThingId": 130091,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 10,
         "MissionPassDetailMasterId": 34,
         "IsSp": false
@@ -876,7 +876,7 @@
       {
         "Id": 3402,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 250,
         "MissionPassDetailMasterId": 34,
         "IsSp": true
@@ -894,7 +894,7 @@
       {
         "Id": 3501,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 100,
         "MissionPassDetailMasterId": 35,
         "IsSp": false
@@ -902,7 +902,7 @@
       {
         "Id": 3502,
         "ThingId": 211001,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 5,
         "MissionPassDetailMasterId": 35,
         "IsSp": true
@@ -920,7 +920,7 @@
       {
         "Id": 3601,
         "ThingId": 120002,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 30,
         "MissionPassDetailMasterId": 36,
         "IsSp": false
@@ -928,7 +928,7 @@
       {
         "Id": 3602,
         "ThingId": 0,
-        "ThingType": 12,
+        "ThingType": "Coin",
         "ThingQuantity": 50000,
         "MissionPassDetailMasterId": 36,
         "IsSp": true
@@ -946,7 +946,7 @@
       {
         "Id": 3701,
         "ThingId": 130062,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 100,
         "MissionPassDetailMasterId": 37,
         "IsSp": false
@@ -954,7 +954,7 @@
       {
         "Id": 3702,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 250,
         "MissionPassDetailMasterId": 37,
         "IsSp": true
@@ -972,7 +972,7 @@
       {
         "Id": 3801,
         "ThingId": 0,
-        "ThingType": 12,
+        "ThingType": "Coin",
         "ThingQuantity": 75000,
         "MissionPassDetailMasterId": 38,
         "IsSp": false
@@ -980,7 +980,7 @@
       {
         "Id": 3802,
         "ThingId": 0,
-        "ThingType": 12,
+        "ThingType": "Coin",
         "ThingQuantity": 50000,
         "MissionPassDetailMasterId": 38,
         "IsSp": true
@@ -998,7 +998,7 @@
       {
         "Id": 3901,
         "ThingId": 510001,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 2,
         "MissionPassDetailMasterId": 39,
         "IsSp": false
@@ -1006,7 +1006,7 @@
       {
         "Id": 3902,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 250,
         "MissionPassDetailMasterId": 39,
         "IsSp": true
@@ -1024,7 +1024,7 @@
       {
         "Id": 4001,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 50,
         "MissionPassDetailMasterId": 40,
         "IsSp": false
@@ -1032,7 +1032,7 @@
       {
         "Id": 4002,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 100,
         "MissionPassDetailMasterId": 40,
         "IsSp": true
@@ -1050,7 +1050,7 @@
       {
         "Id": 4101,
         "ThingId": 120003,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 5,
         "MissionPassDetailMasterId": 41,
         "IsSp": false
@@ -1058,7 +1058,7 @@
       {
         "Id": 4102,
         "ThingId": 0,
-        "ThingType": 12,
+        "ThingType": "Coin",
         "ThingQuantity": 50000,
         "MissionPassDetailMasterId": 41,
         "IsSp": true
@@ -1076,7 +1076,7 @@
       {
         "Id": 4201,
         "ThingId": 130043,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 30,
         "MissionPassDetailMasterId": 42,
         "IsSp": false
@@ -1084,7 +1084,7 @@
       {
         "Id": 4202,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 250,
         "MissionPassDetailMasterId": 42,
         "IsSp": true
@@ -1102,7 +1102,7 @@
       {
         "Id": 4301,
         "ThingId": 0,
-        "ThingType": 12,
+        "ThingType": "Coin",
         "ThingQuantity": 75000,
         "MissionPassDetailMasterId": 43,
         "IsSp": false
@@ -1110,7 +1110,7 @@
       {
         "Id": 4302,
         "ThingId": 0,
-        "ThingType": 12,
+        "ThingType": "Coin",
         "ThingQuantity": 50000,
         "MissionPassDetailMasterId": 43,
         "IsSp": true
@@ -1128,7 +1128,7 @@
       {
         "Id": 4401,
         "ThingId": 510002,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 2,
         "MissionPassDetailMasterId": 44,
         "IsSp": false
@@ -1136,7 +1136,7 @@
       {
         "Id": 4402,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 250,
         "MissionPassDetailMasterId": 44,
         "IsSp": true
@@ -1154,7 +1154,7 @@
       {
         "Id": 4501,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 100,
         "MissionPassDetailMasterId": 45,
         "IsSp": false
@@ -1162,7 +1162,7 @@
       {
         "Id": 4502,
         "ThingId": 130091,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 50,
         "MissionPassDetailMasterId": 45,
         "IsSp": true
@@ -1180,7 +1180,7 @@
       {
         "Id": 4601,
         "ThingId": 510003,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 2,
         "MissionPassDetailMasterId": 46,
         "IsSp": false
@@ -1188,7 +1188,7 @@
       {
         "Id": 4602,
         "ThingId": 0,
-        "ThingType": 12,
+        "ThingType": "Coin",
         "ThingQuantity": 50000,
         "MissionPassDetailMasterId": 46,
         "IsSp": true
@@ -1206,7 +1206,7 @@
       {
         "Id": 4701,
         "ThingId": 0,
-        "ThingType": 12,
+        "ThingType": "Coin",
         "ThingQuantity": 75000,
         "MissionPassDetailMasterId": 47,
         "IsSp": false
@@ -1214,7 +1214,7 @@
       {
         "Id": 4702,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 250,
         "MissionPassDetailMasterId": 47,
         "IsSp": true
@@ -1232,7 +1232,7 @@
       {
         "Id": 4801,
         "ThingId": 130051,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 3,
         "MissionPassDetailMasterId": 48,
         "IsSp": false
@@ -1240,7 +1240,7 @@
       {
         "Id": 4802,
         "ThingId": 0,
-        "ThingType": 12,
+        "ThingType": "Coin",
         "ThingQuantity": 50000,
         "MissionPassDetailMasterId": 48,
         "IsSp": true
@@ -1258,7 +1258,7 @@
       {
         "Id": 4901,
         "ThingId": 130091,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 10,
         "MissionPassDetailMasterId": 49,
         "IsSp": false
@@ -1266,7 +1266,7 @@
       {
         "Id": 4902,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 250,
         "MissionPassDetailMasterId": 49,
         "IsSp": true
@@ -1284,7 +1284,7 @@
       {
         "Id": 5001,
         "ThingId": 130013,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 3,
         "MissionPassDetailMasterId": 50,
         "IsSp": false
@@ -1292,7 +1292,7 @@
       {
         "Id": 5002,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 100,
         "MissionPassDetailMasterId": 50,
         "IsSp": true
@@ -1310,7 +1310,7 @@
       {
         "Id": 12001,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 50,
         "MissionPassDetailMasterId": 120,
         "IsSp": false
@@ -1318,7 +1318,7 @@
       {
         "Id": 12002,
         "ThingId": 1081,
-        "ThingType": 5,
+        "ThingType": "Costume",
         "ThingQuantity": 1,
         "MissionPassDetailMasterId": 120,
         "IsSp": true
@@ -1336,7 +1336,7 @@
       {
         "Id": 13001,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 50,
         "MissionPassDetailMasterId": 130,
         "IsSp": false
@@ -1344,7 +1344,7 @@
       {
         "Id": 13002,
         "ThingId": 1091,
-        "ThingType": 5,
+        "ThingType": "Costume",
         "ThingQuantity": 1,
         "MissionPassDetailMasterId": 130,
         "IsSp": true
@@ -1362,7 +1362,7 @@
       {
         "Id": 14001,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 50,
         "MissionPassDetailMasterId": 140,
         "IsSp": false
@@ -1370,7 +1370,7 @@
       {
         "Id": 14002,
         "ThingId": 1101,
-        "ThingType": 5,
+        "ThingType": "Costume",
         "ThingQuantity": 1,
         "MissionPassDetailMasterId": 140,
         "IsSp": true
@@ -1388,7 +1388,7 @@
       {
         "Id": 15001,
         "ThingId": 130013,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 3,
         "MissionPassDetailMasterId": 150,
         "IsSp": false
@@ -1396,7 +1396,7 @@
       {
         "Id": 15002,
         "ThingId": 1111,
-        "ThingType": 5,
+        "ThingType": "Costume",
         "ThingQuantity": 1,
         "MissionPassDetailMasterId": 150,
         "IsSp": true
@@ -1414,7 +1414,7 @@
       {
         "Id": 22001,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 100,
         "MissionPassDetailMasterId": 220,
         "IsSp": false
@@ -1422,7 +1422,7 @@
       {
         "Id": 22002,
         "ThingId": 1261,
-        "ThingType": 5,
+        "ThingType": "Costume",
         "ThingQuantity": 1,
         "MissionPassDetailMasterId": 220,
         "IsSp": true
@@ -1440,7 +1440,7 @@
       {
         "Id": 23001,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 100,
         "MissionPassDetailMasterId": 230,
         "IsSp": false
@@ -1448,7 +1448,7 @@
       {
         "Id": 23002,
         "ThingId": 1262,
-        "ThingType": 5,
+        "ThingType": "Costume",
         "ThingQuantity": 1,
         "MissionPassDetailMasterId": 230,
         "IsSp": true
@@ -1466,7 +1466,7 @@
       {
         "Id": 24001,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 100,
         "MissionPassDetailMasterId": 240,
         "IsSp": false
@@ -1474,7 +1474,7 @@
       {
         "Id": 24002,
         "ThingId": 1263,
-        "ThingType": 5,
+        "ThingType": "Costume",
         "ThingQuantity": 1,
         "MissionPassDetailMasterId": 240,
         "IsSp": true
@@ -1492,7 +1492,7 @@
       {
         "Id": 25001,
         "ThingId": 130013,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 3,
         "MissionPassDetailMasterId": 250,
         "IsSp": false
@@ -1500,7 +1500,7 @@
       {
         "Id": 25002,
         "ThingId": 1264,
-        "ThingType": 5,
+        "ThingType": "Costume",
         "ThingQuantity": 1,
         "MissionPassDetailMasterId": 250,
         "IsSp": true
@@ -1518,7 +1518,7 @@
       {
         "Id": 32001,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 100,
         "MissionPassDetailMasterId": 320,
         "IsSp": false
@@ -1526,7 +1526,7 @@
       {
         "Id": 32002,
         "ThingId": 1351,
-        "ThingType": 5,
+        "ThingType": "Costume",
         "ThingQuantity": 1,
         "MissionPassDetailMasterId": 320,
         "IsSp": true
@@ -1544,7 +1544,7 @@
       {
         "Id": 33001,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 100,
         "MissionPassDetailMasterId": 330,
         "IsSp": false
@@ -1552,7 +1552,7 @@
       {
         "Id": 33002,
         "ThingId": 1352,
-        "ThingType": 5,
+        "ThingType": "Costume",
         "ThingQuantity": 1,
         "MissionPassDetailMasterId": 330,
         "IsSp": true
@@ -1570,7 +1570,7 @@
       {
         "Id": 34001,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 100,
         "MissionPassDetailMasterId": 340,
         "IsSp": false
@@ -1578,7 +1578,7 @@
       {
         "Id": 34002,
         "ThingId": 1353,
-        "ThingType": 5,
+        "ThingType": "Costume",
         "ThingQuantity": 1,
         "MissionPassDetailMasterId": 340,
         "IsSp": true
@@ -1596,7 +1596,7 @@
       {
         "Id": 35001,
         "ThingId": 130013,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 3,
         "MissionPassDetailMasterId": 350,
         "IsSp": false
@@ -1604,7 +1604,7 @@
       {
         "Id": 35002,
         "ThingId": 1354,
-        "ThingType": 5,
+        "ThingType": "Costume",
         "ThingQuantity": 1,
         "MissionPassDetailMasterId": 350,
         "IsSp": true
@@ -1622,7 +1622,7 @@
       {
         "Id": 42001,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 100,
         "MissionPassDetailMasterId": 420,
         "IsSp": false
@@ -1630,7 +1630,7 @@
       {
         "Id": 42002,
         "ThingId": 1471,
-        "ThingType": 5,
+        "ThingType": "Costume",
         "ThingQuantity": 1,
         "MissionPassDetailMasterId": 420,
         "IsSp": true
@@ -1648,7 +1648,7 @@
       {
         "Id": 43001,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 100,
         "MissionPassDetailMasterId": 430,
         "IsSp": false
@@ -1656,7 +1656,7 @@
       {
         "Id": 43002,
         "ThingId": 1472,
-        "ThingType": 5,
+        "ThingType": "Costume",
         "ThingQuantity": 1,
         "MissionPassDetailMasterId": 430,
         "IsSp": true
@@ -1674,7 +1674,7 @@
       {
         "Id": 44001,
         "ThingId": 0,
-        "ThingType": 13,
+        "ThingType": "Jewel",
         "ThingQuantity": 100,
         "MissionPassDetailMasterId": 440,
         "IsSp": false
@@ -1682,7 +1682,7 @@
       {
         "Id": 44002,
         "ThingId": 1473,
-        "ThingType": 5,
+        "ThingType": "Costume",
         "ThingQuantity": 1,
         "MissionPassDetailMasterId": 440,
         "IsSp": true
@@ -1700,7 +1700,7 @@
       {
         "Id": 45001,
         "ThingId": 130013,
-        "ThingType": 1,
+        "ThingType": "Item",
         "ThingQuantity": 3,
         "MissionPassDetailMasterId": 450,
         "IsSp": false
@@ -1708,7 +1708,7 @@
       {
         "Id": 45002,
         "ThingId": 1474,
-        "ThingType": 5,
+        "ThingType": "Costume",
         "ThingQuantity": 1,
         "MissionPassDetailMasterId": 450,
         "IsSp": true
