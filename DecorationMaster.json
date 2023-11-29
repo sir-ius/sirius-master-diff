@@ -165,6 +165,17 @@
     "MaxWidthPx": 360
   },
   {
+    "Id": 10401,
+    "Order": 10401,
+    "IsDefault": false,
+    "Name": "いろはのヘッドフォン",
+    "Category": "Special",
+    "WidhtPx": 240,
+    "HeightPx": 240,
+    "MinWidthPx": 48,
+    "MaxWidthPx": 360
+  },
+  {
     "Id": 201011,
     "Order": 201011,
     "IsDefault": true,

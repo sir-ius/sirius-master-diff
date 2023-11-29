@@ -2443,6 +2443,85 @@
     "MusicCoverType": "Original"
   },
   {
+    "Id": 70,
+    "Name": "ちいさないのちのさけるばしょ",
+    "Description": "",
+    "RewardRuleMasterId": 1,
+    "PronounceName": "ちいさないのちのさけるばしょ",
+    "LyricWriter": "松井洋平",
+    "Composer": "山本玲史",
+    "Arranger": "山本玲史",
+    "UnlockText": null,
+    "IsLongVersion": false,
+    "ReleasedAt": "2023-11-30T17:00:00.000Z",
+    "StaminaConsumption": 26,
+    "MusicTimeSecond": 100,
+    "Invisible": false,
+    "SampleStartSeconds": 0,
+    "SampleEndSeconds": 0,
+    "DelaySeconds": 0,
+    "VocalVersions": [
+      {
+        "Id": 7001,
+        "MusicMasterId": 70,
+        "VocalVersion": 1,
+        "Singer": "萬容、烏森大黒",
+        "Name": "ちいさないのちのさけるばしょ",
+        "MusicTimeSecond": 100,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": "RealTimeRendering",
+        "Characters": [
+          202,
+          204
+        ]
+      }
+    ],
+    "UnlockConditionType": "Default",
+    "UnlockConditionValue": null,
+    "MusicVideoType": "RealTimeRendering",
+    "MusicCoverType": "Original"
+  },
+  {
+    "Id": 71,
+    "Name": "いろはうたBLOOMING",
+    "Description": "",
+    "RewardRuleMasterId": 1,
+    "PronounceName": "いろはうたblooming",
+    "LyricWriter": "松井洋平",
+    "Composer": "光増ハジメ（FirstCall）",
+    "Arranger": "光増ハジメ（FirstCall）",
+    "UnlockText": null,
+    "IsLongVersion": false,
+    "ReleasedAt": "2023-11-30T17:00:00.000Z",
+    "StaminaConsumption": 26,
+    "MusicTimeSecond": 100,
+    "Invisible": false,
+    "SampleStartSeconds": 0,
+    "SampleEndSeconds": 0,
+    "DelaySeconds": 0,
+    "VocalVersions": [
+      {
+        "Id": 7101,
+        "MusicMasterId": 71,
+        "VocalVersion": 1,
+        "Singer": "千寿いろは",
+        "Name": "いろはうたBLOOMING",
+        "MusicTimeSecond": 100,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": "None",
+        "Characters": [
+          401
+        ]
+      }
+    ],
+    "UnlockConditionType": "Default",
+    "UnlockConditionValue": null,
+    "MusicVideoType": "None",
+    "MusicCoverType": "Original"
+  },
+  {
     "Id": 72,
     "Name": "DAYBREAK FRONTLINE",
     "Description": "",

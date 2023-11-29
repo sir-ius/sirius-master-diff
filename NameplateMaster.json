@@ -100,6 +100,16 @@
     "UnlockText": null
   },
   {
+    "Id": 1401,
+    "Name": "いろは【BirthDay 2023】",
+    "Description": null,
+    "Order": 1401,
+    "Hidden": true,
+    "IsDefault": false,
+    "Details": [],
+    "UnlockText": null
+  },
+  {
     "Id": 9000,
     "Name": "スター",
     "Description": null,

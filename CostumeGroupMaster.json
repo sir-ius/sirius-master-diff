@@ -1305,5 +1305,52 @@
     "IsHairChange": true,
     "DisplayStartAt": "2023-11-10T17:00:00.000Z",
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 152,
+    "Name": "親指姫と灰色のツバメ",
+    "Description": null,
+    "Order": 152,
+    "CostumeMasterIds": [
+      1521,
+      1522
+    ],
+    "CostumeWearableCharacterGroupMasterId": null,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2023-11-30T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 153,
+    "Name": "親指姫と灰色のツバメ",
+    "Description": null,
+    "Order": 153,
+    "CostumeMasterIds": [
+      1531,
+      1532
+    ],
+    "CostumeWearableCharacterGroupMasterId": 203,
+    "PerformanceGroupId": null,
+    "IsHairChange": true,
+    "DisplayStartAt": "2023-11-30T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 154,
+    "Name": "ゆるパーカー",
+    "Description": null,
+    "Order": 154,
+    "CostumeMasterIds": [
+      1541,
+      1542,
+      1543,
+      1544
+    ],
+    "CostumeWearableCharacterGroupMasterId": null,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2023-12-01T05:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   }
 ]

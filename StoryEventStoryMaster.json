@@ -94,5 +94,13 @@
     "ListedStartDate": "2023-11-20T17:00:00.000Z",
     "EventStoryListFlags": "Sirius,Eden,Denki",
     "IsKeyStory": false
+  },
+  {
+    "Id": 20013,
+    "StoryMasterId": 20013,
+    "StoryEventMasterId": 20013,
+    "ListedStartDate": "2023-12-10T17:00:00.000Z",
+    "EventStoryListFlags": "Eden",
+    "IsKeyStory": true
   }
 ]

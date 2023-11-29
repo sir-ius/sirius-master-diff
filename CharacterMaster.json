@@ -1875,6 +1875,31 @@
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   },
   {
+    "Id": 130340,
+    "CharacterBaseMasterId": 201,
+    "Name": "その目をよく見せてくれ",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": "Rare3",
+    "Attribute": "Colorful",
+    "MinLevelStatus": {
+      "Concentration": 87,
+      "Expression": 87,
+      "Vocal": 96
+    },
+    "StarActMasterId": 130341,
+    "AwakenStarActMasterId": 130341,
+    "SenseMasterId": 130340,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 30001,
+    "SenseEnhanceItemGroupMasterId": 3,
+    "FirstEpisodeReleaseItemGroupId": 331,
+    "SecondEpisodeReleaseItemGroupId": 332,
+    "CharacterAwakeningItemGroupMasterId": 33,
+    "DisplayStartAt": "2023-11-30T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
     "Id": 140010,
     "CharacterBaseMasterId": 101,
     "Name": "悲哀と恋慕の旋律",
@@ -2872,6 +2897,56 @@
     "SecondEpisodeReleaseItemGroupId": 442,
     "CharacterAwakeningItemGroupMasterId": 44,
     "DisplayStartAt": "2023-11-10T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 140420,
+    "CharacterBaseMasterId": 204,
+    "Name": "囚われてなお渇望するもの",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": "Rare4",
+    "Attribute": "Colorful",
+    "MinLevelStatus": {
+      "Concentration": 120,
+      "Expression": 121,
+      "Vocal": 104
+    },
+    "StarActMasterId": 140421,
+    "AwakenStarActMasterId": 140421,
+    "SenseMasterId": 140420,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 40042,
+    "SenseEnhanceItemGroupMasterId": 4,
+    "FirstEpisodeReleaseItemGroupId": 431,
+    "SecondEpisodeReleaseItemGroupId": 432,
+    "CharacterAwakeningItemGroupMasterId": 43,
+    "DisplayStartAt": "2023-11-30T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 140430,
+    "CharacterBaseMasterId": 202,
+    "Name": "縛めを解いてくれた人と共に",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": "Rare4",
+    "Attribute": "Colorful",
+    "MinLevelStatus": {
+      "Concentration": 114,
+      "Expression": 157,
+      "Vocal": 80
+    },
+    "StarActMasterId": 140431,
+    "AwakenStarActMasterId": 140431,
+    "SenseMasterId": 140430,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 40043,
+    "SenseEnhanceItemGroupMasterId": 4,
+    "FirstEpisodeReleaseItemGroupId": 431,
+    "SecondEpisodeReleaseItemGroupId": 432,
+    "CharacterAwakeningItemGroupMasterId": 43,
+    "DisplayStartAt": "2023-11-30T17:00:00.000Z",
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   }
 ]

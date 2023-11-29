@@ -61,5 +61,19 @@
     "EndDate": "2023-11-30T17:00:00.000Z",
     "LiveSettingMasterId1": 11,
     "LiveSettingMasterId2": 12
+  },
+  {
+    "Id": 10,
+    "StartDate": "2023-11-30T17:00:00.000Z",
+    "EndDate": "2023-12-08T22:00:00.000Z",
+    "LiveSettingMasterId1": 11,
+    "LiveSettingMasterId2": 14
+  },
+  {
+    "Id": 11,
+    "StartDate": "2023-12-08T22:00:00.000Z",
+    "EndDate": "2023-12-29T17:00:00.000Z",
+    "LiveSettingMasterId1": 11,
+    "LiveSettingMasterId2": 12
   }
 ]

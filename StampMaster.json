@@ -670,6 +670,16 @@
     "Name": "容【いっくよー！】"
   },
   {
+    "Id": 20406,
+    "Order": 20406,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 204,
+    "Type": "Default",
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "容【アタシがいるよ】"
+  },
+  {
     "Id": 20491,
     "Order": 20491,
     "IsDefault": false,
@@ -1158,6 +1168,16 @@
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "いろは【はっ！】"
+  },
+  {
+    "Id": 40181,
+    "Order": 40181,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 401,
+    "Type": "Default",
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "いろは【僕と一緒に行きましょう！】"
   },
   {
     "Id": 40191,
