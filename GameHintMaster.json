@@ -108,5 +108,10 @@
     "Id": 23,
     "PageCategory": "ConcertStageSelect",
     "PageCount": 1
+  },
+  {
+    "Id": 28,
+    "PageCategory": "Circle,League,StarRank",
+    "PageCount": 1
   }
 ]

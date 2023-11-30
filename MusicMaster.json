@@ -2351,7 +2351,7 @@
     "LyricWriter": "松井洋平",
     "Composer": "光増ハジメ（FirstCall）",
     "Arranger": "光増ハジメ（FirstCall）",
-    "UnlockText": "「合同音楽公演」連動イベントの/nすべてのステージをクリア",
+    "UnlockText": "楽曲ショップで購入",
     "IsLongVersion": false,
     "ReleasedAt": "2023-11-12T20:00:00.000Z",
     "StaminaConsumption": 26,
@@ -2396,8 +2396,8 @@
         ]
       }
     ],
-    "UnlockConditionType": "Distribute",
-    "UnlockConditionValue": 1,
+    "UnlockConditionType": "Buy",
+    "UnlockConditionValue": null,
     "MusicVideoType": "None",
     "MusicCoverType": "Original"
   },

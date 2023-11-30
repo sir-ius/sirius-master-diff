@@ -1052,7 +1052,7 @@
   {
     "Id": 5033,
     "Order": 5033,
-    "Name": "劇団電姫のおまもりパック",
+    "Name": "電姫空間のおまもりパック",
     "JumpType": "JewelShop",
     "JumpPageId": "5",
     "WebLinkType": null,
@@ -1136,13 +1136,13 @@
   {
     "Id": 5046,
     "Order": 5046,
-    "Name": "劇団電姫のおまもりパック",
+    "Name": "電姫空間のおまもりパック",
     "JumpType": "JewelShop",
     "JumpPageId": "5",
     "WebLinkType": null,
     "LinkUrl": null,
     "DeleteConditionType": "BuyItem",
-    "DeleteConditionValue": "5042",
+    "DeleteConditionValue": "5046",
     "ImagePath": "Home/5046",
     "StartDate": "2023-11-30T17:00:00.000Z",
     "EndDate": "2023-12-08T22:00:00.000Z"
