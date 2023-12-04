@@ -518,6 +518,20 @@
     "EndDate": "2023-11-30T17:00:00.000Z"
   },
   {
+    "Id": 2800,
+    "Order": 2984,
+    "Name": "結ぶぞ！その契約！ガチャ",
+    "JumpType": "Gacha",
+    "JumpPageId": "2800",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "[NONE]",
+    "DeleteConditionValue": null,
+    "ImagePath": "Gacha/2800",
+    "StartDate": "2023-12-05T17:00:00.000Z",
+    "EndDate": "2023-12-15T17:00:00.000Z"
+  },
+  {
     "Id": 3001,
     "Order": 4000,
     "Name": "イベント「god is no /w/ here」",
@@ -1134,6 +1148,20 @@
     "EndDate": "2023-12-03T17:00:00.000Z"
   },
   {
+    "Id": 5042,
+    "Order": 5042,
+    "Name": "「コードギアス 反逆のルルーシュ」ちょっとしたコラボ記念ジュエルパックA",
+    "JumpType": "JewelShop",
+    "JumpPageId": "5",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "[NONE]",
+    "DeleteConditionValue": null,
+    "ImagePath": "Home/5042",
+    "StartDate": "2023-12-05T17:00:00.000Z",
+    "EndDate": "2023-12-15T17:00:00.000Z"
+  },
+  {
     "Id": 5046,
     "Order": 5046,
     "Name": "電姫空間のおまもりパック",
@@ -1174,5 +1202,19 @@
     "ImagePath": "Gacha/9010",
     "StartDate": "2023-11-30T17:00:00.000Z",
     "EndDate": "2023-12-10T17:00:00.000Z"
+  },
+  {
+    "Id": 10001,
+    "Order": 1,
+    "Name": "限定ストーリー",
+    "JumpType": 17,
+    "JumpPageId": "3000101",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "[NONE]",
+    "DeleteConditionValue": null,
+    "ImagePath": "Home/common_LimitedStory",
+    "StartDate": "2023-12-05T17:00:00.000Z",
+    "EndDate": "2023-12-15T17:00:00.000Z"
   }
 ]

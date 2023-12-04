@@ -14903,5 +14903,9 @@
         "IsChapterAllReadReward": true
       }
     ]
+  },
+  {
+    "Id": 3000101,
+    "Rewards": []
   }
 ]
