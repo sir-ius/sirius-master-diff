@@ -9072,6 +9072,30 @@
     ]
   },
   {
+    "Id": 130361,
+    "Rewards": [
+      {
+        "ThingId": 0,
+        "ThingType": "Jewel",
+        "ThingQuantity": 30,
+        "IsOnlyStoryEventTerm": false,
+        "IsChapterAllReadReward": false
+      }
+    ]
+  },
+  {
+    "Id": 130362,
+    "Rewards": [
+      {
+        "ThingId": 0,
+        "ThingType": "Jewel",
+        "ThingQuantity": 30,
+        "IsOnlyStoryEventTerm": false,
+        "IsChapterAllReadReward": false
+      }
+    ]
+  },
+  {
     "Id": 140011,
     "Rewards": [
       {
@@ -10069,6 +10093,54 @@
   },
   {
     "Id": 140432,
+    "Rewards": [
+      {
+        "ThingId": 0,
+        "ThingType": "Jewel",
+        "ThingQuantity": 30,
+        "IsOnlyStoryEventTerm": false,
+        "IsChapterAllReadReward": false
+      }
+    ]
+  },
+  {
+    "Id": 140461,
+    "Rewards": [
+      {
+        "ThingId": 0,
+        "ThingType": "Jewel",
+        "ThingQuantity": 30,
+        "IsOnlyStoryEventTerm": false,
+        "IsChapterAllReadReward": false
+      }
+    ]
+  },
+  {
+    "Id": 140462,
+    "Rewards": [
+      {
+        "ThingId": 0,
+        "ThingType": "Jewel",
+        "ThingQuantity": 30,
+        "IsOnlyStoryEventTerm": false,
+        "IsChapterAllReadReward": false
+      }
+    ]
+  },
+  {
+    "Id": 140471,
+    "Rewards": [
+      {
+        "ThingId": 0,
+        "ThingType": "Jewel",
+        "ThingQuantity": 30,
+        "IsOnlyStoryEventTerm": false,
+        "IsChapterAllReadReward": false
+      }
+    ]
+  },
+  {
+    "Id": 140472,
     "Rewards": [
       {
         "ThingId": 0,
@@ -14880,6 +14952,165 @@
   },
   {
     "Id": 2001308,
+    "Rewards": [
+      {
+        "ThingId": 130001,
+        "ThingType": "Item",
+        "ThingQuantity": 1,
+        "IsOnlyStoryEventTerm": false,
+        "IsChapterAllReadReward": false
+      },
+      {
+        "ThingId": 0,
+        "ThingType": "Jewel",
+        "ThingQuantity": 50,
+        "IsOnlyStoryEventTerm": true,
+        "IsChapterAllReadReward": false
+      },
+      {
+        "ThingId": 0,
+        "ThingType": "Jewel",
+        "ThingQuantity": 100,
+        "IsOnlyStoryEventTerm": true,
+        "IsChapterAllReadReward": true
+      }
+    ]
+  },
+  {
+    "Id": 2001501,
+    "Rewards": [
+      {
+        "ThingId": 130001,
+        "ThingType": "Item",
+        "ThingQuantity": 1,
+        "IsOnlyStoryEventTerm": false,
+        "IsChapterAllReadReward": false
+      },
+      {
+        "ThingId": 0,
+        "ThingType": "Jewel",
+        "ThingQuantity": 50,
+        "IsOnlyStoryEventTerm": true,
+        "IsChapterAllReadReward": false
+      }
+    ]
+  },
+  {
+    "Id": 2001502,
+    "Rewards": [
+      {
+        "ThingId": 130001,
+        "ThingType": "Item",
+        "ThingQuantity": 1,
+        "IsOnlyStoryEventTerm": false,
+        "IsChapterAllReadReward": false
+      },
+      {
+        "ThingId": 0,
+        "ThingType": "Jewel",
+        "ThingQuantity": 50,
+        "IsOnlyStoryEventTerm": true,
+        "IsChapterAllReadReward": false
+      }
+    ]
+  },
+  {
+    "Id": 2001503,
+    "Rewards": [
+      {
+        "ThingId": 130001,
+        "ThingType": "Item",
+        "ThingQuantity": 1,
+        "IsOnlyStoryEventTerm": false,
+        "IsChapterAllReadReward": false
+      },
+      {
+        "ThingId": 0,
+        "ThingType": "Jewel",
+        "ThingQuantity": 50,
+        "IsOnlyStoryEventTerm": true,
+        "IsChapterAllReadReward": false
+      }
+    ]
+  },
+  {
+    "Id": 2001504,
+    "Rewards": [
+      {
+        "ThingId": 130001,
+        "ThingType": "Item",
+        "ThingQuantity": 1,
+        "IsOnlyStoryEventTerm": false,
+        "IsChapterAllReadReward": false
+      },
+      {
+        "ThingId": 0,
+        "ThingType": "Jewel",
+        "ThingQuantity": 50,
+        "IsOnlyStoryEventTerm": true,
+        "IsChapterAllReadReward": false
+      }
+    ]
+  },
+  {
+    "Id": 2001505,
+    "Rewards": [
+      {
+        "ThingId": 130001,
+        "ThingType": "Item",
+        "ThingQuantity": 1,
+        "IsOnlyStoryEventTerm": false,
+        "IsChapterAllReadReward": false
+      },
+      {
+        "ThingId": 0,
+        "ThingType": "Jewel",
+        "ThingQuantity": 50,
+        "IsOnlyStoryEventTerm": true,
+        "IsChapterAllReadReward": false
+      }
+    ]
+  },
+  {
+    "Id": 2001506,
+    "Rewards": [
+      {
+        "ThingId": 130001,
+        "ThingType": "Item",
+        "ThingQuantity": 1,
+        "IsOnlyStoryEventTerm": false,
+        "IsChapterAllReadReward": false
+      },
+      {
+        "ThingId": 0,
+        "ThingType": "Jewel",
+        "ThingQuantity": 50,
+        "IsOnlyStoryEventTerm": true,
+        "IsChapterAllReadReward": false
+      }
+    ]
+  },
+  {
+    "Id": 2001507,
+    "Rewards": [
+      {
+        "ThingId": 130001,
+        "ThingType": "Item",
+        "ThingQuantity": 1,
+        "IsOnlyStoryEventTerm": false,
+        "IsChapterAllReadReward": false
+      },
+      {
+        "ThingId": 0,
+        "ThingType": "Jewel",
+        "ThingQuantity": 50,
+        "IsOnlyStoryEventTerm": true,
+        "IsChapterAllReadReward": false
+      }
+    ]
+  },
+  {
+    "Id": 2001508,
     "Rewards": [
       {
         "ThingId": 130001,

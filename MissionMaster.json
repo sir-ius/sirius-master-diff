@@ -7050,6 +7050,34 @@
     "ComebackCampaignMasterId": null
   },
   {
+    "Id": 14700,
+    "MissionCategory": "Limit",
+    "MissionViewOrder": 14700,
+    "Title": "",
+    "Description": "「Get to Act Life♡」を[:param]回クリアしよう",
+    "EventMasterId": null,
+    "JumpType": "Live",
+    "JumpTargetId": null,
+    "StartDate": "2023-12-12T17:00:00.000Z",
+    "EndDate": "2023-12-22T00:00:00.000Z",
+    "Stages": [
+      {
+        "Id": 14700,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 5,
+        "StartDate": "2023-12-12T17:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 140371,
+            "ThingType": "Trophy",
+            "ThingQuantity": 1
+          }
+        ]
+      }
+    ],
+    "ComebackCampaignMasterId": null
+  },
+  {
     "Id": 100000,
     "MissionCategory": "Daily",
     "MissionViewOrder": 100000,

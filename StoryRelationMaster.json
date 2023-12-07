@@ -241,5 +241,18 @@
       140060
     ],
     "RelatedStoryMasterIds": []
+  },
+  {
+    "StoryMasterId": 20015,
+    "PreviousStoryMasterIds": [
+      20008
+    ],
+    "NextStoryMasterIds": [],
+    "SideStoryCharacterMasterIds": [
+      140460,
+      140470,
+      130360
+    ],
+    "RelatedStoryMasterIds": []
   }
 ]

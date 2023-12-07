@@ -1900,6 +1900,31 @@
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   },
   {
+    "Id": 130360,
+    "CharacterBaseMasterId": 402,
+    "Name": "ど、どどど、どうしよう！",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": "Rare3",
+    "Attribute": "Cute",
+    "MinLevelStatus": {
+      "Concentration": 93,
+      "Expression": 82,
+      "Vocal": 95
+    },
+    "StarActMasterId": 130361,
+    "AwakenStarActMasterId": 130361,
+    "SenseMasterId": 130360,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 30003,
+    "SenseEnhanceItemGroupMasterId": 3,
+    "FirstEpisodeReleaseItemGroupId": 311,
+    "SecondEpisodeReleaseItemGroupId": 312,
+    "CharacterAwakeningItemGroupMasterId": 31,
+    "DisplayStartAt": "2023-12-10T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
     "Id": 140010,
     "CharacterBaseMasterId": 101,
     "Name": "悲哀と恋慕の旋律",
@@ -2947,6 +2972,56 @@
     "SecondEpisodeReleaseItemGroupId": 432,
     "CharacterAwakeningItemGroupMasterId": 43,
     "DisplayStartAt": "2023-11-30T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 140460,
+    "CharacterBaseMasterId": 305,
+    "Name": "遠い遠い雪催い",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": "Rare4",
+    "Attribute": "Cute",
+    "MinLevelStatus": {
+      "Concentration": 129,
+      "Expression": 128,
+      "Vocal": 87
+    },
+    "StarActMasterId": 140461,
+    "AwakenStarActMasterId": 140461,
+    "SenseMasterId": 140460,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 40046,
+    "SenseEnhanceItemGroupMasterId": 4,
+    "FirstEpisodeReleaseItemGroupId": 411,
+    "SecondEpisodeReleaseItemGroupId": 412,
+    "CharacterAwakeningItemGroupMasterId": 41,
+    "DisplayStartAt": "2023-12-10T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 140470,
+    "CharacterBaseMasterId": 403,
+    "Name": "銀世界に冴ゆる心友",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": "Rare4",
+    "Attribute": "Cute",
+    "MinLevelStatus": {
+      "Concentration": 113,
+      "Expression": 116,
+      "Vocal": 116
+    },
+    "StarActMasterId": 140471,
+    "AwakenStarActMasterId": 140471,
+    "SenseMasterId": 140470,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 40047,
+    "SenseEnhanceItemGroupMasterId": 4,
+    "FirstEpisodeReleaseItemGroupId": 411,
+    "SecondEpisodeReleaseItemGroupId": 412,
+    "CharacterAwakeningItemGroupMasterId": 41,
+    "DisplayStartAt": "2023-12-10T17:00:00.000Z",
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   }
 ]

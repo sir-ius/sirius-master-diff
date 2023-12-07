@@ -110,6 +110,16 @@
     "UnlockText": null
   },
   {
+    "Id": 1403,
+    "Name": "カミラ【BirthDay 2023】",
+    "Description": null,
+    "Order": 1403,
+    "Hidden": true,
+    "IsDefault": false,
+    "Details": [],
+    "UnlockText": null
+  },
+  {
     "Id": 9000,
     "Name": "スター",
     "Description": null,
