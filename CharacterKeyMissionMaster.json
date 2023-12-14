@@ -78,5 +78,45 @@
     "GiveStarPoint": 10000,
     "StartDate": "2023-01-01T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 11,
+    "Level": 11,
+    "Color": "#f8c90e",
+    "GiveStarPoint": 11500,
+    "StartDate": "2023-12-14T13:00:00.000Z",
+    "EndDate": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 12,
+    "Level": 12,
+    "Color": "#f8b20e",
+    "GiveStarPoint": 13000,
+    "StartDate": "2023-12-14T13:00:00.000Z",
+    "EndDate": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 13,
+    "Level": 13,
+    "Color": "#ffa5a8",
+    "GiveStarPoint": 14500,
+    "StartDate": "2023-12-14T13:00:00.000Z",
+    "EndDate": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 14,
+    "Level": 14,
+    "Color": "#ff787d",
+    "GiveStarPoint": 16000,
+    "StartDate": "2023-12-14T13:00:00.000Z",
+    "EndDate": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 15,
+    "Level": 15,
+    "Color": "#6df3c5",
+    "GiveStarPoint": 17500,
+    "StartDate": "2023-12-14T13:00:00.000Z",
+    "EndDate": "2100-01-01T00:00:00.000Z"
   }
 ]

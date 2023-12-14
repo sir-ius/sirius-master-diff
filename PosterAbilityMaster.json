@@ -7040,7 +7040,7 @@
   {
     "Id": 230190,
     "Name": "誇り高く生きてみせる",
-    "Description": "<color=#ff679d>憐属性</color>アクターの演技力が[:param11]%上昇",
+    "Description": "<color=#ff679d>憐属性</color>のアクターの演技力が[:param11]%上昇",
     "PosterMasterId": 230190,
     "Type": "Leader",
     "FrameNumber": 1,

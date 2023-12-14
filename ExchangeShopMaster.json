@@ -855,6 +855,22 @@
         "EndDate": "2100-01-01T00:00:00.000Z",
         "RequiredItemMasterId": 130011,
         "RequiredQuantity": 200
+      },
+      {
+        "Id": 11053,
+        "ThingId": 10203,
+        "ThingType": "Stamp",
+        "ThingQuantity": 1,
+        "ExchangeLimit": 1,
+        "Order": 11013,
+        "ReplaceType": null,
+        "IsDisplayLocked": false,
+        "UnlockType": null,
+        "UnlockValue": null,
+        "StartDate": "2023-12-14T22:15:00.000Z",
+        "EndDate": "2100-01-01T00:00:00.000Z",
+        "RequiredItemMasterId": 130011,
+        "RequiredQuantity": 200
       }
     ]
   },
