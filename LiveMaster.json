@@ -2049,19 +2049,19 @@
     "Id": 11802,
     "Difficulty": "Hard",
     "MusicMasterId": 118,
-    "Level": 13
+    "Level": 12
   },
   {
     "Id": 11803,
     "Difficulty": "Extra",
     "MusicMasterId": 118,
-    "Level": 19
+    "Level": 21
   },
   {
     "Id": 11804,
     "Difficulty": "Stella",
     "MusicMasterId": 118,
-    "Level": 24
+    "Level": 25
   },
   {
     "Id": 11805,
@@ -2097,7 +2097,7 @@
     "Id": 11905,
     "Difficulty": "Olivier",
     "MusicMasterId": 119,
-    "Level": 105
+    "Level": 106
   },
   {
     "Id": 999901,
