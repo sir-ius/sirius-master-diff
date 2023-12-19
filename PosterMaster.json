@@ -1176,6 +1176,28 @@
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   },
   {
+    "Id": 220320,
+    "Name": "星明かりのおくりもの",
+    "OrganizeRestrictGroupId": null,
+    "Rarity": "SR",
+    "LevelPatternGroupMasterId": 2,
+    "SubTitlePositionX1": 39,
+    "SubTitlePositionY1": 1547,
+    "SubTitlePositionX2": 1057,
+    "SubTitlePositionY2": 195,
+    "SubTitlePositionX3": null,
+    "SubTitlePositionY3": null,
+    "ReleaseItemGroupId": 2,
+    "PronounceName": "ほしあかりのおくりもの",
+    "Costumes": [],
+    "AppearanceCharacterBaseMasterIds": [
+      304
+    ],
+    "IsRestrictItemBreakThrough": false,
+    "DisplayStartAt": "2023-12-20T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
     "Id": 229010,
     "Name": "【SIRIUS】竹取物語",
     "OrganizeRestrictGroupId": null,
@@ -2321,6 +2343,46 @@
     ],
     "IsRestrictItemBreakThrough": false,
     "DisplayStartAt": "2023-12-10T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 230320,
+    "Name": "裏通りのクリスマス",
+    "OrganizeRestrictGroupId": null,
+    "Rarity": "SSR",
+    "LevelPatternGroupMasterId": 3,
+    "SubTitlePositionX1": 437,
+    "SubTitlePositionY1": 1126,
+    "SubTitlePositionX2": 94,
+    "SubTitlePositionY2": 0,
+    "SubTitlePositionX3": null,
+    "SubTitlePositionY3": null,
+    "ReleaseItemGroupId": 3,
+    "PronounceName": "うらどおりのくりすます",
+    "Costumes": [
+      {
+        "Phase": 0,
+        "CostumeMasterId": 1631
+      },
+      {
+        "Phase": 1,
+        "CostumeMasterId": 1632
+      },
+      {
+        "Phase": 2,
+        "CostumeMasterId": 1641
+      },
+      {
+        "Phase": 3,
+        "CostumeMasterId": 1642
+      }
+    ],
+    "AppearanceCharacterBaseMasterIds": [
+      302,
+      305
+    ],
+    "IsRestrictItemBreakThrough": false,
+    "DisplayStartAt": "2023-12-20T17:00:00.000Z",
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   },
   {

@@ -768,6 +768,21 @@
     ]
   },
   {
+    "Id": 5102,
+    "MusicMasterId": 51,
+    "VocalVersion": 2,
+    "Singer": "王雪、リリヤ・クルトベイ",
+    "Name": "夏の夜空に光る雪（Long Ver）",
+    "MusicTimeSecond": 240,
+    "SampleStartSeconds": 0,
+    "SampleEndSeconds": 0,
+    "MusicVideoType": "None",
+    "Characters": [
+      303,
+      304
+    ]
+  },
+  {
     "Id": 5401,
     "MusicMasterId": 54,
     "VocalVersion": 1,
@@ -1092,6 +1107,35 @@
     "Characters": [
       305,
       403
+    ]
+  },
+  {
+    "Id": 7601,
+    "MusicMasterId": 76,
+    "VocalVersion": 1,
+    "Singer": "猫足蕾",
+    "Name": "不可逆的運命ディストピア",
+    "MusicTimeSecond": 123,
+    "SampleStartSeconds": 0,
+    "SampleEndSeconds": 0,
+    "MusicVideoType": "None",
+    "Characters": [
+      404
+    ]
+  },
+  {
+    "Id": 7701,
+    "MusicMasterId": 77,
+    "VocalVersion": 1,
+    "Singer": "リリヤ・クルトベイ、ラモーナ・ウォルフ",
+    "Name": "小さな奇跡の降る夜に",
+    "MusicTimeSecond": 106,
+    "SampleStartSeconds": 0,
+    "SampleEndSeconds": 0,
+    "MusicVideoType": "RealTimeRendering",
+    "Characters": [
+      302,
+      304
     ]
   },
   {

@@ -1030,6 +1030,16 @@
     "Name": "リリヤ【ありがとう】"
   },
   {
+    "Id": 30406,
+    "Order": 30406,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 304,
+    "Type": "Default",
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "リリヤ【美しい…】"
+  },
+  {
     "Id": 30491,
     "Order": 30491,
     "IsDefault": false,
@@ -1398,6 +1408,16 @@
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "蕾【これが組織の陰謀…】"
+  },
+  {
+    "Id": 40481,
+    "Order": 40481,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 404,
+    "Type": "Default",
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "蕾【裁きを受けよ！】\t"
   },
   {
     "Id": 40491,

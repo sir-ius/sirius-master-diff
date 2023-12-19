@@ -208,6 +208,22 @@
     "MaxLevel": 10
   },
   {
+    "Id": 320100,
+    "Name": "ガリバーの旅日記",
+    "Description": "",
+    "Rarity": "SR",
+    "AccessoryLevelPatternGroupId": 2,
+    "FixedAccessoryEffects": [
+      320100
+    ],
+    "RandomEffectGroups": [
+      1
+    ],
+    "PronounceName": "がりばーのたびにっき",
+    "Series": 0,
+    "MaxLevel": 10
+  },
+  {
     "Id": 330030,
     "Name": "懐中時計",
     "Description": "",
@@ -325,6 +341,21 @@
     ],
     "RandomEffectGroups": [],
     "PronounceName": "あくりるりんぐ",
+    "Series": 0,
+    "MaxLevel": 10
+  },
+  {
+    "Id": 330200,
+    "Name": "夜桜の扇子",
+    "Description": "",
+    "Rarity": "SSR",
+    "AccessoryLevelPatternGroupId": 3,
+    "FixedAccessoryEffects": [
+      330200,
+      330201
+    ],
+    "RandomEffectGroups": [],
+    "PronounceName": "よざくらのせんす",
     "Series": 0,
     "MaxLevel": 10
   },
@@ -537,6 +568,38 @@
     "MaxLevel": 10
   },
   {
+    "Id": 331140,
+    "Name": "ジャックの竪琴",
+    "Description": "",
+    "Rarity": "SSR",
+    "AccessoryLevelPatternGroupId": 3,
+    "FixedAccessoryEffects": [
+      331140
+    ],
+    "RandomEffectGroups": [
+      1
+    ],
+    "PronounceName": "じゃっくのたてごと",
+    "Series": 0,
+    "MaxLevel": 10
+  },
+  {
+    "Id": 331150,
+    "Name": "陰陽師の札",
+    "Description": "",
+    "Rarity": "SSR",
+    "AccessoryLevelPatternGroupId": 3,
+    "FixedAccessoryEffects": [
+      331150
+    ],
+    "RandomEffectGroups": [
+      1
+    ],
+    "PronounceName": "おんみょうじのふだ",
+    "Series": 0,
+    "MaxLevel": 10
+  },
+  {
     "Id": 332010,
     "Name": "竹の花★",
     "Description": "",
@@ -741,6 +804,38 @@
       2
     ],
     "PronounceName": "はくちょうのかみかざり",
+    "Series": 1,
+    "MaxLevel": 10
+  },
+  {
+    "Id": 332140,
+    "Name": "ジャックの竪琴★",
+    "Description": "",
+    "Rarity": "SSR",
+    "AccessoryLevelPatternGroupId": 3,
+    "FixedAccessoryEffects": [
+      331140
+    ],
+    "RandomEffectGroups": [
+      2
+    ],
+    "PronounceName": "じゃっくのたてごと",
+    "Series": 1,
+    "MaxLevel": 10
+  },
+  {
+    "Id": 332150,
+    "Name": "陰陽師の札★",
+    "Description": "",
+    "Rarity": "SSR",
+    "AccessoryLevelPatternGroupId": 3,
+    "FixedAccessoryEffects": [
+      331150
+    ],
+    "RandomEffectGroups": [
+      2
+    ],
+    "PronounceName": "おんみょうじのふだ",
     "Series": 1,
     "MaxLevel": 10
   },

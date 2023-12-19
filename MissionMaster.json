@@ -7078,6 +7078,34 @@
     "ComebackCampaignMasterId": null
   },
   {
+    "Id": 14800,
+    "MissionCategory": "Limit",
+    "MissionViewOrder": 14800,
+    "Title": "",
+    "Description": "「不可逆的運命ディストピア」を[:param]回クリアしよう",
+    "EventMasterId": null,
+    "JumpType": "Live",
+    "JumpTargetId": null,
+    "StartDate": "2023-12-25T17:00:00.000Z",
+    "EndDate": "2024-01-04T00:00:00.000Z",
+    "Stages": [
+      {
+        "Id": 14800,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 5,
+        "StartDate": "2023-12-25T17:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 140471,
+            "ThingType": "Trophy",
+            "ThingQuantity": 1
+          }
+        ]
+      }
+    ],
+    "ComebackCampaignMasterId": null
+  },
+  {
     "Id": 100000,
     "MissionCategory": "Daily",
     "MissionViewOrder": 100000,

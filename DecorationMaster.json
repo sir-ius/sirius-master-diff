@@ -187,6 +187,17 @@
     "MaxWidthPx": 360
   },
   {
+    "Id": 10404,
+    "Order": 10404,
+    "IsDefault": false,
+    "Name": "猫令ステッカー",
+    "Category": "Special",
+    "WidhtPx": 240,
+    "HeightPx": 240,
+    "MinWidthPx": 48,
+    "MaxWidthPx": 360
+  },
+  {
     "Id": 201011,
     "Order": 201011,
     "IsDefault": true,

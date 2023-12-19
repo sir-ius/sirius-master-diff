@@ -30,6 +30,16 @@
     "ComebackCampaignMasterId": null
   },
   {
+    "Id": 4,
+    "Title": "アクセサリーのドロップ率 50%UP",
+    "Description": "期間：12/29 17:00～1/9 22:00/n対象：電姫空間",
+    "IconImagePath": "1",
+    "Order": 4,
+    "StartDate": "2023-12-29T17:00:00.000Z",
+    "EndDate": "2024-01-09T22:00:00.000Z",
+    "ComebackCampaignMasterId": null
+  },
+  {
     "Id": 1000,
     "Title": "公演の獲得EXP 50％UP",
     "Description": "ウェルカムバックキャンペーン/n期間：7日間/n対象：公演、協力公演",

@@ -379,17 +379,17 @@
     "LiveSettingMasterId": 14,
     "Rewards": [
       {
-        "ThingId": 331120,
+        "ThingId": 331140,
+        "ThingType": "Accessory",
+        "ThingQuantity": 0
+      },
+      {
+        "ThingId": 331150,
         "ThingType": "Accessory",
         "ThingQuantity": 0
       },
       {
         "ThingId": 331130,
-        "ThingType": "Accessory",
-        "ThingQuantity": 0
-      },
-      {
-        "ThingId": 331110,
         "ThingType": "Accessory",
         "ThingQuantity": 0
       }
@@ -402,17 +402,17 @@
     "LiveSettingMasterId": 14,
     "Rewards": [
       {
-        "ThingId": 331120,
+        "ThingId": 331140,
+        "ThingType": "Accessory",
+        "ThingQuantity": 0
+      },
+      {
+        "ThingId": 331150,
         "ThingType": "Accessory",
         "ThingQuantity": 0
       },
       {
         "ThingId": 331130,
-        "ThingType": "Accessory",
-        "ThingQuantity": 0
-      },
-      {
-        "ThingId": 331110,
         "ThingType": "Accessory",
         "ThingQuantity": 0
       }
@@ -425,17 +425,17 @@
     "LiveSettingMasterId": 14,
     "Rewards": [
       {
-        "ThingId": 331120,
+        "ThingId": 331140,
+        "ThingType": "Accessory",
+        "ThingQuantity": 0
+      },
+      {
+        "ThingId": 331150,
         "ThingType": "Accessory",
         "ThingQuantity": 0
       },
       {
         "ThingId": 331130,
-        "ThingType": "Accessory",
-        "ThingQuantity": 0
-      },
-      {
-        "ThingId": 331110,
         "ThingType": "Accessory",
         "ThingQuantity": 0
       }
@@ -448,17 +448,17 @@
     "LiveSettingMasterId": 14,
     "Rewards": [
       {
-        "ThingId": 331120,
+        "ThingId": 331140,
+        "ThingType": "Accessory",
+        "ThingQuantity": 0
+      },
+      {
+        "ThingId": 331150,
         "ThingType": "Accessory",
         "ThingQuantity": 0
       },
       {
         "ThingId": 331130,
-        "ThingType": "Accessory",
-        "ThingQuantity": 0
-      },
-      {
-        "ThingId": 331110,
         "ThingType": "Accessory",
         "ThingQuantity": 0
       }
@@ -471,17 +471,17 @@
     "LiveSettingMasterId": 14,
     "Rewards": [
       {
-        "ThingId": 331120,
+        "ThingId": 331140,
+        "ThingType": "Accessory",
+        "ThingQuantity": 0
+      },
+      {
+        "ThingId": 331150,
         "ThingType": "Accessory",
         "ThingQuantity": 0
       },
       {
         "ThingId": 331130,
-        "ThingType": "Accessory",
-        "ThingQuantity": 0
-      },
-      {
-        "ThingId": 331110,
         "ThingType": "Accessory",
         "ThingQuantity": 0
       }
@@ -494,17 +494,17 @@
     "LiveSettingMasterId": 14,
     "Rewards": [
       {
-        "ThingId": 331120,
+        "ThingId": 331140,
+        "ThingType": "Accessory",
+        "ThingQuantity": 0
+      },
+      {
+        "ThingId": 331150,
         "ThingType": "Accessory",
         "ThingQuantity": 0
       },
       {
         "ThingId": 331130,
-        "ThingType": "Accessory",
-        "ThingQuantity": 0
-      },
-      {
-        "ThingId": 331110,
         "ThingType": "Accessory",
         "ThingQuantity": 0
       }

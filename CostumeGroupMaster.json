@@ -1438,5 +1438,35 @@
     "IsHairChange": true,
     "DisplayStartAt": "2023-12-10T17:00:00.000Z",
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 163,
+    "Name": "裏通りのクリスマス",
+    "Description": null,
+    "Order": 163,
+    "CostumeMasterIds": [
+      1631,
+      1632
+    ],
+    "CostumeWearableCharacterGroupMasterId": null,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2023-12-20T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 164,
+    "Name": "裏通りのクリスマス",
+    "Description": null,
+    "Order": 164,
+    "CostumeMasterIds": [
+      1641,
+      1642
+    ],
+    "CostumeWearableCharacterGroupMasterId": 302,
+    "PerformanceGroupId": null,
+    "IsHairChange": true,
+    "DisplayStartAt": "2023-12-20T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   }
 ]
