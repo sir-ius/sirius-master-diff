@@ -1374,6 +1374,24 @@
     "CoolTime": 50
   },
   {
+    "Id": 130380,
+    "Name": "なし",
+    "Description": "ここな編成時、ここなが代わりにセンスを発動し、ここなのスコア獲得量[:pre1]％UP",
+    "Type": "Alternative",
+    "PreEffects": [
+      {
+        "Order": 1,
+        "EffectMasterId": 20023
+      }
+    ],
+    "Branches": [],
+    "AcquirableGauge": 0,
+    "AcquirableScorePercent": 0,
+    "ScoreUpPerLevel": 0,
+    "LightCount": 0,
+    "CoolTime": 0
+  },
+  {
     "Id": 140010,
     "Name": "悲哀と恋慕の旋律",
     "Description": "[:score]倍のスコアを獲得／ライフを[:param11]回復／ライフが多いほどここなのスコア獲得量UP（最大＋100％）",
@@ -2250,5 +2268,61 @@
     "ScoreUpPerLevel": 70,
     "LightCount": 1,
     "CoolTime": 60
+  },
+  {
+    "Id": 140500,
+    "Name": "瑞祥新春の舞",
+    "Description": "[:score]倍のスコアを獲得／[:sec]秒間、シリウスのアクターにスターアクトスコア[:param11]％UP効果",
+    "Type": "Amplification",
+    "PreEffects": [],
+    "Branches": [
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 20102
+          }
+        ],
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 1405001
+      }
+    ],
+    "AcquirableGauge": 0,
+    "AcquirableScorePercent": 220,
+    "ScoreUpPerLevel": 60,
+    "LightCount": 1,
+    "CoolTime": 45
+  },
+  {
+    "Id": 140510,
+    "Name": "人里の宴も悪くない",
+    "Description": "[:score]倍のスコアを獲得／[:sec]秒間、銀河座のアクターにスターアクトスコア[:param11]％UP効果",
+    "Type": "Support",
+    "PreEffects": [],
+    "Branches": [
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 20302
+          }
+        ],
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 1405101
+      }
+    ],
+    "AcquirableGauge": 0,
+    "AcquirableScorePercent": 220,
+    "ScoreUpPerLevel": 60,
+    "LightCount": 1,
+    "CoolTime": 45
   }
 ]

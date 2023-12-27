@@ -8563,5 +8563,145 @@
       }
     ],
     "ComebackCampaignMasterId": null
+  },
+  {
+    "Id": 400020,
+    "MissionCategory": "Limit",
+    "MissionViewOrder": 400020,
+    "Title": "",
+    "Description": "公演を[:param]回クリアしよう",
+    "EventMasterId": null,
+    "JumpType": "Live",
+    "JumpTargetId": null,
+    "StartDate": "2023-12-31T15:00:00.000Z",
+    "EndDate": "2024-01-10T17:00:00.000Z",
+    "Stages": [
+      {
+        "Id": 400020,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 10,
+        "StartDate": "2023-12-31T15:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 212001,
+            "ThingType": "Item",
+            "ThingQuantity": 100
+          }
+        ]
+      }
+    ],
+    "ComebackCampaignMasterId": null
+  },
+  {
+    "Id": 400030,
+    "MissionCategory": "Limit",
+    "MissionViewOrder": 400030,
+    "Title": "",
+    "Description": "公演を[:param]回クリアしよう",
+    "EventMasterId": null,
+    "JumpType": "Live",
+    "JumpTargetId": null,
+    "StartDate": "2023-12-31T15:00:00.000Z",
+    "EndDate": "2024-01-10T17:00:00.000Z",
+    "Stages": [
+      {
+        "Id": 400030,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 50,
+        "StartDate": "2023-12-31T15:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 212001,
+            "ThingType": "Item",
+            "ThingQuantity": 100
+          }
+        ]
+      }
+    ],
+    "ComebackCampaignMasterId": null
+  },
+  {
+    "Id": 400040,
+    "MissionCategory": "Limit",
+    "MissionViewOrder": 400040,
+    "Title": "",
+    "Description": "スタミナを[:param]消費しよう",
+    "EventMasterId": null,
+    "JumpType": "Live",
+    "JumpTargetId": null,
+    "StartDate": "2023-12-31T15:00:00.000Z",
+    "EndDate": "2024-01-10T17:00:00.000Z",
+    "Stages": [
+      {
+        "Id": 400040,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 200,
+        "StartDate": "2023-12-31T15:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 212001,
+            "ThingType": "Item",
+            "ThingQuantity": 100
+          }
+        ]
+      }
+    ],
+    "ComebackCampaignMasterId": null
+  },
+  {
+    "Id": 400050,
+    "MissionCategory": "Limit",
+    "MissionViewOrder": 400050,
+    "Title": "",
+    "Description": "スタミナを[:param]消費しよう",
+    "EventMasterId": null,
+    "JumpType": "Live",
+    "JumpTargetId": null,
+    "StartDate": "2023-12-31T15:00:00.000Z",
+    "EndDate": "2024-01-10T17:00:00.000Z",
+    "Stages": [
+      {
+        "Id": 400050,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 1000,
+        "StartDate": "2023-12-31T15:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 212001,
+            "ThingType": "Item",
+            "ThingQuantity": 100
+          }
+        ]
+      }
+    ],
+    "ComebackCampaignMasterId": null
+  },
+  {
+    "Id": 400060,
+    "MissionCategory": "Limit",
+    "MissionViewOrder": 400060,
+    "Title": "",
+    "Description": "スタミナを[:param]消費しよう",
+    "EventMasterId": null,
+    "JumpType": "Live",
+    "JumpTargetId": null,
+    "StartDate": "2023-12-31T15:00:00.000Z",
+    "EndDate": "2024-01-10T17:00:00.000Z",
+    "Stages": [
+      {
+        "Id": 400060,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 2024,
+        "StartDate": "2023-12-31T15:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 212001,
+            "ThingType": "Item",
+            "ThingQuantity": 100
+          }
+        ]
+      }
+    ],
+    "ComebackCampaignMasterId": null
   }
 ]

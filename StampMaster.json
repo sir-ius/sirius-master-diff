@@ -180,6 +180,16 @@
     "Name": "カトリナ【はっ？！】"
   },
   {
+    "Id": 10306,
+    "Order": 10306,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 103,
+    "Type": "Default",
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "カトリナ【アタシを誰だと思ってるの？】"
+  },
+  {
     "Id": 10381,
     "Order": 10381,
     "IsDefault": false,

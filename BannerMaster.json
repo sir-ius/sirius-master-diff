@@ -56,6 +56,20 @@
     "EndDate": "2100-01-01T00:00:00.000Z"
   },
   {
+    "Id": 10,
+    "Order": 99996,
+    "Name": "Discordキャンペーン",
+    "JumpType": "Information",
+    "JumpPageId": "308",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "[NONE]",
+    "DeleteConditionValue": null,
+    "ImagePath": "Home/10",
+    "StartDate": "2023-12-27T21:30:00.000Z",
+    "EndDate": "2024-01-10T00:00:00.000Z"
+  },
+  {
     "Id": 1001,
     "Order": 2000,
     "Name": "リリース記念ガチャ(アクター)",
@@ -308,6 +322,20 @@
     "EndDate": "2023-12-31T15:00:00.000Z"
   },
   {
+    "Id": 1022,
+    "Order": 1979,
+    "Name": "新年はあなたの手を取ってガチャ(アクター)",
+    "JumpType": "Gacha",
+    "JumpPageId": "1022",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "[NONE]",
+    "DeleteConditionValue": null,
+    "ImagePath": "Gacha/1022",
+    "StartDate": "2023-12-31T15:00:00.000Z",
+    "EndDate": "2024-01-10T17:00:00.000Z"
+  },
+  {
     "Id": 1800,
     "Order": 1989,
     "Name": "銀河座ピックアップアクターガチャ",
@@ -334,6 +362,20 @@
     "ImagePath": "Gacha/1801",
     "StartDate": "2023-11-12T20:00:00.000Z",
     "EndDate": "2023-11-30T17:00:00.000Z"
+  },
+  {
+    "Id": 1802,
+    "Order": 1978,
+    "Name": "☆4セレクトピックアップガチャ",
+    "JumpType": "Gacha",
+    "JumpPageId": "1802",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "[NONE]",
+    "DeleteConditionValue": null,
+    "ImagePath": "Gacha/1802",
+    "StartDate": "2023-12-31T15:00:00.000Z",
+    "EndDate": "2024-01-05T17:00:00.000Z"
   },
   {
     "Id": 2001,
@@ -572,6 +614,20 @@
     "ImagePath": "Gacha/2018",
     "StartDate": "2023-12-20T17:00:00.000Z",
     "EndDate": "2023-12-31T15:00:00.000Z"
+  },
+  {
+    "Id": 2019,
+    "Order": 2981,
+    "Name": "新年はあなたの手を取ってガチャ(ポスター)",
+    "JumpType": "Gacha",
+    "JumpPageId": "2019",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "[NONE]",
+    "DeleteConditionValue": null,
+    "ImagePath": "Gacha/2019",
+    "StartDate": "2023-12-31T15:00:00.000Z",
+    "EndDate": "2024-01-10T17:00:00.000Z"
   },
   {
     "Id": 2800,
@@ -922,6 +978,34 @@
     "ImagePath": "Notification/Banner00021",
     "StartDate": "2023-12-24T17:00:00.000Z",
     "EndDate": "2023-12-31T17:00:00.000Z"
+  },
+  {
+    "Id": 4014,
+    "Order": 480,
+    "Name": "オペラ座第11話（SIRIUS）追加",
+    "JumpType": "Photo",
+    "JumpPageId": "1",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "[NONE]",
+    "DeleteConditionValue": null,
+    "ImagePath": "Notification/Banner00030",
+    "StartDate": "2023-12-31T17:00:00.000Z",
+    "EndDate": "2024-01-07T17:00:00.000Z"
+  },
+  {
+    "Id": 4015,
+    "Order": 479,
+    "Name": "オペラ座第11話（Eden）追加",
+    "JumpType": "Photo",
+    "JumpPageId": "1",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "[NONE]",
+    "DeleteConditionValue": null,
+    "ImagePath": "Notification/Banner00031",
+    "StartDate": "2024-01-07T17:00:00.000Z",
+    "EndDate": "2024-01-14T17:00:00.000Z"
   },
   {
     "Id": 5002,
@@ -1330,6 +1414,48 @@
     "EndDate": "2024-01-04T00:00:00.000Z"
   },
   {
+    "Id": 5053,
+    "Order": 5053,
+    "Name": "新春衣装パック",
+    "JumpType": "JewelShop",
+    "JumpPageId": "5",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "[NONE]",
+    "DeleteConditionValue": null,
+    "ImagePath": "Home/5053",
+    "StartDate": "2023-12-31T15:00:00.000Z",
+    "EndDate": "2024-01-31T17:00:00.000Z"
+  },
+  {
+    "Id": 5057,
+    "Order": 5057,
+    "Name": "お正月ジュエルパック",
+    "JumpType": "JewelShop",
+    "JumpPageId": "5",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "[NONE]",
+    "DeleteConditionValue": null,
+    "ImagePath": "Home/5057",
+    "StartDate": "2023-12-31T15:00:00.000Z",
+    "EndDate": "2024-01-10T17:00:00.000Z"
+  },
+  {
+    "Id": 5060,
+    "Order": 5060,
+    "Name": "福袋パック2024",
+    "JumpType": "JewelShop",
+    "JumpPageId": "5",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "[NONE]",
+    "DeleteConditionValue": null,
+    "ImagePath": "Home/5060",
+    "StartDate": "2023-12-31T15:00:00.000Z",
+    "EndDate": "2024-01-10T17:00:00.000Z"
+  },
+  {
     "Id": 5065,
     "Order": 5065,
     "Name": "電姫空間のおまもりパック",
@@ -1370,6 +1496,20 @@
     "ImagePath": "Gacha/9010",
     "StartDate": "2023-11-30T17:00:00.000Z",
     "EndDate": "2023-12-10T17:00:00.000Z"
+  },
+  {
+    "Id": 9020,
+    "Order": 9020,
+    "Name": "龍が神と呼ばれるまでSSR確定ステップアップポスターガチャ",
+    "JumpType": "Gacha",
+    "JumpPageId": "9020",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "[NONE]",
+    "DeleteConditionValue": null,
+    "ImagePath": "Gacha/9020",
+    "StartDate": "2023-12-31T15:00:00.000Z",
+    "EndDate": "2024-01-10T17:00:00.000Z"
   },
   {
     "Id": 10001,

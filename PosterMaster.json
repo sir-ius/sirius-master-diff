@@ -1198,6 +1198,28 @@
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   },
   {
+    "Id": 220330,
+    "Name": "新年はあなたの手を取って",
+    "OrganizeRestrictGroupId": null,
+    "Rarity": "SR",
+    "LevelPatternGroupMasterId": 2,
+    "SubTitlePositionX1": 714,
+    "SubTitlePositionY1": 1427,
+    "SubTitlePositionX2": 112,
+    "SubTitlePositionY2": 102,
+    "SubTitlePositionX3": null,
+    "SubTitlePositionY3": null,
+    "ReleaseItemGroupId": 2,
+    "PronounceName": "しんねんはあなたのてをとって",
+    "Costumes": [],
+    "AppearanceCharacterBaseMasterIds": [
+      103
+    ],
+    "IsRestrictItemBreakThrough": false,
+    "DisplayStartAt": "2023-12-31T15:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
     "Id": 229010,
     "Name": "【SIRIUS】竹取物語",
     "OrganizeRestrictGroupId": null,
@@ -1745,7 +1767,7 @@
       101
     ],
     "IsRestrictItemBreakThrough": false,
-    "DisplayStartAt": "1970-01-01T00:00:00.000Z",
+    "DisplayStartAt": "2023-07-29T17:00:00.000Z",
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   },
   {
@@ -2383,6 +2405,66 @@
     ],
     "IsRestrictItemBreakThrough": false,
     "DisplayStartAt": "2023-12-20T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 230330,
+    "Name": "龍が神と呼ばれるまで",
+    "OrganizeRestrictGroupId": null,
+    "Rarity": "SSR",
+    "LevelPatternGroupMasterId": 3,
+    "SubTitlePositionX1": 0,
+    "SubTitlePositionY1": 1352,
+    "SubTitlePositionX2": 25,
+    "SubTitlePositionY2": 48,
+    "SubTitlePositionX3": null,
+    "SubTitlePositionY3": null,
+    "ReleaseItemGroupId": 3,
+    "PronounceName": "りゅうがかみとよばれるまで",
+    "Costumes": [
+      {
+        "Phase": 0,
+        "CostumeMasterId": 1651
+      },
+      {
+        "Phase": 1,
+        "CostumeMasterId": 1652
+      },
+      {
+        "Phase": 2,
+        "CostumeMasterId": 1661
+      },
+      {
+        "Phase": 3,
+        "CostumeMasterId": 1662
+      }
+    ],
+    "AppearanceCharacterBaseMasterIds": [
+      106,
+      304
+    ],
+    "IsRestrictItemBreakThrough": false,
+    "DisplayStartAt": "2023-12-31T15:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 320050,
+    "Name": "謹賀新年2024",
+    "OrganizeRestrictGroupId": null,
+    "Rarity": "SR",
+    "LevelPatternGroupMasterId": 2,
+    "SubTitlePositionX1": 1142,
+    "SubTitlePositionY1": 1713,
+    "SubTitlePositionX2": null,
+    "SubTitlePositionY2": null,
+    "SubTitlePositionX3": null,
+    "SubTitlePositionY3": null,
+    "ReleaseItemGroupId": 2,
+    "PronounceName": "きんがしんねん2024",
+    "Costumes": [],
+    "AppearanceCharacterBaseMasterIds": [],
+    "IsRestrictItemBreakThrough": false,
+    "DisplayStartAt": "2024-01-01T00:00:00.000Z",
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   },
   {

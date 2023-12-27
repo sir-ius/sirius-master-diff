@@ -163,5 +163,16 @@
     "StartDate": "2023-12-20T17:00:00.000Z",
     "EndDate": "2023-12-29T22:00:00.000Z",
     "ForceEndDate": "2023-12-31T15:00:00.000Z"
+  },
+  {
+    "Id": 20017,
+    "Category": "Normal",
+    "BonusAttribute": "Cute",
+    "Title": "新年はあなたの手を取って",
+    "ExchangeShopMasterId": 20017,
+    "EventPointItemMasterId": 420017,
+    "StartDate": "2023-12-31T15:00:00.000Z",
+    "EndDate": "2024-01-08T22:00:00.000Z",
+    "ForceEndDate": "2024-01-10T17:00:00.000Z"
   }
 ]

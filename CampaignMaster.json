@@ -40,6 +40,26 @@
     "ComebackCampaignMasterId": null
   },
   {
+    "Id": 5,
+    "Title": "公演の獲得EXP 50％UP",
+    "Description": "期間：12/31 15:00～1/5 5:00/n対象：公演、協力公演",
+    "IconImagePath": "4",
+    "Order": 5,
+    "StartDate": "2023-12-31T15:00:00.000Z",
+    "EndDate": "2024-01-05T05:00:00.000Z",
+    "ComebackCampaignMasterId": null
+  },
+  {
+    "Id": 6,
+    "Title": "稽古の回数 +1回",
+    "Description": "期間：1/5 5:00～1/10 5:00/n対象：稽古",
+    "IconImagePath": "1001",
+    "Order": 6,
+    "StartDate": "2024-01-05T05:00:00.000Z",
+    "EndDate": "2024-01-10T05:00:00.000Z",
+    "ComebackCampaignMasterId": null
+  },
+  {
     "Id": 1000,
     "Title": "公演の獲得EXP 50％UP",
     "Description": "ウェルカムバックキャンペーン/n期間：7日間/n対象：公演、協力公演",
