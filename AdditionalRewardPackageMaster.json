@@ -128,6 +128,19 @@
     "Etcetera": false
   },
   {
+    "Id": 109,
+    "Description": "スタミナを消費　～2024年1月10日 17:00",
+    "LiveSettingMasterId": 1,
+    "Rewards": [
+      {
+        "ThingId": 212001,
+        "ThingType": "Item",
+        "ThingQuantity": 0
+      }
+    ],
+    "Etcetera": false
+  },
+  {
     "Id": 1103,
     "Description": "スタミナを消費",
     "LiveSettingMasterId": 11,
@@ -271,6 +284,19 @@
     "Etcetera": false
   },
   {
+    "Id": 1109,
+    "Description": "スタミナを消費　～2024年1月10日 17:00",
+    "LiveSettingMasterId": 11,
+    "Rewards": [
+      {
+        "ThingId": 212001,
+        "ThingType": "Item",
+        "ThingQuantity": 0
+      }
+    ],
+    "Etcetera": false
+  },
+  {
     "Id": 1203,
     "Description": "スタミナを消費",
     "LiveSettingMasterId": 12,
@@ -354,6 +380,19 @@
       },
       {
         "ThingId": 120001,
+        "ThingType": "Item",
+        "ThingQuantity": 0
+      }
+    ],
+    "Etcetera": false
+  },
+  {
+    "Id": 1208,
+    "Description": "スタミナを消費　～2024年1月10日 17:00",
+    "LiveSettingMasterId": 12,
+    "Rewards": [
+      {
+        "ThingId": 212001,
         "ThingType": "Item",
         "ThingQuantity": 0
       }
@@ -523,6 +562,19 @@
       },
       {
         "ThingId": 130081,
+        "ThingType": "Item",
+        "ThingQuantity": 0
+      }
+    ],
+    "Etcetera": false
+  },
+  {
+    "Id": 1412,
+    "Description": "スタミナを消費　～2024年1月10日 17:00",
+    "LiveSettingMasterId": 14,
+    "Rewards": [
+      {
+        "ThingId": 212001,
         "ThingType": "Item",
         "ThingQuantity": 0
       }

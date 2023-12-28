@@ -12251,10 +12251,10 @@
   },
   {
     "Id": 1802,
-    "Name": "★4セレクトピックアップガチャ【お正月2024】",
+    "Name": "★4セレクトピックアップガチャ",
     "CardType": "Character",
     "GachaType": "Pickup,SpecialTicket,NotPossessedRare4Fixed",
-    "GachaTextTemplateMasterId": 1801,
+    "GachaTextTemplateMasterId": 1802,
     "StartDate": "2023-12-31T15:00:00.000Z",
     "EndDate": "2024-01-05T17:00:00.000Z",
     "BonusThings": [
@@ -12901,7 +12901,7 @@
     ],
     "HasMovie": false,
     "StoryEventMasterId": null,
-    "AttentionGachaTextTemplateMasterId": 11007,
+    "AttentionGachaTextTemplateMasterId": 11004,
     "IsForceDisplay": false,
     "IsHideEndDate": false
   },
