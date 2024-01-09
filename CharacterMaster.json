@@ -1975,6 +1975,31 @@
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   },
   {
+    "Id": 130390,
+    "CharacterBaseMasterId": 202,
+    "Name": "しょうがないわね",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": "Rare3",
+    "Attribute": "Cool",
+    "MinLevelStatus": {
+      "Concentration": 88,
+      "Expression": 103,
+      "Vocal": 79
+    },
+    "StarActMasterId": 130391,
+    "AwakenStarActMasterId": 130391,
+    "SenseMasterId": 130390,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 30003,
+    "SenseEnhanceItemGroupMasterId": 3,
+    "FirstEpisodeReleaseItemGroupId": 321,
+    "SecondEpisodeReleaseItemGroupId": 322,
+    "CharacterAwakeningItemGroupMasterId": 32,
+    "DisplayStartAt": "2024-01-10T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
     "Id": 140010,
     "CharacterBaseMasterId": 101,
     "Name": "悲哀と恋慕の旋律",
@@ -3172,6 +3197,56 @@
     "SecondEpisodeReleaseItemGroupId": 412,
     "CharacterAwakeningItemGroupMasterId": 41,
     "DisplayStartAt": "2023-12-31T15:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 140540,
+    "CharacterBaseMasterId": 205,
+    "Name": "悩める迷宮での出会い",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": "Rare4",
+    "Attribute": "Cool",
+    "MinLevelStatus": {
+      "Concentration": 133,
+      "Expression": 89,
+      "Vocal": 123
+    },
+    "StarActMasterId": 140541,
+    "AwakenStarActMasterId": 140541,
+    "SenseMasterId": 140540,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 40054,
+    "SenseEnhanceItemGroupMasterId": 4,
+    "FirstEpisodeReleaseItemGroupId": 421,
+    "SecondEpisodeReleaseItemGroupId": 422,
+    "CharacterAwakeningItemGroupMasterId": 42,
+    "DisplayStartAt": "2024-01-10T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 140550,
+    "CharacterBaseMasterId": 203,
+    "Name": "導きの燐光",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": "Rare4",
+    "Attribute": "Cool",
+    "MinLevelStatus": {
+      "Concentration": 85,
+      "Expression": 119,
+      "Vocal": 144
+    },
+    "StarActMasterId": 140551,
+    "AwakenStarActMasterId": 140551,
+    "SenseMasterId": 140550,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 40055,
+    "SenseEnhanceItemGroupMasterId": 4,
+    "FirstEpisodeReleaseItemGroupId": 421,
+    "SecondEpisodeReleaseItemGroupId": 422,
+    "CharacterAwakeningItemGroupMasterId": 42,
+    "DisplayStartAt": "2024-01-10T17:00:00.000Z",
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   }
 ]

@@ -174,5 +174,16 @@
     "StartDate": "2023-12-31T15:00:00.000Z",
     "EndDate": "2024-01-08T22:00:00.000Z",
     "ForceEndDate": "2024-01-10T17:00:00.000Z"
+  },
+  {
+    "Id": 20018,
+    "Category": "HighScore",
+    "BonusAttribute": "Cool",
+    "Title": "秒針の安息",
+    "ExchangeShopMasterId": 20018,
+    "EventPointItemMasterId": 420018,
+    "StartDate": "2024-01-10T17:00:00.000Z",
+    "EndDate": "2024-01-18T22:00:00.000Z",
+    "ForceEndDate": "2024-01-20T17:00:00.000Z"
   }
 ]

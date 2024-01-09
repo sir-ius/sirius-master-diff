@@ -60,7 +60,7 @@
     "Order": 99996,
     "Name": "Discordキャンペーン",
     "JumpType": "Information",
-    "JumpPageId": "308",
+    "JumpPageId": "334",
     "WebLinkType": null,
     "LinkUrl": null,
     "DeleteConditionType": "[NONE]",
@@ -68,6 +68,20 @@
     "ImagePath": "Home/10",
     "StartDate": "2023-12-27T21:30:00.000Z",
     "EndDate": "2024-01-10T00:00:00.000Z"
+  },
+  {
+    "Id": 11,
+    "Order": 100001,
+    "Name": "Discordサーバー",
+    "JumpType": "Information",
+    "JumpPageId": "338",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "[NONE]",
+    "DeleteConditionValue": null,
+    "ImagePath": "Home/11",
+    "StartDate": "2024-01-10T00:00:00.000Z",
+    "EndDate": "2100-01-01T00:00:00.000Z"
   },
   {
     "Id": 1001,
@@ -334,6 +348,20 @@
     "ImagePath": "Gacha/1022",
     "StartDate": "2023-12-31T15:00:00.000Z",
     "EndDate": "2024-01-10T17:00:00.000Z"
+  },
+  {
+    "Id": 1023,
+    "Order": 1978,
+    "Name": "秒針の安息ガチャ(アクター)",
+    "JumpType": "Gacha",
+    "JumpPageId": "1023",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "[NONE]",
+    "DeleteConditionValue": null,
+    "ImagePath": "Gacha/1023",
+    "StartDate": "2024-01-10T17:00:00.000Z",
+    "EndDate": "2024-01-20T17:00:00.000Z"
   },
   {
     "Id": 1800,
@@ -628,6 +656,20 @@
     "ImagePath": "Gacha/2019",
     "StartDate": "2023-12-31T15:00:00.000Z",
     "EndDate": "2024-01-10T17:00:00.000Z"
+  },
+  {
+    "Id": 2020,
+    "Order": 2020,
+    "Name": "秒針の安息ガチャ(ポスター)",
+    "JumpType": "Gacha",
+    "JumpPageId": "2020",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "[NONE]",
+    "DeleteConditionValue": null,
+    "ImagePath": "Gacha/2020",
+    "StartDate": "2024-01-10T17:00:00.000Z",
+    "EndDate": "2024-01-20T17:00:00.000Z"
   },
   {
     "Id": 2800,
@@ -1006,6 +1048,20 @@
     "ImagePath": "Notification/Banner00031",
     "StartDate": "2024-01-07T17:00:00.000Z",
     "EndDate": "2024-01-14T17:00:00.000Z"
+  },
+  {
+    "Id": 4016,
+    "Order": 478,
+    "Name": "オペラ座第12話（SIRIUS）追加",
+    "JumpType": "Photo",
+    "JumpPageId": "1",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "[NONE]",
+    "DeleteConditionValue": null,
+    "ImagePath": "Notification/Banner00041",
+    "StartDate": "2024-01-14T17:00:00.000Z",
+    "EndDate": "2024-01-21T17:00:00.000Z"
   },
   {
     "Id": 5002,
@@ -1454,6 +1510,20 @@
     "ImagePath": "Home/5060",
     "StartDate": "2023-12-31T15:00:00.000Z",
     "EndDate": "2024-01-10T17:00:00.000Z"
+  },
+  {
+    "Id": 5063,
+    "Order": 5063,
+    "Name": "育成もりもりパック",
+    "JumpType": "JewelShop",
+    "JumpPageId": "5",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "BuyItem",
+    "DeleteConditionValue": "5053",
+    "ImagePath": "Home/5063",
+    "StartDate": "2024-01-15T17:00:00.000Z",
+    "EndDate": "2024-01-25T17:00:00.000Z"
   },
   {
     "Id": 5065,

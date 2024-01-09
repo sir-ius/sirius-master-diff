@@ -1571,5 +1571,35 @@
     "IsHairChange": false,
     "DisplayStartAt": "2023-12-31T15:00:00.000Z",
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 172,
+    "Name": "ウソつき人形の望むもの",
+    "Description": null,
+    "Order": 172,
+    "CostumeMasterIds": [
+      1721,
+      1722
+    ],
+    "CostumeWearableCharacterGroupMasterId": null,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2024-01-10T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 173,
+    "Name": "ウソつき人形の望むもの",
+    "Description": null,
+    "Order": 173,
+    "CostumeMasterIds": [
+      1731,
+      1732
+    ],
+    "CostumeWearableCharacterGroupMasterId": 205,
+    "PerformanceGroupId": null,
+    "IsHairChange": true,
+    "DisplayStartAt": "2024-01-10T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   }
 ]

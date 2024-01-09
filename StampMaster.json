@@ -750,6 +750,16 @@
     "Name": "しぐれ【ん？】"
   },
   {
+    "Id": 20506,
+    "Order": 20506,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 205,
+    "Type": "Default",
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "しぐれ【はぁ？！】"
+  },
+  {
     "Id": 20581,
     "Order": 20581,
     "IsDefault": false,

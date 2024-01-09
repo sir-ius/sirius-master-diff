@@ -126,5 +126,13 @@
     "ListedStartDate": "2024-01-10T17:00:00.000Z",
     "EventStoryListFlags": "Sirius,Gingaza",
     "IsKeyStory": false
+  },
+  {
+    "Id": 20018,
+    "StoryMasterId": 20018,
+    "StoryEventMasterId": 20018,
+    "ListedStartDate": "2024-01-20T17:00:00.000Z",
+    "EventStoryListFlags": "Eden",
+    "IsKeyStory": true
   }
 ]

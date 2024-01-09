@@ -1220,6 +1220,28 @@
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   },
   {
+    "Id": 220340,
+    "Name": "秒針の安息",
+    "OrganizeRestrictGroupId": null,
+    "Rarity": "SR",
+    "LevelPatternGroupMasterId": 2,
+    "SubTitlePositionX1": 703,
+    "SubTitlePositionY1": 1622,
+    "SubTitlePositionX2": 56,
+    "SubTitlePositionY2": 133,
+    "SubTitlePositionX3": null,
+    "SubTitlePositionY3": null,
+    "ReleaseItemGroupId": 2,
+    "PronounceName": "びょうしんのあんそく",
+    "Costumes": [],
+    "AppearanceCharacterBaseMasterIds": [
+      205
+    ],
+    "IsRestrictItemBreakThrough": false,
+    "DisplayStartAt": "2024-01-10T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
     "Id": 229010,
     "Name": "【SIRIUS】竹取物語",
     "OrganizeRestrictGroupId": null,
@@ -2445,6 +2467,46 @@
     ],
     "IsRestrictItemBreakThrough": false,
     "DisplayStartAt": "2023-12-31T15:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 230340,
+    "Name": "ウソつき人形の望むもの",
+    "OrganizeRestrictGroupId": null,
+    "Rarity": "SSR",
+    "LevelPatternGroupMasterId": 3,
+    "SubTitlePositionX1": 603,
+    "SubTitlePositionY1": 1415,
+    "SubTitlePositionX2": 93,
+    "SubTitlePositionY2": 70,
+    "SubTitlePositionX3": null,
+    "SubTitlePositionY3": null,
+    "ReleaseItemGroupId": 3,
+    "PronounceName": "うそつきにんぎょうののぞむもの",
+    "Costumes": [
+      {
+        "Phase": 0,
+        "CostumeMasterId": 1721
+      },
+      {
+        "Phase": 1,
+        "CostumeMasterId": 1722
+      },
+      {
+        "Phase": 2,
+        "CostumeMasterId": 1731
+      },
+      {
+        "Phase": 3,
+        "CostumeMasterId": 1732
+      }
+    ],
+    "AppearanceCharacterBaseMasterIds": [
+      203,
+      205
+    ],
+    "IsRestrictItemBreakThrough": false,
+    "DisplayStartAt": "2024-01-10T17:00:00.000Z",
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   },
   {

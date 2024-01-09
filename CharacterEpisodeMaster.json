@@ -1106,6 +1106,20 @@
     "RequiredCharacterLevel": 25
   },
   {
+    "Id": 130391,
+    "CharacterMasterId": 130390,
+    "EpisodeMasterId": 130391,
+    "EpisodeOrder": "First",
+    "RequiredCharacterLevel": 1
+  },
+  {
+    "Id": 130392,
+    "CharacterMasterId": 130390,
+    "EpisodeMasterId": 130392,
+    "EpisodeOrder": "Second",
+    "RequiredCharacterLevel": 25
+  },
+  {
     "Id": 140011,
     "CharacterMasterId": 140010,
     "EpisodeMasterId": 140011,
@@ -1774,6 +1788,34 @@
     "Id": 140512,
     "CharacterMasterId": 140510,
     "EpisodeMasterId": 140512,
+    "EpisodeOrder": "Second",
+    "RequiredCharacterLevel": 25
+  },
+  {
+    "Id": 140541,
+    "CharacterMasterId": 140540,
+    "EpisodeMasterId": 140541,
+    "EpisodeOrder": "First",
+    "RequiredCharacterLevel": 1
+  },
+  {
+    "Id": 140542,
+    "CharacterMasterId": 140540,
+    "EpisodeMasterId": 140542,
+    "EpisodeOrder": "Second",
+    "RequiredCharacterLevel": 25
+  },
+  {
+    "Id": 140551,
+    "CharacterMasterId": 140550,
+    "EpisodeMasterId": 140551,
+    "EpisodeOrder": "First",
+    "RequiredCharacterLevel": 1
+  },
+  {
+    "Id": 140552,
+    "CharacterMasterId": 140550,
+    "EpisodeMasterId": 140552,
     "EpisodeOrder": "Second",
     "RequiredCharacterLevel": 25
   }
