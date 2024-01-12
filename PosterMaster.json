@@ -2524,7 +2524,9 @@
     "ReleaseItemGroupId": 2,
     "PronounceName": "きんがしんねん2024",
     "Costumes": [],
-    "AppearanceCharacterBaseMasterIds": [],
+    "AppearanceCharacterBaseMasterIds": [
+      101
+    ],
     "IsRestrictItemBreakThrough": false,
     "DisplayStartAt": "2023-12-31T15:00:00.000Z",
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
