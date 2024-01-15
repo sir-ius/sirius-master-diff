@@ -2391,7 +2391,7 @@
     "DurationSecond": 0,
     "Triggers": [
       {
-        "Trigger": "OverLife,BelowLife,Company",
+        "Trigger": "CompanyCount",
         "Value": 1
       }
     ],
@@ -2412,7 +2412,7 @@
     "DurationSecond": 0,
     "Triggers": [
       {
-        "Trigger": "8",
+        "Trigger": "AttributeCount",
         "Value": 1
       }
     ],
@@ -3217,7 +3217,7 @@
   },
   {
     "Id": 80014,
-    "Type": "BaseExpressionUp,BaseCorrection,VocalLimitUp,BaseScoreUp",
+    "Type": "PerformanceLimitUp",
     "Range": "All",
     "CalculationType": "PercentageAddition",
     "Details": [
@@ -3396,7 +3396,7 @@
   },
   {
     "Id": 80017,
-    "Type": "BaseExpressionUp,BaseCorrection,VocalLimitUp,BaseScoreUp",
+    "Type": "PerformanceLimitUp",
     "Range": "All",
     "CalculationType": "PercentageAddition",
     "Details": [
@@ -3685,7 +3685,7 @@
   },
   {
     "Id": 80022,
-    "Type": "BaseExpressionUp,BaseCorrection,VocalLimitUp,BaseScoreUp",
+    "Type": "PerformanceLimitUp",
     "Range": "All",
     "CalculationType": "PercentageAddition",
     "Details": [
@@ -3860,7 +3860,7 @@
   },
   {
     "Id": 80025,
-    "Type": "BaseExpressionUp,BaseCorrection,VocalLimitUp,BaseScoreUp",
+    "Type": "PerformanceLimitUp",
     "Range": "All",
     "CalculationType": "PercentageAddition",
     "Details": [
@@ -4157,7 +4157,7 @@
   },
   {
     "Id": 80030,
-    "Type": "BaseExpressionUp,BaseCorrection,VocalLimitUp,BaseScoreUp",
+    "Type": "PerformanceLimitUp",
     "Range": "All",
     "CalculationType": "PercentageAddition",
     "Details": [
@@ -8217,7 +8217,7 @@
         "Value": 401
       },
       {
-        "Trigger": "OverLife,BelowLife,Company",
+        "Trigger": "CompanyCount",
         "Value": 1
       }
     ],

@@ -5,7 +5,8 @@
     "Color": "#f8c90e",
     "GiveStarPoint": 500,
     "StartDate": "2023-01-01T00:00:00.000Z",
-    "EndDate": "2100-01-01T00:00:00.000Z"
+    "EndDate": "2100-01-01T00:00:00.000Z",
+    "RequiredCategoryCount": 1
   },
   {
     "Id": 2,
@@ -13,7 +14,8 @@
     "Color": "#f8b20e",
     "GiveStarPoint": 1000,
     "StartDate": "2023-01-01T00:00:00.000Z",
-    "EndDate": "2100-01-01T00:00:00.000Z"
+    "EndDate": "2100-01-01T00:00:00.000Z",
+    "RequiredCategoryCount": 1
   },
   {
     "Id": 3,
@@ -21,7 +23,8 @@
     "Color": "#ffa5a8",
     "GiveStarPoint": 1750,
     "StartDate": "2023-01-01T00:00:00.000Z",
-    "EndDate": "2100-01-01T00:00:00.000Z"
+    "EndDate": "2100-01-01T00:00:00.000Z",
+    "RequiredCategoryCount": 1
   },
   {
     "Id": 4,
@@ -29,7 +32,8 @@
     "Color": "#ff787d",
     "GiveStarPoint": 2500,
     "StartDate": "2023-01-01T00:00:00.000Z",
-    "EndDate": "2100-01-01T00:00:00.000Z"
+    "EndDate": "2100-01-01T00:00:00.000Z",
+    "RequiredCategoryCount": 1
   },
   {
     "Id": 5,
@@ -37,7 +41,8 @@
     "Color": "#6df3c5",
     "GiveStarPoint": 3500,
     "StartDate": "2023-01-01T00:00:00.000Z",
-    "EndDate": "2100-01-01T00:00:00.000Z"
+    "EndDate": "2100-01-01T00:00:00.000Z",
+    "RequiredCategoryCount": 1
   },
   {
     "Id": 6,
@@ -45,7 +50,8 @@
     "Color": "#26eea8",
     "GiveStarPoint": 4500,
     "StartDate": "2023-01-01T00:00:00.000Z",
-    "EndDate": "2100-01-01T00:00:00.000Z"
+    "EndDate": "2100-01-01T00:00:00.000Z",
+    "RequiredCategoryCount": 1
   },
   {
     "Id": 7,
@@ -53,7 +59,8 @@
     "Color": "#7d89ff",
     "GiveStarPoint": 5750,
     "StartDate": "2023-01-01T00:00:00.000Z",
-    "EndDate": "2100-01-01T00:00:00.000Z"
+    "EndDate": "2100-01-01T00:00:00.000Z",
+    "RequiredCategoryCount": 1
   },
   {
     "Id": 8,
@@ -61,7 +68,8 @@
     "Color": "#8589ff",
     "GiveStarPoint": 7000,
     "StartDate": "2023-01-01T00:00:00.000Z",
-    "EndDate": "2100-01-01T00:00:00.000Z"
+    "EndDate": "2100-01-01T00:00:00.000Z",
+    "RequiredCategoryCount": 1
   },
   {
     "Id": 9,
@@ -69,7 +77,8 @@
     "Color": "#c881ff",
     "GiveStarPoint": 8500,
     "StartDate": "2023-01-01T00:00:00.000Z",
-    "EndDate": "2100-01-01T00:00:00.000Z"
+    "EndDate": "2100-01-01T00:00:00.000Z",
+    "RequiredCategoryCount": 1
   },
   {
     "Id": 10,
@@ -77,7 +86,8 @@
     "Color": "#c051ff",
     "GiveStarPoint": 10000,
     "StartDate": "2023-01-01T00:00:00.000Z",
-    "EndDate": "2100-01-01T00:00:00.000Z"
+    "EndDate": "2100-01-01T00:00:00.000Z",
+    "RequiredCategoryCount": 1
   },
   {
     "Id": 11,
@@ -85,7 +95,8 @@
     "Color": "#f8c90e",
     "GiveStarPoint": 11500,
     "StartDate": "2023-12-14T13:00:00.000Z",
-    "EndDate": "2100-01-01T00:00:00.000Z"
+    "EndDate": "2100-01-01T00:00:00.000Z",
+    "RequiredCategoryCount": 3
   },
   {
     "Id": 12,
@@ -93,7 +104,8 @@
     "Color": "#f8b20e",
     "GiveStarPoint": 13000,
     "StartDate": "2023-12-14T13:00:00.000Z",
-    "EndDate": "2100-01-01T00:00:00.000Z"
+    "EndDate": "2100-01-01T00:00:00.000Z",
+    "RequiredCategoryCount": 3
   },
   {
     "Id": 13,
@@ -101,7 +113,8 @@
     "Color": "#ffa5a8",
     "GiveStarPoint": 14500,
     "StartDate": "2023-12-14T13:00:00.000Z",
-    "EndDate": "2100-01-01T00:00:00.000Z"
+    "EndDate": "2100-01-01T00:00:00.000Z",
+    "RequiredCategoryCount": 3
   },
   {
     "Id": 14,
@@ -109,7 +122,8 @@
     "Color": "#ff787d",
     "GiveStarPoint": 16000,
     "StartDate": "2023-12-14T13:00:00.000Z",
-    "EndDate": "2100-01-01T00:00:00.000Z"
+    "EndDate": "2100-01-01T00:00:00.000Z",
+    "RequiredCategoryCount": 3
   },
   {
     "Id": 15,
@@ -117,6 +131,7 @@
     "Color": "#6df3c5",
     "GiveStarPoint": 17500,
     "StartDate": "2023-12-14T13:00:00.000Z",
-    "EndDate": "2100-01-01T00:00:00.000Z"
+    "EndDate": "2100-01-01T00:00:00.000Z",
+    "RequiredCategoryCount": 3
   }
 ]

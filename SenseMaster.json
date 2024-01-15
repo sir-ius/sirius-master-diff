@@ -10,7 +10,11 @@
     "AcquirableScorePercent": 210,
     "ScoreUpPerLevel": 20,
     "LightCount": 1,
-    "CoolTime": 30
+    "CoolTime": 30,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 110020,
@@ -43,7 +47,11 @@
     "AcquirableScorePercent": 0,
     "ScoreUpPerLevel": 0,
     "LightCount": 0,
-    "CoolTime": 0
+    "CoolTime": 0,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 110030,
@@ -56,7 +64,11 @@
     "AcquirableScorePercent": 210,
     "ScoreUpPerLevel": 20,
     "LightCount": 1,
-    "CoolTime": 30
+    "CoolTime": 30,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 110040,
@@ -69,7 +81,11 @@
     "AcquirableScorePercent": 210,
     "ScoreUpPerLevel": 20,
     "LightCount": 1,
-    "CoolTime": 30
+    "CoolTime": 30,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 110050,
@@ -82,7 +98,11 @@
     "AcquirableScorePercent": 210,
     "ScoreUpPerLevel": 20,
     "LightCount": 1,
-    "CoolTime": 30
+    "CoolTime": 30,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 110060,
@@ -95,7 +115,11 @@
     "AcquirableScorePercent": 210,
     "ScoreUpPerLevel": 20,
     "LightCount": 1,
-    "CoolTime": 30
+    "CoolTime": 30,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 110070,
@@ -108,7 +132,11 @@
     "AcquirableScorePercent": 210,
     "ScoreUpPerLevel": 20,
     "LightCount": 1,
-    "CoolTime": 30
+    "CoolTime": 30,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 110080,
@@ -121,7 +149,11 @@
     "AcquirableScorePercent": 210,
     "ScoreUpPerLevel": 20,
     "LightCount": 1,
-    "CoolTime": 30
+    "CoolTime": 30,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 110090,
@@ -134,7 +166,11 @@
     "AcquirableScorePercent": 210,
     "ScoreUpPerLevel": 20,
     "LightCount": 1,
-    "CoolTime": 30
+    "CoolTime": 30,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 110100,
@@ -147,7 +183,11 @@
     "AcquirableScorePercent": 210,
     "ScoreUpPerLevel": 20,
     "LightCount": 1,
-    "CoolTime": 30
+    "CoolTime": 30,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 110110,
@@ -160,7 +200,11 @@
     "AcquirableScorePercent": 210,
     "ScoreUpPerLevel": 20,
     "LightCount": 1,
-    "CoolTime": 30
+    "CoolTime": 30,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 110120,
@@ -173,7 +217,11 @@
     "AcquirableScorePercent": 210,
     "ScoreUpPerLevel": 20,
     "LightCount": 1,
-    "CoolTime": 30
+    "CoolTime": 30,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 110130,
@@ -186,7 +234,11 @@
     "AcquirableScorePercent": 210,
     "ScoreUpPerLevel": 20,
     "LightCount": 1,
-    "CoolTime": 30
+    "CoolTime": 30,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 110140,
@@ -199,7 +251,11 @@
     "AcquirableScorePercent": 210,
     "ScoreUpPerLevel": 20,
     "LightCount": 1,
-    "CoolTime": 30
+    "CoolTime": 30,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 110150,
@@ -212,7 +268,11 @@
     "AcquirableScorePercent": 210,
     "ScoreUpPerLevel": 20,
     "LightCount": 1,
-    "CoolTime": 30
+    "CoolTime": 30,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 110160,
@@ -225,7 +285,11 @@
     "AcquirableScorePercent": 210,
     "ScoreUpPerLevel": 20,
     "LightCount": 1,
-    "CoolTime": 30
+    "CoolTime": 30,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 110170,
@@ -238,7 +302,11 @@
     "AcquirableScorePercent": 0,
     "ScoreUpPerLevel": 0,
     "LightCount": 0,
-    "CoolTime": 0
+    "CoolTime": 0,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 110180,
@@ -251,7 +319,11 @@
     "AcquirableScorePercent": 210,
     "ScoreUpPerLevel": 20,
     "LightCount": 1,
-    "CoolTime": 30
+    "CoolTime": 30,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 110190,
@@ -264,7 +336,11 @@
     "AcquirableScorePercent": 210,
     "ScoreUpPerLevel": 20,
     "LightCount": 1,
-    "CoolTime": 30
+    "CoolTime": 30,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 110200,
@@ -277,7 +353,11 @@
     "AcquirableScorePercent": 210,
     "ScoreUpPerLevel": 20,
     "LightCount": 1,
-    "CoolTime": 30
+    "CoolTime": 30,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 110210,
@@ -290,7 +370,11 @@
     "AcquirableScorePercent": 210,
     "ScoreUpPerLevel": 20,
     "LightCount": 1,
-    "CoolTime": 30
+    "CoolTime": 30,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 120010,
@@ -318,7 +402,11 @@
     "AcquirableScorePercent": 160,
     "ScoreUpPerLevel": 30,
     "LightCount": 1,
-    "CoolTime": 50
+    "CoolTime": 50,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 120020,
@@ -351,7 +439,11 @@
     "AcquirableScorePercent": 0,
     "ScoreUpPerLevel": 0,
     "LightCount": 0,
-    "CoolTime": 0
+    "CoolTime": 0,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 120030,
@@ -364,7 +456,11 @@
     "AcquirableScorePercent": 120,
     "ScoreUpPerLevel": 30,
     "LightCount": 1,
-    "CoolTime": 50
+    "CoolTime": 50,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 120040,
@@ -377,7 +473,11 @@
     "AcquirableScorePercent": 330,
     "ScoreUpPerLevel": 30,
     "LightCount": 1,
-    "CoolTime": 40
+    "CoolTime": 40,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 120050,
@@ -390,7 +490,11 @@
     "AcquirableScorePercent": 60,
     "ScoreUpPerLevel": 30,
     "LightCount": 1,
-    "CoolTime": 30
+    "CoolTime": 30,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 120060,
@@ -418,7 +522,11 @@
     "AcquirableScorePercent": 120,
     "ScoreUpPerLevel": 30,
     "LightCount": 1,
-    "CoolTime": 40
+    "CoolTime": 40,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 120070,
@@ -446,7 +554,11 @@
     "AcquirableScorePercent": 160,
     "ScoreUpPerLevel": 30,
     "LightCount": 1,
-    "CoolTime": 50
+    "CoolTime": 50,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 120080,
@@ -474,7 +586,11 @@
     "AcquirableScorePercent": 150,
     "ScoreUpPerLevel": 40,
     "LightCount": 1,
-    "CoolTime": 60
+    "CoolTime": 60,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 120090,
@@ -487,7 +603,11 @@
     "AcquirableScorePercent": 90,
     "ScoreUpPerLevel": 30,
     "LightCount": 1,
-    "CoolTime": 40
+    "CoolTime": 40,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 120100,
@@ -500,7 +620,11 @@
     "AcquirableScorePercent": 120,
     "ScoreUpPerLevel": 30,
     "LightCount": 1,
-    "CoolTime": 50
+    "CoolTime": 50,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 120110,
@@ -513,7 +637,11 @@
     "AcquirableScorePercent": 330,
     "ScoreUpPerLevel": 30,
     "LightCount": 1,
-    "CoolTime": 40
+    "CoolTime": 40,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 120120,
@@ -541,7 +669,11 @@
     "AcquirableScorePercent": 160,
     "ScoreUpPerLevel": 30,
     "LightCount": 1,
-    "CoolTime": 50
+    "CoolTime": 50,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 120130,
@@ -554,7 +686,11 @@
     "AcquirableScorePercent": 60,
     "ScoreUpPerLevel": 30,
     "LightCount": 1,
-    "CoolTime": 30
+    "CoolTime": 30,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 120140,
@@ -582,7 +718,11 @@
     "AcquirableScorePercent": 150,
     "ScoreUpPerLevel": 40,
     "LightCount": 1,
-    "CoolTime": 60
+    "CoolTime": 60,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 120150,
@@ -595,7 +735,11 @@
     "AcquirableScorePercent": 330,
     "ScoreUpPerLevel": 30,
     "LightCount": 1,
-    "CoolTime": 40
+    "CoolTime": 40,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 120160,
@@ -623,7 +767,11 @@
     "AcquirableScorePercent": 150,
     "ScoreUpPerLevel": 40,
     "LightCount": 1,
-    "CoolTime": 60
+    "CoolTime": 60,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 120170,
@@ -636,7 +784,11 @@
     "AcquirableScorePercent": 0,
     "ScoreUpPerLevel": 0,
     "LightCount": 0,
-    "CoolTime": 0
+    "CoolTime": 0,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 120180,
@@ -664,7 +816,11 @@
     "AcquirableScorePercent": 160,
     "ScoreUpPerLevel": 30,
     "LightCount": 1,
-    "CoolTime": 50
+    "CoolTime": 50,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 120190,
@@ -677,7 +833,11 @@
     "AcquirableScorePercent": 60,
     "ScoreUpPerLevel": 30,
     "LightCount": 1,
-    "CoolTime": 30
+    "CoolTime": 30,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 120200,
@@ -690,7 +850,11 @@
     "AcquirableScorePercent": 260,
     "ScoreUpPerLevel": 30,
     "LightCount": 1,
-    "CoolTime": 30
+    "CoolTime": 30,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 120210,
@@ -703,7 +867,11 @@
     "AcquirableScorePercent": 330,
     "ScoreUpPerLevel": 30,
     "LightCount": 1,
-    "CoolTime": 40
+    "CoolTime": 40,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 130010,
@@ -731,7 +899,11 @@
     "AcquirableScorePercent": 140,
     "ScoreUpPerLevel": 40,
     "LightCount": 1,
-    "CoolTime": 40
+    "CoolTime": 40,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 130020,
@@ -764,7 +936,11 @@
     "AcquirableScorePercent": 0,
     "ScoreUpPerLevel": 0,
     "LightCount": 0,
-    "CoolTime": 0
+    "CoolTime": 0,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 130030,
@@ -777,7 +953,11 @@
     "AcquirableScorePercent": 110,
     "ScoreUpPerLevel": 40,
     "LightCount": 1,
-    "CoolTime": 40
+    "CoolTime": 40,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 130040,
@@ -790,7 +970,11 @@
     "AcquirableScorePercent": 490,
     "ScoreUpPerLevel": 40,
     "LightCount": 1,
-    "CoolTime": 50
+    "CoolTime": 50,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 130050,
@@ -818,7 +1002,11 @@
     "AcquirableScorePercent": 190,
     "ScoreUpPerLevel": 40,
     "LightCount": 1,
-    "CoolTime": 50
+    "CoolTime": 50,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 130060,
@@ -831,7 +1019,11 @@
     "AcquirableScorePercent": 110,
     "ScoreUpPerLevel": 40,
     "LightCount": 1,
-    "CoolTime": 40
+    "CoolTime": 40,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 130070,
@@ -859,7 +1051,11 @@
     "AcquirableScorePercent": 190,
     "ScoreUpPerLevel": 40,
     "LightCount": 1,
-    "CoolTime": 50
+    "CoolTime": 50,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 130080,
@@ -887,7 +1083,11 @@
     "AcquirableScorePercent": 190,
     "ScoreUpPerLevel": 40,
     "LightCount": 1,
-    "CoolTime": 50
+    "CoolTime": 50,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 130090,
@@ -900,7 +1100,11 @@
     "AcquirableScorePercent": 110,
     "ScoreUpPerLevel": 40,
     "LightCount": 1,
-    "CoolTime": 40
+    "CoolTime": 40,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 130100,
@@ -913,7 +1117,11 @@
     "AcquirableScorePercent": 360,
     "ScoreUpPerLevel": 30,
     "LightCount": 1,
-    "CoolTime": 30
+    "CoolTime": 30,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 130110,
@@ -926,7 +1134,11 @@
     "AcquirableScorePercent": 410,
     "ScoreUpPerLevel": 40,
     "LightCount": 1,
-    "CoolTime": 40
+    "CoolTime": 40,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 130120,
@@ -954,7 +1166,11 @@
     "AcquirableScorePercent": 140,
     "ScoreUpPerLevel": 40,
     "LightCount": 1,
-    "CoolTime": 40
+    "CoolTime": 40,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 130130,
@@ -967,7 +1183,11 @@
     "AcquirableScorePercent": 410,
     "ScoreUpPerLevel": 40,
     "LightCount": 1,
-    "CoolTime": 40
+    "CoolTime": 40,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 130140,
@@ -995,7 +1215,11 @@
     "AcquirableScorePercent": 140,
     "ScoreUpPerLevel": 30,
     "LightCount": 1,
-    "CoolTime": 30
+    "CoolTime": 30,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 130150,
@@ -1008,7 +1232,11 @@
     "AcquirableScorePercent": 520,
     "ScoreUpPerLevel": 50,
     "LightCount": 1,
-    "CoolTime": 60
+    "CoolTime": 60,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 130160,
@@ -1021,7 +1249,11 @@
     "AcquirableScorePercent": 140,
     "ScoreUpPerLevel": 40,
     "LightCount": 1,
-    "CoolTime": 50
+    "CoolTime": 50,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 130170,
@@ -1034,7 +1266,11 @@
     "AcquirableScorePercent": 0,
     "ScoreUpPerLevel": 0,
     "LightCount": 0,
-    "CoolTime": 0
+    "CoolTime": 0,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 130180,
@@ -1062,7 +1298,11 @@
     "AcquirableScorePercent": 140,
     "ScoreUpPerLevel": 40,
     "LightCount": 1,
-    "CoolTime": 40
+    "CoolTime": 40,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 130190,
@@ -1090,7 +1330,11 @@
     "AcquirableScorePercent": 140,
     "ScoreUpPerLevel": 40,
     "LightCount": 1,
-    "CoolTime": 40
+    "CoolTime": 40,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 130200,
@@ -1103,7 +1347,11 @@
     "AcquirableScorePercent": 140,
     "ScoreUpPerLevel": 40,
     "LightCount": 1,
-    "CoolTime": 50
+    "CoolTime": 50,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 130210,
@@ -1116,7 +1364,11 @@
     "AcquirableScorePercent": 360,
     "ScoreUpPerLevel": 30,
     "LightCount": 1,
-    "CoolTime": 30
+    "CoolTime": 30,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 130220,
@@ -1144,7 +1396,11 @@
     "AcquirableScorePercent": 190,
     "ScoreUpPerLevel": 40,
     "LightCount": 1,
-    "CoolTime": 50
+    "CoolTime": 50,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 130230,
@@ -1157,7 +1413,11 @@
     "AcquirableScorePercent": 0,
     "ScoreUpPerLevel": 0,
     "LightCount": 0,
-    "CoolTime": 0
+    "CoolTime": 0,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 130240,
@@ -1170,7 +1430,11 @@
     "AcquirableScorePercent": 140,
     "ScoreUpPerLevel": 40,
     "LightCount": 1,
-    "CoolTime": 50
+    "CoolTime": 50,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 130250,
@@ -1183,7 +1447,11 @@
     "AcquirableScorePercent": 140,
     "ScoreUpPerLevel": 50,
     "LightCount": 1,
-    "CoolTime": 60
+    "CoolTime": 60,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 130260,
@@ -1211,7 +1479,11 @@
     "AcquirableScorePercent": 140,
     "ScoreUpPerLevel": 40,
     "LightCount": 1,
-    "CoolTime": 40
+    "CoolTime": 40,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 130270,
@@ -1224,7 +1496,11 @@
     "AcquirableScorePercent": 410,
     "ScoreUpPerLevel": 40,
     "LightCount": 1,
-    "CoolTime": 40
+    "CoolTime": 40,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 130280,
@@ -1237,7 +1513,11 @@
     "AcquirableScorePercent": 0,
     "ScoreUpPerLevel": 0,
     "LightCount": 0,
-    "CoolTime": 0
+    "CoolTime": 0,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 130290,
@@ -1250,7 +1530,11 @@
     "AcquirableScorePercent": 520,
     "ScoreUpPerLevel": 50,
     "LightCount": 1,
-    "CoolTime": 60
+    "CoolTime": 60,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 130300,
@@ -1263,7 +1547,11 @@
     "AcquirableScorePercent": 520,
     "ScoreUpPerLevel": 50,
     "LightCount": 1,
-    "CoolTime": 60
+    "CoolTime": 60,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 130310,
@@ -1276,7 +1564,11 @@
     "AcquirableScorePercent": 140,
     "ScoreUpPerLevel": 40,
     "LightCount": 1,
-    "CoolTime": 50
+    "CoolTime": 50,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 130320,
@@ -1289,7 +1581,11 @@
     "AcquirableScorePercent": 410,
     "ScoreUpPerLevel": 40,
     "LightCount": 1,
-    "CoolTime": 40
+    "CoolTime": 40,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 130330,
@@ -1317,7 +1613,11 @@
     "AcquirableScorePercent": 190,
     "ScoreUpPerLevel": 50,
     "LightCount": 1,
-    "CoolTime": 60
+    "CoolTime": 60,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 130340,
@@ -1345,7 +1645,11 @@
     "AcquirableScorePercent": 140,
     "ScoreUpPerLevel": 40,
     "LightCount": 1,
-    "CoolTime": 40
+    "CoolTime": 40,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 130360,
@@ -1358,7 +1662,11 @@
     "AcquirableScorePercent": 520,
     "ScoreUpPerLevel": 50,
     "LightCount": 1,
-    "CoolTime": 60
+    "CoolTime": 60,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 130370,
@@ -1371,7 +1679,11 @@
     "AcquirableScorePercent": 490,
     "ScoreUpPerLevel": 40,
     "LightCount": 1,
-    "CoolTime": 50
+    "CoolTime": 50,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 130380,
@@ -1389,7 +1701,11 @@
     "AcquirableScorePercent": 0,
     "ScoreUpPerLevel": 0,
     "LightCount": 0,
-    "CoolTime": 0
+    "CoolTime": 0,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 130390,
@@ -1402,7 +1718,11 @@
     "AcquirableScorePercent": 110,
     "ScoreUpPerLevel": 40,
     "LightCount": 1,
-    "CoolTime": 40
+    "CoolTime": 40,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140010,
@@ -1435,7 +1755,11 @@
     "AcquirableScorePercent": 220,
     "ScoreUpPerLevel": 50,
     "LightCount": 1,
-    "CoolTime": 40
+    "CoolTime": 40,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140020,
@@ -1448,7 +1772,11 @@
     "AcquirableScorePercent": 510,
     "ScoreUpPerLevel": 40,
     "LightCount": 1,
-    "CoolTime": 30
+    "CoolTime": 30,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140030,
@@ -1476,7 +1804,11 @@
     "AcquirableScorePercent": 250,
     "ScoreUpPerLevel": 60,
     "LightCount": 1,
-    "CoolTime": 50
+    "CoolTime": 50,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140040,
@@ -1489,7 +1821,11 @@
     "AcquirableScorePercent": 170,
     "ScoreUpPerLevel": 50,
     "LightCount": 1,
-    "CoolTime": 40
+    "CoolTime": 40,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140050,
@@ -1517,7 +1853,11 @@
     "AcquirableScorePercent": 250,
     "ScoreUpPerLevel": 60,
     "LightCount": 1,
-    "CoolTime": 50
+    "CoolTime": 50,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140060,
@@ -1530,7 +1870,11 @@
     "AcquirableScorePercent": 600,
     "ScoreUpPerLevel": 50,
     "LightCount": 1,
-    "CoolTime": 40
+    "CoolTime": 40,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140070,
@@ -1543,7 +1887,11 @@
     "AcquirableScorePercent": 180,
     "ScoreUpPerLevel": 60,
     "LightCount": 1,
-    "CoolTime": 50
+    "CoolTime": 50,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140080,
@@ -1571,7 +1919,11 @@
     "AcquirableScorePercent": 220,
     "ScoreUpPerLevel": 50,
     "LightCount": 1,
-    "CoolTime": 40
+    "CoolTime": 40,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140090,
@@ -1584,7 +1936,11 @@
     "AcquirableScorePercent": 510,
     "ScoreUpPerLevel": 40,
     "LightCount": 1,
-    "CoolTime": 30
+    "CoolTime": 30,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140100,
@@ -1597,7 +1953,11 @@
     "AcquirableScorePercent": 180,
     "ScoreUpPerLevel": 60,
     "LightCount": 1,
-    "CoolTime": 50
+    "CoolTime": 50,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140110,
@@ -1610,7 +1970,11 @@
     "AcquirableScorePercent": 0,
     "ScoreUpPerLevel": 0,
     "LightCount": 0,
-    "CoolTime": 0
+    "CoolTime": 0,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140120,
@@ -1638,7 +2002,11 @@
     "AcquirableScorePercent": 220,
     "ScoreUpPerLevel": 50,
     "LightCount": 1,
-    "CoolTime": 40
+    "CoolTime": 40,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140130,
@@ -1651,7 +2019,11 @@
     "AcquirableScorePercent": 670,
     "ScoreUpPerLevel": 60,
     "LightCount": 1,
-    "CoolTime": 50
+    "CoolTime": 50,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140140,
@@ -1679,7 +2051,11 @@
     "AcquirableScorePercent": 260,
     "ScoreUpPerLevel": 70,
     "LightCount": 1,
-    "CoolTime": 60
+    "CoolTime": 60,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140150,
@@ -1692,7 +2068,11 @@
     "AcquirableScorePercent": 510,
     "ScoreUpPerLevel": 40,
     "LightCount": 1,
-    "CoolTime": 30
+    "CoolTime": 30,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140160,
@@ -1720,7 +2100,11 @@
     "AcquirableScorePercent": 250,
     "ScoreUpPerLevel": 60,
     "LightCount": 1,
-    "CoolTime": 50
+    "CoolTime": 50,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140170,
@@ -1733,7 +2117,11 @@
     "AcquirableScorePercent": 510,
     "ScoreUpPerLevel": 40,
     "LightCount": 1,
-    "CoolTime": 30
+    "CoolTime": 30,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140180,
@@ -1761,7 +2149,11 @@
     "AcquirableScorePercent": 170,
     "ScoreUpPerLevel": 50,
     "LightCount": 1,
-    "CoolTime": 40
+    "CoolTime": 40,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140190,
@@ -1774,7 +2166,11 @@
     "AcquirableScorePercent": 190,
     "ScoreUpPerLevel": 70,
     "LightCount": 1,
-    "CoolTime": 60
+    "CoolTime": 60,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140200,
@@ -1807,7 +2203,11 @@
     "AcquirableScorePercent": 0,
     "ScoreUpPerLevel": 0,
     "LightCount": 0,
-    "CoolTime": 0
+    "CoolTime": 0,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140210,
@@ -1835,7 +2235,11 @@
     "AcquirableScorePercent": 600,
     "ScoreUpPerLevel": 50,
     "LightCount": 1,
-    "CoolTime": 40
+    "CoolTime": 40,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140220,
@@ -1848,7 +2252,11 @@
     "AcquirableScorePercent": 540,
     "ScoreUpPerLevel": 50,
     "LightCount": 1,
-    "CoolTime": 35
+    "CoolTime": 35,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140240,
@@ -1876,7 +2284,11 @@
     "AcquirableScorePercent": 250,
     "ScoreUpPerLevel": 60,
     "LightCount": 1,
-    "CoolTime": 50
+    "CoolTime": 50,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140250,
@@ -1889,7 +2301,11 @@
     "AcquirableScorePercent": 0,
     "ScoreUpPerLevel": 0,
     "LightCount": 0,
-    "CoolTime": 0
+    "CoolTime": 0,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140260,
@@ -1902,7 +2318,11 @@
     "AcquirableScorePercent": 190,
     "ScoreUpPerLevel": 70,
     "LightCount": 1,
-    "CoolTime": 60
+    "CoolTime": 60,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140270,
@@ -1915,7 +2335,11 @@
     "AcquirableScorePercent": 600,
     "ScoreUpPerLevel": 50,
     "LightCount": 1,
-    "CoolTime": 40
+    "CoolTime": 40,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140280,
@@ -1943,7 +2367,11 @@
     "AcquirableScorePercent": 190,
     "ScoreUpPerLevel": 50,
     "LightCount": 1,
-    "CoolTime": 35
+    "CoolTime": 35,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140290,
@@ -1956,7 +2384,11 @@
     "AcquirableScorePercent": 600,
     "ScoreUpPerLevel": 50,
     "LightCount": 1,
-    "CoolTime": 40
+    "CoolTime": 40,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140300,
@@ -1969,7 +2401,11 @@
     "AcquirableScorePercent": 510,
     "ScoreUpPerLevel": 40,
     "LightCount": 1,
-    "CoolTime": 30
+    "CoolTime": 30,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140310,
@@ -1997,7 +2433,11 @@
     "AcquirableScorePercent": 170,
     "ScoreUpPerLevel": 50,
     "LightCount": 1,
-    "CoolTime": 40
+    "CoolTime": 40,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140320,
@@ -2010,7 +2450,11 @@
     "AcquirableScorePercent": 1170,
     "ScoreUpPerLevel": 100,
     "LightCount": 1,
-    "CoolTime": 80
+    "CoolTime": 80,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140330,
@@ -2038,7 +2482,11 @@
     "AcquirableScorePercent": 320,
     "ScoreUpPerLevel": 70,
     "LightCount": 1,
-    "CoolTime": 65
+    "CoolTime": 65,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140340,
@@ -2051,7 +2499,11 @@
     "AcquirableScorePercent": 670,
     "ScoreUpPerLevel": 60,
     "LightCount": 1,
-    "CoolTime": 50
+    "CoolTime": 50,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140350,
@@ -2079,7 +2531,11 @@
     "AcquirableScorePercent": 250,
     "ScoreUpPerLevel": 60,
     "LightCount": 1,
-    "CoolTime": 50
+    "CoolTime": 50,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140360,
@@ -2092,7 +2548,11 @@
     "AcquirableScorePercent": 0,
     "ScoreUpPerLevel": 0,
     "LightCount": 0,
-    "CoolTime": 0
+    "CoolTime": 0,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140370,
@@ -2105,7 +2565,11 @@
     "AcquirableScorePercent": 190,
     "ScoreUpPerLevel": 70,
     "LightCount": 1,
-    "CoolTime": 60
+    "CoolTime": 60,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140380,
@@ -2133,7 +2597,11 @@
     "AcquirableScorePercent": 250,
     "ScoreUpPerLevel": 60,
     "LightCount": 1,
-    "CoolTime": 50
+    "CoolTime": 50,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140390,
@@ -2146,7 +2614,11 @@
     "AcquirableScorePercent": 600,
     "ScoreUpPerLevel": 50,
     "LightCount": 1,
-    "CoolTime": 40
+    "CoolTime": 40,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140400,
@@ -2159,7 +2631,11 @@
     "AcquirableScorePercent": 510,
     "ScoreUpPerLevel": 40,
     "LightCount": 1,
-    "CoolTime": 30
+    "CoolTime": 30,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140410,
@@ -2172,7 +2648,11 @@
     "AcquirableScorePercent": 600,
     "ScoreUpPerLevel": 50,
     "LightCount": 1,
-    "CoolTime": 40
+    "CoolTime": 40,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140420,
@@ -2200,7 +2680,11 @@
     "AcquirableScorePercent": 170,
     "ScoreUpPerLevel": 50,
     "LightCount": 1,
-    "CoolTime": 40
+    "CoolTime": 40,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140430,
@@ -2213,7 +2697,11 @@
     "AcquirableScorePercent": 670,
     "ScoreUpPerLevel": 60,
     "LightCount": 1,
-    "CoolTime": 50
+    "CoolTime": 50,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140460,
@@ -2226,7 +2714,11 @@
     "AcquirableScorePercent": 740,
     "ScoreUpPerLevel": 70,
     "LightCount": 1,
-    "CoolTime": 60
+    "CoolTime": 60,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140470,
@@ -2239,7 +2731,11 @@
     "AcquirableScorePercent": 600,
     "ScoreUpPerLevel": 50,
     "LightCount": 1,
-    "CoolTime": 40
+    "CoolTime": 40,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140480,
@@ -2267,7 +2763,11 @@
     "AcquirableScorePercent": 250,
     "ScoreUpPerLevel": 60,
     "LightCount": 1,
-    "CoolTime": 50
+    "CoolTime": 50,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140490,
@@ -2280,7 +2780,11 @@
     "AcquirableScorePercent": 190,
     "ScoreUpPerLevel": 70,
     "LightCount": 1,
-    "CoolTime": 60
+    "CoolTime": 60,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140500,
@@ -2308,7 +2812,11 @@
     "AcquirableScorePercent": 220,
     "ScoreUpPerLevel": 60,
     "LightCount": 1,
-    "CoolTime": 45
+    "CoolTime": 45,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140510,
@@ -2336,7 +2844,11 @@
     "AcquirableScorePercent": 220,
     "ScoreUpPerLevel": 60,
     "LightCount": 1,
-    "CoolTime": 45
+    "CoolTime": 45,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140540,
@@ -2364,7 +2876,11 @@
     "AcquirableScorePercent": 250,
     "ScoreUpPerLevel": 60,
     "LightCount": 1,
-    "CoolTime": 50
+    "CoolTime": 50,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140550,
@@ -2377,6 +2893,10 @@
     "AcquirableScorePercent": 510,
     "ScoreUpPerLevel": 40,
     "LightCount": 1,
-    "CoolTime": 30
+    "CoolTime": 30,
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   }
 ]

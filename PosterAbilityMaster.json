@@ -5886,7 +5886,7 @@
         "Id": 23009304
       }
     ],
-    "BranchConditionType1": 6,
+    "BranchConditionType1": "AttributeCount",
     "ConditionValue1": null,
     "BranchConditionType2": "None",
     "ConditionValue2": null
@@ -6078,7 +6078,7 @@
         "Id": 23010304
       }
     ],
-    "BranchConditionType1": 6,
+    "BranchConditionType1": "AttributeCount",
     "ConditionValue1": null,
     "BranchConditionType2": "None",
     "ConditionValue2": null
@@ -6300,7 +6300,7 @@
         "Id": 23011304
       }
     ],
-    "BranchConditionType1": 6,
+    "BranchConditionType1": "AttributeCount",
     "ConditionValue1": null,
     "BranchConditionType2": "None",
     "ConditionValue2": null
@@ -6492,7 +6492,7 @@
         "Id": 23012304
       }
     ],
-    "BranchConditionType1": 6,
+    "BranchConditionType1": "AttributeCount",
     "ConditionValue1": null,
     "BranchConditionType2": "None",
     "ConditionValue2": null
@@ -7384,7 +7384,7 @@
         "Id": 23021102
       }
     ],
-    "BranchConditionType1": 3,
+    "BranchConditionType1": "CompanyMemberCount",
     "ConditionValue1": 3,
     "BranchConditionType2": "None",
     "ConditionValue2": null
@@ -7436,7 +7436,7 @@
         "Id": 23021202
       }
     ],
-    "BranchConditionType1": 3,
+    "BranchConditionType1": "CompanyMemberCount",
     "ConditionValue1": 2,
     "BranchConditionType2": "None",
     "ConditionValue2": null

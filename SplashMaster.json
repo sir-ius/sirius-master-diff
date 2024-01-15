@@ -1,9 +1,58 @@
 [
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {}
+  {
+    "Id": 1,
+    "Order": 1,
+    "SplashType": "Video",
+    "SplashValue": "20013",
+    "StartDate": "2023-11-30T17:00:00.000Z",
+    "EndDate": "2023-12-08T22:00:00.000Z"
+  },
+  {
+    "Id": 2,
+    "Order": 2,
+    "SplashType": "Episode",
+    "SplashValue": "3000101",
+    "StartDate": "2023-12-05T17:00:00.000Z",
+    "EndDate": "2023-12-15T17:00:00.000Z"
+  },
+  {
+    "Id": 3,
+    "Order": 3,
+    "SplashType": "Video",
+    "SplashValue": "20015",
+    "StartDate": "2023-12-10T17:00:00.000Z",
+    "EndDate": "2023-12-18T22:00:00.000Z"
+  },
+  {
+    "Id": 4,
+    "Order": 4,
+    "SplashType": "Video",
+    "SplashValue": "20016",
+    "StartDate": "2023-12-20T17:00:00.000Z",
+    "EndDate": "2023-12-29T22:00:00.000Z"
+  },
+  {
+    "Id": 5,
+    "Order": 5,
+    "SplashType": "Video",
+    "SplashValue": "20017",
+    "StartDate": "2023-12-31T15:00:00.000Z",
+    "EndDate": "2024-01-08T22:00:00.000Z"
+  },
+  {
+    "Id": 6,
+    "Order": 6,
+    "SplashType": "Video",
+    "SplashValue": "2024",
+    "StartDate": "2024-01-01T00:00:00.000Z",
+    "EndDate": "2024-01-11T00:00:00.000Z"
+  },
+  {
+    "Id": 7,
+    "Order": 7,
+    "SplashType": "Video",
+    "SplashValue": "20018",
+    "StartDate": "2024-01-10T17:00:00.000Z",
+    "EndDate": "2024-01-18T22:00:00.000Z"
+  }
 ]

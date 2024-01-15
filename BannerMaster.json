@@ -1585,7 +1585,7 @@
     "Id": 10001,
     "Order": 1,
     "Name": "限定ストーリー",
-    "JumpType": 17,
+    "JumpType": "Episode",
     "JumpPageId": "3000101",
     "WebLinkType": null,
     "LinkUrl": null,

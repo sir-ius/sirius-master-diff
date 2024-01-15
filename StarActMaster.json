@@ -7,7 +7,11 @@
     "AcquirableScorePercent": 120,
     "ScoreUpPerLevel": 20,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 110021,
@@ -17,7 +21,11 @@
     "AcquirableScorePercent": 80,
     "ScoreUpPerLevel": 10,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 110031,
@@ -27,7 +35,11 @@
     "AcquirableScorePercent": 120,
     "ScoreUpPerLevel": 20,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 110041,
@@ -37,7 +49,11 @@
     "AcquirableScorePercent": 120,
     "ScoreUpPerLevel": 20,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 110051,
@@ -47,7 +63,11 @@
     "AcquirableScorePercent": 120,
     "ScoreUpPerLevel": 20,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 110061,
@@ -57,7 +77,11 @@
     "AcquirableScorePercent": 120,
     "ScoreUpPerLevel": 20,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 110071,
@@ -67,7 +91,11 @@
     "AcquirableScorePercent": 120,
     "ScoreUpPerLevel": 20,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 110081,
@@ -77,7 +105,11 @@
     "AcquirableScorePercent": 120,
     "ScoreUpPerLevel": 20,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 110091,
@@ -87,7 +119,11 @@
     "AcquirableScorePercent": 120,
     "ScoreUpPerLevel": 20,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 110101,
@@ -97,7 +133,11 @@
     "AcquirableScorePercent": 120,
     "ScoreUpPerLevel": 20,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 110111,
@@ -107,7 +147,11 @@
     "AcquirableScorePercent": 120,
     "ScoreUpPerLevel": 20,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 110121,
@@ -117,7 +161,11 @@
     "AcquirableScorePercent": 120,
     "ScoreUpPerLevel": 20,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 110131,
@@ -127,7 +175,11 @@
     "AcquirableScorePercent": 120,
     "ScoreUpPerLevel": 20,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 110141,
@@ -137,7 +189,11 @@
     "AcquirableScorePercent": 120,
     "ScoreUpPerLevel": 20,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 110151,
@@ -147,7 +203,11 @@
     "AcquirableScorePercent": 120,
     "ScoreUpPerLevel": 20,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 110161,
@@ -157,7 +217,11 @@
     "AcquirableScorePercent": 120,
     "ScoreUpPerLevel": 20,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 110171,
@@ -167,7 +231,11 @@
     "AcquirableScorePercent": 160,
     "ScoreUpPerLevel": 30,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 110181,
@@ -177,7 +245,11 @@
     "AcquirableScorePercent": 120,
     "ScoreUpPerLevel": 20,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 110191,
@@ -187,7 +259,11 @@
     "AcquirableScorePercent": 120,
     "ScoreUpPerLevel": 20,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 110201,
@@ -197,7 +273,11 @@
     "AcquirableScorePercent": 120,
     "ScoreUpPerLevel": 20,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 110211,
@@ -207,7 +287,11 @@
     "AcquirableScorePercent": 120,
     "ScoreUpPerLevel": 20,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 120011,
@@ -217,7 +301,11 @@
     "AcquirableScorePercent": 220,
     "ScoreUpPerLevel": 20,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 120021,
@@ -227,7 +315,11 @@
     "AcquirableScorePercent": 140,
     "ScoreUpPerLevel": 10,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 120031,
@@ -237,7 +329,11 @@
     "AcquirableScorePercent": 220,
     "ScoreUpPerLevel": 20,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 120041,
@@ -247,7 +343,11 @@
     "AcquirableScorePercent": 220,
     "ScoreUpPerLevel": 20,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 120051,
@@ -257,7 +357,11 @@
     "AcquirableScorePercent": 220,
     "ScoreUpPerLevel": 20,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 120061,
@@ -267,7 +371,11 @@
     "AcquirableScorePercent": 220,
     "ScoreUpPerLevel": 20,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 120071,
@@ -277,7 +385,11 @@
     "AcquirableScorePercent": 220,
     "ScoreUpPerLevel": 20,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 120081,
@@ -287,7 +399,11 @@
     "AcquirableScorePercent": 220,
     "ScoreUpPerLevel": 20,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 120091,
@@ -297,7 +413,11 @@
     "AcquirableScorePercent": 220,
     "ScoreUpPerLevel": 20,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 120101,
@@ -307,7 +427,11 @@
     "AcquirableScorePercent": 220,
     "ScoreUpPerLevel": 20,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 120111,
@@ -317,7 +441,11 @@
     "AcquirableScorePercent": 220,
     "ScoreUpPerLevel": 20,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 120121,
@@ -327,7 +455,11 @@
     "AcquirableScorePercent": 220,
     "ScoreUpPerLevel": 20,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 120131,
@@ -337,7 +469,11 @@
     "AcquirableScorePercent": 220,
     "ScoreUpPerLevel": 20,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 120141,
@@ -347,7 +483,11 @@
     "AcquirableScorePercent": 220,
     "ScoreUpPerLevel": 20,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 120151,
@@ -357,7 +497,11 @@
     "AcquirableScorePercent": 220,
     "ScoreUpPerLevel": 20,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 120161,
@@ -367,7 +511,11 @@
     "AcquirableScorePercent": 220,
     "ScoreUpPerLevel": 20,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 120171,
@@ -377,7 +525,11 @@
     "AcquirableScorePercent": 300,
     "ScoreUpPerLevel": 30,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 120181,
@@ -387,7 +539,11 @@
     "AcquirableScorePercent": 220,
     "ScoreUpPerLevel": 20,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 120191,
@@ -397,7 +553,11 @@
     "AcquirableScorePercent": 220,
     "ScoreUpPerLevel": 20,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 120201,
@@ -407,7 +567,11 @@
     "AcquirableScorePercent": 220,
     "ScoreUpPerLevel": 20,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 120211,
@@ -417,7 +581,11 @@
     "AcquirableScorePercent": 220,
     "ScoreUpPerLevel": 20,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 130011,
@@ -427,7 +595,11 @@
     "AcquirableScorePercent": 470,
     "ScoreUpPerLevel": 50,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 130021,
@@ -437,7 +609,11 @@
     "AcquirableScorePercent": 470,
     "ScoreUpPerLevel": 50,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 130031,
@@ -447,7 +623,11 @@
     "AcquirableScorePercent": 470,
     "ScoreUpPerLevel": 50,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 130041,
@@ -457,7 +637,11 @@
     "AcquirableScorePercent": 470,
     "ScoreUpPerLevel": 50,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 130051,
@@ -467,7 +651,11 @@
     "AcquirableScorePercent": 470,
     "ScoreUpPerLevel": 50,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 130061,
@@ -477,7 +665,11 @@
     "AcquirableScorePercent": 470,
     "ScoreUpPerLevel": 50,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 130071,
@@ -487,7 +679,11 @@
     "AcquirableScorePercent": 470,
     "ScoreUpPerLevel": 50,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 130081,
@@ -497,7 +693,11 @@
     "AcquirableScorePercent": 470,
     "ScoreUpPerLevel": 50,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 130091,
@@ -507,7 +707,11 @@
     "AcquirableScorePercent": 470,
     "ScoreUpPerLevel": 50,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 130101,
@@ -517,7 +721,11 @@
     "AcquirableScorePercent": 470,
     "ScoreUpPerLevel": 50,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 130111,
@@ -527,7 +735,11 @@
     "AcquirableScorePercent": 470,
     "ScoreUpPerLevel": 50,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 130121,
@@ -537,7 +749,11 @@
     "AcquirableScorePercent": 470,
     "ScoreUpPerLevel": 50,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 130131,
@@ -547,7 +763,11 @@
     "AcquirableScorePercent": 470,
     "ScoreUpPerLevel": 50,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 130141,
@@ -557,7 +777,11 @@
     "AcquirableScorePercent": 470,
     "ScoreUpPerLevel": 50,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 130151,
@@ -567,7 +791,11 @@
     "AcquirableScorePercent": 470,
     "ScoreUpPerLevel": 50,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 130161,
@@ -577,7 +805,11 @@
     "AcquirableScorePercent": 470,
     "ScoreUpPerLevel": 50,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 130171,
@@ -587,7 +819,11 @@
     "AcquirableScorePercent": 600,
     "ScoreUpPerLevel": 60,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 130181,
@@ -597,7 +833,11 @@
     "AcquirableScorePercent": 470,
     "ScoreUpPerLevel": 50,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 130191,
@@ -607,7 +847,11 @@
     "AcquirableScorePercent": 470,
     "ScoreUpPerLevel": 50,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 130201,
@@ -617,7 +861,11 @@
     "AcquirableScorePercent": 470,
     "ScoreUpPerLevel": 50,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 130211,
@@ -627,7 +875,11 @@
     "AcquirableScorePercent": 470,
     "ScoreUpPerLevel": 50,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 130221,
@@ -637,7 +889,11 @@
     "AcquirableScorePercent": 400,
     "ScoreUpPerLevel": 40,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 130231,
@@ -647,7 +903,11 @@
     "AcquirableScorePercent": 500,
     "ScoreUpPerLevel": 50,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 130241,
@@ -657,7 +917,11 @@
     "AcquirableScorePercent": 400,
     "ScoreUpPerLevel": 40,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 130251,
@@ -667,7 +931,11 @@
     "AcquirableScorePercent": 400,
     "ScoreUpPerLevel": 40,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 130261,
@@ -677,7 +945,11 @@
     "AcquirableScorePercent": 400,
     "ScoreUpPerLevel": 40,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 130271,
@@ -687,7 +959,11 @@
     "AcquirableScorePercent": 400,
     "ScoreUpPerLevel": 40,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 130281,
@@ -697,7 +973,11 @@
     "AcquirableScorePercent": 500,
     "ScoreUpPerLevel": 50,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 130291,
@@ -707,7 +987,11 @@
     "AcquirableScorePercent": 400,
     "ScoreUpPerLevel": 40,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 130301,
@@ -717,7 +1001,11 @@
     "AcquirableScorePercent": 400,
     "ScoreUpPerLevel": 40,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 130311,
@@ -727,7 +1015,11 @@
     "AcquirableScorePercent": 400,
     "ScoreUpPerLevel": 40,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 130321,
@@ -737,7 +1029,11 @@
     "AcquirableScorePercent": 400,
     "ScoreUpPerLevel": 40,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 130331,
@@ -747,7 +1043,11 @@
     "AcquirableScorePercent": 400,
     "ScoreUpPerLevel": 40,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 130341,
@@ -757,7 +1057,11 @@
     "AcquirableScorePercent": 400,
     "ScoreUpPerLevel": 40,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 130361,
@@ -767,7 +1071,11 @@
     "AcquirableScorePercent": 400,
     "ScoreUpPerLevel": 40,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 130371,
@@ -777,7 +1085,11 @@
     "AcquirableScorePercent": 400,
     "ScoreUpPerLevel": 40,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 130381,
@@ -787,7 +1099,11 @@
     "AcquirableScorePercent": 400,
     "ScoreUpPerLevel": 40,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 130391,
@@ -797,7 +1113,11 @@
     "AcquirableScorePercent": 400,
     "ScoreUpPerLevel": 40,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140011,
@@ -807,7 +1127,11 @@
     "AcquirableScorePercent": 970,
     "ScoreUpPerLevel": 100,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140021,
@@ -817,7 +1141,11 @@
     "AcquirableScorePercent": 970,
     "ScoreUpPerLevel": 100,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140031,
@@ -827,7 +1155,11 @@
     "AcquirableScorePercent": 970,
     "ScoreUpPerLevel": 100,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140041,
@@ -837,7 +1169,11 @@
     "AcquirableScorePercent": 970,
     "ScoreUpPerLevel": 100,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140051,
@@ -847,7 +1183,11 @@
     "AcquirableScorePercent": 970,
     "ScoreUpPerLevel": 100,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140061,
@@ -857,7 +1197,11 @@
     "AcquirableScorePercent": 970,
     "ScoreUpPerLevel": 100,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140071,
@@ -867,7 +1211,11 @@
     "AcquirableScorePercent": 970,
     "ScoreUpPerLevel": 100,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140081,
@@ -877,7 +1225,11 @@
     "AcquirableScorePercent": 970,
     "ScoreUpPerLevel": 100,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140091,
@@ -887,7 +1239,11 @@
     "AcquirableScorePercent": 970,
     "ScoreUpPerLevel": 100,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140101,
@@ -897,7 +1253,11 @@
     "AcquirableScorePercent": 970,
     "ScoreUpPerLevel": 100,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140111,
@@ -907,7 +1267,11 @@
     "AcquirableScorePercent": 1140,
     "ScoreUpPerLevel": 120,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140121,
@@ -917,7 +1281,11 @@
     "AcquirableScorePercent": 970,
     "ScoreUpPerLevel": 100,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140131,
@@ -927,7 +1295,11 @@
     "AcquirableScorePercent": 970,
     "ScoreUpPerLevel": 100,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140141,
@@ -937,7 +1309,11 @@
     "AcquirableScorePercent": 970,
     "ScoreUpPerLevel": 100,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140151,
@@ -947,7 +1323,11 @@
     "AcquirableScorePercent": 970,
     "ScoreUpPerLevel": 100,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140161,
@@ -957,7 +1337,11 @@
     "AcquirableScorePercent": 970,
     "ScoreUpPerLevel": 100,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140171,
@@ -967,7 +1351,11 @@
     "AcquirableScorePercent": 970,
     "ScoreUpPerLevel": 100,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140181,
@@ -977,7 +1365,11 @@
     "AcquirableScorePercent": 970,
     "ScoreUpPerLevel": 100,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140191,
@@ -987,7 +1379,11 @@
     "AcquirableScorePercent": 970,
     "ScoreUpPerLevel": 100,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140201,
@@ -997,7 +1393,11 @@
     "AcquirableScorePercent": 970,
     "ScoreUpPerLevel": 100,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140211,
@@ -1007,7 +1407,11 @@
     "AcquirableScorePercent": 970,
     "ScoreUpPerLevel": 100,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140221,
@@ -1017,7 +1421,11 @@
     "AcquirableScorePercent": 970,
     "ScoreUpPerLevel": 100,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140241,
@@ -1027,7 +1435,11 @@
     "AcquirableScorePercent": 970,
     "ScoreUpPerLevel": 100,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140251,
@@ -1037,7 +1449,11 @@
     "AcquirableScorePercent": 1140,
     "ScoreUpPerLevel": 120,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140261,
@@ -1047,7 +1463,11 @@
     "AcquirableScorePercent": 970,
     "ScoreUpPerLevel": 100,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140271,
@@ -1057,7 +1477,11 @@
     "AcquirableScorePercent": 970,
     "ScoreUpPerLevel": 100,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140281,
@@ -1067,7 +1491,11 @@
     "AcquirableScorePercent": 970,
     "ScoreUpPerLevel": 100,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140291,
@@ -1077,7 +1505,11 @@
     "AcquirableScorePercent": 970,
     "ScoreUpPerLevel": 100,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140301,
@@ -1087,7 +1519,11 @@
     "AcquirableScorePercent": 970,
     "ScoreUpPerLevel": 100,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140311,
@@ -1097,7 +1533,11 @@
     "AcquirableScorePercent": 970,
     "ScoreUpPerLevel": 100,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140321,
@@ -1107,7 +1547,11 @@
     "AcquirableScorePercent": 1140,
     "ScoreUpPerLevel": 120,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140331,
@@ -1117,7 +1561,11 @@
     "AcquirableScorePercent": 1140,
     "ScoreUpPerLevel": 120,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140341,
@@ -1127,7 +1575,11 @@
     "AcquirableScorePercent": 970,
     "ScoreUpPerLevel": 100,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140351,
@@ -1137,7 +1589,11 @@
     "AcquirableScorePercent": 970,
     "ScoreUpPerLevel": 100,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140361,
@@ -1147,7 +1603,11 @@
     "AcquirableScorePercent": 1140,
     "ScoreUpPerLevel": 120,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140371,
@@ -1157,7 +1617,11 @@
     "AcquirableScorePercent": 970,
     "ScoreUpPerLevel": 100,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140381,
@@ -1167,7 +1631,11 @@
     "AcquirableScorePercent": 970,
     "ScoreUpPerLevel": 100,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140391,
@@ -1177,7 +1645,11 @@
     "AcquirableScorePercent": 970,
     "ScoreUpPerLevel": 100,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140401,
@@ -1187,7 +1659,11 @@
     "AcquirableScorePercent": 970,
     "ScoreUpPerLevel": 100,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140411,
@@ -1197,7 +1673,11 @@
     "AcquirableScorePercent": 970,
     "ScoreUpPerLevel": 100,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140421,
@@ -1207,7 +1687,11 @@
     "AcquirableScorePercent": 970,
     "ScoreUpPerLevel": 100,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140431,
@@ -1217,7 +1701,11 @@
     "AcquirableScorePercent": 970,
     "ScoreUpPerLevel": 100,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140461,
@@ -1227,7 +1715,11 @@
     "AcquirableScorePercent": 970,
     "ScoreUpPerLevel": 100,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140471,
@@ -1237,7 +1729,11 @@
     "AcquirableScorePercent": 970,
     "ScoreUpPerLevel": 100,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140481,
@@ -1247,7 +1743,11 @@
     "AcquirableScorePercent": 970,
     "ScoreUpPerLevel": 100,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140491,
@@ -1257,7 +1757,11 @@
     "AcquirableScorePercent": 970,
     "ScoreUpPerLevel": 100,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140501,
@@ -1267,7 +1771,11 @@
     "AcquirableScorePercent": 970,
     "ScoreUpPerLevel": 100,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140511,
@@ -1277,7 +1785,11 @@
     "AcquirableScorePercent": 970,
     "ScoreUpPerLevel": 100,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140541,
@@ -1287,7 +1799,11 @@
     "AcquirableScorePercent": 970,
     "ScoreUpPerLevel": 100,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   },
   {
     "Id": 140551,
@@ -1297,6 +1813,10 @@
     "AcquirableScorePercent": 970,
     "ScoreUpPerLevel": 100,
     "PreEffects": [],
-    "Branches": []
+    "Branches": [],
+    "BranchCondition1": "None",
+    "ConditionValue1": null,
+    "BranchCondition2": "None",
+    "ConditionValue2": null
   }
 ]

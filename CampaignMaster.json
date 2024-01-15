@@ -7,7 +7,9 @@
     "Order": 1,
     "StartDate": "2023-09-25T05:00:00.000Z",
     "EndDate": "2023-09-30T05:00:00.000Z",
-    "ComebackCampaignMasterId": null
+    "ComebackCampaignMasterId": null,
+    "CampaignEffectType": "RankPoint",
+    "CampaignEffectValue": 50
   },
   {
     "Id": 2,
@@ -17,7 +19,9 @@
     "Order": 2,
     "StartDate": "2023-09-30T05:00:00.000Z",
     "EndDate": "2023-10-09T05:00:00.000Z",
-    "ComebackCampaignMasterId": null
+    "ComebackCampaignMasterId": null,
+    "CampaignEffectType": "StarPoint",
+    "CampaignEffectValue": 50
   },
   {
     "Id": 3,
@@ -27,7 +31,9 @@
     "Order": 3,
     "StartDate": "2023-10-09T05:00:00.000Z",
     "EndDate": "2023-10-17T05:00:00.000Z",
-    "ComebackCampaignMasterId": null
+    "ComebackCampaignMasterId": null,
+    "CampaignEffectType": "LiveReward",
+    "CampaignEffectValue": 50
   },
   {
     "Id": 4,
@@ -37,7 +43,9 @@
     "Order": 4,
     "StartDate": "2023-12-29T17:00:00.000Z",
     "EndDate": "2024-01-09T22:00:00.000Z",
-    "ComebackCampaignMasterId": null
+    "ComebackCampaignMasterId": null,
+    "CampaignEffectType": "AccessoryDropRate",
+    "CampaignEffectValue": 0
   },
   {
     "Id": 5,
@@ -47,7 +55,9 @@
     "Order": 5,
     "StartDate": "2023-12-31T15:00:00.000Z",
     "EndDate": "2024-01-05T05:00:00.000Z",
-    "ComebackCampaignMasterId": null
+    "ComebackCampaignMasterId": null,
+    "CampaignEffectType": "RankPoint",
+    "CampaignEffectValue": 50
   },
   {
     "Id": 6,
@@ -57,7 +67,9 @@
     "Order": 6,
     "StartDate": "2024-01-05T05:00:00.000Z",
     "EndDate": "2024-01-10T05:00:00.000Z",
-    "ComebackCampaignMasterId": null
+    "ComebackCampaignMasterId": null,
+    "CampaignEffectType": "LessonCount",
+    "CampaignEffectValue": 1
   },
   {
     "Id": 1000,
@@ -67,7 +79,9 @@
     "Order": 1000,
     "StartDate": "2023-10-20T05:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
-    "ComebackCampaignMasterId": 1
+    "ComebackCampaignMasterId": 1,
+    "CampaignEffectType": "RankPoint",
+    "CampaignEffectValue": 50
   },
   {
     "Id": 1001,
@@ -77,6 +91,8 @@
     "Order": 1001,
     "StartDate": "2023-10-20T05:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
-    "ComebackCampaignMasterId": 1
+    "ComebackCampaignMasterId": 1,
+    "CampaignEffectType": "LessonCount",
+    "CampaignEffectValue": 1
   }
 ]

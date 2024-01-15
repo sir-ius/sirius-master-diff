@@ -95,7 +95,9 @@
             "IsSpecialFallThing": false
           }
         ],
-        "FrameLotConditionValue": null
+        "FrameLotConditionValue": null,
+        "StartDate": null,
+        "EndDate": null
       },
       {
         "Id": 102,
@@ -190,7 +192,9 @@
             "IsSpecialFallThing": false
           }
         ],
-        "FrameLotConditionValue": null
+        "FrameLotConditionValue": null,
+        "StartDate": null,
+        "EndDate": null
       },
       {
         "Id": 103,
@@ -222,7 +226,9 @@
             "IsSpecialFallThing": false
           }
         ],
-        "FrameLotConditionValue": null
+        "FrameLotConditionValue": null,
+        "StartDate": null,
+        "EndDate": null
       },
       {
         "Id": 104,
@@ -261,7 +267,9 @@
             "IsSpecialFallThing": false
           }
         ],
-        "FrameLotConditionValue": 10000
+        "FrameLotConditionValue": 10000,
+        "StartDate": null,
+        "EndDate": null
       },
       {
         "Id": 105,
@@ -342,7 +350,9 @@
             "IsSpecialFallThing": false
           }
         ],
-        "FrameLotConditionValue": 30000
+        "FrameLotConditionValue": 30000,
+        "StartDate": null,
+        "EndDate": null
       },
       {
         "Id": 106,
@@ -367,7 +377,9 @@
             "IsSpecialFallThing": false
           }
         ],
-        "FrameLotConditionValue": 100000
+        "FrameLotConditionValue": 100000,
+        "StartDate": null,
+        "EndDate": null
       },
       {
         "Id": 107,
@@ -462,7 +474,9 @@
             "IsSpecialFallThing": false
           }
         ],
-        "FrameLotConditionValue": 100000
+        "FrameLotConditionValue": 100000,
+        "StartDate": null,
+        "EndDate": null
       },
       {
         "Id": 108,
@@ -501,7 +515,9 @@
             "IsSpecialFallThing": false
           }
         ],
-        "FrameLotConditionValue": 200000
+        "FrameLotConditionValue": 200000,
+        "StartDate": null,
+        "EndDate": null
       },
       {
         "Id": 109,
@@ -519,7 +535,9 @@
             "IsSpecialFallThing": false
           }
         ],
-        "FrameLotConditionValue": null
+        "FrameLotConditionValue": null,
+        "StartDate": "2023-12-31T15:00:00.000Z",
+        "EndDate": "2024-01-10T17:00:00.000Z"
       }
     ]
   },
@@ -542,7 +560,9 @@
             "IsSpecialFallThing": false
           }
         ],
-        "FrameLotConditionValue": null
+        "FrameLotConditionValue": null,
+        "StartDate": null,
+        "EndDate": null
       },
       {
         "Id": 202,
@@ -560,7 +580,9 @@
             "IsSpecialFallThing": false
           }
         ],
-        "FrameLotConditionValue": null
+        "FrameLotConditionValue": null,
+        "StartDate": null,
+        "EndDate": null
       },
       {
         "Id": 203,
@@ -599,7 +621,9 @@
             "IsSpecialFallThing": false
           }
         ],
-        "FrameLotConditionValue": null
+        "FrameLotConditionValue": null,
+        "StartDate": null,
+        "EndDate": null
       },
       {
         "Id": 204,
@@ -638,7 +662,9 @@
             "IsSpecialFallThing": false
           }
         ],
-        "FrameLotConditionValue": null
+        "FrameLotConditionValue": null,
+        "StartDate": null,
+        "EndDate": null
       },
       {
         "Id": 205,
@@ -656,7 +682,9 @@
             "IsSpecialFallThing": false
           }
         ],
-        "FrameLotConditionValue": null
+        "FrameLotConditionValue": null,
+        "StartDate": null,
+        "EndDate": null
       },
       {
         "Id": 206,
@@ -688,7 +716,9 @@
             "IsSpecialFallThing": false
           }
         ],
-        "FrameLotConditionValue": null
+        "FrameLotConditionValue": null,
+        "StartDate": null,
+        "EndDate": null
       },
       {
         "Id": 207,
@@ -720,7 +750,9 @@
             "IsSpecialFallThing": false
           }
         ],
-        "FrameLotConditionValue": null
+        "FrameLotConditionValue": null,
+        "StartDate": null,
+        "EndDate": null
       },
       {
         "Id": 208,
@@ -738,7 +770,9 @@
             "IsSpecialFallThing": false
           }
         ],
-        "FrameLotConditionValue": null
+        "FrameLotConditionValue": null,
+        "StartDate": null,
+        "EndDate": null
       },
       {
         "Id": 209,
@@ -756,7 +790,9 @@
             "IsSpecialFallThing": false
           }
         ],
-        "FrameLotConditionValue": null
+        "FrameLotConditionValue": null,
+        "StartDate": null,
+        "EndDate": null
       }
     ]
   },
@@ -856,7 +892,9 @@
             "IsSpecialFallThing": false
           }
         ],
-        "FrameLotConditionValue": null
+        "FrameLotConditionValue": null,
+        "StartDate": null,
+        "EndDate": null
       },
       {
         "Id": 1102,
@@ -951,7 +989,9 @@
             "IsSpecialFallThing": false
           }
         ],
-        "FrameLotConditionValue": null
+        "FrameLotConditionValue": null,
+        "StartDate": null,
+        "EndDate": null
       },
       {
         "Id": 1103,
@@ -983,7 +1023,9 @@
             "IsSpecialFallThing": false
           }
         ],
-        "FrameLotConditionValue": null
+        "FrameLotConditionValue": null,
+        "StartDate": null,
+        "EndDate": null
       },
       {
         "Id": 1104,
@@ -1015,7 +1057,9 @@
             "IsSpecialFallThing": false
           }
         ],
-        "FrameLotConditionValue": 50000
+        "FrameLotConditionValue": 50000,
+        "StartDate": null,
+        "EndDate": null
       },
       {
         "Id": 1105,
@@ -1110,7 +1154,9 @@
             "IsSpecialFallThing": false
           }
         ],
-        "FrameLotConditionValue": 150000
+        "FrameLotConditionValue": 150000,
+        "StartDate": null,
+        "EndDate": null
       },
       {
         "Id": 1106,
@@ -1198,7 +1244,9 @@
             "IsSpecialFallThing": false
           }
         ],
-        "FrameLotConditionValue": 300000
+        "FrameLotConditionValue": 300000,
+        "StartDate": null,
+        "EndDate": null
       },
       {
         "Id": 1107,
@@ -1286,7 +1334,9 @@
             "IsSpecialFallThing": false
           }
         ],
-        "FrameLotConditionValue": 800000
+        "FrameLotConditionValue": 800000,
+        "StartDate": null,
+        "EndDate": null
       },
       {
         "Id": 1108,
@@ -1318,7 +1368,9 @@
             "IsSpecialFallThing": false
           }
         ],
-        "FrameLotConditionValue": 1
+        "FrameLotConditionValue": 1,
+        "StartDate": null,
+        "EndDate": null
       },
       {
         "Id": 1109,
@@ -1336,7 +1388,9 @@
             "IsSpecialFallThing": false
           }
         ],
-        "FrameLotConditionValue": null
+        "FrameLotConditionValue": null,
+        "StartDate": "2023-12-31T15:00:00.000Z",
+        "EndDate": "2024-01-10T17:00:00.000Z"
       }
     ]
   },
@@ -1436,7 +1490,9 @@
             "IsSpecialFallThing": false
           }
         ],
-        "FrameLotConditionValue": null
+        "FrameLotConditionValue": null,
+        "StartDate": null,
+        "EndDate": null
       },
       {
         "Id": 1202,
@@ -1531,7 +1587,9 @@
             "IsSpecialFallThing": false
           }
         ],
-        "FrameLotConditionValue": null
+        "FrameLotConditionValue": null,
+        "StartDate": null,
+        "EndDate": null
       },
       {
         "Id": 1203,
@@ -1563,7 +1621,9 @@
             "IsSpecialFallThing": false
           }
         ],
-        "FrameLotConditionValue": null
+        "FrameLotConditionValue": null,
+        "StartDate": null,
+        "EndDate": null
       },
       {
         "Id": 1204,
@@ -1595,7 +1655,9 @@
             "IsSpecialFallThing": false
           }
         ],
-        "FrameLotConditionValue": 200000
+        "FrameLotConditionValue": 200000,
+        "StartDate": null,
+        "EndDate": null
       },
       {
         "Id": 1205,
@@ -1648,7 +1710,9 @@
             "IsSpecialFallThing": false
           }
         ],
-        "FrameLotConditionValue": 500000
+        "FrameLotConditionValue": 500000,
+        "StartDate": null,
+        "EndDate": null
       },
       {
         "Id": 1206,
@@ -1722,7 +1786,9 @@
             "IsSpecialFallThing": false
           }
         ],
-        "FrameLotConditionValue": 1000000
+        "FrameLotConditionValue": 1000000,
+        "StartDate": null,
+        "EndDate": null
       },
       {
         "Id": 1207,
@@ -1754,7 +1820,9 @@
             "IsSpecialFallThing": false
           }
         ],
-        "FrameLotConditionValue": 1
+        "FrameLotConditionValue": 1,
+        "StartDate": null,
+        "EndDate": null
       },
       {
         "Id": 1208,
@@ -1772,7 +1840,9 @@
             "IsSpecialFallThing": false
           }
         ],
-        "FrameLotConditionValue": null
+        "FrameLotConditionValue": null,
+        "StartDate": "2023-12-31T15:00:00.000Z",
+        "EndDate": "2024-01-10T17:00:00.000Z"
       }
     ]
   },
@@ -1872,7 +1942,9 @@
             "IsSpecialFallThing": false
           }
         ],
-        "FrameLotConditionValue": null
+        "FrameLotConditionValue": null,
+        "StartDate": null,
+        "EndDate": null
       },
       {
         "Id": 1402,
@@ -1967,7 +2039,9 @@
             "IsSpecialFallThing": false
           }
         ],
-        "FrameLotConditionValue": null
+        "FrameLotConditionValue": null,
+        "StartDate": null,
+        "EndDate": null
       },
       {
         "Id": 1403,
@@ -1999,7 +2073,9 @@
             "IsSpecialFallThing": false
           }
         ],
-        "FrameLotConditionValue": null
+        "FrameLotConditionValue": null,
+        "StartDate": null,
+        "EndDate": null
       },
       {
         "Id": 1404,
@@ -2318,7 +2394,9 @@
             "IsSpecialFallThing": true
           }
         ],
-        "FrameLotConditionValue": null
+        "FrameLotConditionValue": null,
+        "StartDate": null,
+        "EndDate": null
       },
       {
         "Id": 1405,
@@ -2637,7 +2715,9 @@
             "IsSpecialFallThing": true
           }
         ],
-        "FrameLotConditionValue": 100000
+        "FrameLotConditionValue": 100000,
+        "StartDate": null,
+        "EndDate": null
       },
       {
         "Id": 1406,
@@ -2956,7 +3036,9 @@
             "IsSpecialFallThing": true
           }
         ],
-        "FrameLotConditionValue": 300000
+        "FrameLotConditionValue": 300000,
+        "StartDate": null,
+        "EndDate": null
       },
       {
         "Id": 1407,
@@ -3275,7 +3357,9 @@
             "IsSpecialFallThing": true
           }
         ],
-        "FrameLotConditionValue": 750000
+        "FrameLotConditionValue": 750000,
+        "StartDate": null,
+        "EndDate": null
       },
       {
         "Id": 1408,
@@ -3594,7 +3678,9 @@
             "IsSpecialFallThing": true
           }
         ],
-        "FrameLotConditionValue": 1500000
+        "FrameLotConditionValue": 1500000,
+        "StartDate": null,
+        "EndDate": null
       },
       {
         "Id": 1409,
@@ -3913,7 +3999,9 @@
             "IsSpecialFallThing": true
           }
         ],
-        "FrameLotConditionValue": 3000000
+        "FrameLotConditionValue": 3000000,
+        "StartDate": null,
+        "EndDate": null
       },
       {
         "Id": 1410,
@@ -3952,7 +4040,9 @@
             "IsSpecialFallThing": false
           }
         ],
-        "FrameLotConditionValue": null
+        "FrameLotConditionValue": null,
+        "StartDate": null,
+        "EndDate": null
       },
       {
         "Id": 1411,
@@ -4005,7 +4095,9 @@
             "IsSpecialFallThing": false
           }
         ],
-        "FrameLotConditionValue": 1
+        "FrameLotConditionValue": 1,
+        "StartDate": null,
+        "EndDate": null
       },
       {
         "Id": 1412,
@@ -4023,7 +4115,9 @@
             "IsSpecialFallThing": false
           }
         ],
-        "FrameLotConditionValue": null
+        "FrameLotConditionValue": null,
+        "StartDate": "2023-12-31T15:00:00.000Z",
+        "EndDate": "2024-01-10T17:00:00.000Z"
       }
     ]
   }

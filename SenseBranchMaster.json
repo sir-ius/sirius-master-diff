@@ -1,178 +1,442 @@
 [
   {
-    "Order": 1100201,
-    "Effects": 1
+    "Id": 1100201,
+    "Order": 1,
+    "Effects": [
+      {
+        "Order": 1,
+        "EffectMasterId": 20001
+      }
+    ]
   },
   {
-    "Order": 1200101,
-    "Effects": 1
+    "Id": 1200101,
+    "Order": 1,
+    "Effects": [
+      {
+        "Order": 1,
+        "EffectMasterId": 20032
+      }
+    ]
   },
   {
-    "Order": 1200201,
-    "Effects": 1
+    "Id": 1200201,
+    "Order": 1,
+    "Effects": [
+      {
+        "Order": 1,
+        "EffectMasterId": 20001
+      }
+    ]
   },
   {
-    "Order": 1200601,
-    "Effects": 1
+    "Id": 1200601,
+    "Order": 1,
+    "Effects": [
+      {
+        "Order": 1,
+        "EffectMasterId": 20012
+      }
+    ]
   },
   {
-    "Order": 1200701,
-    "Effects": 1
+    "Id": 1200701,
+    "Order": 1,
+    "Effects": [
+      {
+        "Order": 1,
+        "EffectMasterId": 20042
+      }
+    ]
   },
   {
-    "Order": 1200801,
-    "Effects": 1
+    "Id": 1200801,
+    "Order": 1,
+    "Effects": [
+      {
+        "Order": 1,
+        "EffectMasterId": 20012
+      }
+    ]
   },
   {
-    "Order": 1201201,
-    "Effects": 1
+    "Id": 1201201,
+    "Order": 1,
+    "Effects": [
+      {
+        "Order": 1,
+        "EffectMasterId": 20052
+      }
+    ]
   },
   {
-    "Order": 1201401,
-    "Effects": 1
+    "Id": 1201401,
+    "Order": 1,
+    "Effects": [
+      {
+        "Order": 1,
+        "EffectMasterId": 20012
+      }
+    ]
   },
   {
-    "Order": 1201601,
-    "Effects": 1
+    "Id": 1201601,
+    "Order": 1,
+    "Effects": [
+      {
+        "Order": 1,
+        "EffectMasterId": 20012
+      }
+    ]
   },
   {
-    "Order": 1201801,
-    "Effects": 1
+    "Id": 1201801,
+    "Order": 1,
+    "Effects": [
+      {
+        "Order": 1,
+        "EffectMasterId": 20062
+      }
+    ]
   },
   {
-    "Order": 1300101,
-    "Effects": 1
+    "Id": 1300101,
+    "Order": 1,
+    "Effects": [
+      {
+        "Order": 1,
+        "EffectMasterId": 20033
+      }
+    ]
   },
   {
-    "Order": 1300201,
-    "Effects": 1
+    "Id": 1300201,
+    "Order": 1,
+    "Effects": [
+      {
+        "Order": 1,
+        "EffectMasterId": 20001
+      }
+    ]
   },
   {
-    "Order": 1300501,
-    "Effects": 1
+    "Id": 1300501,
+    "Order": 1,
+    "Effects": [
+      {
+        "Order": 1,
+        "EffectMasterId": 20013
+      }
+    ]
   },
   {
-    "Order": 1300701,
-    "Effects": 1
+    "Id": 1300701,
+    "Order": 1,
+    "Effects": [
+      {
+        "Order": 1,
+        "EffectMasterId": 20043
+      }
+    ]
   },
   {
-    "Order": 1300801,
-    "Effects": 1
+    "Id": 1300801,
+    "Order": 1,
+    "Effects": [
+      {
+        "Order": 1,
+        "EffectMasterId": 20013
+      }
+    ]
   },
   {
-    "Order": 1301201,
-    "Effects": 1
+    "Id": 1301201,
+    "Order": 1,
+    "Effects": [
+      {
+        "Order": 1,
+        "EffectMasterId": 20053
+      }
+    ]
   },
   {
-    "Order": 1301401,
-    "Effects": 1
+    "Id": 1301401,
+    "Order": 1,
+    "Effects": [
+      {
+        "Order": 1,
+        "EffectMasterId": 20013
+      }
+    ]
   },
   {
-    "Order": 1301801,
-    "Effects": 1
+    "Id": 1301801,
+    "Order": 1,
+    "Effects": [
+      {
+        "Order": 1,
+        "EffectMasterId": 20063
+      }
+    ]
   },
   {
-    "Order": 1301901,
-    "Effects": 1
+    "Id": 1301901,
+    "Order": 1,
+    "Effects": [
+      {
+        "Order": 1,
+        "EffectMasterId": 20013
+      }
+    ]
   },
   {
-    "Order": 1302201,
-    "Effects": 1
+    "Id": 1302201,
+    "Order": 1,
+    "Effects": [
+      {
+        "Order": 1,
+        "EffectMasterId": 20013
+      }
+    ]
   },
   {
-    "Order": 1302601,
-    "Effects": 1
+    "Id": 1302601,
+    "Order": 1,
+    "Effects": [
+      {
+        "Order": 1,
+        "EffectMasterId": 20013
+      }
+    ]
   },
   {
-    "Order": 1303301,
-    "Effects": 1
+    "Id": 1303301,
+    "Order": 1,
+    "Effects": [
+      {
+        "Order": 1,
+        "EffectMasterId": 20013
+      }
+    ]
   },
   {
-    "Order": 1303401,
-    "Effects": 1
+    "Id": 1303401,
+    "Order": 1,
+    "Effects": [
+      {
+        "Order": 1,
+        "EffectMasterId": 20013
+      }
+    ]
   },
   {
-    "Order": 1400101,
-    "Effects": 1
+    "Id": 1400101,
+    "Order": 1,
+    "Effects": [
+      {
+        "Order": 1,
+        "EffectMasterId": 20014
+      }
+    ]
   },
   {
-    "Order": 1400301,
-    "Effects": 1
+    "Id": 1400301,
+    "Order": 1,
+    "Effects": [
+      {
+        "Order": 1,
+        "EffectMasterId": 20014
+      }
+    ]
   },
   {
-    "Order": 1400501,
-    "Effects": 1
+    "Id": 1400501,
+    "Order": 1,
+    "Effects": [
+      {
+        "Order": 1,
+        "EffectMasterId": 20014
+      }
+    ]
   },
   {
-    "Order": 1400801,
-    "Effects": 1
+    "Id": 1400801,
+    "Order": 1,
+    "Effects": [
+      {
+        "Order": 1,
+        "EffectMasterId": 20054
+      }
+    ]
   },
   {
-    "Order": 1401201,
-    "Effects": 1
+    "Id": 1401201,
+    "Order": 1,
+    "Effects": [
+      {
+        "Order": 1,
+        "EffectMasterId": 20064
+      }
+    ]
   },
   {
-    "Order": 1401401,
-    "Effects": 1
+    "Id": 1401401,
+    "Order": 1,
+    "Effects": [
+      {
+        "Order": 1,
+        "EffectMasterId": 21001
+      }
+    ]
   },
   {
-    "Order": 1401601,
-    "Effects": 1
+    "Id": 1401601,
+    "Order": 1,
+    "Effects": [
+      {
+        "Order": 1,
+        "EffectMasterId": 20044
+      }
+    ]
   },
   {
-    "Order": 1401801,
-    "Effects": 1
+    "Id": 1401801,
+    "Order": 1,
+    "Effects": [
+      {
+        "Order": 1,
+        "EffectMasterId": 20082
+      }
+    ]
   },
   {
-    "Order": 1402001,
-    "Effects": 1
+    "Id": 1402001,
+    "Order": 1,
+    "Effects": [
+      {
+        "Order": 1,
+        "EffectMasterId": 20001
+      }
+    ]
   },
   {
-    "Order": 1402101,
-    "Effects": 1
+    "Id": 1402101,
+    "Order": 1,
+    "Effects": [
+      {
+        "Order": 1,
+        "EffectMasterId": 20082
+      }
+    ]
   },
   {
-    "Order": 1402401,
-    "Effects": 1
+    "Id": 1402401,
+    "Order": 1,
+    "Effects": [
+      {
+        "Order": 1,
+        "EffectMasterId": 20014
+      }
+    ]
   },
   {
-    "Order": 1402801,
-    "Effects": 1
+    "Id": 1402801,
+    "Order": 1,
+    "Effects": [
+      {
+        "Order": 1,
+        "EffectMasterId": 21007
+      }
+    ]
   },
   {
-    "Order": 1403101,
-    "Effects": 1
+    "Id": 1403101,
+    "Order": 1,
+    "Effects": [
+      {
+        "Order": 1,
+        "EffectMasterId": 20082
+      }
+    ]
   },
   {
-    "Order": 1403301,
-    "Effects": 1
+    "Id": 1403301,
+    "Order": 1,
+    "Effects": [
+      {
+        "Order": 1,
+        "EffectMasterId": 20055
+      }
+    ]
   },
   {
-    "Order": 1403501,
-    "Effects": 1
+    "Id": 1403501,
+    "Order": 1,
+    "Effects": [
+      {
+        "Order": 1,
+        "EffectMasterId": 20014
+      }
+    ]
   },
   {
-    "Order": 1403801,
-    "Effects": 1
+    "Id": 1403801,
+    "Order": 1,
+    "Effects": [
+      {
+        "Order": 1,
+        "EffectMasterId": 20014
+      }
+    ]
   },
   {
-    "Order": 1404201,
-    "Effects": 1
+    "Id": 1404201,
+    "Order": 1,
+    "Effects": [
+      {
+        "Order": 1,
+        "EffectMasterId": 20082
+      }
+    ]
   },
   {
-    "Order": 1404801,
-    "Effects": 1
+    "Id": 1404801,
+    "Order": 1,
+    "Effects": [
+      {
+        "Order": 1,
+        "EffectMasterId": 20014
+      }
+    ]
   },
   {
-    "Order": 1405001,
-    "Effects": 1
+    "Id": 1405001,
+    "Order": 1,
+    "Effects": [
+      {
+        "Order": 1,
+        "EffectMasterId": 20102
+      }
+    ]
   },
   {
-    "Order": 1405101,
-    "Effects": 1
+    "Id": 1405101,
+    "Order": 1,
+    "Effects": [
+      {
+        "Order": 1,
+        "EffectMasterId": 20302
+      }
+    ]
   },
   {
-    "Order": 1405401,
-    "Effects": 1
+    "Id": 1405401,
+    "Order": 1,
+    "Effects": [
+      {
+        "Order": 1,
+        "EffectMasterId": 20014
+      }
+    ]
   }
 ]
