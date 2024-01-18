@@ -364,6 +364,20 @@
     "EndDate": "2024-01-20T17:00:00.000Z"
   },
   {
+    "Id": 1024,
+    "Order": 1977,
+    "Name": "14光年はなれた隣で(アクター)",
+    "JumpType": "Gacha",
+    "JumpPageId": "1024",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "[NONE]",
+    "DeleteConditionValue": null,
+    "ImagePath": "Gacha/1024",
+    "StartDate": "2024-01-20T17:00:00.000Z",
+    "EndDate": "2024-01-31T17:00:00.000Z"
+  },
+  {
     "Id": 1800,
     "Order": 1989,
     "Name": "銀河座ピックアップアクターガチャ",
@@ -672,6 +686,20 @@
     "EndDate": "2024-01-20T17:00:00.000Z"
   },
   {
+    "Id": 2021,
+    "Order": 2979,
+    "Name": "14光年はなれた隣で(ポスター)",
+    "JumpType": "Gacha",
+    "JumpPageId": "2021",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "[NONE]",
+    "DeleteConditionValue": null,
+    "ImagePath": "Gacha/2021",
+    "StartDate": "2024-01-20T17:00:00.000Z",
+    "EndDate": "2024-01-31T17:00:00.000Z"
+  },
+  {
     "Id": 2800,
     "Order": 2984,
     "Name": "結ぶぞ！その契約！ガチャ",
@@ -684,6 +712,20 @@
     "ImagePath": "Gacha/2800",
     "StartDate": "2023-12-05T17:00:00.000Z",
     "EndDate": "2023-12-15T17:00:00.000Z"
+  },
+  {
+    "Id": 2801,
+    "Order": 2801,
+    "Name": "オペラ座の怪人ガチャ",
+    "JumpType": "Gacha",
+    "JumpPageId": "2801",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "[NONE]",
+    "DeleteConditionValue": null,
+    "ImagePath": "Gacha/2801",
+    "StartDate": "2024-01-21T17:00:00.000Z",
+    "EndDate": "2024-01-31T17:00:00.000Z"
   },
   {
     "Id": 3001,
@@ -1062,6 +1104,20 @@
     "ImagePath": "Notification/Banner00041",
     "StartDate": "2024-01-14T17:00:00.000Z",
     "EndDate": "2024-01-21T17:00:00.000Z"
+  },
+  {
+    "Id": 4017,
+    "Order": 477,
+    "Name": "オペラ座第12話（Eden）追加",
+    "JumpType": "Photo",
+    "JumpPageId": "1",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "[NONE]",
+    "DeleteConditionValue": null,
+    "ImagePath": "Notification/Banner00047",
+    "StartDate": "2024-01-21T17:00:00.000Z",
+    "EndDate": "2024-01-28T17:00:00.000Z"
   },
   {
     "Id": 5002,
@@ -1524,6 +1580,20 @@
     "ImagePath": "Home/5063",
     "StartDate": "2024-01-15T17:00:00.000Z",
     "EndDate": "2024-01-25T17:00:00.000Z"
+  },
+  {
+    "Id": 5064,
+    "Order": 5064,
+    "Name": "お誕生日パック【鳳 ここな】",
+    "JumpType": "JewelShop",
+    "JumpPageId": "6",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "BuyItem",
+    "DeleteConditionValue": "5064",
+    "ImagePath": "Home/5064",
+    "StartDate": "2024-01-20T00:00:00.000Z",
+    "EndDate": "2024-01-30T00:00:00.000Z"
   },
   {
     "Id": 5065,

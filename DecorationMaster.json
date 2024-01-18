@@ -99,6 +99,17 @@
     "MaxWidthPx": 540
   },
   {
+    "Id": 10101,
+    "Order": 10101,
+    "IsDefault": false,
+    "Name": "パーカーネクタイ",
+    "Category": "Special",
+    "WidhtPx": 240,
+    "HeightPx": 240,
+    "MinWidthPx": 48,
+    "MaxWidthPx": 360
+  },
+  {
     "Id": 10103,
     "Order": 10103,
     "IsDefault": false,

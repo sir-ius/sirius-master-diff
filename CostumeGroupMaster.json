@@ -1160,6 +1160,36 @@
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   },
   {
+    "Id": 140,
+    "Name": "オペラ座の怪人",
+    "Description": null,
+    "Order": 140,
+    "CostumeMasterIds": [
+      1401,
+      1402
+    ],
+    "CostumeWearableCharacterGroupMasterId": null,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2024-01-21T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 141,
+    "Name": "オペラ座の怪人",
+    "Description": null,
+    "Order": 141,
+    "CostumeMasterIds": [
+      1411,
+      1412
+    ],
+    "CostumeWearableCharacterGroupMasterId": 201,
+    "PerformanceGroupId": null,
+    "IsHairChange": true,
+    "DisplayStartAt": "2024-01-21T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
     "Id": 142,
     "Name": "魔法少女カリュー",
     "Description": null,
@@ -1600,6 +1630,36 @@
     "PerformanceGroupId": null,
     "IsHairChange": true,
     "DisplayStartAt": "2024-01-10T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 174,
+    "Name": "ウィリアム・テルと自由の民",
+    "Description": null,
+    "Order": 174,
+    "CostumeMasterIds": [
+      1741,
+      1742
+    ],
+    "CostumeWearableCharacterGroupMasterId": null,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2024-01-20T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 175,
+    "Name": "ウィリアム・テルと自由の民",
+    "Description": null,
+    "Order": 175,
+    "CostumeMasterIds": [
+      1751,
+      1752
+    ],
+    "CostumeWearableCharacterGroupMasterId": 103,
+    "PerformanceGroupId": null,
+    "IsHairChange": true,
+    "DisplayStartAt": "2024-01-20T17:00:00.000Z",
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   }
 ]

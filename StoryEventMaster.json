@@ -185,5 +185,16 @@
     "StartDate": "2024-01-10T17:00:00.000Z",
     "EndDate": "2024-01-18T22:00:00.000Z",
     "ForceEndDate": "2024-01-20T17:00:00.000Z"
+  },
+  {
+    "Id": 20019,
+    "Category": "Normal",
+    "BonusAttribute": "Colorful",
+    "Title": "14光年はなれた隣で",
+    "ExchangeShopMasterId": 20019,
+    "EventPointItemMasterId": 420019,
+    "StartDate": "2024-01-20T17:00:00.000Z",
+    "EndDate": "2024-01-29T22:00:00.000Z",
+    "ForceEndDate": "2024-01-31T17:00:00.000Z"
   }
 ]

@@ -134,5 +134,13 @@
     "ListedStartDate": "2024-01-20T17:00:00.000Z",
     "EventStoryListFlags": "Eden",
     "IsKeyStory": true
+  },
+  {
+    "Id": 20019,
+    "StoryMasterId": 20019,
+    "StoryEventMasterId": 20019,
+    "ListedStartDate": "2024-01-31T17:00:00.000Z",
+    "EventStoryListFlags": "Sirius",
+    "IsKeyStory": false
   }
 ]

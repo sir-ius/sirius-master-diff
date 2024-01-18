@@ -54,5 +54,29 @@
     "SplashValue": "20018",
     "StartDate": "2024-01-10T17:00:00.000Z",
     "EndDate": "2024-01-18T22:00:00.000Z"
+  },
+  {
+    "Id": 8,
+    "Order": 8,
+    "SplashType": "Picture",
+    "SplashValue": "5064",
+    "StartDate": "2024-01-20T00:00:00.000Z",
+    "EndDate": "2024-01-30T00:00:00.000Z"
+  },
+  {
+    "Id": 9,
+    "Order": 9,
+    "SplashType": "Video",
+    "SplashValue": "20019",
+    "StartDate": "2024-01-20T17:00:00.000Z",
+    "EndDate": "2024-01-29T22:00:00.000Z"
+  },
+  {
+    "Id": 10,
+    "Order": 10,
+    "SplashType": "Video",
+    "SplashValue": "Eden_Opera",
+    "StartDate": "2024-01-21T17:00:00.000Z",
+    "EndDate": "2024-01-31T17:00:00.000Z"
   }
 ]

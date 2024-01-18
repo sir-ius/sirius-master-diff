@@ -60,6 +60,16 @@
     "Name": "ここな【いつでもいけるよ！】"
   },
   {
+    "Id": 10181,
+    "Order": 10181,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 101,
+    "Type": "Default",
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "ここな【ありがとー！】"
+  },
+  {
     "Id": 10191,
     "Order": 10191,
     "IsDefault": false,
@@ -408,6 +418,16 @@
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "知冴【？】"
+  },
+  {
+    "Id": 10606,
+    "Order": 10606,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 106,
+    "Type": "Default",
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "知冴【どうってことないな】"
   },
   {
     "Id": 10691,

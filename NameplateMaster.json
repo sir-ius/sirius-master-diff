@@ -40,6 +40,16 @@
     "UnlockText": "劇団電姫のメインストーリー第1章20話を読むことで獲得できます。"
   },
   {
+    "Id": 1101,
+    "Name": "ここな【BirthDay 2024】",
+    "Description": null,
+    "Order": 1101,
+    "Hidden": true,
+    "IsDefault": false,
+    "Details": [],
+    "UnlockText": null
+  },
+  {
     "Id": 1103,
     "Name": "カトリナ【BirthDay 2023】",
     "Description": null,

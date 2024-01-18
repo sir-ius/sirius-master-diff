@@ -226,5 +226,11 @@
     "StoryEventMasterId": 20018,
     "BonusTargetType": "Company",
     "BonusTargetId": 2
+  },
+  {
+    "Id": 2001901,
+    "StoryEventMasterId": 20019,
+    "BonusTargetType": "Company",
+    "BonusTargetId": 1
   }
 ]

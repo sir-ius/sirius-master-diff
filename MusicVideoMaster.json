@@ -442,5 +442,22 @@
     "DelaySeconds": 1.600000023841858,
     "MovieDelaySeconds": 1.600000023841858,
     "MusicVideoDefaultCostumeGroupMasterId": 1
+  },
+  {
+    "Id": 2018,
+    "MusicMasterId": 14,
+    "MemberAmount": 1,
+    "DisplayStartAt": "2024-01-21T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z",
+    "Characters": [
+      {
+        "Order": 1,
+        "CharacterBaseMasterId": 205,
+        "CostumeMasterId": 12241
+      }
+    ],
+    "DelaySeconds": 0.10000000149011612,
+    "MovieDelaySeconds": 0.20000000298023224,
+    "MusicVideoDefaultCostumeGroupMasterId": null
   }
 ]
