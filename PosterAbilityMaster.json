@@ -8944,7 +8944,7 @@
   {
     "Id": 2302401,
     "Name": "表現力アップⅡ＋",
-    "Description": "自身の演技力が[:param11]％上昇",
+    "Description": "自身の表現力が[:param11]％上昇",
     "PosterMasterId": 230240,
     "Type": "Normal",
     "FrameNumber": 1,
