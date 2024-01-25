@@ -257,5 +257,12 @@
     "LoopSpeed": 1.0700000524520874,
     "Height": 165,
     "Size": "Medium"
+  },
+  {
+    "Id": 511,
+    "TargetCharacterBaseId": "511",
+    "LoopSpeed": 1.159999966621399,
+    "Height": 154,
+    "Size": "Small"
   }
 ]

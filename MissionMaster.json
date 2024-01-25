@@ -7134,6 +7134,566 @@
     "ComebackCampaignMasterId": null
   },
   {
+    "Id": 15000,
+    "MissionCategory": "Limit",
+    "MissionViewOrder": 15000,
+    "Title": "",
+    "Description": "メインストーリー 劇団電姫第2章を1話まで読もう",
+    "EventMasterId": null,
+    "JumpType": "Story",
+    "JumpTargetId": null,
+    "StartDate": "2024-01-26T17:00:00.000Z",
+    "EndDate": "2024-03-01T05:00:00.000Z",
+    "Stages": [
+      {
+        "Id": 15000,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 1,
+        "StartDate": "2024-01-26T17:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 130041,
+            "ThingType": "Item",
+            "ThingQuantity": 1000
+          }
+        ]
+      }
+    ],
+    "ComebackCampaignMasterId": null
+  },
+  {
+    "Id": 15100,
+    "MissionCategory": "Limit",
+    "MissionViewOrder": 15100,
+    "Title": "",
+    "Description": "メインストーリー 劇団電姫第2章を2話まで読もう",
+    "EventMasterId": null,
+    "JumpType": "Story",
+    "JumpTargetId": null,
+    "StartDate": "2024-01-26T17:00:00.000Z",
+    "EndDate": "2024-03-01T05:00:00.000Z",
+    "Stages": [
+      {
+        "Id": 15100,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 2,
+        "StartDate": "2024-01-26T17:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 130061,
+            "ThingType": "Item",
+            "ThingQuantity": 300
+          }
+        ]
+      }
+    ],
+    "ComebackCampaignMasterId": null
+  },
+  {
+    "Id": 15200,
+    "MissionCategory": "Limit",
+    "MissionViewOrder": 15200,
+    "Title": "",
+    "Description": "メインストーリー 劇団電姫第2章を3話まで読もう",
+    "EventMasterId": null,
+    "JumpType": "Story",
+    "JumpTargetId": null,
+    "StartDate": "2024-01-26T17:00:00.000Z",
+    "EndDate": "2024-03-01T05:00:00.000Z",
+    "Stages": [
+      {
+        "Id": 15200,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 3,
+        "StartDate": "2024-01-26T17:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 510001,
+            "ThingType": "Item",
+            "ThingQuantity": 3
+          }
+        ]
+      }
+    ],
+    "ComebackCampaignMasterId": null
+  },
+  {
+    "Id": 15300,
+    "MissionCategory": "Limit",
+    "MissionViewOrder": 15300,
+    "Title": "",
+    "Description": "メインストーリー 劇団電姫第2章を4話まで読もう",
+    "EventMasterId": null,
+    "JumpType": "Story",
+    "JumpTargetId": null,
+    "StartDate": "2024-01-26T17:00:00.000Z",
+    "EndDate": "2024-03-01T05:00:00.000Z",
+    "Stages": [
+      {
+        "Id": 15300,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 4,
+        "StartDate": "2024-01-26T17:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 130091,
+            "ThingType": "Item",
+            "ThingQuantity": 15
+          }
+        ]
+      }
+    ],
+    "ComebackCampaignMasterId": null
+  },
+  {
+    "Id": 15400,
+    "MissionCategory": "Limit",
+    "MissionViewOrder": 15400,
+    "Title": "",
+    "Description": "メインストーリー 劇団電姫第2章を5話まで読もう",
+    "EventMasterId": null,
+    "JumpType": "Story",
+    "JumpTargetId": null,
+    "StartDate": "2024-01-26T17:00:00.000Z",
+    "EndDate": "2024-03-01T05:00:00.000Z",
+    "Stages": [
+      {
+        "Id": 15400,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 5,
+        "StartDate": "2024-01-26T17:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 211001,
+            "ThingType": "Item",
+            "ThingQuantity": 5
+          }
+        ]
+      }
+    ],
+    "ComebackCampaignMasterId": null
+  },
+  {
+    "Id": 15500,
+    "MissionCategory": "Limit",
+    "MissionViewOrder": 15500,
+    "Title": "",
+    "Description": "メインストーリー 劇団電姫第2章を6話まで読もう",
+    "EventMasterId": null,
+    "JumpType": "Story",
+    "JumpTargetId": null,
+    "StartDate": "2024-01-26T17:00:00.000Z",
+    "EndDate": "2024-03-01T05:00:00.000Z",
+    "Stages": [
+      {
+        "Id": 15500,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 6,
+        "StartDate": "2024-01-26T17:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 130042,
+            "ThingType": "Item",
+            "ThingQuantity": 150
+          }
+        ]
+      }
+    ],
+    "ComebackCampaignMasterId": null
+  },
+  {
+    "Id": 15600,
+    "MissionCategory": "Limit",
+    "MissionViewOrder": 15600,
+    "Title": "",
+    "Description": "メインストーリー 劇団電姫第2章を7話まで読もう",
+    "EventMasterId": null,
+    "JumpType": "Story",
+    "JumpTargetId": null,
+    "StartDate": "2024-01-26T17:00:00.000Z",
+    "EndDate": "2024-03-01T05:00:00.000Z",
+    "Stages": [
+      {
+        "Id": 15600,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 7,
+        "StartDate": "2024-01-26T17:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 130062,
+            "ThingType": "Item",
+            "ThingQuantity": 200
+          }
+        ]
+      }
+    ],
+    "ComebackCampaignMasterId": null
+  },
+  {
+    "Id": 15700,
+    "MissionCategory": "Limit",
+    "MissionViewOrder": 15700,
+    "Title": "",
+    "Description": "メインストーリー 劇団電姫第2章を8話まで読もう",
+    "EventMasterId": null,
+    "JumpType": "Story",
+    "JumpTargetId": null,
+    "StartDate": "2024-01-26T17:00:00.000Z",
+    "EndDate": "2024-03-01T05:00:00.000Z",
+    "Stages": [
+      {
+        "Id": 15700,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 8,
+        "StartDate": "2024-01-26T17:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 510002,
+            "ThingType": "Item",
+            "ThingQuantity": 3
+          }
+        ]
+      }
+    ],
+    "ComebackCampaignMasterId": null
+  },
+  {
+    "Id": 15800,
+    "MissionCategory": "Limit",
+    "MissionViewOrder": 15800,
+    "Title": "",
+    "Description": "メインストーリー 劇団電姫第2章を9話まで読もう",
+    "EventMasterId": null,
+    "JumpType": "Story",
+    "JumpTargetId": null,
+    "StartDate": "2024-01-26T17:00:00.000Z",
+    "EndDate": "2024-03-01T05:00:00.000Z",
+    "Stages": [
+      {
+        "Id": 15800,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 9,
+        "StartDate": "2024-01-26T17:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 130091,
+            "ThingType": "Item",
+            "ThingQuantity": 15
+          }
+        ]
+      }
+    ],
+    "ComebackCampaignMasterId": null
+  },
+  {
+    "Id": 15900,
+    "MissionCategory": "Limit",
+    "MissionViewOrder": 15900,
+    "Title": "",
+    "Description": "メインストーリー 劇団電姫第2章を10話まで読もう",
+    "EventMasterId": null,
+    "JumpType": "Story",
+    "JumpTargetId": null,
+    "StartDate": "2024-01-26T17:00:00.000Z",
+    "EndDate": "2024-03-01T05:00:00.000Z",
+    "Stages": [
+      {
+        "Id": 15900,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 10,
+        "StartDate": "2024-01-26T17:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": "Jewel",
+            "ThingQuantity": 1000
+          }
+        ]
+      }
+    ],
+    "ComebackCampaignMasterId": null
+  },
+  {
+    "Id": 16000,
+    "MissionCategory": "Limit",
+    "MissionViewOrder": 16000,
+    "Title": "",
+    "Description": "メインストーリー 劇団電姫第2章を11話まで読もう",
+    "EventMasterId": null,
+    "JumpType": "Story",
+    "JumpTargetId": null,
+    "StartDate": "2024-01-26T17:00:00.000Z",
+    "EndDate": "2024-03-01T05:00:00.000Z",
+    "Stages": [
+      {
+        "Id": 16000,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 11,
+        "StartDate": "2024-01-26T17:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 130042,
+            "ThingType": "Item",
+            "ThingQuantity": 150
+          }
+        ]
+      }
+    ],
+    "ComebackCampaignMasterId": null
+  },
+  {
+    "Id": 16100,
+    "MissionCategory": "Limit",
+    "MissionViewOrder": 16100,
+    "Title": "",
+    "Description": "メインストーリー 劇団電姫第2章を12話まで読もう",
+    "EventMasterId": null,
+    "JumpType": "Story",
+    "JumpTargetId": null,
+    "StartDate": "2024-01-26T17:00:00.000Z",
+    "EndDate": "2024-03-01T05:00:00.000Z",
+    "Stages": [
+      {
+        "Id": 16100,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 12,
+        "StartDate": "2024-01-26T17:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 130063,
+            "ThingType": "Item",
+            "ThingQuantity": 200
+          }
+        ]
+      }
+    ],
+    "ComebackCampaignMasterId": null
+  },
+  {
+    "Id": 16200,
+    "MissionCategory": "Limit",
+    "MissionViewOrder": 16200,
+    "Title": "",
+    "Description": "メインストーリー 劇団電姫第2章を13話まで読もう",
+    "EventMasterId": null,
+    "JumpType": "Story",
+    "JumpTargetId": null,
+    "StartDate": "2024-01-26T17:00:00.000Z",
+    "EndDate": "2024-03-01T05:00:00.000Z",
+    "Stages": [
+      {
+        "Id": 16200,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 13,
+        "StartDate": "2024-01-26T17:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 510003,
+            "ThingType": "Item",
+            "ThingQuantity": 3
+          }
+        ]
+      }
+    ],
+    "ComebackCampaignMasterId": null
+  },
+  {
+    "Id": 16300,
+    "MissionCategory": "Limit",
+    "MissionViewOrder": 16300,
+    "Title": "",
+    "Description": "メインストーリー 劇団電姫第2章を14話まで読もう",
+    "EventMasterId": null,
+    "JumpType": "Story",
+    "JumpTargetId": null,
+    "StartDate": "2024-01-26T17:00:00.000Z",
+    "EndDate": "2024-03-01T05:00:00.000Z",
+    "Stages": [
+      {
+        "Id": 16300,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 14,
+        "StartDate": "2024-01-26T17:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 130091,
+            "ThingType": "Item",
+            "ThingQuantity": 15
+          }
+        ]
+      }
+    ],
+    "ComebackCampaignMasterId": null
+  },
+  {
+    "Id": 16400,
+    "MissionCategory": "Limit",
+    "MissionViewOrder": 16400,
+    "Title": "",
+    "Description": "メインストーリー 劇団電姫第2章を15話まで読もう",
+    "EventMasterId": null,
+    "JumpType": "Story",
+    "JumpTargetId": null,
+    "StartDate": "2024-01-26T17:00:00.000Z",
+    "EndDate": "2024-03-01T05:00:00.000Z",
+    "Stages": [
+      {
+        "Id": 16400,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 15,
+        "StartDate": "2024-01-26T17:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 211001,
+            "ThingType": "Item",
+            "ThingQuantity": 5
+          }
+        ]
+      }
+    ],
+    "ComebackCampaignMasterId": null
+  },
+  {
+    "Id": 16500,
+    "MissionCategory": "Limit",
+    "MissionViewOrder": 16500,
+    "Title": "",
+    "Description": "メインストーリー 劇団電姫第2章を16話まで読もう",
+    "EventMasterId": null,
+    "JumpType": "Story",
+    "JumpTargetId": null,
+    "StartDate": "2024-01-26T17:00:00.000Z",
+    "EndDate": "2024-03-01T05:00:00.000Z",
+    "Stages": [
+      {
+        "Id": 16500,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 16,
+        "StartDate": "2024-01-26T17:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 130043,
+            "ThingType": "Item",
+            "ThingQuantity": 150
+          }
+        ]
+      }
+    ],
+    "ComebackCampaignMasterId": null
+  },
+  {
+    "Id": 16600,
+    "MissionCategory": "Limit",
+    "MissionViewOrder": 16600,
+    "Title": "",
+    "Description": "メインストーリー 劇団電姫第2章を17話まで読もう",
+    "EventMasterId": null,
+    "JumpType": "Story",
+    "JumpTargetId": null,
+    "StartDate": "2024-01-26T17:00:00.000Z",
+    "EndDate": "2024-03-01T05:00:00.000Z",
+    "Stages": [
+      {
+        "Id": 16600,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 17,
+        "StartDate": "2024-01-26T17:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 140000,
+            "ThingType": "Item",
+            "ThingQuantity": 300
+          }
+        ]
+      }
+    ],
+    "ComebackCampaignMasterId": null
+  },
+  {
+    "Id": 16700,
+    "MissionCategory": "Limit",
+    "MissionViewOrder": 16700,
+    "Title": "",
+    "Description": "メインストーリー 劇団電姫第2章を18話まで読もう",
+    "EventMasterId": null,
+    "JumpType": "Story",
+    "JumpTargetId": null,
+    "StartDate": "2024-01-26T17:00:00.000Z",
+    "EndDate": "2024-03-01T05:00:00.000Z",
+    "Stages": [
+      {
+        "Id": 16700,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 18,
+        "StartDate": "2024-01-26T17:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 510004,
+            "ThingType": "Item",
+            "ThingQuantity": 3
+          }
+        ]
+      }
+    ],
+    "ComebackCampaignMasterId": null
+  },
+  {
+    "Id": 16800,
+    "MissionCategory": "Limit",
+    "MissionViewOrder": 16800,
+    "Title": "",
+    "Description": "メインストーリー 劇団電姫第2章を19話まで読もう",
+    "EventMasterId": null,
+    "JumpType": "Story",
+    "JumpTargetId": null,
+    "StartDate": "2024-01-26T17:00:00.000Z",
+    "EndDate": "2024-03-01T05:00:00.000Z",
+    "Stages": [
+      {
+        "Id": 16800,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 19,
+        "StartDate": "2024-01-26T17:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 130091,
+            "ThingType": "Item",
+            "ThingQuantity": 15
+          }
+        ]
+      }
+    ],
+    "ComebackCampaignMasterId": null
+  },
+  {
+    "Id": 16900,
+    "MissionCategory": "Limit",
+    "MissionViewOrder": 16900,
+    "Title": "",
+    "Description": "メインストーリー 劇団電姫第2章を20話まで読もう",
+    "EventMasterId": null,
+    "JumpType": "Story",
+    "JumpTargetId": null,
+    "StartDate": "2024-01-26T17:00:00.000Z",
+    "EndDate": "2024-03-01T05:00:00.000Z",
+    "Stages": [
+      {
+        "Id": 16900,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 20,
+        "StartDate": "2024-01-26T17:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 0,
+            "ThingType": "Jewel",
+            "ThingQuantity": 2000
+          }
+        ]
+      }
+    ],
+    "ComebackCampaignMasterId": null
+  },
+  {
     "Id": 100000,
     "MissionCategory": "Daily",
     "MissionViewOrder": 100000,

@@ -78,5 +78,13 @@
     "SplashValue": "Eden_Opera",
     "StartDate": "2024-01-21T17:00:00.000Z",
     "EndDate": "2024-01-31T17:00:00.000Z"
+  },
+  {
+    "Id": 11,
+    "Order": 11,
+    "SplashType": "Video",
+    "SplashValue": "Anniversary0.5th",
+    "StartDate": "2024-01-26T17:00:00.000Z",
+    "EndDate": "2024-02-05T17:00:00.000Z"
   }
 ]

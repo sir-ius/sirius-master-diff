@@ -7,6 +7,13 @@
     "ForceEndDate": "2024-01-12T17:00:00.000Z"
   },
   {
+    "Id": 21002,
+    "EventType": "CharacterBasePoint",
+    "StartDate": "2024-01-26T17:00:00.000Z",
+    "EndDate": "2024-02-05T17:00:00.000Z",
+    "ForceEndDate": "2024-02-07T17:00:00.000Z"
+  },
+  {
     "Id": 30001,
     "EventType": "Concert",
     "StartDate": "2023-11-12T20:00:00.000Z",
