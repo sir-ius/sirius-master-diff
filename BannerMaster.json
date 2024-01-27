@@ -80,8 +80,22 @@
     "DeleteConditionType": "[NONE]",
     "DeleteConditionValue": null,
     "ImagePath": "Home/11",
-    "StartDate": "2024-01-10T00:00:00.000Z",
+    "StartDate": "2024-02-05T00:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 12,
+    "Order": 100001,
+    "Name": "0.5thAnniv.Xキャンペーン",
+    "JumpType": "Information",
+    "JumpPageId": "376",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "[NONE]",
+    "DeleteConditionValue": null,
+    "ImagePath": "Home/Banner00122",
+    "StartDate": "2024-01-26T17:00:00.000Z",
+    "EndDate": "2024-02-05T00:00:00.000Z"
   },
   {
     "Id": 1001,

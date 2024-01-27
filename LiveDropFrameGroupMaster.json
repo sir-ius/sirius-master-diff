@@ -538,6 +538,33 @@
         "FrameLotConditionValue": null,
         "StartDate": "2023-12-31T15:00:00.000Z",
         "EndDate": "2024-01-10T17:00:00.000Z"
+      },
+      {
+        "Id": 110,
+        "LiveDropFrameGroupMasterId": 1,
+        "Order": 10,
+        "ChangeType": "None",
+        "FrameLotCondition": "ConsumeStamina",
+        "UnaffectedIncreaseEffect": false,
+        "Rewards": [
+          {
+            "ThingId": 130063,
+            "ThingType": "Item",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130064,
+            "ThingType": "Item",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          }
+        ],
+        "FrameLotConditionValue": null,
+        "StartDate": "2024-01-26T17:00:00.000Z",
+        "EndDate": "2024-01-31T17:00:00.000Z"
       }
     ]
   },
@@ -1391,6 +1418,33 @@
         "FrameLotConditionValue": null,
         "StartDate": "2023-12-31T15:00:00.000Z",
         "EndDate": "2024-01-10T17:00:00.000Z"
+      },
+      {
+        "Id": 1110,
+        "LiveDropFrameGroupMasterId": 11,
+        "Order": 10,
+        "ChangeType": "None",
+        "FrameLotCondition": "ConsumeStamina",
+        "UnaffectedIncreaseEffect": false,
+        "Rewards": [
+          {
+            "ThingId": 130063,
+            "ThingType": "Item",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130064,
+            "ThingType": "Item",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          }
+        ],
+        "FrameLotConditionValue": null,
+        "StartDate": "2024-01-26T17:00:00.000Z",
+        "EndDate": "2024-01-31T17:00:00.000Z"
       }
     ]
   },
@@ -1843,6 +1897,33 @@
         "FrameLotConditionValue": null,
         "StartDate": "2023-12-31T15:00:00.000Z",
         "EndDate": "2024-01-10T17:00:00.000Z"
+      },
+      {
+        "Id": 1209,
+        "LiveDropFrameGroupMasterId": 12,
+        "Order": 9,
+        "ChangeType": "None",
+        "FrameLotCondition": "ConsumeStamina",
+        "UnaffectedIncreaseEffect": false,
+        "Rewards": [
+          {
+            "ThingId": 130063,
+            "ThingType": "Item",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130064,
+            "ThingType": "Item",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          }
+        ],
+        "FrameLotConditionValue": null,
+        "StartDate": "2024-01-26T17:00:00.000Z",
+        "EndDate": "2024-01-31T17:00:00.000Z"
       }
     ]
   },

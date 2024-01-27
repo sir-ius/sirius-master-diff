@@ -162,6 +162,27 @@
     "Order": 1029
   },
   {
+    "Id": 110,
+    "Description": "スタミナを消費　～2024年1月31日 17:00",
+    "LiveSettingMasterId": 1,
+    "Rewards": [
+      {
+        "ThingId": 130063,
+        "ThingType": "Item",
+        "ThingQuantity": 0
+      },
+      {
+        "ThingId": 130064,
+        "ThingType": "Item",
+        "ThingQuantity": 0
+      }
+    ],
+    "Etcetera": false,
+    "StartDate": "2024-01-26T17:00:00.000Z",
+    "EndDate": "2024-01-31T17:00:00.000Z",
+    "Order": 1028
+  },
+  {
     "Id": 1103,
     "Description": "スタミナを消費",
     "LiveSettingMasterId": 11,
@@ -339,6 +360,27 @@
     "Order": 11029
   },
   {
+    "Id": 1110,
+    "Description": "スタミナを消費　～2024年1月31日 17:00",
+    "LiveSettingMasterId": 11,
+    "Rewards": [
+      {
+        "ThingId": 130063,
+        "ThingType": "Item",
+        "ThingQuantity": 0
+      },
+      {
+        "ThingId": 130064,
+        "ThingType": "Item",
+        "ThingQuantity": 0
+      }
+    ],
+    "Etcetera": false,
+    "StartDate": "2024-01-26T17:00:00.000Z",
+    "EndDate": "2024-01-31T17:00:00.000Z",
+    "Order": 11028
+  },
+  {
     "Id": 1203,
     "Description": "スタミナを消費",
     "LiveSettingMasterId": 12,
@@ -458,6 +500,27 @@
     "StartDate": "2023-12-31T15:00:00.000Z",
     "EndDate": "2024-01-10T17:00:00.000Z",
     "Order": 12029
+  },
+  {
+    "Id": 1209,
+    "Description": "スタミナを消費　～2024年1月31日 17:00",
+    "LiveSettingMasterId": 12,
+    "Rewards": [
+      {
+        "ThingId": 130063,
+        "ThingType": "Item",
+        "ThingQuantity": 0
+      },
+      {
+        "ThingId": 130064,
+        "ThingType": "Item",
+        "ThingQuantity": 0
+      }
+    ],
+    "Etcetera": false,
+    "StartDate": "2024-01-26T17:00:00.000Z",
+    "EndDate": "2024-01-31T17:00:00.000Z",
+    "Order": 12028
   },
   {
     "Id": 1403,
