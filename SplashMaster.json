@@ -94,5 +94,13 @@
     "SplashValue": "20014",
     "StartDate": "2024-01-31T17:00:00.000Z",
     "EndDate": "2024-02-08T22:00:00.000Z"
+  },
+  {
+    "Id": 15,
+    "Order": 15,
+    "SplashType": "Picture",
+    "SplashValue": "5066",
+    "StartDate": "2024-02-03T15:00:00.000Z",
+    "EndDate": "2024-02-13T00:00:00.000Z"
   }
 ]
