@@ -143,6 +143,17 @@
     "ForceEndDate": "2023-12-10T17:00:00.000Z"
   },
   {
+    "Id": 20014,
+    "Category": "Normal",
+    "BonusAttribute": "Cheerful",
+    "Title": "メモワールに約束を",
+    "ExchangeShopMasterId": 20014,
+    "EventPointItemMasterId": 420014,
+    "StartDate": "2024-01-31T17:00:00.000Z",
+    "EndDate": "2024-02-08T22:00:00.000Z",
+    "ForceEndDate": "2024-02-09T17:00:00.000Z"
+  },
+  {
     "Id": 20015,
     "Category": "HighScore",
     "BonusAttribute": "Cute",

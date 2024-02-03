@@ -1900,6 +1900,31 @@
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   },
   {
+    "Id": 130350,
+    "CharacterBaseMasterId": 103,
+    "Name": "ファントムの面影を宿す天才",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": "Rare3",
+    "Attribute": "Cheerful",
+    "MinLevelStatus": {
+      "Concentration": 94,
+      "Expression": 90,
+      "Vocal": 86
+    },
+    "StarActMasterId": 130351,
+    "AwakenStarActMasterId": 130351,
+    "SenseMasterId": 130350,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 30003,
+    "SenseEnhanceItemGroupMasterId": 3,
+    "FirstEpisodeReleaseItemGroupId": 341,
+    "SecondEpisodeReleaseItemGroupId": 342,
+    "CharacterAwakeningItemGroupMasterId": 34,
+    "DisplayStartAt": "2024-01-31T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
     "Id": 130360,
     "CharacterBaseMasterId": 402,
     "Name": "ど、どどど、どうしよう！",
@@ -3072,6 +3097,56 @@
     "SecondEpisodeReleaseItemGroupId": 432,
     "CharacterAwakeningItemGroupMasterId": 43,
     "DisplayStartAt": "2023-11-30T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 140440,
+    "CharacterBaseMasterId": 102,
+    "Name": "その手を取り、翼並べて",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": "Rare4",
+    "Attribute": "Cheerful",
+    "MinLevelStatus": {
+      "Concentration": 122,
+      "Expression": 114,
+      "Vocal": 109
+    },
+    "StarActMasterId": 140441,
+    "AwakenStarActMasterId": 140441,
+    "SenseMasterId": 140440,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 40044,
+    "SenseEnhanceItemGroupMasterId": 4,
+    "FirstEpisodeReleaseItemGroupId": 441,
+    "SecondEpisodeReleaseItemGroupId": 442,
+    "CharacterAwakeningItemGroupMasterId": 44,
+    "DisplayStartAt": "2024-01-31T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 140450,
+    "CharacterBaseMasterId": 101,
+    "Name": "片割れを見つけた鳥",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": "Rare4",
+    "Attribute": "Cheerful",
+    "MinLevelStatus": {
+      "Concentration": 84,
+      "Expression": 117,
+      "Vocal": 148
+    },
+    "StarActMasterId": 140451,
+    "AwakenStarActMasterId": 140451,
+    "SenseMasterId": 140450,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 40045,
+    "SenseEnhanceItemGroupMasterId": 4,
+    "FirstEpisodeReleaseItemGroupId": 441,
+    "SecondEpisodeReleaseItemGroupId": 442,
+    "CharacterAwakeningItemGroupMasterId": 44,
+    "DisplayStartAt": "2024-01-31T17:00:00.000Z",
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   },
   {

@@ -130,6 +130,16 @@
     "Name": "静香【ごくり…】"
   },
   {
+    "Id": 10206,
+    "Order": 10206,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 102,
+    "Type": "Default",
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "静香【応援してるよ】"
+  },
+  {
     "Id": 10291,
     "Order": 10291,
     "IsDefault": false,
@@ -1078,6 +1088,16 @@
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "リリヤ【美しい…】"
+  },
+  {
+    "Id": 30481,
+    "Order": 30481,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 304,
+    "Type": "Default",
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "リリヤ【私を見て】"
   },
   {
     "Id": 30491,

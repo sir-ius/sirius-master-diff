@@ -1384,6 +1384,36 @@
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   },
   {
+    "Id": 155,
+    "Name": "野望の博士と孤独な怪物",
+    "Description": null,
+    "Order": 155,
+    "CostumeMasterIds": [
+      1551,
+      1552
+    ],
+    "CostumeWearableCharacterGroupMasterId": null,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2024-01-31T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 156,
+    "Name": "野望の博士と孤独な怪物",
+    "Description": null,
+    "Order": 156,
+    "CostumeMasterIds": [
+      1561,
+      1562
+    ],
+    "CostumeWearableCharacterGroupMasterId": 102,
+    "PerformanceGroupId": null,
+    "IsHairChange": true,
+    "DisplayStartAt": "2024-01-31T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
     "Id": 157,
     "Name": "ノエルコーデ（赤）",
     "Description": null,
@@ -1660,6 +1690,23 @@
     "PerformanceGroupId": null,
     "IsHairChange": true,
     "DisplayStartAt": "2024-01-20T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 178,
+    "Name": "ショコラミニワンピ",
+    "Description": null,
+    "Order": 178,
+    "CostumeMasterIds": [
+      1781,
+      1782,
+      1783,
+      1784
+    ],
+    "CostumeWearableCharacterGroupMasterId": null,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2024-02-01T05:00:00.000Z",
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   }
 ]

@@ -96,6 +96,18 @@
     "CampaignEffectValue": 0
   },
   {
+    "Id": 9,
+    "Title": "練習台本【中級】 追加ドロップ",
+    "Description": "期間：1/31 17:00～2/5 17:00/n対象：公演、協力公演",
+    "IconImagePath": "1",
+    "Order": 9,
+    "StartDate": "2024-01-31T17:00:00.000Z",
+    "EndDate": "2024-02-05T17:00:00.000Z",
+    "ComebackCampaignMasterId": null,
+    "CampaignEffectType": "AccessoryDropRate",
+    "CampaignEffectValue": 0
+  },
+  {
     "Id": 1000,
     "Title": "公演の獲得EXP 50％UP",
     "Description": "ウェルカムバックキャンペーン/n期間：7日間/n対象：公演、協力公演",

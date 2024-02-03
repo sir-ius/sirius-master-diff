@@ -224,6 +224,22 @@
     "MaxLevel": 10
   },
   {
+    "Id": 320110,
+    "Name": "アンカー",
+    "Description": "",
+    "Rarity": "SR",
+    "AccessoryLevelPatternGroupId": 2,
+    "FixedAccessoryEffects": [
+      320110
+    ],
+    "RandomEffectGroups": [
+      1
+    ],
+    "PronounceName": "あんかー",
+    "Series": 0,
+    "MaxLevel": 10
+  },
+  {
     "Id": 330010,
     "Name": "星のペンダント",
     "Description": "",
@@ -310,6 +326,21 @@
     ],
     "RandomEffectGroups": [],
     "PronounceName": "ちょうのぶろーち",
+    "Series": 0,
+    "MaxLevel": 10
+  },
+  {
+    "Id": 330150,
+    "Name": "フロストフラワー",
+    "Description": "",
+    "Rarity": "SSR",
+    "AccessoryLevelPatternGroupId": 3,
+    "FixedAccessoryEffects": [
+      330150,
+      330151
+    ],
+    "RandomEffectGroups": [],
+    "PronounceName": "ふろすとふらわー",
     "Series": 0,
     "MaxLevel": 10
   },
@@ -615,6 +646,38 @@
     "MaxLevel": 10
   },
   {
+    "Id": 331160,
+    "Name": "不思議な懐中時計",
+    "Description": "",
+    "Rarity": "SSR",
+    "AccessoryLevelPatternGroupId": 3,
+    "FixedAccessoryEffects": [
+      331160
+    ],
+    "RandomEffectGroups": [
+      1
+    ],
+    "PronounceName": "ふしぎなかいちゅうどけい",
+    "Series": 0,
+    "MaxLevel": 10
+  },
+  {
+    "Id": 331170,
+    "Name": "人魚の涙",
+    "Description": "",
+    "Rarity": "SSR",
+    "AccessoryLevelPatternGroupId": 3,
+    "FixedAccessoryEffects": [
+      331170
+    ],
+    "RandomEffectGroups": [
+      1
+    ],
+    "PronounceName": "にんぎょのなみだ",
+    "Series": 0,
+    "MaxLevel": 10
+  },
+  {
     "Id": 332010,
     "Name": "竹の花★",
     "Description": "",
@@ -851,6 +914,38 @@
       2
     ],
     "PronounceName": "おんみょうじのふだ",
+    "Series": 1,
+    "MaxLevel": 10
+  },
+  {
+    "Id": 332160,
+    "Name": "不思議な懐中時計★",
+    "Description": "",
+    "Rarity": "SSR",
+    "AccessoryLevelPatternGroupId": 3,
+    "FixedAccessoryEffects": [
+      331160
+    ],
+    "RandomEffectGroups": [
+      2
+    ],
+    "PronounceName": "ふしぎなかいちゅうどけい",
+    "Series": 1,
+    "MaxLevel": 10
+  },
+  {
+    "Id": 332170,
+    "Name": "人魚の涙★",
+    "Description": "",
+    "Rarity": "SSR",
+    "AccessoryLevelPatternGroupId": 3,
+    "FixedAccessoryEffects": [
+      331170
+    ],
+    "RandomEffectGroups": [
+      2
+    ],
+    "PronounceName": "にんぎょのなみだ",
     "Series": 1,
     "MaxLevel": 10
   },

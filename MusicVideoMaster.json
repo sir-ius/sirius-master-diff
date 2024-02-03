@@ -459,5 +459,27 @@
     "DelaySeconds": 0.10000000149011612,
     "MovieDelaySeconds": 0.20000000298023224,
     "MusicVideoDefaultCostumeGroupMasterId": null
+  },
+  {
+    "Id": 2019,
+    "MusicMasterId": 73,
+    "MemberAmount": 2,
+    "DisplayStartAt": "2024-01-31T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z",
+    "Characters": [
+      {
+        "Order": 1,
+        "CharacterBaseMasterId": 101,
+        "CostumeMasterId": 181
+      },
+      {
+        "Order": 2,
+        "CharacterBaseMasterId": 102,
+        "CostumeMasterId": 191
+      }
+    ],
+    "DelaySeconds": 1.850000023841858,
+    "MovieDelaySeconds": 1.5499999523162842,
+    "MusicVideoDefaultCostumeGroupMasterId": null
   }
 ]

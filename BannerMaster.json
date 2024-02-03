@@ -434,6 +434,34 @@
     "EndDate": "2024-02-01T17:00:00.000Z"
   },
   {
+    "Id": 1028,
+    "Order": 1973,
+    "Name": "【復刻】エレクトリック・サマー・バカンスガチャ(アクター)",
+    "JumpType": "Gacha",
+    "JumpPageId": "1028",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "[NONE]",
+    "DeleteConditionValue": null,
+    "ImagePath": "Gacha/1028",
+    "StartDate": "2024-02-01T17:00:00.000Z",
+    "EndDate": "2024-02-04T17:00:00.000Z"
+  },
+  {
+    "Id": 1029,
+    "Order": 1972,
+    "Name": "メモワールに約束をガチャ(アクター)",
+    "JumpType": "Gacha",
+    "JumpPageId": "1029",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "[NONE]",
+    "DeleteConditionValue": null,
+    "ImagePath": "Gacha/1029",
+    "StartDate": "2024-01-31T17:00:00.000Z",
+    "EndDate": "2024-02-09T17:00:00.000Z"
+  },
+  {
     "Id": 1800,
     "Order": 1989,
     "Name": "銀河座ピックアップアクターガチャ",
@@ -798,6 +826,34 @@
     "EndDate": "2024-02-01T17:00:00.000Z"
   },
   {
+    "Id": 2024,
+    "Order": 2976,
+    "Name": "【復刻】少女漂流記ガチャ(ポスター)",
+    "JumpType": "Gacha",
+    "JumpPageId": "2024",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "[NONE]",
+    "DeleteConditionValue": null,
+    "ImagePath": "Gacha/2024",
+    "StartDate": "2024-02-01T17:00:00.000Z",
+    "EndDate": "2024-02-04T17:00:00.000Z"
+  },
+  {
+    "Id": 2025,
+    "Order": 2975,
+    "Name": "メモワールに約束をガチャ(ポスター)",
+    "JumpType": "Gacha",
+    "JumpPageId": "2025",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "[NONE]",
+    "DeleteConditionValue": null,
+    "ImagePath": "Gacha/2025",
+    "StartDate": "2024-01-31T17:00:00.000Z",
+    "EndDate": "2024-02-09T17:00:00.000Z"
+  },
+  {
     "Id": 2800,
     "Order": 2984,
     "Name": "結ぶぞ！その契約！ガチャ",
@@ -823,7 +879,7 @@
     "DeleteConditionValue": null,
     "ImagePath": "Gacha/2801",
     "StartDate": "2024-01-21T17:00:00.000Z",
-    "EndDate": "2024-01-31T17:00:00.000Z"
+    "EndDate": "2024-02-05T17:00:00.000Z"
   },
   {
     "Id": 3001,
@@ -1227,7 +1283,7 @@
     "LinkUrl": null,
     "DeleteConditionType": "[NONE]",
     "DeleteConditionValue": null,
-    "ImagePath": "Notification/Banner00064",
+    "ImagePath": "Notification/Banner00063",
     "StartDate": "2024-01-26T17:00:00.000Z",
     "EndDate": "2024-03-01T05:00:00.000Z"
   },
@@ -1736,6 +1792,20 @@
     "EndDate": "2024-01-09T22:00:00.000Z"
   },
   {
+    "Id": 5066,
+    "Order": 5069,
+    "Name": "お誕生日パック【リリヤ・クルトベイ】",
+    "JumpType": "JewelShop",
+    "JumpPageId": "6",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "BuyItem",
+    "DeleteConditionValue": "5066",
+    "ImagePath": "Home/5066",
+    "StartDate": "2024-02-03T00:00:00.000Z",
+    "EndDate": "2024-02-13T00:00:00.000Z"
+  },
+  {
     "Id": 5067,
     "Order": 5071,
     "Name": "撮影パック",
@@ -1792,6 +1862,20 @@
     "EndDate": "2024-02-05T17:00:00.000Z"
   },
   {
+    "Id": 5072,
+    "Order": 5072,
+    "Name": "電姫空間のおまもりパック",
+    "JumpType": "JewelShop",
+    "JumpPageId": "5",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "BuyItem",
+    "DeleteConditionValue": "5072",
+    "ImagePath": "Home/denki_amulet",
+    "StartDate": "2024-01-31T17:00:00.000Z",
+    "EndDate": "2024-02-08T22:00:00.000Z"
+  },
+  {
     "Id": 8500,
     "Order": 8500,
     "Name": "0.5th Anniversary記念復刻★4アクター確定ステップアップガチャ",
@@ -1846,6 +1930,20 @@
     "ImagePath": "Gacha/9020",
     "StartDate": "2023-12-31T15:00:00.000Z",
     "EndDate": "2024-01-10T17:00:00.000Z"
+  },
+  {
+    "Id": 9030,
+    "Order": 9030,
+    "Name": "野望の博士と孤独な怪物SSR確定ステップアップポスターガチャ",
+    "JumpType": "Gacha",
+    "JumpPageId": "9030",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "[NONE]",
+    "DeleteConditionValue": null,
+    "ImagePath": "Gacha/9030",
+    "StartDate": "2024-01-31T17:00:00.000Z",
+    "EndDate": "2024-02-09T17:00:00.000Z"
   },
   {
     "Id": 9500,

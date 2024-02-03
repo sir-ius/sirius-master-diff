@@ -86,5 +86,13 @@
     "SplashValue": "Anniversary0.5th",
     "StartDate": "2024-01-26T17:00:00.000Z",
     "EndDate": "2024-02-05T17:00:00.000Z"
+  },
+  {
+    "Id": 12,
+    "Order": 12,
+    "SplashType": "Video",
+    "SplashValue": "20014",
+    "StartDate": "2024-01-31T17:00:00.000Z",
+    "EndDate": "2024-02-08T22:00:00.000Z"
   }
 ]

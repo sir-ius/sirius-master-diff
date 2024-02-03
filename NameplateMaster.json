@@ -100,6 +100,16 @@
     "UnlockText": null
   },
   {
+    "Id": 1304,
+    "Name": "リリヤ【BirthDay 2024】",
+    "Description": null,
+    "Order": 1304,
+    "Hidden": true,
+    "IsDefault": false,
+    "Details": [],
+    "UnlockText": null
+  },
+  {
     "Id": 1305,
     "Name": "緋花里【BirthDay 2023】",
     "Description": null,

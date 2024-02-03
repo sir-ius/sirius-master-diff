@@ -1154,6 +1154,28 @@
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   },
   {
+    "Id": 220300,
+    "Name": "メモワールに約束を",
+    "OrganizeRestrictGroupId": null,
+    "Rarity": "SR",
+    "LevelPatternGroupMasterId": 2,
+    "SubTitlePositionX1": 0,
+    "SubTitlePositionY1": 0,
+    "SubTitlePositionX2": 943,
+    "SubTitlePositionY2": 855,
+    "SubTitlePositionX3": null,
+    "SubTitlePositionY3": null,
+    "ReleaseItemGroupId": 2,
+    "PronounceName": "めもわーるにやくそくを",
+    "Costumes": [],
+    "AppearanceCharacterBaseMasterIds": [
+      102
+    ],
+    "IsRestrictItemBreakThrough": false,
+    "DisplayStartAt": "2024-01-31T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
     "Id": 220310,
     "Name": "泡雪でありますように",
     "OrganizeRestrictGroupId": null,
@@ -2410,6 +2432,46 @@
     ],
     "IsRestrictItemBreakThrough": false,
     "DisplayStartAt": "2023-11-30T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 230300,
+    "Name": "野望の博士と孤独な怪物",
+    "OrganizeRestrictGroupId": null,
+    "Rarity": "SSR",
+    "LevelPatternGroupMasterId": 3,
+    "SubTitlePositionX1": 606,
+    "SubTitlePositionY1": 0,
+    "SubTitlePositionX2": 1162,
+    "SubTitlePositionY2": 1819,
+    "SubTitlePositionX3": null,
+    "SubTitlePositionY3": null,
+    "ReleaseItemGroupId": 3,
+    "PronounceName": "やぼうのはかせとこどくなかいぶつ",
+    "Costumes": [
+      {
+        "Phase": 0,
+        "CostumeMasterId": 1551
+      },
+      {
+        "Phase": 1,
+        "CostumeMasterId": 1552
+      },
+      {
+        "Phase": 2,
+        "CostumeMasterId": 1561
+      },
+      {
+        "Phase": 3,
+        "CostumeMasterId": 1562
+      }
+    ],
+    "AppearanceCharacterBaseMasterIds": [
+      102,
+      105
+    ],
+    "IsRestrictItemBreakThrough": false,
+    "DisplayStartAt": "2024-01-31T17:00:00.000Z",
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   },
   {
