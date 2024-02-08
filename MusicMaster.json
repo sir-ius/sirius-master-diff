@@ -3374,6 +3374,45 @@
     "MusicCoverType": "Original"
   },
   {
+    "Id": 93,
+    "Name": "St. Bitter Sweet",
+    "Description": "",
+    "RewardRuleMasterId": 1,
+    "PronounceName": "StBitterSweet",
+    "LyricWriter": "松井洋平",
+    "Composer": "光増ハジメ（FirstCall）",
+    "Arranger": "光増ハジメ（FirstCall）",
+    "UnlockText": null,
+    "IsLongVersion": false,
+    "ReleasedAt": "2024-02-09T17:00:00.000Z",
+    "StaminaConsumption": 26,
+    "MusicTimeSecond": 102,
+    "Invisible": false,
+    "SampleStartSeconds": 0,
+    "SampleEndSeconds": 0,
+    "DelaySeconds": 0,
+    "VocalVersions": [
+      {
+        "Id": 9301,
+        "MusicMasterId": 93,
+        "VocalVersion": 1,
+        "Singer": "連尺野初魅",
+        "Name": "St. Bitter Sweet",
+        "MusicTimeSecond": 102,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": "None",
+        "Characters": [
+          201
+        ]
+      }
+    ],
+    "UnlockConditionType": "Default",
+    "UnlockConditionValue": null,
+    "MusicVideoType": "None",
+    "MusicCoverType": "Original"
+  },
+  {
     "Id": 118,
     "Name": "あの夏が飽和する。",
     "Description": "",
@@ -3482,6 +3521,45 @@
         "MusicVideoType": "None",
         "Characters": [
           402
+        ]
+      }
+    ],
+    "UnlockConditionType": "Buy",
+    "UnlockConditionValue": null,
+    "MusicVideoType": "None",
+    "MusicCoverType": "Cover"
+  },
+  {
+    "Id": 124,
+    "Name": "エジソン",
+    "Description": "",
+    "RewardRuleMasterId": 1,
+    "PronounceName": "えじそん",
+    "LyricWriter": "ケンモチヒデフミ",
+    "Composer": "ケンモチヒデフミ",
+    "Arranger": "-",
+    "UnlockText": "楽曲ショップで購入",
+    "IsLongVersion": false,
+    "ReleasedAt": "2024-02-17T17:00:00.000Z",
+    "StaminaConsumption": 31,
+    "MusicTimeSecond": 127,
+    "Invisible": false,
+    "SampleStartSeconds": 0,
+    "SampleEndSeconds": 0,
+    "DelaySeconds": 0,
+    "VocalVersions": [
+      {
+        "Id": 12401,
+        "MusicMasterId": 124,
+        "VocalVersion": 1,
+        "Singer": "千寿暦",
+        "Name": "エジソン",
+        "MusicTimeSecond": 127,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": "None",
+        "Characters": [
+          301
         ]
       }
     ],

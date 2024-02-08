@@ -4260,6 +4260,36 @@
     "ConditionValue2": null
   },
   {
+    "Id": 220370,
+    "Name": "Valentine Cocktail Hour",
+    "Description": "<color=#33B4DF>凛属性</color>のアクターの演技力が[:param11]%上昇",
+    "PosterMasterId": 220370,
+    "Type": "Leader",
+    "FrameNumber": 1,
+    "ReleaseLevelAt": 0,
+    "Hidden": false,
+    "Branches": [
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 70022002
+          }
+        ],
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 22037001
+      }
+    ],
+    "BranchConditionType1": "None",
+    "ConditionValue1": null,
+    "BranchConditionType2": "None",
+    "ConditionValue2": null
+  },
+  {
     "Id": 229010,
     "Name": "初めての舞台",
     "Description": "<color=#7AC940>彩属性</color>のアクターの演技力が[:param11]%上昇",
@@ -7922,6 +7952,36 @@
     "ConditionValue2": null
   },
   {
+    "Id": 230380,
+    "Name": "これが……余？",
+    "Description": "<color=#33B4DF>凛属性</color>のアクターの演技力が[:param11]%上昇",
+    "PosterMasterId": 230380,
+    "Type": "Leader",
+    "FrameNumber": 1,
+    "ReleaseLevelAt": 0,
+    "Hidden": false,
+    "Branches": [
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 70052002
+          }
+        ],
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23038001
+      }
+    ],
+    "BranchConditionType1": "None",
+    "ConditionValue1": null,
+    "BranchConditionType2": "None",
+    "ConditionValue2": null
+  },
+  {
     "Id": 320050,
     "Name": "謹賀新年2024",
     "Description": "全アクターの演技力が[:param11]％上昇",
@@ -8754,6 +8814,66 @@
         "JudgeType2": null,
         "Parameter2": null,
         "Id": 220350201
+      }
+    ],
+    "BranchConditionType1": "None",
+    "ConditionValue1": null,
+    "BranchConditionType2": "None",
+    "ConditionValue2": null
+  },
+  {
+    "Id": 2203701,
+    "Name": "スコアブースト",
+    "Description": "センス発動直後、現在のスコアの[:param11]%のスコアを獲得　◆発動条件：<color=#33B4DF>凛属性</color>のアクターが装備",
+    "PosterMasterId": 220370,
+    "Type": "Normal",
+    "FrameNumber": 1,
+    "ReleaseLevelAt": 0,
+    "Hidden": false,
+    "Branches": [
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10810002
+          }
+        ],
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 220370101
+      }
+    ],
+    "BranchConditionType1": "None",
+    "ConditionValue1": null,
+    "BranchConditionType2": "None",
+    "ConditionValue2": null
+  },
+  {
+    "Id": 2203702,
+    "Name": "初期P.ゲージ上昇",
+    "Description": "公演開始時、P.ゲージが[:param11]上昇　◆発動条件：<color=#33B4DF>凛属性</color>のアクターが装備",
+    "PosterMasterId": 220370,
+    "Type": "Normal",
+    "FrameNumber": 2,
+    "ReleaseLevelAt": 7,
+    "Hidden": false,
+    "Branches": [
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 11510002
+          }
+        ],
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 220370201
       }
     ],
     "BranchConditionType1": "None",
@@ -10044,6 +10164,66 @@
         "JudgeType2": null,
         "Parameter2": null,
         "Id": 230350301
+      }
+    ],
+    "BranchConditionType1": "None",
+    "ConditionValue1": null,
+    "BranchConditionType2": "None",
+    "ConditionValue2": null
+  },
+  {
+    "Id": 2303801,
+    "Name": "演技力アップⅢ＋",
+    "Description": "自身の演技力が[:param11]％上昇",
+    "PosterMasterId": 230380,
+    "Type": "Normal",
+    "FrameNumber": 1,
+    "ReleaseLevelAt": 0,
+    "Hidden": false,
+    "Branches": [
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10031000
+          }
+        ],
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 230380101
+      }
+    ],
+    "BranchConditionType1": "None",
+    "ConditionValue1": null,
+    "BranchConditionType2": "None",
+    "ConditionValue2": null
+  },
+  {
+    "Id": 2303802,
+    "Name": "「光」獲得数増加",
+    "Description": "センスで付与する「光」の付与数が[:param11]個増加　◆発動条件：<color=#33B4DF>凛属性</color>のアクターが装備",
+    "PosterMasterId": 230380,
+    "Type": "Normal",
+    "FrameNumber": 2,
+    "ReleaseLevelAt": 7,
+    "Hidden": false,
+    "Branches": [
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 11810002
+          }
+        ],
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 230380201
       }
     ],
     "BranchConditionType1": "None",

@@ -1374,6 +1374,20 @@
     ]
   },
   {
+    "Id": 9301,
+    "MusicMasterId": 93,
+    "VocalVersion": 1,
+    "Singer": "連尺野初魅",
+    "Name": "St. Bitter Sweet",
+    "MusicTimeSecond": 102,
+    "SampleStartSeconds": 0,
+    "SampleEndSeconds": 0,
+    "MusicVideoType": "None",
+    "Characters": [
+      201
+    ]
+  },
+  {
     "Id": 11801,
     "MusicMasterId": 118,
     "VocalVersion": 1,
@@ -1413,6 +1427,20 @@
     "MusicVideoType": "None",
     "Characters": [
       402
+    ]
+  },
+  {
+    "Id": 12401,
+    "MusicMasterId": 124,
+    "VocalVersion": 1,
+    "Singer": "千寿暦",
+    "Name": "エジソン",
+    "MusicTimeSecond": 127,
+    "SampleStartSeconds": 0,
+    "SampleEndSeconds": 0,
+    "MusicVideoType": "None",
+    "Characters": [
+      301
     ]
   },
   {

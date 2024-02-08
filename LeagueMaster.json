@@ -317,5 +317,16 @@
     "LeagueClassGroupMasterId": 1,
     "SenseNotationMasterId": 1029,
     "VocalVersion": 3
+  },
+  {
+    "Id": 30,
+    "MusicMasterId": 30,
+    "MaxDifficulty": "Extra",
+    "DisplayStartAt": "2024-02-13T05:00:00.000Z",
+    "CountingStartAt": "2024-02-19T00:00:00.000Z",
+    "DisplayEndAt": "2024-02-20T05:00:00.000Z",
+    "LeagueClassGroupMasterId": 1,
+    "SenseNotationMasterId": 1030,
+    "VocalVersion": 2
   }
 ]

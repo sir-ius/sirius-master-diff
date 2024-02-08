@@ -207,5 +207,16 @@
     "StartDate": "2024-01-20T17:00:00.000Z",
     "EndDate": "2024-01-29T22:00:00.000Z",
     "ForceEndDate": "2024-01-31T17:00:00.000Z"
+  },
+  {
+    "Id": 20021,
+    "Category": "HighScore",
+    "BonusAttribute": "Cool",
+    "Title": "Valentine Cocktail Hour",
+    "ExchangeShopMasterId": 20021,
+    "EventPointItemMasterId": 420021,
+    "StartDate": "2024-02-09T17:00:00.000Z",
+    "EndDate": "2024-02-17T22:00:00.000Z",
+    "ForceEndDate": "2024-02-18T17:00:00.000Z"
   }
 ]

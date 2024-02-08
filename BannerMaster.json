@@ -462,6 +462,20 @@
     "EndDate": "2024-02-09T17:00:00.000Z"
   },
   {
+    "Id": 1030,
+    "Order": 1971,
+    "Name": "Valentine Cocktail Hourガチャ(アクター)",
+    "JumpType": "Gacha",
+    "JumpPageId": "1030",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "[NONE]",
+    "DeleteConditionValue": null,
+    "ImagePath": "Gacha/1030",
+    "StartDate": "2024-02-09T17:00:00.000Z",
+    "EndDate": "2024-02-18T17:00:00.000Z"
+  },
+  {
     "Id": 1800,
     "Order": 1989,
     "Name": "銀河座ピックアップアクターガチャ",
@@ -852,6 +866,20 @@
     "ImagePath": "Gacha/2025",
     "StartDate": "2024-01-31T17:00:00.000Z",
     "EndDate": "2024-02-09T17:00:00.000Z"
+  },
+  {
+    "Id": 2026,
+    "Order": 2026,
+    "Name": "王様の秘密はチャームポイントガチャ(ポスター)",
+    "JumpType": "Gacha",
+    "JumpPageId": "2026",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "[NONE]",
+    "DeleteConditionValue": null,
+    "ImagePath": "Gacha/2026",
+    "StartDate": "2024-02-09T17:00:00.000Z",
+    "EndDate": "2024-02-18T17:00:00.000Z"
   },
   {
     "Id": 2800,
@@ -1874,6 +1902,20 @@
     "ImagePath": "Home/denki_amulet",
     "StartDate": "2024-01-31T17:00:00.000Z",
     "EndDate": "2024-02-08T22:00:00.000Z"
+  },
+  {
+    "Id": 5073,
+    "Order": 5073,
+    "Name": "育成もりもりパック",
+    "JumpType": "JewelShop",
+    "JumpPageId": "5",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "BuyItem",
+    "DeleteConditionValue": "5073",
+    "ImagePath": "Home/ikuseimori",
+    "StartDate": "2024-02-15T17:00:00.000Z",
+    "EndDate": "2024-02-25T17:00:00.000Z"
   },
   {
     "Id": 8500,

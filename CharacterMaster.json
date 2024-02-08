@@ -2050,6 +2050,31 @@
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   },
   {
+    "Id": 130420,
+    "CharacterBaseMasterId": 205,
+    "Name": "どれにしようかな？",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": "Rare3",
+    "Attribute": "Cool",
+    "MinLevelStatus": {
+      "Concentration": 86,
+      "Expression": 86,
+      "Vocal": 98
+    },
+    "StarActMasterId": 130421,
+    "AwakenStarActMasterId": 130421,
+    "SenseMasterId": 130420,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 30002,
+    "SenseEnhanceItemGroupMasterId": 3,
+    "FirstEpisodeReleaseItemGroupId": 321,
+    "SecondEpisodeReleaseItemGroupId": 322,
+    "CharacterAwakeningItemGroupMasterId": 32,
+    "DisplayStartAt": "2024-02-09T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
     "Id": 140010,
     "CharacterBaseMasterId": 101,
     "Name": "悲哀と恋慕の旋律",
@@ -3447,6 +3472,56 @@
     "SecondEpisodeReleaseItemGroupId": 432,
     "CharacterAwakeningItemGroupMasterId": 43,
     "DisplayStartAt": "2024-01-20T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 140600,
+    "CharacterBaseMasterId": 201,
+    "Name": "ひと口で落ちる甘やかな酔い",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": "Rare4",
+    "Attribute": "Cool",
+    "MinLevelStatus": {
+      "Concentration": 111,
+      "Expression": 131,
+      "Vocal": 100
+    },
+    "StarActMasterId": 140601,
+    "AwakenStarActMasterId": 140601,
+    "SenseMasterId": 140600,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 40060,
+    "SenseEnhanceItemGroupMasterId": 4,
+    "FirstEpisodeReleaseItemGroupId": 421,
+    "SecondEpisodeReleaseItemGroupId": 422,
+    "CharacterAwakeningItemGroupMasterId": 42,
+    "DisplayStartAt": "2024-02-09T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 140610,
+    "CharacterBaseMasterId": 204,
+    "Name": "求め焦がれる危険な味わい",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": "Rare4",
+    "Attribute": "Cool",
+    "MinLevelStatus": {
+      "Concentration": 143,
+      "Expression": 94,
+      "Vocal": 108
+    },
+    "StarActMasterId": 140611,
+    "AwakenStarActMasterId": 140611,
+    "SenseMasterId": 140610,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 40061,
+    "SenseEnhanceItemGroupMasterId": 4,
+    "FirstEpisodeReleaseItemGroupId": 421,
+    "SecondEpisodeReleaseItemGroupId": 422,
+    "CharacterAwakeningItemGroupMasterId": 42,
+    "DisplayStartAt": "2024-02-09T17:00:00.000Z",
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   }
 ]
