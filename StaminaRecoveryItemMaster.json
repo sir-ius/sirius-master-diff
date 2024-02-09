@@ -83,5 +83,10 @@
     "ItemMasterId": 111015,
     "RecoveryAmount": 100,
     "ExpiredAt": "2024-02-18T17:00:00.000Z"
+  },
+  {
+    "ItemMasterId": 112001,
+    "RecoveryAmount": 100,
+    "ExpiredAt": "2100-01-01T17:00:00.000Z"
   }
 ]

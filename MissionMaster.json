@@ -5762,6 +5762,90 @@
     "ComebackCampaignMasterId": null
   },
   {
+    "Id": 4700,
+    "MissionCategory": "Normal",
+    "MissionViewOrder": 4700,
+    "Title": "",
+    "Description": "浅緑のロゼットを[:param]個獲得しよう",
+    "EventMasterId": null,
+    "JumpType": "None",
+    "JumpTargetId": null,
+    "StartDate": "2024-02-09T13:00:00.000Z",
+    "EndDate": "2100-01-01T00:00:00.000Z",
+    "Stages": [
+      {
+        "Id": 4701,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 20,
+        "StartDate": "2024-02-09T13:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 205001,
+            "ThingType": "Trophy",
+            "ThingQuantity": 1
+          }
+        ]
+      }
+    ],
+    "ComebackCampaignMasterId": null
+  },
+  {
+    "Id": 4800,
+    "MissionCategory": "Normal",
+    "MissionViewOrder": 4800,
+    "Title": "",
+    "Description": "淡青のロゼットを[:param]個獲得しよう",
+    "EventMasterId": null,
+    "JumpType": "None",
+    "JumpTargetId": null,
+    "StartDate": "2024-02-09T13:00:00.000Z",
+    "EndDate": "2100-01-01T00:00:00.000Z",
+    "Stages": [
+      {
+        "Id": 4801,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 20,
+        "StartDate": "2024-02-09T13:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 206001,
+            "ThingType": "Trophy",
+            "ThingQuantity": 1
+          }
+        ]
+      }
+    ],
+    "ComebackCampaignMasterId": null
+  },
+  {
+    "Id": 4900,
+    "MissionCategory": "Normal",
+    "MissionViewOrder": 4900,
+    "Title": "",
+    "Description": "退紅のロゼットを[:param]個獲得しよう",
+    "EventMasterId": null,
+    "JumpType": "None",
+    "JumpTargetId": null,
+    "StartDate": "2024-02-09T13:00:00.000Z",
+    "EndDate": "2100-01-01T00:00:00.000Z",
+    "Stages": [
+      {
+        "Id": 4901,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 20,
+        "StartDate": "2024-02-09T13:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 207001,
+            "ThingType": "Trophy",
+            "ThingQuantity": 1
+          }
+        ]
+      }
+    ],
+    "ComebackCampaignMasterId": null
+  },
+  {
     "Id": 10100,
     "MissionCategory": "Limit",
     "MissionViewOrder": 10100,

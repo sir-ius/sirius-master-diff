@@ -4492,5 +4492,22 @@
         "EndDate": "2024-02-05T17:00:00.000Z"
       }
     ]
+  },
+  {
+    "Id": 21,
+    "DropFrames": [
+      {
+        "Id": 2101,
+        "LiveDropFrameGroupMasterId": 21,
+        "Order": 1,
+        "ChangeType": "None",
+        "FrameLotCondition": "None",
+        "UnaffectedIncreaseEffect": false,
+        "Rewards": [],
+        "FrameLotConditionValue": null,
+        "StartDate": "2100-01-01T00:00:00.000Z",
+        "EndDate": "2100-01-01T00:00:00.000Z"
+      }
+    ]
   }
 ]

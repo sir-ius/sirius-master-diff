@@ -778,5 +778,53 @@
     "StartDate": "2024-01-31T17:00:00.000Z",
     "EndDate": "2024-02-05T17:00:00.000Z",
     "Order": 14028
+  },
+  {
+    "Id": 2101,
+    "Description": "難易度「かんたん」をクリア",
+    "LiveSettingMasterId": 21,
+    "Rewards": [
+      {
+        "ThingId": 138101,
+        "ThingType": "Item",
+        "ThingQuantity": 0
+      }
+    ],
+    "Etcetera": false,
+    "StartDate": null,
+    "EndDate": null,
+    "Order": 21010
+  },
+  {
+    "Id": 2102,
+    "Description": "難易度「ふつう」をクリア",
+    "LiveSettingMasterId": 21,
+    "Rewards": [
+      {
+        "ThingId": 138102,
+        "ThingType": "Item",
+        "ThingQuantity": 0
+      }
+    ],
+    "Etcetera": false,
+    "StartDate": null,
+    "EndDate": null,
+    "Order": 21020
+  },
+  {
+    "Id": 2103,
+    "Description": "難易度「むずかしい」をクリア",
+    "LiveSettingMasterId": 21,
+    "Rewards": [
+      {
+        "ThingId": 138103,
+        "ThingType": "Item",
+        "ThingQuantity": 0
+      }
+    ],
+    "Etcetera": false,
+    "StartDate": null,
+    "EndDate": null,
+    "Order": 21030
   }
 ]
