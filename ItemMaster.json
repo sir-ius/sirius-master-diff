@@ -242,7 +242,7 @@
     "Name": "バレンタインチョコ【2024】",
     "Description": "バレンタインの贈り物。味は食べてみてのお楽しみ。スタミナを100回復する。",
     "DisplayOrder": 112001,
-    "DisplayEndDate": "2100-01-01T17:00:00.000Z",
+    "DisplayEndDate": null,
     "MaxStock": 99999,
     "Category": "StaminaRecovery",
     "Consumable": false,
