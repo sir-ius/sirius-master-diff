@@ -697,11 +697,11 @@
   {
     "ItemMasterId": 144060,
     "CharacterMasterId": 140600,
-    "DugongRequiredAmount": 0
+    "DugongRequiredAmount": 5
   },
   {
     "ItemMasterId": 144061,
     "CharacterMasterId": 140610,
-    "DugongRequiredAmount": 0
+    "DugongRequiredAmount": 5
   }
 ]
