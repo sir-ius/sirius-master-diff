@@ -332,6 +332,17 @@
     "RelatedStoryMasterIds": []
   },
   {
+    "StoryMasterId": 20020,
+    "PreviousStoryMasterIds": [],
+    "NextStoryMasterIds": [],
+    "SideStoryCharacterMasterIds": [
+      140880,
+      140890,
+      130560
+    ],
+    "RelatedStoryMasterIds": []
+  },
+  {
     "StoryMasterId": 20021,
     "PreviousStoryMasterIds": [],
     "NextStoryMasterIds": [],

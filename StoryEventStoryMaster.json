@@ -152,6 +152,14 @@
     "IsKeyStory": false
   },
   {
+    "Id": 20020,
+    "StoryMasterId": 20020,
+    "StoryEventMasterId": 20020,
+    "ListedStartDate": "2024-02-29T17:00:00.000Z",
+    "EventStoryListFlags": "Denki",
+    "IsKeyStory": false
+  },
+  {
     "Id": 20021,
     "StoryMasterId": 20021,
     "StoryEventMasterId": 20021,

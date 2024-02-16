@@ -1738,5 +1738,89 @@
     "IsHairChange": true,
     "DisplayStartAt": "2024-02-09T17:00:00.000Z",
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 200,
+    "Name": "魔国連邦の盟主",
+    "Description": null,
+    "Order": 200,
+    "CostumeMasterIds": [
+      2001
+    ],
+    "CostumeWearableCharacterGroupMasterId": 11,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2024-02-18T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 201,
+    "Name": "魔国連邦の盟主",
+    "Description": null,
+    "Order": 201,
+    "CostumeMasterIds": [
+      2011
+    ],
+    "CostumeWearableCharacterGroupMasterId": 401,
+    "PerformanceGroupId": null,
+    "IsHairChange": true,
+    "DisplayStartAt": "2024-02-18T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 202,
+    "Name": "鬼人族の秘書",
+    "Description": null,
+    "Order": 202,
+    "CostumeMasterIds": [
+      2021
+    ],
+    "CostumeWearableCharacterGroupMasterId": 12,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2024-02-18T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 203,
+    "Name": "鬼人族の秘書",
+    "Description": null,
+    "Order": 203,
+    "CostumeMasterIds": [
+      2031
+    ],
+    "CostumeWearableCharacterGroupMasterId": 403,
+    "PerformanceGroupId": null,
+    "IsHairChange": true,
+    "DisplayStartAt": "2024-02-18T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 204,
+    "Name": "鬼人族の姫",
+    "Description": null,
+    "Order": 204,
+    "CostumeMasterIds": [
+      2041
+    ],
+    "CostumeWearableCharacterGroupMasterId": 13,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2024-02-18T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 205,
+    "Name": "鬼人族の姫",
+    "Description": null,
+    "Order": 205,
+    "CostumeMasterIds": [
+      2051
+    ],
+    "CostumeWearableCharacterGroupMasterId": 402,
+    "PerformanceGroupId": null,
+    "IsHairChange": true,
+    "DisplayStartAt": "2024-02-18T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   }
 ]

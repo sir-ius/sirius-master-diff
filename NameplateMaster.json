@@ -80,6 +80,16 @@
     "UnlockText": null
   },
   {
+    "Id": 1204,
+    "Name": "容【BirthDay 2024】",
+    "Description": null,
+    "Order": 1204,
+    "Hidden": true,
+    "IsDefault": false,
+    "Details": [],
+    "UnlockText": null
+  },
+  {
     "Id": 1205,
     "Name": "しぐれ【BirthDay 2023】",
     "Description": null,

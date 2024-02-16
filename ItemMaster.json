@@ -224,6 +224,20 @@
     "Rarity": "R"
   },
   {
+    "Id": 111014,
+    "Name": "高級スタミナドリンク【～2月29日 17:00】",
+    "Description": "美容にも欠かせない一級品のドリンク。スタミナを100回復する。2024年2月29日17時まで使用できる。",
+    "DisplayOrder": 14,
+    "DisplayEndDate": "2024-02-29T17:00:00.000Z",
+    "MaxStock": 99999,
+    "Category": "StaminaRecovery",
+    "Consumable": false,
+    "JumpType": "None",
+    "JumpTargetId": null,
+    "TabCategory": "Normal",
+    "Rarity": "R"
+  },
+  {
     "Id": 111015,
     "Name": "高級スタミナドリンク【～2月18日 17:00】",
     "Description": "美容にも欠かせない一級品のドリンク。スタミナを100回復する。2024年2月18日17時まで使用できる。",
@@ -2044,6 +2058,20 @@
     "Rarity": "SSR"
   },
   {
+    "Id": 143056,
+    "Name": "★3【フラワー・テンペスト】本巣叶羽のピース",
+    "Description": "★3【フラワー・テンペスト】本巣叶羽の才能開花に使用できるアイテム。",
+    "DisplayOrder": 143056,
+    "DisplayEndDate": null,
+    "MaxStock": 99999,
+    "Category": "TalentBloom",
+    "Consumable": false,
+    "JumpType": "None",
+    "JumpTargetId": null,
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
+  },
+  {
     "Id": 144001,
     "Name": "★4【悲哀と恋慕の旋律】鳳ここなのピース",
     "Description": "★4【悲哀と恋慕の旋律】鳳ここなの才能開花に使用できるアイテム。",
@@ -2856,6 +2884,34 @@
     "Rarity": "SSR"
   },
   {
+    "Id": 144088,
+    "Name": "★4【春の紫苑も良いでしょう？】阿岐留カミラのピース",
+    "Description": "★4【春の紫苑も良いでしょう？】阿岐留カミラの才能開花に使用できるアイテム。",
+    "DisplayOrder": 144088,
+    "DisplayEndDate": null,
+    "MaxStock": 99999,
+    "Category": "TalentBloom",
+    "Consumable": false,
+    "JumpType": "None",
+    "JumpTargetId": null,
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
+  },
+  {
+    "Id": 144089,
+    "Name": "★4【朱の菜花は春を告げ】白丸美兎のピース",
+    "Description": "★4【朱の菜花は春を告げ】白丸美兎の才能開花に使用できるアイテム。",
+    "DisplayOrder": 144089,
+    "DisplayEndDate": null,
+    "MaxStock": 99999,
+    "Category": "TalentBloom",
+    "Consumable": false,
+    "JumpType": "None",
+    "JumpTargetId": null,
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
+  },
+  {
     "Id": 210001,
     "Name": "アクターガチャチケット",
     "Description": "アクターガチャを引くことができるチケット。",
@@ -3528,6 +3584,20 @@
     "Rarity": "R"
   },
   {
+    "Id": 411031,
+    "Name": "ガチャポイント",
+    "Description": "ショップの該当するガチャポイント交換で様々なアイテムと交換できる。",
+    "DisplayOrder": 411031,
+    "DisplayEndDate": "2024-03-02T17:00:00.000Z",
+    "MaxStock": 99999,
+    "Category": "GachaPoint",
+    "Consumable": false,
+    "JumpType": "None",
+    "JumpTargetId": null,
+    "TabCategory": "Hidden",
+    "Rarity": "R"
+  },
+  {
     "Id": 411800,
     "Name": "ガチャポイント",
     "Description": "ショップの該当するガチャポイント交換で様々なアイテムと交換できる。",
@@ -3920,6 +3990,34 @@
     "Rarity": "R"
   },
   {
+    "Id": 412027,
+    "Name": "ガチャポイント",
+    "Description": "ショップの該当するガチャポイント交換で様々なアイテムと交換できる。",
+    "DisplayOrder": 412027,
+    "DisplayEndDate": "2024-03-02T17:00:00.000Z",
+    "MaxStock": 99999,
+    "Category": "GachaPoint",
+    "Consumable": false,
+    "JumpType": "None",
+    "JumpTargetId": null,
+    "TabCategory": "Hidden",
+    "Rarity": "R"
+  },
+  {
+    "Id": 412028,
+    "Name": "ガチャポイント",
+    "Description": "ショップの該当するガチャポイント交換で様々なアイテムと交換できる。",
+    "DisplayOrder": 412028,
+    "DisplayEndDate": "2024-03-02T17:00:00.000Z",
+    "MaxStock": 99999,
+    "Category": "GachaPoint",
+    "Consumable": false,
+    "JumpType": "None",
+    "JumpTargetId": null,
+    "TabCategory": "Hidden",
+    "Rarity": "R"
+  },
+  {
     "Id": 412800,
     "Name": "ガチャポイント",
     "Description": "ショップの該当するガチャポイント交換で様々なアイテムと交換できる。",
@@ -4204,6 +4302,20 @@
     "Name": "イベントポイント",
     "Description": "イベントの交換所から様々なアイテムと交換できる。",
     "DisplayOrder": 420019,
+    "DisplayEndDate": null,
+    "MaxStock": 1999999999,
+    "Category": "EventPoint",
+    "Consumable": false,
+    "JumpType": "None",
+    "JumpTargetId": null,
+    "TabCategory": "Hidden",
+    "Rarity": "R"
+  },
+  {
+    "Id": 420020,
+    "Name": "イベントポイント",
+    "Description": "イベントの交換所から様々なアイテムと交換できる。",
+    "DisplayOrder": 420020,
     "DisplayEndDate": null,
     "MaxStock": 1999999999,
     "Category": "EventPoint",
