@@ -2433,19 +2433,19 @@
     "Id": 9401,
     "Difficulty": "Normal",
     "MusicMasterId": 94,
-    "Level": 8
+    "Level": 9
   },
   {
     "Id": 9402,
     "Difficulty": "Hard",
     "MusicMasterId": 94,
-    "Level": 14
+    "Level": 15
   },
   {
     "Id": 9403,
     "Difficulty": "Extra",
     "MusicMasterId": 94,
-    "Level": 21
+    "Level": 22
   },
   {
     "Id": 9404,
@@ -2457,7 +2457,7 @@
     "Id": 9405,
     "Difficulty": "Olivier",
     "MusicMasterId": 94,
-    "Level": 104
+    "Level": 106
   },
   {
     "Id": 11801,
@@ -2571,7 +2571,7 @@
     "Id": 12104,
     "Difficulty": "Stella",
     "MusicMasterId": 121,
-    "Level": 26
+    "Level": 25
   },
   {
     "Id": 12105,
