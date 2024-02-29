@@ -580,6 +580,16 @@
     "Name": "大黒【許せないわね…】"
   },
   {
+    "Id": 20207,
+    "Order": 20207,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 202,
+    "Type": "Default",
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "大黒【悪かったわ】"
+  },
+  {
     "Id": 20281,
     "Order": 20281,
     "IsDefault": false,

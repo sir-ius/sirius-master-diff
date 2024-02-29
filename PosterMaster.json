@@ -1308,6 +1308,28 @@
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   },
   {
+    "Id": 220410,
+    "Name": "#指先がつむぐ暗黒",
+    "OrganizeRestrictGroupId": null,
+    "Rarity": "SR",
+    "LevelPatternGroupMasterId": 2,
+    "SubTitlePositionX1": 830,
+    "SubTitlePositionY1": 1559,
+    "SubTitlePositionX2": 994,
+    "SubTitlePositionY2": 105,
+    "SubTitlePositionX3": null,
+    "SubTitlePositionY3": null,
+    "ReleaseItemGroupId": 2,
+    "PronounceName": "はっしゅたぐゆびさきがつむぐあんこく",
+    "Costumes": [],
+    "AppearanceCharacterBaseMasterIds": [
+      202
+    ],
+    "IsRestrictItemBreakThrough": false,
+    "DisplayStartAt": "2024-02-29T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
     "Id": 229010,
     "Name": "【SIRIUS】竹取物語",
     "OrganizeRestrictGroupId": null,
@@ -2732,6 +2754,45 @@
     ],
     "IsRestrictItemBreakThrough": false,
     "DisplayStartAt": "2024-02-09T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 230420,
+    "Name": "かつてはアヒルの子",
+    "OrganizeRestrictGroupId": null,
+    "Rarity": "SSR",
+    "LevelPatternGroupMasterId": 3,
+    "SubTitlePositionX1": 0,
+    "SubTitlePositionY1": 1255,
+    "SubTitlePositionX2": 0,
+    "SubTitlePositionY2": 0,
+    "SubTitlePositionX3": null,
+    "SubTitlePositionY3": null,
+    "ReleaseItemGroupId": 3,
+    "PronounceName": "かつてはあひるのこ",
+    "Costumes": [
+      {
+        "Phase": 0,
+        "CostumeMasterId": 1881
+      },
+      {
+        "Phase": 1,
+        "CostumeMasterId": 1882
+      },
+      {
+        "Phase": 2,
+        "CostumeMasterId": 1891
+      },
+      {
+        "Phase": 3,
+        "CostumeMasterId": 1892
+      }
+    ],
+    "AppearanceCharacterBaseMasterIds": [
+      204
+    ],
+    "IsRestrictItemBreakThrough": false,
+    "DisplayStartAt": "2024-02-29T17:00:00.000Z",
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   },
   {

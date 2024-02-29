@@ -103,5 +103,19 @@
     "EndDate": "2024-02-29T17:00:00.000Z",
     "LiveSettingMasterId1": 11,
     "LiveSettingMasterId2": 12
+  },
+  {
+    "Id": 16,
+    "StartDate": "2024-02-29T17:00:00.000Z",
+    "EndDate": "2024-03-08T22:00:00.000Z",
+    "LiveSettingMasterId1": 11,
+    "LiveSettingMasterId2": 14
+  },
+  {
+    "Id": 17,
+    "StartDate": "2024-03-08T22:00:00.000Z",
+    "EndDate": "2024-03-31T17:00:00.000Z",
+    "LiveSettingMasterId1": 11,
+    "LiveSettingMasterId2": 12
   }
 ]

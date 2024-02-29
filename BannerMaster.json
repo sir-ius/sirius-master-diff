@@ -490,6 +490,20 @@
     "EndDate": "2024-02-29T17:00:00.000Z"
   },
   {
+    "Id": 1032,
+    "Order": 1969,
+    "Name": "#指先がつむぐ暗黒ガチャ(アクター)",
+    "JumpType": "Gacha",
+    "JumpPageId": "1032",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "[NONE]",
+    "DeleteConditionValue": null,
+    "ImagePath": "Gacha/1032",
+    "StartDate": "2024-02-29T17:00:00.000Z",
+    "EndDate": "2024-03-10T17:00:00.000Z"
+  },
+  {
     "Id": 1800,
     "Order": 1989,
     "Name": "銀河座ピックアップアクターガチャ",
@@ -936,6 +950,20 @@
     "ImagePath": "Gacha/2028",
     "StartDate": "2024-02-18T17:00:00.000Z",
     "EndDate": "2024-02-29T17:00:00.000Z"
+  },
+  {
+    "Id": 2029,
+    "Order": 2029,
+    "Name": "かつてはアヒルの子ガチャ(ポスター)",
+    "JumpType": "Gacha",
+    "JumpPageId": "2029",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "[NONE]",
+    "DeleteConditionValue": null,
+    "ImagePath": "Gacha/2029",
+    "StartDate": "2024-02-29T17:00:00.000Z",
+    "EndDate": "2024-03-10T17:00:00.000Z"
   },
   {
     "Id": 2800,
@@ -2058,6 +2086,20 @@
     "EndDate": "2024-03-07T00:00:00.000Z"
   },
   {
+    "Id": 5086,
+    "Order": 5086,
+    "Name": "電姫空間のおまもりパック",
+    "JumpType": "JewelShop",
+    "JumpPageId": "5",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "BuyItem",
+    "DeleteConditionValue": "5086",
+    "ImagePath": "Home/denki_amulet",
+    "StartDate": "2024-02-29T17:00:00.000Z",
+    "EndDate": "2024-03-08T22:00:00.000Z"
+  },
+  {
     "Id": 8500,
     "Order": 8500,
     "Name": "0.5th Anniversary記念復刻★4アクター確定ステップアップガチャ",
@@ -2126,6 +2168,20 @@
     "ImagePath": "Gacha/9030",
     "StartDate": "2024-01-31T17:00:00.000Z",
     "EndDate": "2024-02-09T17:00:00.000Z"
+  },
+  {
+    "Id": 9040,
+    "Order": 9040,
+    "Name": "かつてはアヒルの子SSR確定ステップアップポスターガチャ",
+    "JumpType": "Gacha",
+    "JumpPageId": "9040",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "[NONE]",
+    "DeleteConditionValue": null,
+    "ImagePath": "Gacha/9040",
+    "StartDate": "2024-02-29T17:00:00.000Z",
+    "EndDate": "2024-03-10T17:00:00.000Z"
   },
   {
     "Id": 9500,

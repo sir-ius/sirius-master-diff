@@ -2075,6 +2075,31 @@
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   },
   {
+    "Id": 130460,
+    "CharacterBaseMasterId": 203,
+    "Name": "おずおずスクロール",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": "Rare3",
+    "Attribute": "Cute",
+    "MinLevelStatus": {
+      "Concentration": 86,
+      "Expression": 91,
+      "Vocal": 93
+    },
+    "StarActMasterId": 130461,
+    "AwakenStarActMasterId": 130461,
+    "SenseMasterId": 130460,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 30002,
+    "SenseEnhanceItemGroupMasterId": 3,
+    "FirstEpisodeReleaseItemGroupId": 311,
+    "SecondEpisodeReleaseItemGroupId": 312,
+    "CharacterAwakeningItemGroupMasterId": 31,
+    "DisplayStartAt": "2024-02-29T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
     "Id": 130560,
     "CharacterBaseMasterId": 405,
     "Name": "フラワー・テンペスト",
@@ -3547,6 +3572,56 @@
     "SecondEpisodeReleaseItemGroupId": 422,
     "CharacterAwakeningItemGroupMasterId": 42,
     "DisplayStartAt": "2024-02-09T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 140680,
+    "CharacterBaseMasterId": 202,
+    "Name": "カオティックキュート",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": "Rare4",
+    "Attribute": "Cute",
+    "MinLevelStatus": {
+      "Concentration": 118,
+      "Expression": 150,
+      "Vocal": 82
+    },
+    "StarActMasterId": 140681,
+    "AwakenStarActMasterId": 140681,
+    "SenseMasterId": 140680,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 40068,
+    "SenseEnhanceItemGroupMasterId": 4,
+    "FirstEpisodeReleaseItemGroupId": 411,
+    "SecondEpisodeReleaseItemGroupId": 412,
+    "CharacterAwakeningItemGroupMasterId": 41,
+    "DisplayStartAt": "2024-02-29T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 140690,
+    "CharacterBaseMasterId": 205,
+    "Name": "サイバーガーディアン",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": "Rare4",
+    "Attribute": "Cute",
+    "MinLevelStatus": {
+      "Concentration": 93,
+      "Expression": 108,
+      "Vocal": 145
+    },
+    "StarActMasterId": 140691,
+    "AwakenStarActMasterId": 140691,
+    "SenseMasterId": 140690,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 40069,
+    "SenseEnhanceItemGroupMasterId": 4,
+    "FirstEpisodeReleaseItemGroupId": 411,
+    "SecondEpisodeReleaseItemGroupId": 412,
+    "CharacterAwakeningItemGroupMasterId": 41,
+    "DisplayStartAt": "2024-02-29T17:00:00.000Z",
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   },
   {

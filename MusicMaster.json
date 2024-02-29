@@ -706,7 +706,7 @@
     "LyricWriter": "松井洋平",
     "Composer": "光増ハジメ（FirstCall）",
     "Arranger": "光増ハジメ（FirstCall）、今野花香",
-    "UnlockText": "楽曲ショップで購入",
+    "UnlockText": null,
     "IsLongVersion": false,
     "ReleasedAt": "2023-01-01T00:00:00.000Z",
     "StaminaConsumption": 29,
@@ -755,7 +755,7 @@
         ]
       }
     ],
-    "UnlockConditionType": "Buy",
+    "UnlockConditionType": "Default",
     "UnlockConditionValue": null,
     "MusicVideoType": "RealTimeRendering",
     "MusicCoverType": "Original"
@@ -769,7 +769,7 @@
     "LyricWriter": "松井洋平",
     "Composer": "Ryu",
     "Arranger": "Ryu",
-    "UnlockText": "楽曲ショップで購入",
+    "UnlockText": null,
     "IsLongVersion": false,
     "ReleasedAt": "2023-01-01T00:00:00.000Z",
     "StaminaConsumption": 26,
@@ -816,7 +816,7 @@
         ]
       }
     ],
-    "UnlockConditionType": "Buy",
+    "UnlockConditionType": "Default",
     "UnlockConditionValue": null,
     "MusicVideoType": "RealTimeRendering",
     "MusicCoverType": "Original"
@@ -830,7 +830,7 @@
     "LyricWriter": "松井洋平",
     "Composer": "塩原大貴 (SUPA LOVE)",
     "Arranger": "塩原大貴 (SUPA LOVE)",
-    "UnlockText": "楽曲ショップで購入",
+    "UnlockText": null,
     "IsLongVersion": false,
     "ReleasedAt": "2023-01-01T00:00:00.000Z",
     "StaminaConsumption": 25,
@@ -877,7 +877,7 @@
         ]
       }
     ],
-    "UnlockConditionType": "Buy",
+    "UnlockConditionType": "Default",
     "UnlockConditionValue": null,
     "MusicVideoType": "RealTimeRendering",
     "MusicCoverType": "Original"
@@ -891,7 +891,7 @@
     "LyricWriter": "松井洋平",
     "Composer": "新田目駿(HANO)",
     "Arranger": "日直伸次(HANO)",
-    "UnlockText": "楽曲ショップで購入",
+    "UnlockText": null,
     "IsLongVersion": false,
     "ReleasedAt": "2023-01-01T00:00:00.000Z",
     "StaminaConsumption": 25,
@@ -938,7 +938,7 @@
         ]
       }
     ],
-    "UnlockConditionType": "Buy",
+    "UnlockConditionType": "Default",
     "UnlockConditionValue": null,
     "MusicVideoType": "RealTimeRendering",
     "MusicCoverType": "Original"
@@ -969,6 +969,21 @@
         "Singer": "鳳ここな、静香",
         "Name": "Binary Star",
         "MusicTimeSecond": 111,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": "None",
+        "Characters": [
+          101,
+          102
+        ]
+      },
+      {
+        "Id": 2502,
+        "MusicMasterId": 25,
+        "VocalVersion": 2,
+        "Singer": "鳳ここな、静香",
+        "Name": "Binary Star（Long Ver）",
+        "MusicTimeSecond": 252,
         "SampleStartSeconds": 0,
         "SampleEndSeconds": 0,
         "MusicVideoType": "None",
@@ -1245,7 +1260,7 @@
     "LyricWriter": "畑亜貴",
     "Composer": "山田高弘",
     "Arranger": "-",
-    "UnlockText": "オーディションSTAGE 5をクリア後、/n楽曲ショップで購入",
+    "UnlockText": "楽曲ショップで購入",
     "IsLongVersion": false,
     "ReleasedAt": "2023-01-01T00:00:00.000Z",
     "StaminaConsumption": 39,
@@ -1275,8 +1290,8 @@
         ]
       }
     ],
-    "UnlockConditionType": "ClearAudition",
-    "UnlockConditionValue": 5,
+    "UnlockConditionType": "Buy",
+    "UnlockConditionValue": null,
     "MusicVideoType": "None",
     "MusicCoverType": "Cover"
   },
@@ -1289,7 +1304,7 @@
     "LyricWriter": "ツミキ",
     "Composer": "ツミキ",
     "Arranger": "-",
-    "UnlockText": "オーディションSTAGE 10をクリア後、/n楽曲ショップで購入",
+    "UnlockText": "楽曲ショップで購入",
     "IsLongVersion": false,
     "ReleasedAt": "2023-01-01T00:00:00.000Z",
     "StaminaConsumption": 30,
@@ -1314,8 +1329,8 @@
         ]
       }
     ],
-    "UnlockConditionType": "ClearAudition",
-    "UnlockConditionValue": 10,
+    "UnlockConditionType": "Buy",
+    "UnlockConditionValue": null,
     "MusicVideoType": "None",
     "MusicCoverType": "Cover"
   },
@@ -3452,6 +3467,45 @@
     "MusicCoverType": "Original"
   },
   {
+    "Id": 99,
+    "Name": "深度異症候群-Shindoi Syndrome-",
+    "Description": "",
+    "RewardRuleMasterId": 1,
+    "PronounceName": "しんどいしんどろーむ",
+    "LyricWriter": "松井洋平",
+    "Composer": "由良崇将",
+    "Arranger": "由良崇将",
+    "UnlockText": null,
+    "IsLongVersion": false,
+    "ReleasedAt": "2024-02-29T17:00:00.000Z",
+    "StaminaConsumption": 26,
+    "MusicTimeSecond": 101,
+    "Invisible": false,
+    "SampleStartSeconds": 0,
+    "SampleEndSeconds": 0,
+    "DelaySeconds": 0,
+    "VocalVersions": [
+      {
+        "Id": 9901,
+        "MusicMasterId": 99,
+        "VocalVersion": 1,
+        "Singer": "烏森大黒",
+        "Name": "深度異症候群-Shindoi Syndrome-",
+        "MusicTimeSecond": 101,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": "None",
+        "Characters": [
+          202
+        ]
+      }
+    ],
+    "UnlockConditionType": "Default",
+    "UnlockConditionValue": null,
+    "MusicVideoType": "None",
+    "MusicCoverType": "Original"
+  },
+  {
     "Id": 118,
     "Name": "あの夏が飽和する。",
     "Description": "",
@@ -3639,6 +3693,45 @@
         "MusicVideoType": "None",
         "Characters": [
           402
+        ]
+      }
+    ],
+    "UnlockConditionType": "Buy",
+    "UnlockConditionValue": null,
+    "MusicVideoType": "None",
+    "MusicCoverType": "Cover"
+  },
+  {
+    "Id": 123,
+    "Name": "ヴァンパイア",
+    "Description": "",
+    "RewardRuleMasterId": 1,
+    "PronounceName": "うぁんぱいあ",
+    "LyricWriter": "DECO*27",
+    "Composer": "DECO*27",
+    "Arranger": "-",
+    "UnlockText": "楽曲ショップで購入",
+    "IsLongVersion": false,
+    "ReleasedAt": "2024-03-05T17:00:00.000Z",
+    "StaminaConsumption": 28,
+    "MusicTimeSecond": 112,
+    "Invisible": false,
+    "SampleStartSeconds": 0,
+    "SampleEndSeconds": 0,
+    "DelaySeconds": 0,
+    "VocalVersions": [
+      {
+        "Id": 12301,
+        "MusicMasterId": 123,
+        "VocalVersion": 1,
+        "Singer": "筆島しぐれ",
+        "Name": "ヴァンパイア",
+        "MusicTimeSecond": 112,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": "None",
+        "Characters": [
+          205
         ]
       }
     ],

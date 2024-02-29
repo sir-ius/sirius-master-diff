@@ -116,7 +116,12 @@
   },
   {
     "Id": 30,
-    "PageCategory": "Spot,Circle,League,StarRank",
+    "PageCategory": "TeamChallenge",
+    "PageCount": 2
+  },
+  {
+    "Id": 31,
+    "PageCategory": "TutorialIngame,Spot,Circle,League,StarRank",
     "PageCount": 2
   }
 ]
