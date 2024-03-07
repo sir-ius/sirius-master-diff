@@ -504,6 +504,21 @@
     ]
   },
   {
+    "Id": 2702,
+    "MusicMasterId": 27,
+    "VocalVersion": 2,
+    "Singer": "千寿暦、ラモーナ・ウォルフ",
+    "Name": "情熱リベレイション（Long Ver）",
+    "MusicTimeSecond": 227,
+    "SampleStartSeconds": 0,
+    "SampleEndSeconds": 0,
+    "MusicVideoType": "None",
+    "Characters": [
+      301,
+      302
+    ]
+  },
+  {
     "Id": 2801,
     "MusicMasterId": 28,
     "VocalVersion": 1,
@@ -736,6 +751,20 @@
     "SampleStartSeconds": 0,
     "SampleEndSeconds": 0,
     "MusicVideoType": "RealTimeRendering",
+    "Characters": [
+      202
+    ]
+  },
+  {
+    "Id": 4502,
+    "MusicMasterId": 45,
+    "VocalVersion": 2,
+    "Singer": "烏森大黒",
+    "Name": "Blondie Revenge Tragedy（Long Ver）",
+    "MusicTimeSecond": 205,
+    "SampleStartSeconds": 0,
+    "SampleEndSeconds": 0,
+    "MusicVideoType": "None",
     "Characters": [
       202
     ]
@@ -1417,6 +1446,20 @@
     ]
   },
   {
+    "Id": 9701,
+    "MusicMasterId": 97,
+    "VocalVersion": 1,
+    "Singer": "流石知冴",
+    "Name": "To B-eat, or not to B-eat!",
+    "MusicTimeSecond": 105,
+    "SampleStartSeconds": 0,
+    "SampleEndSeconds": 0,
+    "MusicVideoType": "None",
+    "Characters": [
+      106
+    ]
+  },
+  {
     "Id": 9901,
     "MusicMasterId": 99,
     "VocalVersion": 1,
@@ -1527,6 +1570,51 @@
     "MusicVideoType": "None",
     "Characters": [
       301
+    ]
+  },
+  {
+    "Id": 12501,
+    "MusicMasterId": 125,
+    "VocalVersion": 1,
+    "Singer": "本巣叶羽",
+    "Name": "強風オールバック",
+    "MusicTimeSecond": 137,
+    "SampleStartSeconds": 0,
+    "SampleEndSeconds": 0,
+    "MusicVideoType": "None",
+    "Characters": [
+      405
+    ]
+  },
+  {
+    "Id": 14301,
+    "MusicMasterId": 143,
+    "VocalVersion": 1,
+    "Singer": "舎人仁花子、萬容",
+    "Name": "give it up to you",
+    "MusicTimeSecond": 130,
+    "SampleStartSeconds": 0,
+    "SampleEndSeconds": 0,
+    "MusicVideoType": "None",
+    "Characters": [
+      203,
+      204
+    ]
+  },
+  {
+    "Id": 14401,
+    "MusicMasterId": 144,
+    "VocalVersion": 1,
+    "Singer": "リリヤ・クルトベイ、与那国緋花里、本巣叶羽",
+    "Name": "Y.Y.Y.計画!!!!",
+    "MusicTimeSecond": 155,
+    "SampleStartSeconds": 0,
+    "SampleEndSeconds": 0,
+    "MusicVideoType": "None",
+    "Characters": [
+      304,
+      305,
+      405
     ]
   },
   {

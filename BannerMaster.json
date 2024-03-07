@@ -504,6 +504,20 @@
     "EndDate": "2024-03-10T17:00:00.000Z"
   },
   {
+    "Id": 1033,
+    "Order": 1968,
+    "Name": "ステラリズムシューターズ！ガチャ(アクター)",
+    "JumpType": "Gacha",
+    "JumpPageId": "1033",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "[NONE]",
+    "DeleteConditionValue": null,
+    "ImagePath": "Gacha/1033",
+    "StartDate": "2024-03-10T17:00:00.000Z",
+    "EndDate": "2024-03-21T17:00:00.000Z"
+  },
+  {
     "Id": 1800,
     "Order": 1989,
     "Name": "銀河座ピックアップアクターガチャ",
@@ -572,6 +586,20 @@
     "ImagePath": "Gacha/1805",
     "StartDate": "2024-02-18T17:00:00.000Z",
     "EndDate": "2024-02-29T17:00:00.000Z"
+  },
+  {
+    "Id": 1806,
+    "Order": 1970,
+    "Name": "★4確定オンゲキコラボ記念ガチャ",
+    "JumpType": "Gacha",
+    "JumpPageId": "1806",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "[NONE]",
+    "DeleteConditionValue": null,
+    "ImagePath": "Gacha/1806",
+    "StartDate": "2024-03-10T17:00:00.000Z",
+    "EndDate": "2024-03-21T17:00:00.000Z"
   },
   {
     "Id": 2001,
@@ -966,6 +994,34 @@
     "EndDate": "2024-03-10T17:00:00.000Z"
   },
   {
+    "Id": 2030,
+    "Order": 2030,
+    "Name": "ステージを感動でいっぱいに！ガチャ(ポスター)",
+    "JumpType": "Gacha",
+    "JumpPageId": "2030",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "[NONE]",
+    "DeleteConditionValue": null,
+    "ImagePath": "Gacha/2030",
+    "StartDate": "2024-03-10T17:00:00.000Z",
+    "EndDate": "2024-03-21T17:00:00.000Z"
+  },
+  {
+    "Id": 2031,
+    "Order": 2031,
+    "Name": "オンゲキコラボガチャ(ポスター)",
+    "JumpType": "Gacha",
+    "JumpPageId": "2031",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "[NONE]",
+    "DeleteConditionValue": null,
+    "ImagePath": "Gacha/2031",
+    "StartDate": "2024-03-10T17:00:00.000Z",
+    "EndDate": "2024-03-21T17:00:00.000Z"
+  },
+  {
     "Id": 2800,
     "Order": 2984,
     "Name": "結ぶぞ！その契約！ガチャ",
@@ -1020,6 +1076,34 @@
     "ImagePath": "Gacha/2804",
     "StartDate": "2024-02-18T17:00:00.000Z",
     "EndDate": "2024-02-29T17:00:00.000Z"
+  },
+  {
+    "Id": 2805,
+    "Order": 2805,
+    "Name": "SSR確定オンゲキコラボ記念ガチャPart1",
+    "JumpType": "Gacha",
+    "JumpPageId": "2805",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "[NONE]",
+    "DeleteConditionValue": null,
+    "ImagePath": "Gacha/2805",
+    "StartDate": "2024-03-10T17:00:00.000Z",
+    "EndDate": "2024-03-21T17:00:00.000Z"
+  },
+  {
+    "Id": 2806,
+    "Order": 2806,
+    "Name": "SSR確定オンゲキコラボ記念ガチャPart2",
+    "JumpType": "Gacha",
+    "JumpPageId": "2806",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "[NONE]",
+    "DeleteConditionValue": null,
+    "ImagePath": "Gacha/2806",
+    "StartDate": "2024-03-10T17:00:00.000Z",
+    "EndDate": "2024-03-21T17:00:00.000Z"
   },
   {
     "Id": 3001,
@@ -2084,6 +2168,76 @@
     "ImagePath": "Home/5077",
     "StartDate": "2024-02-26T00:00:00.000Z",
     "EndDate": "2024-03-07T00:00:00.000Z"
+  },
+  {
+    "Id": 5078,
+    "Order": 5078,
+    "Name": "オンゲキコラボ限定デコレーションパック",
+    "JumpType": "JewelShop",
+    "JumpPageId": "6",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "BuyItem",
+    "DeleteConditionValue": "5078",
+    "ImagePath": "Home/5078",
+    "StartDate": "2024-03-10T17:00:00.000Z",
+    "EndDate": "2024-03-21T17:00:00.000Z"
+  },
+  {
+    "Id": 5079,
+    "Order": 5079,
+    "Name": "オンゲキコラボ限定アクセサリー＆スタンプパック",
+    "JumpType": "JewelShop",
+    "JumpPageId": "6",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "BuyItem",
+    "DeleteConditionValue": "5079",
+    "ImagePath": "Home/5079",
+    "StartDate": "2024-03-10T17:00:00.000Z",
+    "EndDate": "2024-03-21T17:00:00.000Z"
+  },
+  {
+    "Id": 5080,
+    "Order": 5080,
+    "Name": "オンゲキコラボ限定衣装パック",
+    "JumpType": "JewelShop",
+    "JumpPageId": "6",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "BuyItem",
+    "DeleteConditionValue": "5080",
+    "ImagePath": "Home/5080",
+    "StartDate": "2024-03-10T17:00:00.000Z",
+    "EndDate": "2024-03-21T17:00:00.000Z"
+  },
+  {
+    "Id": 5084,
+    "Order": 5084,
+    "Name": "育成もりもりパック",
+    "JumpType": "JewelShop",
+    "JumpPageId": "5",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "BuyItem",
+    "DeleteConditionValue": "5084",
+    "ImagePath": "Home/ikuseimori",
+    "StartDate": "2024-03-15T17:00:00.000Z",
+    "EndDate": "2024-03-25T17:00:00.000Z"
+  },
+  {
+    "Id": 5085,
+    "Order": 5085,
+    "Name": "お誕生日パック【流石 知冴】",
+    "JumpType": "JewelShop",
+    "JumpPageId": "6",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "BuyItem",
+    "DeleteConditionValue": "5085",
+    "ImagePath": "Home/5085",
+    "StartDate": "2024-03-20T00:00:00.000Z",
+    "EndDate": "2024-03-30T00:00:00.000Z"
   },
   {
     "Id": 5086,

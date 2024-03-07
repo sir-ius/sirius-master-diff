@@ -363,5 +363,16 @@
       130460
     ],
     "RelatedStoryMasterIds": []
+  },
+  {
+    "StoryMasterId": 20042,
+    "PreviousStoryMasterIds": [],
+    "NextStoryMasterIds": [],
+    "SideStoryCharacterMasterIds": [
+      140900,
+      140910,
+      130570
+    ],
+    "RelatedStoryMasterIds": []
   }
 ]

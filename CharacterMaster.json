@@ -2125,6 +2125,31 @@
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   },
   {
+    "Id": 130570,
+    "CharacterBaseMasterId": 305,
+    "Name": "茜染め・世界征服",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": "Rare3",
+    "Attribute": "Cool",
+    "MinLevelStatus": {
+      "Concentration": 99,
+      "Expression": 85,
+      "Vocal": 86
+    },
+    "StarActMasterId": 130571,
+    "AwakenStarActMasterId": 130571,
+    "SenseMasterId": 130570,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 30003,
+    "SenseEnhanceItemGroupMasterId": 3,
+    "FirstEpisodeReleaseItemGroupId": 321,
+    "SecondEpisodeReleaseItemGroupId": 322,
+    "CharacterAwakeningItemGroupMasterId": 32,
+    "DisplayStartAt": "2024-03-10T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
     "Id": 140010,
     "CharacterBaseMasterId": 101,
     "Name": "悲哀と恋慕の旋律",
@@ -3672,6 +3697,56 @@
     "SecondEpisodeReleaseItemGroupId": 442,
     "CharacterAwakeningItemGroupMasterId": 44,
     "DisplayStartAt": "2024-02-18T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 140900,
+    "CharacterBaseMasterId": 304,
+    "Name": "江楓にお覚悟を",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": "Rare4",
+    "Attribute": "Cool",
+    "MinLevelStatus": {
+      "Concentration": 84,
+      "Expression": 112,
+      "Vocal": 154
+    },
+    "StarActMasterId": 140901,
+    "AwakenStarActMasterId": 140901,
+    "SenseMasterId": 140900,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 40090,
+    "SenseEnhanceItemGroupMasterId": 4,
+    "FirstEpisodeReleaseItemGroupId": 421,
+    "SecondEpisodeReleaseItemGroupId": 422,
+    "CharacterAwakeningItemGroupMasterId": 42,
+    "DisplayStartAt": "2024-03-10T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 140910,
+    "CharacterBaseMasterId": 405,
+    "Name": "天才の有る栖にようこそ",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": "Rare4",
+    "Attribute": "Cool",
+    "MinLevelStatus": {
+      "Concentration": 142,
+      "Expression": 81,
+      "Vocal": 126
+    },
+    "StarActMasterId": 140911,
+    "AwakenStarActMasterId": 140911,
+    "SenseMasterId": 140910,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 40091,
+    "SenseEnhanceItemGroupMasterId": 4,
+    "FirstEpisodeReleaseItemGroupId": 421,
+    "SecondEpisodeReleaseItemGroupId": 422,
+    "CharacterAwakeningItemGroupMasterId": 42,
+    "DisplayStartAt": "2024-03-10T17:00:00.000Z",
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   }
 ]

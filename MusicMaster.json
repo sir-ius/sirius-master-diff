@@ -1071,6 +1071,21 @@
           301,
           302
         ]
+      },
+      {
+        "Id": 2702,
+        "MusicMasterId": 27,
+        "VocalVersion": 2,
+        "Singer": "千寿暦、ラモーナ・ウォルフ",
+        "Name": "情熱リベレイション（Long Ver）",
+        "MusicTimeSecond": 227,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": "None",
+        "Characters": [
+          301,
+          302
+        ]
       }
     ],
     "UnlockConditionType": "Default",
@@ -1680,6 +1695,20 @@
         "SampleStartSeconds": 0,
         "SampleEndSeconds": 0,
         "MusicVideoType": "RealTimeRendering",
+        "Characters": [
+          202
+        ]
+      },
+      {
+        "Id": 4502,
+        "MusicMasterId": 45,
+        "VocalVersion": 2,
+        "Singer": "烏森大黒",
+        "Name": "Blondie Revenge Tragedy（Long Ver）",
+        "MusicTimeSecond": 205,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": "None",
         "Characters": [
           202
         ]
@@ -3467,6 +3496,45 @@
     "MusicCoverType": "Original"
   },
   {
+    "Id": 97,
+    "Name": "To B-eat, or not to B-eat!",
+    "Description": "",
+    "RewardRuleMasterId": 1,
+    "PronounceName": "tobeatornottobeat",
+    "LyricWriter": "松井洋平",
+    "Composer": "光増ハジメ（FirstCall）",
+    "Arranger": "光増ハジメ（FirstCall）",
+    "UnlockText": null,
+    "IsLongVersion": false,
+    "ReleasedAt": "2024-03-20T17:00:00.000Z",
+    "StaminaConsumption": 27,
+    "MusicTimeSecond": 105,
+    "Invisible": false,
+    "SampleStartSeconds": 0,
+    "SampleEndSeconds": 0,
+    "DelaySeconds": 0,
+    "VocalVersions": [
+      {
+        "Id": 9701,
+        "MusicMasterId": 97,
+        "VocalVersion": 1,
+        "Singer": "流石知冴",
+        "Name": "To B-eat, or not to B-eat!",
+        "MusicTimeSecond": 105,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": "None",
+        "Characters": [
+          106
+        ]
+      }
+    ],
+    "UnlockConditionType": "Default",
+    "UnlockConditionValue": null,
+    "MusicVideoType": "None",
+    "MusicCoverType": "Original"
+  },
+  {
     "Id": 99,
     "Name": "深度異症候群-Shindoi Syndrome-",
     "Description": "",
@@ -3771,6 +3839,126 @@
         "MusicVideoType": "None",
         "Characters": [
           301
+        ]
+      }
+    ],
+    "UnlockConditionType": "Buy",
+    "UnlockConditionValue": null,
+    "MusicVideoType": "None",
+    "MusicCoverType": "Cover"
+  },
+  {
+    "Id": 125,
+    "Name": "強風オールバック",
+    "Description": "",
+    "RewardRuleMasterId": 1,
+    "PronounceName": "きょうふうおーるばっく",
+    "LyricWriter": "ゆこぴ",
+    "Composer": "ゆこぴ",
+    "Arranger": "-",
+    "UnlockText": "楽曲ショップで購入",
+    "IsLongVersion": false,
+    "ReleasedAt": "2024-03-19T17:00:00.000Z",
+    "StaminaConsumption": 33,
+    "MusicTimeSecond": 137,
+    "Invisible": false,
+    "SampleStartSeconds": 0,
+    "SampleEndSeconds": 0,
+    "DelaySeconds": 0,
+    "VocalVersions": [
+      {
+        "Id": 12501,
+        "MusicMasterId": 125,
+        "VocalVersion": 1,
+        "Singer": "本巣叶羽",
+        "Name": "強風オールバック",
+        "MusicTimeSecond": 137,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": "None",
+        "Characters": [
+          405
+        ]
+      }
+    ],
+    "UnlockConditionType": "Buy",
+    "UnlockConditionValue": null,
+    "MusicVideoType": "None",
+    "MusicCoverType": "Cover"
+  },
+  {
+    "Id": 143,
+    "Name": "give it up to you",
+    "Description": "",
+    "RewardRuleMasterId": 1,
+    "PronounceName": "giveituptoyou",
+    "LyricWriter": "中土智博",
+    "Composer": "中土智博",
+    "Arranger": "-",
+    "UnlockText": "楽曲ショップで購入",
+    "IsLongVersion": false,
+    "ReleasedAt": "2024-03-12T17:00:00.000Z",
+    "StaminaConsumption": 31,
+    "MusicTimeSecond": 130,
+    "Invisible": false,
+    "SampleStartSeconds": 0,
+    "SampleEndSeconds": 0,
+    "DelaySeconds": 0,
+    "VocalVersions": [
+      {
+        "Id": 14301,
+        "MusicMasterId": 143,
+        "VocalVersion": 1,
+        "Singer": "舎人仁花子、萬容",
+        "Name": "give it up to you",
+        "MusicTimeSecond": 130,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": "None",
+        "Characters": [
+          203,
+          204
+        ]
+      }
+    ],
+    "UnlockConditionType": "Buy",
+    "UnlockConditionValue": null,
+    "MusicVideoType": "None",
+    "MusicCoverType": "Cover"
+  },
+  {
+    "Id": 144,
+    "Name": "Y.Y.Y.計画!!!!",
+    "Description": "",
+    "RewardRuleMasterId": 1,
+    "PronounceName": "yyyけいかく",
+    "LyricWriter": "烏屋茶房",
+    "Composer": "烏屋茶房",
+    "Arranger": "-",
+    "UnlockText": "楽曲ショップで購入",
+    "IsLongVersion": false,
+    "ReleasedAt": "2024-03-10T17:00:00.000Z",
+    "StaminaConsumption": 36,
+    "MusicTimeSecond": 155,
+    "Invisible": false,
+    "SampleStartSeconds": 0,
+    "SampleEndSeconds": 0,
+    "DelaySeconds": 0,
+    "VocalVersions": [
+      {
+        "Id": 14401,
+        "MusicMasterId": 144,
+        "VocalVersion": 1,
+        "Singer": "リリヤ・クルトベイ、与那国緋花里、本巣叶羽",
+        "Name": "Y.Y.Y.計画!!!!",
+        "MusicTimeSecond": 155,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": "None",
+        "Characters": [
+          304,
+          305,
+          405
         ]
       }
     ],

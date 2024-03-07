@@ -361,5 +361,27 @@
     "LeagueClassGroupMasterId": 1,
     "SenseNotationMasterId": 1033,
     "VocalVersion": 2
+  },
+  {
+    "Id": 34,
+    "MusicMasterId": 45,
+    "MaxDifficulty": "Extra",
+    "DisplayStartAt": "2024-03-12T05:00:00.000Z",
+    "CountingStartAt": "2024-03-18T00:00:00.000Z",
+    "DisplayEndAt": "2024-03-19T05:00:00.000Z",
+    "LeagueClassGroupMasterId": 1,
+    "SenseNotationMasterId": 1034,
+    "VocalVersion": 2
+  },
+  {
+    "Id": 35,
+    "MusicMasterId": 27,
+    "MaxDifficulty": "Extra",
+    "DisplayStartAt": "2024-03-19T05:00:00.000Z",
+    "CountingStartAt": "2024-03-25T00:00:00.000Z",
+    "DisplayEndAt": "2024-03-26T05:00:00.000Z",
+    "LeagueClassGroupMasterId": 1,
+    "SenseNotationMasterId": 1035,
+    "VocalVersion": 2
   }
 ]

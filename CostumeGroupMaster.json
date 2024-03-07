@@ -1869,5 +1869,89 @@
     "IsHairChange": true,
     "DisplayStartAt": "2024-02-18T17:00:00.000Z",
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 206,
+    "Name": "頑張り屋なシュータードレス",
+    "Description": null,
+    "Order": 206,
+    "CostumeMasterIds": [
+      2061
+    ],
+    "CostumeWearableCharacterGroupMasterId": 14,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2024-03-10T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 207,
+    "Name": "頑張り屋なシュータードレス",
+    "Description": null,
+    "Order": 207,
+    "CostumeMasterIds": [
+      2071
+    ],
+    "CostumeWearableCharacterGroupMasterId": 101,
+    "PerformanceGroupId": null,
+    "IsHairChange": true,
+    "DisplayStartAt": "2024-03-10T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 208,
+    "Name": "真面目なシュータードレス",
+    "Description": null,
+    "Order": 208,
+    "CostumeMasterIds": [
+      2081
+    ],
+    "CostumeWearableCharacterGroupMasterId": 15,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2024-03-10T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 209,
+    "Name": "真面目なシュータードレス",
+    "Description": null,
+    "Order": 209,
+    "CostumeMasterIds": [
+      2091
+    ],
+    "CostumeWearableCharacterGroupMasterId": 102,
+    "PerformanceGroupId": null,
+    "IsHairChange": true,
+    "DisplayStartAt": "2024-03-10T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 210,
+    "Name": "無邪気なシュータードレス",
+    "Description": null,
+    "Order": 210,
+    "CostumeMasterIds": [
+      2101
+    ],
+    "CostumeWearableCharacterGroupMasterId": 16,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2024-03-10T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 211,
+    "Name": "無邪気なシュータードレス",
+    "Description": null,
+    "Order": 211,
+    "CostumeMasterIds": [
+      2111
+    ],
+    "CostumeWearableCharacterGroupMasterId": 103,
+    "PerformanceGroupId": null,
+    "IsHairChange": true,
+    "DisplayStartAt": "2024-03-10T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   }
 ]

@@ -2820,6 +2820,29 @@
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   },
   {
+    "Id": 320030,
+    "Name": "ステラリズムシューターズ！",
+    "OrganizeRestrictGroupId": null,
+    "Rarity": "SR",
+    "LevelPatternGroupMasterId": 2,
+    "SubTitlePositionX1": 10,
+    "SubTitlePositionY1": 1588,
+    "SubTitlePositionX2": 169,
+    "SubTitlePositionY2": 45,
+    "SubTitlePositionX3": null,
+    "SubTitlePositionY3": null,
+    "ReleaseItemGroupId": 2,
+    "PronounceName": "すてらりずむしゅーたーず",
+    "Costumes": [],
+    "AppearanceCharacterBaseMasterIds": [
+      203,
+      204
+    ],
+    "IsRestrictItemBreakThrough": false,
+    "DisplayStartAt": "2024-03-10T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
     "Id": 320050,
     "Name": "謹賀新年2024",
     "OrganizeRestrictGroupId": null,
@@ -2935,6 +2958,71 @@
     ],
     "IsRestrictItemBreakThrough": false,
     "DisplayStartAt": "2024-02-18T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 330040,
+    "Name": "ステージを感動でいっぱいに！",
+    "OrganizeRestrictGroupId": null,
+    "Rarity": "SSR",
+    "LevelPatternGroupMasterId": 3,
+    "SubTitlePositionX1": 0,
+    "SubTitlePositionY1": 904,
+    "SubTitlePositionX2": 0,
+    "SubTitlePositionY2": 0,
+    "SubTitlePositionX3": 1063,
+    "SubTitlePositionY3": 1727,
+    "ReleaseItemGroupId": 3,
+    "PronounceName": "すてーじをかんどうでいっぱいに",
+    "Costumes": [
+      {
+        "Phase": 0,
+        "CostumeMasterId": 2071
+      },
+      {
+        "Phase": 1,
+        "CostumeMasterId": 2061
+      }
+    ],
+    "AppearanceCharacterBaseMasterIds": [
+      101,
+      102,
+      103
+    ],
+    "IsRestrictItemBreakThrough": false,
+    "DisplayStartAt": "2024-03-10T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 330050,
+    "Name": "オンゲキコラボ",
+    "OrganizeRestrictGroupId": null,
+    "Rarity": "SSR",
+    "LevelPatternGroupMasterId": 3,
+    "SubTitlePositionX1": 729,
+    "SubTitlePositionY1": 1543,
+    "SubTitlePositionX2": null,
+    "SubTitlePositionY2": null,
+    "SubTitlePositionX3": null,
+    "SubTitlePositionY3": null,
+    "ReleaseItemGroupId": 3,
+    "PronounceName": "おんげきこらぼ",
+    "Costumes": [
+      {
+        "Phase": 0,
+        "CostumeMasterId": 2091
+      },
+      {
+        "Phase": 1,
+        "CostumeMasterId": 2081
+      }
+    ],
+    "AppearanceCharacterBaseMasterIds": [
+      101,
+      201
+    ],
+    "IsRestrictItemBreakThrough": false,
+    "DisplayStartAt": "2024-03-10T17:00:00.000Z",
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   }
 ]
