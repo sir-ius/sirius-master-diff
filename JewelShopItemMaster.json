@@ -8753,9 +8753,9 @@
       {
         "Id": 509301,
         "MJewelShopItemId": 5093,
-        "ThingId": 130063,
+        "ThingId": 221003,
         "ThingType": "Item",
-        "ThingQuantity": 400
+        "ThingQuantity": 1
       },
       {
         "Id": 509302,
@@ -8767,9 +8767,9 @@
       {
         "Id": 509303,
         "MJewelShopItemId": 5093,
-        "ThingId": 221003,
+        "ThingId": 130063,
         "ThingType": "Item",
-        "ThingQuantity": 1
+        "ThingQuantity": 400
       }
     ],
     "ShopItemType": "None",
