@@ -3230,7 +3230,7 @@
     "Id": 14102,
     "Difficulty": "Hard",
     "MusicMasterId": 141,
-    "Level": 16,
+    "Level": 15,
     "NoteCount": 0
   },
   {
@@ -3251,7 +3251,7 @@
     "Id": 14105,
     "Difficulty": "Olivier",
     "MusicMasterId": 141,
-    "Level": 105,
+    "Level": 106,
     "NoteCount": 0
   },
   {
@@ -3279,7 +3279,7 @@
     "Id": 14204,
     "Difficulty": "Stella",
     "MusicMasterId": 142,
-    "Level": 25,
+    "Level": 26,
     "NoteCount": 0
   },
   {
