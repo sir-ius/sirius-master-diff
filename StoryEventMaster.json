@@ -231,6 +231,17 @@
     "ForceEndDate": "2024-02-18T17:00:00.000Z"
   },
   {
+    "Id": 20024,
+    "Category": "HighScore",
+    "BonusAttribute": "Cool",
+    "Title": "7番目のエトワールをさがして",
+    "ExchangeShopMasterId": 20024,
+    "EventPointItemMasterId": 420024,
+    "StartDate": "2024-03-21T17:00:00.000Z",
+    "EndDate": "2024-03-29T22:00:00.000Z",
+    "ForceEndDate": "2024-03-31T17:00:00.000Z"
+  },
+  {
     "Id": 20025,
     "Category": "Normal",
     "BonusAttribute": "Cute",

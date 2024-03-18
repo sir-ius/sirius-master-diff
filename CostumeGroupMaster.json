@@ -1757,6 +1757,36 @@
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   },
   {
+    "Id": 186,
+    "Name": "幸福な王子の贈り物",
+    "Description": null,
+    "Order": 186,
+    "CostumeMasterIds": [
+      1861,
+      1862
+    ],
+    "CostumeWearableCharacterGroupMasterId": null,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2024-03-21T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 187,
+    "Name": "幸福な王子の贈り物",
+    "Description": null,
+    "Order": 187,
+    "CostumeMasterIds": [
+      1871,
+      1872
+    ],
+    "CostumeWearableCharacterGroupMasterId": 106,
+    "PerformanceGroupId": null,
+    "IsHairChange": true,
+    "DisplayStartAt": "2024-03-21T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
     "Id": 188,
     "Name": "かつてはアヒルの子",
     "Description": null,

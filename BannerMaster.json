@@ -518,6 +518,20 @@
     "EndDate": "2024-03-21T17:00:00.000Z"
   },
   {
+    "Id": 1034,
+    "Order": 1967,
+    "Name": "7番目のエトワールをさがしてガチャ(アクター)",
+    "JumpType": "Gacha",
+    "JumpPageId": "1034",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "[NONE]",
+    "DeleteConditionValue": null,
+    "ImagePath": "Gacha/1034",
+    "StartDate": "2024-03-21T17:00:00.000Z",
+    "EndDate": "2024-03-31T17:00:00.000Z"
+  },
+  {
     "Id": 1800,
     "Order": 1989,
     "Name": "銀河座ピックアップアクターガチャ",
@@ -1020,6 +1034,20 @@
     "ImagePath": "Gacha/2031",
     "StartDate": "2024-03-10T17:00:00.000Z",
     "EndDate": "2024-03-21T17:00:00.000Z"
+  },
+  {
+    "Id": 2032,
+    "Order": 2032,
+    "Name": "幸福な王子の贈り物ガチャ(ポスター)",
+    "JumpType": "Gacha",
+    "JumpPageId": "2032",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "[NONE]",
+    "DeleteConditionValue": null,
+    "ImagePath": "Gacha/2032",
+    "StartDate": "2024-03-21T17:00:00.000Z",
+    "EndDate": "2024-03-31T17:00:00.000Z"
   },
   {
     "Id": 2800,

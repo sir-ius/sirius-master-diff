@@ -2901,7 +2901,42 @@
     "Id": 9705,
     "Difficulty": "Olivier",
     "MusicMasterId": 97,
-    "Level": 107,
+    "Level": 106,
+    "NoteCount": 0
+  },
+  {
+    "Id": 9801,
+    "Difficulty": "Normal",
+    "MusicMasterId": 98,
+    "Level": 7,
+    "NoteCount": 0
+  },
+  {
+    "Id": 9802,
+    "Difficulty": "Hard",
+    "MusicMasterId": 98,
+    "Level": 15,
+    "NoteCount": 0
+  },
+  {
+    "Id": 9803,
+    "Difficulty": "Extra",
+    "MusicMasterId": 98,
+    "Level": 21,
+    "NoteCount": 0
+  },
+  {
+    "Id": 9804,
+    "Difficulty": "Stella",
+    "MusicMasterId": 98,
+    "Level": 25,
+    "NoteCount": 0
+  },
+  {
+    "Id": 9805,
+    "Difficulty": "Olivier",
+    "MusicMasterId": 98,
+    "Level": 104,
     "NoteCount": 0
   },
   {
@@ -3217,6 +3252,41 @@
     "Difficulty": "Olivier",
     "MusicMasterId": 125,
     "Level": 103,
+    "NoteCount": 0
+  },
+  {
+    "Id": 12801,
+    "Difficulty": "Normal",
+    "MusicMasterId": 128,
+    "Level": 7,
+    "NoteCount": 0
+  },
+  {
+    "Id": 12802,
+    "Difficulty": "Hard",
+    "MusicMasterId": 128,
+    "Level": 15,
+    "NoteCount": 0
+  },
+  {
+    "Id": 12803,
+    "Difficulty": "Extra",
+    "MusicMasterId": 128,
+    "Level": 21,
+    "NoteCount": 0
+  },
+  {
+    "Id": 12804,
+    "Difficulty": "Stella",
+    "MusicMasterId": 128,
+    "Level": 25,
+    "NoteCount": 0
+  },
+  {
+    "Id": 12805,
+    "Difficulty": "Olivier",
+    "MusicMasterId": 128,
+    "Level": 104,
     "NoteCount": 0
   },
   {

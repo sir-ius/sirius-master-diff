@@ -2075,6 +2075,31 @@
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   },
   {
+    "Id": 130450,
+    "CharacterBaseMasterId": 105,
+    "Name": "言うだけタダですし！",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": "Rare3",
+    "Attribute": "Cool",
+    "MinLevelStatus": {
+      "Concentration": 90,
+      "Expression": 110,
+      "Vocal": 70
+    },
+    "StarActMasterId": 130451,
+    "AwakenStarActMasterId": 130451,
+    "SenseMasterId": 130450,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 30003,
+    "SenseEnhanceItemGroupMasterId": 3,
+    "FirstEpisodeReleaseItemGroupId": 321,
+    "SecondEpisodeReleaseItemGroupId": 322,
+    "CharacterAwakeningItemGroupMasterId": 32,
+    "DisplayStartAt": "2024-03-21T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
     "Id": 130460,
     "CharacterBaseMasterId": 203,
     "Name": "おずおずスクロール",
@@ -3597,6 +3622,56 @@
     "SecondEpisodeReleaseItemGroupId": 422,
     "CharacterAwakeningItemGroupMasterId": 42,
     "DisplayStartAt": "2024-02-09T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 140660,
+    "CharacterBaseMasterId": 104,
+    "Name": "いちばんたいせつなことは",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": "Rare4",
+    "Attribute": "Cool",
+    "MinLevelStatus": {
+      "Concentration": 89,
+      "Expression": 113,
+      "Vocal": 145
+    },
+    "StarActMasterId": 140661,
+    "AwakenStarActMasterId": 140661,
+    "SenseMasterId": 140660,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 40066,
+    "SenseEnhanceItemGroupMasterId": 4,
+    "FirstEpisodeReleaseItemGroupId": 421,
+    "SecondEpisodeReleaseItemGroupId": 422,
+    "CharacterAwakeningItemGroupMasterId": 42,
+    "DisplayStartAt": "2024-03-21T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 140670,
+    "CharacterBaseMasterId": 101,
+    "Name": "夜空を見れば、思い出す",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": "Rare4",
+    "Attribute": "Cool",
+    "MinLevelStatus": {
+      "Concentration": 128,
+      "Expression": 94,
+      "Vocal": 120
+    },
+    "StarActMasterId": 140671,
+    "AwakenStarActMasterId": 140671,
+    "SenseMasterId": 140670,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 40067,
+    "SenseEnhanceItemGroupMasterId": 4,
+    "FirstEpisodeReleaseItemGroupId": 421,
+    "SecondEpisodeReleaseItemGroupId": 422,
+    "CharacterAwakeningItemGroupMasterId": 42,
+    "DisplayStartAt": "2024-03-21T17:00:00.000Z",
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   },
   {

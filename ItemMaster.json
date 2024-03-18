@@ -252,6 +252,20 @@
     "Rarity": "R"
   },
   {
+    "Id": 111018,
+    "Name": "高級スタミナドリンク【～3月31日 17:00】",
+    "Description": "美容にも欠かせない一級品のドリンク。スタミナを100回復する。2024年3月31日17時まで使用できる。",
+    "DisplayOrder": 18,
+    "DisplayEndDate": "2024-03-31T17:00:00.000Z",
+    "MaxStock": 99999,
+    "Category": "StaminaRecovery",
+    "Consumable": false,
+    "JumpType": "None",
+    "JumpTargetId": null,
+    "TabCategory": "Normal",
+    "Rarity": "R"
+  },
+  {
     "Id": 111019,
     "Name": "高級スタミナドリンク【～3月10日 17:00】",
     "Description": "美容にも欠かせない一級品のドリンク。スタミナを100回復する。",
@@ -2100,6 +2114,20 @@
     "Rarity": "SSR"
   },
   {
+    "Id": 143045,
+    "Name": "★3【言うだけタダですし！】柳場ぱんだのピース",
+    "Description": "★3【言うだけタダですし！】柳場ぱんだの才能開花に使用できるアイテム。",
+    "DisplayOrder": 143045,
+    "DisplayEndDate": null,
+    "MaxStock": 99999,
+    "Category": "TalentBloom",
+    "Consumable": false,
+    "JumpType": "None",
+    "JumpTargetId": null,
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
+  },
+  {
     "Id": 143046,
     "Name": "★3【おずおずスクロール】舎人仁花子のピース",
     "Description": "★3【おずおずスクロール】舎人仁花子の才能開花に使用できるアイテム。",
@@ -2954,6 +2982,34 @@
     "Rarity": "SSR"
   },
   {
+    "Id": 144066,
+    "Name": "★4【いちばんたいせつなことは】新妻八恵のピース",
+    "Description": "★4【いちばんたいせつなことは】新妻八恵の才能開花に使用できるアイテム。",
+    "DisplayOrder": 144066,
+    "DisplayEndDate": null,
+    "MaxStock": 99999,
+    "Category": "TalentBloom",
+    "Consumable": false,
+    "JumpType": "None",
+    "JumpTargetId": null,
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
+  },
+  {
+    "Id": 144067,
+    "Name": "★4【夜空を見れば、思い出す】鳳ここなのピース",
+    "Description": "★4【夜空を見れば、思い出す】鳳ここなの才能開花に使用できるアイテム。",
+    "DisplayOrder": 144067,
+    "DisplayEndDate": null,
+    "MaxStock": 99999,
+    "Category": "TalentBloom",
+    "Consumable": false,
+    "JumpType": "None",
+    "JumpTargetId": null,
+    "TabCategory": "Piece",
+    "Rarity": "SSR"
+  },
+  {
     "Id": 144068,
     "Name": "★4【カオティックキュート】烏森大黒のピース",
     "Description": "★4【カオティックキュート】烏森大黒の才能開花に使用できるアイテム。",
@@ -3780,6 +3836,20 @@
     "Rarity": "R"
   },
   {
+    "Id": 411034,
+    "Name": "ガチャポイント",
+    "Description": "ショップの該当するガチャポイント交換で様々なアイテムと交換できる。",
+    "DisplayOrder": 411034,
+    "DisplayEndDate": "2024-04-07T17:00:00.000Z",
+    "MaxStock": 99999,
+    "Category": "GachaPoint",
+    "Consumable": false,
+    "JumpType": "None",
+    "JumpTargetId": null,
+    "TabCategory": "Hidden",
+    "Rarity": "R"
+  },
+  {
     "Id": 411800,
     "Name": "ガチャポイント",
     "Description": "ショップの該当するガチャポイント交換で様々なアイテムと交換できる。",
@@ -4242,6 +4312,20 @@
     "Rarity": "R"
   },
   {
+    "Id": 412032,
+    "Name": "ガチャポイント",
+    "Description": "ショップの該当するガチャポイント交換で様々なアイテムと交換できる。",
+    "DisplayOrder": 412032,
+    "DisplayEndDate": "2024-04-07T17:00:00.000Z",
+    "MaxStock": 99999,
+    "Category": "GachaPoint",
+    "Consumable": false,
+    "JumpType": "None",
+    "JumpTargetId": null,
+    "TabCategory": "Hidden",
+    "Rarity": "R"
+  },
+  {
     "Id": 412800,
     "Name": "ガチャポイント",
     "Description": "ショップの該当するガチャポイント交換で様々なアイテムと交換できる。",
@@ -4554,6 +4638,20 @@
     "Name": "イベントポイント",
     "Description": "イベントの交換所から様々なアイテムと交換できる。",
     "DisplayOrder": 420021,
+    "DisplayEndDate": null,
+    "MaxStock": 1999999999,
+    "Category": "EventPoint",
+    "Consumable": false,
+    "JumpType": "None",
+    "JumpTargetId": null,
+    "TabCategory": "Hidden",
+    "Rarity": "R"
+  },
+  {
+    "Id": 420024,
+    "Name": "イベントポイント",
+    "Description": "イベントの交換所から様々なアイテムと交換できる。",
+    "DisplayOrder": 420024,
     "DisplayEndDate": null,
     "MaxStock": 1999999999,
     "Category": "EventPoint",

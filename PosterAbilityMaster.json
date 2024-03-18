@@ -4290,6 +4290,36 @@
     "ConditionValue2": null
   },
   {
+    "Id": 220400,
+    "Name": "7番目のエトワールをさがして",
+    "Description": "シリウスに所属するアクターの演技力が[:param11]%上昇",
+    "PosterMasterId": 220400,
+    "Type": "Leader",
+    "FrameNumber": 1,
+    "ReleaseLevelAt": 0,
+    "Hidden": false,
+    "Branches": [
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 70022100
+          }
+        ],
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 22040001
+      }
+    ],
+    "BranchConditionType1": "None",
+    "ConditionValue1": null,
+    "BranchConditionType2": "None",
+    "ConditionValue2": null
+  },
+  {
     "Id": 220410,
     "Name": "#指先がつむぐ暗黒",
     "Description": "<color=#ff679d>憐属性</color>のアクターの演技力が[:param11]%上昇",
@@ -8012,6 +8042,36 @@
     "ConditionValue2": null
   },
   {
+    "Id": 230410,
+    "Name": "そして歌声は街中に",
+    "Description": "<color=#33B4DF>凛属性</color>のアクターの演技力が[:param11]%上昇",
+    "PosterMasterId": 230410,
+    "Type": "Leader",
+    "FrameNumber": 1,
+    "ReleaseLevelAt": 0,
+    "Hidden": false,
+    "Branches": [
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 70052002
+          }
+        ],
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 23041001
+      }
+    ],
+    "BranchConditionType1": "None",
+    "ConditionValue1": null,
+    "BranchConditionType2": "None",
+    "ConditionValue2": null
+  },
+  {
     "Id": 230420,
     "Name": "大空へ羽ばたいて",
     "Description": "Edenに所属するアクターの演技力が[:param11]%上昇",
@@ -9114,6 +9174,66 @@
         "JudgeType2": null,
         "Parameter2": null,
         "Id": 220370201
+      }
+    ],
+    "BranchConditionType1": "None",
+    "ConditionValue1": null,
+    "BranchConditionType2": "None",
+    "ConditionValue2": null
+  },
+  {
+    "Id": 2204001,
+    "Name": "ライフブースト",
+    "Description": "センス発動直後、ライフを[:param11]回復　◆発動条件：シリウスに所属するアクターが装備",
+    "PosterMasterId": 220400,
+    "Type": "Normal",
+    "FrameNumber": 1,
+    "ReleaseLevelAt": 0,
+    "Hidden": false,
+    "Branches": [
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 11211100
+          }
+        ],
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 220400101
+      }
+    ],
+    "BranchConditionType1": "None",
+    "ConditionValue1": null,
+    "BranchConditionType2": "None",
+    "ConditionValue2": null
+  },
+  {
+    "Id": 2204002,
+    "Name": "スコアブースト",
+    "Description": "センス発動直後、現在のスコアの[:param11]%のスコアを獲得　◆発動条件：シリウスに所属するアクターが装備",
+    "PosterMasterId": 220400,
+    "Type": "Normal",
+    "FrameNumber": 2,
+    "ReleaseLevelAt": 7,
+    "Hidden": false,
+    "Branches": [
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10810100
+          }
+        ],
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 220400201
       }
     ],
     "BranchConditionType1": "None",
@@ -10524,6 +10644,96 @@
         "JudgeType2": null,
         "Parameter2": null,
         "Id": 230380201
+      }
+    ],
+    "BranchConditionType1": "None",
+    "ConditionValue1": null,
+    "BranchConditionType2": "None",
+    "ConditionValue2": null
+  },
+  {
+    "Id": 2304101,
+    "Name": "演技力アップⅢ",
+    "Description": "自身の演技力が[:param11]％上昇",
+    "PosterMasterId": 230410,
+    "Type": "Normal",
+    "FrameNumber": 1,
+    "ReleaseLevelAt": 0,
+    "Hidden": false,
+    "Branches": [
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10030000
+          }
+        ],
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 230410101
+      }
+    ],
+    "BranchConditionType1": "None",
+    "ConditionValue1": null,
+    "BranchConditionType2": "None",
+    "ConditionValue2": null
+  },
+  {
+    "Id": 2304102,
+    "Name": "スコアブースト＋",
+    "Description": "センス発動直後、現在のスコアの[:param11]%のスコアを獲得　◆発動条件：<color=#33B4DF>凛属性</color>のアクターが装備",
+    "PosterMasterId": 230410,
+    "Type": "Normal",
+    "FrameNumber": 2,
+    "ReleaseLevelAt": 5,
+    "Hidden": false,
+    "Branches": [
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 10811002
+          }
+        ],
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 230410201
+      }
+    ],
+    "BranchConditionType1": "None",
+    "ConditionValue1": null,
+    "BranchConditionType2": "None",
+    "ConditionValue2": null
+  },
+  {
+    "Id": 2304103,
+    "Name": "P.ゲージブースト",
+    "Description": "センス発動直後、P.ゲージを[:param11]獲得　◆発動条件：<color=#33B4DF>凛属性</color>のアクターが装備",
+    "PosterMasterId": 230410,
+    "Type": "Normal",
+    "FrameNumber": 3,
+    "ReleaseLevelAt": 7,
+    "Hidden": false,
+    "Branches": [
+      {
+        "Order": 1,
+        "BranchEffects": [
+          {
+            "Order": 1,
+            "EffectMasterId": 11410002
+          }
+        ],
+        "JudgeType1": null,
+        "Parameter1": null,
+        "JudgeType2": null,
+        "Parameter2": null,
+        "Id": 230410301
       }
     ],
     "BranchConditionType1": "None",
