@@ -2908,7 +2908,7 @@
     "Id": 9801,
     "Difficulty": "Normal",
     "MusicMasterId": 98,
-    "Level": 7,
+    "Level": 8,
     "NoteCount": 0
   },
   {
@@ -2922,14 +2922,14 @@
     "Id": 9803,
     "Difficulty": "Extra",
     "MusicMasterId": 98,
-    "Level": 21,
+    "Level": 22,
     "NoteCount": 0
   },
   {
     "Id": 9804,
     "Difficulty": "Stella",
     "MusicMasterId": 98,
-    "Level": 25,
+    "Level": 26,
     "NoteCount": 0
   },
   {
