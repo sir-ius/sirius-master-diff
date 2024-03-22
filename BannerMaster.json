@@ -2296,6 +2296,34 @@
     "EndDate": "2024-04-05T17:00:00.000Z"
   },
   {
+    "Id": 5095,
+    "Order": 5095,
+    "Name": "Limitedアクターガチャチケットパック",
+    "JumpType": "JewelShop",
+    "JumpPageId": "5",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "[NONE]",
+    "DeleteConditionValue": null,
+    "ImagePath": "Home/5095",
+    "StartDate": "2024-03-25T17:00:00.000Z",
+    "EndDate": "2024-04-05T17:00:00.000Z"
+  },
+  {
+    "Id": 5097,
+    "Order": 5097,
+    "Name": "アクターガチャチケットパック",
+    "JumpType": "JewelShop",
+    "JumpPageId": "5",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "[NONE]",
+    "DeleteConditionValue": null,
+    "ImagePath": "Home/5097",
+    "StartDate": "2024-03-25T17:00:00.000Z",
+    "EndDate": "2024-04-05T17:00:00.000Z"
+  },
+  {
     "Id": 8500,
     "Order": 8500,
     "Name": "0.5th Anniversary記念復刻★4アクター確定ステップアップガチャ",

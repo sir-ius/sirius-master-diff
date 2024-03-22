@@ -3122,6 +3122,20 @@
     "Rarity": "R"
   },
   {
+    "Id": 210003,
+    "Name": "Limitedアクターガチャチケット",
+    "Description": "Limitedアクターガチャを引くことができるチケット。",
+    "DisplayOrder": 210003,
+    "DisplayEndDate": null,
+    "MaxStock": 99999,
+    "Category": "GachaTicket",
+    "Consumable": false,
+    "JumpType": "None",
+    "JumpTargetId": null,
+    "TabCategory": "Ticket",
+    "Rarity": "R"
+  },
+  {
     "Id": 210101,
     "Name": "★3以上確定アクターガチャチケット",
     "Description": "★3以上確定アクターガチャを引くことができるチケット。",
@@ -3224,6 +3238,20 @@
     "Name": "ポスターガチャ10連チケット",
     "Description": "ポスターガチャを10回引くことができるチケット。",
     "DisplayOrder": 211002,
+    "DisplayEndDate": null,
+    "MaxStock": 99999,
+    "Category": "GachaTicket",
+    "Consumable": false,
+    "JumpType": "None",
+    "JumpTargetId": null,
+    "TabCategory": "Ticket",
+    "Rarity": "R"
+  },
+  {
+    "Id": 211003,
+    "Name": "Limitedポスターガチャチケット",
+    "Description": "Limitedポスターガチャを引くことができるチケット。",
+    "DisplayOrder": 211003,
     "DisplayEndDate": null,
     "MaxStock": 99999,
     "Category": "GachaTicket",
@@ -3892,6 +3920,20 @@
     "Rarity": "R"
   },
   {
+    "Id": 411907,
+    "Name": "ガチャポイント",
+    "Description": "ショップの該当するガチャポイント交換で様々なアイテムと交換できる。",
+    "DisplayOrder": 411907,
+    "DisplayEndDate": null,
+    "MaxStock": 99999,
+    "Category": "GachaPoint",
+    "Consumable": false,
+    "JumpType": "None",
+    "JumpTargetId": null,
+    "TabCategory": "Hidden",
+    "Rarity": "R"
+  },
+  {
     "Id": 412001,
     "Name": "ガチャポイント",
     "Description": "ショップの該当するガチャポイント交換で様々なアイテムと交換できる。",
@@ -4345,6 +4387,20 @@
     "Description": "ショップの該当するガチャポイント交換で様々なアイテムと交換できる。",
     "DisplayOrder": 412801,
     "DisplayEndDate": "2024-02-05T17:00:00.000Z",
+    "MaxStock": 99999,
+    "Category": "GachaPoint",
+    "Consumable": false,
+    "JumpType": "None",
+    "JumpTargetId": null,
+    "TabCategory": "Hidden",
+    "Rarity": "R"
+  },
+  {
+    "Id": 412906,
+    "Name": "ガチャポイント",
+    "Description": "ショップの該当するガチャポイント交換で様々なアイテムと交換できる。",
+    "DisplayOrder": 412906,
+    "DisplayEndDate": null,
     "MaxStock": 99999,
     "Category": "GachaPoint",
     "Consumable": false,
