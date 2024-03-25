@@ -28222,14 +28222,7 @@
     "GachaTextTemplateMasterId": 1907,
     "StartDate": "2024-03-25T17:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
-    "BonusThings": [
-      {
-        "Id": 190701,
-        "ThingId": 411907,
-        "ThingType": "Item",
-        "ThingQuantity": 1
-      }
-    ],
+    "BonusThings": [],
     "GachaDetails": [
       {
         "Id": 190700,
@@ -51475,14 +51468,7 @@
     "GachaTextTemplateMasterId": 2906,
     "StartDate": "2024-03-25T17:00:00.000Z",
     "EndDate": "2100-01-01T00:00:00.000Z",
-    "BonusThings": [
-      {
-        "Id": 290601,
-        "ThingId": 412906,
-        "ThingType": "Item",
-        "ThingQuantity": 1
-      }
-    ],
+    "BonusThings": [],
     "GachaDetails": [
       {
         "Id": 290600,
