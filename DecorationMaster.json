@@ -121,6 +121,17 @@
     "MaxWidthPx": 360
   },
   {
+    "Id": 10104,
+    "Order": 10104,
+    "IsDefault": false,
+    "Name": "八恵のリボン",
+    "Category": "Special",
+    "WidhtPx": 240,
+    "HeightPx": 240,
+    "MinWidthPx": 48,
+    "MaxWidthPx": 360
+  },
+  {
     "Id": 10105,
     "Order": 10105,
     "IsDefault": false,

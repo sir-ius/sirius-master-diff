@@ -474,6 +474,21 @@
     ]
   },
   {
+    "Id": 2503,
+    "MusicMasterId": 25,
+    "VocalVersion": 3,
+    "Singer": "鳳ここな、静香",
+    "Name": "Binary Star",
+    "MusicTimeSecond": 102,
+    "SampleStartSeconds": 0,
+    "SampleEndSeconds": 0,
+    "MusicVideoType": "None",
+    "Characters": [
+      101,
+      102
+    ]
+  },
+  {
     "Id": 2601,
     "MusicMasterId": 26,
     "VocalVersion": 1,
@@ -1461,6 +1476,21 @@
     ]
   },
   {
+    "Id": 9501,
+    "MusicMasterId": 95,
+    "VocalVersion": 1,
+    "Singer": "猫足蕾、阿岐留カミラ",
+    "Name": "ふぁうすと・いんぷれっしょん！！",
+    "MusicTimeSecond": 102,
+    "SampleStartSeconds": 0,
+    "SampleEndSeconds": 0,
+    "MusicVideoType": "None",
+    "Characters": [
+      403,
+      404
+    ]
+  },
+  {
     "Id": 9701,
     "MusicMasterId": 97,
     "VocalVersion": 1,
@@ -1500,6 +1530,20 @@
     "MusicVideoType": "None",
     "Characters": [
       202
+    ]
+  },
+  {
+    "Id": 10001,
+    "MusicMasterId": 100,
+    "VocalVersion": 1,
+    "Singer": "新妻八恵",
+    "Name": "Singin' little blue bird",
+    "MusicTimeSecond": 103,
+    "SampleStartSeconds": 0,
+    "SampleEndSeconds": 0,
+    "MusicVideoType": "None",
+    "Characters": [
+      104
     ]
   },
   {
@@ -1628,6 +1672,20 @@
     "Characters": [
       203,
       204
+    ]
+  },
+  {
+    "Id": 12901,
+    "MusicMasterId": 129,
+    "VocalVersion": 1,
+    "Singer": "リリヤ・クルトベイ",
+    "Name": "忘れじの言の葉",
+    "MusicTimeSecond": 132,
+    "SampleStartSeconds": 0,
+    "SampleEndSeconds": 0,
+    "MusicVideoType": "None",
+    "Characters": [
+      304
     ]
   },
   {

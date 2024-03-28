@@ -991,6 +991,21 @@
           101,
           102
         ]
+      },
+      {
+        "Id": 2503,
+        "MusicMasterId": 25,
+        "VocalVersion": 3,
+        "Singer": "鳳ここな、静香",
+        "Name": "Binary Star",
+        "MusicTimeSecond": 102,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": "None",
+        "Characters": [
+          101,
+          102
+        ]
       }
     ],
     "UnlockConditionType": "Default",
@@ -3511,6 +3526,46 @@
     "MusicCoverType": "Original"
   },
   {
+    "Id": 95,
+    "Name": "ふぁうすと・いんぷれっしょん！！",
+    "Description": "",
+    "RewardRuleMasterId": 1,
+    "PronounceName": "ふぁうすといんぷれっしょん",
+    "LyricWriter": "松井洋平",
+    "Composer": "LiCu（FirstCall）",
+    "Arranger": "LiCu（FirstCall）",
+    "UnlockText": null,
+    "IsLongVersion": false,
+    "ReleasedAt": "2024-03-31T17:00:00.000Z",
+    "StaminaConsumption": 26,
+    "MusicTimeSecond": 102,
+    "Invisible": false,
+    "SampleStartSeconds": 0,
+    "SampleEndSeconds": 0,
+    "DelaySeconds": 0,
+    "VocalVersions": [
+      {
+        "Id": 9501,
+        "MusicMasterId": 95,
+        "VocalVersion": 1,
+        "Singer": "猫足蕾、阿岐留カミラ",
+        "Name": "ふぁうすと・いんぷれっしょん！！",
+        "MusicTimeSecond": 102,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": "None",
+        "Characters": [
+          403,
+          404
+        ]
+      }
+    ],
+    "UnlockConditionType": "Default",
+    "UnlockConditionValue": null,
+    "MusicVideoType": "None",
+    "MusicCoverType": "Original"
+  },
+  {
     "Id": 97,
     "Name": "To B-eat, or not to B-eat!",
     "Description": "",
@@ -3619,6 +3674,45 @@
         "MusicVideoType": "None",
         "Characters": [
           202
+        ]
+      }
+    ],
+    "UnlockConditionType": "Default",
+    "UnlockConditionValue": null,
+    "MusicVideoType": "None",
+    "MusicCoverType": "Original"
+  },
+  {
+    "Id": 100,
+    "Name": "Singin' little blue bird",
+    "Description": "",
+    "RewardRuleMasterId": 1,
+    "PronounceName": "singinlittlebluebird",
+    "LyricWriter": "松井洋平",
+    "Composer": "藤井健太郎(HANO)",
+    "Arranger": "藤井健太郎(HANO)",
+    "UnlockText": null,
+    "IsLongVersion": false,
+    "ReleasedAt": "2024-04-09T17:00:00.000Z",
+    "StaminaConsumption": 26,
+    "MusicTimeSecond": 103,
+    "Invisible": false,
+    "SampleStartSeconds": 0,
+    "SampleEndSeconds": 0,
+    "DelaySeconds": 0,
+    "VocalVersions": [
+      {
+        "Id": 10001,
+        "MusicMasterId": 100,
+        "VocalVersion": 1,
+        "Singer": "新妻八恵",
+        "Name": "Singin' little blue bird",
+        "MusicTimeSecond": 103,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": "None",
+        "Characters": [
+          104
         ]
       }
     ],
@@ -3972,6 +4066,45 @@
         "Characters": [
           203,
           204
+        ]
+      }
+    ],
+    "UnlockConditionType": "Buy",
+    "UnlockConditionValue": null,
+    "MusicVideoType": "None",
+    "MusicCoverType": "Cover"
+  },
+  {
+    "Id": 129,
+    "Name": "忘れじの言の葉",
+    "Description": "",
+    "RewardRuleMasterId": 1,
+    "PronounceName": "わすれじのことのは",
+    "LyricWriter": "砂守岳央(未来古代楽団)",
+    "Composer": "松岡美弥子(未来古代楽団)",
+    "Arranger": "-",
+    "UnlockText": "楽曲ショップで購入",
+    "IsLongVersion": false,
+    "ReleasedAt": "2024-04-05T17:00:00.000Z",
+    "StaminaConsumption": 32,
+    "MusicTimeSecond": 132,
+    "Invisible": false,
+    "SampleStartSeconds": 0,
+    "SampleEndSeconds": 0,
+    "DelaySeconds": 0,
+    "VocalVersions": [
+      {
+        "Id": 12901,
+        "MusicMasterId": 129,
+        "VocalVersion": 1,
+        "Singer": "リリヤ・クルトベイ",
+        "Name": "忘れじの言の葉",
+        "MusicTimeSecond": 132,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": "None",
+        "Characters": [
+          304
         ]
       }
     ],

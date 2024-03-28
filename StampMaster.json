@@ -330,6 +330,16 @@
     "Name": "八恵【一緒にいかがですか？\t】"
   },
   {
+    "Id": 10481,
+    "Order": 10481,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 104,
+    "Type": "Default",
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "八恵【見ていてくださいね】"
+  },
+  {
     "Id": 10491,
     "Order": 10491,
     "IsDefault": false,
@@ -1598,6 +1608,16 @@
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "蕾【これが組織の陰謀…】"
+  },
+  {
+    "Id": 40407,
+    "Order": 40407,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 404,
+    "Type": "Default",
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "蕾【また力が増したな…】"
   },
   {
     "Id": 40481,

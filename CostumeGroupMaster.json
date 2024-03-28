@@ -1740,6 +1740,36 @@
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   },
   {
+    "Id": 181,
+    "Name": "ファウストちゃん！",
+    "Description": null,
+    "Order": 181,
+    "CostumeMasterIds": [
+      1811,
+      1812
+    ],
+    "CostumeWearableCharacterGroupMasterId": null,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2024-03-31T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 182,
+    "Name": "ファウストちゃん！",
+    "Description": null,
+    "Order": 182,
+    "CostumeMasterIds": [
+      1821,
+      1822
+    ],
+    "CostumeWearableCharacterGroupMasterId": 403,
+    "PerformanceGroupId": null,
+    "IsHairChange": true,
+    "DisplayStartAt": "2024-03-31T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
     "Id": 183,
     "Name": "ダイナーウェイトレス",
     "Description": null,
@@ -1814,6 +1844,23 @@
     "PerformanceGroupId": null,
     "IsHairChange": true,
     "DisplayStartAt": "2024-02-29T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 190,
+    "Name": "イースターバニー",
+    "Description": null,
+    "Order": 190,
+    "CostumeMasterIds": [
+      1901,
+      1902,
+      1903,
+      1904
+    ],
+    "CostumeWearableCharacterGroupMasterId": null,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2024-04-01T05:00:00.000Z",
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   },
   {

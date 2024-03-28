@@ -231,6 +231,17 @@
     "ForceEndDate": "2024-02-18T17:00:00.000Z"
   },
   {
+    "Id": 20022,
+    "Category": "Normal",
+    "BonusAttribute": "Cheerful",
+    "Title": "トロイメライと悪魔",
+    "ExchangeShopMasterId": 20022,
+    "EventPointItemMasterId": 420022,
+    "StartDate": "2024-03-31T17:00:00.000Z",
+    "EndDate": "2024-04-08T22:00:00.000Z",
+    "ForceEndDate": "2024-04-10T17:00:00.000Z"
+  },
+  {
     "Id": 20024,
     "Category": "HighScore",
     "BonusAttribute": "Cool",

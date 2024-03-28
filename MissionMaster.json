@@ -7862,6 +7862,34 @@
     "ComebackCampaignMasterId": null
   },
   {
+    "Id": 17300,
+    "MissionCategory": "Limit",
+    "MissionViewOrder": 17300,
+    "Title": "",
+    "Description": "「Singin' little blue bird」を[:param]回クリアしよう",
+    "EventMasterId": null,
+    "JumpType": "Live",
+    "JumpTargetId": null,
+    "StartDate": "2024-04-09T17:00:00.000Z",
+    "EndDate": "2024-04-19T00:00:00.000Z",
+    "Stages": [
+      {
+        "Id": 17300,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 5,
+        "StartDate": "2024-04-09T17:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 110471,
+            "ThingType": "Trophy",
+            "ThingQuantity": 1
+          }
+        ]
+      }
+    ],
+    "ComebackCampaignMasterId": null
+  },
+  {
     "Id": 100000,
     "MissionCategory": "Daily",
     "MissionViewOrder": 100000,

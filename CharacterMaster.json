@@ -2075,6 +2075,31 @@
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   },
   {
+    "Id": 130430,
+    "CharacterBaseMasterId": 402,
+    "Name": "みんなが大切だからこそ",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": "Rare3",
+    "Attribute": "Cheerful",
+    "MinLevelStatus": {
+      "Concentration": 69,
+      "Expression": 84,
+      "Vocal": 120
+    },
+    "StarActMasterId": 130431,
+    "AwakenStarActMasterId": 130431,
+    "SenseMasterId": 130430,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 30003,
+    "SenseEnhanceItemGroupMasterId": 3,
+    "FirstEpisodeReleaseItemGroupId": 341,
+    "SecondEpisodeReleaseItemGroupId": 342,
+    "CharacterAwakeningItemGroupMasterId": 34,
+    "DisplayStartAt": "2024-03-31T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
     "Id": 130450,
     "CharacterBaseMasterId": 105,
     "Name": "言うだけタダですし！",
@@ -3622,6 +3647,56 @@
     "SecondEpisodeReleaseItemGroupId": 422,
     "CharacterAwakeningItemGroupMasterId": 42,
     "DisplayStartAt": "2024-02-09T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 140620,
+    "CharacterBaseMasterId": 404,
+    "Name": "華は海底に眠る",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": "Rare4",
+    "Attribute": "Cheerful",
+    "MinLevelStatus": {
+      "Concentration": 91,
+      "Expression": 124,
+      "Vocal": 128
+    },
+    "StarActMasterId": 140621,
+    "AwakenStarActMasterId": 140621,
+    "SenseMasterId": 140620,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 40062,
+    "SenseEnhanceItemGroupMasterId": 4,
+    "FirstEpisodeReleaseItemGroupId": 441,
+    "SecondEpisodeReleaseItemGroupId": 442,
+    "CharacterAwakeningItemGroupMasterId": 44,
+    "DisplayStartAt": "2024-03-31T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 140630,
+    "CharacterBaseMasterId": 401,
+    "Name": "水海に月は満ち",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": "Rare4",
+    "Attribute": "Cheerful",
+    "MinLevelStatus": {
+      "Concentration": 117,
+      "Expression": 142,
+      "Vocal": 88
+    },
+    "StarActMasterId": 140631,
+    "AwakenStarActMasterId": 140631,
+    "SenseMasterId": 140630,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 40063,
+    "SenseEnhanceItemGroupMasterId": 4,
+    "FirstEpisodeReleaseItemGroupId": 441,
+    "SecondEpisodeReleaseItemGroupId": 442,
+    "CharacterAwakeningItemGroupMasterId": 44,
+    "DisplayStartAt": "2024-03-31T17:00:00.000Z",
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   },
   {
