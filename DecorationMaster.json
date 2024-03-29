@@ -319,6 +319,17 @@
     "MaxWidthPx": 540
   },
   {
+    "Id": 90001,
+    "Order": 90001,
+    "IsDefault": false,
+    "Name": "怪盗ゲソパンダキャットのシール",
+    "Category": "Seal",
+    "WidhtPx": 360,
+    "HeightPx": 360,
+    "MinWidthPx": 180,
+    "MaxWidthPx": 540
+  },
+  {
     "Id": 201011,
     "Order": 201011,
     "IsDefault": true,
