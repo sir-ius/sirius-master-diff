@@ -114,7 +114,7 @@
     "IconImagePath": "9999",
     "Order": 10,
     "StartDate": "2024-04-01T00:00:00.000Z",
-    "EndDate": "2024-04-02T00:00:00.000Z",
+    "EndDate": "2024-04-03T00:00:00.000Z",
     "ComebackCampaignMasterId": null,
     "CampaignEffectType": "AccessoryDropRate",
     "CampaignEffectValue": 0
