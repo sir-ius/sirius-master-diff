@@ -288,6 +288,15 @@
     "DisplayEndAt": "2024-03-10T17:00:00.000Z"
   },
   {
+    "Id": 20027,
+    "Type": "Event",
+    "CompanyMasterId": null,
+    "EventMasterId": 20027,
+    "ChapterOrder": 0,
+    "DisplayStartAt": "2024-04-10T17:00:00.000Z",
+    "DisplayEndAt": "2024-04-20T17:00:00.000Z"
+  },
+  {
     "Id": 20042,
     "Type": "Event",
     "CompanyMasterId": null,

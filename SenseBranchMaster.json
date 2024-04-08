@@ -530,6 +530,16 @@
     ]
   },
   {
+    "Id": 1407301,
+    "Order": 1,
+    "Effects": [
+      {
+        "Order": 1,
+        "EffectMasterId": 20534
+      }
+    ]
+  },
+  {
     "Id": 1408801,
     "Order": 1,
     "Effects": [

@@ -3027,7 +3027,7 @@
     "Id": 10003,
     "Difficulty": "Extra",
     "MusicMasterId": 100,
-    "Level": 22,
+    "Level": 21,
     "NoteCount": 0
   },
   {
@@ -3041,6 +3041,41 @@
     "Id": 10005,
     "Difficulty": "Olivier",
     "MusicMasterId": 100,
+    "Level": 104,
+    "NoteCount": 0
+  },
+  {
+    "Id": 10201,
+    "Difficulty": "Normal",
+    "MusicMasterId": 102,
+    "Level": 7,
+    "NoteCount": 0
+  },
+  {
+    "Id": 10202,
+    "Difficulty": "Hard",
+    "MusicMasterId": 102,
+    "Level": 14,
+    "NoteCount": 0
+  },
+  {
+    "Id": 10203,
+    "Difficulty": "Extra",
+    "MusicMasterId": 102,
+    "Level": 21,
+    "NoteCount": 0
+  },
+  {
+    "Id": 10204,
+    "Difficulty": "Stella",
+    "MusicMasterId": 102,
+    "Level": 26,
+    "NoteCount": 0
+  },
+  {
+    "Id": 10205,
+    "Difficulty": "Olivier",
+    "MusicMasterId": 102,
     "Level": 104,
     "NoteCount": 0
   },

@@ -60,6 +60,16 @@
     "Name": "ここな【いつでもいけるよ！】"
   },
   {
+    "Id": 10107,
+    "Order": 10107,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 101,
+    "Type": "Default",
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "ここな【成功させるよ…！】"
+  },
+  {
     "Id": 10180,
     "Order": 10180,
     "IsDefault": false,

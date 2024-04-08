@@ -308,5 +308,15 @@
     "EndDate": "2024-04-08T00:00:00.000Z",
     "AdditionalSplashValue0": "None",
     "AdditionalSplashValue1": "None"
+  },
+  {
+    "Id": 32,
+    "Order": 32,
+    "SplashType": "Video",
+    "SplashValue": "20027",
+    "StartDate": "2024-04-10T17:00:00.000Z",
+    "EndDate": "2024-04-18T22:00:00.000Z",
+    "AdditionalSplashValue0": "None",
+    "AdditionalSplashValue1": "None"
   }
 ]

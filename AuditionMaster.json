@@ -878,5 +878,60 @@
     "DisplayStartAt": "2024-03-19T17:00:00.000Z",
     "DisplayEndAt": "1970-01-01T00:00:00.000Z",
     "VocalVersion": 1
+  },
+  {
+    "Id": 81,
+    "MusicMasterId": 79,
+    "RecommendedCompany": "Sirius",
+    "CanSkip": false,
+    "SenseNotationMasterId": 81,
+    "MaxPhase": "2",
+    "DisplayStartAt": "2024-04-19T17:00:00.000Z",
+    "DisplayEndAt": "1970-01-01T00:00:00.000Z",
+    "VocalVersion": 1
+  },
+  {
+    "Id": 82,
+    "MusicMasterId": 82,
+    "RecommendedCompany": "Sirius",
+    "CanSkip": false,
+    "SenseNotationMasterId": 82,
+    "MaxPhase": "2",
+    "DisplayStartAt": "2024-04-19T17:00:00.000Z",
+    "DisplayEndAt": "1970-01-01T00:00:00.000Z",
+    "VocalVersion": 1
+  },
+  {
+    "Id": 83,
+    "MusicMasterId": 73,
+    "RecommendedCompany": "Sirius",
+    "CanSkip": false,
+    "SenseNotationMasterId": 83,
+    "MaxPhase": "2",
+    "DisplayStartAt": "2024-04-19T17:00:00.000Z",
+    "DisplayEndAt": "1970-01-01T00:00:00.000Z",
+    "VocalVersion": 1
+  },
+  {
+    "Id": 84,
+    "MusicMasterId": 97,
+    "RecommendedCompany": "Sirius",
+    "CanSkip": false,
+    "SenseNotationMasterId": 84,
+    "MaxPhase": "2",
+    "DisplayStartAt": "2024-04-19T17:00:00.000Z",
+    "DisplayEndAt": "1970-01-01T00:00:00.000Z",
+    "VocalVersion": 1
+  },
+  {
+    "Id": 85,
+    "MusicMasterId": 142,
+    "RecommendedCompany": "Sirius",
+    "CanSkip": false,
+    "SenseNotationMasterId": 85,
+    "MaxPhase": "3",
+    "DisplayStartAt": "2024-04-19T17:00:00.000Z",
+    "DisplayEndAt": "1970-01-01T00:00:00.000Z",
+    "VocalVersion": 1
   }
 ]
