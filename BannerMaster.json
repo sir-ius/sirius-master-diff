@@ -546,6 +546,20 @@
     "EndDate": "2024-04-10T17:00:00.000Z"
   },
   {
+    "Id": 1036,
+    "Order": 1964,
+    "Name": "アツアツまごころ料理道！ガチャ(アクター)",
+    "JumpType": "Gacha",
+    "JumpPageId": "1036",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "[NONE]",
+    "DeleteConditionValue": null,
+    "ImagePath": "Gacha/1036",
+    "StartDate": "2024-04-20T17:00:00.000Z",
+    "EndDate": "2024-04-30T17:00:00.000Z"
+  },
+  {
     "Id": 1037,
     "Order": 1965,
     "Name": "Bloom Time-Lapseガチャ(アクター)",
@@ -558,6 +572,34 @@
     "ImagePath": "Gacha/1037",
     "StartDate": "2024-04-10T17:00:00.000Z",
     "EndDate": "2024-04-20T17:00:00.000Z"
+  },
+  {
+    "Id": 1038,
+    "Order": 1963,
+    "Name": "Eden第2章記念ユメフェス(アクター)",
+    "JumpType": "Gacha",
+    "JumpPageId": "1038",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "[NONE]",
+    "DeleteConditionValue": null,
+    "ImagePath": "Gacha/1038",
+    "StartDate": "2024-04-26T17:00:00.000Z",
+    "EndDate": "2024-05-02T17:00:00.000Z"
+  },
+  {
+    "Id": 1044,
+    "Order": 1957,
+    "Name": "【復刻】シリウスは日々是好日でガチャ(アクター)",
+    "JumpType": "Gacha",
+    "JumpPageId": "1044",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "[NONE]",
+    "DeleteConditionValue": null,
+    "ImagePath": "Gacha/1044",
+    "StartDate": "2024-04-28T17:00:00.000Z",
+    "EndDate": "2024-05-01T17:00:00.000Z"
   },
   {
     "Id": 1800,
@@ -642,6 +684,20 @@
     "ImagePath": "Gacha/1806",
     "StartDate": "2024-03-10T17:00:00.000Z",
     "EndDate": "2024-03-21T17:00:00.000Z"
+  },
+  {
+    "Id": 1807,
+    "Order": 1969,
+    "Name": "Edenピックアップアクターガチャ",
+    "JumpType": "Gacha",
+    "JumpPageId": "1807",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "[NONE]",
+    "DeleteConditionValue": null,
+    "ImagePath": "Gacha/1807",
+    "StartDate": "2024-04-26T17:00:00.000Z",
+    "EndDate": "2024-05-02T17:00:00.000Z"
   },
   {
     "Id": 2001,
@@ -1090,6 +1146,20 @@
     "ImagePath": "Gacha/2033",
     "StartDate": "2024-03-31T17:00:00.000Z",
     "EndDate": "2024-04-10T17:00:00.000Z"
+  },
+  {
+    "Id": 2044,
+    "Order": 2044,
+    "Name": "【復刻】くまガチャ(ポスター)",
+    "JumpType": "Gacha",
+    "JumpPageId": "2044",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "[NONE]",
+    "DeleteConditionValue": null,
+    "ImagePath": "Gacha/2044",
+    "StartDate": "2024-04-28T17:00:00.000Z",
+    "EndDate": "2024-05-01T17:00:00.000Z"
   },
   {
     "Id": 2800,
@@ -1594,6 +1664,20 @@
     "ImagePath": "Home/Banner00062",
     "StartDate": "2024-01-26T17:00:00.000Z",
     "EndDate": "2024-02-26T17:00:00.000Z"
+  },
+  {
+    "Id": 4020,
+    "Order": 998,
+    "Name": "Eden第2章追加",
+    "JumpType": "Story",
+    "JumpPageId": "1",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "[NONE]",
+    "DeleteConditionValue": null,
+    "ImagePath": "Notification/Banner00182",
+    "StartDate": "2024-04-26T17:00:00.000Z",
+    "EndDate": "2024-06-01T05:00:00.000Z"
   },
   {
     "Id": 5002,
@@ -2394,6 +2478,20 @@
     "EndDate": "2024-04-05T17:00:00.000Z"
   },
   {
+    "Id": 5098,
+    "Order": 5098,
+    "Name": "お誕生日パック再販売",
+    "JumpType": "JewelShop",
+    "JumpPageId": "5",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "[NONE]",
+    "DeleteConditionValue": null,
+    "ImagePath": "Home/Banner00222",
+    "StartDate": "2024-04-26T17:00:00.000Z",
+    "EndDate": "2024-05-07T17:00:00.000Z"
+  },
+  {
     "Id": 5099,
     "Order": 5099,
     "Name": "電姫空間のおまもりパック",
@@ -2422,6 +2520,34 @@
     "EndDate": "2024-04-15T17:00:00.000Z"
   },
   {
+    "Id": 5101,
+    "Order": 5101,
+    "Name": "Limitedアクターガチャチケットパック",
+    "JumpType": "JewelShop",
+    "JumpPageId": "5",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "[NONE]",
+    "DeleteConditionValue": null,
+    "ImagePath": "Home/5095",
+    "StartDate": "2024-04-25T21:00:00.000Z",
+    "EndDate": "2024-05-05T17:00:00.000Z"
+  },
+  {
+    "Id": 5103,
+    "Order": 5103,
+    "Name": "アクターガチャチケットパック",
+    "JumpType": "JewelShop",
+    "JumpPageId": "5",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "[NONE]",
+    "DeleteConditionValue": null,
+    "ImagePath": "Home/5097",
+    "StartDate": "2024-04-25T21:00:00.000Z",
+    "EndDate": "2024-05-05T17:00:00.000Z"
+  },
+  {
     "Id": 5123,
     "Order": 5123,
     "Name": "撮影パック",
@@ -2434,6 +2560,34 @@
     "ImagePath": "Home/common_photo",
     "StartDate": "2024-04-15T17:00:00.000Z",
     "EndDate": "2024-04-25T17:00:00.000Z"
+  },
+  {
+    "Id": 5124,
+    "Order": 5124,
+    "Name": "ユメフェス記念ジュエルパック",
+    "JumpType": "JewelShop",
+    "JumpPageId": "5",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "[NONE]",
+    "DeleteConditionValue": null,
+    "ImagePath": "Home/5124",
+    "StartDate": "2024-04-26T17:00:00.000Z",
+    "EndDate": "2024-05-07T17:00:00.000Z"
+  },
+  {
+    "Id": 5127,
+    "Order": 5127,
+    "Name": "Eden第2章追加記念！初心者応援パック",
+    "JumpType": "JewelShop",
+    "JumpPageId": "5",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "[NONE]",
+    "DeleteConditionValue": null,
+    "ImagePath": "Home/5127",
+    "StartDate": "2024-04-25T21:00:00.000Z",
+    "EndDate": "2024-05-18T17:00:00.000Z"
   },
   {
     "Id": 8500,

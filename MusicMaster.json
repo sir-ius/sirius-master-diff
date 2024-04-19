@@ -3722,6 +3722,45 @@
     "MusicCoverType": "Original"
   },
   {
+    "Id": 101,
+    "Name": "ハートフル・レシピ",
+    "Description": "",
+    "RewardRuleMasterId": 1,
+    "PronounceName": "はーとふるれしぴ",
+    "LyricWriter": "松井洋平",
+    "Composer": "古河 夕",
+    "Arranger": "古河 夕",
+    "UnlockText": null,
+    "IsLongVersion": false,
+    "ReleasedAt": "2024-04-20T17:00:00.000Z",
+    "StaminaConsumption": 25,
+    "MusicTimeSecond": 97,
+    "Invisible": false,
+    "SampleStartSeconds": 0,
+    "SampleEndSeconds": 0,
+    "DelaySeconds": 0,
+    "VocalVersions": [
+      {
+        "Id": 10101,
+        "MusicMasterId": 101,
+        "VocalVersion": 1,
+        "Singer": "白丸美兎",
+        "Name": "ハートフル・レシピ",
+        "MusicTimeSecond": 97,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": "None",
+        "Characters": [
+          402
+        ]
+      }
+    ],
+    "UnlockConditionType": "Default",
+    "UnlockConditionValue": null,
+    "MusicVideoType": "None",
+    "MusicCoverType": "Original"
+  },
+  {
     "Id": 102,
     "Name": "Friends Per Second",
     "Description": "",
@@ -4145,6 +4184,49 @@
         "MusicVideoType": "None",
         "Characters": [
           304
+        ]
+      }
+    ],
+    "UnlockConditionType": "Buy",
+    "UnlockConditionValue": null,
+    "MusicVideoType": "None",
+    "MusicCoverType": "Cover"
+  },
+  {
+    "Id": 132,
+    "Name": "檄!帝国華撃団",
+    "Description": "",
+    "RewardRuleMasterId": 1,
+    "PronounceName": "げきていこくかげきだん",
+    "LyricWriter": "広井王子",
+    "Composer": "田中公平",
+    "Arranger": "-",
+    "UnlockText": "楽曲ショップで購入",
+    "IsLongVersion": false,
+    "ReleasedAt": "2024-04-29T17:00:00.000Z",
+    "StaminaConsumption": 32,
+    "MusicTimeSecond": 136,
+    "Invisible": false,
+    "SampleStartSeconds": 0,
+    "SampleEndSeconds": 0,
+    "DelaySeconds": 0,
+    "VocalVersions": [
+      {
+        "Id": 13201,
+        "MusicMasterId": 132,
+        "VocalVersion": 1,
+        "Singer": "千寿暦、ラモーナ・ウォルフ、王雪、リリヤ・クルトベイ、与那国緋花里",
+        "Name": "檄!帝国華撃団",
+        "MusicTimeSecond": 136,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": "None",
+        "Characters": [
+          301,
+          302,
+          303,
+          304,
+          305
         ]
       }
     ],

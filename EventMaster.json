@@ -21,6 +21,13 @@
     "ForceEndDate": "2024-04-08T00:00:00.000Z"
   },
   {
+    "Id": 21004,
+    "EventType": "SpecialEvent",
+    "StartDate": "2024-04-26T17:00:00.000Z",
+    "EndDate": "2024-05-08T17:00:00.000Z",
+    "ForceEndDate": "2024-05-08T17:00:00.000Z"
+  },
+  {
     "Id": 30001,
     "EventType": "Concert",
     "StartDate": "2023-11-12T20:00:00.000Z",

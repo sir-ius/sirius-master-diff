@@ -192,6 +192,14 @@
     "IsKeyStory": false
   },
   {
+    "Id": 20026,
+    "StoryMasterId": 20026,
+    "StoryEventMasterId": 20026,
+    "ListedStartDate": "2024-04-30T17:00:00.000Z",
+    "EventStoryListFlags": "Gingaza,Denki",
+    "IsKeyStory": false
+  },
+  {
     "Id": 20027,
     "StoryMasterId": 20027,
     "StoryEventMasterId": 20027,

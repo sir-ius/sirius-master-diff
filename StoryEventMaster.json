@@ -264,6 +264,17 @@
     "ForceEndDate": "2024-03-10T17:00:00.000Z"
   },
   {
+    "Id": 20026,
+    "Category": "HighScore",
+    "BonusAttribute": "Colorful",
+    "Title": "アツアツまごころ料理道！",
+    "ExchangeShopMasterId": 20026,
+    "EventPointItemMasterId": 420026,
+    "StartDate": "2024-04-20T17:00:00.000Z",
+    "EndDate": "2024-04-28T22:00:00.000Z",
+    "ForceEndDate": "2024-04-30T17:00:00.000Z"
+  },
+  {
     "Id": 20027,
     "Category": "Normal",
     "BonusAttribute": "Cute",

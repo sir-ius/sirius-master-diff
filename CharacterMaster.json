@@ -2150,6 +2150,31 @@
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   },
   {
+    "Id": 130470,
+    "CharacterBaseMasterId": 303,
+    "Name": "伝統料理で勝負だ！",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": "Rare3",
+    "Attribute": "Colorful",
+    "MinLevelStatus": {
+      "Concentration": 99,
+      "Expression": 96,
+      "Vocal": 75
+    },
+    "StarActMasterId": 130471,
+    "AwakenStarActMasterId": 130471,
+    "SenseMasterId": 130470,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 30003,
+    "SenseEnhanceItemGroupMasterId": 3,
+    "FirstEpisodeReleaseItemGroupId": 331,
+    "SecondEpisodeReleaseItemGroupId": 332,
+    "CharacterAwakeningItemGroupMasterId": 33,
+    "DisplayStartAt": "2024-04-20T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
     "Id": 130480,
     "CharacterBaseMasterId": 103,
     "Name": "別に心配なんか……",
@@ -3825,6 +3850,56 @@
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   },
   {
+    "Id": 140700,
+    "CharacterBaseMasterId": 402,
+    "Name": "武の頂を目指して",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": "Rare4",
+    "Attribute": "Colorful",
+    "MinLevelStatus": {
+      "Concentration": 114,
+      "Expression": 136,
+      "Vocal": 94
+    },
+    "StarActMasterId": 140701,
+    "AwakenStarActMasterId": 140701,
+    "SenseMasterId": 140700,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 40070,
+    "SenseEnhanceItemGroupMasterId": 4,
+    "FirstEpisodeReleaseItemGroupId": 431,
+    "SecondEpisodeReleaseItemGroupId": 432,
+    "CharacterAwakeningItemGroupMasterId": 43,
+    "DisplayStartAt": "2024-04-20T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 140710,
+    "CharacterBaseMasterId": 305,
+    "Name": "決闘者は仙人の如く",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": "Rare4",
+    "Attribute": "Colorful",
+    "MinLevelStatus": {
+      "Concentration": 150,
+      "Expression": 90,
+      "Vocal": 107
+    },
+    "StarActMasterId": 140711,
+    "AwakenStarActMasterId": 140711,
+    "SenseMasterId": 140710,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 40071,
+    "SenseEnhanceItemGroupMasterId": 4,
+    "FirstEpisodeReleaseItemGroupId": 431,
+    "SecondEpisodeReleaseItemGroupId": 432,
+    "CharacterAwakeningItemGroupMasterId": 43,
+    "DisplayStartAt": "2024-04-20T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
     "Id": 140720,
     "CharacterBaseMasterId": 101,
     "Name": "絵本から飛び出せば",
@@ -3972,6 +4047,56 @@
     "SecondEpisodeReleaseItemGroupId": 422,
     "CharacterAwakeningItemGroupMasterId": 42,
     "DisplayStartAt": "2024-03-10T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 140920,
+    "CharacterBaseMasterId": 202,
+    "Name": "平和で幸せな悪魔憑き",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": "Rare4",
+    "Attribute": "Cheerful",
+    "MinLevelStatus": {
+      "Concentration": 78,
+      "Expression": 191,
+      "Vocal": 86
+    },
+    "StarActMasterId": 140921,
+    "AwakenStarActMasterId": 140921,
+    "SenseMasterId": 140920,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 40092,
+    "SenseEnhanceItemGroupMasterId": 4,
+    "FirstEpisodeReleaseItemGroupId": 441,
+    "SecondEpisodeReleaseItemGroupId": 442,
+    "CharacterAwakeningItemGroupMasterId": 44,
+    "DisplayStartAt": "2024-04-26T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 140930,
+    "CharacterBaseMasterId": 201,
+    "Name": "銀弾は正鵠の射手",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": "Rare4",
+    "Attribute": "Colorful",
+    "MinLevelStatus": {
+      "Concentration": 78,
+      "Expression": 168,
+      "Vocal": 97
+    },
+    "StarActMasterId": 140931,
+    "AwakenStarActMasterId": 140931,
+    "SenseMasterId": 140930,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 40093,
+    "SenseEnhanceItemGroupMasterId": 4,
+    "FirstEpisodeReleaseItemGroupId": 431,
+    "SecondEpisodeReleaseItemGroupId": 432,
+    "CharacterAwakeningItemGroupMasterId": 43,
+    "DisplayStartAt": "2024-04-26T17:00:00.000Z",
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   }
 ]

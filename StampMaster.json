@@ -1450,6 +1450,16 @@
     "Name": "美兎【ごめんね…】"
   },
   {
+    "Id": 40207,
+    "Order": 40207,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 402,
+    "Type": "Default",
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "美兎【ばいばい】"
+  },
+  {
     "Id": 40280,
     "Order": 40280,
     "IsDefault": false,

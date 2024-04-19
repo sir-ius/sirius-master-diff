@@ -1374,6 +1374,29 @@
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   },
   {
+    "Id": 220420,
+    "Name": "アツアツまごころ料理道！",
+    "OrganizeRestrictGroupId": null,
+    "Rarity": "SR",
+    "LevelPatternGroupMasterId": 2,
+    "SubTitlePositionX1": 0,
+    "SubTitlePositionY1": 0,
+    "SubTitlePositionX2": 0,
+    "SubTitlePositionY2": 1812,
+    "SubTitlePositionX3": null,
+    "SubTitlePositionY3": null,
+    "ReleaseItemGroupId": 2,
+    "PronounceName": "あつあつまごころりょうりどう",
+    "Costumes": [],
+    "AppearanceCharacterBaseMasterIds": [
+      401,
+      402
+    ],
+    "IsRestrictItemBreakThrough": false,
+    "DisplayStartAt": "2024-04-20T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
     "Id": 220430,
     "Name": "Bloom Time-Lapse",
     "OrganizeRestrictGroupId": null,
