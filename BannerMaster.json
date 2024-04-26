@@ -588,6 +588,20 @@
     "EndDate": "2024-05-02T17:00:00.000Z"
   },
   {
+    "Id": 1039,
+    "Order": 1962,
+    "Name": "星雲の窓辺ガチャ(アクター)",
+    "JumpType": "Gacha",
+    "JumpPageId": "1039",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "[NONE]",
+    "DeleteConditionValue": null,
+    "ImagePath": "Gacha/1039",
+    "StartDate": "2024-04-30T17:00:00.000Z",
+    "EndDate": "2024-05-10T17:00:00.000Z"
+  },
+  {
     "Id": 1044,
     "Order": 1957,
     "Name": "【復刻】シリウスは日々是好日でガチャ(アクター)",
@@ -600,6 +614,34 @@
     "ImagePath": "Gacha/1044",
     "StartDate": "2024-04-28T17:00:00.000Z",
     "EndDate": "2024-05-01T17:00:00.000Z"
+  },
+  {
+    "Id": 1045,
+    "Order": 1956,
+    "Name": "【復刻】bet on faith？ガチャ(アクター)",
+    "JumpType": "Gacha",
+    "JumpPageId": "1045",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "[NONE]",
+    "DeleteConditionValue": null,
+    "ImagePath": "Gacha/1045",
+    "StartDate": "2024-05-01T17:00:00.000Z",
+    "EndDate": "2024-05-04T17:00:00.000Z"
+  },
+  {
+    "Id": 1046,
+    "Order": 1955,
+    "Name": "【復刻】新年はあなたの手を取ってガチャ(アクター)",
+    "JumpType": "Gacha",
+    "JumpPageId": "1046",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "[NONE]",
+    "DeleteConditionValue": null,
+    "ImagePath": "Gacha/1046",
+    "StartDate": "2024-05-04T17:00:00.000Z",
+    "EndDate": "2024-05-07T17:00:00.000Z"
   },
   {
     "Id": 1800,
@@ -698,6 +740,34 @@
     "ImagePath": "Gacha/1807",
     "StartDate": "2024-04-26T17:00:00.000Z",
     "EndDate": "2024-05-02T17:00:00.000Z"
+  },
+  {
+    "Id": 1809,
+    "Order": 1967,
+    "Name": "ぷちユメフェス開催記念ガチャ",
+    "JumpType": "Gacha",
+    "JumpPageId": "1809",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "[NONE]",
+    "DeleteConditionValue": null,
+    "ImagePath": "Gacha/1809",
+    "StartDate": "2024-05-05T20:00:00.000Z",
+    "EndDate": "2024-05-25T17:00:00.000Z"
+  },
+  {
+    "Id": 1810,
+    "Order": 1966,
+    "Name": "こどもの日ガチャ",
+    "JumpType": "Gacha",
+    "JumpPageId": "1810",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "[NONE]",
+    "DeleteConditionValue": null,
+    "ImagePath": "Gacha/1810",
+    "StartDate": "2024-05-02T17:00:00.000Z",
+    "EndDate": "2024-05-07T17:00:00.000Z"
   },
   {
     "Id": 2001,
@@ -1148,6 +1218,20 @@
     "EndDate": "2024-04-10T17:00:00.000Z"
   },
   {
+    "Id": 2039,
+    "Order": 2039,
+    "Name": "白蛇伝ガチャ(ポスター)",
+    "JumpType": "Gacha",
+    "JumpPageId": "2039",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "[NONE]",
+    "DeleteConditionValue": null,
+    "ImagePath": "Gacha/2039",
+    "StartDate": "2024-04-30T17:00:00.000Z",
+    "EndDate": "2024-05-10T17:00:00.000Z"
+  },
+  {
     "Id": 2044,
     "Order": 2044,
     "Name": "【復刻】くまガチャ(ポスター)",
@@ -1160,6 +1244,34 @@
     "ImagePath": "Gacha/2044",
     "StartDate": "2024-04-28T17:00:00.000Z",
     "EndDate": "2024-05-01T17:00:00.000Z"
+  },
+  {
+    "Id": 2045,
+    "Order": 2045,
+    "Name": "【復刻】親指姫と灰色のツバメガチャ(ポスター)",
+    "JumpType": "Gacha",
+    "JumpPageId": "2045",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "[NONE]",
+    "DeleteConditionValue": null,
+    "ImagePath": "Gacha/2045",
+    "StartDate": "2024-05-01T17:00:00.000Z",
+    "EndDate": "2024-05-04T17:00:00.000Z"
+  },
+  {
+    "Id": 2046,
+    "Order": 2046,
+    "Name": "【復刻】龍が神と呼ばれるまでガチャ(ポスター)",
+    "JumpType": "Gacha",
+    "JumpPageId": "2046",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "[NONE]",
+    "DeleteConditionValue": null,
+    "ImagePath": "Gacha/2046",
+    "StartDate": "2024-05-04T17:00:00.000Z",
+    "EndDate": "2024-05-07T17:00:00.000Z"
   },
   {
     "Id": 2800,
@@ -2548,6 +2660,62 @@
     "EndDate": "2024-05-05T17:00:00.000Z"
   },
   {
+    "Id": 5106,
+    "Order": 5106,
+    "Name": "電姫空間のおまもりパック",
+    "JumpType": "JewelShop",
+    "JumpPageId": "5",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "BuyItem",
+    "DeleteConditionValue": "5106",
+    "ImagePath": "Home/denki_amulet",
+    "StartDate": "2024-04-30T17:00:00.000Z",
+    "EndDate": "2024-05-08T22:00:00.000Z"
+  },
+  {
+    "Id": 5107,
+    "Order": 5107,
+    "Name": "お誕生日パック【白丸 美兎】",
+    "JumpType": "JewelShop",
+    "JumpPageId": "6",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "BuyItem",
+    "DeleteConditionValue": "5107",
+    "ImagePath": "Home/5107",
+    "StartDate": "2024-05-05T00:00:00.000Z",
+    "EndDate": "2024-05-15T00:00:00.000Z"
+  },
+  {
+    "Id": 5108,
+    "Order": 5108,
+    "Name": "劇団電姫のおまもり【Re:】",
+    "JumpType": "JewelShop",
+    "JumpPageId": "5",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "BuyItem",
+    "DeleteConditionValue": "5108",
+    "ImagePath": "Home/denki_amuletRe",
+    "StartDate": "2024-05-09T17:00:00.000Z",
+    "EndDate": "2024-05-16T17:00:00.000Z"
+  },
+  {
+    "Id": 5109,
+    "Order": 5109,
+    "Name": "育成もりもりパック",
+    "JumpType": "JewelShop",
+    "JumpPageId": "5",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "BuyItem",
+    "DeleteConditionValue": "5109",
+    "ImagePath": "Home/ikuseimori",
+    "StartDate": "2024-05-05T17:00:00.000Z",
+    "EndDate": "2024-05-15T17:00:00.000Z"
+  },
+  {
     "Id": 5123,
     "Order": 5123,
     "Name": "撮影パック",
@@ -2686,6 +2854,20 @@
     "ImagePath": "Gacha/9050",
     "StartDate": "2024-03-31T17:00:00.000Z",
     "EndDate": "2024-04-10T17:00:00.000Z"
+  },
+  {
+    "Id": 9090,
+    "Order": 9090,
+    "Name": "白蛇伝SSR確定ステップアップポスターガチャ",
+    "JumpType": "Gacha",
+    "JumpPageId": "9090",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "[NONE]",
+    "DeleteConditionValue": null,
+    "ImagePath": "Gacha/9090",
+    "StartDate": "2024-04-30T17:00:00.000Z",
+    "EndDate": "2024-05-10T17:00:00.000Z"
   },
   {
     "Id": 9500,

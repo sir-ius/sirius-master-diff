@@ -1864,6 +1864,53 @@
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   },
   {
+    "Id": 195,
+    "Name": "白蛇伝",
+    "Description": null,
+    "Order": 195,
+    "CostumeMasterIds": [
+      1951,
+      1952
+    ],
+    "CostumeWearableCharacterGroupMasterId": null,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2024-04-30T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 196,
+    "Name": "白蛇伝",
+    "Description": null,
+    "Order": 196,
+    "CostumeMasterIds": [
+      1961,
+      1962
+    ],
+    "CostumeWearableCharacterGroupMasterId": 305,
+    "PerformanceGroupId": null,
+    "IsHairChange": true,
+    "DisplayStartAt": "2024-04-30T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 197,
+    "Name": "ラブリーナース",
+    "Description": null,
+    "Order": 197,
+    "CostumeMasterIds": [
+      1971,
+      1972,
+      1973,
+      1974
+    ],
+    "CostumeWearableCharacterGroupMasterId": null,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2024-05-01T05:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
     "Id": 200,
     "Name": "魔国連邦の盟主",
     "Description": null,

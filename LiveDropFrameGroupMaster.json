@@ -2687,6 +2687,13 @@
             "IsSpecialFallThing": false
           },
           {
+            "ThingId": 320130,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
             "ThingId": 331010,
             "ThingType": "Accessory",
             "ThingQuantity": 1,
@@ -2834,6 +2841,20 @@
             "IsSpecialFallThing": false
           },
           {
+            "ThingId": 331200,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331210,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
             "ThingId": 332010,
             "ThingType": "Accessory",
             "ThingQuantity": 1,
@@ -2975,6 +2996,20 @@
           },
           {
             "ThingId": 332230,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332200,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332210,
             "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
@@ -3113,6 +3148,13 @@
             "IsSpecialFallThing": false
           },
           {
+            "ThingId": 320130,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
             "ThingId": 331010,
             "ThingType": "Accessory",
             "ThingQuantity": 1,
@@ -3260,6 +3302,20 @@
             "IsSpecialFallThing": false
           },
           {
+            "ThingId": 331200,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331210,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
             "ThingId": 332010,
             "ThingType": "Accessory",
             "ThingQuantity": 1,
@@ -3401,6 +3457,20 @@
           },
           {
             "ThingId": 332230,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332200,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332210,
             "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
@@ -3539,6 +3609,13 @@
             "IsSpecialFallThing": false
           },
           {
+            "ThingId": 320130,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
             "ThingId": 331010,
             "ThingType": "Accessory",
             "ThingQuantity": 1,
@@ -3686,6 +3763,20 @@
             "IsSpecialFallThing": false
           },
           {
+            "ThingId": 331200,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331210,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
             "ThingId": 332010,
             "ThingType": "Accessory",
             "ThingQuantity": 1,
@@ -3827,6 +3918,20 @@
           },
           {
             "ThingId": 332230,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332200,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332210,
             "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
@@ -3965,6 +4070,13 @@
             "IsSpecialFallThing": false
           },
           {
+            "ThingId": 320130,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
             "ThingId": 331010,
             "ThingType": "Accessory",
             "ThingQuantity": 1,
@@ -4112,6 +4224,20 @@
             "IsSpecialFallThing": false
           },
           {
+            "ThingId": 331200,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331210,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
             "ThingId": 332010,
             "ThingType": "Accessory",
             "ThingQuantity": 1,
@@ -4253,6 +4379,20 @@
           },
           {
             "ThingId": 332230,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332200,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332210,
             "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
@@ -4391,6 +4531,13 @@
             "IsSpecialFallThing": false
           },
           {
+            "ThingId": 320130,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
             "ThingId": 331010,
             "ThingType": "Accessory",
             "ThingQuantity": 1,
@@ -4538,6 +4685,20 @@
             "IsSpecialFallThing": false
           },
           {
+            "ThingId": 331200,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331210,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
             "ThingId": 332010,
             "ThingType": "Accessory",
             "ThingQuantity": 1,
@@ -4679,6 +4840,20 @@
           },
           {
             "ThingId": 332230,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332200,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332210,
             "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
@@ -4817,6 +4992,13 @@
             "IsSpecialFallThing": false
           },
           {
+            "ThingId": 320130,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
             "ThingId": 331010,
             "ThingType": "Accessory",
             "ThingQuantity": 1,
@@ -4964,6 +5146,20 @@
             "IsSpecialFallThing": false
           },
           {
+            "ThingId": 331200,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331210,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
             "ThingId": 332010,
             "ThingType": "Accessory",
             "ThingQuantity": 1,
@@ -5105,6 +5301,20 @@
           },
           {
             "ThingId": 332230,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332200,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332210,
             "ThingType": "Accessory",
             "ThingQuantity": 1,
             "IsSpecialFallCountUpThing": true,
@@ -5277,6 +5487,2345 @@
         "FrameLotConditionValue": null,
         "StartDate": "2024-04-26T17:00:00.000Z",
         "EndDate": "2024-05-06T17:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "Id": 15,
+    "DropFrames": [
+      {
+        "Id": 1501,
+        "LiveDropFrameGroupMasterId": 15,
+        "Order": 1,
+        "ChangeType": "None",
+        "FrameLotCondition": "None",
+        "UnaffectedIncreaseEffect": false,
+        "Rewards": [
+          {
+            "ThingId": 130021,
+            "ThingType": "Item",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130022,
+            "ThingType": "Item",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130023,
+            "ThingType": "Item",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130024,
+            "ThingType": "Item",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130021,
+            "ThingType": "Item",
+            "ThingQuantity": 2,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130022,
+            "ThingType": "Item",
+            "ThingQuantity": 2,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130023,
+            "ThingType": "Item",
+            "ThingQuantity": 2,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130024,
+            "ThingType": "Item",
+            "ThingQuantity": 2,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130021,
+            "ThingType": "Item",
+            "ThingQuantity": 3,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130022,
+            "ThingType": "Item",
+            "ThingQuantity": 3,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130023,
+            "ThingType": "Item",
+            "ThingQuantity": 3,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130024,
+            "ThingType": "Item",
+            "ThingQuantity": 3,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          }
+        ],
+        "FrameLotConditionValue": null,
+        "StartDate": null,
+        "EndDate": null
+      },
+      {
+        "Id": 1502,
+        "LiveDropFrameGroupMasterId": 15,
+        "Order": 2,
+        "ChangeType": "None",
+        "FrameLotCondition": "None",
+        "UnaffectedIncreaseEffect": false,
+        "Rewards": [
+          {
+            "ThingId": 130021,
+            "ThingType": "Item",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130022,
+            "ThingType": "Item",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130023,
+            "ThingType": "Item",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130024,
+            "ThingType": "Item",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130021,
+            "ThingType": "Item",
+            "ThingQuantity": 2,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130022,
+            "ThingType": "Item",
+            "ThingQuantity": 2,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130023,
+            "ThingType": "Item",
+            "ThingQuantity": 2,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130024,
+            "ThingType": "Item",
+            "ThingQuantity": 2,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130021,
+            "ThingType": "Item",
+            "ThingQuantity": 3,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130022,
+            "ThingType": "Item",
+            "ThingQuantity": 3,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130023,
+            "ThingType": "Item",
+            "ThingQuantity": 3,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130024,
+            "ThingType": "Item",
+            "ThingQuantity": 3,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          }
+        ],
+        "FrameLotConditionValue": null,
+        "StartDate": null,
+        "EndDate": null
+      },
+      {
+        "Id": 1503,
+        "LiveDropFrameGroupMasterId": 15,
+        "Order": 3,
+        "ChangeType": "None",
+        "FrameLotCondition": "ConsumeStamina",
+        "UnaffectedIncreaseEffect": false,
+        "Rewards": [
+          {
+            "ThingId": 120001,
+            "ThingType": "Item",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 120001,
+            "ThingType": "Item",
+            "ThingQuantity": 2,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 120001,
+            "ThingType": "Item",
+            "ThingQuantity": 3,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          }
+        ],
+        "FrameLotConditionValue": null,
+        "StartDate": null,
+        "EndDate": null
+      },
+      {
+        "Id": 1504,
+        "LiveDropFrameGroupMasterId": 15,
+        "Order": 4,
+        "ChangeType": "AccessoryFormula",
+        "FrameLotCondition": "ConsumeStamina",
+        "UnaffectedIncreaseEffect": true,
+        "Rewards": [
+          {
+            "ThingId": 310010,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 310020,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 310030,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 310040,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320010,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320020,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320030,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320040,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320050,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320060,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320070,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320080,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320090,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320100,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320110,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320120,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320140,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320130,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331050,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331060,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331070,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331090,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331100,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331110,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331120,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331130,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331140,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331150,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331160,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331170,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331180,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331190,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 332050,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332060,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332070,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332090,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332100,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332110,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332120,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332130,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332140,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332150,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332160,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332170,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332180,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332190,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          }
+        ],
+        "FrameLotConditionValue": null,
+        "StartDate": null,
+        "EndDate": null
+      },
+      {
+        "Id": 1505,
+        "LiveDropFrameGroupMasterId": 15,
+        "Order": 5,
+        "ChangeType": "AccessoryFormula",
+        "FrameLotCondition": "ScoreWithConsumeStamina",
+        "UnaffectedIncreaseEffect": true,
+        "Rewards": [
+          {
+            "ThingId": 310010,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 310020,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 310030,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 310040,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320010,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320020,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320030,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320040,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320050,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320060,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320070,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320080,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320090,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320100,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320110,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320120,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320140,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320130,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331050,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331060,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331070,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331090,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331100,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331110,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331120,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331130,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331140,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331150,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331160,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331170,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331180,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331190,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 332050,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332060,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332070,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332090,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332100,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332110,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332120,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332130,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332140,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332150,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332160,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332170,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332180,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332190,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          }
+        ],
+        "FrameLotConditionValue": 100000,
+        "StartDate": null,
+        "EndDate": null
+      },
+      {
+        "Id": 1506,
+        "LiveDropFrameGroupMasterId": 15,
+        "Order": 6,
+        "ChangeType": "AccessoryFormula",
+        "FrameLotCondition": "ScoreWithConsumeStamina",
+        "UnaffectedIncreaseEffect": true,
+        "Rewards": [
+          {
+            "ThingId": 310010,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 310020,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 310030,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 310040,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320010,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320020,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320030,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320040,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320050,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320060,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320070,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320080,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320090,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320100,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320110,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320120,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320140,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320130,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331050,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331060,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331070,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331090,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331100,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331110,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331120,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331130,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331140,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331150,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331160,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331170,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331180,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331190,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 332050,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332060,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332070,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332090,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332100,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332110,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332120,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332130,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332140,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332150,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332160,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332170,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332180,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332190,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          }
+        ],
+        "FrameLotConditionValue": 300000,
+        "StartDate": null,
+        "EndDate": null
+      },
+      {
+        "Id": 1507,
+        "LiveDropFrameGroupMasterId": 15,
+        "Order": 7,
+        "ChangeType": "AccessoryFormula",
+        "FrameLotCondition": "ScoreWithConsumeStamina",
+        "UnaffectedIncreaseEffect": true,
+        "Rewards": [
+          {
+            "ThingId": 310010,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 310020,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 310030,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 310040,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320010,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320020,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320030,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320040,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320050,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320060,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320070,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320080,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320090,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320100,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320110,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320120,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320140,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320130,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331050,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331060,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331070,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331090,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331100,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331110,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331120,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331130,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331140,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331150,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331160,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331170,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331180,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331190,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 332050,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332060,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332070,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332090,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332100,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332110,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332120,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332130,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332140,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332150,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332160,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332170,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332180,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332190,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          }
+        ],
+        "FrameLotConditionValue": 750000,
+        "StartDate": null,
+        "EndDate": null
+      },
+      {
+        "Id": 1508,
+        "LiveDropFrameGroupMasterId": 15,
+        "Order": 8,
+        "ChangeType": "AccessoryFormula",
+        "FrameLotCondition": "ScoreWithConsumeStamina",
+        "UnaffectedIncreaseEffect": true,
+        "Rewards": [
+          {
+            "ThingId": 310010,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 310020,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 310030,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 310040,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320010,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320020,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320030,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320040,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320050,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320060,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320070,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320080,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320090,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320100,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320110,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320120,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320140,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320130,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331050,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331060,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331070,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331090,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331100,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331110,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331120,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331130,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331140,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331150,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331160,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331170,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331180,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331190,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 332050,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332060,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332070,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332090,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332100,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332110,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332120,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332130,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332140,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332150,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332160,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332170,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332180,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332190,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          }
+        ],
+        "FrameLotConditionValue": 1500000,
+        "StartDate": null,
+        "EndDate": null
+      },
+      {
+        "Id": 1509,
+        "LiveDropFrameGroupMasterId": 15,
+        "Order": 9,
+        "ChangeType": "AccessoryFormula",
+        "FrameLotCondition": "ScoreWithConsumeStamina",
+        "UnaffectedIncreaseEffect": true,
+        "Rewards": [
+          {
+            "ThingId": 310010,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 310020,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 310030,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 310040,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320010,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320020,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320030,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320040,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320050,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320060,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320070,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320080,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320090,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320100,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320110,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320120,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320140,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 320130,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331050,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331060,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331070,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331090,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331100,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331110,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331120,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331130,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331140,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331150,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331160,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331170,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331180,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 331190,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 332050,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332060,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332070,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332090,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332100,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332110,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332120,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332130,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332140,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332150,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332160,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332170,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332180,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          },
+          {
+            "ThingId": 332190,
+            "ThingType": "Accessory",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": true,
+            "IsSpecialFallThing": true
+          }
+        ],
+        "FrameLotConditionValue": 3000000,
+        "StartDate": null,
+        "EndDate": null
+      },
+      {
+        "Id": 1510,
+        "LiveDropFrameGroupMasterId": 15,
+        "Order": 10,
+        "ChangeType": "None",
+        "FrameLotCondition": "None",
+        "UnaffectedIncreaseEffect": false,
+        "Rewards": [
+          {
+            "ThingId": 130081,
+            "ThingType": "Item",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130081,
+            "ThingType": "Item",
+            "ThingQuantity": 2,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130082,
+            "ThingType": "Item",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130082,
+            "ThingType": "Item",
+            "ThingQuantity": 2,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          }
+        ],
+        "FrameLotConditionValue": null,
+        "StartDate": null,
+        "EndDate": null
+      },
+      {
+        "Id": 1511,
+        "LiveDropFrameGroupMasterId": 15,
+        "Order": 11,
+        "ChangeType": "None",
+        "FrameLotCondition": "StarActCountWithConsumeStamina",
+        "UnaffectedIncreaseEffect": false,
+        "Rewards": [
+          {
+            "ThingId": 130081,
+            "ThingType": "Item",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130081,
+            "ThingType": "Item",
+            "ThingQuantity": 2,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130081,
+            "ThingType": "Item",
+            "ThingQuantity": 3,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130082,
+            "ThingType": "Item",
+            "ThingQuantity": 1,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130082,
+            "ThingType": "Item",
+            "ThingQuantity": 2,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          },
+          {
+            "ThingId": 130082,
+            "ThingType": "Item",
+            "ThingQuantity": 3,
+            "IsSpecialFallCountUpThing": false,
+            "IsSpecialFallThing": false
+          }
+        ],
+        "FrameLotConditionValue": 1,
+        "StartDate": null,
+        "EndDate": null
       }
     ]
   },

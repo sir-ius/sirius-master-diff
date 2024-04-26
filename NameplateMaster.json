@@ -160,6 +160,16 @@
     "UnlockText": null
   },
   {
+    "Id": 1402,
+    "Name": "美兎【BirthDay 2024】",
+    "Description": null,
+    "Order": 1402,
+    "Hidden": true,
+    "IsDefault": false,
+    "Details": [],
+    "UnlockText": null
+  },
+  {
     "Id": 1403,
     "Name": "カミラ【BirthDay 2023】",
     "Description": null,

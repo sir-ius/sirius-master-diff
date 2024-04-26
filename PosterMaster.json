@@ -1419,6 +1419,28 @@
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   },
   {
+    "Id": 220440,
+    "Name": "星雲の窓辺",
+    "OrganizeRestrictGroupId": null,
+    "Rarity": "SR",
+    "LevelPatternGroupMasterId": 2,
+    "SubTitlePositionX1": 28,
+    "SubTitlePositionY1": 1633,
+    "SubTitlePositionX2": 664,
+    "SubTitlePositionY2": 107,
+    "SubTitlePositionX3": null,
+    "SubTitlePositionY3": null,
+    "ReleaseItemGroupId": 2,
+    "PronounceName": "せいうんのまどべ",
+    "Costumes": [],
+    "AppearanceCharacterBaseMasterIds": [
+      301
+    ],
+    "IsRestrictItemBreakThrough": false,
+    "DisplayStartAt": "2024-04-30T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
     "Id": 229010,
     "Name": "【SIRIUS】竹取物語",
     "OrganizeRestrictGroupId": null,
@@ -2962,6 +2984,46 @@
     ],
     "IsRestrictItemBreakThrough": false,
     "DisplayStartAt": "2024-02-29T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 230450,
+    "Name": "白蛇伝",
+    "OrganizeRestrictGroupId": null,
+    "Rarity": "SSR",
+    "LevelPatternGroupMasterId": 3,
+    "SubTitlePositionX1": 751,
+    "SubTitlePositionY1": 910,
+    "SubTitlePositionX2": 0,
+    "SubTitlePositionY2": 0,
+    "SubTitlePositionX3": null,
+    "SubTitlePositionY3": null,
+    "ReleaseItemGroupId": 3,
+    "PronounceName": "はくじゃでん",
+    "Costumes": [
+      {
+        "Phase": 0,
+        "CostumeMasterId": 1951
+      },
+      {
+        "Phase": 1,
+        "CostumeMasterId": 1952
+      },
+      {
+        "Phase": 2,
+        "CostumeMasterId": 1961
+      },
+      {
+        "Phase": 3,
+        "CostumeMasterId": 1962
+      }
+    ],
+    "AppearanceCharacterBaseMasterIds": [
+      303,
+      305
+    ],
+    "IsRestrictItemBreakThrough": false,
+    "DisplayStartAt": "2024-04-30T17:00:00.000Z",
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   },
   {

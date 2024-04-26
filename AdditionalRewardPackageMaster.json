@@ -682,12 +682,12 @@
     "LiveSettingMasterId": 14,
     "Rewards": [
       {
-        "ThingId": 331220,
+        "ThingId": 331200,
         "ThingType": "Accessory",
         "ThingQuantity": 0
       },
       {
-        "ThingId": 331230,
+        "ThingId": 331210,
         "ThingType": "Accessory",
         "ThingQuantity": 0
       },
@@ -708,12 +708,12 @@
     "LiveSettingMasterId": 14,
     "Rewards": [
       {
-        "ThingId": 331220,
+        "ThingId": 331200,
         "ThingType": "Accessory",
         "ThingQuantity": 0
       },
       {
-        "ThingId": 331230,
+        "ThingId": 331210,
         "ThingType": "Accessory",
         "ThingQuantity": 0
       },
@@ -734,12 +734,12 @@
     "LiveSettingMasterId": 14,
     "Rewards": [
       {
-        "ThingId": 331220,
+        "ThingId": 331200,
         "ThingType": "Accessory",
         "ThingQuantity": 0
       },
       {
-        "ThingId": 331230,
+        "ThingId": 331210,
         "ThingType": "Accessory",
         "ThingQuantity": 0
       },
@@ -760,12 +760,12 @@
     "LiveSettingMasterId": 14,
     "Rewards": [
       {
-        "ThingId": 331220,
+        "ThingId": 331200,
         "ThingType": "Accessory",
         "ThingQuantity": 0
       },
       {
-        "ThingId": 331230,
+        "ThingId": 331210,
         "ThingType": "Accessory",
         "ThingQuantity": 0
       },
@@ -786,12 +786,12 @@
     "LiveSettingMasterId": 14,
     "Rewards": [
       {
-        "ThingId": 331220,
+        "ThingId": 331200,
         "ThingType": "Accessory",
         "ThingQuantity": 0
       },
       {
-        "ThingId": 331230,
+        "ThingId": 331210,
         "ThingType": "Accessory",
         "ThingQuantity": 0
       },
@@ -812,12 +812,12 @@
     "LiveSettingMasterId": 14,
     "Rewards": [
       {
-        "ThingId": 331220,
+        "ThingId": 331200,
         "ThingType": "Accessory",
         "ThingQuantity": 0
       },
       {
-        "ThingId": 331230,
+        "ThingId": 331210,
         "ThingType": "Accessory",
         "ThingQuantity": 0
       },
@@ -900,6 +900,190 @@
     "StartDate": "2024-04-26T17:00:00.000Z",
     "EndDate": "2024-05-06T17:00:00.000Z",
     "Order": 14029
+  },
+  {
+    "Id": 1503,
+    "Description": "スタミナを消費",
+    "LiveSettingMasterId": 15,
+    "Rewards": [
+      {
+        "ThingId": 120001,
+        "ThingType": "Item",
+        "ThingQuantity": 0
+      }
+    ],
+    "Etcetera": false,
+    "StartDate": null,
+    "EndDate": null,
+    "Order": 15030
+  },
+  {
+    "Id": 1504,
+    "Description": "スタミナを消費/n(確率で獲得)",
+    "LiveSettingMasterId": 15,
+    "Rewards": [
+      {
+        "ThingId": 331050,
+        "ThingType": "Accessory",
+        "ThingQuantity": 0
+      },
+      {
+        "ThingId": 331060,
+        "ThingType": "Accessory",
+        "ThingQuantity": 0
+      }
+    ],
+    "Etcetera": true,
+    "StartDate": null,
+    "EndDate": null,
+    "Order": 15040
+  },
+  {
+    "Id": 1505,
+    "Description": "スタミナを消費 + スコア100,000以上/n(確率で獲得)",
+    "LiveSettingMasterId": 15,
+    "Rewards": [
+      {
+        "ThingId": 331050,
+        "ThingType": "Accessory",
+        "ThingQuantity": 0
+      },
+      {
+        "ThingId": 331060,
+        "ThingType": "Accessory",
+        "ThingQuantity": 0
+      }
+    ],
+    "Etcetera": true,
+    "StartDate": null,
+    "EndDate": null,
+    "Order": 15050
+  },
+  {
+    "Id": 1506,
+    "Description": "スタミナを消費 + スコア300,000以上/n(確率で獲得)",
+    "LiveSettingMasterId": 15,
+    "Rewards": [
+      {
+        "ThingId": 331050,
+        "ThingType": "Accessory",
+        "ThingQuantity": 0
+      },
+      {
+        "ThingId": 331060,
+        "ThingType": "Accessory",
+        "ThingQuantity": 0
+      }
+    ],
+    "Etcetera": true,
+    "StartDate": null,
+    "EndDate": null,
+    "Order": 15060
+  },
+  {
+    "Id": 1507,
+    "Description": "スタミナを消費 + スコア750,000以上/n(確率で獲得)",
+    "LiveSettingMasterId": 15,
+    "Rewards": [
+      {
+        "ThingId": 331050,
+        "ThingType": "Accessory",
+        "ThingQuantity": 0
+      },
+      {
+        "ThingId": 331060,
+        "ThingType": "Accessory",
+        "ThingQuantity": 0
+      }
+    ],
+    "Etcetera": true,
+    "StartDate": null,
+    "EndDate": null,
+    "Order": 15070
+  },
+  {
+    "Id": 1508,
+    "Description": "スタミナを消費 + スコア1,500,000以上/n(確率で獲得)",
+    "LiveSettingMasterId": 15,
+    "Rewards": [
+      {
+        "ThingId": 331050,
+        "ThingType": "Accessory",
+        "ThingQuantity": 0
+      },
+      {
+        "ThingId": 331060,
+        "ThingType": "Accessory",
+        "ThingQuantity": 0
+      }
+    ],
+    "Etcetera": true,
+    "StartDate": null,
+    "EndDate": null,
+    "Order": 15080
+  },
+  {
+    "Id": 1509,
+    "Description": "スタミナを消費 + スコア3,000,000以上/n(確率で獲得)",
+    "LiveSettingMasterId": 15,
+    "Rewards": [
+      {
+        "ThingId": 331050,
+        "ThingType": "Accessory",
+        "ThingQuantity": 0
+      },
+      {
+        "ThingId": 331060,
+        "ThingType": "Accessory",
+        "ThingQuantity": 0
+      }
+    ],
+    "Etcetera": true,
+    "StartDate": null,
+    "EndDate": null,
+    "Order": 15090
+  },
+  {
+    "Id": 1510,
+    "Description": "スタミナを消費 + スターアクト発動",
+    "LiveSettingMasterId": 15,
+    "Rewards": [
+      {
+        "ThingId": 130082,
+        "ThingType": "Item",
+        "ThingQuantity": 0
+      },
+      {
+        "ThingId": 130081,
+        "ThingType": "Item",
+        "ThingQuantity": 0
+      }
+    ],
+    "Etcetera": false,
+    "StartDate": null,
+    "EndDate": null,
+    "Order": 15100
+  },
+  {
+    "Id": 1511,
+    "Description": "スタミナを消費 + スターアクト発動",
+    "LiveSettingMasterId": 15,
+    "Rewards": [
+      {
+        "ThingId": 130082,
+        "ThingType": "Item",
+        "ThingQuantity": 0
+      },
+      {
+        "ThingId": 130081,
+        "ThingType": "Item",
+        "ThingQuantity": 0
+      }
+    ],
+    "Etcetera": false,
+    "StartDate": null,
+    "EndDate": null,
+    "Order": 15110
   },
   {
     "Id": 2101,

@@ -231,6 +231,17 @@
     "MaxWidthPx": 360
   },
   {
+    "Id": 10402,
+    "Order": 10402,
+    "IsDefault": false,
+    "Name": "ウサギのステッカー",
+    "Category": "Special",
+    "WidhtPx": 240,
+    "HeightPx": 240,
+    "MinWidthPx": 48,
+    "MaxWidthPx": 360
+  },
+  {
     "Id": 10403,
     "Order": 10403,
     "IsDefault": false,

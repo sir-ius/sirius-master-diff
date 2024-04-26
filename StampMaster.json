@@ -970,6 +970,16 @@
     "Name": "暦【たまりませんわ！】"
   },
   {
+    "Id": 30107,
+    "Order": 30107,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 301,
+    "Type": "Default",
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "暦【くっ…】"
+  },
+  {
     "Id": 30181,
     "Order": 30181,
     "IsDefault": false,
@@ -1468,6 +1478,16 @@
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "美兎【かわいい～】"
+  },
+  {
+    "Id": 40281,
+    "Order": 40281,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 402,
+    "Type": "Default",
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "美兎【ありがとう】"
   },
   {
     "Id": 40291,

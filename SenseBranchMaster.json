@@ -250,6 +250,16 @@
     ]
   },
   {
+    "Id": 1304901,
+    "Order": 1,
+    "Effects": [
+      {
+        "Order": 1,
+        "EffectMasterId": 20013
+      }
+    ]
+  },
+  {
     "Id": 1400101,
     "Order": 1,
     "Effects": [
@@ -556,6 +566,26 @@
       {
         "Order": 1,
         "EffectMasterId": 20534
+      }
+    ]
+  },
+  {
+    "Id": 1407401,
+    "Order": 1,
+    "Effects": [
+      {
+        "Order": 1,
+        "EffectMasterId": 20535
+      }
+    ]
+  },
+  {
+    "Id": 1407501,
+    "Order": 1,
+    "Effects": [
+      {
+        "Order": 1,
+        "EffectMasterId": 20082
       }
     ]
   },
