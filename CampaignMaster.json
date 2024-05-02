@@ -120,6 +120,18 @@
     "CampaignEffectValue": 0
   },
   {
+    "Id": 11,
+    "Title": "稽古の獲得SP 25％UP",
+    "Description": "期間：5/3 5:00～5/7 5:00/n対象：稽古",
+    "IconImagePath": "3",
+    "Order": 11,
+    "StartDate": "2024-05-03T05:00:00.000Z",
+    "EndDate": "2024-05-07T05:00:00.000Z",
+    "ComebackCampaignMasterId": null,
+    "CampaignEffectType": "StarPoint",
+    "CampaignEffectValue": 25
+  },
+  {
     "Id": 1000,
     "Title": "公演の獲得EXP 50％UP",
     "Description": "ウェルカムバックキャンペーン/n期間：7日間/n対象：公演、協力公演",
