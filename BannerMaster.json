@@ -602,6 +602,20 @@
     "EndDate": "2024-05-10T17:00:00.000Z"
   },
   {
+    "Id": 1040,
+    "Order": 1961,
+    "Name": "サイレント・リフレクションガチャ(アクター)",
+    "JumpType": "Gacha",
+    "JumpPageId": "1040",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "[NONE]",
+    "DeleteConditionValue": null,
+    "ImagePath": "Gacha/1040",
+    "StartDate": "2024-05-10T17:00:00.000Z",
+    "EndDate": "2024-05-20T17:00:00.000Z"
+  },
+  {
     "Id": 1044,
     "Order": 1957,
     "Name": "【復刻】シリウスは日々是好日でガチャ(アクター)",
@@ -2660,6 +2674,20 @@
     "EndDate": "2024-05-05T17:00:00.000Z"
   },
   {
+    "Id": 5105,
+    "Order": 5105,
+    "Name": "銀河シアターのおまもりパック",
+    "JumpType": "JewelShop",
+    "JumpPageId": "5",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "BuyItem",
+    "DeleteConditionValue": "5105",
+    "ImagePath": "Home/gingaza_amulet",
+    "StartDate": "2024-05-16T17:00:00.000Z",
+    "EndDate": "2024-05-24T17:00:00.000Z"
+  },
+  {
     "Id": 5106,
     "Order": 5106,
     "Name": "電姫空間のおまもりパック",
@@ -2756,6 +2784,20 @@
     "ImagePath": "Home/5127",
     "StartDate": "2024-04-25T21:00:00.000Z",
     "EndDate": "2024-05-18T17:00:00.000Z"
+  },
+  {
+    "Id": 5129,
+    "Order": 5129,
+    "Name": "「ぷちユメフェス」アイテムセレクションパック",
+    "JumpType": "JewelShop",
+    "JumpPageId": "6",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "BuyItem",
+    "DeleteConditionValue": "5129",
+    "ImagePath": "Home/5129",
+    "StartDate": "2024-05-10T17:00:00.000Z",
+    "EndDate": "2024-05-25T17:00:00.000Z"
   },
   {
     "Id": 8500,

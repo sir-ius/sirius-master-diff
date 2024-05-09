@@ -2225,6 +2225,31 @@
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   },
   {
+    "Id": 130520,
+    "CharacterBaseMasterId": 106,
+    "Name": "雨上がりを演じて",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": "Rare3",
+    "Attribute": "Cool",
+    "MinLevelStatus": {
+      "Concentration": 103,
+      "Expression": 72,
+      "Vocal": 94
+    },
+    "StarActMasterId": 130521,
+    "AwakenStarActMasterId": 130521,
+    "SenseMasterId": 130520,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 30004,
+    "SenseEnhanceItemGroupMasterId": 3,
+    "FirstEpisodeReleaseItemGroupId": 321,
+    "SecondEpisodeReleaseItemGroupId": 322,
+    "CharacterAwakeningItemGroupMasterId": 32,
+    "DisplayStartAt": "2024-05-10T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
     "Id": 130560,
     "CharacterBaseMasterId": 405,
     "Name": "フラワー・テンペスト",
@@ -4022,6 +4047,56 @@
     "SecondEpisodeReleaseItemGroupId": 432,
     "CharacterAwakeningItemGroupMasterId": 43,
     "DisplayStartAt": "2024-04-30T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 140800,
+    "CharacterBaseMasterId": 102,
+    "Name": "オートマタのテアトルにて",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": "Rare4",
+    "Attribute": "Cool",
+    "MinLevelStatus": {
+      "Concentration": 149,
+      "Expression": 92,
+      "Vocal": 106
+    },
+    "StarActMasterId": 140801,
+    "AwakenStarActMasterId": 140801,
+    "SenseMasterId": 140800,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 40080,
+    "SenseEnhanceItemGroupMasterId": 4,
+    "FirstEpisodeReleaseItemGroupId": 421,
+    "SecondEpisodeReleaseItemGroupId": 422,
+    "CharacterAwakeningItemGroupMasterId": 42,
+    "DisplayStartAt": "2024-05-10T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 140810,
+    "CharacterBaseMasterId": 103,
+    "Name": "心躍る人形劇の裏",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": "Rare4",
+    "Attribute": "Cool",
+    "MinLevelStatus": {
+      "Concentration": 121,
+      "Expression": 139,
+      "Vocal": 86
+    },
+    "StarActMasterId": 140811,
+    "AwakenStarActMasterId": 140811,
+    "SenseMasterId": 140810,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 40081,
+    "SenseEnhanceItemGroupMasterId": 4,
+    "FirstEpisodeReleaseItemGroupId": 421,
+    "SecondEpisodeReleaseItemGroupId": 422,
+    "CharacterAwakeningItemGroupMasterId": 42,
+    "DisplayStartAt": "2024-05-10T17:00:00.000Z",
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   },
   {

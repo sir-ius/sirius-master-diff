@@ -3879,6 +3879,45 @@
     "MusicCoverType": "Original"
   },
   {
+    "Id": 109,
+    "Name": "Wish upon a star",
+    "Description": "",
+    "RewardRuleMasterId": 1,
+    "PronounceName": "wishuponastar",
+    "LyricWriter": "志村真白（FirstCall）",
+    "Composer": "志村真白（FirstCall）",
+    "Arranger": "志村真白（FirstCall）",
+    "UnlockText": null,
+    "IsLongVersion": false,
+    "ReleasedAt": "2024-05-10T17:00:00.000Z",
+    "StaminaConsumption": 27,
+    "MusicTimeSecond": 107,
+    "Invisible": false,
+    "SampleStartSeconds": 0,
+    "SampleEndSeconds": 0,
+    "DelaySeconds": 0,
+    "VocalVersions": [
+      {
+        "Id": 10901,
+        "MusicMasterId": 109,
+        "VocalVersion": 1,
+        "Singer": "静香",
+        "Name": "Wish upon a star",
+        "MusicTimeSecond": 107,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": "None",
+        "Characters": [
+          102
+        ]
+      }
+    ],
+    "UnlockConditionType": "Default",
+    "UnlockConditionValue": null,
+    "MusicVideoType": "None",
+    "MusicCoverType": "Original"
+  },
+  {
     "Id": 118,
     "Name": "あの夏が飽和する。",
     "Description": "",
@@ -4305,6 +4344,45 @@
           303,
           304,
           305
+        ]
+      }
+    ],
+    "UnlockConditionType": "Buy",
+    "UnlockConditionValue": null,
+    "MusicVideoType": "None",
+    "MusicCoverType": "Cover"
+  },
+  {
+    "Id": 135,
+    "Name": "INTERNET YAMERO",
+    "Description": "",
+    "RewardRuleMasterId": 1,
+    "PronounceName": "internetyamero",
+    "LyricWriter": "にゃるら",
+    "Composer": "Aiobahn",
+    "Arranger": "-",
+    "UnlockText": "楽曲ショップで購入",
+    "IsLongVersion": false,
+    "ReleasedAt": "2024-05-19T17:00:00.000Z",
+    "StaminaConsumption": 36,
+    "MusicTimeSecond": 154,
+    "Invisible": false,
+    "SampleStartSeconds": 0,
+    "SampleEndSeconds": 0,
+    "DelaySeconds": 0,
+    "VocalVersions": [
+      {
+        "Id": 13501,
+        "MusicMasterId": 135,
+        "VocalVersion": 1,
+        "Singer": "烏森大黒",
+        "Name": "INTERNET YAMERO",
+        "MusicTimeSecond": 154,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": "None",
+        "Characters": [
+          202
         ]
       }
     ],

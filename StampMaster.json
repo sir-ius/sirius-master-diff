@@ -160,6 +160,16 @@
     "Name": "静香【応援してるよ】"
   },
   {
+    "Id": 10207,
+    "Order": 10207,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 102,
+    "Type": "Default",
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "静香【やればできるじゃん】"
+  },
+  {
     "Id": 10280,
     "Order": 10280,
     "IsDefault": false,
