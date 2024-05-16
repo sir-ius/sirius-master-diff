@@ -154,6 +154,17 @@
     "MaxWidthPx": 360
   },
   {
+    "Id": 10201,
+    "Order": 10201,
+    "IsDefault": false,
+    "Name": "初魅のチョーカー",
+    "Category": "Special",
+    "WidhtPx": 240,
+    "HeightPx": 240,
+    "MinWidthPx": 48,
+    "MaxWidthPx": 360
+  },
+  {
     "Id": 10202,
     "Order": 10202,
     "IsDefault": false,
@@ -195,6 +206,17 @@
     "WidhtPx": 240,
     "HeightPx": 240,
     "MinWidthPx": 96,
+    "MaxWidthPx": 360
+  },
+  {
+    "Id": 10302,
+    "Order": 10302,
+    "IsDefault": false,
+    "Name": "紅葉のイヤリング",
+    "Category": "Special",
+    "WidhtPx": 240,
+    "HeightPx": 240,
+    "MinWidthPx": 48,
     "MaxWidthPx": 360
   },
   {

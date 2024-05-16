@@ -297,6 +297,17 @@
     "ForceEndDate": "2024-05-10T17:00:00.000Z"
   },
   {
+    "Id": 20030,
+    "Category": "Normal",
+    "BonusAttribute": "Colorful",
+    "Title": "Fashi∞nable！",
+    "ExchangeShopMasterId": 20030,
+    "EventPointItemMasterId": 420030,
+    "StartDate": "2024-05-20T17:00:00.000Z",
+    "EndDate": "2024-05-29T22:00:00.000Z",
+    "ForceEndDate": "2024-05-31T17:00:00.000Z"
+  },
+  {
     "Id": 20031,
     "Category": "HighScore",
     "BonusAttribute": "Cool",

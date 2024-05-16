@@ -363,6 +363,21 @@
     "MaxLevel": 10
   },
   {
+    "Id": 330070,
+    "Name": "スコッチウイスキー",
+    "Description": "",
+    "Rarity": "SSR",
+    "AccessoryLevelPatternGroupId": 3,
+    "FixedAccessoryEffects": [
+      330070,
+      330071
+    ],
+    "RandomEffectGroups": [],
+    "PronounceName": "すこっちういすきー",
+    "Series": 0,
+    "MaxLevel": 10
+  },
+  {
     "Id": 330080,
     "Name": "積怨の日記",
     "Description": "",
@@ -419,6 +434,21 @@
     ],
     "RandomEffectGroups": [],
     "PronounceName": "ちょうのぶろーち",
+    "Series": 0,
+    "MaxLevel": 10
+  },
+  {
+    "Id": 330130,
+    "Name": "模造刀",
+    "Description": "",
+    "Rarity": "SSR",
+    "AccessoryLevelPatternGroupId": 3,
+    "FixedAccessoryEffects": [
+      330130,
+      330131
+    ],
+    "RandomEffectGroups": [],
+    "PronounceName": "もぞうとう",
     "Series": 0,
     "MaxLevel": 10
   },

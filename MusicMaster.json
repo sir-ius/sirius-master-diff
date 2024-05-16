@@ -3409,6 +3409,45 @@
     "MusicCoverType": "Cover"
   },
   {
+    "Id": 91,
+    "Name": "ミックス・アップ・インタレスト！",
+    "Description": "",
+    "RewardRuleMasterId": 1,
+    "PronounceName": "みっくすあっぷいんたれすと",
+    "LyricWriter": "松井洋平",
+    "Composer": "LiCu（FirstCall）",
+    "Arranger": "LiCu（FirstCall）",
+    "UnlockText": null,
+    "IsLongVersion": false,
+    "ReleasedAt": "2024-05-20T17:00:00.000Z",
+    "StaminaConsumption": 25,
+    "MusicTimeSecond": 97,
+    "Invisible": false,
+    "SampleStartSeconds": 0,
+    "SampleEndSeconds": 0,
+    "DelaySeconds": 0,
+    "VocalVersions": [
+      {
+        "Id": 9101,
+        "MusicMasterId": 91,
+        "VocalVersion": 1,
+        "Singer": "阿岐留カミラ",
+        "Name": "ミックス・アップ・インタレスト！",
+        "MusicTimeSecond": 97,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": "None",
+        "Characters": [
+          403
+        ]
+      }
+    ],
+    "UnlockConditionType": "Default",
+    "UnlockConditionValue": null,
+    "MusicVideoType": "None",
+    "MusicCoverType": "Original"
+  },
+  {
     "Id": 92,
     "Name": "Crystal Bell",
     "Description": "",
@@ -3870,6 +3909,84 @@
         "MusicVideoType": "None",
         "Characters": [
           402
+        ]
+      }
+    ],
+    "UnlockConditionType": "Default",
+    "UnlockConditionValue": null,
+    "MusicVideoType": "None",
+    "MusicCoverType": "Original"
+  },
+  {
+    "Id": 106,
+    "Name": "アクト・レゾナンス",
+    "Description": "",
+    "RewardRuleMasterId": 1,
+    "PronounceName": "あくとれぞなんす",
+    "LyricWriter": "松井洋平",
+    "Composer": "清田直人",
+    "Arranger": "清田直人",
+    "UnlockText": null,
+    "IsLongVersion": false,
+    "ReleasedAt": "2024-05-23T17:00:00.000Z",
+    "StaminaConsumption": 28,
+    "MusicTimeSecond": 112,
+    "Invisible": false,
+    "SampleStartSeconds": 0,
+    "SampleEndSeconds": 0,
+    "DelaySeconds": 0,
+    "VocalVersions": [
+      {
+        "Id": 10601,
+        "MusicMasterId": 106,
+        "VocalVersion": 1,
+        "Singer": "ラモーナ・ウォルフ",
+        "Name": "アクト・レゾナンス",
+        "MusicTimeSecond": 112,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": "None",
+        "Characters": [
+          302
+        ]
+      }
+    ],
+    "UnlockConditionType": "Default",
+    "UnlockConditionValue": null,
+    "MusicVideoType": "None",
+    "MusicCoverType": "Original"
+  },
+  {
+    "Id": 108,
+    "Name": "Thirsty Soul",
+    "Description": "",
+    "RewardRuleMasterId": 1,
+    "PronounceName": "thirstysoul",
+    "LyricWriter": "松井洋平",
+    "Composer": "志村真白（FirstCall）",
+    "Arranger": "志村真白（FirstCall）",
+    "UnlockText": null,
+    "IsLongVersion": false,
+    "ReleasedAt": "2024-05-30T17:00:00.000Z",
+    "StaminaConsumption": 25,
+    "MusicTimeSecond": 95,
+    "Invisible": false,
+    "SampleStartSeconds": 0,
+    "SampleEndSeconds": 0,
+    "DelaySeconds": 0,
+    "VocalVersions": [
+      {
+        "Id": 10801,
+        "MusicMasterId": 108,
+        "VocalVersion": 1,
+        "Singer": "連尺野初魅",
+        "Name": "Thirsty Soul",
+        "MusicTimeSecond": 95,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": "None",
+        "Characters": [
+          201
         ]
       }
     ],
@@ -4383,6 +4500,46 @@
         "MusicVideoType": "None",
         "Characters": [
           202
+        ]
+      }
+    ],
+    "UnlockConditionType": "Buy",
+    "UnlockConditionValue": null,
+    "MusicVideoType": "None",
+    "MusicCoverType": "Cover"
+  },
+  {
+    "Id": 136,
+    "Name": "TOMORROW",
+    "Description": "",
+    "RewardRuleMasterId": 1,
+    "PronounceName": "tomorrow",
+    "LyricWriter": "桜アス恵(TRYTONELABO)",
+    "Composer": "岡野裕次郎(TRYTONELABO)",
+    "Arranger": "-",
+    "UnlockText": "楽曲ショップで購入",
+    "IsLongVersion": false,
+    "ReleasedAt": "2024-05-29T17:00:00.000Z",
+    "StaminaConsumption": 27,
+    "MusicTimeSecond": 106,
+    "Invisible": false,
+    "SampleStartSeconds": 0,
+    "SampleEndSeconds": 0,
+    "DelaySeconds": 0,
+    "VocalVersions": [
+      {
+        "Id": 13601,
+        "MusicMasterId": 136,
+        "VocalVersion": 1,
+        "Singer": "千寿いろは、白丸美兎",
+        "Name": "TOMORROW",
+        "MusicTimeSecond": 106,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": "None",
+        "Characters": [
+          401,
+          402
         ]
       }
     ],

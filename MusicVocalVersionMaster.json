@@ -1434,6 +1434,20 @@
     ]
   },
   {
+    "Id": 9101,
+    "MusicMasterId": 91,
+    "VocalVersion": 1,
+    "Singer": "阿岐留カミラ",
+    "Name": "ミックス・アップ・インタレスト！",
+    "MusicTimeSecond": 97,
+    "SampleStartSeconds": 0,
+    "SampleEndSeconds": 0,
+    "MusicVideoType": "None",
+    "Characters": [
+      403
+    ]
+  },
+  {
     "Id": 9201,
     "MusicMasterId": 92,
     "VocalVersion": 1,
@@ -1601,6 +1615,34 @@
     "MusicVideoType": "None",
     "Characters": [
       402
+    ]
+  },
+  {
+    "Id": 10601,
+    "MusicMasterId": 106,
+    "VocalVersion": 1,
+    "Singer": "ラモーナ・ウォルフ",
+    "Name": "アクト・レゾナンス",
+    "MusicTimeSecond": 112,
+    "SampleStartSeconds": 0,
+    "SampleEndSeconds": 0,
+    "MusicVideoType": "None",
+    "Characters": [
+      302
+    ]
+  },
+  {
+    "Id": 10801,
+    "MusicMasterId": 108,
+    "VocalVersion": 1,
+    "Singer": "連尺野初魅",
+    "Name": "Thirsty Soul",
+    "MusicTimeSecond": 95,
+    "SampleStartSeconds": 0,
+    "SampleEndSeconds": 0,
+    "MusicVideoType": "None",
+    "Characters": [
+      201
     ]
   },
   {
@@ -1789,6 +1831,21 @@
     "MusicVideoType": "None",
     "Characters": [
       202
+    ]
+  },
+  {
+    "Id": 13601,
+    "MusicMasterId": 136,
+    "VocalVersion": 1,
+    "Singer": "千寿いろは、白丸美兎",
+    "Name": "TOMORROW",
+    "MusicTimeSecond": 106,
+    "SampleStartSeconds": 0,
+    "SampleEndSeconds": 0,
+    "MusicVideoType": "None",
+    "Characters": [
+      401,
+      402
     ]
   },
   {

@@ -8478,6 +8478,62 @@
     "ComebackCampaignMasterId": null
   },
   {
+    "Id": 19500,
+    "MissionCategory": "Limit",
+    "MissionViewOrder": 19500,
+    "Title": "",
+    "Description": "「アクト・レゾナンス」を[:param]回クリアしよう",
+    "EventMasterId": null,
+    "JumpType": "Live",
+    "JumpTargetId": null,
+    "StartDate": "2024-05-23T17:00:00.000Z",
+    "EndDate": "2024-06-02T00:00:00.000Z",
+    "Stages": [
+      {
+        "Id": 19500,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 5,
+        "StartDate": "2024-05-23T17:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 130271,
+            "ThingType": "Trophy",
+            "ThingQuantity": 1
+          }
+        ]
+      }
+    ],
+    "ComebackCampaignMasterId": null
+  },
+  {
+    "Id": 19600,
+    "MissionCategory": "Limit",
+    "MissionViewOrder": 19600,
+    "Title": "",
+    "Description": "「Thirsty Soul」を[:param]回クリアしよう",
+    "EventMasterId": null,
+    "JumpType": "Live",
+    "JumpTargetId": null,
+    "StartDate": "2024-05-30T17:00:00.000Z",
+    "EndDate": "2024-06-09T00:00:00.000Z",
+    "Stages": [
+      {
+        "Id": 19600,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 5,
+        "StartDate": "2024-05-30T17:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 120171,
+            "ThingType": "Trophy",
+            "ThingQuantity": 1
+          }
+        ]
+      }
+    ],
+    "ComebackCampaignMasterId": null
+  },
+  {
     "Id": 100000,
     "MissionCategory": "Daily",
     "MissionViewOrder": 100000,

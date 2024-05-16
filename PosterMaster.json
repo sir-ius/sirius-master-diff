@@ -1441,6 +1441,28 @@
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   },
   {
+    "Id": 220460,
+    "Name": "Fashi∞nable！",
+    "OrganizeRestrictGroupId": null,
+    "Rarity": "SR",
+    "LevelPatternGroupMasterId": 2,
+    "SubTitlePositionX1": 60,
+    "SubTitlePositionY1": 1687,
+    "SubTitlePositionX2": 125,
+    "SubTitlePositionY2": 133,
+    "SubTitlePositionX3": null,
+    "SubTitlePositionY3": null,
+    "ReleaseItemGroupId": 2,
+    "PronounceName": "Fashi∞nable",
+    "Costumes": [],
+    "AppearanceCharacterBaseMasterIds": [
+      403
+    ],
+    "IsRestrictItemBreakThrough": false,
+    "DisplayStartAt": "2024-05-20T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
     "Id": 220470,
     "Name": "サイレント・リフレクション",
     "OrganizeRestrictGroupId": null,

@@ -358,5 +358,35 @@
     "EndDate": "2024-05-18T22:00:00.000Z",
     "AdditionalSplashValue0": "None",
     "AdditionalSplashValue1": "None"
+  },
+  {
+    "Id": 39,
+    "Order": 39,
+    "SplashType": "Video",
+    "SplashValue": "20030",
+    "StartDate": "2024-05-20T17:00:00.000Z",
+    "EndDate": "2024-05-29T22:00:00.000Z",
+    "AdditionalSplashValue0": "None",
+    "AdditionalSplashValue1": "None"
+  },
+  {
+    "Id": 40,
+    "Order": 40,
+    "SplashType": "Picture",
+    "SplashValue": "5111",
+    "StartDate": "2024-05-23T00:00:00.000Z",
+    "EndDate": "2024-06-02T00:00:00.000Z",
+    "AdditionalSplashValue0": "None",
+    "AdditionalSplashValue1": "None"
+  },
+  {
+    "Id": 41,
+    "Order": 41,
+    "SplashType": "Picture",
+    "SplashValue": "5116",
+    "StartDate": "2024-05-30T00:00:00.000Z",
+    "EndDate": "2024-06-09T00:00:00.000Z",
+    "AdditionalSplashValue0": "None",
+    "AdditionalSplashValue1": "None"
   }
 ]

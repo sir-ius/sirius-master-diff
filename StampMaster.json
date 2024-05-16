@@ -590,6 +590,16 @@
     "Name": "初魅【なんだ？】"
   },
   {
+    "Id": 20181,
+    "Order": 20181,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 201,
+    "Type": "Default",
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "初魅【ついて来れるかな？】"
+  },
+  {
     "Id": 20191,
     "Order": 20191,
     "IsDefault": false,
@@ -1068,6 +1078,16 @@
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "ラモーナ【ふっ】"
+  },
+  {
+    "Id": 30281,
+    "Order": 30281,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 302,
+    "Type": "Default",
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "ラモーナ【任せるがいい！】"
   },
   {
     "Id": 30291,
@@ -1568,6 +1588,16 @@
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "カミラ【ちょーやばいんですけど！】"
+  },
+  {
+    "Id": 40307,
+    "Order": 40307,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 403,
+    "Type": "Default",
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "カミラ【～♪】"
   },
   {
     "Id": 40380,
