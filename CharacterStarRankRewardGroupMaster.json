@@ -175,6 +175,21 @@
     ]
   },
   {
+    "Id": 10114,
+    "Rewards": [
+      {
+        "ThingType": "Item",
+        "ThingId": 511101,
+        "ThingQuantity": 1
+      },
+      {
+        "ThingType": "Trophy",
+        "ThingId": 110107,
+        "ThingQuantity": 1
+      }
+    ]
+  },
+  {
     "Id": 10200,
     "Rewards": [
       {
@@ -335,6 +350,21 @@
       {
         "ThingType": "Trophy",
         "ThingId": 110206,
+        "ThingQuantity": 1
+      }
+    ]
+  },
+  {
+    "Id": 10214,
+    "Rewards": [
+      {
+        "ThingType": "Item",
+        "ThingId": 511102,
+        "ThingQuantity": 1
+      },
+      {
+        "ThingType": "Trophy",
+        "ThingId": 110207,
         "ThingQuantity": 1
       }
     ]
@@ -505,6 +535,21 @@
     ]
   },
   {
+    "Id": 10314,
+    "Rewards": [
+      {
+        "ThingType": "Item",
+        "ThingId": 511103,
+        "ThingQuantity": 1
+      },
+      {
+        "ThingType": "Trophy",
+        "ThingId": 110307,
+        "ThingQuantity": 1
+      }
+    ]
+  },
+  {
     "Id": 10400,
     "Rewards": [
       {
@@ -665,6 +710,21 @@
       {
         "ThingType": "Trophy",
         "ThingId": 110406,
+        "ThingQuantity": 1
+      }
+    ]
+  },
+  {
+    "Id": 10414,
+    "Rewards": [
+      {
+        "ThingType": "Item",
+        "ThingId": 511104,
+        "ThingQuantity": 1
+      },
+      {
+        "ThingType": "Trophy",
+        "ThingId": 110407,
         "ThingQuantity": 1
       }
     ]
@@ -835,6 +895,21 @@
     ]
   },
   {
+    "Id": 10514,
+    "Rewards": [
+      {
+        "ThingType": "Item",
+        "ThingId": 511105,
+        "ThingQuantity": 1
+      },
+      {
+        "ThingType": "Trophy",
+        "ThingId": 110507,
+        "ThingQuantity": 1
+      }
+    ]
+  },
+  {
     "Id": 10600,
     "Rewards": [
       {
@@ -995,6 +1070,21 @@
       {
         "ThingType": "Trophy",
         "ThingId": 110606,
+        "ThingQuantity": 1
+      }
+    ]
+  },
+  {
+    "Id": 10614,
+    "Rewards": [
+      {
+        "ThingType": "Item",
+        "ThingId": 511106,
+        "ThingQuantity": 1
+      },
+      {
+        "ThingType": "Trophy",
+        "ThingId": 110607,
         "ThingQuantity": 1
       }
     ]
@@ -1165,6 +1255,21 @@
     ]
   },
   {
+    "Id": 20114,
+    "Rewards": [
+      {
+        "ThingType": "Item",
+        "ThingId": 511201,
+        "ThingQuantity": 1
+      },
+      {
+        "ThingType": "Trophy",
+        "ThingId": 120107,
+        "ThingQuantity": 1
+      }
+    ]
+  },
+  {
     "Id": 20200,
     "Rewards": [
       {
@@ -1325,6 +1430,21 @@
       {
         "ThingType": "Trophy",
         "ThingId": 120206,
+        "ThingQuantity": 1
+      }
+    ]
+  },
+  {
+    "Id": 20214,
+    "Rewards": [
+      {
+        "ThingType": "Item",
+        "ThingId": 511202,
+        "ThingQuantity": 1
+      },
+      {
+        "ThingType": "Trophy",
+        "ThingId": 120207,
         "ThingQuantity": 1
       }
     ]
@@ -1495,6 +1615,21 @@
     ]
   },
   {
+    "Id": 20314,
+    "Rewards": [
+      {
+        "ThingType": "Item",
+        "ThingId": 511203,
+        "ThingQuantity": 1
+      },
+      {
+        "ThingType": "Trophy",
+        "ThingId": 120307,
+        "ThingQuantity": 1
+      }
+    ]
+  },
+  {
     "Id": 20400,
     "Rewards": [
       {
@@ -1655,6 +1790,21 @@
       {
         "ThingType": "Trophy",
         "ThingId": 120406,
+        "ThingQuantity": 1
+      }
+    ]
+  },
+  {
+    "Id": 20414,
+    "Rewards": [
+      {
+        "ThingType": "Item",
+        "ThingId": 511204,
+        "ThingQuantity": 1
+      },
+      {
+        "ThingType": "Trophy",
+        "ThingId": 120407,
         "ThingQuantity": 1
       }
     ]
@@ -1825,6 +1975,21 @@
     ]
   },
   {
+    "Id": 20514,
+    "Rewards": [
+      {
+        "ThingType": "Item",
+        "ThingId": 511205,
+        "ThingQuantity": 1
+      },
+      {
+        "ThingType": "Trophy",
+        "ThingId": 120507,
+        "ThingQuantity": 1
+      }
+    ]
+  },
+  {
     "Id": 30100,
     "Rewards": [
       {
@@ -1985,6 +2150,21 @@
       {
         "ThingType": "Trophy",
         "ThingId": 130106,
+        "ThingQuantity": 1
+      }
+    ]
+  },
+  {
+    "Id": 30114,
+    "Rewards": [
+      {
+        "ThingType": "Item",
+        "ThingId": 511301,
+        "ThingQuantity": 1
+      },
+      {
+        "ThingType": "Trophy",
+        "ThingId": 130107,
         "ThingQuantity": 1
       }
     ]
@@ -2155,6 +2335,21 @@
     ]
   },
   {
+    "Id": 30214,
+    "Rewards": [
+      {
+        "ThingType": "Item",
+        "ThingId": 511302,
+        "ThingQuantity": 1
+      },
+      {
+        "ThingType": "Trophy",
+        "ThingId": 130207,
+        "ThingQuantity": 1
+      }
+    ]
+  },
+  {
     "Id": 30300,
     "Rewards": [
       {
@@ -2315,6 +2510,21 @@
       {
         "ThingType": "Trophy",
         "ThingId": 130306,
+        "ThingQuantity": 1
+      }
+    ]
+  },
+  {
+    "Id": 30314,
+    "Rewards": [
+      {
+        "ThingType": "Item",
+        "ThingId": 511303,
+        "ThingQuantity": 1
+      },
+      {
+        "ThingType": "Trophy",
+        "ThingId": 130307,
         "ThingQuantity": 1
       }
     ]
@@ -2485,6 +2695,21 @@
     ]
   },
   {
+    "Id": 30414,
+    "Rewards": [
+      {
+        "ThingType": "Item",
+        "ThingId": 511304,
+        "ThingQuantity": 1
+      },
+      {
+        "ThingType": "Trophy",
+        "ThingId": 130407,
+        "ThingQuantity": 1
+      }
+    ]
+  },
+  {
     "Id": 30500,
     "Rewards": [
       {
@@ -2645,6 +2870,21 @@
       {
         "ThingType": "Trophy",
         "ThingId": 130506,
+        "ThingQuantity": 1
+      }
+    ]
+  },
+  {
+    "Id": 30514,
+    "Rewards": [
+      {
+        "ThingType": "Item",
+        "ThingId": 511305,
+        "ThingQuantity": 1
+      },
+      {
+        "ThingType": "Trophy",
+        "ThingId": 130507,
         "ThingQuantity": 1
       }
     ]
@@ -2815,6 +3055,21 @@
     ]
   },
   {
+    "Id": 40114,
+    "Rewards": [
+      {
+        "ThingType": "Item",
+        "ThingId": 511401,
+        "ThingQuantity": 1
+      },
+      {
+        "ThingType": "Trophy",
+        "ThingId": 140107,
+        "ThingQuantity": 1
+      }
+    ]
+  },
+  {
     "Id": 40200,
     "Rewards": [
       {
@@ -2975,6 +3230,21 @@
       {
         "ThingType": "Trophy",
         "ThingId": 140206,
+        "ThingQuantity": 1
+      }
+    ]
+  },
+  {
+    "Id": 40214,
+    "Rewards": [
+      {
+        "ThingType": "Item",
+        "ThingId": 511402,
+        "ThingQuantity": 1
+      },
+      {
+        "ThingType": "Trophy",
+        "ThingId": 140207,
         "ThingQuantity": 1
       }
     ]
@@ -3145,6 +3415,21 @@
     ]
   },
   {
+    "Id": 40314,
+    "Rewards": [
+      {
+        "ThingType": "Item",
+        "ThingId": 511403,
+        "ThingQuantity": 1
+      },
+      {
+        "ThingType": "Trophy",
+        "ThingId": 140307,
+        "ThingQuantity": 1
+      }
+    ]
+  },
+  {
     "Id": 40400,
     "Rewards": [
       {
@@ -3310,6 +3595,21 @@
     ]
   },
   {
+    "Id": 40414,
+    "Rewards": [
+      {
+        "ThingType": "Item",
+        "ThingId": 511404,
+        "ThingQuantity": 1
+      },
+      {
+        "ThingType": "Trophy",
+        "ThingId": 140407,
+        "ThingQuantity": 1
+      }
+    ]
+  },
+  {
     "Id": 40500,
     "Rewards": [
       {
@@ -3470,6 +3770,21 @@
       {
         "ThingType": "Trophy",
         "ThingId": 140506,
+        "ThingQuantity": 1
+      }
+    ]
+  },
+  {
+    "Id": 40514,
+    "Rewards": [
+      {
+        "ThingType": "Item",
+        "ThingId": 511405,
+        "ThingQuantity": 1
+      },
+      {
+        "ThingType": "Trophy",
+        "ThingId": 140507,
         "ThingQuantity": 1
       }
     ]

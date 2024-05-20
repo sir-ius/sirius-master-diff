@@ -6314,6 +6314,34 @@
     "Rarity": "R"
   },
   {
+    "Id": 610112,
+    "Name": "演技力ボーナス　上限32.5%",
+    "Description": "スターランクの演技力ボーナスの上限が32.5%に上昇する。",
+    "DisplayOrder": 610112,
+    "DisplayEndDate": null,
+    "MaxStock": 99999,
+    "Category": "PlayerRankAwakening",
+    "Consumable": false,
+    "JumpType": null,
+    "JumpTargetId": null,
+    "TabCategory": "Hidden",
+    "Rarity": "R"
+  },
+  {
+    "Id": 610113,
+    "Name": "演技力ボーナス　上限35%",
+    "Description": "スターランクの演技力ボーナスの上限が35%に上昇する。",
+    "DisplayOrder": 610113,
+    "DisplayEndDate": null,
+    "MaxStock": 99999,
+    "Category": "PlayerRankAwakening",
+    "Consumable": false,
+    "JumpType": null,
+    "JumpTargetId": null,
+    "TabCategory": "Hidden",
+    "Rarity": "R"
+  },
+  {
     "Id": 620101,
     "Name": "稽古編成数+1",
     "Description": "",

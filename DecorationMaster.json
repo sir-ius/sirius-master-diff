@@ -1144,6 +1144,39 @@
     "MaxWidthPx": 540
   },
   {
+    "Id": 1000010,
+    "Order": 1000010,
+    "IsDefault": false,
+    "Name": "コイン",
+    "Category": "Seal",
+    "WidhtPx": 360,
+    "HeightPx": 360,
+    "MinWidthPx": 180,
+    "MaxWidthPx": 540
+  },
+  {
+    "Id": 1000020,
+    "Order": 1000020,
+    "IsDefault": false,
+    "Name": "札束",
+    "Category": "Seal",
+    "WidhtPx": 360,
+    "HeightPx": 360,
+    "MinWidthPx": 180,
+    "MaxWidthPx": 540
+  },
+  {
+    "Id": 1000030,
+    "Order": 1000030,
+    "IsDefault": false,
+    "Name": "がま口財布",
+    "Category": "Seal",
+    "WidhtPx": 360,
+    "HeightPx": 360,
+    "MinWidthPx": 180,
+    "MaxWidthPx": 540
+  },
+  {
     "Id": 8020101,
     "Order": 8020101,
     "IsDefault": false,

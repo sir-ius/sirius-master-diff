@@ -360,6 +360,16 @@
     "AdditionalSplashValue1": "None"
   },
   {
+    "Id": 38,
+    "Order": 38,
+    "SplashType": "Picture",
+    "SplashValue": "72Limit_001",
+    "StartDate": "2024-05-21T17:00:00.000Z",
+    "EndDate": "2100-01-01T00:00:00.000Z",
+    "AdditionalSplashValue0": "None",
+    "AdditionalSplashValue1": "None"
+  },
+  {
     "Id": 39,
     "Order": 39,
     "SplashType": "Video",
