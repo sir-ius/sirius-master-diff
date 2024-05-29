@@ -630,6 +630,20 @@
     "EndDate": "2024-05-31T17:00:00.000Z"
   },
   {
+    "Id": 1042,
+    "Order": 1959,
+    "Name": "bet or fold？ガチャ(アクター)",
+    "JumpType": "Gacha",
+    "JumpPageId": "1042",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "[NONE]",
+    "DeleteConditionValue": null,
+    "ImagePath": "Gacha/1042",
+    "StartDate": "2024-05-31T17:00:00.000Z",
+    "EndDate": "2024-06-10T17:00:00.000Z"
+  },
+  {
     "Id": 1044,
     "Order": 1957,
     "Name": "【復刻】シリウスは日々是好日でガチャ(アクター)",
@@ -1272,6 +1286,20 @@
     "ImagePath": "Gacha/2039",
     "StartDate": "2024-04-30T17:00:00.000Z",
     "EndDate": "2024-05-10T17:00:00.000Z"
+  },
+  {
+    "Id": 2040,
+    "Order": 2040,
+    "Name": "王女サロメの恋ガチャ(ポスター)",
+    "JumpType": "Gacha",
+    "JumpPageId": "2040",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "[NONE]",
+    "DeleteConditionValue": null,
+    "ImagePath": "Gacha/2040",
+    "StartDate": "2024-05-31T17:00:00.000Z",
+    "EndDate": "2024-06-10T17:00:00.000Z"
   },
   {
     "Id": 2044,
@@ -2800,6 +2828,20 @@
     "EndDate": "2024-06-09T00:00:00.000Z"
   },
   {
+    "Id": 5117,
+    "Order": 5117,
+    "Name": "お誕生日パック【舎人 仁花子】",
+    "JumpType": "JewelShop",
+    "JumpPageId": "6",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "BuyItem",
+    "DeleteConditionValue": "5117",
+    "ImagePath": "Home/5117",
+    "StartDate": "2024-06-01T00:00:00.000Z",
+    "EndDate": "2024-06-11T00:00:00.000Z"
+  },
+  {
     "Id": 5123,
     "Order": 5123,
     "Name": "撮影パック",
@@ -2896,6 +2938,48 @@
     "ImagePath": "Home/5097",
     "StartDate": "2024-05-25T17:00:00.000Z",
     "EndDate": "2024-06-05T17:00:00.000Z"
+  },
+  {
+    "Id": 5139,
+    "Order": 5139,
+    "Name": "電姫空間のおまもりパック",
+    "JumpType": "JewelShop",
+    "JumpPageId": "5",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "BuyItem",
+    "DeleteConditionValue": "5139",
+    "ImagePath": "Home/denki_amulet",
+    "StartDate": "2024-05-31T17:00:00.000Z",
+    "EndDate": "2024-06-08T22:00:00.000Z"
+  },
+  {
+    "Id": 5140,
+    "Order": 5140,
+    "Name": "育成もりもりパック",
+    "JumpType": "JewelShop",
+    "JumpPageId": "5",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "BuyItem",
+    "DeleteConditionValue": "5140",
+    "ImagePath": "Home/ikuseimori",
+    "StartDate": "2024-06-05T17:00:00.000Z",
+    "EndDate": "2024-06-15T17:00:00.000Z"
+  },
+  {
+    "Id": 5141,
+    "Order": 5141,
+    "Name": "劇団電姫のおまもり【Re:】",
+    "JumpType": "JewelShop",
+    "JumpPageId": "5",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "BuyItem",
+    "DeleteConditionValue": "5141",
+    "ImagePath": "Home/denki_amuletRe",
+    "StartDate": "2024-06-09T17:00:00.000Z",
+    "EndDate": "2024-06-16T17:00:00.000Z"
   },
   {
     "Id": 5405,
@@ -3022,6 +3106,20 @@
     "ImagePath": "Gacha/9090",
     "StartDate": "2024-04-30T17:00:00.000Z",
     "EndDate": "2024-05-10T17:00:00.000Z"
+  },
+  {
+    "Id": 9100,
+    "Order": 9100,
+    "Name": "王女サロメの恋SSR確定ステップアップポスターガチャ",
+    "JumpType": "Gacha",
+    "JumpPageId": "9100",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "[NONE]",
+    "DeleteConditionValue": null,
+    "ImagePath": "Gacha/9100",
+    "StartDate": "2024-05-31T17:00:00.000Z",
+    "EndDate": "2024-06-10T17:00:00.000Z"
   },
   {
     "Id": 9500,

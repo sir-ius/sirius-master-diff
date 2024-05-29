@@ -760,6 +760,16 @@
     "Name": "仁花子【私にも教えてください！】"
   },
   {
+    "Id": 20381,
+    "Order": 20381,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 203,
+    "Type": "Default",
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "仁花子【がんばって！】"
+  },
+  {
     "Id": 20391,
     "Order": 20391,
     "IsDefault": false,
@@ -828,6 +838,16 @@
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "容【アタシがいるよ】"
+  },
+  {
+    "Id": 20407,
+    "Order": 20407,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 204,
+    "Type": "Default",
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "容【まぁまぁ】"
   },
   {
     "Id": 20481,

@@ -445,6 +445,11 @@
     "DugongRequiredAmount": 1
   },
   {
+    "ItemMasterId": 143050,
+    "CharacterMasterId": 130500,
+    "DugongRequiredAmount": 1
+  },
+  {
     "ItemMasterId": 143051,
     "CharacterMasterId": 130510,
     "DugongRequiredAmount": 1
@@ -812,6 +817,16 @@
   {
     "ItemMasterId": 144075,
     "CharacterMasterId": 140750,
+    "DugongRequiredAmount": 5
+  },
+  {
+    "ItemMasterId": 144076,
+    "CharacterMasterId": 140760,
+    "DugongRequiredAmount": 5
+  },
+  {
+    "ItemMasterId": 144077,
+    "CharacterMasterId": 140770,
     "DugongRequiredAmount": 5
   },
   {

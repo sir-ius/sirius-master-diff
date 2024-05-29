@@ -180,5 +180,26 @@
     "EndDate": "2024-05-31T17:00:00.000Z",
     "LiveSettingMasterId1": 11,
     "LiveSettingMasterId2": 12
+  },
+  {
+    "Id": 27,
+    "StartDate": "2024-05-31T17:00:00.000Z",
+    "EndDate": "2024-06-08T22:00:00.000Z",
+    "LiveSettingMasterId1": 11,
+    "LiveSettingMasterId2": 14
+  },
+  {
+    "Id": 28,
+    "StartDate": "2024-06-08T22:00:00.000Z",
+    "EndDate": "2024-06-09T17:00:00.000Z",
+    "LiveSettingMasterId1": 11,
+    "LiveSettingMasterId2": 12
+  },
+  {
+    "Id": 29,
+    "StartDate": "2024-06-09T17:00:00.000Z",
+    "EndDate": "2024-06-16T17:00:00.000Z",
+    "LiveSettingMasterId1": 15,
+    "LiveSettingMasterId2": 12
   }
 ]

@@ -2225,6 +2225,31 @@
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   },
   {
+    "Id": 130500,
+    "CharacterBaseMasterId": 201,
+    "Name": "勝手なことは許さない",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": "Rare3",
+    "Attribute": "Cheerful",
+    "MinLevelStatus": {
+      "Concentration": 84,
+      "Expression": 83,
+      "Vocal": 103
+    },
+    "StarActMasterId": 130501,
+    "AwakenStarActMasterId": 130501,
+    "SenseMasterId": 130500,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 30001,
+    "SenseEnhanceItemGroupMasterId": 3,
+    "FirstEpisodeReleaseItemGroupId": 341,
+    "SecondEpisodeReleaseItemGroupId": 342,
+    "CharacterAwakeningItemGroupMasterId": 34,
+    "DisplayStartAt": "2024-05-31T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
     "Id": 130510,
     "CharacterBaseMasterId": 102,
     "Name": "3分だけだからね！",
@@ -4072,6 +4097,56 @@
     "SecondEpisodeReleaseItemGroupId": 432,
     "CharacterAwakeningItemGroupMasterId": 43,
     "DisplayStartAt": "2024-04-30T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 140760,
+    "CharacterBaseMasterId": 204,
+    "Name": "初めての恋は成就したか",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": "Rare4",
+    "Attribute": "Cheerful",
+    "MinLevelStatus": {
+      "Concentration": 117,
+      "Expression": 140,
+      "Vocal": 89
+    },
+    "StarActMasterId": 140761,
+    "AwakenStarActMasterId": 140761,
+    "SenseMasterId": 140760,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 40076,
+    "SenseEnhanceItemGroupMasterId": 4,
+    "FirstEpisodeReleaseItemGroupId": 441,
+    "SecondEpisodeReleaseItemGroupId": 442,
+    "CharacterAwakeningItemGroupMasterId": 44,
+    "DisplayStartAt": "2024-05-31T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 140770,
+    "CharacterBaseMasterId": 203,
+    "Name": "正しくあるべき人の道を説く",
+    "Description": "",
+    "AssetId": null,
+    "Rarity": "Rare4",
+    "Attribute": "Cheerful",
+    "MinLevelStatus": {
+      "Concentration": 125,
+      "Expression": 94,
+      "Vocal": 123
+    },
+    "StarActMasterId": 140771,
+    "AwakenStarActMasterId": 140771,
+    "SenseMasterId": 140770,
+    "ForbidGenericItemBloom": false,
+    "BloomBonusGroupMasterId": 40077,
+    "SenseEnhanceItemGroupMasterId": 4,
+    "FirstEpisodeReleaseItemGroupId": 441,
+    "SecondEpisodeReleaseItemGroupId": 442,
+    "CharacterAwakeningItemGroupMasterId": 44,
+    "DisplayStartAt": "2024-05-31T17:00:00.000Z",
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   },
   {

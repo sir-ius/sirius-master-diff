@@ -398,5 +398,25 @@
     "EndDate": "2024-06-09T00:00:00.000Z",
     "AdditionalSplashValue0": "None",
     "AdditionalSplashValue1": "None"
+  },
+  {
+    "Id": 42,
+    "Order": 42,
+    "SplashType": "Video",
+    "SplashValue": "20029",
+    "StartDate": "2024-05-31T17:00:00.000Z",
+    "EndDate": "2024-06-08T22:00:00.000Z",
+    "AdditionalSplashValue0": "None",
+    "AdditionalSplashValue1": "None"
+  },
+  {
+    "Id": 43,
+    "Order": 43,
+    "SplashType": "Picture",
+    "SplashValue": "5117",
+    "StartDate": "2024-06-01T00:00:00.000Z",
+    "EndDate": "2024-06-11T00:00:00.000Z",
+    "AdditionalSplashValue0": "None",
+    "AdditionalSplashValue1": "None"
   }
 ]

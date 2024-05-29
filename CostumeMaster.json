@@ -1768,6 +1768,38 @@
     "Description": "2024年5月　公演ミッション報酬"
   },
   {
+    "Id": 1981,
+    "Name": "王女サロメの恋",
+    "Order": 1,
+    "IsDefault": false,
+    "CostumeGroupMasterId": 198,
+    "Description": "ポスター「王女サロメの恋」を入手"
+  },
+  {
+    "Id": 1982,
+    "Name": "王女サロメの恋",
+    "Order": 2,
+    "IsDefault": false,
+    "CostumeGroupMasterId": 198,
+    "Description": "ポスター「王女サロメの恋」を/n1回上限解放する"
+  },
+  {
+    "Id": 1991,
+    "Name": "王女サロメの恋",
+    "Order": 1,
+    "IsDefault": false,
+    "CostumeGroupMasterId": 199,
+    "Description": "ポスター「王女サロメの恋」を/n2回上限解放する"
+  },
+  {
+    "Id": 1992,
+    "Name": "王女サロメの恋",
+    "Order": 2,
+    "IsDefault": false,
+    "CostumeGroupMasterId": 199,
+    "Description": "ポスター「王女サロメの恋」を/n3回上限解放する"
+  },
+  {
     "Id": 2001,
     "Name": "魔国連邦の盟主",
     "Order": 1,
@@ -1862,5 +1894,37 @@
     "IsDefault": false,
     "CostumeGroupMasterId": 211,
     "Description": "【コラボ限定】ジュエルショップで購入"
+  },
+  {
+    "Id": 2121,
+    "Name": "ノーブルブライド",
+    "Order": 1,
+    "IsDefault": false,
+    "CostumeGroupMasterId": 212,
+    "Description": "2024年6月　公演ミッション報酬"
+  },
+  {
+    "Id": 2122,
+    "Name": "ノーブルブライド",
+    "Order": 2,
+    "IsDefault": false,
+    "CostumeGroupMasterId": 212,
+    "Description": "2024年6月　公演ミッション報酬"
+  },
+  {
+    "Id": 2123,
+    "Name": "ノーブルブライド",
+    "Order": 3,
+    "IsDefault": false,
+    "CostumeGroupMasterId": 212,
+    "Description": "2024年6月　公演ミッション報酬"
+  },
+  {
+    "Id": 2124,
+    "Name": "ノーブルブライド",
+    "Order": 4,
+    "IsDefault": false,
+    "CostumeGroupMasterId": 212,
+    "Description": "2024年6月　公演ミッション報酬"
   }
 ]

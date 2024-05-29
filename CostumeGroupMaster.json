@@ -1911,6 +1911,36 @@
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   },
   {
+    "Id": 198,
+    "Name": "王女サロメの恋",
+    "Description": null,
+    "Order": 198,
+    "CostumeMasterIds": [
+      1981,
+      1982
+    ],
+    "CostumeWearableCharacterGroupMasterId": null,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2024-05-31T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 199,
+    "Name": "王女サロメの恋",
+    "Description": null,
+    "Order": 199,
+    "CostumeMasterIds": [
+      1991,
+      1992
+    ],
+    "CostumeWearableCharacterGroupMasterId": 204,
+    "PerformanceGroupId": null,
+    "IsHairChange": true,
+    "DisplayStartAt": "2024-05-31T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
     "Id": 200,
     "Name": "魔国連邦の盟主",
     "Description": null,
@@ -2076,6 +2106,23 @@
     "PerformanceGroupId": null,
     "IsHairChange": true,
     "DisplayStartAt": "2024-03-10T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 212,
+    "Name": "ノーブルブライド",
+    "Description": null,
+    "Order": 212,
+    "CostumeMasterIds": [
+      2121,
+      2122,
+      2123,
+      2124
+    ],
+    "CostumeWearableCharacterGroupMasterId": null,
+    "PerformanceGroupId": null,
+    "IsHairChange": false,
+    "DisplayStartAt": "2024-06-01T05:00:00.000Z",
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   }
 ]

@@ -1441,6 +1441,28 @@
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   },
   {
+    "Id": 220450,
+    "Name": "bet or fold？",
+    "OrganizeRestrictGroupId": null,
+    "Rarity": "SR",
+    "LevelPatternGroupMasterId": 2,
+    "SubTitlePositionX1": 710,
+    "SubTitlePositionY1": 1520,
+    "SubTitlePositionX2": 0,
+    "SubTitlePositionY2": 0,
+    "SubTitlePositionX3": null,
+    "SubTitlePositionY3": null,
+    "ReleaseItemGroupId": 2,
+    "PronounceName": "bet or fold",
+    "Costumes": [],
+    "AppearanceCharacterBaseMasterIds": [
+      204
+    ],
+    "IsRestrictItemBreakThrough": false,
+    "DisplayStartAt": "2024-05-31T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
     "Id": 220460,
     "Name": "Fashi∞nable！",
     "OrganizeRestrictGroupId": null,
@@ -3069,6 +3091,46 @@
     ],
     "IsRestrictItemBreakThrough": false,
     "DisplayStartAt": "2024-04-30T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 230460,
+    "Name": "王女サロメの恋",
+    "OrganizeRestrictGroupId": null,
+    "Rarity": "SSR",
+    "LevelPatternGroupMasterId": 3,
+    "SubTitlePositionX1": 0,
+    "SubTitlePositionY1": 1228,
+    "SubTitlePositionX2": 1199,
+    "SubTitlePositionY2": 0,
+    "SubTitlePositionX3": 0,
+    "SubTitlePositionY3": 0,
+    "ReleaseItemGroupId": 3,
+    "PronounceName": "おうじょさろめのこい",
+    "Costumes": [
+      {
+        "Phase": 0,
+        "CostumeMasterId": 1981
+      },
+      {
+        "Phase": 1,
+        "CostumeMasterId": 1982
+      },
+      {
+        "Phase": 2,
+        "CostumeMasterId": 1991
+      },
+      {
+        "Phase": 3,
+        "CostumeMasterId": 1992
+      }
+    ],
+    "AppearanceCharacterBaseMasterIds": [
+      203,
+      204
+    ],
+    "IsRestrictItemBreakThrough": false,
+    "DisplayStartAt": "2024-05-31T17:00:00.000Z",
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   },
   {

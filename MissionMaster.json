@@ -5762,6 +5762,151 @@
     "ComebackCampaignMasterId": null
   },
   {
+    "Id": 4610,
+    "MissionCategory": "Normal",
+    "MissionViewOrder": 4610,
+    "Title": "",
+    "Description": "すごいジュゴンの勲章を[:param]個獲得しよう",
+    "EventMasterId": null,
+    "JumpType": "None",
+    "JumpTargetId": null,
+    "StartDate": "2024-05-31T17:00:00.000Z",
+    "EndDate": "2100-01-01T00:00:00.000Z",
+    "Stages": [
+      {
+        "Id": 46101,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 1,
+        "StartDate": "2024-05-31T17:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 204101,
+            "ThingType": "Trophy",
+            "ThingQuantity": 1
+          }
+        ]
+      },
+      {
+        "Id": 46102,
+        "MissionStageOrder": 2,
+        "StageGoalValue": 3,
+        "StartDate": "2024-05-31T17:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 204102,
+            "ThingType": "Trophy",
+            "ThingQuantity": 1
+          }
+        ]
+      },
+      {
+        "Id": 46103,
+        "MissionStageOrder": 3,
+        "StageGoalValue": 5,
+        "StartDate": "2024-05-31T17:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 204103,
+            "ThingType": "Trophy",
+            "ThingQuantity": 1
+          }
+        ]
+      },
+      {
+        "Id": 46104,
+        "MissionStageOrder": 4,
+        "StageGoalValue": 8,
+        "StartDate": "2024-05-31T17:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 204104,
+            "ThingType": "Trophy",
+            "ThingQuantity": 1
+          }
+        ]
+      },
+      {
+        "Id": 46105,
+        "MissionStageOrder": 5,
+        "StageGoalValue": 11,
+        "StartDate": "2024-05-31T17:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 204105,
+            "ThingType": "Trophy",
+            "ThingQuantity": 1
+          }
+        ]
+      },
+      {
+        "Id": 46106,
+        "MissionStageOrder": 6,
+        "StageGoalValue": 15,
+        "StartDate": "2024-05-31T17:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 204106,
+            "ThingType": "Trophy",
+            "ThingQuantity": 1
+          }
+        ]
+      },
+      {
+        "Id": 46107,
+        "MissionStageOrder": 7,
+        "StageGoalValue": 19,
+        "StartDate": "2024-05-31T17:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 204107,
+            "ThingType": "Trophy",
+            "ThingQuantity": 1
+          }
+        ]
+      },
+      {
+        "Id": 46108,
+        "MissionStageOrder": 8,
+        "StageGoalValue": 24,
+        "StartDate": "2024-05-31T17:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 204108,
+            "ThingType": "Trophy",
+            "ThingQuantity": 1
+          }
+        ]
+      },
+      {
+        "Id": 46109,
+        "MissionStageOrder": 9,
+        "StageGoalValue": 29,
+        "StartDate": "2024-05-31T17:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 204109,
+            "ThingType": "Trophy",
+            "ThingQuantity": 1
+          }
+        ]
+      },
+      {
+        "Id": 46110,
+        "MissionStageOrder": 10,
+        "StageGoalValue": 35,
+        "StartDate": "2024-05-31T17:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 204110,
+            "ThingType": "Trophy",
+            "ThingQuantity": 1
+          }
+        ]
+      }
+    ],
+    "ComebackCampaignMasterId": null
+  },
+  {
     "Id": 4700,
     "MissionCategory": "Normal",
     "MissionViewOrder": 4700,
@@ -8525,6 +8670,34 @@
         "Rewards": [
           {
             "ThingId": 120171,
+            "ThingType": "Trophy",
+            "ThingQuantity": 1
+          }
+        ]
+      }
+    ],
+    "ComebackCampaignMasterId": null
+  },
+  {
+    "Id": 19700,
+    "MissionCategory": "Limit",
+    "MissionViewOrder": 19700,
+    "Title": "",
+    "Description": "「ワンダフル・フラワー・ガーデン！」を[:param]回クリアしよう",
+    "EventMasterId": null,
+    "JumpType": "Live",
+    "JumpTargetId": null,
+    "StartDate": "2024-06-01T17:00:00.000Z",
+    "EndDate": "2024-06-11T00:00:00.000Z",
+    "Stages": [
+      {
+        "Id": 19700,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 5,
+        "StartDate": "2024-06-01T17:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 120371,
             "ThingType": "Trophy",
             "ThingQuantity": 1
           }

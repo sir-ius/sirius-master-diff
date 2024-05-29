@@ -3918,6 +3918,46 @@
     "MusicCoverType": "Original"
   },
   {
+    "Id": 105,
+    "Name": "銀月照らす美しき罪",
+    "Description": "",
+    "RewardRuleMasterId": 1,
+    "PronounceName": "ぎんげつてらすうつくしきつみ",
+    "LyricWriter": "松井洋平",
+    "Composer": "志村真白（FirstCall）",
+    "Arranger": "志村真白（FirstCall）",
+    "UnlockText": null,
+    "IsLongVersion": false,
+    "ReleasedAt": "2024-05-31T17:00:00.000Z",
+    "StaminaConsumption": 28,
+    "MusicTimeSecond": 111,
+    "Invisible": false,
+    "SampleStartSeconds": 0,
+    "SampleEndSeconds": 0,
+    "DelaySeconds": 0,
+    "VocalVersions": [
+      {
+        "Id": 10501,
+        "MusicMasterId": 105,
+        "VocalVersion": 1,
+        "Singer": "萬容、舎人仁花子",
+        "Name": "銀月照らす美しき罪",
+        "MusicTimeSecond": 111,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": "RealTimeRendering",
+        "Characters": [
+          203,
+          204
+        ]
+      }
+    ],
+    "UnlockConditionType": "Default",
+    "UnlockConditionValue": null,
+    "MusicVideoType": "RealTimeRendering",
+    "MusicCoverType": "Original"
+  },
+  {
     "Id": 106,
     "Name": "アクト・レゾナンス",
     "Description": "",
@@ -4026,6 +4066,45 @@
         "MusicVideoType": "None",
         "Characters": [
           102
+        ]
+      }
+    ],
+    "UnlockConditionType": "Default",
+    "UnlockConditionValue": null,
+    "MusicVideoType": "None",
+    "MusicCoverType": "Original"
+  },
+  {
+    "Id": 110,
+    "Name": "ワンダフル・フラワー・ガーデン！",
+    "Description": "",
+    "RewardRuleMasterId": 1,
+    "PronounceName": "わんだふるふらわーがーでん",
+    "LyricWriter": "松井洋平",
+    "Composer": "鈴木裕明(SUPA LOVE)",
+    "Arranger": "鈴木裕明(SUPA LOVE)",
+    "UnlockText": null,
+    "IsLongVersion": false,
+    "ReleasedAt": "2024-06-01T17:00:00.000Z",
+    "StaminaConsumption": 25,
+    "MusicTimeSecond": 94,
+    "Invisible": false,
+    "SampleStartSeconds": 0,
+    "SampleEndSeconds": 0,
+    "DelaySeconds": 0,
+    "VocalVersions": [
+      {
+        "Id": 11001,
+        "MusicMasterId": 110,
+        "VocalVersion": 1,
+        "Singer": "舎人仁花子",
+        "Name": "ワンダフル・フラワー・ガーデン！",
+        "MusicTimeSecond": 94,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": "None",
+        "Characters": [
+          203
         ]
       }
     ],

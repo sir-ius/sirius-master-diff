@@ -130,6 +130,16 @@
     "UnlockText": null
   },
   {
+    "Id": 1203,
+    "Name": "仁花子【BirthDay 2024】",
+    "Description": null,
+    "Order": 1203,
+    "Hidden": true,
+    "IsDefault": false,
+    "Details": [],
+    "UnlockText": null
+  },
+  {
     "Id": 1204,
     "Name": "容【BirthDay 2024】",
     "Description": null,
