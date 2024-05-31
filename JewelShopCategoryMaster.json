@@ -52,7 +52,7 @@
     "Name": "フラッシュ",
     "LayoutType": 30,
     "IsDisplayLocking": 1,
-    "BannerPath": "img_common_tab_icon_circle_recommend",
+    "BannerPath": "img_common_tab_icon_flashsale",
     "Order": 1
   }
 ]
