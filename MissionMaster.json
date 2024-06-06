@@ -8707,6 +8707,34 @@
     "ComebackCampaignMasterId": null
   },
   {
+    "Id": 19800,
+    "MissionCategory": "Limit",
+    "MissionViewOrder": 19800,
+    "Title": "",
+    "Description": "「マン・ハン・チュエンシー!!」を[:param]回クリアしよう",
+    "EventMasterId": null,
+    "JumpType": "Live",
+    "JumpTargetId": null,
+    "StartDate": "2024-06-19T17:00:00.000Z",
+    "EndDate": "2024-06-29T00:00:00.000Z",
+    "Stages": [
+      {
+        "Id": 19800,
+        "MissionStageOrder": 1,
+        "StageGoalValue": 5,
+        "StartDate": "2024-06-19T17:00:00.000Z",
+        "Rewards": [
+          {
+            "ThingId": 130371,
+            "ThingType": "Trophy",
+            "ThingQuantity": 1
+          }
+        ]
+      }
+    ],
+    "ComebackCampaignMasterId": null
+  },
+  {
     "Id": 100000,
     "MissionCategory": "Daily",
     "MissionViewOrder": 100000,

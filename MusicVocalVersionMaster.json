@@ -1689,6 +1689,20 @@
     ]
   },
   {
+    "Id": 11201,
+    "MusicMasterId": 112,
+    "VocalVersion": 1,
+    "Singer": "王雪",
+    "Name": "マン・ハン・チュエンシー!!",
+    "MusicTimeSecond": 100,
+    "SampleStartSeconds": 0,
+    "SampleEndSeconds": 0,
+    "MusicVideoType": "None",
+    "Characters": [
+      303
+    ]
+  },
+  {
     "Id": 11801,
     "MusicMasterId": 118,
     "VocalVersion": 1,
@@ -1878,6 +1892,20 @@
     ]
   },
   {
+    "Id": 13701,
+    "MusicMasterId": 137,
+    "VocalVersion": 1,
+    "Singer": "ラモーナ・ウォルフ",
+    "Name": "インフェルノ",
+    "MusicTimeSecond": 137,
+    "SampleStartSeconds": 0,
+    "SampleEndSeconds": 0,
+    "MusicVideoType": "None",
+    "Characters": [
+      302
+    ]
+  },
+  {
     "Id": 14101,
     "MusicMasterId": 141,
     "VocalVersion": 1,
@@ -1940,6 +1968,37 @@
       304,
       305,
       405
+    ]
+  },
+  {
+    "Id": 15601,
+    "MusicMasterId": 156,
+    "VocalVersion": 1,
+    "Singer": "本巣叶羽、白丸美兎",
+    "Name": "COLORS",
+    "MusicTimeSecond": 93,
+    "SampleStartSeconds": 0,
+    "SampleEndSeconds": 0,
+    "MusicVideoType": "None",
+    "Characters": [
+      402,
+      405
+    ]
+  },
+  {
+    "Id": 15701,
+    "MusicMasterId": 157,
+    "VocalVersion": 1,
+    "Singer": "千寿いろは、阿岐留カミラ、猫足蕾",
+    "Name": "O2",
+    "MusicTimeSecond": 94,
+    "SampleStartSeconds": 0,
+    "SampleEndSeconds": 0,
+    "MusicVideoType": "None",
+    "Characters": [
+      401,
+      403,
+      404
     ]
   },
   {

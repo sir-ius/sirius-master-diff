@@ -4114,6 +4114,45 @@
     "MusicCoverType": "Original"
   },
   {
+    "Id": 112,
+    "Name": "マン・ハン・チュエンシー!!",
+    "Description": "",
+    "RewardRuleMasterId": 1,
+    "PronounceName": "まんはんちゅえんしー",
+    "LyricWriter": "松井洋平",
+    "Composer": "LiCu（FirstCall）",
+    "Arranger": "LiCu（FirstCall）",
+    "UnlockText": null,
+    "IsLongVersion": false,
+    "ReleasedAt": "2024-06-19T17:00:00.000Z",
+    "StaminaConsumption": 26,
+    "MusicTimeSecond": 100,
+    "Invisible": false,
+    "SampleStartSeconds": 0,
+    "SampleEndSeconds": 0,
+    "DelaySeconds": 0,
+    "VocalVersions": [
+      {
+        "Id": 11201,
+        "MusicMasterId": 112,
+        "VocalVersion": 1,
+        "Singer": "王雪",
+        "Name": "マン・ハン・チュエンシー!!",
+        "MusicTimeSecond": 100,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": "None",
+        "Characters": [
+          303
+        ]
+      }
+    ],
+    "UnlockConditionType": "Default",
+    "UnlockConditionValue": null,
+    "MusicVideoType": "None",
+    "MusicCoverType": "Original"
+  },
+  {
     "Id": 118,
     "Name": "あの夏が飽和する。",
     "Description": "",
@@ -4628,6 +4667,45 @@
     "MusicCoverType": "Cover"
   },
   {
+    "Id": 137,
+    "Name": "インフェルノ",
+    "Description": "",
+    "RewardRuleMasterId": 1,
+    "PronounceName": "いんふぇるの",
+    "LyricWriter": "大森元貴",
+    "Composer": "大森元貴",
+    "Arranger": "-",
+    "UnlockText": "楽曲ショップで購入",
+    "IsLongVersion": false,
+    "ReleasedAt": "2024-06-18T17:00:00.000Z",
+    "StaminaConsumption": 33,
+    "MusicTimeSecond": 137,
+    "Invisible": false,
+    "SampleStartSeconds": 0,
+    "SampleEndSeconds": 0,
+    "DelaySeconds": 0,
+    "VocalVersions": [
+      {
+        "Id": 13701,
+        "MusicMasterId": 137,
+        "VocalVersion": 1,
+        "Singer": "ラモーナ・ウォルフ",
+        "Name": "インフェルノ",
+        "MusicTimeSecond": 137,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": "None",
+        "Characters": [
+          302
+        ]
+      }
+    ],
+    "UnlockConditionType": "Buy",
+    "UnlockConditionValue": null,
+    "MusicVideoType": "None",
+    "MusicCoverType": "Cover"
+  },
+  {
     "Id": 141,
     "Name": "Transcend Lights",
     "Description": "",
@@ -4784,6 +4862,87 @@
           304,
           305,
           405
+        ]
+      }
+    ],
+    "UnlockConditionType": "Buy",
+    "UnlockConditionValue": null,
+    "MusicVideoType": "None",
+    "MusicCoverType": "Cover"
+  },
+  {
+    "Id": 156,
+    "Name": "COLORS",
+    "Description": "",
+    "RewardRuleMasterId": 1,
+    "PronounceName": "colors",
+    "LyricWriter": "KOHSHI ASAKAWA・KEIGO HAYASHI",
+    "Composer": "TAKESHI ASAKAWA",
+    "Arranger": "-",
+    "UnlockText": "楽曲ショップで購入",
+    "IsLongVersion": false,
+    "ReleasedAt": "2024-06-10T17:00:00.000Z",
+    "StaminaConsumption": 25,
+    "MusicTimeSecond": 93,
+    "Invisible": false,
+    "SampleStartSeconds": 0,
+    "SampleEndSeconds": 0,
+    "DelaySeconds": 0,
+    "VocalVersions": [
+      {
+        "Id": 15601,
+        "MusicMasterId": 156,
+        "VocalVersion": 1,
+        "Singer": "本巣叶羽、白丸美兎",
+        "Name": "COLORS",
+        "MusicTimeSecond": 93,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": "None",
+        "Characters": [
+          402,
+          405
+        ]
+      }
+    ],
+    "UnlockConditionType": "Buy",
+    "UnlockConditionValue": null,
+    "MusicVideoType": "None",
+    "MusicCoverType": "Cover"
+  },
+  {
+    "Id": 157,
+    "Name": "O2",
+    "Description": "",
+    "RewardRuleMasterId": 1,
+    "PronounceName": "o2",
+    "LyricWriter": "ORANGE RANGE",
+    "Composer": "ORANGE RANGE",
+    "Arranger": "-",
+    "UnlockText": "楽曲ショップで購入",
+    "IsLongVersion": false,
+    "ReleasedAt": "2024-06-14T17:00:00.000Z",
+    "StaminaConsumption": 25,
+    "MusicTimeSecond": 94,
+    "Invisible": false,
+    "SampleStartSeconds": 0,
+    "SampleEndSeconds": 0,
+    "DelaySeconds": 0,
+    "VocalVersions": [
+      {
+        "Id": 15701,
+        "MusicMasterId": 157,
+        "VocalVersion": 1,
+        "Singer": "千寿いろは、阿岐留カミラ、猫足蕾",
+        "Name": "O2",
+        "MusicTimeSecond": 94,
+        "SampleStartSeconds": 0,
+        "SampleEndSeconds": 0,
+        "MusicVideoType": "None",
+        "Characters": [
+          401,
+          403,
+          404
         ]
       }
     ],

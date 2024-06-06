@@ -180,6 +180,16 @@
     "UnlockText": null
   },
   {
+    "Id": 1303,
+    "Name": "雪【BirthDay 2024】",
+    "Description": null,
+    "Order": 1303,
+    "Hidden": true,
+    "IsDefault": false,
+    "Details": [],
+    "UnlockText": null
+  },
+  {
     "Id": 1304,
     "Name": "リリヤ【BirthDay 2024】",
     "Description": null,

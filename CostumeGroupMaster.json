@@ -2124,5 +2124,75 @@
     "IsHairChange": false,
     "DisplayStartAt": "2024-06-01T05:00:00.000Z",
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 214,
+    "Name": "黒の反逆者",
+    "Description": null,
+    "Order": 214,
+    "CostumeMasterIds": [
+      2141
+    ],
+    "CostumeWearableCharacterGroupMasterId": 17,
+    "PerformanceGroupId": null,
+    "IsHairChange": true,
+    "DisplayStartAt": "2024-06-10T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 215,
+    "Name": "白き魔女",
+    "Description": null,
+    "Order": 215,
+    "CostumeMasterIds": [
+      2151
+    ],
+    "CostumeWearableCharacterGroupMasterId": 18,
+    "PerformanceGroupId": null,
+    "IsHairChange": true,
+    "DisplayStartAt": "2024-06-10T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 216,
+    "Name": "白き魔女",
+    "Description": null,
+    "Order": 216,
+    "CostumeMasterIds": [
+      2161
+    ],
+    "CostumeWearableCharacterGroupMasterId": 403,
+    "PerformanceGroupId": null,
+    "IsHairChange": true,
+    "DisplayStartAt": "2024-06-10T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 217,
+    "Name": "紅の猛火",
+    "Description": null,
+    "Order": 217,
+    "CostumeMasterIds": [
+      2171
+    ],
+    "CostumeWearableCharacterGroupMasterId": 19,
+    "PerformanceGroupId": null,
+    "IsHairChange": true,
+    "DisplayStartAt": "2024-06-10T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 218,
+    "Name": "紅の猛火",
+    "Description": null,
+    "Order": 218,
+    "CostumeMasterIds": [
+      2181
+    ],
+    "CostumeWearableCharacterGroupMasterId": 404,
+    "PerformanceGroupId": null,
+    "IsHairChange": true,
+    "DisplayStartAt": "2024-06-10T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   }
 ]

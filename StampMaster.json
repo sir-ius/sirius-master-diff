@@ -1180,6 +1180,16 @@
     "Name": "雪【いいじゃん】"
   },
   {
+    "Id": 30381,
+    "Order": 30381,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 303,
+    "Type": "Default",
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "雪【それくらい余裕だぞ】"
+  },
+  {
     "Id": 30391,
     "Order": 30391,
     "IsDefault": false,
@@ -1438,6 +1448,16 @@
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "いろは【僕と一緒に行きましょう！】"
+  },
+  {
+    "Id": 40182,
+    "Order": 40182,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 401,
+    "Type": "Default",
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "いろは【それが、我が運命ならば】"
   },
   {
     "Id": 40191,
@@ -1720,6 +1740,16 @@
     "Name": "蕾【また力が増したな…】"
   },
   {
+    "Id": 40480,
+    "Order": 40480,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 404,
+    "Type": "Default",
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "蕾【見たか！】"
+  },
+  {
     "Id": 40481,
     "Order": 40481,
     "IsDefault": false,
@@ -1798,6 +1828,26 @@
     "AssetId": "",
     "VoiceAssetId": null,
     "Name": "叶羽【完・敗】"
+  },
+  {
+    "Id": 40507,
+    "Order": 40507,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 405,
+    "Type": "Default",
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "叶羽【もう１回！】"
+  },
+  {
+    "Id": 40582,
+    "Order": 40582,
+    "IsDefault": false,
+    "CharacterBaseMasterId": 405,
+    "Type": "Default",
+    "AssetId": "",
+    "VoiceAssetId": null,
+    "Name": "叶羽【やさしい世界でありますように】"
   },
   {
     "Id": 40591,

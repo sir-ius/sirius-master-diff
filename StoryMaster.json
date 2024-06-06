@@ -351,6 +351,15 @@
     "DisplayEndAt": "2024-05-20T17:00:00.000Z"
   },
   {
+    "Id": 20034,
+    "Type": "Event",
+    "CompanyMasterId": null,
+    "EventMasterId": 20034,
+    "ChapterOrder": 0,
+    "DisplayStartAt": "2024-06-10T17:00:00.000Z",
+    "DisplayEndAt": "2024-06-20T17:00:00.000Z"
+  },
+  {
     "Id": 20042,
     "Type": "Event",
     "CompanyMasterId": null,

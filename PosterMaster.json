@@ -3223,6 +3223,29 @@
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   },
   {
+    "Id": 320070,
+    "Name": "反逆、すべては目指す舞台のために",
+    "OrganizeRestrictGroupId": null,
+    "Rarity": "SR",
+    "LevelPatternGroupMasterId": 2,
+    "SubTitlePositionX1": 731,
+    "SubTitlePositionY1": 1634,
+    "SubTitlePositionX2": 551,
+    "SubTitlePositionY2": 0,
+    "SubTitlePositionX3": null,
+    "SubTitlePositionY3": null,
+    "ReleaseItemGroupId": 2,
+    "PronounceName": "はんぎゃくすべてはめざすぶたいのために",
+    "Costumes": [],
+    "AppearanceCharacterBaseMasterIds": [
+      402,
+      405
+    ],
+    "IsRestrictItemBreakThrough": false,
+    "DisplayStartAt": "2024-06-10T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
     "Id": 320080,
     "Name": "ジュゴン大量発生中！",
     "OrganizeRestrictGroupId": null,
@@ -3401,6 +3424,74 @@
     ],
     "IsRestrictItemBreakThrough": false,
     "DisplayStartAt": "2024-03-10T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 330060,
+    "Name": "暴虐を極めし帝国に反逆を",
+    "OrganizeRestrictGroupId": null,
+    "Rarity": "SSR",
+    "LevelPatternGroupMasterId": 3,
+    "SubTitlePositionX1": 0,
+    "SubTitlePositionY1": 1275,
+    "SubTitlePositionX2": 55,
+    "SubTitlePositionY2": 109,
+    "SubTitlePositionX3": 1210,
+    "SubTitlePositionY3": 1813,
+    "ReleaseItemGroupId": 3,
+    "PronounceName": "ぼうぎゃくをきわめしていこくにはんぎゃくを",
+    "Costumes": [
+      {
+        "Phase": 0,
+        "CostumeMasterId": 2161
+      },
+      {
+        "Phase": 1,
+        "CostumeMasterId": 2151
+      }
+    ],
+    "AppearanceCharacterBaseMasterIds": [
+      401,
+      403,
+      404
+    ],
+    "IsRestrictItemBreakThrough": false,
+    "DisplayStartAt": "2024-06-10T17:00:00.000Z",
+    "DisplayEndAt": "2100-01-01T00:00:00.000Z"
+  },
+  {
+    "Id": 330070,
+    "Name": "コードギアス反逆のルルーシュコラボ",
+    "OrganizeRestrictGroupId": null,
+    "Rarity": "SSR",
+    "LevelPatternGroupMasterId": 3,
+    "SubTitlePositionX1": 0,
+    "SubTitlePositionY1": 1383,
+    "SubTitlePositionX2": 1122,
+    "SubTitlePositionY2": 0,
+    "SubTitlePositionX3": null,
+    "SubTitlePositionY3": null,
+    "ReleaseItemGroupId": 3,
+    "PronounceName": "こーどぎあすはんぎゃくのるるーしゅこらぼ",
+    "Costumes": [
+      {
+        "Phase": 0,
+        "CostumeMasterId": 2181
+      },
+      {
+        "Phase": 1,
+        "CostumeMasterId": 2171
+      }
+    ],
+    "AppearanceCharacterBaseMasterIds": [
+      401,
+      402,
+      403,
+      404,
+      405
+    ],
+    "IsRestrictItemBreakThrough": false,
+    "DisplayStartAt": "2024-06-10T17:00:00.000Z",
     "DisplayEndAt": "2100-01-01T00:00:00.000Z"
   }
 ]

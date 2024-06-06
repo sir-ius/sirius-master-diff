@@ -10183,6 +10183,257 @@
     "ComebackCampaignMasterId": null
   },
   {
+    "Id": 5118,
+    "Order": 345,
+    "AppStoreProductId": "",
+    "GooglePlayProductId": "",
+    "Name": "コードギアス反逆のルルーシュコラボ限定デコレーションパック",
+    "PackText": "コードギアス反逆のルルーシュコラボ限定デコレーションパック",
+    "MJewelShopCategoryId": 6,
+    "DialogType": 1,
+    "PurchaseType": "Paid",
+    "PurchaseValue": 960,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": null,
+    "ReplaceTypes": "None",
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": false,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": false,
+    "UnlockType": null,
+    "UnlockValue": null,
+    "StartDate": "2024-06-10T17:00:00.000Z",
+    "EndDate": "2024-06-20T17:00:00.000Z",
+    "Lineup": [
+      {
+        "Id": 511801,
+        "MJewelShopItemId": 5118,
+        "ThingId": 8010101,
+        "ThingType": "Decoration",
+        "ThingQuantity": 1
+      },
+      {
+        "Id": 511802,
+        "MJewelShopItemId": 5118,
+        "ThingId": 8010202,
+        "ThingType": "Decoration",
+        "ThingQuantity": 1
+      },
+      {
+        "Id": 511803,
+        "MJewelShopItemId": 5118,
+        "ThingId": 8010303,
+        "ThingType": "Decoration",
+        "ThingQuantity": 1
+      },
+      {
+        "Id": 511804,
+        "MJewelShopItemId": 5118,
+        "ThingId": 8010404,
+        "ThingType": "Decoration",
+        "ThingQuantity": 1
+      },
+      {
+        "Id": 511805,
+        "MJewelShopItemId": 5118,
+        "ThingId": 8010505,
+        "ThingType": "Decoration",
+        "ThingQuantity": 1
+      },
+      {
+        "Id": 511806,
+        "MJewelShopItemId": 5118,
+        "ThingId": 13,
+        "ThingType": "Item,Decoration",
+        "ThingQuantity": 1
+      }
+    ],
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
+  },
+  {
+    "Id": 5119,
+    "Order": 346,
+    "AppStoreProductId": "",
+    "GooglePlayProductId": "",
+    "Name": "コードギアス反逆のルルーシュコラボ限定アクセサリー＆スタンプパック",
+    "PackText": "コードギアス反逆のルルーシュコラボ限定アクセサリー＆スタンプパック",
+    "MJewelShopCategoryId": 6,
+    "DialogType": 1,
+    "PurchaseType": "Paid",
+    "PurchaseValue": 1500,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": null,
+    "ReplaceTypes": "None",
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": false,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": false,
+    "UnlockType": null,
+    "UnlockValue": null,
+    "StartDate": "2024-06-10T17:00:00.000Z",
+    "EndDate": "2024-06-20T17:00:00.000Z",
+    "Lineup": [
+      {
+        "Id": 511901,
+        "MJewelShopItemId": 5119,
+        "ThingId": 40182,
+        "ThingType": "Stamp",
+        "ThingQuantity": 1
+      },
+      {
+        "Id": 511902,
+        "MJewelShopItemId": 5119,
+        "ThingId": 40480,
+        "ThingType": "Stamp",
+        "ThingQuantity": 1
+      },
+      {
+        "Id": 511903,
+        "MJewelShopItemId": 5119,
+        "ThingId": 40582,
+        "ThingType": "Stamp",
+        "ThingQuantity": 1
+      },
+      {
+        "Id": 511904,
+        "MJewelShopItemId": 5119,
+        "ThingId": 430040,
+        "ThingType": "Accessory",
+        "ThingQuantity": 1
+      }
+    ],
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
+  },
+  {
+    "Id": 5120,
+    "Order": 347,
+    "AppStoreProductId": "",
+    "GooglePlayProductId": "",
+    "Name": "コードギアス反逆のルルーシュコラボ限定衣装パック",
+    "PackText": "コードギアス反逆のルルーシュコラボ限定衣装パック",
+    "MJewelShopCategoryId": 6,
+    "DialogType": 1,
+    "PurchaseType": "Paid",
+    "PurchaseValue": 3000,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": null,
+    "ReplaceTypes": "None",
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": false,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": false,
+    "UnlockType": null,
+    "UnlockValue": null,
+    "StartDate": "2024-06-10T17:00:00.000Z",
+    "EndDate": "2024-06-20T17:00:00.000Z",
+    "Lineup": [
+      {
+        "Id": 512001,
+        "MJewelShopItemId": 5120,
+        "ThingId": 2141,
+        "ThingType": "Costume",
+        "ThingQuantity": 1
+      }
+    ],
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
+  },
+  {
+    "Id": 5121,
+    "Order": 348,
+    "AppStoreProductId": "5121",
+    "GooglePlayProductId": "5121",
+    "Name": "「コードギアス反逆のルルーシュ」コラボパックA",
+    "PackText": "",
+    "MJewelShopCategoryId": 5,
+    "DialogType": 1,
+    "PurchaseType": "Money",
+    "PurchaseValue": 4800,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": 4800,
+    "ReplaceTypes": "None",
+    "ReplaceValue": null,
+    "PurchaseLimit": 2,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": false,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": false,
+    "UnlockType": null,
+    "UnlockValue": null,
+    "StartDate": "2024-06-10T17:00:00.000Z",
+    "EndDate": "2024-06-20T17:00:00.000Z",
+    "Lineup": [
+      {
+        "Id": 512101,
+        "MJewelShopItemId": 5121,
+        "ThingId": 130071,
+        "ThingType": "Item",
+        "ThingQuantity": 15
+      }
+    ],
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
+  },
+  {
+    "Id": 5122,
+    "Order": 349,
+    "AppStoreProductId": "5122",
+    "GooglePlayProductId": "5122",
+    "Name": "「コードギアス反逆のルルーシュ」コラボパックB",
+    "PackText": "",
+    "MJewelShopCategoryId": 5,
+    "DialogType": 1,
+    "PurchaseType": "Money",
+    "PurchaseValue": 9800,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": 9800,
+    "ReplaceTypes": "None",
+    "ReplaceValue": null,
+    "PurchaseLimit": 2,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": false,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": false,
+    "UnlockType": null,
+    "UnlockValue": null,
+    "StartDate": "2024-06-10T17:00:00.000Z",
+    "EndDate": "2024-06-20T17:00:00.000Z",
+    "Lineup": [
+      {
+        "Id": 512201,
+        "MJewelShopItemId": 5122,
+        "ThingId": 0,
+        "ThingType": "Jewel",
+        "ThingQuantity": 9800
+      }
+    ],
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
+  },
+  {
     "Id": 5123,
     "Order": 706,
     "AppStoreProductId": "",
@@ -10643,6 +10894,87 @@
     "ComebackCampaignMasterId": null
   },
   {
+    "Id": 5133,
+    "Order": 17,
+    "AppStoreProductId": "5133",
+    "GooglePlayProductId": "5133",
+    "Name": "お誕生日パック【王 雪】",
+    "PackText": "お誕生日パック【王 雪】",
+    "MJewelShopCategoryId": 6,
+    "DialogType": 1,
+    "PurchaseType": "Money",
+    "PurchaseValue": 3000,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": 3000,
+    "ReplaceTypes": "None",
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": false,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": false,
+    "UnlockType": null,
+    "UnlockValue": null,
+    "StartDate": "2024-06-19T00:00:00.000Z",
+    "EndDate": "2024-06-29T00:00:00.000Z",
+    "Lineup": [
+      {
+        "Id": 513301,
+        "MJewelShopItemId": 5133,
+        "ThingId": 511303,
+        "ThingType": "Item",
+        "ThingQuantity": 1
+      },
+      {
+        "Id": 513302,
+        "MJewelShopItemId": 5133,
+        "ThingId": 330140,
+        "ThingType": "Accessory",
+        "ThingQuantity": 1
+      },
+      {
+        "Id": 513303,
+        "MJewelShopItemId": 5133,
+        "ThingId": 30381,
+        "ThingType": "Stamp",
+        "ThingQuantity": 1
+      },
+      {
+        "Id": 513304,
+        "MJewelShopItemId": 5133,
+        "ThingId": 10303,
+        "ThingType": "Decoration",
+        "ThingQuantity": 1
+      },
+      {
+        "Id": 513305,
+        "MJewelShopItemId": 5133,
+        "ThingId": 1303,
+        "ThingType": "Nameplate",
+        "ThingQuantity": 1
+      },
+      {
+        "Id": 513306,
+        "MJewelShopItemId": 5133,
+        "ThingId": 130082,
+        "ThingType": "Item",
+        "ThingQuantity": 120
+      },
+      {
+        "Id": 513307,
+        "MJewelShopItemId": 5133,
+        "ThingId": 130081,
+        "ThingType": "Item",
+        "ThingQuantity": 600
+      }
+    ],
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
+  },
+  {
     "Id": 5134,
     "Order": 338,
     "AppStoreProductId": "",
@@ -10887,6 +11219,222 @@
     ],
     "ShopItemType": "MultiLiveDropBoost",
     "ShopItemValue": 29,
+    "ComebackCampaignMasterId": null
+  },
+  {
+    "Id": 5142,
+    "Order": 350,
+    "AppStoreProductId": "5142",
+    "GooglePlayProductId": "5142",
+    "Name": "コラボ記念限定ジュエルパックA",
+    "PackText": "",
+    "MJewelShopCategoryId": 5,
+    "DialogType": 1,
+    "PurchaseType": "Money",
+    "PurchaseValue": 2000,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": 2000,
+    "ReplaceTypes": "None",
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": false,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": false,
+    "UnlockType": null,
+    "UnlockValue": null,
+    "StartDate": "2024-06-10T17:00:00.000Z",
+    "EndDate": "2024-06-20T17:00:00.000Z",
+    "Lineup": [
+      {
+        "Id": 514201,
+        "MJewelShopItemId": 5142,
+        "ThingId": 0,
+        "ThingType": "Jewel",
+        "ThingQuantity": 3000
+      }
+    ],
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
+  },
+  {
+    "Id": 5143,
+    "Order": 351,
+    "AppStoreProductId": "5143",
+    "GooglePlayProductId": "5143",
+    "Name": "コラボ記念限定ジュエルパックB",
+    "PackText": "",
+    "MJewelShopCategoryId": 5,
+    "DialogType": 1,
+    "PurchaseType": "Money",
+    "PurchaseValue": 5500,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": 5500,
+    "ReplaceTypes": "None",
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": false,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": false,
+    "UnlockType": null,
+    "UnlockValue": null,
+    "StartDate": "2024-06-10T17:00:00.000Z",
+    "EndDate": "2024-06-20T17:00:00.000Z",
+    "Lineup": [
+      {
+        "Id": 514301,
+        "MJewelShopItemId": 5143,
+        "ThingId": 0,
+        "ThingType": "Jewel",
+        "ThingQuantity": 5500
+      }
+    ],
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
+  },
+  {
+    "Id": 5144,
+    "Order": 117,
+    "AppStoreProductId": "",
+    "GooglePlayProductId": "",
+    "Name": "銀河シアターのおまもりパック",
+    "PackText": "",
+    "MJewelShopCategoryId": 5,
+    "DialogType": 1,
+    "PurchaseType": "Paid",
+    "PurchaseValue": 3000,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": null,
+    "ReplaceTypes": "None",
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": false,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": false,
+    "UnlockType": null,
+    "UnlockValue": null,
+    "StartDate": "2024-06-16T17:00:00.000Z",
+    "EndDate": "2024-06-24T17:00:00.000Z",
+    "Lineup": [
+      {
+        "Id": 514401,
+        "MJewelShopItemId": 5144,
+        "ThingId": 139103,
+        "ThingType": "Item",
+        "ThingQuantity": 1
+      },
+      {
+        "Id": 514402,
+        "MJewelShopItemId": 5144,
+        "ThingId": 110002,
+        "ThingType": "Item",
+        "ThingQuantity": 75
+      }
+    ],
+    "ShopItemType": 5,
+    "ShopItemValue": 30,
+    "ComebackCampaignMasterId": null
+  },
+  {
+    "Id": 5145,
+    "Order": 352,
+    "AppStoreProductId": "",
+    "GooglePlayProductId": "",
+    "Name": "撮影パック",
+    "PackText": "",
+    "MJewelShopCategoryId": 5,
+    "DialogType": 1,
+    "PurchaseType": "Paid",
+    "PurchaseValue": 980,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": null,
+    "ReplaceTypes": "None",
+    "ReplaceValue": null,
+    "PurchaseLimit": 2,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": false,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": false,
+    "UnlockType": null,
+    "UnlockValue": null,
+    "StartDate": "2024-06-15T17:00:00.000Z",
+    "EndDate": "2024-06-25T17:00:00.000Z",
+    "Lineup": [
+      {
+        "Id": 514501,
+        "MJewelShopItemId": 5145,
+        "ThingId": 510006,
+        "ThingType": "Item",
+        "ThingQuantity": 1
+      },
+      {
+        "Id": 514502,
+        "MJewelShopItemId": 5145,
+        "ThingId": 510004,
+        "ThingType": "Item",
+        "ThingQuantity": 10
+      },
+      {
+        "Id": 514503,
+        "MJewelShopItemId": 5145,
+        "ThingId": 0,
+        "ThingType": "Coin",
+        "ThingQuantity": 1000000
+      }
+    ],
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
+  },
+  {
+    "Id": 5146,
+    "Order": 353,
+    "AppStoreProductId": "5146",
+    "GooglePlayProductId": "5146",
+    "Name": "練習台本どっさりパック",
+    "PackText": "",
+    "MJewelShopCategoryId": 5,
+    "DialogType": 1,
+    "PurchaseType": "Money",
+    "PurchaseValue": 1500,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": 1500,
+    "ReplaceTypes": "None",
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": false,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": false,
+    "UnlockType": null,
+    "UnlockValue": null,
+    "StartDate": "2024-06-15T17:00:00.000Z",
+    "EndDate": "2024-06-25T17:00:00.000Z",
+    "Lineup": [
+      {
+        "Id": 514601,
+        "MJewelShopItemId": 5146,
+        "ThingId": 120002,
+        "ThingType": "Item",
+        "ThingQuantity": 1500
+      }
+    ],
+    "ShopItemType": "None",
+    "ShopItemValue": null,
     "ComebackCampaignMasterId": null
   },
   {
@@ -15023,8 +15571,125 @@
     "ComebackCampaignMasterId": null
   },
   {
+    "Id": 5601,
+    "Order": 147,
+    "AppStoreProductId": "5601",
+    "GooglePlayProductId": "5601",
+    "Name": "イベント限定ジュエルパックA",
+    "PackText": "",
+    "MJewelShopCategoryId": 1,
+    "DialogType": 1,
+    "PurchaseType": "Money",
+    "PurchaseValue": 1500,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": 1500,
+    "ReplaceTypes": "None",
+    "ReplaceValue": null,
+    "PurchaseLimit": 2,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": false,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": false,
+    "UnlockType": null,
+    "UnlockValue": null,
+    "StartDate": "2024-06-10T17:00:00.000Z",
+    "EndDate": "2024-06-20T17:00:00.000Z",
+    "Lineup": [
+      {
+        "Id": 560101,
+        "MJewelShopItemId": 5601,
+        "ThingId": 0,
+        "ThingType": "Jewel",
+        "ThingQuantity": 1500
+      }
+    ],
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
+  },
+  {
+    "Id": 5602,
+    "Order": 148,
+    "AppStoreProductId": "5602",
+    "GooglePlayProductId": "5602",
+    "Name": "イベント限定ジュエルパックB",
+    "PackText": "",
+    "MJewelShopCategoryId": 1,
+    "DialogType": 1,
+    "PurchaseType": "Money",
+    "PurchaseValue": 4800,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": 4800,
+    "ReplaceTypes": "None",
+    "ReplaceValue": null,
+    "PurchaseLimit": 2,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": false,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": false,
+    "UnlockType": null,
+    "UnlockValue": null,
+    "StartDate": "2024-06-10T17:00:00.000Z",
+    "EndDate": "2024-06-20T17:00:00.000Z",
+    "Lineup": [
+      {
+        "Id": 560201,
+        "MJewelShopItemId": 5602,
+        "ThingId": 0,
+        "ThingType": "Jewel",
+        "ThingQuantity": 3000
+      }
+    ],
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
+  },
+  {
+    "Id": 5603,
+    "Order": 149,
+    "AppStoreProductId": "5603",
+    "GooglePlayProductId": "5603",
+    "Name": "イベント限定ジュエルパックC",
+    "PackText": "",
+    "MJewelShopCategoryId": 1,
+    "DialogType": 1,
+    "PurchaseType": "Money",
+    "PurchaseValue": 9800,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": 9800,
+    "ReplaceTypes": "None",
+    "ReplaceValue": null,
+    "PurchaseLimit": 2,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": false,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": false,
+    "UnlockType": null,
+    "UnlockValue": null,
+    "StartDate": "2024-06-10T17:00:00.000Z",
+    "EndDate": "2024-06-20T17:00:00.000Z",
+    "Lineup": [
+      {
+        "Id": 560301,
+        "MJewelShopItemId": 5603,
+        "ThingId": 0,
+        "ThingType": "Jewel",
+        "ThingQuantity": 4900
+      }
+    ],
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
+  },
+  {
     "Id": 10000,
-    "Order": 1,
+    "Order": 1000,
     "AppStoreProductId": "10000",
     "GooglePlayProductId": "10000",
     "Name": "ランク10到達記念パック",
@@ -15070,7 +15735,7 @@
   },
   {
     "Id": 10001,
-    "Order": 2,
+    "Order": 1001,
     "AppStoreProductId": "10001",
     "GooglePlayProductId": "10001",
     "Name": "ランク20到達記念パック",
@@ -15116,7 +15781,7 @@
   },
   {
     "Id": 10002,
-    "Order": 3,
+    "Order": 1002,
     "AppStoreProductId": "10002",
     "GooglePlayProductId": "10002",
     "Name": "ランク30到達記念パック",
@@ -15162,7 +15827,7 @@
   },
   {
     "Id": 10003,
-    "Order": 4,
+    "Order": 1003,
     "AppStoreProductId": "10003",
     "GooglePlayProductId": "10003",
     "Name": "ランク40到達記念パック",
@@ -15208,7 +15873,7 @@
   },
   {
     "Id": 10004,
-    "Order": 5,
+    "Order": 1004,
     "AppStoreProductId": "10004",
     "GooglePlayProductId": "10004",
     "Name": "ランク50到達記念パック",
@@ -15254,7 +15919,7 @@
   },
   {
     "Id": 10005,
-    "Order": 6,
+    "Order": 1005,
     "AppStoreProductId": "10005",
     "GooglePlayProductId": "10005",
     "Name": "ランク60到達記念パック",
@@ -15300,7 +15965,7 @@
   },
   {
     "Id": 10006,
-    "Order": 7,
+    "Order": 1006,
     "AppStoreProductId": "10006",
     "GooglePlayProductId": "10006",
     "Name": "ランク70到達記念パック",
@@ -15346,7 +16011,7 @@
   },
   {
     "Id": 10007,
-    "Order": 8,
+    "Order": 1007,
     "AppStoreProductId": "10007",
     "GooglePlayProductId": "10007",
     "Name": "ランク80到達記念パック",
@@ -15392,7 +16057,7 @@
   },
   {
     "Id": 10008,
-    "Order": 9,
+    "Order": 1008,
     "AppStoreProductId": "10008",
     "GooglePlayProductId": "10008",
     "Name": "ランク90到達記念パック",
@@ -15438,7 +16103,7 @@
   },
   {
     "Id": 10009,
-    "Order": 10,
+    "Order": 1009,
     "AppStoreProductId": "10009",
     "GooglePlayProductId": "10009",
     "Name": "ランク100到達記念パック",
@@ -15484,7 +16149,7 @@
   },
   {
     "Id": 10010,
-    "Order": 11,
+    "Order": 1010,
     "AppStoreProductId": "10010",
     "GooglePlayProductId": "10010",
     "Name": "ランク110到達記念パック",
@@ -15530,7 +16195,7 @@
   },
   {
     "Id": 10011,
-    "Order": 12,
+    "Order": 1011,
     "AppStoreProductId": "10011",
     "GooglePlayProductId": "10011",
     "Name": "ランク120到達記念パック",
@@ -15576,7 +16241,7 @@
   },
   {
     "Id": 10012,
-    "Order": 13,
+    "Order": 1012,
     "AppStoreProductId": "10012",
     "GooglePlayProductId": "10012",
     "Name": "ランク130到達記念パック",
@@ -15622,7 +16287,7 @@
   },
   {
     "Id": 10013,
-    "Order": 14,
+    "Order": 1013,
     "AppStoreProductId": "10013",
     "GooglePlayProductId": "10013",
     "Name": "ランク140到達記念パック",
@@ -15668,7 +16333,7 @@
   },
   {
     "Id": 10014,
-    "Order": 15,
+    "Order": 1014,
     "AppStoreProductId": "10014",
     "GooglePlayProductId": "10014",
     "Name": "ランク150到達記念パック",
@@ -15714,7 +16379,7 @@
   },
   {
     "Id": 10015,
-    "Order": 16,
+    "Order": 1015,
     "AppStoreProductId": "10015",
     "GooglePlayProductId": "10015",
     "Name": "ランク160到達記念パック",
@@ -15760,7 +16425,7 @@
   },
   {
     "Id": 10016,
-    "Order": 17,
+    "Order": 1016,
     "AppStoreProductId": "10016",
     "GooglePlayProductId": "10016",
     "Name": "ランク170到達記念パック",
@@ -15806,7 +16471,7 @@
   },
   {
     "Id": 10017,
-    "Order": 18,
+    "Order": 2000,
     "AppStoreProductId": "10017",
     "GooglePlayProductId": "10017",
     "Name": "オーディションステージ20突破記念パック",
@@ -15852,7 +16517,7 @@
   },
   {
     "Id": 10018,
-    "Order": 19,
+    "Order": 2001,
     "AppStoreProductId": "10018",
     "GooglePlayProductId": "10018",
     "Name": "オーディションステージ30突破記念パック",
@@ -15898,7 +16563,7 @@
   },
   {
     "Id": 10019,
-    "Order": 20,
+    "Order": 2002,
     "AppStoreProductId": "10019",
     "GooglePlayProductId": "10019",
     "Name": "オーディションステージ40突破記念パック",
@@ -15944,7 +16609,7 @@
   },
   {
     "Id": 10020,
-    "Order": 21,
+    "Order": 2003,
     "AppStoreProductId": "10020",
     "GooglePlayProductId": "10020",
     "Name": "オーディションステージ50突破記念パック",
@@ -15990,7 +16655,7 @@
   },
   {
     "Id": 10021,
-    "Order": 22,
+    "Order": 2004,
     "AppStoreProductId": "10021",
     "GooglePlayProductId": "10021",
     "Name": "オーディションステージ55突破記念パック",
@@ -16036,7 +16701,7 @@
   },
   {
     "Id": 10022,
-    "Order": 23,
+    "Order": 2005,
     "AppStoreProductId": "10022",
     "GooglePlayProductId": "10022",
     "Name": "オーディションステージ60突破記念パック",
@@ -16082,7 +16747,7 @@
   },
   {
     "Id": 10023,
-    "Order": 24,
+    "Order": 2006,
     "AppStoreProductId": "10023",
     "GooglePlayProductId": "10023",
     "Name": "オーディションステージ65突破記念パック",
@@ -16128,7 +16793,7 @@
   },
   {
     "Id": 10024,
-    "Order": 25,
+    "Order": 2007,
     "AppStoreProductId": "10024",
     "GooglePlayProductId": "10024",
     "Name": "オーディションステージ70突破記念パック",
@@ -16174,7 +16839,7 @@
   },
   {
     "Id": 10025,
-    "Order": 26,
+    "Order": 2008,
     "AppStoreProductId": "10025",
     "GooglePlayProductId": "10025",
     "Name": "オーディションステージ75突破記念パック",
@@ -16220,7 +16885,7 @@
   },
   {
     "Id": 10026,
-    "Order": 27,
+    "Order": 2009,
     "AppStoreProductId": "10026",
     "GooglePlayProductId": "10026",
     "Name": "オーディションステージ80突破記念パック",
@@ -16266,7 +16931,7 @@
   },
   {
     "Id": 10027,
-    "Order": 28,
+    "Order": 2010,
     "AppStoreProductId": "10027",
     "GooglePlayProductId": "10027",
     "Name": "オーディションステージ85突破記念パック",
@@ -16312,7 +16977,7 @@
   },
   {
     "Id": 10028,
-    "Order": 29,
+    "Order": 2011,
     "AppStoreProductId": "10028",
     "GooglePlayProductId": "10028",
     "Name": "オーディションステージ90突破記念パック",
@@ -16358,7 +17023,7 @@
   },
   {
     "Id": 10029,
-    "Order": 30,
+    "Order": 2012,
     "AppStoreProductId": "10029",
     "GooglePlayProductId": "10029",
     "Name": "オーディションステージ95突破記念パック",
@@ -16404,7 +17069,7 @@
   },
   {
     "Id": 10030,
-    "Order": 31,
+    "Order": 2013,
     "AppStoreProductId": "10030",
     "GooglePlayProductId": "10030",
     "Name": "オーディションステージ100突破記念パック",
@@ -16450,7 +17115,7 @@
   },
   {
     "Id": 10031,
-    "Order": 32,
+    "Order": 2014,
     "AppStoreProductId": "10031",
     "GooglePlayProductId": "10031",
     "Name": "オーディションステージ105突破記念パック",
@@ -16496,7 +17161,7 @@
   },
   {
     "Id": 10032,
-    "Order": 33,
+    "Order": 2015,
     "AppStoreProductId": "10032",
     "GooglePlayProductId": "10032",
     "Name": "オーディションステージ110突破記念パック",
@@ -16542,7 +17207,7 @@
   },
   {
     "Id": 10033,
-    "Order": 34,
+    "Order": 3000,
     "AppStoreProductId": "10033",
     "GooglePlayProductId": "10033",
     "Name": "ホープクラス昇格記念パック",
@@ -16588,7 +17253,7 @@
   },
   {
     "Id": 10034,
-    "Order": 35,
+    "Order": 3001,
     "AppStoreProductId": "10034",
     "GooglePlayProductId": "10034",
     "Name": "キャストクラス昇格記念パック",
@@ -16634,7 +17299,7 @@
   },
   {
     "Id": 10035,
-    "Order": 36,
+    "Order": 3002,
     "AppStoreProductId": "10035",
     "GooglePlayProductId": "10035",
     "Name": "エリートクラス昇格記念パック",
@@ -16680,7 +17345,7 @@
   },
   {
     "Id": 10036,
-    "Order": 37,
+    "Order": 3003,
     "AppStoreProductId": "10036",
     "GooglePlayProductId": "10036",
     "Name": "ベテランクラス昇格記念パック",
@@ -16726,7 +17391,7 @@
   },
   {
     "Id": 10037,
-    "Order": 38,
+    "Order": 3004,
     "AppStoreProductId": "10037",
     "GooglePlayProductId": "10037",
     "Name": "スタークラス昇格記念パック",
@@ -16779,7 +17444,7 @@
   },
   {
     "Id": 10038,
-    "Order": 39,
+    "Order": 3005,
     "AppStoreProductId": "10038",
     "GooglePlayProductId": "10038",
     "Name": "ダイスタークラス昇格記念パック",
@@ -16825,7 +17490,7 @@
   },
   {
     "Id": 10039,
-    "Order": 40,
+    "Order": 4000,
     "AppStoreProductId": "10039",
     "GooglePlayProductId": "10039",
     "Name": "初FULLCOMBO達成記念パック【NORMAL】",
@@ -16871,7 +17536,7 @@
   },
   {
     "Id": 10040,
-    "Order": 41,
+    "Order": 4001,
     "AppStoreProductId": "10040",
     "GooglePlayProductId": "10040",
     "Name": "初FULLCOMBO達成記念パック【HARD】",
@@ -16917,7 +17582,7 @@
   },
   {
     "Id": 10041,
-    "Order": 42,
+    "Order": 4002,
     "AppStoreProductId": "10041",
     "GooglePlayProductId": "10041",
     "Name": "初FULLCOMBO達成記念パック【EXTRA】",
@@ -16963,7 +17628,7 @@
   },
   {
     "Id": 10042,
-    "Order": 43,
+    "Order": 4003,
     "AppStoreProductId": "10042",
     "GooglePlayProductId": "10042",
     "Name": "初FULLCOMBO達成記念パック【STELLA】",
@@ -17009,7 +17674,7 @@
   },
   {
     "Id": 10043,
-    "Order": 44,
+    "Order": 4004,
     "AppStoreProductId": "10043",
     "GooglePlayProductId": "10043",
     "Name": "初ALLPERFECT達成記念パック【NORMAL】",
@@ -17055,7 +17720,7 @@
   },
   {
     "Id": 10044,
-    "Order": 45,
+    "Order": 4005,
     "AppStoreProductId": "10044",
     "GooglePlayProductId": "10044",
     "Name": "初ALLPERFECT達成記念パック【HARD】",
@@ -17101,7 +17766,7 @@
   },
   {
     "Id": 10045,
-    "Order": 46,
+    "Order": 4006,
     "AppStoreProductId": "10045",
     "GooglePlayProductId": "10045",
     "Name": "初ALLPERFECT達成記念パック【EXTRA】",
@@ -17147,7 +17812,7 @@
   },
   {
     "Id": 10046,
-    "Order": 47,
+    "Order": 4007,
     "AppStoreProductId": "10046",
     "GooglePlayProductId": "10046",
     "Name": "初ALLPERFECT達成記念パック【STELLA】",
@@ -17193,7 +17858,7 @@
   },
   {
     "Id": 10047,
-    "Order": 48,
+    "Order": 5000,
     "AppStoreProductId": "10047",
     "GooglePlayProductId": "10047",
     "Name": "FULLCOMBO達成数10曲到達記念パック",
@@ -17239,7 +17904,7 @@
   },
   {
     "Id": 10048,
-    "Order": 49,
+    "Order": 5001,
     "AppStoreProductId": "10048",
     "GooglePlayProductId": "10048",
     "Name": "FULLCOMBO達成数20曲到達記念パック",
@@ -17285,7 +17950,7 @@
   },
   {
     "Id": 10049,
-    "Order": 50,
+    "Order": 5002,
     "AppStoreProductId": "10049",
     "GooglePlayProductId": "10049",
     "Name": "FULLCOMBO達成数30曲到達記念パック",
@@ -17331,7 +17996,7 @@
   },
   {
     "Id": 10050,
-    "Order": 51,
+    "Order": 5003,
     "AppStoreProductId": "10050",
     "GooglePlayProductId": "10050",
     "Name": "FULLCOMBO達成数40曲到達記念パック",
@@ -17377,7 +18042,7 @@
   },
   {
     "Id": 10051,
-    "Order": 52,
+    "Order": 5004,
     "AppStoreProductId": "10051",
     "GooglePlayProductId": "10051",
     "Name": "FULLCOMBO達成数50曲到達記念パック",
@@ -17423,7 +18088,7 @@
   },
   {
     "Id": 10052,
-    "Order": 53,
+    "Order": 5005,
     "AppStoreProductId": "10052",
     "GooglePlayProductId": "10052",
     "Name": "FULLCOMBO達成数70曲到達記念パック",
@@ -17469,7 +18134,7 @@
   },
   {
     "Id": 10053,
-    "Order": 54,
+    "Order": 5006,
     "AppStoreProductId": "10053",
     "GooglePlayProductId": "10053",
     "Name": "FULLCOMBO達成数90曲到達記念パック",
@@ -17515,7 +18180,7 @@
   },
   {
     "Id": 10054,
-    "Order": 55,
+    "Order": 5007,
     "AppStoreProductId": "10054",
     "GooglePlayProductId": "10054",
     "Name": "FULLCOMBO達成数110曲到達記念パック",
@@ -17561,7 +18226,7 @@
   },
   {
     "Id": 10055,
-    "Order": 56,
+    "Order": 5008,
     "AppStoreProductId": "10055",
     "GooglePlayProductId": "10055",
     "Name": "FULLCOMBO達成数130曲到達記念パック",
@@ -17607,7 +18272,7 @@
   },
   {
     "Id": 10056,
-    "Order": 57,
+    "Order": 6000,
     "AppStoreProductId": "10056",
     "GooglePlayProductId": "10056",
     "Name": "ALLPERFECT達成数10曲到達記念パック",
@@ -17653,7 +18318,7 @@
   },
   {
     "Id": 10057,
-    "Order": 58,
+    "Order": 6001,
     "AppStoreProductId": "10057",
     "GooglePlayProductId": "10057",
     "Name": "ALLPERFECT達成数20曲到達記念パック",
@@ -17699,7 +18364,7 @@
   },
   {
     "Id": 10058,
-    "Order": 59,
+    "Order": 6002,
     "AppStoreProductId": "10058",
     "GooglePlayProductId": "10058",
     "Name": "ALLPERFECT達成数30曲到達記念パック",
@@ -17745,7 +18410,7 @@
   },
   {
     "Id": 10059,
-    "Order": 60,
+    "Order": 6003,
     "AppStoreProductId": "10059",
     "GooglePlayProductId": "10059",
     "Name": "ALLPERFECT達成数40曲到達記念パック",
@@ -17791,7 +18456,7 @@
   },
   {
     "Id": 10060,
-    "Order": 61,
+    "Order": 6004,
     "AppStoreProductId": "10060",
     "GooglePlayProductId": "10060",
     "Name": "ALLPERFECT達成数50曲到達記念パック",
@@ -17837,7 +18502,7 @@
   },
   {
     "Id": 10061,
-    "Order": 62,
+    "Order": 6005,
     "AppStoreProductId": "10061",
     "GooglePlayProductId": "10061",
     "Name": "ALLPERFECT達成数70曲到達記念パック",
@@ -17883,7 +18548,7 @@
   },
   {
     "Id": 10062,
-    "Order": 63,
+    "Order": 6006,
     "AppStoreProductId": "10062",
     "GooglePlayProductId": "10062",
     "Name": "ALLPERFECT達成数90曲到達記念パック",
@@ -17929,7 +18594,7 @@
   },
   {
     "Id": 10063,
-    "Order": 64,
+    "Order": 6007,
     "AppStoreProductId": "10063",
     "GooglePlayProductId": "10063",
     "Name": "ALLPERFECT達成数110曲到達記念パック",
@@ -17975,7 +18640,7 @@
   },
   {
     "Id": 10064,
-    "Order": 65,
+    "Order": 6008,
     "AppStoreProductId": "10064",
     "GooglePlayProductId": "10064",
     "Name": "ALLPERFECT達成数130曲到達記念パック",
@@ -18021,7 +18686,7 @@
   },
   {
     "Id": 10065,
-    "Order": 66,
+    "Order": 7000,
     "AppStoreProductId": "10065",
     "GooglePlayProductId": "10065",
     "Name": "初FULLCOMBO達成記念パック【OLIVIER.I】",
@@ -18067,7 +18732,7 @@
   },
   {
     "Id": 10066,
-    "Order": 67,
+    "Order": 7001,
     "AppStoreProductId": "10066",
     "GooglePlayProductId": "10066",
     "Name": "初FULLCOMBO達成記念パック【OLIVIER.II】",
@@ -18113,7 +18778,7 @@
   },
   {
     "Id": 10067,
-    "Order": 68,
+    "Order": 7002,
     "AppStoreProductId": "10067",
     "GooglePlayProductId": "10067",
     "Name": "初FULLCOMBO達成記念パック【OLIVIER.III】",
@@ -18159,7 +18824,7 @@
   },
   {
     "Id": 10068,
-    "Order": 69,
+    "Order": 7003,
     "AppStoreProductId": "10068",
     "GooglePlayProductId": "10068",
     "Name": "初FULLCOMBO達成記念パック【OLIVIER.IV】",
@@ -18205,7 +18870,7 @@
   },
   {
     "Id": 10069,
-    "Order": 70,
+    "Order": 7004,
     "AppStoreProductId": "10069",
     "GooglePlayProductId": "10069",
     "Name": "初FULLCOMBO達成記念パック【OLIVIER.V】",
@@ -18251,7 +18916,7 @@
   },
   {
     "Id": 10070,
-    "Order": 71,
+    "Order": 7005,
     "AppStoreProductId": "10070",
     "GooglePlayProductId": "10070",
     "Name": "初FULLCOMBO達成記念パック【OLIVIER.VI】",
@@ -18297,7 +18962,7 @@
   },
   {
     "Id": 10071,
-    "Order": 72,
+    "Order": 7006,
     "AppStoreProductId": "10071",
     "GooglePlayProductId": "10071",
     "Name": "初FULLCOMBO達成記念パック【OLIVIER.VII】",
@@ -18343,7 +19008,7 @@
   },
   {
     "Id": 10072,
-    "Order": 73,
+    "Order": 7007,
     "AppStoreProductId": "10072",
     "GooglePlayProductId": "10072",
     "Name": "初FULLCOMBO達成記念パック【OLIVIER.VIII】",
@@ -18389,7 +19054,7 @@
   },
   {
     "Id": 10073,
-    "Order": 74,
+    "Order": 7008,
     "AppStoreProductId": "10073",
     "GooglePlayProductId": "10073",
     "Name": "初FULLCOMBO達成記念パック【OLIVIER.IX】",
@@ -18435,7 +19100,7 @@
   },
   {
     "Id": 10074,
-    "Order": 75,
+    "Order": 7009,
     "AppStoreProductId": "10074",
     "GooglePlayProductId": "10074",
     "Name": "初FULLCOMBO達成記念パック【OLIVIER.X】",
@@ -18481,7 +19146,7 @@
   },
   {
     "Id": 10075,
-    "Order": 76,
+    "Order": 7010,
     "AppStoreProductId": "10075",
     "GooglePlayProductId": "10075",
     "Name": "初ALLPERFECT達成記念パック【OLIVIER.I】",
@@ -18527,7 +19192,7 @@
   },
   {
     "Id": 10076,
-    "Order": 77,
+    "Order": 7011,
     "AppStoreProductId": "10076",
     "GooglePlayProductId": "10076",
     "Name": "初ALLPERFECT達成記念パック【OLIVIER.II】",
@@ -18573,7 +19238,7 @@
   },
   {
     "Id": 10077,
-    "Order": 78,
+    "Order": 7012,
     "AppStoreProductId": "10077",
     "GooglePlayProductId": "10077",
     "Name": "初ALLPERFECT達成記念パック【OLIVIER.III】",
@@ -18619,7 +19284,7 @@
   },
   {
     "Id": 10078,
-    "Order": 79,
+    "Order": 7013,
     "AppStoreProductId": "10078",
     "GooglePlayProductId": "10078",
     "Name": "初ALLPERFECT達成記念パック【OLIVIER.IV】",
@@ -18665,7 +19330,7 @@
   },
   {
     "Id": 10079,
-    "Order": 80,
+    "Order": 7014,
     "AppStoreProductId": "10079",
     "GooglePlayProductId": "10079",
     "Name": "初ALLPERFECT達成記念パック【OLIVIER.V】",
@@ -18711,7 +19376,7 @@
   },
   {
     "Id": 10080,
-    "Order": 81,
+    "Order": 7015,
     "AppStoreProductId": "10080",
     "GooglePlayProductId": "10080",
     "Name": "初ALLPERFECT達成記念パック【OLIVIER.VI】",
@@ -18757,7 +19422,7 @@
   },
   {
     "Id": 10081,
-    "Order": 82,
+    "Order": 7016,
     "AppStoreProductId": "10081",
     "GooglePlayProductId": "10081",
     "Name": "初ALLPERFECT達成記念パック【OLIVIER.VII】",
@@ -18803,7 +19468,7 @@
   },
   {
     "Id": 10082,
-    "Order": 83,
+    "Order": 7017,
     "AppStoreProductId": "10082",
     "GooglePlayProductId": "10082",
     "Name": "初ALLPERFECT達成記念パック【OLIVIER.VIII】",
@@ -18849,7 +19514,7 @@
   },
   {
     "Id": 10083,
-    "Order": 84,
+    "Order": 7018,
     "AppStoreProductId": "10083",
     "GooglePlayProductId": "10083",
     "Name": "初ALLPERFECT達成記念パック【OLIVIER.IX】",
@@ -18895,7 +19560,7 @@
   },
   {
     "Id": 10084,
-    "Order": 85,
+    "Order": 7019,
     "AppStoreProductId": "10084",
     "GooglePlayProductId": "10084",
     "Name": "初ALLPERFECT達成記念パック【OLIVIER.X】",
@@ -18941,7 +19606,7 @@
   },
   {
     "Id": 10085,
-    "Order": 86,
+    "Order": 8000,
     "AppStoreProductId": "10085",
     "GooglePlayProductId": "10085",
     "Name": "スターランク5到達記念パック",
@@ -18994,7 +19659,7 @@
   },
   {
     "Id": 10086,
-    "Order": 87,
+    "Order": 8001,
     "AppStoreProductId": "10086",
     "GooglePlayProductId": "10086",
     "Name": "スターランク10到達記念パック",
@@ -19047,7 +19712,7 @@
   },
   {
     "Id": 10087,
-    "Order": 88,
+    "Order": 8002,
     "AppStoreProductId": "10087",
     "GooglePlayProductId": "10087",
     "Name": "スターランク15到達記念パック",
@@ -19100,7 +19765,7 @@
   },
   {
     "Id": 10088,
-    "Order": 89,
+    "Order": 8003,
     "AppStoreProductId": "10088",
     "GooglePlayProductId": "10088",
     "Name": "スターランク20到達記念パック",
@@ -19153,7 +19818,7 @@
   },
   {
     "Id": 10089,
-    "Order": 90,
+    "Order": 8004,
     "AppStoreProductId": "10089",
     "GooglePlayProductId": "10089",
     "Name": "スターランク25到達記念パック",
@@ -19206,7 +19871,7 @@
   },
   {
     "Id": 10090,
-    "Order": 91,
+    "Order": 8005,
     "AppStoreProductId": "10090",
     "GooglePlayProductId": "10090",
     "Name": "スターランク30到達記念パック",
@@ -19259,7 +19924,7 @@
   },
   {
     "Id": 10091,
-    "Order": 92,
+    "Order": 8006,
     "AppStoreProductId": "10091",
     "GooglePlayProductId": "10091",
     "Name": "スターランク35到達記念パック",
@@ -19312,7 +19977,7 @@
   },
   {
     "Id": 10092,
-    "Order": 93,
+    "Order": 8007,
     "AppStoreProductId": "10092",
     "GooglePlayProductId": "10092",
     "Name": "スターランク40到達記念パック",
@@ -19365,7 +20030,7 @@
   },
   {
     "Id": 10093,
-    "Order": 94,
+    "Order": 8008,
     "AppStoreProductId": "10093",
     "GooglePlayProductId": "10093",
     "Name": "スターランク45到達記念パック",
@@ -19418,7 +20083,7 @@
   },
   {
     "Id": 10094,
-    "Order": 95,
+    "Order": 8009,
     "AppStoreProductId": "10094",
     "GooglePlayProductId": "10094",
     "Name": "スターランク50到達記念パック",
@@ -19471,7 +20136,7 @@
   },
   {
     "Id": 10095,
-    "Order": 96,
+    "Order": 8010,
     "AppStoreProductId": "10095",
     "GooglePlayProductId": "10095",
     "Name": "スターランク55到達記念パック",
@@ -19524,7 +20189,7 @@
   },
   {
     "Id": 10096,
-    "Order": 97,
+    "Order": 8011,
     "AppStoreProductId": "10096",
     "GooglePlayProductId": "10096",
     "Name": "スターランク60到達記念パック",
@@ -19577,7 +20242,7 @@
   },
   {
     "Id": 10097,
-    "Order": 98,
+    "Order": 8012,
     "AppStoreProductId": "10097",
     "GooglePlayProductId": "10097",
     "Name": "スターランク65到達記念パック",
@@ -19630,7 +20295,7 @@
   },
   {
     "Id": 10098,
-    "Order": 99,
+    "Order": 8013,
     "AppStoreProductId": "10098",
     "GooglePlayProductId": "10098",
     "Name": "スターランク70到達記念パック",
@@ -19683,7 +20348,7 @@
   },
   {
     "Id": 10099,
-    "Order": 100,
+    "Order": 8014,
     "AppStoreProductId": "10099",
     "GooglePlayProductId": "10099",
     "Name": "スターランク75到達記念パック",
@@ -19736,7 +20401,7 @@
   },
   {
     "Id": 10100,
-    "Order": 101,
+    "Order": 8015,
     "AppStoreProductId": "10100",
     "GooglePlayProductId": "10100",
     "Name": "スターランク80到達記念パック",
@@ -19789,7 +20454,7 @@
   },
   {
     "Id": 10101,
-    "Order": 102,
+    "Order": 9000,
     "AppStoreProductId": "10101",
     "GooglePlayProductId": "10101",
     "Name": "「bet or fold？」 ストーリー全話読了記念パック",
@@ -19824,6 +20489,52 @@
       {
         "Id": 1010102,
         "MJewelShopItemId": 10101,
+        "ThingId": 110003,
+        "ThingType": "Item",
+        "ThingQuantity": 10
+      }
+    ],
+    "ShopItemType": "None",
+    "ShopItemValue": null,
+    "ComebackCampaignMasterId": null
+  },
+  {
+    "Id": 10102,
+    "Order": 9001,
+    "AppStoreProductId": "10102",
+    "GooglePlayProductId": "10102",
+    "Name": "「反逆、すべては目指す舞台のために」 ストーリー全話読了記念パック",
+    "PackText": "",
+    "MJewelShopCategoryId": 7,
+    "DialogType": 1,
+    "PurchaseType": "Money",
+    "PurchaseValue": 500,
+    "SubscriptionFlag": false,
+    "GivePaidJewel": 500,
+    "ReplaceTypes": "None",
+    "ReplaceValue": null,
+    "PurchaseLimit": 1,
+    "ExpiredDay": null,
+    "CanPurchaseDayOfWeek": "",
+    "IsBuyNotDisplay": true,
+    "SaleType": null,
+    "SaleValue": null,
+    "IsDisplayLocking": false,
+    "UnlockType": "1,ReadStory,PlayerRank",
+    "UnlockValue": 51002001,
+    "StartDate": "2024-06-10T17:00:00.000Z",
+    "EndDate": null,
+    "Lineup": [
+      {
+        "Id": 1010201,
+        "MJewelShopItemId": 10102,
+        "ThingId": 0,
+        "ThingType": "Jewel",
+        "ThingQuantity": 1250
+      },
+      {
+        "Id": 1010202,
+        "MJewelShopItemId": 10102,
         "ThingId": 110003,
         "ThingType": "Item",
         "ThingQuantity": 10
