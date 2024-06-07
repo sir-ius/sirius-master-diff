@@ -3150,6 +3150,20 @@
     "EndDate": "2024-06-25T17:00:00.000Z"
   },
   {
+    "Id": 5146,
+    "Order": 5146,
+    "Name": "練習台本どっさりパック",
+    "JumpType": "JewelShop",
+    "JumpPageId": "5",
+    "WebLinkType": null,
+    "LinkUrl": null,
+    "DeleteConditionType": "BuyItem",
+    "DeleteConditionValue": "5146",
+    "ImagePath": "Home/5146",
+    "StartDate": "2024-06-15T17:00:00.000Z",
+    "EndDate": "2024-06-25T17:00:00.000Z"
+  },
+  {
     "Id": 5405,
     "Order": 1,
     "Name": "72時間限定パック",
